@@ -1,5 +1,5 @@
 {
-  "built_at_utc": "2026-04-09T04:07:23.479784+00:00",
+  "built_at_utc": "2026-04-09T04:27:31.672377+00:00",
   "parsed_endnotes": 270,
   "matched_endnotes": 148,
   "seed_papers": 21,
@@ -8,7 +8,11 @@
   "graph_nodes": 339,
   "graph_edges": 1261,
   "openalex_papers_total": 295,
-  "openalex_matches": 280,
-  "openalex_abstracts_filled": 197,
-  "papers_missing_abstract": 98
+  "openalex_matches": 287,
+  "openalex_abstracts_filled": 204,
+  "openalex_title_lookups": 7,
+  "openalex_resolved_by_title": 7,
+  "crossref_abstracts_filled": 0,
+  "arxiv_abstracts_filled": 0,
+  "papers_missing_abstract": 91
 }

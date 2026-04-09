@@ -5,10 +5,14 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from difflib import SequenceMatcher
+from html import unescape
+import xml.etree.ElementTree as ET
 from collections import defaultdict
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -28,6 +32,20 @@ OPENALEX_SELECT_FIELDS = (
     "publication_year,type,cited_by_count,primary_location,referenced_works"
 )
 OPENALEX_CACHE_PATH = CORPUS_DIR / "cache" / "openalex_works_cache.json"
+CROSSREF_BASE = "https://api.crossref.org"
+CROSSREF_TIMEOUT_SEC = 30.0
+CROSSREF_SLEEP_SEC = 0.12
+CROSSREF_MAX_RETRIES = 4
+CROSSREF_CACHE_PATH = CORPUS_DIR / "cache" / "crossref_abstract_cache.json"
+ARXIV_BASE = "https://export.arxiv.org/api/query"
+ARXIV_TIMEOUT_SEC = 25.0
+ARXIV_SLEEP_SEC = 0.12
+ARXIV_MAX_RETRIES = 4
+ARXIV_CACHE_PATH = CORPUS_DIR / "cache" / "arxiv_abstract_cache.json"
+URL_FETCH_TIMEOUT_SEC = 30.0
+URL_FETCH_SLEEP_SEC = 0.08
+URL_FETCH_MAX_RETRIES = 4
+URL_ABSTRACT_CACHE_PATH = CORPUS_DIR / "cache" / "url_abstract_cache.json"
 
 
 def load_json(path: Path):
@@ -186,6 +204,65 @@ def api_get_json(path: str, params: Dict[str, str]) -> Dict:
     raise RuntimeError(f"OpenAlex request failed after retries: {last_error}")
 
 
+def normalize_title(value: str) -> str:
+    text = (value or "").strip().lower()
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    return " ".join(text.split())
+
+
+def score_openalex_candidate(paper: Dict, candidate: Dict) -> float:
+    paper_title = normalize_title(paper.get("title", ""))
+    cand_title = normalize_title(candidate.get("display_name", ""))
+    if not paper_title or not cand_title:
+        return 0.0
+
+    score = SequenceMatcher(None, paper_title, cand_title).ratio()
+
+    paper_year = paper.get("year")
+    try:
+        paper_year = int(paper_year) if paper_year is not None else None
+    except Exception:
+        paper_year = None
+    cand_year = candidate.get("publication_year")
+    if paper_year is not None and cand_year == paper_year:
+        score += 0.10
+
+    paper_doi = normalize_doi(paper.get("doi", ""))
+    cand_doi = normalize_doi(candidate.get("doi", ""))
+    if paper_doi and cand_doi and paper_doi == cand_doi:
+        score += 0.25
+
+    return score
+
+
+def resolve_openalex_work_id_by_title(paper: Dict) -> str:
+    title = (paper.get("title") or "").strip()
+    if not title:
+        return ""
+    try:
+        data = api_get_json(
+            "/works",
+            {"search": title, "per-page": "8", "select": "id,display_name,publication_year,doi"},
+        )
+    except Exception:
+        return ""
+    candidates = data.get("results", []) or []
+    if not candidates:
+        return ""
+
+    best = None
+    best_score = 0.0
+    for candidate in candidates:
+        score = score_openalex_candidate(paper, candidate)
+        if score > best_score:
+            best = candidate
+            best_score = score
+
+    if best is None or best_score < 0.72:
+        return ""
+    return to_work_id(best.get("id", ""))
+
+
 def decode_abstract(index: Dict) -> str:
     if not isinstance(index, dict) or not index:
         return ""
@@ -273,6 +350,409 @@ def save_openalex_cache(path: Path, rows: Dict[str, Dict]) -> None:
     write_json(path, payload)
 
 
+def strip_tags(value: str) -> str:
+    text = unescape(value or "")
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def load_crossref_cache(path: Path) -> Dict[str, str]:
+    if not path.exists():
+        return {}
+    try:
+        payload = load_json(path)
+    except Exception:
+        return {}
+    if isinstance(payload, dict) and isinstance(payload.get("abstracts"), dict):
+        return payload["abstracts"]
+    if isinstance(payload, dict):
+        return {k: v for k, v in payload.items() if isinstance(v, str)}
+    return {}
+
+
+def save_crossref_cache(path: Path, rows: Dict[str, str]) -> None:
+    payload = {
+        "updated_at_utc": datetime.now(timezone.utc).isoformat(),
+        "abstracts": rows,
+        "count": len(rows),
+    }
+    write_json(path, payload)
+
+
+def crossref_get_abstract(doi: str) -> str:
+    norm_doi = normalize_doi(doi)
+    if not norm_doi:
+        return ""
+    quoted_doi = urllib.parse.quote(norm_doi, safe="")
+    url = f"{CROSSREF_BASE}/works/{quoted_doi}"
+    mailto = (os.getenv("OPENALEX_MAILTO") or "").strip()
+    if mailto:
+        url = f"{url}?mailto={urllib.parse.quote(mailto, safe='')}"
+
+    req = urllib.request.Request(url, headers={"User-Agent": "learning-engineering-resources/1.0"})
+    last_error = None
+    for attempt in range(CROSSREF_MAX_RETRIES + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=CROSSREF_TIMEOUT_SEC) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            message = data.get("message") or {}
+            abstract = strip_tags(message.get("abstract", ""))
+            if CROSSREF_SLEEP_SEC > 0:
+                time.sleep(CROSSREF_SLEEP_SEC)
+            return abstract
+        except urllib.error.HTTPError as exc:
+            last_error = exc
+            retriable = exc.code in {429, 500, 502, 503, 504}
+            if exc.code in {404, 400}:
+                return ""
+            if not retriable or attempt >= CROSSREF_MAX_RETRIES:
+                return ""
+            retry_after = 0.0
+            if exc.headers:
+                raw = exc.headers.get("Retry-After", "").strip()
+                if raw:
+                    try:
+                        retry_after = float(raw)
+                    except ValueError:
+                        retry_after = 0.0
+            wait_sec = retry_after if retry_after > 0 else min(2**attempt, 30)
+            time.sleep(wait_sec)
+        except urllib.error.URLError as exc:
+            last_error = exc
+            if attempt >= CROSSREF_MAX_RETRIES:
+                return ""
+            time.sleep(min(2**attempt, 20))
+
+    if last_error:
+        return ""
+    return ""
+
+
+def enrich_missing_abstracts_from_crossref(seed_papers: List[Dict], hop_papers: List[Dict]) -> Dict:
+    papers = seed_papers + hop_papers
+    missing = [p for p in papers if not (p.get("abstract") or "").strip()]
+    doi_set = sorted({normalize_doi(p.get("doi", "")) for p in missing if normalize_doi(p.get("doi", ""))})
+
+    cache = load_crossref_cache(CROSSREF_CACHE_PATH)
+    fetched = 0
+    for doi in doi_set:
+        if doi in cache:
+            continue
+        abstract = crossref_get_abstract(doi)
+        cache[doi] = abstract
+        fetched += 1
+    if fetched:
+        save_crossref_cache(CROSSREF_CACHE_PATH, cache)
+
+    filled = 0
+    for paper in missing:
+        doi = normalize_doi(paper.get("doi", ""))
+        if not doi:
+            continue
+        abstract = (cache.get(doi) or "").strip()
+        if abstract and not (paper.get("abstract") or "").strip():
+            paper["abstract"] = abstract
+            filled += 1
+
+    remaining_missing = sum(1 for p in papers if not (p.get("abstract") or "").strip())
+    return {
+        "crossref_doi_candidates": len(doi_set),
+        "crossref_doi_fetched": fetched,
+        "crossref_abstracts_filled": filled,
+        "papers_missing_abstract_after_crossref": remaining_missing,
+    }
+
+
+def load_arxiv_cache(path: Path) -> Dict[str, str]:
+    if not path.exists():
+        return {}
+    try:
+        payload = load_json(path)
+    except Exception:
+        return {}
+    if isinstance(payload, dict) and isinstance(payload.get("abstracts"), dict):
+        return payload["abstracts"]
+    if isinstance(payload, dict):
+        return {k: v for k, v in payload.items() if isinstance(v, str)}
+    return {}
+
+
+def save_arxiv_cache(path: Path, rows: Dict[str, str]) -> None:
+    payload = {
+        "updated_at_utc": datetime.now(timezone.utc).isoformat(),
+        "abstracts": rows,
+        "count": len(rows),
+    }
+    write_json(path, payload)
+
+
+def extract_arxiv_id(paper: Dict) -> str:
+    candidates = [
+        normalize_doi(paper.get("doi", "")),
+        (paper.get("id") or "").strip(),
+        (paper.get("openalex_id") or "").strip(),
+    ]
+    for value in candidates:
+        text = (value or "").strip()
+        if not text:
+            continue
+        text = text.replace("arxiv:", "").replace("ArXiv:", "").strip()
+        match = re.search(r"\b(\d{4}\.\d{4,5}(?:v\d+)?)\b", text)
+        if match:
+            return match.group(1)
+    return ""
+
+
+def arxiv_get_abstract(arxiv_id: str) -> str:
+    if not arxiv_id:
+        return ""
+    params = {"search_query": f"id:{arxiv_id}", "start": "0", "max_results": "1"}
+    url = f"{ARXIV_BASE}?{urllib.parse.urlencode(params)}"
+    req = urllib.request.Request(url, headers={"User-Agent": "learning-engineering-resources/1.0"})
+    for attempt in range(ARXIV_MAX_RETRIES + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=ARXIV_TIMEOUT_SEC) as resp:
+                xml_text = resp.read().decode("utf-8", errors="ignore")
+            root = ET.fromstring(xml_text)
+            ns = {"atom": "http://www.w3.org/2005/Atom"}
+            entry = root.find("atom:entry", ns)
+            if entry is None:
+                return ""
+            summary = (entry.findtext("atom:summary", default="", namespaces=ns) or "").strip()
+            summary = re.sub(r"\s+", " ", summary)
+            if ARXIV_SLEEP_SEC > 0:
+                time.sleep(ARXIV_SLEEP_SEC)
+            return summary
+        except Exception:
+            if attempt >= ARXIV_MAX_RETRIES:
+                return ""
+            time.sleep(min(2**attempt, 20))
+    return ""
+
+
+def enrich_missing_abstracts_from_arxiv(seed_papers: List[Dict], hop_papers: List[Dict]) -> Dict:
+    papers = seed_papers + hop_papers
+    missing = [p for p in papers if not (p.get("abstract") or "").strip()]
+    arxiv_ids = sorted({extract_arxiv_id(p) for p in missing if extract_arxiv_id(p)})
+
+    cache = load_arxiv_cache(ARXIV_CACHE_PATH)
+    fetched = 0
+    for arxiv_id in arxiv_ids:
+        if arxiv_id in cache:
+            continue
+        cache[arxiv_id] = arxiv_get_abstract(arxiv_id)
+        fetched += 1
+    if fetched:
+        save_arxiv_cache(ARXIV_CACHE_PATH, cache)
+
+    filled = 0
+    for paper in missing:
+        arxiv_id = extract_arxiv_id(paper)
+        if not arxiv_id:
+            continue
+        abstract = (cache.get(arxiv_id) or "").strip()
+        if abstract and not (paper.get("abstract") or "").strip():
+            paper["abstract"] = abstract
+            filled += 1
+
+    remaining_missing = sum(1 for p in papers if not (p.get("abstract") or "").strip())
+    return {
+        "arxiv_candidates": len(arxiv_ids),
+        "arxiv_fetched": fetched,
+        "arxiv_abstracts_filled": filled,
+        "papers_missing_abstract_after_arxiv": remaining_missing,
+    }
+
+
+def load_url_abstract_cache(path: Path) -> Dict[str, str]:
+    if not path.exists():
+        return {}
+    try:
+        payload = load_json(path)
+    except Exception:
+        return {}
+    if isinstance(payload, dict) and isinstance(payload.get("abstracts"), dict):
+        return payload["abstracts"]
+    if isinstance(payload, dict):
+        return {k: v for k, v in payload.items() if isinstance(v, str)}
+    return {}
+
+
+def save_url_abstract_cache(path: Path, rows: Dict[str, str]) -> None:
+    payload = {
+        "updated_at_utc": datetime.now(timezone.utc).isoformat(),
+        "abstracts": rows,
+        "count": len(rows),
+    }
+    write_json(path, payload)
+
+
+def looks_abstract_like(text: str) -> bool:
+    if not text:
+        return False
+    t = " ".join(text.split())
+    if len(t) < 80 or len(t) > 7000:
+        return False
+    low = t.lower()
+    bad_snippets = [
+        "cookie",
+        "all rights reserved",
+        "log in",
+        "sign in",
+        "javascript is disabled",
+        "no abstract available",
+    ]
+    if any(s in low for s in bad_snippets):
+        return False
+    return True
+
+
+def fetch_url_html(url: str) -> str:
+    if not url:
+        return ""
+    req = urllib.request.Request(url, headers={"User-Agent": "learning-engineering-resources/1.0"})
+    for attempt in range(URL_FETCH_MAX_RETRIES + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=URL_FETCH_TIMEOUT_SEC) as resp:
+                content_type = (resp.headers.get("Content-Type") or "").lower()
+                if "html" not in content_type and "xml" not in content_type:
+                    return ""
+                body = resp.read().decode("utf-8", errors="ignore")
+            if URL_FETCH_SLEEP_SEC > 0:
+                time.sleep(URL_FETCH_SLEEP_SEC)
+            return body
+        except urllib.error.HTTPError as exc:
+            if exc.code in {403, 404, 410}:
+                return ""
+            if attempt >= URL_FETCH_MAX_RETRIES:
+                return ""
+            time.sleep(min(2**attempt, 20))
+        except urllib.error.URLError:
+            if attempt >= URL_FETCH_MAX_RETRIES:
+                return ""
+            time.sleep(min(2**attempt, 20))
+    return ""
+
+
+def parse_jsonld_abstract(html: str) -> str:
+    scripts = re.findall(
+        r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+        html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    for script in scripts:
+        text = script.strip()
+        if not text:
+            continue
+        try:
+            payload = json.loads(text)
+        except Exception:
+            continue
+        queue = payload if isinstance(payload, list) else [payload]
+        while queue:
+            item = queue.pop(0)
+            if isinstance(item, dict):
+                if isinstance(item.get("abstract"), str):
+                    candidate = strip_tags(item.get("abstract", ""))
+                    if looks_abstract_like(candidate):
+                        return candidate
+                if isinstance(item.get("description"), str):
+                    candidate = strip_tags(item.get("description", ""))
+                    if looks_abstract_like(candidate):
+                        return candidate
+                for value in item.values():
+                    if isinstance(value, (dict, list)):
+                        queue.append(value)
+            elif isinstance(item, list):
+                queue.extend(item)
+    return ""
+
+
+def extract_abstract_from_html(html: str, url: str) -> str:
+    if not html:
+        return ""
+
+    meta_patterns = [
+        r'<meta[^>]+name=["\']citation_abstract["\'][^>]+content=["\'](.*?)["\']',
+        r'<meta[^>]+name=["\']dc\.description["\'][^>]+content=["\'](.*?)["\']',
+        r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\'](.*?)["\']',
+        r'<meta[^>]+name=["\']description["\'][^>]+content=["\'](.*?)["\']',
+    ]
+    for pattern in meta_patterns:
+        m = re.search(pattern, html, flags=re.IGNORECASE | re.DOTALL)
+        if not m:
+            continue
+        candidate = strip_tags(m.group(1))
+        if looks_abstract_like(candidate):
+            return candidate
+
+    jsonld = parse_jsonld_abstract(html)
+    if jsonld:
+        return jsonld
+
+    if "arxiv.org" in (url or ""):
+        m = re.search(r'<blockquote[^>]*class=["\'][^"\']*abstract[^"\']*["\'][^>]*>(.*?)</blockquote>', html, flags=re.IGNORECASE | re.DOTALL)
+        if m:
+            text = strip_tags(m.group(1)).replace("Abstract:", "").strip()
+            if looks_abstract_like(text):
+                return text
+
+    return ""
+
+
+def candidate_urls_for_paper(paper: Dict) -> List[str]:
+    urls = []
+    source_url = (paper.get("source_url") or "").strip()
+    doi = normalize_doi(paper.get("doi", ""))
+    openalex_id = (paper.get("openalex_id") or "").strip()
+    if source_url:
+        urls.append(source_url)
+    if doi:
+        doi_url = doi_to_url(doi)
+        if doi_url and doi_url not in urls:
+            urls.append(doi_url)
+    if openalex_id and openalex_id not in urls:
+        urls.append(openalex_id)
+    return urls
+
+
+def enrich_missing_abstracts_from_urls(seed_papers: List[Dict], hop_papers: List[Dict]) -> Dict:
+    papers = seed_papers + hop_papers
+    missing = [p for p in papers if not (p.get("abstract") or "").strip()]
+
+    cache = load_url_abstract_cache(URL_ABSTRACT_CACHE_PATH)
+    fetched = 0
+    filled = 0
+    urls_checked = 0
+
+    for paper in missing:
+        for url in candidate_urls_for_paper(paper):
+            if (paper.get("abstract") or "").strip():
+                break
+            urls_checked += 1
+            if url not in cache:
+                html = fetch_url_html(url)
+                cache[url] = extract_abstract_from_html(html, url) if html else ""
+                fetched += 1
+            candidate = (cache.get(url) or "").strip()
+            if candidate and not (paper.get("abstract") or "").strip():
+                paper["abstract"] = candidate
+                filled += 1
+                break
+
+    if fetched:
+        save_url_abstract_cache(URL_ABSTRACT_CACHE_PATH, cache)
+
+    remaining_missing = sum(1 for p in papers if not (p.get("abstract") or "").strip())
+    return {
+        "url_abstract_urls_checked": urls_checked,
+        "url_abstract_urls_fetched": fetched,
+        "url_abstracts_filled": filled,
+        "papers_missing_abstract_after_url_fallback": remaining_missing,
+    }
+
+
 def fetch_openalex_metadata(seed_papers: List[Dict], hop_papers: List[Dict]) -> Dict[str, Dict]:
     papers = seed_papers + hop_papers
     cache = load_openalex_cache(OPENALEX_CACHE_PATH)
@@ -334,34 +814,27 @@ def fetch_openalex_metadata(seed_papers: List[Dict], hop_papers: List[Dict]) -> 
 
 
 def enrich_papers_with_openalex(seed_papers: List[Dict], hop_papers: List[Dict]) -> Dict:
+    papers = seed_papers + hop_papers
     metadata_by_work_id = fetch_openalex_metadata(seed_papers, hop_papers)
     metadata_by_doi = {
         meta["doi"]: meta for meta in metadata_by_work_id.values() if isinstance(meta, dict) and meta.get("doi")
     }
 
-    total = 0
-    enriched = 0
-    abstracts_filled = 0
-
-    for paper in seed_papers + hop_papers:
-        total += 1
-        paper_doi = normalize_doi(paper.get("doi", ""))
-        work_id = to_work_id(paper.get("openalex_id", "")) or (
-            paper.get("id", "") if str(paper.get("id", "")).startswith("W") else ""
+    def refresh_metadata_by_doi() -> None:
+        metadata_by_doi.clear()
+        metadata_by_doi.update(
+            {meta["doi"]: meta for meta in metadata_by_work_id.values() if isinstance(meta, dict) and meta.get("doi")}
         )
 
-        meta = metadata_by_work_id.get(work_id) or metadata_by_doi.get(paper_doi)
-        if not meta:
-            continue
-        enriched += 1
-
+    def apply_meta(paper: Dict, meta: Dict) -> bool:
+        abstract_filled = False
         if not paper.get("openalex_id") and meta.get("openalex_id"):
             paper["openalex_id"] = meta["openalex_id"]
         if (not paper.get("title") or paper.get("title", "").strip().lower() == "untitled") and meta.get("title"):
             paper["title"] = meta["title"]
         if not paper.get("abstract") and meta.get("abstract"):
             paper["abstract"] = meta["abstract"]
-            abstracts_filled += 1
+            abstract_filled = True
         if not paper.get("authors") and meta.get("authors"):
             paper["authors"] = meta["authors"]
         if not paper.get("year") and meta.get("year"):
@@ -396,13 +869,75 @@ def enrich_papers_with_openalex(seed_papers: List[Dict], hop_papers: List[Dict])
             doi_text,
         )
         paper["source_url"] = doi_to_url(doi_text) or paper.get("openalex_id", "")
+        return abstract_filled
 
-    missing_abstracts = sum(1 for paper in (seed_papers + hop_papers) if not (paper.get("abstract") or "").strip())
+    total = len(papers)
+    enriched = 0
+    abstracts_filled = 0
+    unresolved: List[Dict] = []
+
+    for paper in papers:
+        paper_doi = normalize_doi(paper.get("doi", ""))
+        work_id = to_work_id(paper.get("openalex_id", "")) or (
+            paper.get("id", "") if str(paper.get("id", "")).startswith("W") else ""
+        )
+        meta = metadata_by_work_id.get(work_id) or metadata_by_doi.get(paper_doi)
+        if not meta:
+            unresolved.append(paper)
+            continue
+        enriched += 1
+        if apply_meta(paper, meta):
+            abstracts_filled += 1
+
+    resolved_by_title = 0
+    title_fetches = 0
+    cache_mutated = False
+
+    for paper in unresolved:
+        work_id = resolve_openalex_work_id_by_title(paper)
+        if not work_id:
+            continue
+        title_fetches += 1
+
+        meta = metadata_by_work_id.get(work_id)
+        if not meta:
+            try:
+                work = api_get_json(f"/works/{work_id}", {"select": OPENALEX_SELECT_FIELDS})
+                meta = work_to_metadata(work)
+            except Exception:
+                continue
+            if meta.get("work_id"):
+                metadata_by_work_id[meta["work_id"]] = meta
+                cache_mutated = True
+                refresh_metadata_by_doi()
+
+        if not meta:
+            continue
+
+        was_openalex_empty = not (paper.get("openalex_id") or "").strip()
+        if apply_meta(paper, meta):
+            abstracts_filled += 1
+        if was_openalex_empty and (paper.get("openalex_id") or "").strip():
+            resolved_by_title += 1
+            enriched += 1
+
+    if cache_mutated:
+        save_openalex_cache(OPENALEX_CACHE_PATH, metadata_by_work_id)
+
+    crossref_stats = enrich_missing_abstracts_from_crossref(seed_papers, hop_papers)
+    arxiv_stats = enrich_missing_abstracts_from_arxiv(seed_papers, hop_papers)
+    url_stats = enrich_missing_abstracts_from_urls(seed_papers, hop_papers)
+    missing_abstracts = sum(1 for paper in papers if not (paper.get("abstract") or "").strip())
     return {
         "papers_total": total,
         "papers_with_openalex_match": enriched,
         "abstracts_filled": abstracts_filled,
+        "openalex_title_lookups": title_fetches,
+        "openalex_resolved_by_title": resolved_by_title,
         "papers_missing_abstract": missing_abstracts,
+        **crossref_stats,
+        **arxiv_stats,
+        **url_stats,
     }
 
 
@@ -851,6 +1386,11 @@ def build_summary(
         "openalex_papers_total": openalex_enrichment.get("papers_total", 0),
         "openalex_matches": openalex_enrichment.get("papers_with_openalex_match", 0),
         "openalex_abstracts_filled": openalex_enrichment.get("abstracts_filled", 0),
+        "openalex_title_lookups": openalex_enrichment.get("openalex_title_lookups", 0),
+        "openalex_resolved_by_title": openalex_enrichment.get("openalex_resolved_by_title", 0),
+        "crossref_abstracts_filled": openalex_enrichment.get("crossref_abstracts_filled", 0),
+        "arxiv_abstracts_filled": openalex_enrichment.get("arxiv_abstracts_filled", 0),
+        "url_abstracts_filled": openalex_enrichment.get("url_abstracts_filled", 0),
         "papers_missing_abstract": openalex_enrichment.get("papers_missing_abstract", 0),
     }
 
@@ -875,6 +1415,27 @@ def build_extra_docs() -> Dict:
             },
         ],
     }
+
+
+def build_missing_abstracts(seed_papers: List[Dict], hop_papers: List[Dict]) -> Dict:
+    rows = []
+    for paper in seed_papers + hop_papers:
+        if (paper.get("abstract") or "").strip():
+            continue
+        rows.append(
+            {
+                "id": paper.get("id", ""),
+                "scope": paper.get("scope", ""),
+                "type": paper.get("type", ""),
+                "title": paper.get("title", ""),
+                "doi": normalize_doi(paper.get("doi", "")),
+                "openalex_id": paper.get("openalex_id", ""),
+                "source_url": paper.get("source_url", ""),
+                "topic_codes": paper.get("topic_codes", []),
+            }
+        )
+    rows.sort(key=lambda row: (row.get("scope", ""), row.get("id", "")))
+    return {"count": len(rows), "rows": rows}
 
 
 def main() -> None:
@@ -903,6 +1464,7 @@ def main() -> None:
         openalex_enrichment,
     )
     extra_docs_payload = build_extra_docs()
+    missing_abstracts_payload = build_missing_abstracts(seed_papers, hop_papers)
 
     write_json(DATA_DIR / "build_summary.json", summary_payload)
     write_json(DATA_DIR / "graph.json", graph_payload)
@@ -915,6 +1477,7 @@ def main() -> None:
     write_json(DATA_DIR / "gaps.json", gaps_payload)
     write_json(DATA_DIR / "extra_docs.json", extra_docs_payload)
     write_json(DATA_DIR / "topic_map.json", topic_payload)
+    write_json(DATA_DIR / "missing_abstracts.json", missing_abstracts_payload)
 
     print(json.dumps(summary_payload, indent=2))
 
