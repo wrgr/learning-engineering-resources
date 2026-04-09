@@ -25,7 +25,7 @@ OPENALEX_BATCH_SIZE = 20
 OPENALEX_MAX_RETRIES = 6
 OPENALEX_SELECT_FIELDS = (
     "id,doi,display_name,abstract_inverted_index,authorships,"
-    "publication_year,type,cited_by_count,primary_location,host_venue,referenced_works"
+    "publication_year,type,cited_by_count,primary_location,referenced_works"
 )
 OPENALEX_CACHE_PATH = CORPUS_DIR / "cache" / "openalex_works_cache.json"
 
@@ -147,6 +147,9 @@ def api_get_json(path: str, params: Dict[str, str]) -> Dict:
     mailto = (os.getenv("OPENALEX_MAILTO") or "").strip()
     if mailto and "mailto" not in q:
         q["mailto"] = mailto
+    api_key = (os.getenv("OPENALEX_API_KEY") or os.getenv("OPENALEX_KEY") or "").strip()
+    if api_key and "api_key" not in q:
+        q["api_key"] = api_key
 
     url = f"{OPENALEX_BASE}{path}?{urllib.parse.urlencode(q)}"
     req = urllib.request.Request(url, headers={"User-Agent": "learning-engineering-resources/1.0"})
@@ -289,24 +292,19 @@ def fetch_openalex_metadata(seed_papers: List[Dict], hop_papers: List[Dict]) -> 
 
     fetched = 0
 
-    for batch in chunked(sorted(work_ids_needed), OPENALEX_BATCH_SIZE):
+    for work_id in sorted(work_ids_needed):
         try:
-            data = api_get_json(
-                "/works",
-                {
-                    "filter": "openalex:" + "|".join(batch),
-                    "per-page": str(len(batch)),
-                    "select": OPENALEX_SELECT_FIELDS,
-                },
+            work = api_get_json(
+                f"/works/{work_id}",
+                {"select": OPENALEX_SELECT_FIELDS},
             )
         except Exception as exc:
-            print(f"[warn] OpenAlex batch fetch failed for {len(batch)} IDs: {exc}")
+            print(f"[warn] OpenAlex work fetch failed for {work_id}: {exc}")
             continue
-        for work in data.get("results", []):
-            meta = work_to_metadata(work)
-            if meta["work_id"]:
-                cache[meta["work_id"]] = meta
-                fetched += 1
+        meta = work_to_metadata(work)
+        if meta["work_id"]:
+            cache[meta["work_id"]] = meta
+            fetched += 1
 
     doi_to_work_id = {meta.get("doi"): wid for wid, meta in cache.items() if meta.get("doi")}
     for doi in sorted(dois_needed):
