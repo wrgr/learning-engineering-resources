@@ -1,0 +1,84 @@
+{
+  "generated_at_utc": "2026-04-09T02:14:03.617113+00:00",
+  "source_files": {
+    "workbook": "le_corpus_specification_v1.xlsx",
+    "methodology": "corpus_construction_methodology_generic.md",
+    "book_pdfs_used": [
+      "/Users/wgray13/Desktop/Learning Engineering Toolkit_26_04_07_15_45_22A.pdf",
+      "/Users/wgray13/Downloads/Learning Engineering Toolkit_26_04_07_15_45_22.pdf"
+    ],
+    "book_pdfs_missing": []
+  },
+  "counts": {
+    "total_records": 47,
+    "academic_records": 21,
+    "non_paper_records": 26,
+    "topics": 18,
+    "expansion_sources": 28,
+    "book_endnote_references_raw": 271,
+    "book_endnote_references_unique": 270,
+    "book_endnote_references_expansion_eligible": 268,
+    "book_endnote_references_expansion_excluded": 2,
+    "book_endnote_references_paper_like": 65,
+    "book_endnote_references_conference_like": 21,
+    "book_endnote_references_book_like": 19,
+    "book_endnote_references_grey_like": 117,
+    "expansion_seed_queries_total": 295,
+    "gaps": 10,
+    "learning_journeys": 20
+  },
+  "status_breakdown": {
+    "academic": {
+      "APPROVED": 21
+    },
+    "non_paper": {
+      "APPROVED": 22,
+      "SEED": 4
+    },
+    "overall": {
+      "APPROVED": 43,
+      "SEED": 4
+    }
+  },
+  "topic_breakdown": {
+    "academic_primary_topic": {
+      "T00": 2,
+      "T01": 3,
+      "T02": 1,
+      "T03": 2,
+      "T04": 2,
+      "T05": 1,
+      "T06": 1,
+      "T07": 1,
+      "T08": 1,
+      "T09": 1,
+      "T10": 1,
+      "T13": 1,
+      "T14": 1,
+      "T15": 1,
+      "T16": 1,
+      "T17": 1
+    },
+    "non_paper_primary_topic": {
+      "T00": 10,
+      "T01": 2,
+      "T04": 6,
+      "T06": 4,
+      "T07": 1,
+      "T11": 1,
+      "T13": 2
+    }
+  },
+  "outputs": {
+    "records": "records.jsonl",
+    "academic": "academic_papers.jsonl",
+    "non_paper": "non_paper_resources.jsonl",
+    "expansion_seed_queries": "expansion_seed_queries.jsonl",
+    "book_endnotes_raw": "book_endnotes_raw.jsonl",
+    "book_endnotes_unique": "book_endnotes_unique.jsonl",
+    "book_endnotes_expansion_eligible": "book_endnotes_expansion_eligible.jsonl",
+    "book_endnotes_expansion_excluded": "book_endnotes_expansion_excluded.jsonl",
+    "tables_dir": "tables",
+    "methodology_copy": "methodology.md"
+  }
+}

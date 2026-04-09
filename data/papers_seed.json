@@ -1,0 +1,627 @@
+{
+  "papers": [
+    {
+      "id": "LE-T1-001",
+      "openalex_id": "",
+      "title": "Learning Engineering: A Developing Discipline (Chapter 1)",
+      "abstract": "",
+      "year": 2022,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Goodell J, Kolodner J"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Goodell J, Kolodner J (2022) Learning Engineering: A Developing Discipline (Chapter 1). IEEE Press \u2014 Learning Engineering textbook",
+      "citation_bibtex": "@misc{LE-T1-001,\n  title = {Learning Engineering: A Developing Discipline (Chapter 1)},\n  author = {Goodell J, Kolodner J},\n  year = {2022},\n  howpublished = {IEEE Press \u2014 Learning Engineering textbook},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Field Overview & History",
+        "Learning Science Foundations",
+        "Learning Engineering Process"
+      ]
+    },
+    {
+      "id": "LE-T1-002",
+      "openalex_id": "",
+      "title": "What is Learning Engineering? (Saxberg 2016)",
+      "abstract": "",
+      "year": 2016,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Saxberg B"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Saxberg B (2016) What is Learning Engineering? (Saxberg 2016). The Atlantic",
+      "citation_bibtex": "@misc{LE-T1-002,\n  title = {What is Learning Engineering? (Saxberg 2016)},\n  author = {Saxberg B},\n  year = {2016},\n  howpublished = {The Atlantic},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T00",
+        "T13",
+        "T15"
+      ],
+      "artifact_type": "GL",
+      "topic_names": [
+        "Field Overview & History",
+        "High-Consequence & Complex Domains",
+        "Evidence & Evaluation Standards"
+      ]
+    },
+    {
+      "id": "LE-T1-003",
+      "openalex_id": "",
+      "title": "The Science of Learning: 77 Studies That Every Teacher Should Know",
+      "abstract": "",
+      "year": 2019,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Sherrington T"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Sherrington T (2019) The Science of Learning: 77 Studies That Every Teacher Should Know. Routledge",
+      "citation_bibtex": "@misc{LE-T1-003,\n  title = {The Science of Learning: 77 Studies That Every Teacher Should Know},\n  author = {Sherrington T},\n  year = {2019},\n  howpublished = {Routledge},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T01",
+        "T03"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Learning Science Foundations",
+        "Learning Engineering Process"
+      ]
+    },
+    {
+      "id": "LE-T1-004",
+      "openalex_id": "",
+      "title": "Improving Students' Learning With Effective Practice Techniques",
+      "abstract": "",
+      "year": 2013,
+      "doi": "10.1177/1529100612453266",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Dunlosky J et al."
+      ],
+      "referenced_works": [],
+      "citation_plain": "Dunlosky J et al. (2013) Improving Students' Learning With Effective Practice Techniques. Psychological Science in the Public Interest DOI: 10.1177/1529100612453266",
+      "citation_bibtex": "@misc{LE-T1-004,\n  title = {Improving Students' Learning With Effective Practice Techniques},\n  author = {Dunlosky J et al.},\n  year = {2013},\n  howpublished = {Psychological Science in the Public Interest},\n  doi = {10.1177/1529100612453266},\n}",
+      "source_url": "https://doi.org/10.1177/1529100612453266",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T01"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Learning Science Foundations"
+      ]
+    },
+    {
+      "id": "LE-T1-005",
+      "openalex_id": "",
+      "title": "Human Systems Integration Handbook",
+      "abstract": "",
+      "year": 2003,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Booher RR (ed.)"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Booher RR (ed.) (2003) Human Systems Integration Handbook. Wiley",
+      "citation_bibtex": "@misc{LE-T1-005,\n  title = {Human Systems Integration Handbook},\n  author = {Booher RR (ed.)},\n  year = {2003},\n  howpublished = {Wiley},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T02",
+        "T13"
+      ],
+      "artifact_type": "SG",
+      "topic_names": [
+        "Systems Engineering & Human Factors",
+        "High-Consequence & Complex Domains"
+      ]
+    },
+    {
+      "id": "LE-T1-006",
+      "openalex_id": "",
+      "title": "Cognitive Load Theory",
+      "abstract": "",
+      "year": 2019,
+      "doi": "10.1007/978-1-4612-3662-2",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Sweller J, van Merri\u00ebnboer J, Paas F"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Sweller J, van Merri\u00ebnboer J, Paas F (2019) Cognitive Load Theory. Springer DOI: 10.1007/978-1-4612-3662-2",
+      "citation_bibtex": "@misc{LE-T1-006,\n  title = {Cognitive Load Theory},\n  author = {Sweller J, van Merri\u00ebnboer J, Paas F},\n  year = {2019},\n  howpublished = {Springer},\n  doi = {10.1007/978-1-4612-3662-2},\n}",
+      "source_url": "https://doi.org/10.1007/978-1-4612-3662-2",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T01",
+        "T06",
+        "T12"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Learning Science Foundations",
+        "Intelligent Tutoring & Adaptive Systems",
+        "Instructional Design & Curriculum"
+      ]
+    },
+    {
+      "id": "LE-T1-007",
+      "openalex_id": "",
+      "title": "Learning Engineering Toolkit (LEVI)",
+      "abstract": "",
+      "year": 2020,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Goodell J et al."
+      ],
+      "referenced_works": [],
+      "citation_plain": "Goodell J et al. (2020) Learning Engineering Toolkit (LEVI). LEVI/Aurora Institute",
+      "citation_bibtex": "@misc{LE-T1-007,\n  title = {Learning Engineering Toolkit (LEVI)},\n  author = {Goodell J et al.},\n  year = {2020},\n  howpublished = {LEVI/Aurora Institute},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T03",
+        "T00",
+        "T15"
+      ],
+      "artifact_type": "GL",
+      "topic_names": [
+        "Learning Engineering Process",
+        "Field Overview & History",
+        "Evidence & Evaluation Standards"
+      ]
+    },
+    {
+      "id": "LE-T1-008",
+      "openalex_id": "",
+      "title": "Knowledge-Learning-Instruction Framework",
+      "abstract": "",
+      "year": 2012,
+      "doi": "10.1111/j.1551-6709.2012.01245.x",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Koedinger K et al."
+      ],
+      "referenced_works": [],
+      "citation_plain": "Koedinger K et al. (2012) Knowledge-Learning-Instruction Framework. Cognitive Science DOI: 10.1111/j.1551-6709.2012.01245.x",
+      "citation_bibtex": "@misc{LE-T1-008,\n  title = {Knowledge-Learning-Instruction Framework},\n  author = {Koedinger K et al.},\n  year = {2012},\n  howpublished = {Cognitive Science},\n  doi = {10.1111/j.1551-6709.2012.01245.x},\n}",
+      "source_url": "https://doi.org/10.1111/j.1551-6709.2012.01245.x",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T03",
+        "T01",
+        "T06"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Learning Engineering Process",
+        "Learning Science Foundations",
+        "Intelligent Tutoring & Adaptive Systems"
+      ]
+    },
+    {
+      "id": "LE-T1-009",
+      "openalex_id": "",
+      "title": "Educational Data Mining: A Review of the State-of-the-Art",
+      "abstract": "",
+      "year": 2010,
+      "doi": "10.1109/TSMCC.2010.2053532",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Romero C, Ventura S"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Romero C, Ventura S (2010) Educational Data Mining: A Review of the State-of-the-Art. IEEE Transactions on SMC DOI: 10.1109/TSMCC.2010.2053532",
+      "citation_bibtex": "@misc{LE-T1-009,\n  title = {Educational Data Mining: A Review of the State-of-the-Art},\n  author = {Romero C, Ventura S},\n  year = {2010},\n  howpublished = {IEEE Transactions on SMC},\n  doi = {10.1109/TSMCC.2010.2053532},\n}",
+      "source_url": "https://doi.org/10.1109/TSMCC.2010.2053532",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T04",
+        "T06"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Measurement & Analytics",
+        "Intelligent Tutoring & Adaptive Systems"
+      ]
+    },
+    {
+      "id": "LE-T1-010",
+      "openalex_id": "",
+      "title": "Learning Analytics: The Emergence of a Discipline",
+      "abstract": "",
+      "year": 2013,
+      "doi": "10.1177/0002764213498851",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Siemens G"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Siemens G (2013) Learning Analytics: The Emergence of a Discipline. American Behavioral Scientist DOI: 10.1177/0002764213498851",
+      "citation_bibtex": "@misc{LE-T1-010,\n  title = {Learning Analytics: The Emergence of a Discipline},\n  author = {Siemens G},\n  year = {2013},\n  howpublished = {American Behavioral Scientist},\n  doi = {10.1177/0002764213498851},\n}",
+      "source_url": "https://doi.org/10.1177/0002764213498851",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T04",
+        "T11"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Measurement & Analytics",
+        "Learning Infrastructure & Platforms"
+      ]
+    },
+    {
+      "id": "LE-T1-011",
+      "openalex_id": "",
+      "title": "Competency-Based Education: A Framework for Practice",
+      "abstract": "",
+      "year": 2010,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Le Boterf G"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Le Boterf G (2010) Competency-Based Education: A Framework for Practice. (Various translations)",
+      "citation_bibtex": "@misc{LE-T1-011,\n  title = {Competency-Based Education: A Framework for Practice},\n  author = {Le Boterf G},\n  year = {2010},\n  howpublished = {(Various translations)},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T05",
+        "T12"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Knowledge Representation",
+        "Instructional Design & Curriculum"
+      ]
+    },
+    {
+      "id": "LE-T1-013",
+      "openalex_id": "",
+      "title": "Intelligent Tutoring Systems: A Comprehensive Review",
+      "abstract": "",
+      "year": 2021,
+      "doi": "10.1080/10494820.2018.1558257",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Mousavinasab E et al."
+      ],
+      "referenced_works": [],
+      "citation_plain": "Mousavinasab E et al. (2021) Intelligent Tutoring Systems: A Comprehensive Review. Interactive Learning Environments DOI: 10.1080/10494820.2018.1558257",
+      "citation_bibtex": "@misc{LE-T1-013,\n  title = {Intelligent Tutoring Systems: A Comprehensive Review},\n  author = {Mousavinasab E et al.},\n  year = {2021},\n  howpublished = {Interactive Learning Environments},\n  doi = {10.1080/10494820.2018.1558257},\n}",
+      "source_url": "https://doi.org/10.1080/10494820.2018.1558257",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T06",
+        "T07"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Intelligent Tutoring & Adaptive Systems",
+        "AI & Foundation Models in Learning"
+      ]
+    },
+    {
+      "id": "LE-T1-015",
+      "openalex_id": "",
+      "title": "A Survey of Large Language Models for Education",
+      "abstract": "",
+      "year": 2024,
+      "doi": "2311.07174",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Wang R et al."
+      ],
+      "referenced_works": [],
+      "citation_plain": "Wang R et al. (2024) A Survey of Large Language Models for Education. arXiv DOI: 2311.07174",
+      "citation_bibtex": "@misc{LE-T1-015,\n  title = {A Survey of Large Language Models for Education},\n  author = {Wang R et al.},\n  year = {2024},\n  howpublished = {arXiv},\n  doi = {2311.07174},\n}",
+      "source_url": "https://doi.org/2311.07174",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T07",
+        "T06"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "AI & Foundation Models in Learning",
+        "Intelligent Tutoring & Adaptive Systems"
+      ]
+    },
+    {
+      "id": "LE-T1-017",
+      "openalex_id": "",
+      "title": "Simulation-Based Learning: Theory and Practice",
+      "abstract": "",
+      "year": 2011,
+      "doi": "10.1111/j.1744-6570.2011.01190.x",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Sitzmann T"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Sitzmann T (2011) Simulation-Based Learning: Theory and Practice. Personnel Psychology DOI: 10.1111/j.1744-6570.2011.01190.x",
+      "citation_bibtex": "@misc{LE-T1-017,\n  title = {Simulation-Based Learning: Theory and Practice},\n  author = {Sitzmann T},\n  year = {2011},\n  howpublished = {Personnel Psychology},\n  doi = {10.1111/j.1744-6570.2011.01190.x},\n}",
+      "source_url": "https://doi.org/10.1111/j.1744-6570.2011.01190.x",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T08",
+        "T10",
+        "T13"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Simulation & Experiential Learning",
+        "Workforce Development & Training Systems",
+        "High-Consequence & Complex Domains"
+      ]
+    },
+    {
+      "id": "LE-T1-019",
+      "openalex_id": "",
+      "title": "A Practical Guide to Cognitive Task Analysis",
+      "abstract": "",
+      "year": 2006,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Crandall B, Klein G, Hoffman R"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Crandall B, Klein G, Hoffman R (2006) A Practical Guide to Cognitive Task Analysis. MIT Press",
+      "citation_bibtex": "@misc{LE-T1-019,\n  title = {A Practical Guide to Cognitive Task Analysis},\n  author = {Crandall B, Klein G, Hoffman R},\n  year = {2006},\n  howpublished = {MIT Press},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T09",
+        "T10"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Expert Knowledge Elicitation",
+        "Workforce Development & Training Systems"
+      ]
+    },
+    {
+      "id": "LE-T1-021",
+      "openalex_id": "",
+      "title": "Evaluating Training Programs: The Four Levels",
+      "abstract": "",
+      "year": 2006,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Kirkpatrick D, Kirkpatrick J"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Kirkpatrick D, Kirkpatrick J (2006) Evaluating Training Programs: The Four Levels. Berrett-Koehler",
+      "citation_bibtex": "@misc{LE-T1-021,\n  title = {Evaluating Training Programs: The Four Levels},\n  author = {Kirkpatrick D, Kirkpatrick J},\n  year = {2006},\n  howpublished = {Berrett-Koehler},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T10",
+        "T15"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Workforce Development & Training Systems",
+        "Evidence & Evaluation Standards"
+      ]
+    },
+    {
+      "id": "LE-T1-027",
+      "openalex_id": "",
+      "title": "Human Error",
+      "abstract": "",
+      "year": 1990,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Reason J"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Reason J (1990) Human Error. Cambridge University Press",
+      "citation_bibtex": "@misc{LE-T1-027,\n  title = {Human Error},\n  author = {Reason J},\n  year = {1990},\n  howpublished = {Cambridge University Press},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T13",
+        "T02"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "High-Consequence & Complex Domains",
+        "Systems Engineering & Human Factors"
+      ]
+    },
+    {
+      "id": "LE-T1-029",
+      "openalex_id": "",
+      "title": "Algorithmic Fairness in Education",
+      "abstract": "",
+      "year": 2022,
+      "doi": "2210.00909",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Kizilcec R, Lee H"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Kizilcec R, Lee H (2022) Algorithmic Fairness in Education. arXiv DOI: 2210.00909",
+      "citation_bibtex": "@misc{LE-T1-029,\n  title = {Algorithmic Fairness in Education},\n  author = {Kizilcec R, Lee H},\n  year = {2022},\n  howpublished = {arXiv},\n  doi = {2210.00909},\n}",
+      "source_url": "https://doi.org/2210.00909",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T14",
+        "T07",
+        "T04"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Ethics, Equity & Responsible LE",
+        "AI & Foundation Models in Learning",
+        "Measurement & Analytics"
+      ]
+    },
+    {
+      "id": "LE-T1-031",
+      "openalex_id": "",
+      "title": "Toward a Science of Exceptional Achievement",
+      "abstract": "",
+      "year": 2006,
+      "doi": "10.1196/annals.1373.001",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Ericsson K"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Ericsson K (2006) Toward a Science of Exceptional Achievement. Annals NYAS DOI: 10.1196/annals.1373.001",
+      "citation_bibtex": "@misc{LE-T1-031,\n  title = {Toward a Science of Exceptional Achievement},\n  author = {Ericsson K},\n  year = {2006},\n  howpublished = {Annals NYAS},\n  doi = {10.1196/annals.1373.001},\n}",
+      "source_url": "https://doi.org/10.1196/annals.1373.001",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T15",
+        "T09"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Evidence & Evaluation Standards",
+        "Expert Knowledge Elicitation"
+      ]
+    },
+    {
+      "id": "LE-T1-033",
+      "openalex_id": "",
+      "title": "IEEE ICICLE Body of Knowledge \u2014 current version",
+      "abstract": "",
+      "year": 2024,
+      "doi": "",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "IEEE ICICLE Working Groups"
+      ],
+      "referenced_works": [],
+      "citation_plain": "IEEE ICICLE Working Groups (2024) IEEE ICICLE Body of Knowledge \u2014 current version. IEEE ICICLE",
+      "citation_bibtex": "@misc{LE-T1-033,\n  title = {IEEE ICICLE Body of Knowledge \u2014 current version},\n  author = {IEEE ICICLE Working Groups},\n  year = {2024},\n  howpublished = {IEEE ICICLE},\n}",
+      "source_url": "",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "artifact_type": "SG",
+      "topic_names": [
+        "Standards, Credentialing & Community",
+        "Field Overview & History"
+      ]
+    },
+    {
+      "id": "LE-T1-035",
+      "openalex_id": "",
+      "title": "Design-Based Research: An Emerging Paradigm for Educational Inquiry",
+      "abstract": "",
+      "year": 2003,
+      "doi": "10.3102/0013189X032001005",
+      "type": "seed_record",
+      "cited_by_count": 0,
+      "authors": [
+        "Design-Based Research Collective"
+      ],
+      "referenced_works": [],
+      "citation_plain": "Design-Based Research Collective (2003) Design-Based Research: An Emerging Paradigm for Educational Inquiry. Educational Researcher DOI: 10.3102/0013189X032001005",
+      "citation_bibtex": "@misc{LE-T1-035,\n  title = {Design-Based Research: An Emerging Paradigm for Educational Inquiry},\n  author = {Design-Based Research Collective},\n  year = {2003},\n  howpublished = {Educational Researcher},\n  doi = {10.3102/0013189X032001005},\n}",
+      "source_url": "https://doi.org/10.3102/0013189X032001005",
+      "scope": "seed",
+      "status": "APPROVED",
+      "selection_tier": "T1",
+      "topic_codes": [
+        "T17",
+        "T03",
+        "T15"
+      ],
+      "artifact_type": "AP",
+      "topic_names": [
+        "Research Methods & Field Development",
+        "Learning Engineering Process",
+        "Evidence & Evaluation Standards"
+      ]
+    }
+  ]
+}

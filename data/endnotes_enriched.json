@@ -1,0 +1,1895 @@
+{
+  "rows": [
+    {
+      "id": "LE-ENDNOTE-0001",
+      "chapter": null,
+      "matched": false,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0002",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0003",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0004",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0005",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0006",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0007",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0008",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0009",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0010",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0011",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0012",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0013",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0014",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0015",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0016",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0017",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0018",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0019",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0020",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0021",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0022",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0023",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0024",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0025",
+      "chapter": null,
+      "matched": false,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0026",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0027",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0028",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0029",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0030",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0031",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0032",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0033",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0034",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0035",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0036",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0037",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0038",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0039",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0040",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0041",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0042",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0043",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0044",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0045",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0046",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0047",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0048",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0049",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0050",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0051",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0052",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0053",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0054",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0055",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0056",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0057",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0058",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0059",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0060",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0061",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0062",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0063",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0064",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0065",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0066",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0067",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0068",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0069",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0070",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0071",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0072",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0073",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0074",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0075",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0076",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0077",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0078",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0079",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0080",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0081",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0082",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0083",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0084",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0085",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0086",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0087",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0088",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0089",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0090",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0091",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0092",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0093",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0094",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0095",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0096",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0097",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0098",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0099",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0100",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0101",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0102",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0103",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0104",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0105",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0106",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0107",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0108",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0109",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0110",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0111",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0112",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0113",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0114",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0115",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0116",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0117",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0118",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0119",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0120",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0121",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0122",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0123",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0124",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0125",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0126",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0127",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0128",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0129",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0130",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0131",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0132",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0133",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0134",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0135",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0136",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0137",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0138",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0139",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0140",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0141",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0142",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0143",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0144",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0145",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0146",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0147",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0148",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0149",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0150",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0151",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0152",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0153",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0154",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0155",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0156",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0157",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0158",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0159",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0160",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0161",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0162",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0163",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0164",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0165",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0166",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0167",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0168",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0169",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0170",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0171",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0172",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0173",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0174",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0175",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0176",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0177",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0178",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0179",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0180",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0181",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0182",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0183",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0184",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0185",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0186",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0187",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0188",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0189",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0190",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0191",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0192",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0193",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0194",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0195",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0196",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0197",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0198",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0199",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0200",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0201",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0202",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0203",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0204",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0205",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0206",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0207",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0208",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0209",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0210",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0211",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0212",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0213",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0214",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0215",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0216",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0217",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0218",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0219",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0220",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0221",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0222",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "book_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0223",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0224",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "conference_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0225",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "unknown"
+    },
+    {
+      "id": "LE-ENDNOTE-0226",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0227",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0228",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "paper_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0229",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0230",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0231",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0232",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0233",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0234",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0235",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0236",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0237",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0238",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0239",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0240",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0241",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0242",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0243",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0244",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0245",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0246",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0247",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0248",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0249",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0250",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0251",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0252",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0253",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0254",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0255",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0256",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0257",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0258",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0259",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0260",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0261",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0262",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0263",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0264",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0265",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0266",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0267",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0268",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0269",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "report_or_standard_like"
+    },
+    {
+      "id": "LE-ENDNOTE-0270",
+      "chapter": null,
+      "matched": true,
+      "work_id": "",
+      "artifact_type": "grey_like"
+    }
+  ],
+  "count": 270
+}

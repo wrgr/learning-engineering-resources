@@ -1,0 +1,114 @@
+{
+  "gaps": [
+    {
+      "id": "g_001",
+      "label": "T07 AI/LLM in education literature is moving so fast that velocity-based selection will surface low-quality preprints alongside landmark work. Risk of over-representing AI hype relative to empirical evidence.",
+      "detail": "Apply additional editorial filter to T07: require either (a) empirical evaluation study design, or (b) published in top-4 venue (AIED, Learning@Scale, EDM, JEDM). Flag pure position papers as WATCH not APPROVED.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "T07",
+        "severity": "High",
+        "status": "Open"
+      }
+    },
+    {
+      "id": "g_002",
+      "label": "T13 High-consequence domain literature (defense, healthcare, nuclear) is heavily grey literature and often not indexed in OpenAlex or Semantic Scholar. DARPA/IARPA/DoD training science publications are largely not public.",
+      "detail": "Manual Tier 4 harvest required. Use APL-connected access for DoD publications. Flag LENS @ JHU program as anchor for this literature. CIRCUIT/MERIT program reports are key sources.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "T13",
+        "severity": "High",
+        "status": "Open"
+      }
+    },
+    {
+      "id": "g_003",
+      "label": "T14 Equity and fairness in adaptive learning systems is an emerging literature. Non-US international equity contexts (African ed tech, Global South adaptive learning) almost entirely absent.",
+      "detail": "Targeted T4 manual search. Monitor CHI and FAccT conferences as non-traditional venues for this literature. Check Gates Foundation and World Bank ed reports.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "T14",
+        "severity": "Medium",
+        "status": "Open"
+      }
+    },
+    {
+      "id": "g_004",
+      "label": "T16 IEEE ICICLE BoK is actively being developed \u2014 current version may be a draft. Field credentialing standards not yet stable. Risk of citing pre-final BoK.",
+      "detail": "Version-track BoK explicitly. Note draft status in recency_flag. Plan re-review when official BoK version released.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "T16",
+        "severity": "Medium",
+        "status": "Open \u2014 monitor"
+      }
+    },
+    {
+      "id": "g_005",
+      "label": "T09 Expert knowledge elicitation literature spans cognitive psychology, AI, and HCI \u2014 it is highly dispersed. Papers from knowledge engineering and CTA communities may not be well-connected in citation network.",
+      "detail": "Supplement algorithmic expansion with manual search of: ACM CHI (expert elicitation track); Knowledge Engineering Review journal; Applied Ergonomics; Human Factors.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "T09",
+        "severity": "Medium",
+        "status": "Open"
+      }
+    },
+    {
+      "id": "g_006",
+      "label": "T00 Non-English LE literature poorly represented. Important Japanese research in adaptive/ITS systems (University of Tokyo, NII groups); German vocational training (Berufsbildung) literature; French e-learning research.",
+      "detail": "Allocate 5 T4 slots to non-English publications. Use Google Scholar for non-OpenAlex sources. Flag English-language bias in corpus documentation.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "T00",
+        "severity": "Low",
+        "status": "Open \u2014 low priority"
+      }
+    },
+    {
+      "id": "g_007",
+      "label": "T11 xAPI and learning data standards landscape is changing rapidly. ADL Initiative publications, IMS Global specifications may not appear in academic citation networks.",
+      "detail": "Direct Tier 4 harvest from ADL Initiative website and IMS Global. Track version history of xAPI and Caliper standards.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "T11",
+        "severity": "Low",
+        "status": "Open \u2014 monitor"
+      }
+    },
+    {
+      "id": "g_008",
+      "label": "T17 Design-based research and quasi-experimental methods in education are methodologically important but rarely cited by other LE papers (methodologists cite other methodologists). Risk of under-representation.",
+      "detail": "Add DBR Collective 2003 and Brown 1992 as T1 anchors. Manual expansion from Journal of the Learning Sciences methodology papers.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "T17",
+        "severity": "Low",
+        "status": "Open"
+      }
+    },
+    {
+      "id": "g_009",
+      "label": "ALL ICICLE resources page harvest has not yet been completed. Unknown number of resources are catalogued there that are not yet in this workbook.",
+      "detail": "Complete Step 1 of pipeline (ICICLE page manual harvest) before any algorithmic expansion runs. This is a prerequisite step.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "ALL",
+        "severity": "High",
+        "status": "Open \u2014 blocking"
+      }
+    },
+    {
+      "id": "g_010",
+      "label": "T08 Serious games and XR/VR/AR for learning is partially indexed \u2014 major venues (IEEE VR, CHI, Games for Change) not well-connected to LE citation network. Simulation fidelity research in DoD contexts largely grey.",
+      "detail": "Supplement via manual search of: IEEE VR; Simulation & Gaming journal; IITSEC proceedings (military simulation); Games for Learning conference.",
+      "evidence_links": [],
+      "evidence": {
+        "topic": "T08",
+        "severity": "Medium",
+        "status": "Open"
+      }
+    }
+  ]
+}

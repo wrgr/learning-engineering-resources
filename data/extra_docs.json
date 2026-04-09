@@ -1,0 +1,19 @@
+{
+  "count": 2,
+  "documents": [
+    {
+      "source_type": "methodology",
+      "title": "Corpus Construction Methodology (April 2026)",
+      "url": "",
+      "file_path": "/Users/wgray13/projects/learning-engineering-resources/corpus/methodology.md",
+      "summary": "Methodological framework for seed expansion, cross-seed filtering, subdomain scoring, and manual quality controls."
+    },
+    {
+      "source_type": "specification",
+      "title": "Learning Engineering Corpus Specification Workbook v1",
+      "url": "",
+      "file_path": "/Users/wgray13/projects/learning-engineering-resources/le_corpus_specification_v1.xlsx",
+      "summary": "Canonical topic map, registries, metadata schema, gaps, and selection pipeline for this corpus."
+    }
+  ]
+}

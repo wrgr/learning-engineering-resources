@@ -1,0 +1,58 @@
+[
+  {
+    "content_type": "Academic Paper",
+    "code": "AP",
+    "definition": "Peer-reviewed journal article, conference paper, dissertation, or preprint. Primary intellectual content of the field.",
+    "query_function": "What does the research say? What is the evidence base? Who are the key researchers?",
+    "example_resources": "Koedinger et al. 2012 LE framework; Bloom 1956 taxonomy; Baker & Inventado ITS survey"
+  },
+  {
+    "content_type": "Standard / Guideline",
+    "code": "SG",
+    "definition": "Professional society standard, body of knowledge document, or field-wide guideline. IEEE ICICLE BoK is primary example.",
+    "query_function": "What are the field's canonical definitions and practices? What is the authoritative reference?",
+    "example_resources": "IEEE ICICLE Body of Knowledge; xAPI specification; IMS Global standards"
+  },
+  {
+    "content_type": "Program / Curriculum",
+    "code": "PC",
+    "definition": "Academic program, professional certificate, bootcamp, or structured curriculum offering. Includes degree programs and MOOCs.",
+    "query_function": "What structured learning paths exist? Where are people trained? What competencies do programs target?",
+    "example_resources": "LENS @ JHU; Carnegie Mellon HCII; Stanford HCI; Coursera LE specializations"
+  },
+  {
+    "content_type": "Person / Practitioner",
+    "code": "PP",
+    "definition": "Named researcher, practitioner, or thought leader who is a significant contributor to the field. Includes academics, industry leaders, and standards contributors.",
+    "query_function": "Who are the key people? Who should I follow? Who defines the field's intellectual agenda?",
+    "example_resources": "Ken Koedinger; Ryan Baker; Bror Saxberg; Jim Goodell; John Behrens"
+  },
+  {
+    "content_type": "Conference / Event",
+    "code": "CE",
+    "definition": "Academic conference, professional symposium, workshop, or recurring event. Primary community gathering points.",
+    "query_function": "Where does the community gather? What are the premier venues for disseminating work?",
+    "example_resources": "Learning @ Scale; EDM; AIED; ITS; IEEE ICICLE annual meeting; LAK"
+  },
+  {
+    "content_type": "Tool / Platform",
+    "code": "TP",
+    "definition": "Software tool, platform, or computational infrastructure relevant to LE practice or research. Includes both research tools and production platforms.",
+    "query_function": "What tools exist? What should I know how to use? What are the key infrastructure components?",
+    "example_resources": "Open Learning Initiative; ASSISTments; ALEKS; Coursera; Knewton; xAPI LRS platforms"
+  },
+  {
+    "content_type": "Grey Literature / Report",
+    "code": "GL",
+    "definition": "Technical report, white paper, policy document, government publication, or organizational resource not peer-reviewed. Includes ICICLE website resources.",
+    "query_function": "What is the practical state of the art? What are organizations saying? What policy frames exist?",
+    "example_resources": "ICICLE resources page; NSF LE reports; NRC How People Learn; Gates Foundation reports"
+  },
+  {
+    "content_type": "Community / Organization",
+    "code": "CO",
+    "definition": "Professional society, research consortium, working group, or community of practice. Not a program \u2014 an ongoing organized community.",
+    "query_function": "Who are the institutional actors? What communities should I engage with? What are the field's homes?",
+    "example_resources": "IEEE ICICLE; CDESTEM; Society for Learning Analytics Research (SoLAR); iNACOL"
+  }
+]

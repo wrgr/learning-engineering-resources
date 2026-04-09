@@ -1,0 +1,407 @@
+{
+  "source_url": "corpus/non_paper_resources.jsonl",
+  "section_count": 7,
+  "item_count": 26,
+  "sections": [
+    {
+      "section": "T00 Field Overview & History",
+      "items": [
+        {
+          "resource_id": "LE-PP-003",
+          "title": "Learning Engineering Virtual Institute (LEVI)",
+          "url": "https://aurora-institute.org",
+          "context": "LEVI brought together practitioners and researchers to define learning engineering practice. Published foundational resources on LE process and evidence standards.",
+          "topic_codes": [
+            "T00",
+            "T03",
+            "T15"
+          ],
+          "content_type": "PC",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-010",
+          "title": "Ken Koedinger",
+          "url": "https://pact.cs.cmu.edu/koedinger.html",
+          "context": "Co-originator of learning engineering as a field. Creator of Cognitive Tutor. Pioneer of PSLC DataShop and LearnLab. Foundational theorist and practitioner.",
+          "topic_codes": [
+            "T00",
+            "T06",
+            "T01"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-012",
+          "title": "Bror Saxberg",
+          "url": "",
+          "context": "Early champion of learning engineering as a named field. Wrote influential 2016 Atlantic piece calling for learning engineers. Practitioner-bridge figure.",
+          "topic_codes": [
+            "T00",
+            "T03",
+            "T13"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-013",
+          "title": "Jim Goodell",
+          "url": "https://www.qualityinformationpartners.com",
+          "context": "Co-founder of Learning Engineering book (IEEE Press). Co-editor of canonical LE textbook. Core IEEE ICICLE contributor.",
+          "topic_codes": [
+            "T00",
+            "T16",
+            "T03"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-024",
+          "title": "IEEE ICICLE Annual Meeting",
+          "url": "https://sagroups.ieee.org/icicle/",
+          "context": "Annual community gathering for the IEEE learning engineering community. Standards, BoK, and credentialing discussions.",
+          "topic_codes": [
+            "T00",
+            "T16",
+            "T15"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-040",
+          "title": "IEEE ICICLE",
+          "url": "https://sagroups.ieee.org/icicle/",
+          "context": "International Community for IEEE Learning Engineering. Primary professional home for LE. Developing BoK, standards, credentialing. Resources page is a primary seed source for this corpus.",
+          "topic_codes": [
+            "T00",
+            "T16",
+            "T15"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-050",
+          "title": "Learning Engineering (IEEE Press textbook)",
+          "url": "",
+          "context": "The canonical textbook of the field. Two-part structure. End notes are a primary seed source for citation expansion. IEEE Press, 2022.",
+          "topic_codes": [
+            "T00",
+            "T01",
+            "T03",
+            "T04"
+          ],
+          "content_type": "GL",
+          "status": "SEED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-051",
+          "title": "IEEE ICICLE Resources Page",
+          "url": "https://sagroups.ieee.org/icicle/resources/",
+          "context": "Curated resource list maintained by IEEE ICICLE community. Includes papers, tools, programs, and community resources. Lacks cohesion and learning journey structure \u2014 this corpus addresses that gap.",
+          "topic_codes": [
+            "T00",
+            "T16"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-053",
+          "title": "Saxberg 2016 Atlantic: 'Forgotten Role of Learning Engineer'",
+          "url": "",
+          "context": "Canonical entry point essay calling for the learning engineering profession. Widely cited. Short. Often assigned reading.",
+          "topic_codes": [
+            "T00",
+            "T15",
+            "T13"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-054",
+          "title": "ICICLE Body of Knowledge (BoK) \u2014 current draft",
+          "url": "https://sagroups.ieee.org/icicle/",
+          "context": "The field's emerging canonical definition document. Defines competency areas, vocabulary, and practice standards.",
+          "topic_codes": [
+            "T00",
+            "T16",
+            "T15"
+          ],
+          "content_type": "GL",
+          "status": "SEED",
+          "section": "T00 Field Overview & History"
+        }
+      ]
+    },
+    {
+      "section": "T01 Learning Science Foundations",
+      "items": [
+        {
+          "resource_id": "LE-PP-042",
+          "title": "International Society for the Learning Sciences (ISLS)",
+          "url": "https://www.isls.org",
+          "context": "Home of CSCL and ICLS conferences. Bridges learning science and design. Important for T01 foundation layer.",
+          "topic_codes": [
+            "T01",
+            "T03",
+            "T15"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T01 Learning Science Foundations"
+        },
+        {
+          "resource_id": "LE-PP-052",
+          "title": "How People Learn I & II",
+          "url": "https://www.nap.edu/catalog/24783",
+          "context": "Foundational synthesis of learning science for educators. Free online. Widely cited. Essential T01 anchor.",
+          "topic_codes": [
+            "T01",
+            "T03",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T01 Learning Science Foundations"
+        }
+      ]
+    },
+    {
+      "section": "T04 Measurement & Analytics",
+      "items": [
+        {
+          "resource_id": "LE-PP-011",
+          "title": "Ryan Baker",
+          "url": "https://www.upenn.edu/faculty/ryan-baker",
+          "context": "Pioneer in educational data mining and learning analytics. Author of key EDM methods handbook. EDM journal editor.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T07"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-014",
+          "title": "John Behrens",
+          "url": "",
+          "context": "Evidence-centered design; learning analytics at scale; psychometrics meets LE. Key bridge between assessment science and learning engineering.",
+          "topic_codes": [
+            "T04",
+            "T09",
+            "T15"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-021",
+          "title": "Educational Data Mining (EDM)",
+          "url": "https://educationaldatamining.org",
+          "context": "Annual international conference and journal. Primary venue for learning analytics and EDM research.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T07"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-023",
+          "title": "Learning Analytics & Knowledge (LAK)",
+          "url": "https://www.solaresearch.org/events/lak/",
+          "context": "Premier analytics in education conference. Strong on data infrastructure and equity.",
+          "topic_codes": [
+            "T04",
+            "T11",
+            "T15"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-031",
+          "title": "DataShop / LearnSphere",
+          "url": "https://pslcdatashop.web.cmu.edu",
+          "context": "Largest open repository of learning interaction data. Enables corpus expansion and field-level analysis.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T00"
+          ],
+          "content_type": "TP",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-041",
+          "title": "Society for Learning Analytics Research (SoLAR)",
+          "url": "https://www.solaresearch.org",
+          "context": "International nonprofit dedicated to research, practice, and policy of learning analytics. Home of LAK conference and companion journal.",
+          "topic_codes": [
+            "T04",
+            "T11",
+            "T15"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        }
+      ]
+    },
+    {
+      "section": "T06 Intelligent Tutoring & Adaptive Systems",
+      "items": [
+        {
+          "resource_id": "LE-PP-002",
+          "title": "Human-Computer Interaction Institute \u2014 CMU",
+          "url": "https://hcii.cmu.edu",
+          "context": "Home of Ken Koedinger and Cognitive Tutor / LearnLab. One of the premier academic homes for LE research globally. PhD and MS programs.",
+          "topic_codes": [
+            "T06",
+            "T01",
+            "T03"
+          ],
+          "content_type": "PC",
+          "status": "APPROVED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        },
+        {
+          "resource_id": "LE-PP-004",
+          "title": "Open Learning Initiative (OLI)",
+          "url": "https://oli.cmu.edu",
+          "context": "OLI is the flagship LE platform from CMU \u2014 courses built with LE principles, continuous improvement, embedded formative assessment, and learning analytics.",
+          "topic_codes": [
+            "T06",
+            "T03",
+            "T04"
+          ],
+          "content_type": "PC",
+          "status": "SEED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        },
+        {
+          "resource_id": "LE-PP-020",
+          "title": "Learning @ Scale",
+          "url": "https://learningatscale.acm.org",
+          "context": "Premier venue for LE research at scale. Emphasizes empirical evidence and adaptive/personalized learning. Annual.",
+          "topic_codes": [
+            "T06",
+            "T04",
+            "T07"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        },
+        {
+          "resource_id": "LE-PP-030",
+          "title": "ASSISTments",
+          "url": "https://www.assistments.org",
+          "context": "Free ITS platform widely used for math tutoring research. Large research base. RCTs conducted on platform.",
+          "topic_codes": [
+            "T06",
+            "T03",
+            "T04"
+          ],
+          "content_type": "TP",
+          "status": "APPROVED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        }
+      ]
+    },
+    {
+      "section": "T07 AI & Foundation Models in Learning",
+      "items": [
+        {
+          "resource_id": "LE-PP-022",
+          "title": "Artificial Intelligence in Education (AIED)",
+          "url": "https://aied.org",
+          "context": "Flagship AI in education conference. ITS sub-conference often co-located. Annual; alternating with ITS.",
+          "topic_codes": [
+            "T07",
+            "T06",
+            "T08"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T07 AI & Foundation Models in Learning"
+        }
+      ]
+    },
+    {
+      "section": "T11 Learning Infrastructure & Platforms",
+      "items": [
+        {
+          "resource_id": "LE-PP-032",
+          "title": "xAPI / Tin Can API",
+          "url": "https://xapi.com",
+          "context": "Standard for learning activity data. Foundation for interoperable learning record stores. Key infrastructure standard.",
+          "topic_codes": [
+            "T11",
+            "T04",
+            "T00"
+          ],
+          "content_type": "TP",
+          "status": "APPROVED",
+          "section": "T11 Learning Infrastructure & Platforms"
+        }
+      ]
+    },
+    {
+      "section": "T13 High-Consequence & Complex Domains",
+      "items": [
+        {
+          "resource_id": "LE-PP-001",
+          "title": "LENS @ JHU \u2014 Learning Engineering for Next-Generation Systems",
+          "url": "",
+          "context": "Concentration within JHU MEd in Learning Design & Technology. Targets practitioners in complex organizations: defense, healthcare, large-scale education. Grounded in human systems integration and learning engineering expertise. Capstone produces evidence dashboard, reproducible report, and governance/ethics plan. Unique JHU ecosystem: APL + Medicine + IEEE/ICICLE partnership.",
+          "topic_codes": [
+            "T13",
+            "T02",
+            "T10",
+            "T15"
+          ],
+          "content_type": "PC",
+          "status": "APPROVED",
+          "section": "T13 High-Consequence & Complex Domains"
+        },
+        {
+          "resource_id": "LE-PP-015",
+          "title": "Will Gray-Roncal",
+          "url": "",
+          "context": "Principal PI of LENS @ JHU, CIRCUIT, MERIT programs. Connectomics and agentic AI researcher. Visiting Assistant Professor developing Learning Engineering Specialization at JHU.",
+          "topic_codes": [
+            "T13",
+            "T09",
+            "T10"
+          ],
+          "content_type": "PP",
+          "status": "SEED",
+          "section": "T13 High-Consequence & Complex Domains"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "journey_id": "J-01",
+    "journey_name": "LE Practitioner \u2014 From Scratch",
+    "learner_type": "Anyone new to LE, coming from instructional design or adjacent field",
+    "stage": "0",
+    "stage_name": "What is Learning Engineering?",
+    "topics": "T00",
+    "anchor_resources": "Saxberg 2016 Atlantic essay (LE-T1-002); Goodell textbook Ch. 1 (LE-T1-001); ICICLE BoK overview"
+  },
+  {
+    "journey_id": "J-01",
+    "journey_name": "LE Practitioner \u2014 From Scratch",
+    "learner_type": "Anyone new to LE, coming from instructional design or adjacent field",
+    "stage": "1",
+    "stage_name": "Learning Science Foundations",
+    "topics": "T01",
+    "anchor_resources": "Dunlosky 2013 (LE-T1-004); How People Learn (LE-PP-052); Sweller CLT (LE-T1-006)"
+  },
+  {
+    "journey_id": "J-01",
+    "journey_name": "LE Practitioner \u2014 From Scratch",
+    "learner_type": "Anyone new to LE, coming from instructional design or adjacent field",
+    "stage": "2",
+    "stage_name": "LE Process & Measurement",
+    "topics": "T03, T04",
+    "anchor_resources": "KLI Framework (LE-T1-008); LEVI Toolkit (LE-T1-007); Siemens LA (LE-T1-010)"
+  },
+  {
+    "journey_id": "J-01",
+    "journey_name": "LE Practitioner \u2014 From Scratch",
+    "learner_type": "Anyone new to LE, coming from instructional design or adjacent field",
+    "stage": "3",
+    "stage_name": "Adaptive Systems & AI",
+    "topics": "T06, T07",
+    "anchor_resources": "ITS review (LE-T1-013); LLM survey (LE-T1-015); ASSISTments (LE-PP-030)"
+  },
+  {
+    "journey_id": "J-01",
+    "journey_name": "LE Practitioner \u2014 From Scratch",
+    "learner_type": "Anyone new to LE, coming from instructional design or adjacent field",
+    "stage": "4",
+    "stage_name": "Evidence & Community",
+    "topics": "T15, T16",
+    "anchor_resources": "Kirkpatrick (LE-T1-021); IEEE ICICLE BoK (LE-T1-033); IEEE ICICLE community (LE-PP-040)"
+  },
+  {
+    "journey_id": "J-02",
+    "journey_name": "Systems Engineer \u2014 Adding LE Lens",
+    "learner_type": "Engineer or PM who needs to apply LE in complex technical programs",
+    "stage": "0",
+    "stage_name": "Human Factors & HSI Context",
+    "topics": "T02, T13",
+    "anchor_resources": "HSI Handbook (LE-T1-005); Human Error (LE-T1-027); LENS @ JHU overview (LE-PP-001)"
+  },
+  {
+    "journey_id": "J-02",
+    "journey_name": "Systems Engineer \u2014 Adding LE Lens",
+    "learner_type": "Engineer or PM who needs to apply LE in complex technical programs",
+    "stage": "1",
+    "stage_name": "LE Field Overview",
+    "topics": "T00",
+    "anchor_resources": "Saxberg 2016; Goodell textbook overview; ICICLE BoK"
+  },
+  {
+    "journey_id": "J-02",
+    "journey_name": "Systems Engineer \u2014 Adding LE Lens",
+    "learner_type": "Engineer or PM who needs to apply LE in complex technical programs",
+    "stage": "2",
+    "stage_name": "Workforce & Training Systems",
+    "topics": "T10",
+    "anchor_resources": "Sitzmann simulation meta-analysis (LE-T1-017); Kirkpatrick evaluation; CTA guide (LE-T1-019)"
+  },
+  {
+    "journey_id": "J-02",
+    "journey_name": "Systems Engineer \u2014 Adding LE Lens",
+    "learner_type": "Engineer or PM who needs to apply LE in complex technical programs",
+    "stage": "3",
+    "stage_name": "Measurement & Evidence",
+    "topics": "T04, T15",
+    "anchor_resources": "Siemens LA; Kirkpatrick; Baker EDM (LE-PP-011 work)"
+  },
+  {
+    "journey_id": "J-02",
+    "journey_name": "Systems Engineer \u2014 Adding LE Lens",
+    "learner_type": "Engineer or PM who needs to apply LE in complex technical programs",
+    "stage": "4",
+    "stage_name": "Expert Elicitation & Knowledge Capture",
+    "topics": "T09",
+    "anchor_resources": "CTA guide; knowledge representation (T05); PISTA/ExpertTrace approach"
+  },
+  {
+    "journey_id": "J-03",
+    "journey_name": "Researcher \u2014 Field Entry",
+    "learner_type": "Graduate student or postdoc beginning LE research",
+    "stage": "0",
+    "stage_name": "Field Definition & Methods",
+    "topics": "T00, T17",
+    "anchor_resources": "Goodell textbook; Saxberg; Design-Based Research (LE-T1-035)"
+  },
+  {
+    "journey_id": "J-03",
+    "journey_name": "Researcher \u2014 Field Entry",
+    "learner_type": "Graduate student or postdoc beginning LE research",
+    "stage": "1",
+    "stage_name": "Learning Science & Analytics",
+    "topics": "T01, T04",
+    "anchor_resources": "Dunlosky; CLT; EDM review (LE-T1-009); LA field definition (LE-T1-010)"
+  },
+  {
+    "journey_id": "J-03",
+    "journey_name": "Researcher \u2014 Field Entry",
+    "learner_type": "Graduate student or postdoc beginning LE research",
+    "stage": "2",
+    "stage_name": "ITS & AI Systems",
+    "topics": "T06, T07",
+    "anchor_resources": "ITS review; LLM survey; DataShop (LE-PP-031)"
+  },
+  {
+    "journey_id": "J-03",
+    "journey_name": "Researcher \u2014 Field Entry",
+    "learner_type": "Graduate student or postdoc beginning LE research",
+    "stage": "3",
+    "stage_name": "Equity, Ethics & Evidence Standards",
+    "topics": "T14, T15",
+    "anchor_resources": "Algorithmic fairness (LE-T1-029); Kirkpatrick; DBR methodology"
+  },
+  {
+    "journey_id": "J-03",
+    "journey_name": "Researcher \u2014 Field Entry",
+    "learner_type": "Graduate student or postdoc beginning LE research",
+    "stage": "4",
+    "stage_name": "Community & Venues",
+    "topics": "T16",
+    "anchor_resources": "IEEE ICICLE; Learning@Scale (LE-PP-020); EDM (LE-PP-021); AIED (LE-PP-022)"
+  },
+  {
+    "journey_id": "J-04",
+    "journey_name": "LENS @ JHU Student",
+    "learner_type": "Student enrolled in LENS concentration \u2014 high-consequence domain professional",
+    "stage": "0",
+    "stage_name": "LE Field & HSI Framing",
+    "topics": "T00, T02",
+    "anchor_resources": "Saxberg 2016; HSI Handbook; LENS program overview; ICICLE BoK"
+  },
+  {
+    "journey_id": "J-04",
+    "journey_name": "LENS @ JHU Student",
+    "learner_type": "Student enrolled in LENS concentration \u2014 high-consequence domain professional",
+    "stage": "1",
+    "stage_name": "High-Consequence Domains",
+    "topics": "T13",
+    "anchor_resources": "Reason Human Error; HSI applications; domain-specific literature from student's field"
+  },
+  {
+    "journey_id": "J-04",
+    "journey_name": "LENS @ JHU Student",
+    "learner_type": "Student enrolled in LENS concentration \u2014 high-consequence domain professional",
+    "stage": "2",
+    "stage_name": "Measurement & Decision-Grade Evidence",
+    "topics": "T04, T15",
+    "anchor_resources": "Siemens LA; Kirkpatrick; evidence standards for operational domains"
+  },
+  {
+    "journey_id": "J-04",
+    "journey_name": "LENS @ JHU Student",
+    "learner_type": "Student enrolled in LENS concentration \u2014 high-consequence domain professional",
+    "stage": "3",
+    "stage_name": "Expert Knowledge & Workforce Systems",
+    "topics": "T09, T10",
+    "anchor_resources": "CTA guide; simulation literature; workforce development research"
+  },
+  {
+    "journey_id": "J-04",
+    "journey_name": "LENS @ JHU Student",
+    "learner_type": "Student enrolled in LENS concentration \u2014 high-consequence domain professional",
+    "stage": "4",
+    "stage_name": "Ethics, Equity & Professional Community",
+    "topics": "T14, T16",
+    "anchor_resources": "Algorithmic fairness; IEEE ICICLE credentialing; governance frameworks"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "generated_at_utc": "2026-04-09T02:21:12.028328+00:00",
+  "input_seed_file": "corpus/expansion_seed_queries.jsonl",
+  "counts": {
+    "seed_queries_total": 295,
+    "seed_resolved_total": 0,
+    "seed_unresolved_total": 295,
+    "candidates_total": 0,
+    "candidates_forward_edge": 0,
+    "candidates_backward_edge": 0,
+    "candidates_cross_seed_ge_2": 0,
+    "candidates_cross_seed_ge_3": 0
+  },
+  "seed_resolution_breakdown": {
+    "error:CalledProcessError": 295
+  },
+  "seed_kind_breakdown": {
+    "book_endnote_reference": 268,
+    "workbook_expansion_source": 27
+  }
+}

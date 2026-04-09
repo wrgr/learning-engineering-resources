@@ -1,0 +1,10 @@
+{
+  "counts": {
+    "input_cross_seed_ge2": 1030,
+    "induced_edges": 4207,
+    "indegree_ge2": 493,
+    "undirected_2core": 823,
+    "final_intersection": 492
+  },
+  "output": "corpus/expansion/candidates_cross_seed_ge2_kcore2_indegree2.jsonl"
+}

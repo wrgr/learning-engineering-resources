@@ -1,0 +1,212 @@
+[
+  {
+    "field_name": "corpus_id",
+    "type": "String",
+    "required": "Yes",
+    "definition": "Unique document identifier. Format: LE-[TIER]-[NNN].",
+    "valid_values_or_format": "LE-T1-001 | LE-T2-047 | LE-T3-012 | LE-T4-003"
+  },
+  {
+    "field_name": "status",
+    "type": "Enum",
+    "required": "Yes",
+    "definition": "Current curation status.",
+    "valid_values_or_format": "DRAFT | APPROVED | INGESTED | REJECTED | WATCH"
+  },
+  {
+    "field_name": "selection_tier",
+    "type": "Enum",
+    "required": "Yes",
+    "definition": "Pipeline tier that selected this document.",
+    "valid_values_or_format": "T1 | T2 | T3 | T4"
+  },
+  {
+    "field_name": "title",
+    "type": "String",
+    "required": "Yes",
+    "definition": "Full title. Do not abbreviate.",
+    "valid_values_or_format": ""
+  },
+  {
+    "field_name": "authors",
+    "type": "String",
+    "required": "Yes",
+    "definition": "First author et al. For grey lit, use organization name.",
+    "valid_values_or_format": ""
+  },
+  {
+    "field_name": "year",
+    "type": "Integer",
+    "required": "Yes",
+    "definition": "Year of publication or posting (preprints).",
+    "valid_values_or_format": ""
+  },
+  {
+    "field_name": "venue",
+    "type": "String",
+    "required": "Yes",
+    "definition": "Journal, conference, or publisher. For grey lit: organization.",
+    "valid_values_or_format": ""
+  },
+  {
+    "field_name": "doi",
+    "type": "String",
+    "required": "Cond.",
+    "definition": "Full DOI URL. Required for peer-reviewed papers.",
+    "valid_values_or_format": "https://doi.org/..."
+  },
+  {
+    "field_name": "primary_topic",
+    "type": "Enum",
+    "required": "Yes",
+    "definition": "One topic code from Topic Map.",
+    "valid_values_or_format": "T00\u2013T17"
+  },
+  {
+    "field_name": "secondary_topics",
+    "type": "String",
+    "required": "No",
+    "definition": "Comma-separated topic codes (max 3). Substantive content only.",
+    "valid_values_or_format": "T01, T06"
+  },
+  {
+    "field_name": "topic_justification",
+    "type": "String",
+    "required": "Cond.",
+    "definition": "Required if secondary_topics non-empty. One sentence per secondary topic.",
+    "valid_values_or_format": ""
+  },
+  {
+    "field_name": "content_type",
+    "type": "Enum",
+    "required": "Yes",
+    "definition": "Resource type from Content Type Taxonomy.",
+    "valid_values_or_format": "AP | SG | GL | PC | PP | CE | TP | CO"
+  },
+  {
+    "field_name": "recency_flag",
+    "type": "Enum",
+    "required": "Yes",
+    "definition": "\u2693 foundational anchor | \u2705 current (last 5yr) | \u26a0\ufe0f aging (5\u201315yr)",
+    "valid_values_or_format": "\u2693 | \u2705 | \u26a0\ufe0f"
+  },
+  {
+    "field_name": "geo_scope",
+    "type": "String",
+    "required": "Yes",
+    "definition": "Primary geographic scope.",
+    "valid_values_or_format": "US | Global | Europe | Multi-regional"
+  },
+  {
+    "field_name": "population",
+    "type": "String",
+    "required": "Yes",
+    "definition": "Target learner/population described.",
+    "valid_values_or_format": "K12 | Higher Ed | Workforce | Researchers | All"
+  },
+  {
+    "field_name": "evidence_type",
+    "type": "String",
+    "required": "Yes",
+    "definition": "Study design or document type.",
+    "valid_values_or_format": "RCT | Quasi-exp | Survey | Review | Framework | Grey Lit | Standards"
+  },
+  {
+    "field_name": "cross_seed_score",
+    "type": "Integer",
+    "required": "T2/T3",
+    "definition": "Number of T1 seeds in whose 1-hop neighborhood this paper appears.",
+    "valid_values_or_format": "0\u2013N"
+  },
+  {
+    "field_name": "connected_seed_ids",
+    "type": "String",
+    "required": "T2/T3",
+    "definition": "Comma-separated corpus_ids of connected seeds.",
+    "valid_values_or_format": "LE-T1-001, LE-T1-008"
+  },
+  {
+    "field_name": "subdomain_score",
+    "type": "Float",
+    "required": "T2/T3",
+    "definition": "max(citation_percentile, velocity_percentile) within qualifying topic.",
+    "valid_values_or_format": "0.00\u20131.00"
+  },
+  {
+    "field_name": "subdomain_score_topic",
+    "type": "Enum",
+    "required": "T2/T3",
+    "definition": "Topic code in which paper achieved qualifying subdomain_score.",
+    "valid_values_or_format": "T00\u2013T17"
+  },
+  {
+    "field_name": "citation_count",
+    "type": "Integer",
+    "required": "Yes",
+    "definition": "Total citations at time of pipeline run. Source: OpenAlex or Semantic Scholar.",
+    "valid_values_or_format": ""
+  },
+  {
+    "field_name": "velocity_score",
+    "type": "Float",
+    "required": "Yes",
+    "definition": "Citations in last 2 years / paper_age_in_years.",
+    "valid_values_or_format": ""
+  },
+  {
+    "field_name": "selection_source",
+    "type": "String",
+    "required": "Yes",
+    "definition": "How document was identified. Be specific.",
+    "valid_values_or_format": "Seed \u2014 T00 textbook anchor | IEEE ICICLE resources page | T2 expansion from LE-T1-008"
+  },
+  {
+    "field_name": "expansion_source_id",
+    "type": "String",
+    "required": "T2/T3",
+    "definition": "Seed or anchor IDs from which paper was reached in one-hop expansion.",
+    "valid_values_or_format": "LE-T1-001, R2"
+  },
+  {
+    "field_name": "ieee_icicle_listed",
+    "type": "Enum",
+    "required": "Yes",
+    "definition": "Whether resource appears on IEEE ICICLE resources page.",
+    "valid_values_or_format": "YES | NO | UNKNOWN"
+  },
+  {
+    "field_name": "qa_notes",
+    "type": "String",
+    "required": "No",
+    "definition": "Quality assurance notes or flags for reviewer attention.",
+    "valid_values_or_format": ""
+  },
+  {
+    "field_name": "rejection_reason",
+    "type": "String",
+    "required": "Cond.",
+    "definition": "Required if status = REJECTED.",
+    "valid_values_or_format": ""
+  },
+  {
+    "field_name": "date_added",
+    "type": "Date",
+    "required": "Yes",
+    "definition": "Date row was added. Format YYYY-MM-DD.",
+    "valid_values_or_format": "2026-05-01"
+  },
+  {
+    "field_name": "date_reviewed",
+    "type": "Date",
+    "required": "Cond.",
+    "definition": "Date reviewed for APPROVED or REJECTED.",
+    "valid_values_or_format": "2026-05-01"
+  },
+  {
+    "field_name": "reviewed_by",
+    "type": "String",
+    "required": "Cond.",
+    "definition": "Name or initials of reviewer.",
+    "valid_values_or_format": "W. Gray-Roncal"
+  }
+]

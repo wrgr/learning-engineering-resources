@@ -1,0 +1,201 @@
+{
+  "programs": [
+    {
+      "name": "LENS @ JHU \u2014 Learning Engineering for Next-Generation Systems",
+      "category": "academic",
+      "summary": "Concentration within JHU MEd in Learning Design & Technology. Targets practitioners in complex organizations: defense, healthcare, large-scale education. Grounded in human systems integration and learning engineering expertise. Capstone produces evidence dashboard, reproducible report, and governance/ethics plan. Unique JHU ecosystem: APL + Medicine + IEEE/ICICLE partnership.",
+      "links": []
+    },
+    {
+      "name": "Human-Computer Interaction Institute \u2014 CMU",
+      "category": "academic",
+      "summary": "Home of Ken Koedinger and Cognitive Tutor / LearnLab. One of the premier academic homes for LE research globally. PhD and MS programs.",
+      "links": [
+        "https://hcii.cmu.edu"
+      ]
+    },
+    {
+      "name": "Learning Engineering Virtual Institute (LEVI)",
+      "category": "academic",
+      "summary": "LEVI brought together practitioners and researchers to define learning engineering practice. Published foundational resources on LE process and evidence standards.",
+      "links": [
+        "https://aurora-institute.org"
+      ]
+    },
+    {
+      "name": "Open Learning Initiative (OLI)",
+      "category": "academic",
+      "summary": "OLI is the flagship LE platform from CMU \u2014 courses built with LE principles, continuous improvement, embedded formative assessment, and learning analytics.",
+      "links": [
+        "https://oli.cmu.edu"
+      ]
+    },
+    {
+      "name": "Ken Koedinger",
+      "category": "people",
+      "summary": "Co-originator of learning engineering as a field. Creator of Cognitive Tutor. Pioneer of PSLC DataShop and LearnLab. Foundational theorist and practitioner.",
+      "links": [
+        "https://pact.cs.cmu.edu/koedinger.html"
+      ]
+    },
+    {
+      "name": "Ryan Baker",
+      "category": "people",
+      "summary": "Pioneer in educational data mining and learning analytics. Author of key EDM methods handbook. EDM journal editor.",
+      "links": [
+        "https://www.upenn.edu/faculty/ryan-baker"
+      ]
+    },
+    {
+      "name": "Bror Saxberg",
+      "category": "people",
+      "summary": "Early champion of learning engineering as a named field. Wrote influential 2016 Atlantic piece calling for learning engineers. Practitioner-bridge figure.",
+      "links": []
+    },
+    {
+      "name": "Jim Goodell",
+      "category": "people",
+      "summary": "Co-founder of Learning Engineering book (IEEE Press). Co-editor of canonical LE textbook. Core IEEE ICICLE contributor.",
+      "links": [
+        "https://www.qualityinformationpartners.com"
+      ]
+    },
+    {
+      "name": "John Behrens",
+      "category": "people",
+      "summary": "Evidence-centered design; learning analytics at scale; psychometrics meets LE. Key bridge between assessment science and learning engineering.",
+      "links": []
+    },
+    {
+      "name": "Will Gray-Roncal",
+      "category": "people",
+      "summary": "Principal PI of LENS @ JHU, CIRCUIT, MERIT programs. Connectomics and agentic AI researcher. Visiting Assistant Professor developing Learning Engineering Specialization at JHU.",
+      "links": []
+    },
+    {
+      "name": "Learning @ Scale",
+      "category": "events",
+      "summary": "Premier venue for LE research at scale. Emphasizes empirical evidence and adaptive/personalized learning. Annual.",
+      "links": [
+        "https://learningatscale.acm.org"
+      ]
+    },
+    {
+      "name": "Educational Data Mining (EDM)",
+      "category": "events",
+      "summary": "Annual international conference and journal. Primary venue for learning analytics and EDM research.",
+      "links": [
+        "https://educationaldatamining.org"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence in Education (AIED)",
+      "category": "events",
+      "summary": "Flagship AI in education conference. ITS sub-conference often co-located. Annual; alternating with ITS.",
+      "links": [
+        "https://aied.org"
+      ]
+    },
+    {
+      "name": "Learning Analytics & Knowledge (LAK)",
+      "category": "events",
+      "summary": "Premier analytics in education conference. Strong on data infrastructure and equity.",
+      "links": [
+        "https://www.solaresearch.org/events/lak/"
+      ]
+    },
+    {
+      "name": "IEEE ICICLE Annual Meeting",
+      "category": "events",
+      "summary": "Annual community gathering for the IEEE learning engineering community. Standards, BoK, and credentialing discussions.",
+      "links": [
+        "https://sagroups.ieee.org/icicle/"
+      ]
+    },
+    {
+      "name": "ASSISTments",
+      "category": "tools",
+      "summary": "Free ITS platform widely used for math tutoring research. Large research base. RCTs conducted on platform.",
+      "links": [
+        "https://www.assistments.org"
+      ]
+    },
+    {
+      "name": "DataShop / LearnSphere",
+      "category": "tools",
+      "summary": "Largest open repository of learning interaction data. Enables corpus expansion and field-level analysis.",
+      "links": [
+        "https://pslcdatashop.web.cmu.edu"
+      ]
+    },
+    {
+      "name": "xAPI / Tin Can API",
+      "category": "tools",
+      "summary": "Standard for learning activity data. Foundation for interoperable learning record stores. Key infrastructure standard.",
+      "links": [
+        "https://xapi.com"
+      ]
+    },
+    {
+      "name": "IEEE ICICLE",
+      "category": "organizations",
+      "summary": "International Community for IEEE Learning Engineering. Primary professional home for LE. Developing BoK, standards, credentialing. Resources page is a primary seed source for this corpus.",
+      "links": [
+        "https://sagroups.ieee.org/icicle/"
+      ]
+    },
+    {
+      "name": "Society for Learning Analytics Research (SoLAR)",
+      "category": "organizations",
+      "summary": "International nonprofit dedicated to research, practice, and policy of learning analytics. Home of LAK conference and companion journal.",
+      "links": [
+        "https://www.solaresearch.org"
+      ]
+    },
+    {
+      "name": "International Society for the Learning Sciences (ISLS)",
+      "category": "organizations",
+      "summary": "Home of CSCL and ICLS conferences. Bridges learning science and design. Important for T01 foundation layer.",
+      "links": [
+        "https://www.isls.org"
+      ]
+    },
+    {
+      "name": "Learning Engineering (IEEE Press textbook)",
+      "category": "grey_literature",
+      "summary": "The canonical textbook of the field. Two-part structure. End notes are a primary seed source for citation expansion. IEEE Press, 2022.",
+      "links": []
+    },
+    {
+      "name": "IEEE ICICLE Resources Page",
+      "category": "grey_literature",
+      "summary": "Curated resource list maintained by IEEE ICICLE community. Includes papers, tools, programs, and community resources. Lacks cohesion and learning journey structure \u2014 this corpus addresses that gap.",
+      "links": [
+        "https://sagroups.ieee.org/icicle/resources/"
+      ]
+    },
+    {
+      "name": "How People Learn I & II",
+      "category": "grey_literature",
+      "summary": "Foundational synthesis of learning science for educators. Free online. Widely cited. Essential T01 anchor.",
+      "links": [
+        "https://www.nap.edu/catalog/24783"
+      ]
+    },
+    {
+      "name": "Saxberg 2016 Atlantic: 'Forgotten Role of Learning Engineer'",
+      "category": "grey_literature",
+      "summary": "Canonical entry point essay calling for the learning engineering profession. Widely cited. Short. Often assigned reading.",
+      "links": []
+    },
+    {
+      "name": "ICICLE Body of Knowledge (BoK) \u2014 current draft",
+      "category": "grey_literature",
+      "summary": "The field's emerging canonical definition document. Defines competency areas, vocabulary, and practice standards.",
+      "links": [
+        "https://sagroups.ieee.org/icicle/"
+      ]
+    }
+  ],
+  "adjacent_program_mentions": []
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "step": "STEP 0: SEED EXPANSION SOURCES",
+    "detail": "Start with ~40 expansion sources:\n\u2022 20 academic seeds (T1, see Corpus Registry)\n\u2022 8 grey literature anchors (IEEE ICICLE BoK, LEVI Toolkit, How People Learn, Saxberg essay, IEEE Press textbook chapters, ICICLE resources page)\n\u2022 6 review anchors: comprehensive recent surveys of ITS, EDM, LA, LE process, simulation, expert elicitation\n\u2022 6 from Programs & People Registry (LENS, CMU OLI, ASSISTments)\n\nFor academic literature: run one-hop expansion via OpenAlex.\nFor non-paper resources: harvest IEEE ICICLE resources page manually.",
+    "notes": "IEEE ICICLE resources page is mandatory manual harvest. Categorize every item by content_type and primary_topic before pipeline runs."
+  },
+  {
+    "step": "STEP 1: IEEE ICICLE RESOURCES HARVEST",
+    "detail": "Manually scrape and categorize https://sagroups.ieee.org/icicle/resources/\nFor each item:\n\u2022 Assign content_type (AP/SG/PC/PP/CE/TP/GL/CO)\n\u2022 Assign primary_topic from Topic Map\n\u2022 Add to Corpus Registry or Programs & People Registry\n\u2022 Flag as ieee_icicle_listed = YES\n\nExpected: 50\u2013100 resources on ICICLE page.",
+    "notes": "This is the field's own curated list. All items are Tier 4 candidates at minimum. Complete before running algorithmic pipeline."
+  },
+  {
+    "step": "STEP 2: ONE-HOP EXPANSION (ACADEMIC)",
+    "detail": "Run forward (citing) + backward (cited) expansion from all academic seeds via OpenAlex.\nEndpoints:\n\u2022 Forward: api.openalex.org/works?filter=cites:{id}\n\u2022 Backward: referenced_works field\n\nExpected raw output: 3,000\u20138,000 papers. Deduplicate by OpenAlex Work ID or DOI.",
+    "notes": "LE field is smaller than biomedical \u2014 expect fewer candidates than MS pipeline. Supplement with conference proceedings (Learning@Scale, EDM, AIED, ITS, LAK)."
+  },
+  {
+    "step": "STEP 3: CROSS-SEED CONNECTIVITY FILTER",
+    "detail": "For each candidate, compute:\n  cross_seed_score = count of T1 seeds in whose 1-hop neighborhood this paper appears\n\nThreshold: cross_seed_score >= 3 advances to Tier 2.\nFor conference proceedings not in OpenAlex: use Semantic Scholar API as fallback.",
+    "notes": "LE has conference-heavy publication norms. Many important papers are at Learning@Scale, EDM, AIED \u2014 ensure these are indexed. May need to seed directly from conference proceedings."
+  },
+  {
+    "step": "STEP 4: SUBDOMAIN SCORING",
+    "detail": "For each topic T00\u2013T17:\n  subdomain_score = max(citation_percentile_in_topic, velocity_percentile_in_topic)\n  velocity = citations_last_2_years / paper_age\n\nThreshold: subdomain_score >= 0.70 within qualifying topic advances to Tier 3.\nNormalize within topic, not across field (LE has very different citation norms across subfields).",
+    "notes": "T07 (AI/LLMs) will have high velocity \u2014 apply extra scrutiny for conceptual vs. empirical contributions. T00/T16 (field definition) papers accumulate slowly but are foundational \u2014 lower velocity threshold to 0.60 for these topics."
+  },
+  {
+    "step": "STEP 5: TIER 4 MANUAL ADDITIONS",
+    "detail": "Mandatory manual additions regardless of algorithmic score:\n\u2022 All items from IEEE ICICLE resources page (Step 1)\n\u2022 LENS @ JHU program materials and affiliated publications\n\u2022 Conference best papers from Learning@Scale, EDM, AIED, ITS (last 5 years)\n\u2022 IEEE ICICLE working group outputs and standards\n\u2022 Non-English LE literature (Japanese adaptive learning; European vocational training research)\n\u2022 Practitioner-generated resources (industry white papers, professional guides)\n\u2022 ExpertTrace / CIRCUIT / MERIT program publications (APL-affiliated)",
+    "notes": "Tier 4 should be ~20% of corpus given policy/grey lit importance in LE. Every T4 item must have documented selection_source."
+  },
+  {
+    "step": "STEP 6: PROGRAMS & PEOPLE HARVEST",
+    "detail": "For non-paper resources:\n\u2022 Verify all entries in Programs & People Registry have url, primary_topic, description\n\u2022 Cross-reference IEEE ICICLE community page for missing people/programs\n\u2022 Add major conference series (Learning@Scale, EDM, AIED, ITS, LAK, ICICLE)\n\u2022 Verify LENS @ JHU details are current and accurate\n\u2022 Add any JHU APL affiliated programs (CIRCUIT, MERIT, PISTA) as PC/CO entries",
+    "notes": "People and programs are first-class entities in this corpus. Knowledge graph edges depend on accurate registry."
+  },
+  {
+    "step": "STEP 7: BALANCE CHECK & QA",
+    "detail": "Review full corpus against:\n1. Topic balance: each T00\u2013T17 approaches target_n from Topic Map\n2. Content type balance: mix of AP/SG/GL/PP/PC/CE/TP/CO\n3. ICICLE coverage: all ICICLE resources page items accounted for\n4. LENS @ JHU: program materials fully represented\n5. Recency balance: both foundational anchors and current work per topic\n6. Practitioner vs. researcher voice balance\n\nSet status = APPROVED or REJECTED for each entry with documented reason.",
+    "notes": "QA metric: for each review anchor, compute overlap_pct = anchor_refs_in_corpus / total_anchor_refs. Target: >65% (lower threshold than biomedical due to conference norms)."
+  }
+]

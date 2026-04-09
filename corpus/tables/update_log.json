@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-05-01",
+    "version": "1.0",
+    "changed_by": "W. Gray-Roncal",
+    "change_type": "Initial creation",
+    "description": "Workbook created. 20 T1 seeds in Corpus Registry. 6 review anchors. 25 Programs & People Registry entries (incl. LENS @ JHU as anchor program). 18-topic Topic Map (Foundation/Practice/Context layers). Content Type Taxonomy (8 types). 4 Learning Journeys. Knowledge Graph Seeds. 10 Gap Tracker entries. Selection Pipeline adapted for LE field and IEEE ICICLE integration. Metadata schema includes ieee_icicle_listed field."
+  },
+  {
+    "date": "YYYY-MM-DD",
+    "version": "",
+    "changed_by": "",
+    "change_type": "Addition | Removal | Schema change | Status update",
+    "description": "Describe what changed and why."
+  }
+]
