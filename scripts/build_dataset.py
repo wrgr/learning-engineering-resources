@@ -6,6 +6,8 @@ from __future__ import annotations
 import json
 import os
 import re
+import subprocess
+import tempfile
 import time
 import urllib.error
 import urllib.parse
@@ -46,6 +48,7 @@ URL_FETCH_TIMEOUT_SEC = 30.0
 URL_FETCH_SLEEP_SEC = 0.08
 URL_FETCH_MAX_RETRIES = 4
 URL_ABSTRACT_CACHE_PATH = CORPUS_DIR / "cache" / "url_abstract_cache.json"
+URL_PDF_ABSTRACT_CACHE_PATH = CORPUS_DIR / "cache" / "url_pdf_abstract_cache.json"
 
 
 def load_json(path: Path):
@@ -453,6 +456,8 @@ def enrich_missing_abstracts_from_crossref(seed_papers: List[Dict], hop_papers: 
         abstract = (cache.get(doi) or "").strip()
         if abstract and not (paper.get("abstract") or "").strip():
             paper["abstract"] = abstract
+            paper["abstract_source"] = "crossref"
+            paper["abstract_is_proxy"] = False
             filled += 1
 
     remaining_missing = sum(1 for p in papers if not (p.get("abstract") or "").strip())
@@ -554,6 +559,8 @@ def enrich_missing_abstracts_from_arxiv(seed_papers: List[Dict], hop_papers: Lis
         abstract = (cache.get(arxiv_id) or "").strip()
         if abstract and not (paper.get("abstract") or "").strip():
             paper["abstract"] = abstract
+            paper["abstract_source"] = "arxiv"
+            paper["abstract_is_proxy"] = False
             filled += 1
 
     remaining_missing = sum(1 for p in papers if not (p.get("abstract") or "").strip())
@@ -588,6 +595,29 @@ def save_url_abstract_cache(path: Path, rows: Dict[str, str]) -> None:
     write_json(path, payload)
 
 
+def load_url_pdf_abstract_cache(path: Path) -> Dict[str, str]:
+    if not path.exists():
+        return {}
+    try:
+        payload = load_json(path)
+    except Exception:
+        return {}
+    if isinstance(payload, dict) and isinstance(payload.get("abstracts"), dict):
+        return payload["abstracts"]
+    if isinstance(payload, dict):
+        return {k: v for k, v in payload.items() if isinstance(v, str)}
+    return {}
+
+
+def save_url_pdf_abstract_cache(path: Path, rows: Dict[str, str]) -> None:
+    payload = {
+        "updated_at_utc": datetime.now(timezone.utc).isoformat(),
+        "abstracts": rows,
+        "count": len(rows),
+    }
+    write_json(path, payload)
+
+
 def looks_abstract_like(text: str) -> bool:
     if not text:
         return False
@@ -604,6 +634,21 @@ def looks_abstract_like(text: str) -> bool:
         "no abstract available",
     ]
     if any(s in low for s in bad_snippets):
+        return False
+    return True
+
+
+def looks_pdf_abstract_like(text: str) -> bool:
+    if not looks_abstract_like(text):
+        return False
+    t = " ".join(text.split())
+    if len(t) < 120 or len(t) > 2800:
+        return False
+    alpha = sum(1 for ch in t if ch.isalpha())
+    if alpha < 90:
+        return False
+    digit_ratio = sum(1 for ch in t if ch.isdigit()) / max(len(t), 1)
+    if digit_ratio > 0.16:
         return False
     return True
 
@@ -633,6 +678,120 @@ def fetch_url_html(url: str) -> str:
                 return ""
             time.sleep(min(2**attempt, 20))
     return ""
+
+
+def discover_pdf_urls_from_html(html: str, base_url: str) -> List[str]:
+    urls: List[str] = []
+    if not html:
+        return urls
+
+    meta_match = re.search(
+        r'<meta[^>]+name=["\']citation_pdf_url["\'][^>]+content=["\'](.*?)["\']',
+        html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    if meta_match:
+        value = (meta_match.group(1) or "").strip()
+        if value:
+            urls.append(urllib.parse.urljoin(base_url, value))
+
+    hrefs = re.findall(r'href=["\'](.*?)["\']', html, flags=re.IGNORECASE | re.DOTALL)
+    for href in hrefs:
+        value = (href or "").strip()
+        if not value:
+            continue
+        low = value.lower()
+        if ".pdf" in low or "/pdf/" in low:
+            urls.append(urllib.parse.urljoin(base_url, value))
+
+    out: List[str] = []
+    seen: Set[str] = set()
+    for url in urls:
+        normalized = url.split("#", 1)[0]
+        if normalized not in seen:
+            seen.add(normalized)
+            out.append(normalized)
+    return out
+
+
+def fetch_pdf_bytes(url: str) -> bytes:
+    if not url:
+        return b""
+    req = urllib.request.Request(url, headers={"User-Agent": "learning-engineering-resources/1.0"})
+    for attempt in range(URL_FETCH_MAX_RETRIES + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=URL_FETCH_TIMEOUT_SEC) as resp:
+                content_type = (resp.headers.get("Content-Type") or "").lower()
+                body = resp.read()
+            if URL_FETCH_SLEEP_SEC > 0:
+                time.sleep(URL_FETCH_SLEEP_SEC)
+            if not body:
+                return b""
+            looks_pdf = body.startswith(b"%PDF") or "pdf" in content_type or url.lower().endswith(".pdf")
+            return body if looks_pdf else b""
+        except urllib.error.HTTPError as exc:
+            if exc.code in {403, 404, 410}:
+                return b""
+            if attempt >= URL_FETCH_MAX_RETRIES:
+                return b""
+            time.sleep(min(2**attempt, 20))
+        except urllib.error.URLError:
+            if attempt >= URL_FETCH_MAX_RETRIES:
+                return b""
+            time.sleep(min(2**attempt, 20))
+    return b""
+
+
+def extract_candidate_abstract_from_text(text: str) -> str:
+    if not text:
+        return ""
+    cleaned = re.sub(r"\s+", " ", text).strip()
+    if not cleaned:
+        return ""
+
+    pattern = re.compile(
+        r"\babstract\b\s*[:.\-]?\s*(.+?)(?:\bkeywords?\b\s*[:\-]|(?:\b1\b\s*[.)-]?\s*introduction\b)|\bintroduction\b)",
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    match = pattern.search(cleaned)
+    if match:
+        candidate = " ".join(match.group(1).split())
+        if looks_pdf_abstract_like(candidate):
+            return candidate
+
+    if cleaned.lower().startswith("abstract"):
+        candidate = cleaned[8:].strip(" .:-")
+        if looks_pdf_abstract_like(candidate):
+            return candidate
+
+    return ""
+
+
+def extract_abstract_from_pdf_bytes(pdf_bytes: bytes) -> str:
+    if not pdf_bytes:
+        return ""
+    try:
+        with tempfile.NamedTemporaryFile(suffix=".pdf", delete=True) as infile:
+            infile.write(pdf_bytes)
+            infile.flush()
+            out = subprocess.check_output(
+                [
+                    "pdftotext",
+                    "-f",
+                    "1",
+                    "-l",
+                    "3",
+                    "-enc",
+                    "UTF-8",
+                    infile.name,
+                    "-",
+                ],
+                text=True,
+                stderr=subprocess.DEVNULL,
+            )
+    except Exception:
+        return ""
+    return extract_candidate_abstract_from_text(out)
 
 
 def parse_jsonld_abstract(html: str) -> str:
@@ -722,9 +881,13 @@ def enrich_missing_abstracts_from_urls(seed_papers: List[Dict], hop_papers: List
     missing = [p for p in papers if not (p.get("abstract") or "").strip()]
 
     cache = load_url_abstract_cache(URL_ABSTRACT_CACHE_PATH)
+    pdf_cache = load_url_pdf_abstract_cache(URL_PDF_ABSTRACT_CACHE_PATH)
     fetched = 0
     filled = 0
     urls_checked = 0
+    pdf_urls_checked = 0
+    pdf_urls_fetched = 0
+    pdf_abstracts_filled = 0
 
     for paper in missing:
         for url in candidate_urls_for_paper(paper):
@@ -735,21 +898,107 @@ def enrich_missing_abstracts_from_urls(seed_papers: List[Dict], hop_papers: List
                 html = fetch_url_html(url)
                 cache[url] = extract_abstract_from_html(html, url) if html else ""
                 fetched += 1
+            else:
+                html = fetch_url_html(url) if (cache.get(url, "") == "" and url.startswith(("http://", "https://"))) else ""
             candidate = (cache.get(url) or "").strip()
             if candidate and not (paper.get("abstract") or "").strip():
                 paper["abstract"] = candidate
+                paper["abstract_source"] = "url_meta"
+                paper["abstract_is_proxy"] = False
                 filled += 1
                 break
 
+            if (paper.get("abstract") or "").strip():
+                break
+
+            pdf_urls: List[str] = []
+            if url.lower().endswith(".pdf"):
+                pdf_urls.append(url)
+            else:
+                # Some DOI/source URLs redirect directly to PDF payloads.
+                pdf_urls.append(url)
+            if html:
+                pdf_urls.extend(discover_pdf_urls_from_html(html, url))
+
+            seen_pdf: Set[str] = set()
+            for pdf_url in pdf_urls:
+                if (paper.get("abstract") or "").strip():
+                    break
+                normalized_pdf = pdf_url.split("#", 1)[0]
+                if normalized_pdf in seen_pdf:
+                    continue
+                seen_pdf.add(normalized_pdf)
+                pdf_urls_checked += 1
+                if normalized_pdf not in pdf_cache:
+                    pdf_bytes = fetch_pdf_bytes(normalized_pdf)
+                    pdf_cache[normalized_pdf] = extract_abstract_from_pdf_bytes(pdf_bytes) if pdf_bytes else ""
+                    pdf_urls_fetched += 1
+                pdf_candidate = (pdf_cache.get(normalized_pdf) or "").strip()
+                if pdf_candidate and not (paper.get("abstract") or "").strip():
+                    paper["abstract"] = pdf_candidate
+                    paper["abstract_source"] = "url_pdf"
+                    paper["abstract_is_proxy"] = False
+                    filled += 1
+                    pdf_abstracts_filled += 1
+                    break
+
     if fetched:
         save_url_abstract_cache(URL_ABSTRACT_CACHE_PATH, cache)
+    if pdf_urls_fetched:
+        save_url_pdf_abstract_cache(URL_PDF_ABSTRACT_CACHE_PATH, pdf_cache)
 
     remaining_missing = sum(1 for p in papers if not (p.get("abstract") or "").strip())
     return {
         "url_abstract_urls_checked": urls_checked,
         "url_abstract_urls_fetched": fetched,
         "url_abstracts_filled": filled,
+        "url_pdf_urls_checked": pdf_urls_checked,
+        "url_pdf_urls_fetched": pdf_urls_fetched,
+        "url_pdf_abstracts_filled": pdf_abstracts_filled,
         "papers_missing_abstract_after_url_fallback": remaining_missing,
+    }
+
+
+def build_proxy_description(paper: Dict) -> str:
+    title = (paper.get("title") or "Untitled work").strip()
+    work_type = (paper.get("type") or "scholarly work").replace("-", " ").strip()
+    year = paper.get("year")
+    venue = (paper.get("venue") or "").strip()
+    topics = paper.get("topic_codes") or []
+    topic_text = ", ".join(topics[:4]) if topics else "unmapped topics"
+    scope = "seed corpus" if paper.get("scope") == "seed" else "one-hop expansion set"
+
+    pieces = [f'Description proxy (no source abstract available): "{title}"']
+    pieces.append(f"is included as a {work_type} in the {scope}.")
+    if year:
+        pieces.append(f"Publication year: {year}.")
+    if venue:
+        pieces.append(f"Venue/source: {venue}.")
+    pieces.append(f"Topic mapping: {topic_text}.")
+
+    source = doi_to_url(normalize_doi(paper.get("doi", ""))) or (paper.get("source_url") or "").strip() or (
+        paper.get("openalex_id") or ""
+    )
+    if source:
+        pieces.append(f"Reference URL: {source}.")
+    return " ".join(piece for piece in pieces if piece).strip()
+
+
+def fill_proxy_descriptions(seed_papers: List[Dict], hop_papers: List[Dict]) -> Dict:
+    papers = seed_papers + hop_papers
+    filled = 0
+    for paper in papers:
+        if (paper.get("abstract") or "").strip():
+            continue
+        paper["abstract"] = build_proxy_description(paper)
+        paper["abstract_source"] = "proxy_description"
+        paper["abstract_is_proxy"] = True
+        filled += 1
+
+    remaining_missing = sum(1 for p in papers if not (p.get("abstract") or "").strip())
+    return {
+        "proxy_descriptions_filled": filled,
+        "papers_missing_abstract_after_proxy": remaining_missing,
     }
 
 
@@ -834,6 +1083,8 @@ def enrich_papers_with_openalex(seed_papers: List[Dict], hop_papers: List[Dict])
             paper["title"] = meta["title"]
         if not paper.get("abstract") and meta.get("abstract"):
             paper["abstract"] = meta["abstract"]
+            paper["abstract_source"] = "openalex"
+            paper["abstract_is_proxy"] = False
             abstract_filled = True
         if not paper.get("authors") and meta.get("authors"):
             paper["authors"] = meta["authors"]
@@ -927,7 +1178,12 @@ def enrich_papers_with_openalex(seed_papers: List[Dict], hop_papers: List[Dict])
     crossref_stats = enrich_missing_abstracts_from_crossref(seed_papers, hop_papers)
     arxiv_stats = enrich_missing_abstracts_from_arxiv(seed_papers, hop_papers)
     url_stats = enrich_missing_abstracts_from_urls(seed_papers, hop_papers)
+    proxy_stats = fill_proxy_descriptions(seed_papers, hop_papers)
     missing_abstracts = sum(1 for paper in papers if not (paper.get("abstract") or "").strip())
+    proxy_count = sum(1 for paper in papers if bool(paper.get("abstract_is_proxy")))
+    without_source_abstract = sum(
+        1 for paper in papers if bool(paper.get("abstract_is_proxy")) or not (paper.get("abstract_source") or "").strip()
+    )
     return {
         "papers_total": total,
         "papers_with_openalex_match": enriched,
@@ -935,9 +1191,12 @@ def enrich_papers_with_openalex(seed_papers: List[Dict], hop_papers: List[Dict])
         "openalex_title_lookups": title_fetches,
         "openalex_resolved_by_title": resolved_by_title,
         "papers_missing_abstract": missing_abstracts,
+        "papers_with_proxy_description": proxy_count,
+        "papers_without_source_abstract": without_source_abstract,
         **crossref_stats,
         **arxiv_stats,
         **url_stats,
+        **proxy_stats,
     }
 
 
@@ -1013,6 +1272,8 @@ def build_seed_papers(topic_by_code: Dict[str, Topic]) -> List[Dict]:
             "openalex_id": (row.get("openalex_id") or "").strip(),
             "title": title,
             "abstract": "",
+            "abstract_source": "",
+            "abstract_is_proxy": False,
             "year": year,
             "doi": doi,
             "venue": venue,
@@ -1067,6 +1328,8 @@ def build_hop_papers(topic_by_code: Dict[str, Topic], seed_topic_lookup: Dict[st
                 "openalex_id": (row.get("openalex_id") or "").strip(),
                 "title": title,
                 "abstract": "",
+                "abstract_source": "",
+                "abstract_is_proxy": False,
                 "year": year,
                 "doi": doi,
                 "venue": venue,
@@ -1391,6 +1654,10 @@ def build_summary(
         "crossref_abstracts_filled": openalex_enrichment.get("crossref_abstracts_filled", 0),
         "arxiv_abstracts_filled": openalex_enrichment.get("arxiv_abstracts_filled", 0),
         "url_abstracts_filled": openalex_enrichment.get("url_abstracts_filled", 0),
+        "url_pdf_abstracts_filled": openalex_enrichment.get("url_pdf_abstracts_filled", 0),
+        "proxy_descriptions_filled": openalex_enrichment.get("proxy_descriptions_filled", 0),
+        "papers_with_proxy_description": openalex_enrichment.get("papers_with_proxy_description", 0),
+        "papers_without_source_abstract": openalex_enrichment.get("papers_without_source_abstract", 0),
         "papers_missing_abstract": openalex_enrichment.get("papers_missing_abstract", 0),
     }
 
@@ -1420,7 +1687,9 @@ def build_extra_docs() -> Dict:
 def build_missing_abstracts(seed_papers: List[Dict], hop_papers: List[Dict]) -> Dict:
     rows = []
     for paper in seed_papers + hop_papers:
-        if (paper.get("abstract") or "").strip():
+        has_abstract_text = bool((paper.get("abstract") or "").strip())
+        is_proxy = bool(paper.get("abstract_is_proxy"))
+        if has_abstract_text and not is_proxy:
             continue
         rows.append(
             {
@@ -1432,10 +1701,20 @@ def build_missing_abstracts(seed_papers: List[Dict], hop_papers: List[Dict]) -> 
                 "openalex_id": paper.get("openalex_id", ""),
                 "source_url": paper.get("source_url", ""),
                 "topic_codes": paper.get("topic_codes", []),
+                "abstract_source": paper.get("abstract_source", ""),
+                "is_proxy_description": is_proxy,
+                "has_abstract_text": has_abstract_text,
             }
         )
     rows.sort(key=lambda row: (row.get("scope", ""), row.get("id", "")))
-    return {"count": len(rows), "rows": rows}
+    proxy_count = sum(1 for row in rows if row.get("is_proxy_description"))
+    true_missing_count = sum(1 for row in rows if not row.get("has_abstract_text"))
+    return {
+        "count": len(rows),
+        "proxy_count": proxy_count,
+        "true_missing_count": true_missing_count,
+        "rows": rows,
+    }
 
 
 def main() -> None:

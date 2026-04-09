@@ -239,14 +239,15 @@ export function App() {
     }
     const missingResourceTopics = topicCodes.filter((code) => (resourceCoverage.get(code) || 0) === 0);
     const missingAbstracts = paperRows.filter((paper) => paper.abstractQA?.missing).length;
+    const proxyAbstracts = paperRows.filter((paper) => paper.abstractQA?.proxy).length;
 
     cards.unshift({
       id: "abstract_coverage",
       title: "Abstract Metadata Coverage",
       body:
         missingAbstracts === 0
-          ? "All papers currently include abstract metadata."
-          : `${missingAbstracts} papers currently lack abstract metadata. This is expected for some book and policy records, but should be monitored as the corpus grows.`,
+          ? `All papers currently include abstract text. ${proxyAbstracts} records are explicitly marked as proxy descriptions (not source abstracts).`
+          : `${missingAbstracts} papers currently lack abstract text, and ${proxyAbstracts} are proxy descriptions. This is expected for some book and policy records.`,
       links: [],
     });
     cards.unshift({
@@ -279,6 +280,7 @@ export function App() {
 
   const dataQuality = useMemo(() => {
     const missingAbstractCount = paperRows.filter((paper) => paper.abstractQA?.missing).length;
+    const proxyAbstractCount = paperRows.filter((paper) => paper.abstractQA?.proxy).length;
     const shortTitleCount = paperRows.filter(
       (paper) => (paper.title || "").trim().length < 12 || (paper.title || "").trim().toLowerCase() === "untitled"
     ).length;
@@ -292,6 +294,7 @@ export function App() {
     const missingResourceTopicCodes = [...topicCodes].filter((code) => !covered.has(code));
     return {
       missingAbstractCount,
+      proxyAbstractCount,
       shortTitleCount,
       missingResourceTopicCount: missingResourceTopicCodes.length,
       missingResourceTopicCodes,

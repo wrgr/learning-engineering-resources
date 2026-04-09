@@ -13,7 +13,7 @@ function looksMalformedAbstract(text, paperType) {
   return false;
 }
 
-function summarizeAbstract(raw, paperType) {
+function summarizeAbstract(raw, paperType, isProxy) {
   const text = cleanText(raw);
 
   if (!text) {
@@ -23,6 +23,18 @@ function summarizeAbstract(raw, paperType) {
       canExpand: false,
       qaFlag: true,
       missing: true,
+      proxy: false,
+    };
+  }
+
+  if (isProxy) {
+    return {
+      preview: text,
+      full: text,
+      canExpand: false,
+      qaFlag: false,
+      missing: false,
+      proxy: true,
     };
   }
 
@@ -33,6 +45,7 @@ function summarizeAbstract(raw, paperType) {
       canExpand: false,
       qaFlag: true,
       missing: false,
+      proxy: false,
     };
   }
 
@@ -45,6 +58,7 @@ function summarizeAbstract(raw, paperType) {
       canExpand: false,
       qaFlag: false,
       missing: false,
+      proxy: false,
     };
   }
 
@@ -54,6 +68,7 @@ function summarizeAbstract(raw, paperType) {
     canExpand: text.length <= 3000,
     qaFlag: text.length > 1400,
     missing: false,
+    proxy: false,
   };
 }
 
@@ -90,7 +105,7 @@ export function buildPaperRows(seedPapers, hopPapers, endnotesEnriched) {
       topic_codes: [...mergedTopics],
       artifactTypes: meta ? [...meta.artifactTypes] : [artifactType],
       matchedNoteCount: meta ? meta.notes.size : 0,
-      abstractQA: summarizeAbstract(paper.abstract, paper.type),
+      abstractQA: summarizeAbstract(paper.abstract, paper.type, Boolean(paper.abstract_is_proxy)),
     };
   };
 

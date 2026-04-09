@@ -1,5 +1,7 @@
 {
-  "count": 91,
+  "count": 60,
+  "proxy_count": 60,
+  "true_missing_count": 0,
   "rows": [
     {
       "id": "W1491087240",
@@ -13,7 +15,10 @@
         "T08",
         "T10",
         "T13"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1535782774",
@@ -27,21 +32,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W1551403135",
-      "scope": "hop",
-      "type": "book-chapter",
-      "title": "Educational Design Research",
-      "doi": "10.1007/978-1-4614-3185-5_11",
-      "openalex_id": "https://openalex.org/W1551403135",
-      "source_url": "https://doi.org/10.1007/978-1-4614-3185-5_11",
-      "topic_codes": [
-        "T03",
-        "T15",
-        "T17"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1562748096",
@@ -58,20 +52,10 @@
         "T04",
         "T06",
         "T07"
-      ]
-    },
-    {
-      "id": "W1589525026",
-      "scope": "hop",
-      "type": "book-chapter",
-      "title": "Detecting Student Misuse of Intelligent Tutoring Systems",
-      "doi": "10.1007/978-3-540-30139-4_50",
-      "openalex_id": "https://openalex.org/W1589525026",
-      "source_url": "https://doi.org/10.1007/978-3-540-30139-4_50",
-      "topic_codes": [
-        "T04",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1633170972",
@@ -85,36 +69,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W1898103075",
-      "scope": "hop",
-      "type": "book-chapter",
-      "title": "Educational Data Mining and Learning Analytics",
-      "doi": "10.1007/978-1-4614-3305-7_4",
-      "openalex_id": "https://openalex.org/W1898103075",
-      "source_url": "https://doi.org/10.1007/978-1-4614-3305-7_4",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T04",
-        "T06"
-      ]
-    },
-    {
-      "id": "W1911642898",
-      "scope": "hop",
-      "type": "book-chapter",
-      "title": "Faster Teaching by POMDP Planning",
-      "doi": "10.1007/978-3-642-21869-9_37",
-      "openalex_id": "https://openalex.org/W1911642898",
-      "source_url": "https://doi.org/10.1007/978-3-642-21869-9_37",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W192680528",
@@ -126,7 +84,10 @@
       "source_url": "https://doi.org/10.1016/b978-0-12-387691-1.00001-6",
       "topic_codes": [
         "T01"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1964499255",
@@ -140,7 +101,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1969129312",
@@ -154,7 +118,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1977196850",
@@ -168,7 +135,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1985690942",
@@ -182,23 +152,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W1987626674",
-      "scope": "hop",
-      "type": "review",
-      "title": "A review of recent advances in learner and skill modeling in intelligent learning environments",
-      "doi": "10.1007/s11257-011-9106-8",
-      "openalex_id": "https://openalex.org/W1987626674",
-      "source_url": "https://doi.org/10.1007/s11257-011-9106-8",
-      "topic_codes": [
-        "T00",
-        "T01",
-        "T03",
-        "T04",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1989930562",
@@ -212,7 +169,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1994925058",
@@ -226,7 +186,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W1998213518",
@@ -240,20 +203,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W2010793828",
-      "scope": "hop",
-      "type": "article",
-      "title": "Dilemmas in a general theory of planning",
-      "doi": "10.1007/bf01405730",
-      "openalex_id": "https://openalex.org/W2010793828",
-      "source_url": "https://doi.org/10.1007/bf01405730",
-      "topic_codes": [
-        "T02",
-        "T13"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2013068849",
@@ -267,35 +220,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W2015040676",
-      "scope": "hop",
-      "type": "article",
-      "title": "Knowledge tracing: Modeling the acquisition of procedural knowledge",
-      "doi": "10.1007/bf01099821",
-      "openalex_id": "https://openalex.org/W2015040676",
-      "source_url": "https://doi.org/10.1007/bf01099821",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2019566340",
-      "scope": "hop",
-      "type": "article",
-      "title": "Deliberative Discourse Idealized and Realized: Accountable Talk in the Classroom and in Civic Life",
-      "doi": "10.1007/s11217-007-9071-1",
-      "openalex_id": "https://openalex.org/W2019566340",
-      "source_url": "https://doi.org/10.1007/s11217-007-9071-1",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2027711578",
@@ -309,7 +237,10 @@
         "T03",
         "T04",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2041201199",
@@ -323,21 +254,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W2043409247",
-      "scope": "hop",
-      "type": "article",
-      "title": "The impact of guidance during problem-solving prior to instruction on students\u2019 inventions and learning outcomes",
-      "doi": "10.1007/s11251-013-9282-5",
-      "openalex_id": "https://openalex.org/W2043409247",
-      "source_url": "https://doi.org/10.1007/s11251-013-9282-5",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2046109394",
@@ -351,49 +271,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W2066816090",
-      "scope": "hop",
-      "type": "article",
-      "title": "Addressing the assessment challenge with an online system that tutors as it assesses",
-      "doi": "10.1007/s11257-009-9063-7",
-      "openalex_id": "https://openalex.org/W2066816090",
-      "source_url": "https://doi.org/10.1007/s11257-009-9063-7",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2077763589",
-      "scope": "hop",
-      "type": "article",
-      "title": "Design research: A socially responsible approach to instructional technology research in higher education",
-      "doi": "10.1007/bf02961476",
-      "openalex_id": "https://openalex.org/W2077763589",
-      "source_url": "https://doi.org/10.1007/bf02961476",
-      "topic_codes": [
-        "T03",
-        "T15",
-        "T17"
-      ]
-    },
-    {
-      "id": "W2083133776",
-      "scope": "hop",
-      "type": "review",
-      "title": "Principles derived from the study of simple skills do not generalize to complex skill learning",
-      "doi": "10.3758/bf03196276",
-      "openalex_id": "https://openalex.org/W2083133776",
-      "source_url": "https://doi.org/10.3758/bf03196276",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2105428750",
@@ -407,7 +288,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2111804672",
@@ -419,7 +303,10 @@
       "source_url": "https://doi.org/10.1016/j.tics.2010.09.003",
       "topic_codes": [
         "T01"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2112268323",
@@ -433,49 +320,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W2128365310",
-      "scope": "hop",
-      "type": "book-chapter",
-      "title": "Human-Machine Student Model Discovery and Improvement Using DataShop",
-      "doi": "10.1007/978-3-642-21869-9_46",
-      "openalex_id": "https://openalex.org/W2128365310",
-      "source_url": "https://doi.org/10.1007/978-3-642-21869-9_46",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2131057562",
-      "scope": "hop",
-      "type": "article",
-      "title": "Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions",
-      "doi": "10.1007/s10648-005-3951-0",
-      "openalex_id": "https://openalex.org/W2131057562",
-      "source_url": "https://doi.org/10.1007/s10648-005-3951-0",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2136070270",
-      "scope": "hop",
-      "type": "book-chapter",
-      "title": "When and Why Does Mastery Learning Work: Instructional Experiments with ACT-R \u201cSimStudents\u201d",
-      "doi": "10.1007/3-540-47987-2_39",
-      "openalex_id": "https://openalex.org/W2136070270",
-      "source_url": "https://doi.org/10.1007/3-540-47987-2_39",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2137576942",
@@ -489,7 +337,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2139678233",
@@ -503,7 +354,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2140995456",
@@ -517,7 +371,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2145560170",
@@ -531,7 +388,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2146991114",
@@ -545,7 +405,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2147489905",
@@ -559,21 +422,10 @@
         "T00",
         "T03",
         "T15"
-      ]
-    },
-    {
-      "id": "W2148119838",
-      "scope": "hop",
-      "type": "article",
-      "title": "How Fading Worked Solution Steps Works \u2013 A Cognitive Load Perspective",
-      "doi": "10.1023/b:truc.0000021815.74806.f6",
-      "openalex_id": "https://openalex.org/W2148119838",
-      "source_url": "https://doi.org/10.1023/b:truc.0000021815.74806.f6",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2150415683",
@@ -587,91 +439,10 @@
         "T03",
         "T15",
         "T17"
-      ]
-    },
-    {
-      "id": "W2157535018",
-      "scope": "hop",
-      "type": "article",
-      "title": "Exploring the Assistance Dilemma in Experiments with Cognitive Tutors",
-      "doi": "10.1007/s10648-007-9049-0",
-      "openalex_id": "https://openalex.org/W2157535018",
-      "source_url": "https://doi.org/10.1007/s10648-007-9049-0",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2160231112",
-      "scope": "hop",
-      "type": "article",
-      "title": "Understanding and applying the dynamics of test practice and study practice",
-      "doi": "10.1007/s11251-006-9013-2",
-      "openalex_id": "https://openalex.org/W2160231112",
-      "source_url": "https://doi.org/10.1007/s11251-006-9013-2",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2166550729",
-      "scope": "hop",
-      "type": "article",
-      "title": "Rapid dynamic assessment of expertise to improve the efficiency of adaptive e-learning",
-      "doi": "10.1007/bf02504800",
-      "openalex_id": "https://openalex.org/W2166550729",
-      "source_url": "https://doi.org/10.1007/bf02504800",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2171825763",
-      "scope": "hop",
-      "type": "article",
-      "title": "Evaluating and improving adaptive educational systems with learning curves",
-      "doi": "10.1007/s11257-010-9084-2",
-      "openalex_id": "https://openalex.org/W2171825763",
-      "source_url": "https://doi.org/10.1007/s11257-010-9084-2",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2180885055",
-      "scope": "hop",
-      "type": "article",
-      "title": "Explanation-Based Generalization: A Unifying View",
-      "doi": "10.1023/a:1022691120807",
-      "openalex_id": "https://openalex.org/W2180885055",
-      "source_url": "https://doi.org/10.1023/a:1022691120807",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2211069567",
-      "scope": "hop",
-      "type": "article",
-      "title": "Rethinking the Boundaries of Cognitive Load Theory in Complex Learning",
-      "doi": "10.1007/s10648-015-9352-0",
-      "openalex_id": "https://openalex.org/W2211069567",
-      "source_url": "https://doi.org/10.1007/s10648-015-9352-0",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2232925767",
@@ -685,21 +456,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W2237600160",
-      "scope": "hop",
-      "type": "article",
-      "title": "Help Helps, But Only So Much: Research on Help Seeking with Intelligent Tutoring Systems",
-      "doi": "10.1007/s40593-015-0089-1",
-      "openalex_id": "https://openalex.org/W2237600160",
-      "source_url": "https://doi.org/10.1007/s40593-015-0089-1",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2320084995",
@@ -713,7 +473,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2326141067",
@@ -725,7 +488,10 @@
       "source_url": "https://doi.org/10.2307/3119730",
       "topic_codes": [
         "T01"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2333196491",
@@ -739,49 +505,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W2339255380",
-      "scope": "hop",
-      "type": "article",
-      "title": "Stupid Tutoring Systems, Intelligent Humans",
-      "doi": "10.1007/s40593-016-0105-0",
-      "openalex_id": "https://openalex.org/W2339255380",
-      "source_url": "https://doi.org/10.1007/s40593-016-0105-0",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2342209196",
-      "scope": "hop",
-      "type": "article",
-      "title": "Conditions for the Effectiveness of Multiple Visual Representations in Enhancing STEM Learning",
-      "doi": "10.1007/s10648-016-9365-3",
-      "openalex_id": "https://openalex.org/W2342209196",
-      "source_url": "https://doi.org/10.1007/s10648-016-9365-3",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
-    },
-    {
-      "id": "W2495004645",
-      "scope": "hop",
-      "type": "article",
-      "title": "Towards a Theory of When and How Problem Solving Followed by Instruction Supports Learning",
-      "doi": "10.1007/s10648-016-9379-x",
-      "openalex_id": "https://openalex.org/W2495004645",
-      "source_url": "https://doi.org/10.1007/s10648-016-9379-x",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2551301908",
@@ -795,7 +522,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2560703437",
@@ -808,21 +538,10 @@
       "topic_codes": [
         "T01",
         "T03"
-      ]
-    },
-    {
-      "id": "W2567228826",
-      "scope": "hop",
-      "type": "article",
-      "title": "Enhancing learning outcomes through self-regulated learning support with an Open Learner Model",
-      "doi": "10.1007/s11257-016-9186-6",
-      "openalex_id": "https://openalex.org/W2567228826",
-      "source_url": "https://doi.org/10.1007/s11257-016-9186-6",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2594908799",
@@ -836,7 +555,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2606747632",
@@ -850,7 +572,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2612152805",
@@ -864,7 +589,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2614883504",
@@ -878,21 +606,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W2615786590",
-      "scope": "hop",
-      "type": "article",
-      "title": "Bayesian knowledge tracing, logistic models, and beyond: an overview of learner modeling techniques",
-      "doi": "10.1007/s11257-017-9193-2",
-      "openalex_id": "https://openalex.org/W2615786590",
-      "source_url": "https://doi.org/10.1007/s11257-017-9193-2",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2618608669",
@@ -906,7 +623,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2738883334",
@@ -920,7 +640,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2790783572",
@@ -934,21 +657,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W2888486405",
-      "scope": "hop",
-      "type": "article",
-      "title": "Personalizing Algebra to Students\u2019 Individual Interests in an Intelligent Tutoring System: Moderators of Impact",
-      "doi": "10.1007/s40593-018-0168-1",
-      "openalex_id": "https://openalex.org/W2888486405",
-      "source_url": "https://doi.org/10.1007/s40593-018-0168-1",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2912828701",
@@ -962,7 +674,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2920253877",
@@ -976,7 +691,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2949159326",
@@ -989,21 +707,10 @@
       "topic_codes": [
         "T04",
         "T06"
-      ]
-    },
-    {
-      "id": "W2953522645",
-      "scope": "hop",
-      "type": "article",
-      "title": "The global landscape of AI ethics guidelines",
-      "doi": "10.1038/s42256-019-0088-2",
-      "openalex_id": "https://openalex.org/W2953522645",
-      "source_url": "https://doi.org/10.1038/s42256-019-0088-2",
-      "topic_codes": [
-        "T00",
-        "T13",
-        "T15"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W2979190497",
@@ -1017,7 +724,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W3029186289",
@@ -1031,7 +741,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W3146115948",
@@ -1045,7 +758,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W3147653952",
@@ -1059,7 +775,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W3158904737",
@@ -1073,7 +792,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W4231434309",
@@ -1087,7 +809,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W4238339051",
@@ -1101,7 +826,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W4239613992",
@@ -1115,21 +843,10 @@
         "T01",
         "T03",
         "T06"
-      ]
-    },
-    {
-      "id": "W4248308907",
-      "scope": "hop",
-      "type": "article",
-      "title": "Explanation-based generalization: A unifying view",
-      "doi": "10.1007/bf00116250",
-      "openalex_id": "https://openalex.org/W4248308907",
-      "source_url": "https://doi.org/10.1007/bf00116250",
-      "topic_codes": [
-        "T01",
-        "T03",
-        "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W4301914006",
@@ -1143,7 +860,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "W86846322",
@@ -1157,7 +877,10 @@
         "T01",
         "T03",
         "T06"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "LE-T1-001",
@@ -1171,7 +894,10 @@
         "T00",
         "T01",
         "T03"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "LE-T1-002",
@@ -1185,7 +911,10 @@
         "T00",
         "T13",
         "T15"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "LE-T1-003",
@@ -1198,7 +927,10 @@
       "topic_codes": [
         "T01",
         "T03"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "LE-T1-006",
@@ -1212,7 +944,10 @@
         "T01",
         "T06",
         "T12"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "LE-T1-007",
@@ -1226,7 +961,10 @@
         "T03",
         "T00",
         "T15"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "LE-T1-011",
@@ -1239,7 +977,10 @@
       "topic_codes": [
         "T05",
         "T12"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "LE-T1-019",
@@ -1252,7 +993,10 @@
       "topic_codes": [
         "T09",
         "T10"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     },
     {
       "id": "LE-T1-033",
@@ -1265,7 +1009,10 @@
       "topic_codes": [
         "T16",
         "T00"
-      ]
+      ],
+      "abstract_source": "proxy_description",
+      "is_proxy_description": true,
+      "has_abstract_text": true
     }
   ]
 }

@@ -34,7 +34,8 @@ export function PapersSection({
       <p className="caption">${filteredPapers.length} artifacts mapped across ${topicPaperClusters.length} topic clusters.</p>
       <div className="quality-banner">
         <strong>Data quality:</strong>
-        ${dataQuality.missingAbstractCount} papers have no abstract metadata, ${dataQuality.shortTitleCount} paper titles are short,
+        ${dataQuality.missingAbstractCount} papers have no abstract text, ${dataQuality.proxyAbstractCount} papers use flagged proxy descriptions,
+        ${dataQuality.shortTitleCount} paper titles are short,
         and ${dataQuality.missingResourceTopicCount} topics currently have no non-paper resources.
         ${dataQuality.missingResourceTopicCodes?.length
           ? html` Missing resource topics: ${dataQuality.missingResourceTopicCodes.join(", ")}.`
@@ -66,6 +67,7 @@ export function PapersSection({
                                   ? "abstract warning"
                                   : "abstract"}
                             >
+                              ${paper.abstractQA.proxy ? "[Proxy description] " : ""}
                               ${paper.abstractQA.preview}
                             </p>
                             <p><strong>Citation:</strong> ${paper.citation_plain || "Citation unavailable."}</p>
