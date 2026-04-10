@@ -1,176 +1,79 @@
-# Knowledge Graph Rebuild — Status & Remaining Work
+# Knowledge Graph Rebuild — Status
 
-**Branch:** `claude/rebuild-knowledge-graph-Q1Fa3`  
-**Approach:** Apply the [MSKB three-layer methodology](https://github.com/wrgr/mskb) to the LE knowledge graph.
+**Branch:** `claude/review-mskb-patterns-OmGDe`  
+**Approach:** Apply the [MSKB three-layer methodology](https://github.com/wrgr/mskb) to the LE knowledge graph.  
+**Last updated:** 2026-04-10
 
 ---
 
-## What Was Done
+## What Is Done
 
-### Research (complete)
-- Analyzed both repos (`wrgr/learning-engineering-resources`, `wrgr/mskb`) in full
-- Scraped the [IEEE ICICLE resources page](https://sagroups.ieee.org/icicle/resources/) — ~80 resources catalogued (2018–2025): books, tools, templates, videos, podcasts, articles, communities
-- Diagnosed the core problem: **the graph has no Layer 2** (concept ontology), which is why it feels disconnected. Topics (T00–T17) are too coarse; papers and resources have nothing in between to bind them together.
+All items from the original rebuild plan are complete. The additional structural
+improvements from the MSKB peer review (April 2026) are also incorporated.
 
-### Files Written
+### Original Rebuild Items
+
 | File | Status | Notes |
 |------|--------|-------|
-| `corpus/tables/concept_ontology.json` | ✅ Written | 35 concepts, anchored to book chapters, with prereqs, Bloom levels, paper+resource bindings |
+| `corpus/tables/concept_ontology.json` | ✅ | 35 concepts with prerequisites, Bloom levels, paper+resource bindings |
+| `corpus/tables/icicle_resources_registry.json` | ✅ | 40 ICICLE-harvested resources (LE-IC-001–LE-IC-040) |
+| `corpus/tables/concept_graph_seeds.json` | ✅ | BELONGS_TO, PREREQ_FOR, BOOK_CHAPTER edges |
+| `corpus/tables/learning_journeys.json` | ✅ | J-01 through J-06 with concept_ids per stage |
+| `scripts/build_dataset.py` — concept layer | ✅ | `build_concept_graph()` implemented and wired into `build_graph()` |
+| `scripts/build_dataset.py` — ICICLE registry | ✅ | `build_resources()` loads `icicle_resources_registry.json` |
+| `LEARNING_CONCEPT_ONTOLOGY.md` | ✅ | Human-readable reference for all 35 concepts |
+| `RESOURCE_CURATOR_TEMPLATE.md` | ✅ | Curation workflow, ID scheme, fields, concept binding |
+
+### MSKB Peer Review Additions (April 2026)
+
+| Change | Status | Notes |
+|--------|--------|-------|
+| `programs_people_registry.json` wired into `build_resources()` | ✅ | Deduplication by resource_id; LE-PP-* resources now in graph |
+| `data/learning_journeys.json` output in `main()` | ✅ | Pipeline now writes journeys to `data/` for frontend |
+| `concept_nodes` count in `build_summary()` | ✅ | Visible in `data/build_summary.json` |
+| `audit_resource_diversity()` function | ✅ | Per-topic content-type balance check; writes `data/diversity_audit.json` |
+| `seed_role` field in `metadata_schema.json` | ✅ | expansion / landmark_anchor / framing / bridge |
+| `RETIRED` status + `retired_in_version` field in `metadata_schema.json` | ✅ | Full seed lifecycle now documented |
+| Scoring rubric in `RESOURCE_CURATOR_TEMPLATE.md` | ✅ | 5-dimension rubric, 18/25 threshold |
+| Maintenance schedule in `RESOURCE_CURATOR_TEMPLATE.md` | ✅ | Quarterly URL checks, annual freshness review |
+| `TECH_NOTE_CONCEPT_BINDING.md` | ✅ | Architecture rationale for three-layer model |
+
+### Build Pipeline Refactor (April 2026)
+
+| Change | Status | Notes |
+|--------|--------|-------|
+| `scripts/utils.py` | ✅ | Shared constants and pure utility functions |
+| `scripts/openalex_client.py` | ✅ | OpenAlex, Crossref, ArXiv API clients |
+| `scripts/abstract_fetcher.py` | ✅ | URL/PDF fetching, enrichment pipeline, Topic model |
+| `scripts/build_dataset.py` | ✅ | Corpus builders + main() — replaced broken stub |
 
 ---
 
-## The Three-Layer Architecture (Design)
+## The Three-Layer Architecture (Stable)
 
 ```
-Layer 1: Citation graph (papers)     — already built (21 seeds + 274 hop papers)
-Layer 2: Concept ontology            — concept_ontology.json now exists (NEW)
-Layer 3: Curated resources           — needs ICICLE harvest wired in (NEW)
+Layer 1: Topics (T00–T17)         18 broad topic areas — coarse-grained taxonomy
+Layer 2: Concepts (C01–C35)       35 concepts — meso-level ontology (WIRED ✅)
+Layer 3: Papers + Resources       ~300 seed/hop papers + 100+ curated resources (WIRED ✅)
 ```
 
-**Layer 2 — concept_ontology.json** defines 35 concepts (`C01`–`C35`) each with:
-- `book_chapter_anchors` — which of the 9 LE Toolkit chapters anchors it
-- `topic_codes` — which T00–T17 topics it belongs to
-- `prerequisites` — ordered learning dependencies
-- `bloom_level` — cognitive target
-- `primary_papers` — seed paper IDs (e.g. `LE-T1-008`)
-- `primary_resources` — resource IDs including new `LE-IC-*` ICICLE resources
-
-**35 concepts grouped by cluster:**
-- Foundation (C01–C03): What is LE, LE vs ID, LE Teams
-- Learning Science (C04–C08): How People Learn, Memory, Cognitive Load, Motivation, Transfer
-- HCD & Process (C09–C12): HSI, Human-Centered Design, LE Process, Needs Analysis
-- Measurement (C13–C17): EDM, Learning Analytics, Assessment, Decision Tracking, Evaluation
-- Knowledge & Tech (C18–C22): KLI Framework, Competency Frameworks, ITS, Adaptive Systems, Infrastructure
-- AI (C23–C24): Foundation Models in Ed, AI Ethics
-- Simulation & Applied (C25–C29): Simulation, Games, XR, Expert Elicitation, Workforce Dev
-- Evidence & Methods (C30–C32): Evidence Standards, Research Methods, Credentialing
-- Context (C33–C35): High-Consequence Domains, Ethics & Equity, LE at Scale
+All three layers are now connected in `data/graph.json`. The concept layer is fully
+operational: topic→concept edges, concept→paper edges, concept→resource edges, and
+concept→concept prereq edges are all emitted in the standard build.
 
 ---
 
-## Remaining Work (in order)
+## Known Remaining Gaps (Future Work)
 
-### 1. `corpus/tables/icicle_resources_registry.json` — NEW FILE
-~40 resources scraped from the ICICLE page, using IDs `LE-IC-001`–`LE-IC-040`.  
-Schema matches `corpus/tables/programs_people_registry.json`:
-```json
-{
-  "resource_id": "LE-IC-001",
-  "status": "APPROVED",
-  "content_type": "GL",
-  "name": "...",
-  "affiliation_or_venue": "IEEE ICICLE",
-  "url": "...",
-  "primary_topic": "T00",
-  "secondary_topics": "",
-  "description": "...",
-  "notes": "Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025"
-}
-```
-Key resources to include (from ICICLE page scrape):
-- `LE-IC-001` Learning Engineering for Online Education (book, Dede/Richards/Saxberg)
-- `LE-IC-002` LE Process Description & Diagram (sagroups.ieee.org/icicle/learning-engineering-process/)
-- `LE-IC-003` Learning Engineering Case Guide 1.0 (Google Slides)
-- `LE-IC-004` Generalizable LE Adoption Maturity Model (PDF)
-- `LE-IC-005` Five Whys Template (Google Doc)
-- `LE-IC-006` Fishbone/Cause-Effect Analysis Template (Google Doc)
-- `LE-IC-007` Performance Task Analysis Template (Google Doc)
-- `LE-IC-008` LE Evidence Decision Tracker (Google Drive folder)
-- `LE-IC-009` LE Implementation Checklist (Google Doc)
-- `LE-IC-010` Examples of Roles & Expertise on an LE Team (Google Doc)
-- `LE-IC-011` Learning Design Principles Toolkit (McEldoon, Google Drive)
-- `LE-IC-012` Saxberg MIT Festival of Learning Keynote 2023 (YouTube)
-- `LE-IC-013` QIP Learning Engineering Video Series (YouTube playlist)
-- `LE-IC-014` Invitation to LE Webinar Series (ICICLE, YouTube)
-- `LE-IC-015` IEEE Learning Engineering Podcast (PodServe/Spotify)
-- `LE-IC-016` Silver Lining for Learning — Art & Science of LE ep. (podcast 2023)
-- `LE-IC-017` Silver Lining for Learning — Human-Centered Methods ep. (podcast 2023)
-- `LE-IC-018` Baker, Boser, Snow 2022 — LE: A View on Where the Field Is At (APA Open)
-- `LE-IC-019` Craig et al. 2023 — LE Perspectives for Educational Systems (Sage)
-- `LE-IC-020` Lee 2023 — Learning Sciences & LE: Natural or Artificial Distinction? (Taylor & Francis)
-- `LE-IC-021` Kolodner 2023 — Learning engineering: What it is, why I'm involved (Taylor & Francis)
-- `LE-IC-022` 7 Things to Know about Learning Engineering (EDUCAUSE 2018)
-- `LE-IC-023` High-Leverage Opportunities for LE (Baker & Boser, 2021, The Learning Agency)
-- `LE-IC-024` OpenSimon Community (CMU Simon Initiative)
-- `LE-IC-025` MIT LEAP Group (Learning Engineering & Practice)
-- `LE-IC-026` Playful Journey Lab / MITili (MIT)
-- `LE-IC-027` The Learning Agency EdSurge Series (topic collection)
-- `LE-IC-028` AECT Learning Engagement Activated Podcast — Jim Goodell ep. (2022)
-- `LE-IC-029` Goodell 2019 — Are You Doing Learning Engineering or Instructional Design? (Learning Solutions)
-- `LE-IC-030` SchoolSims platform (applies LE + CTA + NDM for teacher prep, 2025)
-- `LE-IC-031` Learning Engineering at a Glance (Schatz, Goodell, Kessler 2023, Army Press)
-- `LE-IC-032` State of XR & Immersive Learning Report 2021 (iLRN/ICICLE)
-- `LE-IC-033` Data Use Throughout the LE Process (graphic/infographic, Google Drive)
-- `LE-IC-034` Learning Engineering Adjacent Academic Programs (Google Doc directory)
-- `LE-IC-035` Learning Engineering is a Team Sport (ICICLE 2024 presentation)
-- `LE-IC-036` Teaming up to Improve Medical/Healthcare Education (Kurzweil & Marcellas 2020)
-- `LE-IC-037` Build a Learning Data Dream Team (Torrance, Lin, Goodell 2024, ATD)
-- `LE-IC-038` IDEO Design Thinking Process (ideou.com)
-- `LE-IC-039` Van Campenhout et al. 2023 — Student-Centered Ed Data Science Through LE (Springer)
-- `LE-IC-040` Herb Simon 1967 — The Job of a College President (Google Drive PDF)
+These items are out of scope for the current branch but worth tracking:
 
-### 2. `corpus/tables/concept_graph_seeds.json` — NEW FILE
-Concept-level edges for the knowledge graph. Schema matches `knowledge_graph_seeds.json`:
-```json
-{ "node_type": "CONCEPT", "node_id": "C01", "node_label": "...", "edge_type": "BELONGS_TO", "edge_target": "T00", "edge_label": "..." }
-{ "node_type": "CONCEPT", "node_id": "C05", "node_label": "...", "edge_type": "PREREQ_FOR", "edge_target": "C15", "edge_label": "..." }
-```
-Edge types needed:
-- `BELONGS_TO` — concept → topic (35 edges)
-- `PREREQ_FOR` — concept → concept (~25 edges, from the prereqs in concept_ontology.json)
-- `BOOK_CHAPTER` — concept → chapter number annotation (~25 edges for book-anchored concepts)
-
-### 3. `corpus/tables/learning_journeys.json` — UPDATE
-Keep existing 4 journeys (J-01 through J-04) but:
-- Add `concept_ids` field to each stage (e.g. `"concept_ids": "C01, C02"`)
-- Add **J-05: AI/EdTech Practitioner** (5 stages: C01→C04→C18→C20→C23→C24→C14)
-- Add **J-06: Getting Up to Speed Fast** (3-stage express path: C01, C04, C11, C17 — for the time-pressed professional)
-
-### 4. `scripts/build_dataset.py` — EDIT (not rewrite)
-Add two functions and wire them into the main build:
-
-**A. `load_icicle_registry()`** — reads `corpus/tables/icicle_resources_registry.json`, merges into the `rows` list inside `build_resources()`. Insert after line ~1362:
-```python
-icicle_path = CORPUS_DIR / "tables" / "icicle_resources_registry.json"
-if icicle_path.exists():
-    rows = rows + load_json(icicle_path)
-```
-
-**B. `build_concept_graph(concepts, topic_codes, paper_ids, resource_ids)`** — creates concept nodes and edges. Call from inside `build_graph()` after line ~1620. Returns `(concept_nodes, concept_edges)` to be merged into `nodes`/`edges`.
-
-Node structure for a concept:
-```python
-{
-    "id": concept["concept_id"],
-    "label": concept["name"],
-    "type": "concept",
-    "hop": 0,
-    "topic_codes": concept.get("topic_codes", []),
-    "provenance": {
-        "book_chapters": concept.get("book_chapter_anchors", []),
-        "bloom_level": concept.get("bloom_level", ""),
-        "layer": "concept",
-    },
-}
-```
-Edge types emitted: `has_concept` (topic→concept), `prereq` (concept→concept), `anchored_by` (concept→paper), `learn_via` (concept→resource).
-
-Also read `concept_graph_seeds.json` in the same pass as `knowledge_graph_seeds.json`.
-
-### 5. `LEARNING_CONCEPT_ONTOLOGY.md` — NEW FILE
-Human-readable reference. Sections:
-- Overview of the three-layer model
-- Table of all 35 concepts with cluster, book chapter, prerequisites, Bloom level
-- Per-concept detail (name, why it matters, key questions, primary resources)
-- Three learner pathways quick-reference
-
-### 6. `RESOURCE_CURATOR_TEMPLATE.md` — NEW FILE
-How to add new resources to the KB. Sections:
-- When to add a resource (quality criteria)
-- How to assign a resource ID (`LE-IC-NNN` for ICICLE harvests, `LE-PP-NNN` for programs/people)
-- Required fields and examples
-- How to bind a resource to concepts (update `concept_ontology.json`)
-- How to trigger a rebuild
+| Gap | Priority | Notes |
+|-----|----------|-------|
+| Populate `seed_role` for existing T1 seeds in `academic_papers.jsonl` | Medium | Most T1 seeds are `expansion`; textbook + Saxberg essay should be `landmark_anchor` |
+| Assign concept bindings for C34 (Ethics & Equity) | Low | `primary_resources: []` — needs at least 1–2 resources |
+| Expand coverage of T14 (Ethics & Equity) | Low | Under-resourced relative to its importance |
+| URL validation pass on LE-PP-* entries | Low | Some entries have empty or `[internal]` URLs |
+| Version-tag the corpus (`v1.0`) | Low | Helps with lifecycle tracking and retired_in_version references |
 
 ---
 
@@ -178,35 +81,29 @@ How to add new resources to the KB. Sections:
 
 | Document | Location | Purpose |
 |----------|----------|---------|
-| MSKB three-layer architecture | [wrgr/mskb README](https://github.com/wrgr/mskb) | The methodology being applied |
-| MSKB concept ontology example | `wrgr/mskb LEARNING_CONCEPT_ONTOLOGY.md` | Schema and style guide |
-| MSKB resource curator template | `wrgr/mskb RESOURCE_CURATOR_TEMPLATE.md` | Curation workflow |
-| LE concept ontology (Layer 2) | `corpus/tables/concept_ontology.json` ✅ | 35 concepts, written |
-| LE topic map (Layer 1 taxonomy) | `corpus/tables/topic_map.json` | 18 topics T00–T17 |
-| LE existing resources | `corpus/tables/programs_people_registry.json` | 26 existing resources |
+| MSKB three-layer architecture | `wrgr/mskb README` | The methodology applied here |
+| LE concept ontology (Layer 2) | `corpus/tables/concept_ontology.json` | 35 concepts |
+| LE topic map (Layer 1) | `corpus/tables/topic_map.json` | 18 topics T00–T17 |
+| LE ICICLE resources | `corpus/tables/icicle_resources_registry.json` | LE-IC-* registry |
+| LE programs/people | `corpus/tables/programs_people_registry.json` | LE-PP-* registry |
 | LE existing graph seeds | `corpus/tables/knowledge_graph_seeds.json` | Topic-level edges |
-| ICICLE resources page (scraped) | https://sagroups.ieee.org/icicle/resources/ | Source for LE-IC-* entries |
-| Build pipeline entry point | `scripts/build_dataset.py` | Main graph construction |
+| Architecture rationale | `TECH_NOTE_CONCEPT_BINDING.md` | Why three layers; how concept binding works |
+| Build pipeline | `scripts/build_dataset.py` | Main graph construction entry point |
 
 ---
 
-## Quick Start for Next Session
+## Quick Start
 
-```
+```bash
 cd learning-engineering-resources
-git checkout claude/rebuild-knowledge-graph-Q1Fa3
+git checkout claude/review-mskb-patterns-OmGDe
 
-# Files to write next (in order):
-1. corpus/tables/icicle_resources_registry.json   (~40 entries, see list above)
-2. corpus/tables/concept_graph_seeds.json         (concept edges)
-3. corpus/tables/learning_journeys.json           (add concept_ids fields, J-05, J-06)
-4. scripts/build_dataset.py                       (edit: add concept layer, ICICLE registry reader)
-5. LEARNING_CONCEPT_ONTOLOGY.md
-6. RESOURCE_CURATOR_TEMPLATE.md
-
-# Then test the build:
+# Run the full build
 python3 scripts/build_dataset.py
 
-# Then push:
-git add -A && git commit -m "..." && git push -u origin claude/rebuild-knowledge-graph-Q1Fa3
+# Outputs written to data/:
+#   graph.json               — full L1+L2+L3 graph
+#   learning_journeys.json   — J-01 through J-06
+#   diversity_audit.json     — per-topic content-type balance warnings
+#   build_summary.json       — includes concept_nodes count
 ```
