@@ -1,0 +1,774 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Whitepaper — Learning Engineering Resources</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+      .wp-shell {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 2rem 1.2rem 5rem;
+      }
+
+      .wp-nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.9rem 0 1.4rem;
+        border-bottom: 1px solid var(--border);
+        margin-bottom: 2.8rem;
+      }
+
+      .wp-nav a {
+        font-size: 0.88rem;
+        font-weight: 700;
+        color: #9a3412;
+      }
+
+      .wp-eyebrow {
+        margin: 0 0 0.5rem;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        font-size: 0.76rem;
+        font-weight: 800;
+        color: #c2410c;
+        font-family: "Sora", "Manrope", sans-serif;
+      }
+
+      .wp-title {
+        margin: 0 0 0.6rem;
+        font-size: clamp(1.55rem, 3vw, 2.2rem);
+        line-height: 1.18;
+        font-family: "Sora", "Manrope", sans-serif;
+        letter-spacing: -0.015em;
+        color: var(--text);
+      }
+
+      .wp-meta {
+        color: var(--muted);
+        font-size: 0.86rem;
+        margin: 0 0 2.2rem;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 1.6rem;
+      }
+
+      .wp-abstract {
+        background: linear-gradient(180deg, #fffef9 0%, #fff8f0 100%);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 1.2rem 1.4rem;
+        margin-bottom: 2.6rem;
+        color: #374151;
+        line-height: 1.65;
+      }
+
+      .wp-abstract p {
+        margin: 0;
+        font-size: 0.97rem;
+      }
+
+      .wp-abstract strong {
+        color: #9a3412;
+      }
+
+      .wp-section {
+        margin-bottom: 2.8rem;
+      }
+
+      .wp-section h2 {
+        font-size: 1.32rem;
+        font-family: "Sora", "Manrope", sans-serif;
+        letter-spacing: -0.01em;
+        margin: 0 0 0.25rem;
+        color: var(--text);
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid var(--border);
+      }
+
+      .wp-section h3 {
+        font-size: 1.04rem;
+        font-family: "Sora", "Manrope", sans-serif;
+        color: #7c2d12;
+        margin: 1.6rem 0 0.4rem;
+      }
+
+      .wp-section p {
+        color: #374151;
+        line-height: 1.7;
+        margin: 0.7rem 0;
+        font-size: 0.97rem;
+      }
+
+      .wp-section ul,
+      .wp-section ol {
+        margin: 0.6rem 0 0.8rem 1.2rem;
+        padding: 0;
+        color: #374151;
+        line-height: 1.7;
+        font-size: 0.97rem;
+      }
+
+      .wp-section li {
+        margin-bottom: 0.5rem;
+      }
+
+      .wp-callout {
+        margin: 1.4rem 0;
+        border-left: 3px solid #fb923c;
+        padding: 0.7rem 1rem;
+        background: #fff7ed;
+        border-radius: 0 10px 10px 0;
+        color: #7c2d12;
+        font-size: 0.95rem;
+        line-height: 1.6;
+      }
+
+      .wp-fig {
+        margin: 1.6rem 0;
+        padding: 1rem 1.2rem;
+        background: #fff9f4;
+        border: 1px solid #fdba74;
+        border-radius: 12px;
+      }
+
+      .wp-fig code {
+        display: block;
+        font-size: 0.84rem;
+        line-height: 1.6;
+        background: transparent;
+        border: none;
+        padding: 0;
+        color: #7c2d12;
+        white-space: pre;
+      }
+
+      .wp-fig-caption {
+        margin-top: 0.5rem;
+        font-size: 0.8rem;
+        color: var(--muted);
+      }
+
+      .wp-refs {
+        margin-top: 0.6rem;
+        border-top: 1px solid var(--border);
+        padding-top: 1.2rem;
+      }
+
+      .wp-refs li {
+        font-size: 0.88rem;
+        color: #4b5563;
+        margin-bottom: 0.55rem;
+        line-height: 1.55;
+      }
+
+      .wp-refs a {
+        color: #b45309;
+        font-weight: 600;
+      }
+
+      .wp-toc {
+        margin: 0 0 2.6rem;
+        padding: 1rem 1.2rem;
+        background: #fffdf9;
+        border: 1px solid var(--border);
+        border-radius: 14px;
+      }
+
+      .wp-toc p {
+        margin: 0 0 0.5rem;
+        font-weight: 700;
+        font-size: 0.88rem;
+        color: #9a3412;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-family: "Sora", "Manrope", sans-serif;
+      }
+
+      .wp-toc ol {
+        margin: 0;
+        padding-left: 1.2rem;
+        color: #374151;
+        font-size: 0.9rem;
+      }
+
+      .wp-toc a {
+        color: #b45309;
+        font-weight: 600;
+      }
+
+      .wp-toc li {
+        margin-bottom: 0.28rem;
+      }
+
+      .wp-footer {
+        margin-top: 3.5rem;
+        padding-top: 1.2rem;
+        border-top: 1px solid var(--border);
+        color: var(--muted);
+        font-size: 0.83rem;
+        text-align: center;
+      }
+
+      @media print {
+        .wp-nav,
+        .wp-footer {
+          display: none;
+        }
+
+        body {
+          background: #fff;
+        }
+
+        .wp-abstract,
+        .wp-toc,
+        .wp-callout,
+        .wp-fig {
+          break-inside: avoid;
+        }
+      }
+
+      @media (max-width: 640px) {
+        .wp-shell {
+          padding: 1.2rem 0.85rem 3rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wp-shell">
+      <nav class="wp-nav">
+        <a href="index.html">← Back to workspace</a>
+        <span style="color: var(--muted); font-size: 0.82rem">Learning Engineering Resources</span>
+      </nav>
+
+      <p class="wp-eyebrow">Whitepaper · April 2026</p>
+      <h1 class="wp-title">
+        A Bibliometrically-Grounded Evidence Workspace for Learning Engineering: Purpose, Pedagogical Foundations, and Design Novelty
+      </h1>
+      <p class="wp-meta">
+        Produced from the Learning Engineering Resources corpus pipeline &nbsp;·&nbsp; v1.0, April 2026 &nbsp;·&nbsp;
+        <a href="https://sagroups.ieee.org/icicle/" target="_blank" rel="noreferrer">IEEE ICICLE</a>
+      </p>
+
+      <div class="wp-abstract">
+        <p>
+          <strong>Abstract.</strong> Learning engineering is a nascent, interdisciplinary practice that applies the science of
+          learning to the design of effective educational products and experiences. Its literature is scattered across cognitive
+          science, educational psychology, instructional design, human-computer interaction, and AI-in-education — with no
+          single curated, navigable entry point. This whitepaper describes the purpose, pedagogical foundations, and design
+          novelty of the Learning Engineering Resources evidence workspace: a topic-linked, bibliometrically-grounded site that
+          maps the field's canonical and emerging papers to 18 core topics, co-locates non-paper resources alongside academic
+          literature, and renders the underlying citation network as a live, explorable graph. The corpus is constructed via a
+          principled pipeline — seed curation, one-hop OpenAlex expansion, cross-seed connectivity filtering, and
+          k-core/in-degree graph pruning — that produces an auditable, updatable evidence base rather than a static
+          bibliography. The workspace surfaces provenance at every node, enabling practitioners, researchers, and curriculum
+          designers to trace not just what the field says, but why a given paper or resource earned its place.
+        </p>
+      </div>
+
+      <div class="wp-toc">
+        <p>Contents</p>
+        <ol>
+          <li><a href="#purpose">Purpose: Why This Workspace Exists</a></li>
+          <li><a href="#field">Learning Engineering as a Discipline</a></li>
+          <li><a href="#pedagogy">Pedagogical Foundations</a></li>
+          <li><a href="#corpus">Corpus Construction: The Pipeline</a></li>
+          <li><a href="#novelty">Design Novelty</a></li>
+          <li><a href="#limits">Limitations and Future Directions</a></li>
+          <li><a href="#conclusion">Conclusion</a></li>
+          <li><a href="#refs">References</a></li>
+        </ol>
+      </div>
+
+      <!-- 1. Purpose -->
+      <div class="wp-section" id="purpose">
+        <h2>1. Purpose: Why This Workspace Exists</h2>
+        <p>
+          Practitioners entering or deepening their engagement with learning engineering face a practical problem: the evidence
+          base is large, fragmented, and inconsistently labeled. A practitioner asking "what does the research say about
+          adaptive learning systems?" must navigate across cognitive science journals, instructional design conference
+          proceedings, edtech preprints, government policy reports, and practitioner white papers — with no systematic guide
+          to what is foundational, what is emerging, and what connects to what.
+        </p>
+        <p>
+          The standard alternatives are insufficient. A curated reading list captures expert judgment but lacks scale, provenance,
+          and updateability. A raw search query on Google Scholar or OpenAlex returns an unfiltered flood with no topical
+          structure. A literature review article synthesizes a moment in time but cannot be re-run, filtered, or navigated
+          interactively.
+        </p>
+        <p>
+          This workspace is designed as a third option: a living, topic-linked evidence base that is simultaneously
+          algorithmically grounded (selection criteria are explicit and reproducible) and humanly curated (seeds are chosen by
+          domain experts; every inclusion decision can be traced). It is targeted at three audiences:
+        </p>
+        <ul>
+          <li>
+            <strong>Practitioners</strong> who want to ground their design decisions in evidence and need a navigable,
+            trustworthy starting point.
+          </li>
+          <li>
+            <strong>Researchers</strong> who want to understand how the field's canonical literature is structured, which
+            topics are well-covered, and where gaps exist.
+          </li>
+          <li>
+            <strong>Curriculum designers and program leaders</strong> who need to map evidence to specific competency areas
+            and identify gaps in their own course or program coverage.
+          </li>
+        </ul>
+        <p>
+          The site is not a replacement for engagement with the primary literature. It is an orientation layer — a structured
+          map of a complex territory that helps users know where to look and why what they find there matters.
+        </p>
+      </div>
+
+      <!-- 2. The Field -->
+      <div class="wp-section" id="field">
+        <h2>2. Learning Engineering as a Discipline</h2>
+        <p>
+          Learning engineering has been defined as "a process and practice that applies the learning sciences and human-centered
+          engineering design methodology and process to support learners and their development" (Goodell &amp; Kolodner, 2020).
+          The field sits at the intersection of learning science, educational technology, and human-centered design — distinct
+          from each of its constituent disciplines in its emphasis on iterative, data-informed improvement of learning
+          experiences at scale.
+        </p>
+        <p>
+          Several features of learning engineering as a field create distinctive challenges for evidence navigation:
+        </p>
+
+        <h3>Disciplinary fragmentation</h3>
+        <p>
+          Learning engineering draws from at least six parent disciplines — cognitive psychology, educational psychology,
+          instructional systems design, computer science, human-computer interaction, and measurement science — each with its
+          own journals, citation norms, and methodological traditions. A single practitioner question (e.g., "how should I
+          design feedback?") may have partial answers in cognitive load theory (Sweller, 1988), formative assessment research
+          (Black &amp; Wiliam, 1998), ITS feedback design (VanLehn, 2011), and reinforcement learning in tutoring systems
+          (Chi et al., 2011) — papers that rarely cite each other.
+        </p>
+
+        <h3>Rapidly evolving frontier</h3>
+        <p>
+          The integration of AI into learning systems has accelerated dramatically since 2020. Large language models, generative
+          tutoring agents, and AI-powered assessment are producing a high-velocity stream of preprints and conference papers
+          that has not yet been consolidated into textbooks or systematic reviews. A static bibliography becomes outdated
+          within months; an updatable pipeline does not.
+        </p>
+
+        <h3>Non-paper resources are first-class artifacts</h3>
+        <p>
+          Much of what practitioners actually use — degree programs, professional certifications, practitioner communities,
+          software tools, and policy frameworks — does not appear in citation databases at all. Any evidence workspace that
+          covers only the academic literature systematically excludes the resources practitioners most frequently access.
+        </p>
+        <p>
+          The corpus design decisions documented in this whitepaper are direct responses to these three challenges.
+        </p>
+      </div>
+
+      <!-- 3. Pedagogy -->
+      <div class="wp-section" id="pedagogy">
+        <h2>3. Pedagogical Foundations</h2>
+        <p>
+          The workspace is itself designed according to principles from the learning sciences — the field it documents. This
+          is intentional: a workspace for learning engineering practitioners should embody what it describes.
+        </p>
+
+        <h3>3.1 Cognitive load and chunking</h3>
+        <p>
+          Cognitive load theory (Sweller, 1988; Sweller et al., 1998) holds that working memory has a finite capacity, and
+          that learning materials should minimize extraneous load while maximizing germane load. A flat list of 295 papers
+          imposes high extraneous load — it forces the user to impose structure that the workspace has already computed.
+          Topic-based clustering (18 topics, each with its own paper group and resource set) reduces extraneous load by
+          presenting the field's existing conceptual structure rather than an unordered flood.
+        </p>
+        <p>
+          This is directly analogous to how learning engineering textbooks and curricula are organized: not alphabetically or
+          chronologically, but around functional knowledge areas (assessment, instructional design, feedback, engagement, etc.)
+          that map to genuine use cases.
+        </p>
+
+        <h3>3.2 Spaced retrieval and multiple entry points</h3>
+        <p>
+          Research on retrieval practice (Roediger &amp; Karpicke, 2006; Kornell &amp; Bjork, 2008) demonstrates that
+          encountering material in multiple contexts strengthens retention and transfer. The workspace provides three
+          independent navigation paths to the same underlying corpus: the citation graph (structural/relational entry), the
+          topic-based resource navigator (categorical entry), and the search interface (query-driven entry). A practitioner
+          who encounters a paper via the graph and then finds it again in the topic navigator is having a spaced retrieval
+          experience that deepens familiarity with the evidence base.
+        </p>
+
+        <h3>3.3 Metacognitive transparency (provenance at every node)</h3>
+        <p>
+          Metacognitive research demonstrates that learners who understand the structure of a domain learn it more effectively
+          (Flavell, 1979; Zimmerman, 2002). This workspace exposes its own construction logic at every point: each paper
+          carries its selection tier, cross-seed score, and topic assignments; each node in the graph displays its provenance
+          JSON; each topic group shows its count and gap status. Users are not just reading a curated list — they are reading
+          a curated list that tells them <em>why it was curated this way</em>.
+        </p>
+        <p>
+          This is analogous to explicit modeling in direct instruction: the expert doesn't just demonstrate the answer, they
+          make their reasoning transparent. A practitioner who understands why a paper is in the corpus (it was cited by
+          three or more seeds, passes the k-core filter, and is assigned to Adaptive Systems and Assessment) understands
+          something about the field's structure, not just about the paper.
+        </p>
+
+        <h3>3.4 Scaffolded exploration (seed → expansion → signal)</h3>
+        <p>
+          Zone of proximal development theory (Vygotsky, 1978) and related work on scaffolding (Wood et al., 1976) suggest
+          that effective learning environments provide support structures that can be progressively removed as competence
+          increases. The corpus's three-tier structure — core papers (21 seed papers representing canonical anchors), related
+          papers (274 algorithmically expanded papers), and coverage signals (gap analysis) — provides a natural scaffold.
+          A novice can start with core papers alone; an expert can explore the full expansion and use the coverage signals to
+          identify where the field's evidence is thin.
+        </p>
+        <p>
+          The toggle to "include related papers" in the graph workspace makes this scaffolding explicit and user-controlled:
+          learners choose when to expand their view.
+        </p>
+
+        <h3>3.5 Worked examples and visible reasoning</h3>
+        <p>
+          Worked example research (Sweller &amp; Cooper, 1985; Atkinson et al., 2000) shows that seeing complete, annotated
+          solutions is more effective for novices than problem-solving from scratch. The citation graph is a structural
+          worked example: it shows how the field's ideas connect, how seeds relate to expansion papers, and which topics
+          serve as bridges between subfields. A practitioner learning to do a literature review in learning engineering can
+          use the graph as a reference model for what a well-structured evidence map looks like.
+        </p>
+      </div>
+
+      <!-- 4. Corpus Construction -->
+      <div class="wp-section" id="corpus">
+        <h2>4. Corpus Construction: The Pipeline</h2>
+        <p>
+          The corpus is constructed through a reproducible, eight-step pipeline grounded in bibliometrics and graph theory.
+          The full methodology is documented separately in the
+          <a href="corpus/methodology.md" target="_blank" rel="noreferrer">Corpus Construction Methodology</a>; this section
+          summarizes the design choices and their rationale.
+        </p>
+
+        <h3>4.1 Seed selection as the primary quality gate</h3>
+        <p>
+          Twenty-one seed papers were manually selected by domain experts to represent the field's canonical topics. Seed
+          selection criteria include: explicit topic coverage (every major topic must have at least two seeds), diversity of
+          document type (landmark studies, systematic reviews, consensus frameworks, and advocacy documents), author and
+          institutional diversity, and recency balance (foundational anchors alongside papers representing the current
+          frontier).
+        </p>
+        <div class="wp-callout">
+          Seeds are the primary quality gate for the entire pipeline. Algorithmic sophistication downstream cannot compensate
+          for a poor seed set. This is why seeds are chosen by human experts, not by an algorithm.
+        </div>
+
+        <h3>4.2 One-hop expansion via OpenAlex</h3>
+        <p>
+          From each seed, the pipeline retrieves both backward citations (papers the seed cites) and forward citations
+          (papers that cite the seed) using the OpenAlex API (Priem et al., 2022). This generates a raw candidate pool of
+          several thousand papers — everything that the field's canonical literature is directly connected to in the global
+          citation graph.
+        </p>
+        <p>
+          Both directions are necessary. Backward citations capture the papers a seed treats as foundational — its
+          intellectual predecessors. Forward citations capture the papers the field has recognized as building on the seed —
+          its intellectual descendants. A corpus that uses only backward citations systematically excludes recent and
+          emerging work; one that uses only forward citations misses foundational predecessors.
+        </p>
+
+        <h3>4.3 Cross-seed connectivity filter</h3>
+        <p>
+          The key structural filter is the cross-seed score: the count of seeds (not review anchors) in whose one-hop
+          neighborhood a candidate paper appears. Papers with cross-seed score ≥ 2 pass the primary filter.
+        </p>
+
+        <div class="wp-fig">
+          <code>cross_seed_score(paper) = |{seed ∈ seeds : paper ∈ neighbors(seed)}|</code>
+          <p class="wp-fig-caption">
+            A paper passing this filter has been recognized by the field's own citation behavior as relevant to multiple
+            canonical anchors — independently of any editorial decision.
+          </p>
+        </div>
+
+        <p>
+          This is the most principled selection criterion available: it grounds inclusion in the collective behavior of
+          the scientific community rather than in any single metric, institutional affiliation, or editorial choice. A paper
+          from a small institution with modest citation count that is cited by or cites five seeds has demonstrated
+          structural importance in the field.
+        </p>
+
+        <h3>4.4 k-core and in-degree graph pruning</h3>
+        <p>
+          After the cross-seed filter, the surviving candidate set is treated as a citation subgraph. Two additional graph
+          filters are applied:
+        </p>
+        <ul>
+          <li>
+            <strong>2-core constraint:</strong> Only nodes that belong to a 2-core of the citation subgraph are retained.
+            A 2-core is the maximal subgraph in which every node has at least two neighbors — it removes peripheral papers
+            that connect to the core through a single edge. This ensures the final corpus has the dense, mutually-reinforcing
+            connectivity of a coherent literature rather than the fragmented structure of a loosely related collection.
+          </li>
+          <li>
+            <strong>In-degree ≥ 2 constraint:</strong> Each retained paper must be cited by at least two other papers in
+            the corpus. This excludes papers that cite field-canonical work but are not themselves cited within the field —
+            i.e., papers at the fringe of relevance.
+          </li>
+        </ul>
+        <p>
+          Together these two filters produce a citation graph with 339 nodes and 1,261 edges — a highly connected,
+          internally coherent subgraph representing the field's structural core.
+        </p>
+
+        <h3>4.5 Non-paper resources as first-class artifacts</h3>
+        <p>
+          The corpus includes 26 non-paper resources — degree programs, practitioner organizations, professional communities,
+          software platforms, and policy frameworks — co-located with papers under the same topic structure. These are drawn
+          from a curated registry maintained alongside the academic corpus. Including them is a deliberate design choice:
+          learning engineering is a <em>practice</em> field, and the resources practitioners use to do the practice are
+          part of the evidence base for the practice.
+        </p>
+      </div>
+
+      <!-- 5. Novelty -->
+      <div class="wp-section" id="novelty">
+        <h2>5. Design Novelty</h2>
+        <p>
+          Several features of this workspace are, to our knowledge, novel or unusually complete for a learning engineering
+          evidence resource:
+        </p>
+
+        <h3>5.1 Bibliometrically grounded, not editorially curated</h3>
+        <p>
+          Most curated learning engineering reading lists are the product of a single expert's or committee's judgment,
+          with inclusion criteria that are implicit and non-reproducible. This corpus uses explicit, computable selection
+          criteria (cross-seed score ≥ 2; 2-core + in-degree ≥ 2) that can be re-run against a new or updated seed set,
+          producing a new corpus edition with the same structural guarantees. This makes the corpus <em>auditable</em> —
+          any inclusion can be traced back to the criteria that selected it — and <em>updatable</em> without starting from
+          scratch.
+        </p>
+
+        <h3>5.2 Provenance at every node</h3>
+        <p>
+          Every paper in the workspace carries its full provenance: selection tier, cross-seed score, topic assignments,
+          citation count, and the specific seeds that contributed to its inclusion. This is surfaced in the UI — selecting
+          any graph node reveals its provenance JSON. This is unusual: most literature tools show you the paper; this one
+          shows you the paper and the argument for why it is in the set.
+        </p>
+
+        <h3>5.3 Live citation graph as navigation</h3>
+        <p>
+          The citation graph is not a static image. It is an interactive force-directed network in which every node is
+          clickable, displays its type (topic, paper, resource), and reveals its citation context (what it cites, what
+          cites it). This makes the structure of the field's literature a navigable artifact, not just a description of one.
+          A user can literally follow citation paths through the graph, discovering how ideas connect across topics.
+        </p>
+
+        <h3>5.4 Topic-paper-resource triangulation</h3>
+        <p>
+          Each of the 18 topics in the workspace is linked to seed papers, expansion papers, <em>and</em> non-paper
+          resources. This triangulation — "for Topic X, here is the academic evidence, here is the emerging literature,
+          and here are the programs and tools practitioners use" — is, to our knowledge, not available in any other
+          single interface for learning engineering.
+        </p>
+
+        <h3>5.5 Coverage signal layer</h3>
+        <p>
+          The workspace includes a coverage signals section that reports, in real time from the current corpus state, which
+          topics have no non-paper resources, how many papers lack abstract text, and what known gaps exist in the evidence
+          base. This self-auditing layer is rare in curated evidence resources. It makes the workspace's limitations visible
+          rather than hiding them, and creates an explicit mechanism for the workspace maintainers and community to
+          prioritize additions.
+        </p>
+
+        <h3>5.6 Fully static, zero-backend architecture</h3>
+        <p>
+          The workspace is a static site: all data is pre-computed into JSON files, and the browser renders the entire
+          experience with no server-side calls at runtime. This means it is deployable as a GitHub Pages site at zero
+          marginal cost, is trivially forkable and adaptable to other domains, and is resilient to API rate limits and
+          backend failures. The Python corpus pipeline runs at build time; the UI consumes its outputs. This separation
+          makes the workspace both durable and extensible.
+        </p>
+      </div>
+
+      <!-- 6. Limitations -->
+      <div class="wp-section" id="limits">
+        <h2>6. Limitations and Future Directions</h2>
+
+        <h3>6.1 Known corpus limitations</h3>
+        <p>
+          The corpus construction methodology has documented systematic biases that users should understand:
+        </p>
+        <ul>
+          <li>
+            <strong>English-language bias.</strong> OpenAlex has stronger coverage of English-language literature.
+            Non-English publications, including substantial bodies of learning engineering research from Germany, Japan,
+            and Latin America, are systematically underrepresented.
+          </li>
+          <li>
+            <strong>Institutional connectivity bias.</strong> Papers from well-connected institutions (large R1
+            universities, well-funded labs) accumulate cross-seed connectivity faster than equivalent papers from
+            peripheral or emerging institutions. The corpus is not immune to prestige effects.
+          </li>
+          <li>
+            <strong>Grey literature gap.</strong> Conference abstracts, practitioner reports, government white papers, and
+            institutional self-studies are not well-indexed by citation APIs. The non-paper resource registry partially
+            compensates, but coverage is incomplete.
+          </li>
+          <li>
+            <strong>Recency-velocity inflation.</strong> Very recent papers can show high citation velocity that decays
+            as the field normalizes around them. Emerging papers should be interpreted with awareness of this effect.
+          </li>
+          <li>
+            <strong>Seed subjectivity.</strong> While the expansion and filtering steps are algorithmic, the seed set
+            remains a human judgment. A different expert might choose different seeds, producing a different corpus.
+            The current seed set is documented in the corpus registry for transparency.
+          </li>
+        </ul>
+
+        <h3>6.2 Future directions</h3>
+        <p>
+          Several extensions are planned or under consideration:
+        </p>
+        <ul>
+          <li>
+            <strong>Retrieval-augmented generation (RAG) layer.</strong> The corpus is structured for downstream RAG
+            integration. A conversational interface that lets practitioners ask natural language questions against the
+            evidence base, with citations surfaced to the specific papers and sections that ground each answer, would
+            substantially lower the access barrier for practitioners who are not comfortable navigating a citation graph.
+          </li>
+          <li>
+            <strong>Velocity-tier emerging literature.</strong> The current corpus uses seed connectivity as the primary
+            filter. A second pass using citation velocity (citations per year) to surface high-momentum recent papers
+            not yet well-connected to seeds would extend coverage of the emerging frontier.
+          </li>
+          <li>
+            <strong>Multi-language coverage.</strong> Explicit Tier 4 allocations for non-English publications — following
+            the methodology's recommendation for domains with international research communities — would reduce the
+            English-language bias.
+          </li>
+          <li>
+            <strong>Community contribution mechanism.</strong> An open pull request process for practitioners and researchers
+            to propose additions to the non-paper resource registry or flag gaps would allow the workspace to benefit from
+            the expertise of the broader learning engineering community.
+          </li>
+        </ul>
+      </div>
+
+      <!-- 7. Conclusion -->
+      <div class="wp-section" id="conclusion">
+        <h2>7. Conclusion</h2>
+        <p>
+          The Learning Engineering Resources evidence workspace is designed to do something specific: give practitioners,
+          researchers, and curriculum designers a principled, navigable, and honest map of a complex and scattered literature.
+          It does this by combining the rigor of bibliometric corpus construction with the navigability of an interactive
+          citation graph and the practical breadth of a curated non-paper resource set.
+        </p>
+        <p>
+          The workspace is honest about its limitations — in the coverage signals section, in the provenance JSON attached
+          to every node, and in this document. An evidence resource that hides its gaps is less useful than one that makes
+          them visible. The goal is not to produce the appearance of comprehensive coverage, but to produce a trustworthy,
+          auditable starting point that helps users understand both what the field knows and how well we know it.
+        </p>
+        <p>
+          Learning engineering is a field that exists to improve learning at scale. A workspace that makes its evidence
+          base more accessible, navigable, and trustworthy is a small contribution to that larger project.
+        </p>
+      </div>
+
+      <!-- 8. References -->
+      <div class="wp-section" id="refs">
+        <h2>8. References</h2>
+        <ol class="wp-refs">
+          <li>
+            Atkinson RK, Derry SJ, Renkl A, Wortham D. Learning from examples: Instructional principles from the worked
+            examples research. <em>Review of Educational Research</em> 2000;70(2):181–214.
+          </li>
+          <li>
+            Black P, Wiliam D. Assessment and classroom learning. <em>Assessment in Education: Principles, Policy &amp;
+            Practice</em> 1998;5(1):7–74.
+          </li>
+          <li>
+            Boyack KW, Klavans R. Co-citation analysis, bibliographic coupling, and direct citation: Which citation approach
+            represents the research front most accurately? <em>Journal of the American Society for Information Science and
+            Technology</em> 2010;61(12):2389–2404. DOI: 10.1002/asi.21419
+          </li>
+          <li>
+            Brin S, Page L. The anatomy of a large-scale hypertextual web search engine. <em>Computer Networks and ISDN
+            Systems</em> 1998;30:107–117.
+          </li>
+          <li>
+            Chi M, VanLehn K, Litman D, Jordan P. Experimentally evaluating the application of reinforcement learning to
+            the induction of effective and adaptive pedagogical strategies. <em>User Modeling and User-Adapted
+            Interaction</em> 2011;21(1-2):137–180.
+          </li>
+          <li>
+            Flavell JH. Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry.
+            <em>American Psychologist</em> 1979;34(10):906–911.
+          </li>
+          <li>
+            Goodell J, Kolodner J. (Eds.) <em>Learning Engineering Toolkit</em>. Routledge, 2023.
+          </li>
+          <li>
+            Hicks D, Wouters P, Waltman L, de Rijcke S, Rafols I. Bibliometrics: The Leiden Manifesto for research metrics.
+            <em>Nature</em> 2015;520(7548):429–431. DOI: 10.1038/520429a
+          </li>
+          <li>
+            Kessler MM. Bibliographic coupling between scientific papers. <em>American Documentation</em>
+            1963;14(1):10–25. DOI: 10.1002/asi.5090140103
+          </li>
+          <li>
+            Kornell N, Bjork RA. Learning concepts and categories: Is spacing the "enemy of induction"?
+            <em>Psychological Science</em> 2008;19(6):585–592.
+          </li>
+          <li>
+            Priem J, Piwowar H, Orr R. OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and
+            concepts. <em>arXiv preprint</em> 2022; arXiv:2205.01833.
+          </li>
+          <li>
+            Roediger HL, Karpicke JD. Test-enhanced learning: Taking memory tests improves long-term retention.
+            <em>Psychological Science</em> 2006;17(3):249–255.
+          </li>
+          <li>
+            Small H. Co-citation in the scientific literature: A new measure of the relationship between two documents.
+            <em>Journal of the American Society for Information Science</em> 1973;24(4):265–269.
+            DOI: 10.1002/asi.4630240406
+          </li>
+          <li>
+            Sweller J. Cognitive load during problem solving: Effects on learning. <em>Cognitive Science</em>
+            1988;12(2):257–285.
+          </li>
+          <li>
+            Sweller J, Cooper GA. The use of worked examples as a substitute for problem solving in learning algebra.
+            <em>Cognition and Instruction</em> 1985;2(1):59–89.
+          </li>
+          <li>
+            Sweller J, van Merriënboer JJG, Paas F. Cognitive architecture and instructional design.
+            <em>Educational Psychology Review</em> 1998;10(3):251–296.
+          </li>
+          <li>
+            VanLehn K. The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring
+            systems. <em>Educational Psychologist</em> 2011;46(4):197–221.
+          </li>
+          <li>
+            Vygotsky LS. <em>Mind in Society: The Development of Higher Psychological Processes</em>. Harvard University
+            Press, 1978.
+          </li>
+          <li>
+            Wood D, Bruner JS, Ross G. The role of tutoring in problem solving. <em>Journal of Child Psychology and
+            Psychiatry</em> 1976;17(2):89–100.
+          </li>
+          <li>
+            Zimmerman BJ. Becoming a self-regulated learner: An overview. <em>Theory Into Practice</em>
+            2002;41(2):64–70.
+          </li>
+        </ol>
+      </div>
+
+      <footer class="wp-footer">
+        <p>
+          Learning Engineering Resources &nbsp;·&nbsp; Whitepaper v1.0 · April 2026 &nbsp;·&nbsp;
+          <a href="index.html">Back to workspace</a>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -6,7 +6,7 @@ export function ProgramsSection({ groupedPrograms }) {
       <div className="panel-head">
         <div>
           <h2>Programs and Field Landscape</h2>
-          <p className="caption">Program and organization records are sourced from the curated non-paper registry.</p>
+          <p className="caption">Academic programs, organizations, and practitioners active in learning engineering.</p>
         </div>
       </div>
 
@@ -34,7 +34,7 @@ export function ProgramsSection({ groupedPrograms }) {
                               ${displayLinks.map(
                                 (link, index) => html`
                                   <a key=${`${program.name}:${link}`} href=${link} target="_blank" rel="noreferrer"
-                                    >${index === 0 ? "primary link" : "source"}</a
+                                    >${index === 0 ? "website" : "source"}</a
                                   >
                                 `
                               )}
@@ -45,7 +45,7 @@ export function ProgramsSection({ groupedPrograms }) {
                       ${program.relatedMentions?.length
                         ? html`
                             <details>
-                              <summary>Related Adjacent Mentions (${program.relatedMentions.length})</summary>
+                              <summary>Related mentions (${program.relatedMentions.length})</summary>
                               <ul className="flat-list compact">
                                 ${program.relatedMentions.map(
                                   (mention) => html`<li key=${`${program.name}:${mention}`}>${mention}</li>`

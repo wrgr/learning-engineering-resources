@@ -5,11 +5,14 @@ export function HeroSection({ stats }) {
     <header className="wrap hero">
       <div className="hero-layout">
         <div className="hero-copy">
-          <p className="eyebrow">Learning Engineering Knowledge Studio</p>
-          <h1>Topic-linked evidence workspace for papers, programs, and field artifacts</h1>
+          <p className="eyebrow">Learning Engineering</p>
+          <h1>A curated evidence workspace for the learning engineering field</h1>
           <p className="lede">
-            This edition is rebuilt from the latest corpus pipeline: topics map directly to seed papers, expansion papers, and
-            non-paper resources, with provenance visible on every node.
+            Explore core and related papers, field programs, and non-paper resources — each linked to a topic and traceable back to
+            its source. Provenance is visible on every item.
+          </p>
+          <p style=${{ marginTop: "0.9rem" }}>
+            <a href="whitepaper.html" className="wp-cta">Read the whitepaper &rarr;</a>
           </p>
         </div>
         <figure className="hero-figure">

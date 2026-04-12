@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-04-09T13:50:17.502060+00:00",
+  "updated_at_utc": "2026-04-12T18:54:56.950348+00:00",
   "abstracts": {
     "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&amp;identifierValue=10.1201/b10274-10&amp;type=chapterpdf": "",
     "https://link.springer.com/content/pdf/10.1007/978-1-4419-1428-6_6027.pdf": "",
@@ -94,7 +94,8 @@
     "https://doi.org/10.1016/j.compedu.2019.103612": "",
     "https://openalex.org/W2949159326": "",
     "https://doi.org/10.1016/j.copsyc.2020.04.011": "",
-    "https://openalex.org/W3029186289": ""
+    "https://openalex.org/W3029186289": "",
+    "https://doi.org/content/pdf/10.1007/978-1-4419-1428-6.pdf": ""
   },
-  "count": 94
+  "count": 95
 }

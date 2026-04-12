@@ -18,11 +18,11 @@ export function GraphWorkspaceSection({
       <div className="panel-head">
         <div>
           <h2>Graph Workspace</h2>
-          <p className="caption">Select a topic, paper, or resource to inspect provenance and linked evidence.</p>
+          <p className="caption">Select any node to inspect its provenance and linked evidence.</p>
         </div>
         <label className="switch">
           <input type="checkbox" checked=${includeHop} onChange=${(event) => setIncludeHop(event.target.checked)} />
-          <span>Include one-hop expansion</span>
+          <span>Include related papers</span>
         </label>
       </div>
 
@@ -37,7 +37,7 @@ export function GraphWorkspaceSection({
         ${selectedNode
           ? html`
               <div className="selected-node-head">
-                <h3>Selected Node</h3>
+                <h3>Selected</h3>
                 <div className="tags">
                   <span className="tag tag-topic">${selectedNode.type}</span>
                   <span className="tag">hop ${selectedNode.hop}</span>
@@ -54,7 +54,7 @@ export function GraphWorkspaceSection({
 
               <div className="citation-grid">
                 <article className="citation-col">
-                  <h4>Incoming Links (${citationContext.incoming.length})</h4>
+                  <h4>Cited by (${citationContext.incoming.length})</h4>
                   <ul className="flat-list compact">
                     ${citationContext.incoming.slice(0, 20).map(
                       ({ edge, node }) => html`
@@ -70,7 +70,7 @@ export function GraphWorkspaceSection({
                 </article>
 
                 <article className="citation-col">
-                  <h4>Outgoing Links (${citationContext.outgoing.length})</h4>
+                  <h4>Cites (${citationContext.outgoing.length})</h4>
                   <ul className="flat-list compact">
                     ${citationContext.outgoing.slice(0, 20).map(
                       ({ edge, node }) => html`
@@ -92,7 +92,7 @@ export function GraphWorkspaceSection({
                   <ul className="flat-list compact">
                     ${nodeRelatedPapers.length
                       ? nodeRelatedPapers.map((paper) => html`<li key=${`np:${paper.id}`}>${shortLabel(paper.title, 120)}</li>`)
-                      : html`<li>No direct paper matches for this node.</li>`}
+                      : html`<li>No matching papers for this selection.</li>`}
                   </ul>
                 </article>
                 <article>
@@ -106,12 +106,12 @@ export function GraphWorkspaceSection({
                             </li>
                           `
                         )
-                      : html`<li>No direct resource matches for this node.</li>`}
+                      : html`<li>No matching resources for this selection.</li>`}
                   </ul>
                 </article>
               </div>
             `
-          : html`<p className="caption">Select a node to inspect provenance and citation context.</p>`}
+          : html`<p className="caption">Click a node in the graph above to inspect its details.</p>`}
       </div>
     </section>
   `;

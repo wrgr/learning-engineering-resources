@@ -1,7 +1,7 @@
 {
   "source_url": "corpus/non_paper_resources.jsonl",
-  "section_count": 7,
-  "item_count": 26,
+  "section_count": 13,
+  "item_count": 125,
   "sections": [
     {
       "section": "T00 Field Overview & History",
@@ -145,6 +145,474 @@
           "content_type": "GL",
           "status": "SEED",
           "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-001",
+          "title": "The Job of a College President",
+          "url": "https://drive.google.com/file/d/1LgvXnaxWmioz3q36umdk5FUdXRfE7hxR/view?usp=drive_link",
+          "context": "Source: CMU. Author(s): Herb Simon. Type: Report. Year: 1967.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-002",
+          "title": "Cold Rolled Steel and Knowledge: What Can Higher Education Learn About Productivity?",
+          "url": "https://www.researchgate.net/profile/Joel_Smith3/publication/232840806_Cold_Rolled_Steel_and_Knowledge_What_Can_Higher_Education_Learn_About_Productivity/links/5628ff1f08ae518e347c6e02.pdf",
+          "context": "Source: Change The Magazine of Higher Learning. Author(s): Candace Thille and Joel Smith. Type: Journal. Year: 2011.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-003",
+          "title": "Changing the Production Function in Higher Education",
+          "url": "http://www.acenet.edu/news-room/Documents/Changing-the-Production-Function-in-Higher-Ed.pdf",
+          "context": "Source: American Council on Education. Author(s): Candace Thille. Type: Report. Year: 2012.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-004",
+          "title": "Why We Need Learning Engineers",
+          "url": "https://www.chronicle.com/article/Why-We-Need-Learning-Engineers/229391",
+          "context": "Source: Chronicle of Higher Education. Author(s): Bror Saxberg. Type: Post. Year: 2015.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-005",
+          "title": "Learning Engineering: Leveraging Science and Technology for Effective Instruction (page 30)",
+          "url": "https://mobilize.stanford.edu/wp-content/uploads/2021/10/BCRFall2015.pdf",
+          "context": "Source: Biomedical Computation Review. Author(s): Norman Bier. Type: Article. Year: 2015.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-006",
+          "title": "Online Education: A Catalyst for Higher Education Reforms MIT",
+          "url": "https://oepi.mit.edu/files/2016/09/MIT-Online-Education-Policy-Initiative-April-2016.pdf",
+          "context": "Source: MIT. Type: Report. Year: 2016.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-007",
+          "title": "Learning Engineering for Online Education",
+          "url": "https://www.routledge.com/Learning-Engineering-for-Online-Education-Theoretical-Contexts-and-Design-Based/Dede-Richards-Saxberg/p/book/9780815394426",
+          "context": "Author(s): edited by Chris Dede, John Richards, and Bror Saxberg. Type: Book. Year: 2019.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-008",
+          "title": "Learning Engineering Toolkit",
+          "url": "https://www.routledge.com/Learning-Engineering-Toolkit-Evidence-Based-Practices-from-the-Learning/Goodell-Kolodner/p/book/9781032232829",
+          "context": "Author(s): Jim Goodell, Janet Koloder. Type: Book. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-009",
+          "title": "Webinar: Learning Engineering: A Forum with Bror Saxberg",
+          "url": "",
+          "context": "Source: CIRCL (Center for Innovation Research in Cyberlearning). Author(s): Bror Saxberg. Type: Webinar. Year: 2015.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-010",
+          "title": "Learning Engineering with Dr. Bror Saxberg Why doesn\u2019t education have more individuals focused on building the learning experience and understanding how everything ties together? Find out what Bror, and the rest of the crew, have to say on that and much more.",
+          "url": "",
+          "context": "Source: Trending in Education. Author(s): Bror Saxberg. Type: Podcast. Year: 2017.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-011",
+          "title": "\u201cLearning Engineering\u201d Making its Way in the World",
+          "url": "https://www.gettingsmart.com/2016/07/26/learning-engineering-making-its-way-in-the-world/",
+          "context": "Source: Getting Smart. Type: Blog post. Year: 2016.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-012",
+          "title": "iFEST Industry Keynote, Bror Saxberg: Learning Engineering: The Art of Applying Learning Science at Scale",
+          "url": "https://www.ndia.org/-/media/sites/ntsa/events/2018/81d0/presentations/02---mon-1425-plaza-ballroom---saxberg-vp-chan-zuckerberg---learning-engineering.pdf?download=1",
+          "context": "Source: iFEST. Author(s): Bror Saxberg. Type: Keynote. Year: 2018.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-013",
+          "title": "A Transformation to Learning Engineering Bror Saxberg, 2018 Simon Initiative Distinguished Lecture, CMU",
+          "url": "https://youtu.be/FajOrOQocEM",
+          "context": "Source: CMU. Author(s): Bror Saxberg. Type: Keynote. Year: 2018.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-014",
+          "title": "Bror Saxberg gave a keynote, Learning Engineering: What We Know, What We Can Do, at MIT\u2019s Festival of Learning about innovation in teaching and learning.",
+          "url": "https://www.youtube.com/watch?v=VSrsOzzjV8I&list=PLI5g5RWpdCgdfwFpqpY9sQpnxKtatHoX4&index=3",
+          "context": "Source: MIT\u2019s Festival of Learning. Author(s): Bror Saxberg. Type: Talk. Year: 2023.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-015",
+          "title": "Forging Effective Learning with Bror Saxberg",
+          "url": "https://www.leadinglearning.com/episode-343-bror-saxberg/",
+          "context": "Source: Leading Learning. Author(s): Bror Saxberg. Type: Podcast. Year: 2023.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-016",
+          "title": "Learning Engineering: The Art of Applying Learning Science to Real-World Training Explored the impact learning science, motivation, and understanding expertise has on learning and teaching to increase outcomes from professional training and development.",
+          "url": "https://nextlevellab.gse.harvard.edu/2022/03/09/nll-distinguished-speaker-series-dr-bror-saxberg/",
+          "context": "Source: Next Level Lab at the Harvard Graduate School of Education Distinguished Speaker Series. Author(s): Bror Saxberg. Type: Talk - Video. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-065",
+          "title": "A Learning Engineering Model for Learner-Centered Adaptive Systems",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-030-60128-7_41",
+          "context": "Source: HCI International 2020. Author(s): Jim Goodell and Khanh-Phuong (KP) Thai. Type: Conference paper. Year: 2020.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-066",
+          "title": "High-Leverage Opportunities for Learning Engineering Discusses the potential of learning engineering to bring the theory and practice of learning forward as well as some of the challenges that have slowed uptake of learning engineering, and how they can be addressed.",
+          "url": "https://learninganalytics.upenn.edu/Learning_Engineering_recommendations.pdf",
+          "context": "Source: Learning Agency. Author(s): Ryan S. Baker and Ulrich Boser. Type: Report. Year: 2021.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-067",
+          "title": "Scaffolds and Nudges: A Case Study in Learning Engineering Design Improvements",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-030-78270-2_78",
+          "context": "Source: Artificial Intelligence in Education\n(AIED 2021). Author(s): Stephen E. Fancsali, Martina Pavelko, Josh Fisher, Leslie Wheeler & Steven Ritter. Type: Conference proceedings. Year: 2021.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-068",
+          "title": "From Designer to Engineer, New Roles for Learning Professionals Dr. Michael Noble, President (Americas) Area9 Lyceum discusse the role for learning engineers and why it's not just another trend",
+          "url": "https://bringoutthetalent.buzzsprout.com/1788200/10034609-bring-out-the-talent-episode-20-from-designer-to-engineer-new-roles-for-learning-professionals",
+          "context": "Source: Bring Out the Talent from The Training Associates. Author(s): Dr. Michael Noble\n\nMaria Melfa & Jocelyn Allen, hosts\\. Type: Podcast. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-070",
+          "title": "Define \u201cLearning Engineering\u201d with the TRAP Framework",
+          "url": "https://juniperpublishers.com/etoaj/ETOAJ.MS.ID.555635.php",
+          "context": "Source: Engineering Technology Open Access Journal. Author(s): Ke Zhang and Meina Zhu. Type: Journal. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-071",
+          "title": "Full video from above: Introduction to Learning Engineering",
+          "url": "https://www.youtube.com/watch?v=8-pQ1Z86VWQ",
+          "context": "Source: EdTech Recharge. Type: Video. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-073",
+          "title": "Learning Engineering: What Is It and How Can the Government Benefit?",
+          "url": "https://www.td.org/atd-blog/learning-engineering-what-is-it-and-how-can-the-government-benefit",
+          "context": "Source: ATD. Author(s): JJ Walcutt. Type: Post. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-074",
+          "title": "How to Bring Learning Engineering Principles to Your Classroom: Interview with Steve Ritter",
+          "url": "https://www.carnegielearning.com/blog/learning-engineering-classroom/",
+          "context": "Source: Carnegie Learning. Author(s): Steve Ritter. Type: blog post. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-075",
+          "title": "Are you curious about what learning engineering is? Listen in as Katerina Schenke, PhD from Duolingo takes us through what learning engineering is and how Duolingo uses learning engineering on",
+          "url": "https://www.linkedin.com/posts/edtech-recharge_learning-edtech-k12-activity-6993644473863843841-skV_/",
+          "context": "Source: EdTech Recharge's LinkedIn post. Author(s): Katerina Schenke. Type: Video. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-076",
+          "title": "Bringing Learning Engineering Into Online Education",
+          "url": "https://www.youtube.com/watch?v=zlEo9mEHKuw",
+          "context": "Source: Maryland Online. Author(s): Karen Rege & Jodi Lis. Type: Webinar. Year: 2023.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-077",
+          "title": "Applying Human-Centered Learning Engineering Methods to Learning",
+          "url": "https://silverliningforlearning.org/episode-149-applying-human-centered-engineering-methods-to-learning/",
+          "context": "Source: Silver Lining for Learning. Author(s): Sae Schatz, Janet Koloder and Jim Goodell. Type: Video/Podcast. Year: 2023.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-078",
+          "title": "The Value Proposition of e Generalized Intelligent Framework for Tutoring (GIFT) for the Field of Learning Engineering",
+          "url": "https://gifttutoring.org/attachments/download/4787/GIFTSym11_Proceedings_Final_063023.pdf",
+          "context": "Source: page 87 of the Proceedings of the 11th Annual GIFT Users Symposium. Author(s): Shelly Blake-Plock, Kevin Owens and Jim Goodell. Type: Paper. Year: 2023.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-079",
+          "title": "Cultural Dimensions in Learning Engineering: Redesigning Courses for Industrial Training Institutes",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-96-5761-2_21",
+          "context": "Source: Proceedings of the International Conference on Technology 4 Education 2024, Volume 1. Author(s): Meiyi Chen, Tanvi Domadia, Abigail Stein, Norman Bier & John Stamper. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-080",
+          "title": "Integrating Adaptive Interventions into Learning Engineering Workflows",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-92967-0_5#citeas",
+          "context": "Source: Adaptive Instructional Systems. HCII 2025. Author(s): Ilya Musabirov. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-082",
+          "title": "Capturing Elusive Technology: Designing a Course on AI for Learning and Development Practitioners",
+          "url": "https://doi.org/10.14434/ijdl.v16i2.42150",
+          "context": "Source: International Journal of Designs for Learning. Author(s): Rafael Leonardo da Silva. Type: journal. Year: 2025.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-083",
+          "title": "Carnegie Mellon University Open Learning Institute\u2018s Simon Approach to Learning Engineering",
+          "url": "https://oli.cmu.edu/educators/learning-engineering/",
+          "context": "Source: CMU: OLI. Type: Video.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-084",
+          "title": "CMU Simon Inititative Learning Engineering Community",
+          "url": "https://www.cmu.edu/simon/open-simon/",
+          "context": "Source: CMU: Open Simon. Type: Resources.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-085",
+          "title": "Intro: What is Learning Engineering?",
+          "url": "https://www.youtube.com/watch?v=9w_xOvIognA",
+          "context": "Source: CMU, Open Simon. Author(s): CMU. Type: Video. Year: 2020.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-086",
+          "title": "CMU Learn Lab Learning Science and Engineering Seminar Series",
+          "url": "https://learnlab.org/learning-science-and-engineering-seminar/",
+          "context": "Source: CMU Learn Lab Learning. Author(s): CMU Learn Lab Learning. Type: Talks. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-087",
+          "title": "Crucible Cyber Platform Brochure: They have learning engineering as part of their process.",
+          "url": "https://www.sei.cmu.edu/documents/6425/6611_Cyber_Platform_Brochure_1.pdf",
+          "context": "Source: Software Engineering Institute, CMU. Type: Brochure. Year: 2026.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-088",
+          "title": "ASU Learning Engineering Institute website",
+          "url": "https://learningengineering.asu.edu/",
+          "context": "",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-090",
+          "title": "Leveraging Learning Engineering to Orchestrate and Enhance Learning",
+          "url": "https://www.youtube.com/watch?v=_Ec9ra1zUxA&t=98s",
+          "context": "Source: part of ASU's Augmented Intelligence Workshop series.. Author(s): Danielle S. McNamara. Type: Talk - Video. Year: 2022.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-GL-091",
+          "title": "ASU LE Research Network 2026 Convening",
+          "url": "https://edtecharchives.org/journal/2551/",
+          "context": "Source: ASU. Type: convenings. Year: 2026.",
+          "topic_codes": [
+            "T00"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
         }
       ]
     },
@@ -271,6 +739,25 @@
       ]
     },
     {
+      "section": "T05 Knowledge Representation",
+      "items": [
+        {
+          "resource_id": "LE-GL-050",
+          "title": "Developing an Ontology for Learning Engineering Learning Engineering Enlightenment: Think Like an Engineer",
+          "url": "https://newlearningfrontier.com/",
+          "context": "Source: New Frontiers website. Author(s): Ellen Wagner. Type: Blog Posts. Year: 2024.",
+          "topic_codes": [
+            "T05",
+            "T04",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T05 Knowledge Representation"
+        }
+      ]
+    },
+    {
       "section": "T06 Intelligent Tutoring & Adaptive Systems",
       "items": [
         {
@@ -347,6 +834,268 @@
           "content_type": "CE",
           "status": "APPROVED",
           "section": "T07 AI & Foundation Models in Learning"
+        },
+        {
+          "resource_id": "LE-GL-058",
+          "title": "Learning Engineering in Practice: A Case Study on Developing LLM-Based Educational Tools",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-92970-0_10",
+          "context": "Source: Adaptive Instructional Systems\n(HCII 2025). Author(s): Rachel Van Campenhout, David Soto-Karlin, Michelle Selinger & Bill Jerome. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T07",
+            "T06",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T07 AI & Foundation Models in Learning"
+        }
+      ]
+    },
+    {
+      "section": "T08 Simulation & Experiential Learning",
+      "items": [
+        {
+          "resource_id": "LE-GL-059",
+          "title": "Leveraging Learning Engineering to Advance Authentic Learning in Virtual Reality",
+          "url": "https://jaid.edtechbooks.org/jaid_13_4/authentic_immersive",
+          "context": "Source: Journal of Applied Instructional Design. Author(s): Kristin Torrence. Type: Journal. Year: 2025.",
+          "topic_codes": [
+            "T08",
+            "T10",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T08 Simulation & Experiential Learning"
+        },
+        {
+          "resource_id": "LE-GL-081",
+          "title": "Macrocognition in Simulation Based Training: A Practical Application of Learning Engineering in a Complex Training Environment",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-92967-0_15",
+          "context": "Source: Adaptive Instructional Systems. HCII 2025. Author(s): Jessica M. Johnson. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T08",
+            "T10",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T08 Simulation & Experiential Learning"
+        },
+        {
+          "resource_id": "LE-GL-089",
+          "title": "AIED: From Cognitive Simulations to Learning Engineering, with Humans in the Middle",
+          "url": "https://link.springer.com/article/10.1007/s40593-023-00349-y",
+          "context": "Source: International Journal of Artificial Intelligence in Education. Author(s): Danielle S. McNamara. Type: Journal. Year: 2023.",
+          "topic_codes": [
+            "T08",
+            "T10",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T08 Simulation & Experiential Learning"
+        }
+      ]
+    },
+    {
+      "section": "T10 Workforce Development & Training Systems",
+      "items": [
+        {
+          "resource_id": "LE-GL-026",
+          "title": "Learning Engineering, A New Academic Discipline and Engineering Profession",
+          "url": "https://sagroups.ieee.org/2247-1/wp-content/uploads/sites/316/2019/12/COI4-IITSEC_Learning-Engineering_Blake-Plock.pdf",
+          "context": "Source: I/ITSEC. Author(s): Shelly Blake-Plock. Type: Point Paper. Panel. Year: 2019.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-039",
+          "title": "Learning Engineering at a Glance (Based on the iFEST Poster, Winner of Best Poster Design)",
+          "url": "https://www.armyupress.army.mil/Journals/Journal-of-Military-Learning/Journal-of-Military-Learning-Archives/Conference-Edition-2023-Journal-of-Military-Learning/Engineering-at-a-Glance/",
+          "context": "Source: US Army\u2019s Journal of Military Learning. Author(s): Sae Schatz, Jim Goodell and Aaron Kessler. Type: Journal. Year: 2023.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-040",
+          "title": "Overview of U.S. Army Competency Based Training and the Role of Simulation, Data and Learning Engineering",
+          "url": "https://learn.healthysimulation.com/course/competency-based-experiential-learning-healthcare-simulation-ipssw-2023",
+          "context": "Source: Hosted by Health Simulation. Author(s): Benjamin Goldberg  & Jim Goodell. Type: Webinar. Year: 2023.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-044",
+          "title": "Learning Engineering Virtual Training Systems with Learning Science, Data Standards and a Capabilities Maturity Model",
+          "url": "https://s3.amazonaws.com/amz.xcdsystem.com/44ECEE4F-033C-295C-BAE73278B7F9CA1D_abstract_File17275/FinalPaper_23399_0827102231.pdf",
+          "context": "Source: I/ITSEC 2023. Author(s): Shelly Blake-Plock, Kevin Owens and Jim Goodell. Type: Conference Paper. Year: 2023.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-054",
+          "title": "Air Force Enterprise Learning Engineering Center of Excellence (ELE CoE) overview",
+          "url": "https://www.aetc.af.mil/Portals/88/IITSEC%202024/DoD%20SAFE-gUnd5hvxtbj75ykb/HQ%20AETC%20Lahm%20Conference%20Room-20241101_093000-Meeting%20Recording.mp4?ver=S0yo1ClluDdfvDClRwxrNg%3d%3d",
+          "context": "Source: Air Force. Type: Video. Year: 2024.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-055",
+          "title": "Generalizable Learning Engineering Adoption Maturity Model paper outlines a learning engineering maturity model for any organization in any sector. (2024)",
+          "url": "",
+          "context": "Source: I/ITSEC Conference. Year: 2024.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-092",
+          "title": "A Practical Guide to Using Open Tools for Well-Defined Competencies \u2014 Learning Engineering of Multi-Platform, Multi-Domain, Mission-Ready Skills Definitions",
+          "url": "https://iitsec.xcdacademy.com/index.cfm/item/56673",
+          "context": "Source: I/ITSEC 2025. Author(s): Jim Goodell. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-093",
+          "title": "But How Do You Know They Learned That?",
+          "url": "https://iitsec.xcdacademy.com/index.cfm/item/56657",
+          "context": "Source: I/ITSEC 2025. Author(s): Blair Lehman,  Jeanine DeFalco. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-094",
+          "title": "Advancing Expertise Development Through Adaptive Human-AI Training",
+          "url": "https://iitsec.xcdacademy.com/index.cfm/item/56443",
+          "context": "Source: I/ITSEC 2025. Author(s): Jessica Johnson. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-095",
+          "title": "Measuring Learning Technology Maturity in DoD Acquisition",
+          "url": "https://iitsec.xcdacademy.com/index.cfm/item/56537",
+          "context": "Source: I/ITSEC 2025. Author(s): Mr. Kevin Owens, Shawn Miller, Jeanine DeFalco,Christine Covas-Smith. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-096",
+          "title": "Implementing Learning in Military Environments: An Operational & Tactical Perspective panel had many takeaways, explained in this podcast.",
+          "url": "",
+          "context": "Source: I/ITSEC Conference. Year: 2024.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-097",
+          "title": "Learning Engineering Competency-Based Experiential Learning within Institutional Military Education paper is a case study on a science and technology learning model.",
+          "url": "",
+          "context": "Source: I/ITSEC Conference. Year: 2024.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-098",
+          "title": "Mission XRpossible: Navigating Novice-to-Expert Assessment Design in Medical & Military Training tutorial explains the fundamental principles of assessment science and the practice of designing assessments within XR contexts.",
+          "url": "",
+          "context": "Source: I/ITSEC Conference. Year: 2024.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-099",
+          "title": "Applying Learning Engineering Process to Existing Military Training Programs: F-35 Demonstration paper explains key steps in create a training structure, process, and pathway.",
+          "url": "",
+          "context": "Source: I/ITSEC Conference. Year: 2024.",
+          "topic_codes": [
+            "T10",
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
         }
       ]
     },
@@ -366,6 +1115,95 @@
           "content_type": "TP",
           "status": "APPROVED",
           "section": "T11 Learning Infrastructure & Platforms"
+        }
+      ]
+    },
+    {
+      "section": "T12 Instructional Design & Curriculum",
+      "items": [
+        {
+          "resource_id": "LE-GL-052",
+          "title": "Instructional designer or learning engineer? it depends on how you brush your teeth",
+          "url": "https://www.linkedin.com/pulse/instructional-designer-learning-engineer-depends-how-you-anne-fensie-jgdzc/",
+          "context": "Source: LinkedIn. Author(s): Anne Fensie. Type: Blog Post. Year: 2024.",
+          "topic_codes": [
+            "T12",
+            "T03",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T12 Instructional Design & Curriculum"
+        },
+        {
+          "resource_id": "LE-GL-056",
+          "title": "Learning Engineering Fellowship Program: A Case Study in Data-Driven Curriculum Design",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-92967-0_1",
+          "context": "Source: Adaptive Instructional Systems. HCII 2025. Author(s): Erin Czerwinski, Tanvi Domadia & Yue Wang. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T12",
+            "T03",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T12 Instructional Design & Curriculum"
+        },
+        {
+          "resource_id": "LE-GL-062",
+          "title": "Are You Doing Learning Engineering\u2014Or Instructional Design?",
+          "url": "https://learningsolutionsmag.com/articles/are-you-doing-learning-engineering-or-instructional-design?utm_campaign=lspub&utm_medium=social&utm_source=twitter",
+          "context": "Source: Learning Solutions. Author(s): Jim Goddell. Type: Post. Year: 2019.",
+          "topic_codes": [
+            "T12",
+            "T03",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T12 Instructional Design & Curriculum"
+        },
+        {
+          "resource_id": "LE-GL-063",
+          "title": "Teaming up to Improve Medical/Healthcare Education: Instructional Design & Learning Engineering in the Journal of Applied Instructional Design",
+          "url": "https://253f0a53-bb62-46af-b495-b4548f4d5d90.filesusr.com/ugd/c9b0ce_5251ffb6173c4c9a968a76832aa36778.pdf",
+          "context": "Source: Journal of Applied Instructional Design. Author(s): Dina Kurzweil and Karen (Beth) Marcellas. Type: Journal Publication. Year: 2020.",
+          "topic_codes": [
+            "T12",
+            "T03",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T12 Instructional Design & Curriculum"
+        },
+        {
+          "resource_id": "LE-GL-064",
+          "title": "In the 2020 EDUCAUSE Horizon Report Teaching and Learning Edition the \u201cElevation of Instructional Design, Learning Engineering, and UX Design in Pedagogy in Practice\u201d is one of the six Emerging Technologies and Practices.",
+          "url": "https://library.educause.edu/resources/2020/3/2020-educause-horizon-report-teaching-and-learning-edition",
+          "context": "Source: Educause. Author(s): Educause. Type: Report. Year: 2020.",
+          "topic_codes": [
+            "T12",
+            "T03",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T12 Instructional Design & Curriculum"
+        },
+        {
+          "resource_id": "LE-GL-069",
+          "title": "Learning Engineering with Kristin Torrence, Head of Learning Engineering at Talespin, shares what she's been learning and practicing about learning engineering.",
+          "url": "https://anchor.fm/share-whatcha-learned/episodes/25-Learning-Engineering-with-Kristin-Torrence-e1i6bul",
+          "context": "Source: Share Whatcha Learned: Journeys in Instructional Design. Author(s): Kristin Torrence. Type: Podcast. Year: 2022.",
+          "topic_codes": [
+            "T12",
+            "T03",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T12 Instructional Design & Curriculum"
         }
       ]
     },
@@ -400,6 +1238,472 @@
           "content_type": "PP",
           "status": "SEED",
           "section": "T13 High-Consequence & Complex Domains"
+        }
+      ]
+    },
+    {
+      "section": "T14 Ethics, Equity & Responsible LE",
+      "items": [
+        {
+          "resource_id": "LE-GL-061",
+          "title": "Beyond Benchmarks: Responsible AI in Education Needs Learning Sciences",
+          "url": "https://cacm.acm.org/opinion/beyond-benchmarks-responsible-ai-in-education-needs-learning-sciences/",
+          "context": "Source: Communication of ACM. Author(s): Jeremy Roschelle, Elizabeth A. McLaughlin, and Kenneth R. Koedinger. Type: article. Year: 2025.",
+          "topic_codes": [
+            "T14",
+            "T07",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T14 Ethics, Equity & Responsible LE"
+        }
+      ]
+    },
+    {
+      "section": "T16 Standards, Credentialing & Community",
+      "items": [
+        {
+          "resource_id": "LE-GL-017",
+          "title": "Engineering Learning at Kaplan University",
+          "url": "http://www.sr.ithaka.org/wp-content/uploads/2016/10/SR_Case_Study_Engineering_Learning_Kaplan_100616.pdf",
+          "context": "Source: Ithaka S+R Case Study. Author(s): Jessie Brown\nMartin Kurzweil. Type: Report. Year: 2016.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-018",
+          "title": "Learning Engineering: Merging Science and Data to Design Powerful Learning",
+          "url": "http://www.gettingsmart.com/2018/01/learning-engineering-merging-science-and-data-to-design-powerful-learning/",
+          "context": "Source: Getting Smart. Author(s): Shelly Blake-Plock. Type: Post. Year: 2018.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-019",
+          "title": "ICICLE: A Consortium for Learning Engineering",
+          "url": "https://er.educause.edu/blogs/2018/5/icicle-a-consortium-for-learning-engineering",
+          "context": "Source: Educause. Author(s): Shelly Blake-Plock. Type: Post. Year: 2018.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-020",
+          "title": "The Rise of Learning Engineering",
+          "url": "https://oeb.global/oeb-insights/the-rise-of-learning-engineering/",
+          "context": "Source: OEB. Author(s): Ellen Wagner. Type: Post. Year: 2018.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-021",
+          "title": "Quinnsights: Get Ready for Learning Engineering",
+          "url": "https://www.learningsolutionsmag.com/articles/quinnsights-get-ready-for-learning-engineering/",
+          "context": "Source: Learning Solutions. Author(s): Clark Quinn. Type: Post. Year: 2018.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-022",
+          "title": "7 Things to Know about Learning Engineering",
+          "url": "https://library.educause.edu/resources/2018/9/7-things-you-should-know-about-learning-engineering",
+          "context": "Source: Educause. Author(s): Ellen Wagner, Shelly Blake-Plock, Robby Robson, Avron Barr. Type: Article. Year: 2018.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-023",
+          "title": "From the science of learning (and development) to learning engineering",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/10888691.2017.1421437",
+          "context": "Source: Applied Developmental Science. Author(s): Melina R. Uncapher. Type: Paper. Year: 2018.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-024",
+          "title": "Learning Engineering: A Primer This research report, Learning Engineering: A Primer, by Ellen Wagner, PhD, explores how learning engineering is expected to impact L&D.",
+          "url": "https://www.learningguild.com/insights/238/learning-engineering-a-primer/",
+          "context": "Source: Learning Guild. Author(s): Ellen Wagner. Type: Report. Year: 2019.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-025",
+          "title": "Learning Engineering: A Caliper Example",
+          "url": "https://eliterate.us/learning-engineering-a-caliper-example/",
+          "context": "Source: eLiterate. Author(s): Michael Feldstein. Type: Post. Year: 2019.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-027",
+          "title": "Proceedings of the 2019 Conference on Learning Engineering",
+          "url": "https://sagroups.ieee.org/icicle/wp-content/uploads/sites/148/2020/07/ICICLE_Proceedings_Learning-Engineering.pdf",
+          "context": "Source: ICICLE 2019 Conference. Author(s): Multiple. Type: Conference Proceedings. Year: 2019.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-028",
+          "title": "Learning Engineering Series, EdSurge",
+          "url": "https://www.edsurge.com/news/topics/learning-engineering",
+          "context": "Source: Edsurge. Author(s): EdSurge. Year: 2020.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-029",
+          "title": "Learning Engineering Is Learning About Learning. We Need That Now More Than Ever",
+          "url": "https://www.edsurge.com/news/2020-04-16-learning-engineering-is-learning-about-learning-we-need-that-now-more-than-ever",
+          "context": "Source: Edsurge. Author(s): Michael Feldstein. Type: Post. Year: 2020.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-030",
+          "title": "Learning Engineering: A View on Where the Field is at, Where it\u2019s Going, and the Research Needed",
+          "url": "https://tmb.apaopen.org/pub/5ib9cpqa/release/1",
+          "context": "Source: Technology, Mind and Behaviour. Author(s): Ryan S. Baker, Ulrich Boser and Erica L. Snow. Type: Journal. Year: 2021.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-031",
+          "title": "How Cisco Networking Academy\u2019s Learning Engineering team creates a pathway to new skills. Jeremy Creech describes the work in Learning Engineering being done within the Cisco Networking Academy to create equitable experiences for people to develop employable skills.",
+          "url": "https://blogs.cisco.com/csr/how-cisco-networking-academys-learning-engineering-team-creates-a-pathway",
+          "context": "Source: Cisco Blog. Author(s): Stacey Faucett. Type: Post. Year: 2021.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-032",
+          "title": "At Advanced Distributed Learning Initiative iFEST 2022 conference, the \u201cLearning Engineering at a Glance\u201d poster won the \u201cPeople\u2019s Choice Award for Best Poster Design.\"",
+          "url": "https://medium.com/open-learning/learning-engineering-at-a-glance-poster-awarded-best-design-at-ifest-2022-1cfdfaf7dda3",
+          "context": "Source: iFEST. Author(s): Sae Schatz and Jim Goodell. Type: Poster. Year: 2022.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-033",
+          "title": "Learning sciences and learning engineering: A natural or artificial distinction?",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/10508406.2022.2100705",
+          "context": "Source: Journal of the Learning Sciences. Author(s): Victor Lee. Type: Journal. Year: 2022.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-034",
+          "title": "Response to Victor Lee's LS and LE Learning engineering: What it is, why I\u2019m involved, and why I think more of you should be",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/10508406.2023.2190717?src=recsys",
+          "context": "Source: Journal of the Learning Sciences. Author(s): Janet Kolodner. Type: Journal. Year: 2022.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-035",
+          "title": "Learning engineering: Past, present and future Note: ICICLE images and references are from 2020",
+          "url": "https://doi.org/10.31681/jetol.1376727",
+          "context": "Source: Journal of Educational Technology and Online Learning (Turkey). Author(s): Kursat Cag\u0131ltay Nazire Bur\u00e7in Hamuto\u011flu  Mehmet Kesim. Type: Journal. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-036",
+          "title": "How Video Games Can Train You for a Job: Lessons from Learning Engineering Research and Duolingo's Success",
+          "url": "https://www.linkedin.com/pulse/how-video-games-can-train-you-job-lessons-from-learning-eric-basu?trk=public_profile_article_view",
+          "context": "Source: Linkedin. Author(s): Eric Basu. Type: Post. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-037",
+          "title": "How Duolingo\u2019s AI Learns What You Need to Learn The AI that powers the language-learning app today could disrupt education tomorrow",
+          "url": "https://spectrum.ieee.org/duolingo",
+          "context": "Source: IEEE Specturm. Author(s): Klinton Bicknell, Claire Brust, Burr Settles. Type: Post. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-038",
+          "title": "Learning Engineering: #WorkingOutLoud on Learning Science",
+          "url": "https://www.linkedin.com/pulse/learning-engineering-workingoutloud-science-julian-stodd",
+          "context": "Source: Linkedin. Author(s): Julian Sodd,  from the writing with co-authors Sae Schatz and Geoff Stea. Type: Post. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-041",
+          "title": "How to Improve EdTech Engagement Using Learning Engineering Principles: Case Study of an Educational Game",
+          "url": "https://www.linkedin.com/pulse/how-improve-edtech-engagement-using-learning-principles-nirmal-patel/?trackingId=lEq8hdLnTyen4UKsT1TpWg%3D%3D",
+          "context": "Source: LinkedIn post. Author(s): Nirmal Patel. Type: Blog Posts. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-042",
+          "title": "The Art and Science of Learning Engineering",
+          "url": "https://silverliningforlearning.org/episode-162-the-art-science-of-learning-engineering/",
+          "context": "Source: Silver Lining for Learning. Author(s): Danielle McNamara, Scotty Craig, and Rod Roscoe. Type: Video/Podcast. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-043",
+          "title": "Engaging in Student-Centered Educational Data Science Through Learning Engineering",
+          "url": "https://link.springer.com/content/pdf/10.1007/978-981-99-0026-8_1",
+          "context": "Source: Chapter 1, Educational Data Science: Essentials, Approaches,and Tendencies. Author(s): Rachel Van Campenhout, Bill Jerome, and Benny G. Johnson. Type: Book Chapter. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-045",
+          "title": "Modern Learning",
+          "url": "https://www.leadinglearning.com/episode-369-sae-schatz/",
+          "context": "Source: Leading Learning. Author(s): Sae Schatz. Type: Podcast. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-046",
+          "title": "Learning Engineering Perspectives for Supporting Educational Systems",
+          "url": "https://journals.sagepub.com/doi/full/10.1177/21695067231192886",
+          "context": "Source: Human Factors and Ergonomics Society. Author(s): Scotty Craig, Jim Goodell, Rod Roscoe, Erin Czerwinski, Jodi Lis. Type: Conference Proceeding. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-047",
+          "title": "Panel: Learning Engineering: A Path to Empowering Learners in and for the Age of AI - ELAI2022",
+          "url": "https://www.youtube.com/watch?v=H-MbNTt2NRc",
+          "context": "Source: GRAILE AI conference. Type: Conference Session. Year: 2023.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-048",
+          "title": "ICICLE 2024 Conference Proceedings",
+          "url": "https://icicle.edtechbooks.org/icicle_2024",
+          "context": "Source: Proceeding. Year: 2024.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-049",
+          "title": "Learning Engineering: New Profession or Transformational Process?",
+          "url": "https://campustechnology.com/Articles/2024/07/08/Learning-Engineering-New-Profession-or-Transformational-Process.aspx",
+          "context": "Source: Campus Technology Q&A. Author(s): Q&A with Ellen Wagner by Mary Grush. Type: Article. Year: 2024.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-051",
+          "title": "Yet Analytics: Learning Engineering page",
+          "url": "https://www.yetanalytics.com/learningengineering",
+          "context": "Source: Website. Author(s): Shelly Blake-Plock and team. Year: 2017.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-053",
+          "title": "QIP Learning Engineering videos",
+          "url": "https://www.youtube.com/playlist?list=PLhrOETQQiHyqsizqcBLG4SD1U44-dVCaQ",
+          "context": "Source: QIP. Author(s): QIP. Type: Videos on what is learning engineering based on toolkit. Year: 2024.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-057",
+          "title": "Leveraging Deterministic Algorithms to Personalize Education and Enhance Student Success: The Story of an Engineered Learning Experience",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-92967-0_6",
+          "context": "Source: Adaptive Instructional Systems. HCII 2025. Author(s): James R. Paradiso, Nicole Lapeyrouse, Cameron Bechard & Paula Libos. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-060",
+          "title": "Exploring Learning Engineering Design Decision Tracking: Emergent Themes from Practitioners\u2019 Work",
+          "url": "https://link.springer.com/epdf/10.1007/s11528-025-01076-y?sharing_token=mrBeVHduSO-RqfsC97UHyfe4RwlQNchNByi7wbcMAY6qP46mxdNoo15tkG5HsPXQ1X94enV-ANeEbh9UX4bw9fdvIJOfs5W9xXDyG_-rTOOElDjZwjUcVhFrgUcF76jZA_2BZahn3_0_V3bD7k-IhfmkhHkWbayRwGEpmCYK-FM%3D",
+          "context": "Source: AECT TechTrends. Author(s): Lauren Totino & Aaron Kessler. Type: Journal. Year: 2025.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-072",
+          "title": "At the Empowering Learners for the Age of AI conference, there were two keynotes related to learning engineering and an ICICLE panel. The videos for all the sessions on the Global Research Alliance for AI in Learning Education's (GRAILE) YouTube channel. Danielle McNamara, University of Arizona, gave the opening keynote, Leveraging AI and Learning Engineering in Large Scale Learning Scienceshttps://www.youtube.com/watch?v=Yn3AIuKJ1RY A panel of ICICLE folks spoke about Learning Engineering: A path to empowering learners in and for the Age of AI. https://www.youtube.com/watch?v=H-MbNTt2NRc Kumar Garg, Schmidt Futures, shared his thoughts in his keynote on Learning Engineering in the Age of AI. https://www.youtube.com/watch?v=HCDis6ELscA",
+          "url": "https://www.youtube.com/@graileai/videos",
+          "context": "Source: Empowering Learnings in the Age of AI Conference. Year: 2022.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
         }
       ]
     }

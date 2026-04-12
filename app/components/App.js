@@ -266,15 +266,15 @@ export function App() {
     if (!data) return [];
 
     return [
-      ["Reference Topics", data.topicMap?.count || 0],
-      ["Parsed Endnotes", data.summary.parsed_endnotes],
-      ["Matched Endnote Links", data.summary.matched_endnotes],
-      ["Seed Papers", data.summary.seed_papers],
-      ["Expansion Papers", data.summary.one_hop_papers],
-      ["Resource Artifacts", data.summary.icicle_resource_items],
+      ["Topics", data.topicMap?.count || 0],
+      ["Source Endnotes", data.summary.parsed_endnotes],
+      ["Linked Endnotes", data.summary.matched_endnotes],
+      ["Core Papers", data.summary.seed_papers],
+      ["Related Papers", data.summary.one_hop_papers],
+      ["Field Resources", data.summary.icicle_resource_items],
       ["Graph Nodes", data.summary.graph_nodes],
       ["Graph Edges", data.summary.graph_edges],
-      ["External Docs", data.extraDocs.count || 0],
+      ["Supporting Docs", data.extraDocs.count || 0],
     ];
   }, [data]);
 

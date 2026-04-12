@@ -3,7 +3,7 @@ import { html } from "../../lib.js";
 export function FieldSignalsSection({ signalCards }) {
   return html`
     <section className="panel">
-      <h2>Coverage and Risk Signals</h2>
+      <h2>Coverage Signals</h2>
       <div className="signal-grid">
         ${signalCards.map(
           (card) => html`

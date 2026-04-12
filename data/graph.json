@@ -5292,6 +5292,1379 @@
         "content_type": "GL",
         "status": "SEED"
       }
+    },
+    {
+      "id": "LE-GL-001",
+      "label": "The Job of a College President",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-002",
+      "label": "Cold Rolled Steel and Knowledge: What Can Higher Education Learn About Productivity?",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-003",
+      "label": "Changing the Production Function in Higher Education",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-004",
+      "label": "Why We Need Learning Engineers",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-005",
+      "label": "Learning Engineering: Leveraging Science and Technology for Effective Instruction (page 30)",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-006",
+      "label": "Online Education: A Catalyst for Higher Education Reforms MIT",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-007",
+      "label": "Learning Engineering for Online Education",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-008",
+      "label": "Learning Engineering Toolkit",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-009",
+      "label": "Webinar: Learning Engineering: A Forum with Bror Saxberg",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-010",
+      "label": "Learning Engineering with Dr. Bror Saxberg Why doesn\u2019t education have more individuals focused on building the learning experience and understanding how everything ties together? Find out what Bror, and the rest of the crew, have to say on that and much more.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-011",
+      "label": "\u201cLearning Engineering\u201d Making its Way in the World",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-012",
+      "label": "iFEST Industry Keynote, Bror Saxberg: Learning Engineering: The Art of Applying Learning Science at Scale",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-013",
+      "label": "A Transformation to Learning Engineering Bror Saxberg, 2018 Simon Initiative Distinguished Lecture, CMU",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-014",
+      "label": "Bror Saxberg gave a keynote, Learning Engineering: What We Know, What We Can Do, at MIT\u2019s Festival of Learning about innovation in teaching and learning.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-015",
+      "label": "Forging Effective Learning with Bror Saxberg",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-016",
+      "label": "Learning Engineering: The Art of Applying Learning Science to Real-World Training Explored the impact learning science, motivation, and understanding expertise has on learning and teaching to increase outcomes from professional training and development.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-017",
+      "label": "Engineering Learning at Kaplan University",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-018",
+      "label": "Learning Engineering: Merging Science and Data to Design Powerful Learning",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-019",
+      "label": "ICICLE: A Consortium for Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-020",
+      "label": "The Rise of Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-021",
+      "label": "Quinnsights: Get Ready for Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-022",
+      "label": "7 Things to Know about Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-023",
+      "label": "From the science of learning (and development) to learning engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-024",
+      "label": "Learning Engineering: A Primer This research report, Learning Engineering: A Primer, by Ellen Wagner, PhD, explores how learning engineering is expected to impact L&D.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-025",
+      "label": "Learning Engineering: A Caliper Example",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-026",
+      "label": "Learning Engineering, A New Academic Discipline and Engineering Profession",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-027",
+      "label": "Proceedings of the 2019 Conference on Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-028",
+      "label": "Learning Engineering Series, EdSurge",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-029",
+      "label": "Learning Engineering Is Learning About Learning. We Need That Now More Than Ever",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-030",
+      "label": "Learning Engineering: A View on Where the Field is at, Where it\u2019s Going, and the Research Needed",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-031",
+      "label": "How Cisco Networking Academy\u2019s Learning Engineering team creates a pathway to new skills. Jeremy Creech describes the work in Learning Engineering being done within the Cisco Networking Academy to create equitable experiences for people to develop employable skills.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-032",
+      "label": "At Advanced Distributed Learning Initiative iFEST 2022 conference, the \u201cLearning Engineering at a Glance\u201d poster won the \u201cPeople\u2019s Choice Award for Best Poster Design.\"",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-033",
+      "label": "Learning sciences and learning engineering: A natural or artificial distinction?",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-034",
+      "label": "Response to Victor Lee's LS and LE Learning engineering: What it is, why I\u2019m involved, and why I think more of you should be",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-035",
+      "label": "Learning engineering: Past, present and future Note: ICICLE images and references are from 2020",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-036",
+      "label": "How Video Games Can Train You for a Job: Lessons from Learning Engineering Research and Duolingo's Success",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-037",
+      "label": "How Duolingo\u2019s AI Learns What You Need to Learn The AI that powers the language-learning app today could disrupt education tomorrow",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-038",
+      "label": "Learning Engineering: #WorkingOutLoud on Learning Science",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-039",
+      "label": "Learning Engineering at a Glance (Based on the iFEST Poster, Winner of Best Poster Design)",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-040",
+      "label": "Overview of U.S. Army Competency Based Training and the Role of Simulation, Data and Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-041",
+      "label": "How to Improve EdTech Engagement Using Learning Engineering Principles: Case Study of an Educational Game",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-042",
+      "label": "The Art and Science of Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-043",
+      "label": "Engaging in Student-Centered Educational Data Science Through Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-044",
+      "label": "Learning Engineering Virtual Training Systems with Learning Science, Data Standards and a Capabilities Maturity Model",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-045",
+      "label": "Modern Learning",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-046",
+      "label": "Learning Engineering Perspectives for Supporting Educational Systems",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-047",
+      "label": "Panel: Learning Engineering: A Path to Empowering Learners in and for the Age of AI - ELAI2022",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-048",
+      "label": "ICICLE 2024 Conference Proceedings",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-049",
+      "label": "Learning Engineering: New Profession or Transformational Process?",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-050",
+      "label": "Developing an Ontology for Learning Engineering Learning Engineering Enlightenment: Think Like an Engineer",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T05",
+        "T04",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-051",
+      "label": "Yet Analytics: Learning Engineering page",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-052",
+      "label": "Instructional designer or learning engineer? it depends on how you brush your teeth",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T12",
+        "T03",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-053",
+      "label": "QIP Learning Engineering videos",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-054",
+      "label": "Air Force Enterprise Learning Engineering Center of Excellence (ELE CoE) overview",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-055",
+      "label": "Generalizable Learning Engineering Adoption Maturity Model paper outlines a learning engineering maturity model for any organization in any sector. (2024)",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-056",
+      "label": "Learning Engineering Fellowship Program: A Case Study in Data-Driven Curriculum Design",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T12",
+        "T03",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-057",
+      "label": "Leveraging Deterministic Algorithms to Personalize Education and Enhance Student Success: The Story of an Engineered Learning Experience",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-058",
+      "label": "Learning Engineering in Practice: A Case Study on Developing LLM-Based Educational Tools",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T07",
+        "T06",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-059",
+      "label": "Leveraging Learning Engineering to Advance Authentic Learning in Virtual Reality",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T08",
+        "T10",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-060",
+      "label": "Exploring Learning Engineering Design Decision Tracking: Emergent Themes from Practitioners\u2019 Work",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-061",
+      "label": "Beyond Benchmarks: Responsible AI in Education Needs Learning Sciences",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T14",
+        "T07",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-062",
+      "label": "Are You Doing Learning Engineering\u2014Or Instructional Design?",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T12",
+        "T03",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-063",
+      "label": "Teaming up to Improve Medical/Healthcare Education: Instructional Design & Learning Engineering in the Journal of Applied Instructional Design",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T12",
+        "T03",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-064",
+      "label": "In the 2020 EDUCAUSE Horizon Report Teaching and Learning Edition the \u201cElevation of Instructional Design, Learning Engineering, and UX Design in Pedagogy in Practice\u201d is one of the six Emerging Technologies and Practices.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T12",
+        "T03",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-065",
+      "label": "A Learning Engineering Model for Learner-Centered Adaptive Systems",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-066",
+      "label": "High-Leverage Opportunities for Learning Engineering Discusses the potential of learning engineering to bring the theory and practice of learning forward as well as some of the challenges that have slowed uptake of learning engineering, and how they can be addressed.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-067",
+      "label": "Scaffolds and Nudges: A Case Study in Learning Engineering Design Improvements",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-068",
+      "label": "From Designer to Engineer, New Roles for Learning Professionals Dr. Michael Noble, President (Americas) Area9 Lyceum discusse the role for learning engineers and why it's not just another trend",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-069",
+      "label": "Learning Engineering with Kristin Torrence, Head of Learning Engineering at Talespin, shares what she's been learning and practicing about learning engineering.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T12",
+        "T03",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-070",
+      "label": "Define \u201cLearning Engineering\u201d with the TRAP Framework",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-071",
+      "label": "Full video from above: Introduction to Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-072",
+      "label": "At the Empowering Learners for the Age of AI conference, there were two keynotes related to learning engineering and an ICICLE panel. The videos for all the sessions on the Global Research Alliance for AI in Learning Education's (GRAILE) YouTube channel. Danielle McNamara, University of Arizona, gave the opening keynote, Leveraging AI and Learning Engineering in Large Scale Learning Scienceshttps://www.youtube.com/watch?v=Yn3AIuKJ1RY A panel of ICICLE folks spoke about Learning Engineering: A path to empowering learners in and for the Age of AI. https://www.youtube.com/watch?v=H-MbNTt2NRc Kumar Garg, Schmidt Futures, shared his thoughts in his keynote on Learning Engineering in the Age of AI. https://www.youtube.com/watch?v=HCDis6ELscA",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-073",
+      "label": "Learning Engineering: What Is It and How Can the Government Benefit?",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-074",
+      "label": "How to Bring Learning Engineering Principles to Your Classroom: Interview with Steve Ritter",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-075",
+      "label": "Are you curious about what learning engineering is? Listen in as Katerina Schenke, PhD from Duolingo takes us through what learning engineering is and how Duolingo uses learning engineering on",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-076",
+      "label": "Bringing Learning Engineering Into Online Education",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-077",
+      "label": "Applying Human-Centered Learning Engineering Methods to Learning",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-078",
+      "label": "The Value Proposition of e Generalized Intelligent Framework for Tutoring (GIFT) for the Field of Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-079",
+      "label": "Cultural Dimensions in Learning Engineering: Redesigning Courses for Industrial Training Institutes",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-080",
+      "label": "Integrating Adaptive Interventions into Learning Engineering Workflows",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-081",
+      "label": "Macrocognition in Simulation Based Training: A Practical Application of Learning Engineering in a Complex Training Environment",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T08",
+        "T10",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-082",
+      "label": "Capturing Elusive Technology: Designing a Course on AI for Learning and Development Practitioners",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-083",
+      "label": "Carnegie Mellon University Open Learning Institute\u2018s Simon Approach to Learning Engineering",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-084",
+      "label": "CMU Simon Inititative Learning Engineering Community",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-085",
+      "label": "Intro: What is Learning Engineering?",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-086",
+      "label": "CMU Learn Lab Learning Science and Engineering Seminar Series",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-087",
+      "label": "Crucible Cyber Platform Brochure: They have learning engineering as part of their process.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-088",
+      "label": "ASU Learning Engineering Institute website",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-089",
+      "label": "AIED: From Cognitive Simulations to Learning Engineering, with Humans in the Middle",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T08",
+        "T10",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-090",
+      "label": "Leveraging Learning Engineering to Orchestrate and Enhance Learning",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-091",
+      "label": "ASU LE Research Network 2026 Convening",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "CE",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-092",
+      "label": "A Practical Guide to Using Open Tools for Well-Defined Competencies \u2014 Learning Engineering of Multi-Platform, Multi-Domain, Mission-Ready Skills Definitions",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-093",
+      "label": "But How Do You Know They Learned That?",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-094",
+      "label": "Advancing Expertise Development Through Adaptive Human-AI Training",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-095",
+      "label": "Measuring Learning Technology Maturity in DoD Acquisition",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-096",
+      "label": "Implementing Learning in Military Environments: An Operational & Tactical Perspective panel had many takeaways, explained in this podcast.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-097",
+      "label": "Learning Engineering Competency-Based Experiential Learning within Institutional Military Education paper is a case study on a science and technology learning model.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-098",
+      "label": "Mission XRpossible: Navigating Novice-to-Expert Assessment Design in Medical & Military Training tutorial explains the fundamental principles of assessment science and the practice of designing assessments within XR contexts.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
+    },
+    {
+      "id": "LE-GL-099",
+      "label": "Applying Learning Engineering Process to Existing Military Training Programs: F-35 Demonstration paper explains key steps in create a training structure, process, and pathway.",
+      "type": "resource",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T13",
+        "T00"
+      ],
+      "provenance": {
+        "content_type": "GL",
+        "status": "APPROVED"
+      }
     }
   ],
   "edges": [
@@ -10113,6 +11486,931 @@
     {
       "source": "T15",
       "target": "LE-PP-054",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-001",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-002",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-003",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-004",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-005",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-006",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-007",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-008",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-009",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-010",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-011",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-012",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-013",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-014",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-015",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-016",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-017",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-017",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-018",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-018",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-019",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-019",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-020",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-020",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-021",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-021",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-022",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-022",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-023",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-023",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-024",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-024",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-025",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-025",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-026",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-026",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-026",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-027",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-027",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-028",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-028",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-029",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-029",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-030",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-030",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-031",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-031",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-032",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-032",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-033",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-033",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-034",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-034",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-035",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-035",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-036",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-036",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-037",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-037",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-038",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-038",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-039",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-039",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-039",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-040",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-040",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-040",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-041",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-041",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-042",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-042",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-043",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-043",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-044",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-044",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-044",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-045",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-045",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-046",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-046",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-047",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-047",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-048",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-048",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-049",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-049",
+      "type": "resource"
+    },
+    {
+      "source": "T05",
+      "target": "LE-GL-050",
+      "type": "resource"
+    },
+    {
+      "source": "T04",
+      "target": "LE-GL-050",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-050",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-051",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-051",
+      "type": "resource"
+    },
+    {
+      "source": "T12",
+      "target": "LE-GL-052",
+      "type": "resource"
+    },
+    {
+      "source": "T03",
+      "target": "LE-GL-052",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-052",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-053",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-053",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-054",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-054",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-054",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-055",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-055",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-055",
+      "type": "resource"
+    },
+    {
+      "source": "T12",
+      "target": "LE-GL-056",
+      "type": "resource"
+    },
+    {
+      "source": "T03",
+      "target": "LE-GL-056",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-056",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-057",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-057",
+      "type": "resource"
+    },
+    {
+      "source": "T07",
+      "target": "LE-GL-058",
+      "type": "resource"
+    },
+    {
+      "source": "T06",
+      "target": "LE-GL-058",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-058",
+      "type": "resource"
+    },
+    {
+      "source": "T08",
+      "target": "LE-GL-059",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-059",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-059",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-060",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-060",
+      "type": "resource"
+    },
+    {
+      "source": "T14",
+      "target": "LE-GL-061",
+      "type": "resource"
+    },
+    {
+      "source": "T07",
+      "target": "LE-GL-061",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-061",
+      "type": "resource"
+    },
+    {
+      "source": "T12",
+      "target": "LE-GL-062",
+      "type": "resource"
+    },
+    {
+      "source": "T03",
+      "target": "LE-GL-062",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-062",
+      "type": "resource"
+    },
+    {
+      "source": "T12",
+      "target": "LE-GL-063",
+      "type": "resource"
+    },
+    {
+      "source": "T03",
+      "target": "LE-GL-063",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-063",
+      "type": "resource"
+    },
+    {
+      "source": "T12",
+      "target": "LE-GL-064",
+      "type": "resource"
+    },
+    {
+      "source": "T03",
+      "target": "LE-GL-064",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-064",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-065",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-066",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-067",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-068",
+      "type": "resource"
+    },
+    {
+      "source": "T12",
+      "target": "LE-GL-069",
+      "type": "resource"
+    },
+    {
+      "source": "T03",
+      "target": "LE-GL-069",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-069",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-070",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-071",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-072",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-072",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-073",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-074",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-075",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-076",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-077",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-078",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-079",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-080",
+      "type": "resource"
+    },
+    {
+      "source": "T08",
+      "target": "LE-GL-081",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-081",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-081",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-082",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-083",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-084",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-085",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-086",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-087",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-088",
+      "type": "resource"
+    },
+    {
+      "source": "T08",
+      "target": "LE-GL-089",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-089",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-089",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-090",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-091",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-092",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-092",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-092",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-093",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-093",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-093",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-094",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-094",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-094",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-095",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-095",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-095",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-096",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-096",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-096",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-097",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-097",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-097",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-098",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-098",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-098",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
+      "target": "LE-GL-099",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
+      "target": "LE-GL-099",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-099",
       "type": "resource"
     },
     {

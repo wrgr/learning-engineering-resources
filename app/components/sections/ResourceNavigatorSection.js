@@ -17,15 +17,15 @@ export function ResourceNavigatorSection({
       <div className="panel-head">
         <div>
           <h2>Resource Navigator</h2>
-          <p className="caption">Resources are grouped by topic so papers and non-paper artifacts stay aligned.</p>
+          <p className="caption">Non-paper resources grouped by topic — tools, courses, organizations, and field artifacts.</p>
         </div>
       </div>
 
-      <p className="caption">${filteredResourceRows.length} resources currently shown.</p>
+      <p className="caption">${filteredResourceRows.length} resources shown.</p>
       ${missingResourceTopicCodes?.length
         ? html`
             <p className="caption">
-              Topics currently missing non-paper resources: ${missingResourceTopicCodes.join(", ")}.
+              Topics with no resources yet: ${missingResourceTopicCodes.join(", ")}.
             </p>
           `
         : ""}
@@ -75,13 +75,13 @@ export function ResourceNavigatorSection({
       </div>
 
       <details className="filter-tray">
-        <summary>Optional filters</summary>
+        <summary>Filter resources</summary>
         <div className="controls" style=${{ marginTop: "0.55rem" }}>
           <input
             type="search"
             value=${resourceQuery}
             onInput=${(event) => setResourceQuery(event.target.value)}
-            placeholder="Search titles, sections, or context"
+            placeholder="Search titles, topics, or context"
           />
         </div>
         <div className="entity-row">

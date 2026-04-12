@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-04-09T13:56:55.434397+00:00",
+  "updated_at_utc": "2026-04-12T18:54:25.224540+00:00",
   "works": {
     "W12309149": {
       "work_id": "W12309149",
@@ -23222,7 +23222,7 @@
       ],
       "year": 2010,
       "type": "review",
-      "cited_by_count": 2069,
+      "cited_by_count": 2072,
       "venue": "IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)",
       "referenced_works": [
         "W4175188",
@@ -23870,7 +23870,7 @@
       ],
       "year": 2003,
       "type": "article",
-      "cited_by_count": 2513,
+      "cited_by_count": 2514,
       "venue": "Educational Researcher",
       "referenced_works": []
     },
