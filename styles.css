@@ -305,7 +305,7 @@ select:focus {
 
 .graph-canvas {
   width: 100%;
-  min-height: 520px;
+  height: 680px;
   display: block;
   border: 1px solid #fed7aa;
   border-radius: 14px;
@@ -768,7 +768,7 @@ pre {
 
 @media (max-width: 980px) {
   .graph-canvas {
-    min-height: 430px;
+    height: 480px;
   }
 
   .citation-grid,
@@ -792,7 +792,25 @@ pre {
   }
 
   .graph-canvas {
-    min-height: 360px;
+    height: 400px;
+  }
+
+  .graph-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .graph-search {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .graph-pills {
+    flex: none;
+  }
+
+  .graph-actions {
+    justify-content: flex-end;
   }
 
   .paper-grid,

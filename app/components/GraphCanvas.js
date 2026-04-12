@@ -8,7 +8,7 @@ import { d3, html, useEffect, useRef } from "../lib.js";
 import { shortLabel } from "../text.js";
 import { clamp } from "../utils.js";
 
-const GRAPH_HEIGHT = 680;
+const GRAPH_HEIGHT_FALLBACK = 680;
 
 /** Returns the display radius for a node based on its type. */
 function getNodeRadius(node) {
@@ -65,7 +65,11 @@ export function GraphCanvas({ nodes, links, selectedNodeId, onSelect, search, ty
     if (!svgRef.current || !nodes.length) return undefined;
 
     const svgEl = svgRef.current;
-    const width = svgEl.getBoundingClientRect().width || 1100;
+    const rect = svgEl.getBoundingClientRect();
+    // Read dimensions from CSS (height is set via .graph-canvas responsive rules,
+    // not from a hardcoded SVG attribute so media queries take effect on mobile).
+    const width = rect.width || 1100;
+    const height = rect.height || GRAPH_HEIGHT_FALLBACK;
 
     const svg = d3.select(svgEl);
     svg.selectAll("*").remove();
@@ -146,11 +150,14 @@ export function GraphCanvas({ nodes, links, selectedNodeId, onSelect, search, ty
         "charge",
         d3.forceManyBody().strength((n) => (n.type === "paper" ? -44 : -196))
       )
-      .force("center", d3.forceCenter(width / 2, GRAPH_HEIGHT / 2))
+      .force("center", d3.forceCenter(width / 2, height / 2))
       .force(
         "collision",
         d3.forceCollide().radius((n) => (n.type === "paper" && n.hop === 1 ? 7 : 10))
       )
+      // Settle ~2× faster than the default (0.0228) so mobile devices spend less
+      // time running the physics loop before the graph becomes interactive.
+      .alphaDecay(0.04)
       .on("tick", () => {
         linkSelection
           .attr("x1", (e) => e.source.x)
@@ -160,7 +167,7 @@ export function GraphCanvas({ nodes, links, selectedNodeId, onSelect, search, ty
 
         nodeSelection
           .attr("cx", (n) => clamp(n.x, 10, width - 10))
-          .attr("cy", (n) => clamp(n.y, 10, GRAPH_HEIGHT - 10));
+          .attr("cy", (n) => clamp(n.y, 10, height - 10));
 
         labelSelection
           .attr("x", (n) => n.x + 9)
@@ -195,6 +202,33 @@ export function GraphCanvas({ nodes, links, selectedNodeId, onSelect, search, ty
       resetRef.current = () =>
         svg.transition().duration(400).call(zoom.transform, d3.zoomIdentity);
     }
+
+    // On touch/coarse-pointer devices, clicking empty space selects the nearest
+    // node within a fixed screen-pixel radius (matches mskb explorer behavior).
+    svg.on("click.coarse", (evt) => {
+      if (evt.target.tagName === "circle") return; // Already handled by node handler
+      if (!window.matchMedia("(pointer: coarse)").matches) return;
+
+      const [mx, my] = d3.pointer(evt);
+      const transform = d3.zoomTransform(svgEl);
+      const [gx, gy] = transform.invert([mx, my]);
+      // Convert 44 screen px to graph units so the radius feels consistent at
+      // any zoom level.
+      const tapRadius = 44 / (transform.k || 1);
+
+      let nearest = null;
+      let nearestDist = tapRadius;
+      for (const node of simNodes) {
+        const dx = (node.x ?? 0) - gx;
+        const dy = (node.y ?? 0) - gy;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < nearestDist) {
+          nearestDist = dist;
+          nearest = node;
+        }
+      }
+      if (nearest) onSelectRef.current(nearest.id);
+    });
 
     selectionsRef.current = { linkSelection, nodeSelection, labelSelection, neighborSet };
 
@@ -281,6 +315,7 @@ export function GraphCanvas({ nodes, links, selectedNodeId, onSelect, search, ty
 
     return () => {
       simulation.stop();
+      svg.on("click.coarse", null);
       selectionsRef.current = null;
       applyRef.current = null;
       if (resetRef) resetRef.current = null;
@@ -296,7 +331,6 @@ export function GraphCanvas({ nodes, links, selectedNodeId, onSelect, search, ty
   return html`<svg
     className="graph-canvas"
     ref=${svgRef}
-    height=${GRAPH_HEIGHT}
     role="img"
     aria-label="Learning engineering topic and citation graph"
   ></svg>`;
