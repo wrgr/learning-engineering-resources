@@ -141,17 +141,11 @@ class SnippetParserTests(unittest.TestCase):
 
 
 class DDGParserTests(unittest.TestCase):
-    def test_parses_result_structure(self) -> None:
-        html = """
-        <div class="results">
-          <a class="result__a" href="https://example.com">Jane Doe</a>
-          <div class="result__snippet">Learning Engineer at Acme Corp.</div>
-        </div>
-        """
+    def test_stub_returns_empty(self) -> None:
+        """_DDGParser is a deprecated stub; feed() is a no-op."""
         p = _DDGParser()
-        p.feed(html)
-        self.assertEqual(len(p.results), 1)
-        self.assertIn("Learning Engineer", p.results[0]["snippet"])
+        p.feed("<html>anything</html>")
+        self.assertEqual(p.results, [])
 
 
 if __name__ == "__main__":

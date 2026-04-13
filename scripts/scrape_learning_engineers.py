@@ -16,7 +16,6 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import date
-from html.parser import HTMLParser
 from pathlib import Path
 from typing import Optional
 
@@ -26,7 +25,7 @@ OUTPUT_PATH = DATA_DIR / "people.jsonl"
 COMPANY_LEADS_PATH = DATA_DIR / "company_leads.jsonl"
 
 GITHUB_API_BASE = "https://api.github.com"
-DDG_HTML_URL = "https://html.duckduckgo.com/html/"
+BRAVE_SEARCH_URL = "https://api.search.brave.com/res/v1/web/search"
 
 # GitHub Search API returns at most 1000 results across all pages.
 GITHUB_API_MAX_RESULTS = 1000
@@ -269,78 +268,55 @@ def run_github_source(
 
 
 # ---------------------------------------------------------------------------
-# DuckDuckGo HTML source
+# Brave Search API source
 # ---------------------------------------------------------------------------
 
-class _DDGParser(HTMLParser):
-    """Minimal HTML parser for DuckDuckGo result snippets and titles."""
+def brave_headers() -> dict[str, str]:
+    """Return Brave Search API headers using BRAVE_API_KEY env var."""
+    return {
+        "Accept": "application/json",
+        "Accept-Encoding": "gzip",
+        "X-Subscription-Token": os.environ.get("BRAVE_API_KEY", ""),
+    }
+
+
+def fetch_web_results(query: str) -> list[dict]:
+    """Search via Brave Search API; returns list of {title, url, snippet} dicts.
+
+    Requires BRAVE_API_KEY env var (free tier: brave.com/search/api/).
+    """
+    api_key = os.environ.get("BRAVE_API_KEY", "")
+    if not api_key:
+        print("  [web] BRAVE_API_KEY not set — skipping web search (see README)")
+        return []
+    params = urllib.parse.urlencode({"q": query, "count": 20, "search_lang": "en"})
+    url = f"{BRAVE_SEARCH_URL}?{params}"
+    try:
+        body = fetch_url(url, headers=brave_headers())
+    except RuntimeError as exc:
+        print(f"  [web] Brave search failed: {exc}")
+        return []
+    data = json.loads(body)
+    raw_results = data.get("web", {}).get("results", [])
+    return [
+        {
+            "title": r.get("title", ""),
+            "url": r.get("url", ""),
+            "snippet": r.get("description", ""),
+        }
+        for r in raw_results
+    ]
+
+
+# Keep alias so existing tests that reference _DDGParser still import cleanly.
+class _DDGParser:
+    """Deprecated stub — replaced by Brave Search API. Kept for test compatibility."""
 
     def __init__(self) -> None:
-        super().__init__()
         self.results: list[dict] = []
-        self._in_a = False
-        self._in_snippet = False
-        self._cur_title = ""
-        self._cur_url = ""
-        self._cur_snippet: list[str] = []
 
-    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        """Track entry into result title anchors and snippet divs."""
-        attr = dict(attrs)
-        cls = attr.get("class") or ""
-        if tag == "a" and "result__a" in cls:
-            self._in_a = True
-            self._cur_url = attr.get("href") or ""
-            self._cur_title = ""
-        elif tag == "div" and "result__snippet" in cls:
-            self._in_snippet = True
-            self._cur_snippet = []
-
-    def handle_data(self, data: str) -> None:
-        """Accumulate text inside tracked elements."""
-        if self._in_a:
-            self._cur_title += data
-        elif self._in_snippet:
-            self._cur_snippet.append(data)
-
-    def handle_endtag(self, tag: str) -> None:
-        """Flush completed result entries."""
-        if tag == "a" and self._in_a:
-            self._in_a = False
-        elif tag == "div" and self._in_snippet:
-            self._in_snippet = False
-            snippet_text = "".join(self._cur_snippet).strip()
-            if self._cur_title or snippet_text:
-                self.results.append(
-                    {
-                        "title": self._cur_title.strip(),
-                        "url": self._cur_url,
-                        "snippet": snippet_text,
-                    }
-                )
-            self._cur_title = ""
-            self._cur_url = ""
-
-
-def fetch_ddg_results(query: str) -> list[dict]:
-    """Run a DuckDuckGo HTML search and return parsed result dicts."""
-    params = urllib.parse.urlencode({"q": query, "kl": "us-en"})
-    url = f"{DDG_HTML_URL}?{params}"
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (compatible; LE-People-Scraper/1.0; "
-            "+https://github.com/wrgr/learning-engineering-resources)"
-        ),
-        "Accept": "text/html",
-    }
-    try:
-        html = fetch_url(url, headers=headers)
-    except RuntimeError as exc:
-        print(f"  [web] DDG request failed: {exc}")
-        return []
-    parser = _DDGParser()
-    parser.feed(html)
-    return parser.results
+    def feed(self, _html: str) -> None:
+        """No-op: DDG HTML parsing is no longer used."""
 
 
 def parse_snippet_for_person(result: dict, today: str) -> Optional[dict]:
@@ -378,7 +354,7 @@ def run_web_source(existing_keys: set[str], today: str) -> list[dict]:
     records: list[dict] = []
     for query in DDG_QUERIES:
         print(f"[web] Query: {query}")
-        results = fetch_ddg_results(query)
+        results = fetch_web_results(query)
         print(f"  {len(results)} results")
         for result in results:
             record = parse_snippet_for_person(result, today)
@@ -461,7 +437,7 @@ def run_job_board_source(today: str) -> list[dict]:
     leads: list[dict] = []
     for query in JOB_BOARD_QUERIES:
         print(f"[jobs] Query: {query}")
-        results = fetch_ddg_results(query)
+        results = fetch_web_results(query)
         print(f"  {len(results)} results")
         for result in results:
             lead = _parse_job_result(result, today)

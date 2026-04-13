@@ -98,12 +98,18 @@ python3 scripts/scrape_learning_engineers.py --web
 python3 scripts/scrape_learning_engineers.py --github --limit 100
 ```
 
-Set `GITHUB_TOKEN` in your environment to raise the GitHub API rate limit from
-10 req/min to 5,000 req/hr:
+Set environment variables before running:
 
 ```bash
+# GitHub token — raises rate limit from 60 req/hr to 5,000 req/hr (required for --github)
+# Get one at: github.com/settings/tokens (scope: read:user)
 export GITHUB_TOKEN=ghp_...
-python3 scripts/scrape_learning_engineers.py --github
+
+# Brave Search API key — required for --web and --jobs sources
+# Free tier (2000 req/month): brave.com/search/api/
+export BRAVE_API_KEY=BSA...
+
+python3 scripts/scrape_learning_engineers.py
 ```
 
 ### Record schema (`data/people.jsonl`)
