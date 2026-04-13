@@ -1,4 +1,4 @@
-"""Scrapes GitHub API, DuckDuckGo, and public job boards for people using 'Learning Engineer' as a job title.
+"""Scrapes GitHub API, web search (Brave or Google CSE), and public job boards for people using 'Learning Engineer' as a job title.
 
 Excludes any variant containing 'machine learning'. Appends new records to
 data/people.jsonl; company leads from job boards go to data/company_leads.jsonl.
@@ -26,6 +26,7 @@ COMPANY_LEADS_PATH = DATA_DIR / "company_leads.jsonl"
 
 GITHUB_API_BASE = "https://api.github.com"
 BRAVE_SEARCH_URL = "https://api.search.brave.com/res/v1/web/search"
+GOOGLE_SEARCH_URL = "https://www.googleapis.com/customsearch/v1"
 
 # GitHub Search API returns at most 1000 results across all pages.
 GITHUB_API_MAX_RESULTS = 1000
@@ -271,41 +272,76 @@ def run_github_source(
 # Brave Search API source
 # ---------------------------------------------------------------------------
 
-def brave_headers() -> dict[str, str]:
-    """Return Brave Search API headers using BRAVE_API_KEY env var."""
-    return {
+def _fetch_brave(query: str) -> list[dict]:
+    """Search via Brave Search API; returns normalised result list."""
+    params = urllib.parse.urlencode({"q": query, "count": 20, "search_lang": "en"})
+    url = f"{BRAVE_SEARCH_URL}?{params}"
+    headers = {
         "Accept": "application/json",
         "Accept-Encoding": "gzip",
         "X-Subscription-Token": os.environ.get("BRAVE_API_KEY", ""),
     }
-
-
-def fetch_web_results(query: str) -> list[dict]:
-    """Search via Brave Search API; returns list of {title, url, snippet} dicts.
-
-    Requires BRAVE_API_KEY env var (free tier: brave.com/search/api/).
-    """
-    api_key = os.environ.get("BRAVE_API_KEY", "")
-    if not api_key:
-        print("  [web] BRAVE_API_KEY not set — skipping web search (see README)")
-        return []
-    params = urllib.parse.urlencode({"q": query, "count": 20, "search_lang": "en"})
-    url = f"{BRAVE_SEARCH_URL}?{params}"
-    try:
-        body = fetch_url(url, headers=brave_headers())
-    except RuntimeError as exc:
-        print(f"  [web] Brave search failed: {exc}")
-        return []
+    body = fetch_url(url, headers=headers)
     data = json.loads(body)
-    raw_results = data.get("web", {}).get("results", [])
+    return [
+        {"title": r.get("title", ""), "url": r.get("url", ""), "snippet": r.get("description", "")}
+        for r in data.get("web", {}).get("results", [])
+    ]
+
+
+def _fetch_google(query: str) -> list[dict]:
+    """Search via Google Custom Search API; returns normalised result list.
+
+    Requires GOOGLE_API_KEY and GOOGLE_CSE_ID env vars.
+    Free tier: 100 queries/day. Setup: console.cloud.google.com + cse.google.com.
+    """
+    params = urllib.parse.urlencode({
+        "q": query,
+        "key": os.environ.get("GOOGLE_API_KEY", ""),
+        "cx": os.environ.get("GOOGLE_CSE_ID", ""),
+        "num": 10,
+    })
+    url = f"{GOOGLE_SEARCH_URL}?{params}"
+    body = fetch_url(url, headers={"Accept": "application/json"})
+    data = json.loads(body)
     return [
         {
             "title": r.get("title", ""),
-            "url": r.get("url", ""),
-            "snippet": r.get("description", ""),
+            "url": r.get("link", ""),
+            "snippet": r.get("snippet", ""),
         }
-        for r in raw_results
+        for r in data.get("items", [])
     ]
+
+
+def fetch_web_results(query: str) -> list[dict]:
+    """Run a web search using whichever API key is configured.
+
+    Tries Brave (BRAVE_API_KEY) then Google CSE (GOOGLE_API_KEY + GOOGLE_CSE_ID).
+    Returns a normalised list of {title, url, snippet} dicts.
+    """
+    brave_key = os.environ.get("BRAVE_API_KEY", "")
+    google_key = os.environ.get("GOOGLE_API_KEY", "")
+    google_cse = os.environ.get("GOOGLE_CSE_ID", "")
+
+    if brave_key:
+        try:
+            return _fetch_brave(query)
+        except RuntimeError as exc:
+            print(f"  [web] Brave failed, trying Google: {exc}")
+
+    if google_key and google_cse:
+        try:
+            return _fetch_google(query)
+        except RuntimeError as exc:
+            print(f"  [web] Google search failed: {exc}")
+            return []
+
+    print(
+        "  [web] No search API key found. Set BRAVE_API_KEY or "
+        "GOOGLE_API_KEY + GOOGLE_CSE_ID (see README)."
+    )
+    return []
 
 
 # Keep alias so existing tests that reference _DDGParser still import cleanly.

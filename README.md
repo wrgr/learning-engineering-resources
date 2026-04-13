@@ -101,16 +101,27 @@ python3 scripts/scrape_learning_engineers.py --github --limit 100
 Set environment variables before running:
 
 ```bash
-# GitHub token — raises rate limit from 60 req/hr to 5,000 req/hr (required for --github)
-# Get one at: github.com/settings/tokens (scope: read:user)
+# GitHub token — required for --github (raises limit from 60 req/hr to 5,000 req/hr)
+# Get one at: github.com/settings/tokens  scope: read:user
 export GITHUB_TOKEN=ghp_...
 
-# Brave Search API key — required for --web and --jobs sources
-# Free tier (2000 req/month): brave.com/search/api/
+# Web search — used by --web and --jobs. Set ONE of the following:
+#
+# Option A: Brave Search API (free tier: 2,000 req/month, no credit card)
+#   Sign up at: brave.com/search/api/
 export BRAVE_API_KEY=BSA...
+#
+# Option B: Google Custom Search (free tier: 100 req/day)
+#   1. Create project: console.cloud.google.com → enable "Custom Search API"
+#   2. Create engine: cse.google.com → set to search the entire web
+#   3. Copy the key and CX (engine ID)
+export GOOGLE_API_KEY=AIza...
+export GOOGLE_CSE_ID=012345...
 
 python3 scripts/scrape_learning_engineers.py
 ```
+
+If both Brave and Google keys are set, Brave is tried first with Google as fallback.
 
 ### Record schema (`data/people.jsonl`)
 
