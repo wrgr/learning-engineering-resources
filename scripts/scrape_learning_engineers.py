@@ -15,7 +15,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 from typing import Optional
 
@@ -28,8 +28,10 @@ GITHUB_API_BASE = "https://api.github.com"
 BRAVE_SEARCH_URL = "https://api.search.brave.com/res/v1/web/search"
 SERPER_SEARCH_URL = "https://google.serper.dev/search"
 
-# GitHub Search API returns at most 1000 results across all pages.
-GITHUB_API_MAX_RESULTS = 1000
+# GitHub Search API returns at most 1000 results per query window.
+# Date-range slicing bypasses this cap by recursively bisecting the window.
+GITHUB_SEARCH_WINDOW_CAP = 1000
+GITHUB_SEARCH_START = "2008-01-01"  # GitHub public launch
 # Unauthenticated: 10 req/min → 6.5s gap. Authenticated: 5000/hr → 1s is safe.
 GITHUB_SLEEP_UNAUTH_SEC = 6.5
 GITHUB_SLEEP_AUTH_SEC = 1.0
@@ -240,43 +242,85 @@ def github_sleep_sec() -> float:
 # GitHub source
 # ---------------------------------------------------------------------------
 
-def fetch_github_users(limit: int = GITHUB_API_MAX_RESULTS) -> list[dict]:
-    """Search GitHub for users whose bio contains 'learning engineer' (max 1000).
+_GITHUB_BIO_QUERY = (
+    '"learning engineer" in:bio NOT "machine learning" NOT "deep learning"'
+)
 
-    The NOT clauses reduce deep/machine learning engineer noise at the API level
-    so that per-page result quota is spent on more likely ed-tech matches.
+
+def fetch_github_users() -> list[dict]:
+    """Return all GitHub users whose bio matches the LE query via date-range slicing.
+
+    Recursively bisects the account-creation date window whenever a window hits
+    the 1000-result API cap, giving near-exhaustive coverage of all matching profiles.
+    Deduplicates by login so overlapping boundary calls never produce duplicates.
     """
     results: list[dict] = []
-    page = 1
-    per_page = 30  # GitHub caps user search results at 30/page
+    seen: set[str] = set()
     hdrs = github_headers()
-    cap = min(limit, GITHUB_API_MAX_RESULTS)
-    while len(results) < cap:
-        params = urllib.parse.urlencode(
-            {
-                "q": '"learning engineer" in:bio NOT "machine learning" NOT "deep learning"',
-                "per_page": per_page,
-                "page": page,
-            }
-        )
-        url = f"{GITHUB_API_BASE}/search/users?{params}"
+
+    def _fetch_range(start: str, end: str) -> None:
+        """Fetch one date window; split in half if it hits the API cap."""
+        query = f"{_GITHUB_BIO_QUERY} created:{start}..{end}"
+        params = urllib.parse.urlencode({"q": query, "per_page": 30, "page": 1})
         try:
-            body = fetch_url(url, headers=hdrs)
+            body = fetch_url(f"{GITHUB_API_BASE}/search/users?{params}", headers=hdrs)
         except RuntimeError as exc:
-            print(f"  [github] search failed: {exc}")
-            break
+            print(f"  [github] window {start}..{end} failed: {exc}")
+            return
         data = json.loads(body)
-        items = data.get("items", [])
-        if not items:
-            break
-        results.extend(items)
-        total_available = data.get("total_count", 0)
-        print(f"  [github] page {page}: {len(results)}/{min(cap, total_available)} candidates")
-        if len(items) < per_page:
-            break
-        page += 1
-        time.sleep(github_sleep_sec())
-    return results[:cap]
+        total = data.get("total_count", 0)
+        if total == 0:
+            return
+        if total > GITHUB_SEARCH_WINDOW_CAP:
+            # Bisect the window so each half stays under the cap.
+            start_dt, end_dt = date.fromisoformat(start), date.fromisoformat(end)
+            if start_dt >= end_dt:
+                # Single day exceeds cap — accept what the API returns.
+                print(f"  [github] Warning: {start} alone has {total} results, capped at 1000")
+            else:
+                mid = start_dt + (end_dt - start_dt) // 2
+                time.sleep(github_sleep_sec())
+                _fetch_range(start, mid.isoformat())
+                _fetch_range((mid + timedelta(days=1)).isoformat(), end)
+                return
+        # Collect first page, then remaining pages.
+        for page_data in [data]:
+            for item in page_data.get("items", []):
+                login = item.get("login", "")
+                if login and login not in seen:
+                    seen.add(login)
+                    results.append(item)
+        page = 2
+        while True:
+            params = urllib.parse.urlencode({"q": query, "per_page": 30, "page": page})
+            try:
+                body = fetch_url(
+                    f"{GITHUB_API_BASE}/search/users?{params}", headers=hdrs
+                )
+            except RuntimeError as exc:
+                print(f"  [github] page {page} failed ({start}..{end}): {exc}")
+                break
+            items = json.loads(body).get("items", [])
+            if not items:
+                break
+            for item in items:
+                login = item.get("login", "")
+                if login and login not in seen:
+                    seen.add(login)
+                    results.append(item)
+            if len(items) < 30:
+                break
+            page += 1
+            time.sleep(github_sleep_sec())
+        print(
+            f"  [github] {start}..{end}: {total} in window, "
+            f"{len(results)} unique candidates so far"
+        )
+
+    today_str = date.today().isoformat()
+    print(f"[github] Date-range scan {GITHUB_SEARCH_START}..{today_str}")
+    _fetch_range(GITHUB_SEARCH_START, today_str)
+    return results
 
 
 def fetch_github_user_detail(login: str) -> dict:
@@ -312,18 +356,16 @@ def parse_github_user(raw: dict, today: str) -> Optional[dict]:
 
 
 def run_github_source(
-    existing_keys: set[str], today: str, limit: int, out_path: Path
+    existing_keys: set[str], today: str, limit: Optional[int], out_path: Path
 ) -> int:
-    """Fetch GitHub users, write qualifying records to out_path immediately, return count."""
+    """Fetch all matching GitHub users via date-range scan, inspect profiles, write records."""
     auth = bool(os.environ.get("GITHUB_TOKEN"))
-    print(
-        f"[github] Searching up to {limit} profiles "
-        f"({'authenticated' if auth else 'unauthenticated'})…"
-    )
-    search_results = fetch_github_users(limit=limit)
-    print(f"[github] {len(search_results)} candidates to inspect")
+    print(f"[github] Starting full date-range scan ({'authenticated' if auth else 'unauthenticated'})…")
+    search_results = fetch_github_users()
+    candidates = search_results if limit is None else search_results[:limit]
+    print(f"[github] {len(search_results)} unique candidates found, inspecting {len(candidates)}")
     found = 0
-    for i, item in enumerate(search_results, 1):
+    for i, item in enumerate(candidates, 1):
         login = item.get("login", "")
         try:
             detail = fetch_github_user_detail(login)
@@ -343,7 +385,7 @@ def run_github_source(
         found += 1
         print(f"  [github] + {record['name']} ({record['organization']})")
         if i % PROGRESS_INTERVAL == 0:
-            print(f"  [github] progress: {i}/{len(search_results)} inspected, {found} new found")
+            print(f"  [github] progress: {i}/{len(candidates)} inspected, {found} new found")
     return found
 
 
@@ -700,8 +742,8 @@ def main() -> None:
     parser.add_argument(
         "--limit",
         type=int,
-        default=GITHUB_API_MAX_RESULTS,
-        help=f"Max GitHub profiles to inspect (default {GITHUB_API_MAX_RESULTS}, API cap is 1000)",
+        default=None,
+        help="Max GitHub profiles to inspect (default: all found by date-range scan)",
     )
     args = parser.parse_args()
 
