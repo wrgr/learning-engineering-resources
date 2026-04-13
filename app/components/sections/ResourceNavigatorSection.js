@@ -125,7 +125,7 @@ export function ResourceNavigatorSection({
       <div className="panel-head">
         <div>
           <h2>Resource Navigator</h2>
-          <p className="caption">Tools, programs, people, organizations, conferences, and field literature — grouped by resource type.</p>
+          <p className="caption">People, organizations, conferences, programs, tools, reports, and papers — grouped by resource type.</p>
         </div>
       </div>
 

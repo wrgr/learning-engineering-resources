@@ -6,7 +6,7 @@ export function ExtraDocsSection({ extraDocs }) {
       <h2>Supporting Documents</h2>
       ${extraDocs.documents.length
         ? html`
-            <p className="caption">${extraDocs.count || extraDocs.documents.length} documents in the retrieval corpus. Showing up to 40.</p>
+            <p className="caption">${extraDocs.count || extraDocs.documents.length} documents indexed for this workspace. Showing up to 40.</p>
             <ul className="flat-list">
               ${extraDocs.documents.slice(0, 40).map(
                 (doc, index) => html`

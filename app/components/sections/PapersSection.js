@@ -22,7 +22,7 @@ export function PapersSection({
             type="search"
             value=${search}
             onInput=${(event) => setSearch(event.target.value)}
-            placeholder="Search title, author, citation"
+            placeholder="Search by title, author, or citation"
           />
           <select value=${artifactFilter} onChange=${(event) => setArtifactFilter(event.target.value)}>
             <option value="all">All artifact types</option>

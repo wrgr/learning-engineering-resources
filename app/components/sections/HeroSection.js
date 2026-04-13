@@ -12,7 +12,7 @@ export function HeroSection({ stats }) {
             its source. Provenance is visible on every item.
           </p>
           <p style=${{ marginTop: "0.9rem" }}>
-            <a href="whitepaper.html" className="wp-cta">Read the whitepaper &rarr;</a>
+            <a href="whitepaper.html" className="wp-cta">Read the whitepaper →</a>
           </p>
         </div>
         <figure className="hero-figure">
