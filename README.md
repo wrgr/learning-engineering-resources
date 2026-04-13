@@ -111,17 +111,15 @@ export GITHUB_TOKEN=ghp_...
 #   Sign up at: brave.com/search/api/
 export BRAVE_API_KEY=BSA...
 #
-# Option B: Google Custom Search (free tier: 100 req/day)
-#   1. Create project: console.cloud.google.com → enable "Custom Search API"
-#   2. Create engine: cse.google.com → set to search the entire web
-#   3. Copy the key and CX (engine ID)
-export GOOGLE_API_KEY=AIza...
-export GOOGLE_CSE_ID=012345...
+# Option B: Bing Web Search API (free tier: 1,000 req/month)
+#   portal.azure.com → Create resource → "Bing Search v7" → free F0 tier
+export BING_API_KEY=...
 
 python3 scripts/scrape_learning_engineers.py
 ```
 
-If both Brave and Google keys are set, Brave is tried first with Google as fallback.
+If both Brave and Bing keys are set, Brave is tried first with Bing as fallback.
+Note: Google Custom Search JSON API is closed to new customers.
 
 ### Record schema (`data/people.jsonl`)
 

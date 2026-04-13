@@ -26,7 +26,7 @@ COMPANY_LEADS_PATH = DATA_DIR / "company_leads.jsonl"
 
 GITHUB_API_BASE = "https://api.github.com"
 BRAVE_SEARCH_URL = "https://api.search.brave.com/res/v1/web/search"
-GOOGLE_SEARCH_URL = "https://www.googleapis.com/customsearch/v1"
+BING_SEARCH_URL = "https://api.bing.microsoft.com/v7.0/search"
 
 # GitHub Search API returns at most 1000 results across all pages.
 GITHUB_API_MAX_RESULTS = 1000
@@ -289,57 +289,51 @@ def _fetch_brave(query: str) -> list[dict]:
     ]
 
 
-def _fetch_google(query: str) -> list[dict]:
-    """Search via Google Custom Search API; returns normalised result list.
+def _fetch_bing(query: str) -> list[dict]:
+    """Search via Bing Web Search API; returns normalised result list.
 
-    Requires GOOGLE_API_KEY and GOOGLE_CSE_ID env vars.
-    Free tier: 100 queries/day. Setup: console.cloud.google.com + cse.google.com.
+    Requires BING_API_KEY env var.
+    Free tier: 1,000 queries/month. Setup: portal.azure.com → Bing Search v7.
     """
-    params = urllib.parse.urlencode({
-        "q": query,
-        "key": os.environ.get("GOOGLE_API_KEY", ""),
-        "cx": os.environ.get("GOOGLE_CSE_ID", ""),
-        "num": 10,
-    })
-    url = f"{GOOGLE_SEARCH_URL}?{params}"
-    body = fetch_url(url, headers={"Accept": "application/json"})
+    params = urllib.parse.urlencode({"q": query, "count": 20, "mkt": "en-US"})
+    url = f"{BING_SEARCH_URL}?{params}"
+    headers = {
+        "Ocp-Apim-Subscription-Key": os.environ.get("BING_API_KEY", ""),
+        "Accept": "application/json",
+    }
+    body = fetch_url(url, headers=headers)
     data = json.loads(body)
     return [
         {
-            "title": r.get("title", ""),
-            "url": r.get("link", ""),
+            "title": r.get("name", ""),
+            "url": r.get("url", ""),
             "snippet": r.get("snippet", ""),
         }
-        for r in data.get("items", [])
+        for r in data.get("webPages", {}).get("value", [])
     ]
 
 
 def fetch_web_results(query: str) -> list[dict]:
     """Run a web search using whichever API key is configured.
 
-    Tries Brave (BRAVE_API_KEY) then Google CSE (GOOGLE_API_KEY + GOOGLE_CSE_ID).
+    Priority: Brave (BRAVE_API_KEY) → Bing (BING_API_KEY).
     Returns a normalised list of {title, url, snippet} dicts.
     """
-    brave_key = os.environ.get("BRAVE_API_KEY", "")
-    google_key = os.environ.get("GOOGLE_API_KEY", "")
-    google_cse = os.environ.get("GOOGLE_CSE_ID", "")
-
-    if brave_key:
+    if os.environ.get("BRAVE_API_KEY"):
         try:
             return _fetch_brave(query)
         except RuntimeError as exc:
-            print(f"  [web] Brave failed, trying Google: {exc}")
+            print(f"  [web] Brave failed, trying Bing: {exc}")
 
-    if google_key and google_cse:
+    if os.environ.get("BING_API_KEY"):
         try:
-            return _fetch_google(query)
+            return _fetch_bing(query)
         except RuntimeError as exc:
-            print(f"  [web] Google search failed: {exc}")
+            print(f"  [web] Bing search failed: {exc}")
             return []
 
     print(
-        "  [web] No search API key found. Set BRAVE_API_KEY or "
-        "GOOGLE_API_KEY + GOOGLE_CSE_ID (see README)."
+        "  [web] No search API key found. Set BRAVE_API_KEY or BING_API_KEY (see README)."
     )
     return []
 
