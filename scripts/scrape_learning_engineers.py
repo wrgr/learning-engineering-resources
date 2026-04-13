@@ -1,7 +1,8 @@
-"""Scrapes GitHub API and DuckDuckGo for people using 'Learning Engineer' as a job title.
+"""Scrapes GitHub API, DuckDuckGo, and public job boards for people using 'Learning Engineer' as a job title.
 
 Excludes any variant containing 'machine learning'. Appends new records to
-data/people.jsonl. Run: python3 scripts/scrape_learning_engineers.py [--github] [--web]
+data/people.jsonl; company leads from job boards go to data/company_leads.jsonl.
+Run: python3 scripts/scrape_learning_engineers.py [--github] [--web] [--jobs] [--stats]
 """
 
 from __future__ import annotations
@@ -22,13 +23,18 @@ from typing import Optional
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 OUTPUT_PATH = DATA_DIR / "people.jsonl"
+COMPANY_LEADS_PATH = DATA_DIR / "company_leads.jsonl"
 
 GITHUB_API_BASE = "https://api.github.com"
 DDG_HTML_URL = "https://html.duckduckgo.com/html/"
 
-# Unauthenticated GitHub search: 10 req/min. With token: 5000/hr.
-GITHUB_SLEEP_SEC = 6.5
+# GitHub Search API returns at most 1000 results across all pages.
+GITHUB_API_MAX_RESULTS = 1000
+# Unauthenticated: 10 req/min → 6.5s gap. Authenticated: 5000/hr → 1s is safe.
+GITHUB_SLEEP_UNAUTH_SEC = 6.5
+GITHUB_SLEEP_AUTH_SEC = 1.0
 WEB_SLEEP_SEC = 4.0
+PROGRESS_INTERVAL = 10  # print running totals every N profiles inspected
 
 _ML_EXCLUDE = re.compile(r"\bmachine\s+learning\b", re.IGNORECASE)
 _LE_INCLUDE = re.compile(r"\blearning\s+engineer", re.IGNORECASE)
@@ -156,17 +162,23 @@ def github_headers() -> dict[str, str]:
     return headers
 
 
+def github_sleep_sec() -> float:
+    """Return the appropriate inter-request delay based on whether a token is set."""
+    return GITHUB_SLEEP_AUTH_SEC if os.environ.get("GITHUB_TOKEN") else GITHUB_SLEEP_UNAUTH_SEC
+
+
 # ---------------------------------------------------------------------------
 # GitHub source
 # ---------------------------------------------------------------------------
 
-def fetch_github_users(limit: int = 300) -> list[dict]:
-    """Search GitHub for users whose bio contains 'learning engineer'."""
+def fetch_github_users(limit: int = GITHUB_API_MAX_RESULTS) -> list[dict]:
+    """Search GitHub for users whose bio contains 'learning engineer' (max 1000)."""
     results: list[dict] = []
     page = 1
-    per_page = 30  # GitHub caps user search at 30/page
+    per_page = 30  # GitHub caps user search results at 30/page
     hdrs = github_headers()
-    while len(results) < limit:
+    cap = min(limit, GITHUB_API_MAX_RESULTS)
+    while len(results) < cap:
         params = urllib.parse.urlencode(
             {"q": "learning engineer in:bio", "per_page": per_page, "page": page}
         )
@@ -181,11 +193,13 @@ def fetch_github_users(limit: int = 300) -> list[dict]:
         if not items:
             break
         results.extend(items)
+        total_available = data.get("total_count", 0)
+        print(f"  [github] page {page}: {len(results)}/{min(cap, total_available)} candidates")
         if len(items) < per_page:
             break
         page += 1
-        time.sleep(GITHUB_SLEEP_SEC)
-    return results[:limit]
+        time.sleep(github_sleep_sec())
+    return results[:cap]
 
 
 def fetch_github_user_detail(login: str) -> dict:
@@ -224,15 +238,19 @@ def run_github_source(
     existing_keys: set[str], today: str, limit: int
 ) -> list[dict]:
     """Fetch GitHub users and return new person records not already in the database."""
-    print(f"[github] Searching for up to {limit} users with 'learning engineer' in bio…")
+    auth = bool(os.environ.get("GITHUB_TOKEN"))
+    print(
+        f"[github] Searching up to {limit} profiles "
+        f"({'authenticated' if auth else 'unauthenticated'})…"
+    )
     search_results = fetch_github_users(limit=limit)
-    print(f"[github] {len(search_results)} candidate profiles found")
+    print(f"[github] {len(search_results)} candidates to inspect")
     records: list[dict] = []
-    for item in search_results:
+    for i, item in enumerate(search_results, 1):
         login = item.get("login", "")
         try:
             detail = fetch_github_user_detail(login)
-            time.sleep(GITHUB_SLEEP_SEC)
+            time.sleep(github_sleep_sec())
         except RuntimeError as exc:
             print(f"  [github] skipping {login}: {exc}")
             continue
@@ -241,11 +259,12 @@ def run_github_source(
             continue
         key = _dedup_key(record["name"], record["organization"])
         if key in existing_keys:
-            print(f"  [github] duplicate skipped: {record['name']}")
             continue
         existing_keys.add(key)
         records.append(record)
         print(f"  [github] + {record['name']} ({record['organization']})")
+        if i % PROGRESS_INTERVAL == 0:
+            print(f"  [github] progress: {i}/{len(search_results)} inspected, {len(records)} new found")
     return records
 
 
@@ -376,6 +395,126 @@ def run_web_source(existing_keys: set[str], today: str) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Job board source (Greenhouse, Lever, Ashby — all public ATS platforms)
+# ---------------------------------------------------------------------------
+
+JOB_BOARD_QUERIES = [
+    '"learning engineer" site:boards.greenhouse.io -"machine learning"',
+    '"learning engineer" site:jobs.lever.co -"machine learning"',
+    '"learning engineer" site:jobs.ashbyhq.com -"machine learning"',
+    '"learning engineer" site:careers.smartrecruiters.com -"machine learning"',
+    '"learning engineer" job -"machine learning" -"ML" edtech OR education',
+]
+
+# Patterns to extract company name from ATS job posting page titles
+# e.g. "Senior Learning Engineer at Duolingo | Greenhouse"
+_JOB_TITLE_PATTERNS = [
+    re.compile(r"Learning Engineer[^|@\n]*(?:at|@)\s+([A-Z][^\|,\n]{2,40})", re.IGNORECASE),
+    re.compile(r"([A-Z][a-zA-Z\s&.]{2,35})\s*[|–-]\s*.*Learning Engineer", re.IGNORECASE),
+]
+
+
+def _parse_job_result(result: dict, today: str) -> Optional[dict]:
+    """Extract a company lead from a job board search result, or None if not qualifying."""
+    combined = f"{result.get('title', '')} {result.get('snippet', '')}".strip()
+    if not is_le_title(combined):
+        return None
+    company = ""
+    job_title = extract_title_phrase(combined)
+    for pat in _JOB_TITLE_PATTERNS:
+        m = pat.search(result.get("title", ""))
+        if m:
+            company = m.group(1).strip().rstrip(".,;-")
+            break
+    if not company:
+        return None
+    return {
+        "company": company,
+        "job_title_found": job_title,
+        "job_url": result.get("url", ""),
+        "source_type": "job_board_search",
+        "date_collected": today,
+        "notes": "",
+    }
+
+
+def _load_existing_leads(path: Path) -> set[str]:
+    """Return (company|job_url) dedup keys from an existing company_leads.jsonl."""
+    if not path.is_file():
+        return set()
+    keys: set[str] = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            rec = json.loads(line)
+            keys.add(f"{rec.get('company','').lower()}|{rec.get('job_url','').lower()}")
+        except json.JSONDecodeError:
+            continue
+    return keys
+
+
+def run_job_board_source(today: str) -> list[dict]:
+    """Search public ATS job boards for LE postings; return new company leads."""
+    existing = _load_existing_leads(COMPANY_LEADS_PATH)
+    leads: list[dict] = []
+    for query in JOB_BOARD_QUERIES:
+        print(f"[jobs] Query: {query}")
+        results = fetch_ddg_results(query)
+        print(f"  {len(results)} results")
+        for result in results:
+            lead = _parse_job_result(result, today)
+            if lead is None:
+                continue
+            key = f"{lead['company'].lower()}|{lead['job_url'].lower()}"
+            if key in existing:
+                continue
+            existing.add(key)
+            leads.append(lead)
+            print(f"  [jobs] + {lead['company']} — {lead['job_title_found']}")
+        time.sleep(WEB_SLEEP_SEC)
+    return leads
+
+
+# ---------------------------------------------------------------------------
+# Stats
+# ---------------------------------------------------------------------------
+
+def print_stats(people_path: Path, leads_path: Path) -> None:
+    """Print a summary of the current people and company leads databases."""
+    if not people_path.is_file():
+        print("No people.jsonl found yet.")
+        return
+    people = [
+        json.loads(ln)
+        for ln in people_path.read_text(encoding="utf-8").splitlines()
+        if ln.strip()
+    ]
+    print(f"\n=== People database: {len(people)} records ===")
+    by_source: dict[str, int] = {}
+    by_org: dict[str, int] = {}
+    needs_verify = 0
+    for p in people:
+        src = p.get("source_type", "unknown")
+        by_source[src] = by_source.get(src, 0) + 1
+        org = p.get("organization", "").strip() or "(none)"
+        by_org[org] = by_org.get(org, 0) + 1
+        if not p.get("verified"):
+            needs_verify += 1
+    print(f"  Needs verification: {needs_verify}")
+    print("  By source:")
+    for src, count in sorted(by_source.items(), key=lambda x: -x[1]):
+        print(f"    {src}: {count}")
+    print("  Top organizations:")
+    for org, count in sorted(by_org.items(), key=lambda x: -x[1])[:15]:
+        print(f"    {org}: {count}")
+    if leads_path.is_file():
+        leads = [ln for ln in leads_path.read_text(encoding="utf-8").splitlines() if ln.strip()]
+        print(f"\n=== Company leads: {len(leads)} records ===")
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -384,23 +523,31 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="Scrape for people with 'Learning Engineer' in their title."
     )
+    parser.add_argument("--github", action="store_true", help="Run GitHub API source")
+    parser.add_argument("--web", action="store_true", help="Run DuckDuckGo web search source")
     parser.add_argument(
-        "--github", action="store_true", default=False, help="Run GitHub API source"
+        "--jobs",
+        action="store_true",
+        help="Search public job boards (Greenhouse, Lever, Ashby) for LE postings",
     )
-    parser.add_argument(
-        "--web", action="store_true", default=False, help="Run DuckDuckGo web search source"
-    )
+    parser.add_argument("--stats", action="store_true", help="Print database stats and exit")
     parser.add_argument(
         "--limit",
         type=int,
-        default=300,
-        help="Max GitHub user profiles to inspect (default 300)",
+        default=GITHUB_API_MAX_RESULTS,
+        help=f"Max GitHub profiles to inspect (default {GITHUB_API_MAX_RESULTS}, API cap is 1000)",
     )
     args = parser.parse_args()
 
-    # Default: run both sources if neither flag given
-    run_github = args.github or (not args.github and not args.web)
-    run_web = args.web or (not args.github and not args.web)
+    if args.stats:
+        print_stats(OUTPUT_PATH, COMPANY_LEADS_PATH)
+        return
+
+    # Default: run all sources when no source flag is given
+    no_source_flags = not args.github and not args.web and not args.jobs
+    run_github = args.github or no_source_flags
+    run_web = args.web or no_source_flags
+    run_jobs = args.jobs or no_source_flags
 
     today = date.today().isoformat()
     existing_keys = load_existing_keys(OUTPUT_PATH)
@@ -418,7 +565,14 @@ def main() -> None:
         record["person_id"] = next_person_id(OUTPUT_PATH)
         append_record(record, OUTPUT_PATH)
 
-    print(f"\nDone. {len(all_new)} new record(s) written to {OUTPUT_PATH}")
+    if run_jobs:
+        job_leads = run_job_board_source(today)
+        for lead in job_leads:
+            append_record(lead, COMPANY_LEADS_PATH)
+        print(f"  {len(job_leads)} new company lead(s) written to {COMPANY_LEADS_PATH}")
+
+    print(f"\nDone. {len(all_new)} new person record(s) written to {OUTPUT_PATH}")
+    print_stats(OUTPUT_PATH, COMPANY_LEADS_PATH)
 
 
 if __name__ == "__main__":
