@@ -24,22 +24,22 @@ NON_PAPER_PATH = CORPUS_DIR / "non_paper_resources.jsonl"
 # Applied to title + source + section text (lowercased).
 # ---------------------------------------------------------------------------
 TOPIC_RULES: list[tuple[str, str, list[str]]] = [
-    (r"iitsec|i/itsec|\bmilitary\b|defense|dod|\barmy\b|air force|training system|workforce develop", "T10", ["T13", "T00"]),
-    (r"simulat|\bxr\b|\bvr\b|virtual reality|augmented reality|serious game|experiential learn", "T08", ["T10", "T00"]),
-    (r"ai tutor|intelligent tutor|cognitive tutor|its system|adaptive learning|knowledge trac|bayesian student", "T06", ["T07", "T00"]),
-    (r"\bllm\b|large language model|generative ai|chatgpt|gpt-\d|foundation model", "T07", ["T06", "T00"]),
-    (r"learning analytic|data mining|\bxapi\b|\blrs\b|learning record|psychometric|assessment data", "T04", ["T03", "T00"]),
-    (r"knowledge graph|ontolog|competency framework|skill taxonom|knowledge represent", "T05", ["T04", "T00"]),
-    (r"learning infrastructure|\blms\b|platform interoperab|open standard|tin can", "T11", ["T04", "T00"]),
-    (r"instructional design|curriculum|\baddie\b|backward design|learning objective", "T12", ["T03", "T00"]),
-    (r"cognitive task analysis|expert knowledge elicit|tacit knowledge|\bsme\b elicit", "T09", ["T12", "T00"]),
-    (r"ethics|equity|fairness|\bbias\b|privacy|responsible ai|access gap", "T14", ["T07", "T00"]),
-    (r"kirkpatrick|\brct\b|randomized.controlled|reproducib|replication|what counts as evidence", "T15", ["T17", "T00"]),
-    (r"ieee icicle|icicle|body of knowledge|\bbok\b|professional community|credenti", "T16", ["T00"]),
-    (r"research method|design.based research|open science|field develop", "T17", ["T15", "T00"]),
-    (r"human factor|systems engineering|human.computer interaction|\bhsi\b|sociotechnical", "T02", ["T03", "T00"]),
-    (r"cognitive load|spaced practice|retrieval practice|how people learn", "T01", ["T00"]),
-    (r"learning engineering process|\ble process\b|iterative design|evidence.based design|rapid prototyp", "T03", ["T00"]),
+    (r"iitsec|i/itsec|\bmilitary\b|defense|dod|\barmy\b|air force|training system|workforce develop", "T10", ["T13"]),
+    (r"simulat|\bxr\b|\bvr\b|virtual reality|augmented reality|serious game|experiential learn", "T08", ["T10"]),
+    (r"ai tutor|intelligent tutor|cognitive tutor|its system|adaptive learning|knowledge trac|bayesian student", "T06", ["T07"]),
+    (r"\bllm\b|large language model|generative ai|chatgpt|gpt-\d|foundation model", "T07", ["T06"]),
+    (r"learning analytic|data mining|\bxapi\b|\blrs\b|learning record|psychometric|assessment data", "T04", ["T03"]),
+    (r"knowledge graph|ontolog|competency framework|skill taxonom|knowledge represent", "T05", ["T04"]),
+    (r"learning infrastructure|\blms\b|platform interoperab|open standard|tin can", "T11", ["T04"]),
+    (r"instructional design|curriculum|\baddie\b|backward design|learning objective", "T12", ["T03"]),
+    (r"cognitive task analysis|expert knowledge elicit|tacit knowledge|\bsme\b elicit", "T09", ["T12"]),
+    (r"ethics|equity|fairness|\bbias\b|privacy|responsible ai|access gap", "T14", ["T07"]),
+    (r"kirkpatrick|\brct\b|randomized.controlled|reproducib|replication|what counts as evidence", "T15", ["T17"]),
+    (r"ieee icicle|icicle|body of knowledge|\bbok\b|professional community|credenti", "T16", []),
+    (r"research method|design.based research|open science|field develop", "T17", ["T15"]),
+    (r"human factor|systems engineering|human.computer interaction|\bhsi\b|sociotechnical", "T02", ["T03"]),
+    (r"cognitive load|spaced practice|retrieval practice|how people learn", "T01", []),
+    (r"learning engineering process|\ble process\b|iterative design|evidence.based design|rapid prototyp", "T03", []),
 ]
 DEFAULT_TOPIC = "T00"
 DEFAULT_SECONDARY: list[str] = []

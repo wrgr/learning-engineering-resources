@@ -22,7 +22,6 @@ export function App() {
   const [artifactFilter, setArtifactFilter] = useState("all");
 
   const [resourceQuery, setResourceQuery] = useState("");
-  const [activeEntities, setActiveEntities] = useState([]);
 
   const [selectedNodeId, setSelectedNodeId] = useState("");
 
@@ -97,47 +96,13 @@ export function App() {
 
   const filteredResourceRows = useMemo(() => {
     if (!data) return [];
-
     const query = cleanText(resourceQuery).toLowerCase();
-    const activeSet = new Set(activeEntities);
-
     return (data.resourceRows || []).filter((row) => {
-      if (query) {
-        const haystack = `${row.section} ${row.title} ${row.context}`.toLowerCase();
-        if (!haystack.includes(query)) return false;
-      }
-
-      if (activeSet.size) {
-        const matches = row.entityKeys.some((key) => activeSet.has(key));
-        if (!matches) return false;
-      }
-
-      return true;
+      if (!query) return true;
+      const haystack = `${row.section} ${row.title} ${row.context}`.toLowerCase();
+      return haystack.includes(query);
     });
-  }, [activeEntities, data, resourceQuery]);
-
-  const groupedResources = useMemo(() => {
-    const grouped = groupBy(filteredResourceRows, (row) => row.section || "Unmapped");
-    const topicOrder = new Map();
-    for (const [index, topic] of (data?.topicMap?.topics || []).entries()) {
-      topicOrder.set(topic.topic_code, index);
-    }
-
-    const rankForSection = (section) => {
-      const m = /^([A-Z]\d{2})\b/.exec(section || "");
-      if (!m) return Number.MAX_SAFE_INTEGER;
-      return topicOrder.get(m[1]) ?? Number.MAX_SAFE_INTEGER;
-    };
-
-    return Object.keys(grouped)
-      .sort((a, b) => {
-        const rankA = rankForSection(a);
-        const rankB = rankForSection(b);
-        if (rankA !== rankB) return rankA - rankB;
-        return a.localeCompare(b);
-      })
-      .map((group) => ({ group, rows: grouped[group] }));
-  }, [data, filteredResourceRows]);
+  }, [data, resourceQuery]);
 
   const citationContext = useMemo(() => {
     if (!selectedNode) return { incoming: [], outgoing: [] };
@@ -351,12 +316,6 @@ export function App() {
     return groupBy(data.programs, (program) => program.category || "other");
   }, [data]);
 
-  const toggleEntity = (key) => {
-    setActiveEntities((previous) =>
-      previous.includes(key) ? previous.filter((item) => item !== key) : [...previous, key]
-    );
-  };
-
   if (error) {
     return html`
       <main className="wrap app-shell">
@@ -398,15 +357,9 @@ export function App() {
         <${ProgramsSection} groupedPrograms=${groupedPrograms} />
 
         <${ResourceNavigatorSection}
-          groupedResources=${groupedResources}
           filteredResourceRows=${filteredResourceRows}
-          missingResourceTopicCodes=${dataQuality.missingResourceTopicCodes}
-          entities=${data.entities}
-          activeEntities=${activeEntities}
-          toggleEntity=${toggleEntity}
           resourceQuery=${resourceQuery}
           setResourceQuery=${setResourceQuery}
-          clearEntities=${() => setActiveEntities([])}
         />
 
         <${PapersSection}

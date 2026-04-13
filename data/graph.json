@@ -5507,8 +5507,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5521,8 +5520,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5535,8 +5533,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5549,8 +5546,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5563,8 +5559,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5577,8 +5572,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5591,8 +5585,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5605,8 +5598,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5619,8 +5611,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5634,8 +5625,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5648,8 +5638,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5662,8 +5651,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5676,8 +5664,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5690,8 +5677,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5704,8 +5690,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5718,8 +5703,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5732,8 +5716,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5746,8 +5729,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5760,8 +5742,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5774,8 +5755,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5788,8 +5768,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5802,8 +5781,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5817,8 +5795,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5832,8 +5809,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5846,8 +5822,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5860,8 +5835,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5874,8 +5848,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5889,8 +5862,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5903,8 +5875,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5917,8 +5888,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -5931,8 +5901,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5945,8 +5914,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5959,8 +5927,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5974,8 +5941,7 @@
       "hop": 0,
       "topic_codes": [
         "T05",
-        "T04",
-        "T00"
+        "T04"
       ],
       "provenance": {
         "content_type": "GL",
@@ -5988,8 +5954,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6003,8 +5968,7 @@
       "hop": 0,
       "topic_codes": [
         "T12",
-        "T03",
-        "T00"
+        "T03"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6017,8 +5981,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6032,8 +5995,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6047,8 +6009,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6062,8 +6023,7 @@
       "hop": 0,
       "topic_codes": [
         "T12",
-        "T03",
-        "T00"
+        "T03"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6076,8 +6036,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6091,8 +6050,7 @@
       "hop": 0,
       "topic_codes": [
         "T07",
-        "T06",
-        "T00"
+        "T06"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6106,8 +6064,7 @@
       "hop": 0,
       "topic_codes": [
         "T08",
-        "T10",
-        "T00"
+        "T10"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6120,8 +6077,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6135,8 +6091,7 @@
       "hop": 0,
       "topic_codes": [
         "T14",
-        "T07",
-        "T00"
+        "T07"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6150,8 +6105,7 @@
       "hop": 0,
       "topic_codes": [
         "T12",
-        "T03",
-        "T00"
+        "T03"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6165,8 +6119,7 @@
       "hop": 0,
       "topic_codes": [
         "T12",
-        "T03",
-        "T00"
+        "T03"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6180,8 +6133,7 @@
       "hop": 0,
       "topic_codes": [
         "T12",
-        "T03",
-        "T00"
+        "T03"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6194,6 +6146,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T06",
         "T00"
       ],
       "provenance": {
@@ -6220,6 +6173,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T03",
         "T00"
       ],
       "provenance": {
@@ -6247,8 +6201,7 @@
       "hop": 0,
       "topic_codes": [
         "T12",
-        "T03",
-        "T00"
+        "T03"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6287,8 +6240,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
-        "T16",
-        "T00"
+        "T16"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6366,6 +6318,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T06",
         "T00"
       ],
       "provenance": {
@@ -6379,6 +6332,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T10",
         "T00"
       ],
       "provenance": {
@@ -6392,6 +6346,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T06",
         "T00"
       ],
       "provenance": {
@@ -6406,8 +6361,7 @@
       "hop": 0,
       "topic_codes": [
         "T08",
-        "T10",
-        "T00"
+        "T10"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6420,6 +6374,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T07",
         "T00"
       ],
       "provenance": {
@@ -6446,6 +6401,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T16",
         "T00"
       ],
       "provenance": {
@@ -6472,6 +6428,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T16",
         "T00"
       ],
       "provenance": {
@@ -6485,6 +6442,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T13",
         "T00"
       ],
       "provenance": {
@@ -6498,6 +6456,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T16",
         "T00"
       ],
       "provenance": {
@@ -6512,8 +6471,7 @@
       "hop": 0,
       "topic_codes": [
         "T08",
-        "T10",
-        "T00"
+        "T10"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6539,6 +6497,7 @@
       "type": "resource",
       "hop": 0,
       "topic_codes": [
+        "T16",
         "T00"
       ],
       "provenance": {
@@ -6553,8 +6512,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6568,8 +6526,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6583,8 +6540,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6598,8 +6554,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "AP",
@@ -6613,8 +6568,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6628,8 +6582,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6643,8 +6596,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "GL",
@@ -6658,8 +6610,7 @@
       "hop": 0,
       "topic_codes": [
         "T10",
-        "T13",
-        "T00"
+        "T13"
       ],
       "provenance": {
         "content_type": "GL",
@@ -12706,17 +12657,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-017",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-018",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-018",
       "type": "resource"
     },
@@ -12726,17 +12667,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-019",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-020",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-020",
       "type": "resource"
     },
@@ -12746,17 +12677,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-021",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-022",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-022",
       "type": "resource"
     },
@@ -12766,27 +12687,12 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-023",
-      "type": "resource"
-    },
-    {
       "source": "T16",
       "target": "LE-GL-024",
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-024",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-025",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-025",
       "type": "resource"
     },
@@ -12801,17 +12707,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-026",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-027",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-027",
       "type": "resource"
     },
@@ -12821,17 +12717,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-028",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-029",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-029",
       "type": "resource"
     },
@@ -12841,17 +12727,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-030",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-031",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-031",
       "type": "resource"
     },
@@ -12861,17 +12737,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-032",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-033",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-033",
       "type": "resource"
     },
@@ -12881,17 +12747,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-034",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-035",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-035",
       "type": "resource"
     },
@@ -12901,27 +12757,12 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-036",
-      "type": "resource"
-    },
-    {
       "source": "T16",
       "target": "LE-GL-037",
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-037",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-038",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-038",
       "type": "resource"
     },
@@ -12936,11 +12777,6 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-039",
-      "type": "resource"
-    },
-    {
       "source": "T10",
       "target": "LE-GL-040",
       "type": "resource"
@@ -12951,17 +12787,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-040",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-041",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-041",
       "type": "resource"
     },
@@ -12971,17 +12797,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-042",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-043",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-043",
       "type": "resource"
     },
@@ -12996,17 +12812,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-044",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-045",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-045",
       "type": "resource"
     },
@@ -13016,17 +12822,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-046",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-047",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-047",
       "type": "resource"
     },
@@ -13036,17 +12832,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-048",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-049",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-049",
       "type": "resource"
     },
@@ -13061,17 +12847,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-050",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-051",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-051",
       "type": "resource"
     },
@@ -13086,21 +12862,11 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-052",
-      "type": "resource"
-    },
-    {
       "source": "T16",
       "target": "LE-GL-053",
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-053",
-      "type": "resource"
-    },
-    {
       "source": "T10",
       "target": "LE-GL-054",
       "type": "resource"
@@ -13111,22 +12877,12 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-054",
-      "type": "resource"
-    },
-    {
       "source": "T10",
       "target": "LE-GL-055",
       "type": "resource"
     },
     {
       "source": "T13",
-      "target": "LE-GL-055",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-055",
       "type": "resource"
     },
@@ -13141,17 +12897,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-056",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-057",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-057",
       "type": "resource"
     },
@@ -13166,11 +12912,6 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-058",
-      "type": "resource"
-    },
-    {
       "source": "T08",
       "target": "LE-GL-059",
       "type": "resource"
@@ -13181,17 +12922,7 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-059",
-      "type": "resource"
-    },
-    {
       "source": "T16",
-      "target": "LE-GL-060",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-060",
       "type": "resource"
     },
@@ -13206,22 +12937,12 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-061",
-      "type": "resource"
-    },
-    {
       "source": "T12",
       "target": "LE-GL-062",
       "type": "resource"
     },
     {
       "source": "T03",
-      "target": "LE-GL-062",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-062",
       "type": "resource"
     },
@@ -13236,11 +12957,6 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-063",
-      "type": "resource"
-    },
-    {
       "source": "T12",
       "target": "LE-GL-064",
       "type": "resource"
@@ -13251,8 +12967,8 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-064",
+      "source": "T06",
+      "target": "LE-GL-065",
       "type": "resource"
     },
     {
@@ -13263,6 +12979,11 @@
     {
       "source": "T00",
       "target": "LE-GL-066",
+      "type": "resource"
+    },
+    {
+      "source": "T03",
+      "target": "LE-GL-067",
       "type": "resource"
     },
     {
@@ -13287,11 +13008,6 @@
     },
     {
       "source": "T00",
-      "target": "LE-GL-069",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-070",
       "type": "resource"
     },
@@ -13302,11 +13018,6 @@
     },
     {
       "source": "T16",
-      "target": "LE-GL-072",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-072",
       "type": "resource"
     },
@@ -13336,13 +13047,28 @@
       "type": "resource"
     },
     {
-      "source": "T00",
+      "source": "T06",
       "target": "LE-GL-078",
       "type": "resource"
     },
     {
       "source": "T00",
+      "target": "LE-GL-078",
+      "type": "resource"
+    },
+    {
+      "source": "T10",
       "target": "LE-GL-079",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-079",
+      "type": "resource"
+    },
+    {
+      "source": "T06",
+      "target": "LE-GL-080",
       "type": "resource"
     },
     {
@@ -13361,8 +13087,8 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-081",
+      "source": "T07",
+      "target": "LE-GL-082",
       "type": "resource"
     },
     {
@@ -13376,6 +13102,11 @@
       "type": "resource"
     },
     {
+      "source": "T16",
+      "target": "LE-GL-084",
+      "type": "resource"
+    },
+    {
       "source": "T00",
       "target": "LE-GL-084",
       "type": "resource"
@@ -13386,13 +13117,28 @@
       "type": "resource"
     },
     {
-      "source": "T00",
+      "source": "T16",
       "target": "LE-GL-086",
       "type": "resource"
     },
     {
       "source": "T00",
+      "target": "LE-GL-086",
+      "type": "resource"
+    },
+    {
+      "source": "T13",
       "target": "LE-GL-087",
+      "type": "resource"
+    },
+    {
+      "source": "T00",
+      "target": "LE-GL-087",
+      "type": "resource"
+    },
+    {
+      "source": "T16",
+      "target": "LE-GL-088",
       "type": "resource"
     },
     {
@@ -13412,12 +13158,12 @@
     },
     {
       "source": "T00",
-      "target": "LE-GL-089",
+      "target": "LE-GL-090",
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-090",
+      "source": "T16",
+      "target": "LE-GL-091",
       "type": "resource"
     },
     {
@@ -13436,11 +13182,6 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-092",
-      "type": "resource"
-    },
-    {
       "source": "T10",
       "target": "LE-GL-093",
       "type": "resource"
@@ -13451,22 +13192,12 @@
       "type": "resource"
     },
     {
-      "source": "T00",
-      "target": "LE-GL-093",
-      "type": "resource"
-    },
-    {
       "source": "T10",
       "target": "LE-GL-094",
       "type": "resource"
     },
     {
       "source": "T13",
-      "target": "LE-GL-094",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-094",
       "type": "resource"
     },
@@ -13477,11 +13208,6 @@
     },
     {
       "source": "T13",
-      "target": "LE-GL-095",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-095",
       "type": "resource"
     },
@@ -13492,11 +13218,6 @@
     },
     {
       "source": "T13",
-      "target": "LE-GL-096",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-096",
       "type": "resource"
     },
@@ -13507,11 +13228,6 @@
     },
     {
       "source": "T13",
-      "target": "LE-GL-097",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-097",
       "type": "resource"
     },
@@ -13522,11 +13238,6 @@
     },
     {
       "source": "T13",
-      "target": "LE-GL-098",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-098",
       "type": "resource"
     },
@@ -13537,11 +13248,6 @@
     },
     {
       "source": "T13",
-      "target": "LE-GL-099",
-      "type": "resource"
-    },
-    {
-      "source": "T00",
       "target": "LE-GL-099",
       "type": "resource"
     },

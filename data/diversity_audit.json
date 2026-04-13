@@ -1,9 +1,8 @@
 {
   "warnings": [
     "T02 Systems Engineering & Human Factors: content_type 'GL' is 67% of 3 resources",
-    "T03 Learning Engineering Process: content_type 'GL' is 62% of 34 resources",
-    "T00 Field Overview & History: content_type 'GL' is 69% of 138 resources",
-    "T16 Standards, Credentialing & Community: content_type 'GL' is 72% of 46 resources",
+    "T00 Field Overview & History: content_type 'GL' is 76% of 78 resources",
+    "T16 Standards, Credentialing & Community: content_type 'GL' is 72% of 50 resources",
     "T09 Expert Knowledge Elicitation: content_type 'TP' is 67% of 6 resources",
     "T12 Instructional Design & Curriculum: content_type 'GL' is 75% of 8 resources",
     "T17 Research Methods & Field Development: content_type 'GL' is 100% of 4 resources",
@@ -13,7 +12,7 @@
     "T13": {
       "PC": 1,
       "PP": 2,
-      "GL": 10,
+      "GL": 11,
       "AP": 7
     },
     "T02": {
@@ -23,7 +22,7 @@
     "T10": {
       "PC": 1,
       "PP": 1,
-      "AP": 10,
+      "AP": 11,
       "GL": 8,
       "TP": 1
     },
@@ -40,7 +39,7 @@
       "PP": 2,
       "CE": 3,
       "TP": 2,
-      "AP": 1,
+      "AP": 4,
       "GL": 1,
       "CO": 3
     },
@@ -56,7 +55,7 @@
       "TP": 5,
       "CO": 1,
       "GL": 21,
-      "AP": 2
+      "AP": 3
     },
     "T00": {
       "PC": 1,
@@ -64,8 +63,8 @@
       "CE": 2,
       "TP": 2,
       "CO": 2,
-      "GL": 95,
-      "AP": 33
+      "GL": 59,
+      "AP": 9
     },
     "T04": {
       "PC": 1,
@@ -78,14 +77,14 @@
     "T07": {
       "PP": 1,
       "CE": 3,
-      "AP": 2,
+      "AP": 3,
       "CO": 2
     },
     "T16": {
       "PP": 1,
-      "CE": 1,
+      "CE": 2,
       "CO": 1,
-      "GL": 33,
+      "GL": 36,
       "AP": 10
     },
     "T09": {

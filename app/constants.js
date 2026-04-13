@@ -27,6 +27,17 @@ export const RESOURCE_GROUP_ORDER = [
   "Other",
 ];
 
+/** Display metadata for each ICICLE resource content_type code. */
+export const CONTENT_TYPE_META = {
+  PP: { label: "People", plural: "People & Practitioners", order: 0 },
+  CE: { label: "Conferences", plural: "Conferences & Events", order: 1 },
+  CO: { label: "Organizations", plural: "Communities & Organizations", order: 2 },
+  PC: { label: "Programs", plural: "Programs & Curricula", order: 3 },
+  TP: { label: "Tools", plural: "Tools & Platforms", order: 4 },
+  GL: { label: "Reports", plural: "Reports & Resources", order: 5 },
+  AP: { label: "Papers", plural: "Academic Papers", order: 6 },
+};
+
 export const OLD_LENS_URL = "https://education.jhu.edu/academics/masters-programs/learning-design-technology/";
 export const NEW_LENS_URL =
   "https://education.jhu.edu/masters-programs/master-of-education-in-learning-design-and-technology/";

@@ -339,18 +339,6 @@
           "section": "T00 Field Overview & History"
         },
         {
-          "resource_id": "LE-GL-065",
-          "title": "A Learning Engineering Model for Learner-Centered Adaptive Systems",
-          "url": "https://link.springer.com/chapter/10.1007/978-3-030-60128-7_41",
-          "context": "Source: HCI International 2020. Author(s): Jim Goodell and Khanh-Phuong (KP) Thai. Type: Conference paper. Year: 2020.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "AP",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
           "resource_id": "LE-GL-066",
           "title": "High-Leverage Opportunities for Learning Engineering Discusses the potential of learning engineering to bring the theory and practice of learning forward as well as some of the challenges that have slowed uptake of learning engineering, and how they can be addressed.",
           "url": "https://learninganalytics.upenn.edu/Learning_Engineering_recommendations.pdf",
@@ -359,18 +347,6 @@
             "T00"
           ],
           "content_type": "GL",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
-          "resource_id": "LE-GL-067",
-          "title": "Scaffolds and Nudges: A Case Study in Learning Engineering Design Improvements",
-          "url": "https://link.springer.com/chapter/10.1007/978-3-030-78270-2_78",
-          "context": "Source: Artificial Intelligence in Education\n(AIED 2021). Author(s): Stephen E. Fancsali, Martina Pavelko, Josh Fisher, Leslie Wheeler & Steven Ritter. Type: Conference proceedings. Year: 2021.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "AP",
           "status": "APPROVED",
           "section": "T00 Field Overview & History"
         },
@@ -471,70 +447,10 @@
           "section": "T00 Field Overview & History"
         },
         {
-          "resource_id": "LE-GL-078",
-          "title": "The Value Proposition of e Generalized Intelligent Framework for Tutoring (GIFT) for the Field of Learning Engineering",
-          "url": "https://gifttutoring.org/attachments/download/4787/GIFTSym11_Proceedings_Final_063023.pdf",
-          "context": "Source: page 87 of the Proceedings of the 11th Annual GIFT Users Symposium. Author(s): Shelly Blake-Plock, Kevin Owens and Jim Goodell. Type: Paper. Year: 2023.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "AP",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
-          "resource_id": "LE-GL-079",
-          "title": "Cultural Dimensions in Learning Engineering: Redesigning Courses for Industrial Training Institutes",
-          "url": "https://link.springer.com/chapter/10.1007/978-981-96-5761-2_21",
-          "context": "Source: Proceedings of the International Conference on Technology 4 Education 2024, Volume 1. Author(s): Meiyi Chen, Tanvi Domadia, Abigail Stein, Norman Bier & John Stamper. Type: Conference. Year: 2025.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "AP",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
-          "resource_id": "LE-GL-080",
-          "title": "Integrating Adaptive Interventions into Learning Engineering Workflows",
-          "url": "https://link.springer.com/chapter/10.1007/978-3-031-92967-0_5#citeas",
-          "context": "Source: Adaptive Instructional Systems. HCII 2025. Author(s): Ilya Musabirov. Type: Conference. Year: 2025.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "AP",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
-          "resource_id": "LE-GL-082",
-          "title": "Capturing Elusive Technology: Designing a Course on AI for Learning and Development Practitioners",
-          "url": "https://doi.org/10.14434/ijdl.v16i2.42150",
-          "context": "Source: International Journal of Designs for Learning. Author(s): Rafael Leonardo da Silva. Type: journal. Year: 2025.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "AP",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
           "resource_id": "LE-GL-083",
           "title": "Carnegie Mellon University Open Learning Institute\u2018s Simon Approach to Learning Engineering",
           "url": "https://oli.cmu.edu/educators/learning-engineering/",
           "context": "Source: CMU: OLI. Type: Video.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "GL",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
-          "resource_id": "LE-GL-084",
-          "title": "CMU Simon Inititative Learning Engineering Community",
-          "url": "https://www.cmu.edu/simon/open-simon/",
-          "context": "Source: CMU: Open Simon. Type: Resources.",
           "topic_codes": [
             "T00"
           ],
@@ -555,42 +471,6 @@
           "section": "T00 Field Overview & History"
         },
         {
-          "resource_id": "LE-GL-086",
-          "title": "CMU Learn Lab Learning Science and Engineering Seminar Series",
-          "url": "https://learnlab.org/learning-science-and-engineering-seminar/",
-          "context": "Source: CMU Learn Lab Learning. Author(s): CMU Learn Lab Learning. Type: Talks. Year: 2022.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "GL",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
-          "resource_id": "LE-GL-087",
-          "title": "Crucible Cyber Platform Brochure: They have learning engineering as part of their process.",
-          "url": "https://www.sei.cmu.edu/documents/6425/6611_Cyber_Platform_Brochure_1.pdf",
-          "context": "Source: Software Engineering Institute, CMU. Type: Brochure. Year: 2026.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "GL",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
-          "resource_id": "LE-GL-088",
-          "title": "ASU Learning Engineering Institute website",
-          "url": "https://learningengineering.asu.edu/",
-          "context": "",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "GL",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
           "resource_id": "LE-GL-090",
           "title": "Leveraging Learning Engineering to Orchestrate and Enhance Learning",
           "url": "https://www.youtube.com/watch?v=_Ec9ra1zUxA&t=98s",
@@ -599,18 +479,6 @@
             "T00"
           ],
           "content_type": "GL",
-          "status": "APPROVED",
-          "section": "T00 Field Overview & History"
-        },
-        {
-          "resource_id": "LE-GL-091",
-          "title": "ASU LE Research Network 2026 Convening",
-          "url": "https://edtecharchives.org/journal/2551/",
-          "context": "Source: ASU. Type: convenings. Year: 2026.",
-          "topic_codes": [
-            "T00"
-          ],
-          "content_type": "CE",
           "status": "APPROVED",
           "section": "T00 Field Overview & History"
         },
@@ -900,6 +768,19 @@
       "section": "T03 Learning Engineering Process",
       "items": [
         {
+          "resource_id": "LE-GL-067",
+          "title": "Scaffolds and Nudges: A Case Study in Learning Engineering Design Improvements",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-030-78270-2_78",
+          "context": "Source: Artificial Intelligence in Education\n(AIED 2021). Author(s): Stephen E. Fancsali, Martina Pavelko, Josh Fisher, Leslie Wheeler & Steven Ritter. Type: Conference proceedings. Year: 2021.",
+          "topic_codes": [
+            "T03",
+            "T00"
+          ],
+          "content_type": "AP",
+          "status": "APPROVED",
+          "section": "T03 Learning Engineering Process"
+        },
+        {
           "resource_id": "LE-IC-002",
           "title": "Learning Engineering Process Description & Diagram (ICICLE)",
           "url": "https://sagroups.ieee.org/icicle/learning-engineering-process/",
@@ -1161,8 +1042,7 @@
           "context": "Source: New Frontiers website. Author(s): Ellen Wagner. Type: Blog Posts. Year: 2024.",
           "topic_codes": [
             "T05",
-            "T04",
-            "T00"
+            "T04"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1230,6 +1110,45 @@
           "section": "T06 Intelligent Tutoring & Adaptive Systems"
         },
         {
+          "resource_id": "LE-GL-065",
+          "title": "A Learning Engineering Model for Learner-Centered Adaptive Systems",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-030-60128-7_41",
+          "context": "Source: HCI International 2020. Author(s): Jim Goodell and Khanh-Phuong (KP) Thai. Type: Conference paper. Year: 2020.",
+          "topic_codes": [
+            "T06",
+            "T00"
+          ],
+          "content_type": "AP",
+          "status": "APPROVED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        },
+        {
+          "resource_id": "LE-GL-078",
+          "title": "The Value Proposition of e Generalized Intelligent Framework for Tutoring (GIFT) for the Field of Learning Engineering",
+          "url": "https://gifttutoring.org/attachments/download/4787/GIFTSym11_Proceedings_Final_063023.pdf",
+          "context": "Source: page 87 of the Proceedings of the 11th Annual GIFT Users Symposium. Author(s): Shelly Blake-Plock, Kevin Owens and Jim Goodell. Type: Paper. Year: 2023.",
+          "topic_codes": [
+            "T06",
+            "T00"
+          ],
+          "content_type": "AP",
+          "status": "APPROVED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        },
+        {
+          "resource_id": "LE-GL-080",
+          "title": "Integrating Adaptive Interventions into Learning Engineering Workflows",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-92967-0_5#citeas",
+          "context": "Source: Adaptive Instructional Systems. HCII 2025. Author(s): Ilya Musabirov. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T06",
+            "T00"
+          ],
+          "content_type": "AP",
+          "status": "APPROVED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        },
+        {
           "resource_id": "LE-IC-024",
           "title": "OpenSimon Community (CMU Simon Initiative)",
           "url": "https://www.cmu.edu/simon/open-simon/",
@@ -1269,7 +1188,19 @@
           "context": "Source: Adaptive Instructional Systems\n(HCII 2025). Author(s): Rachel Van Campenhout, David Soto-Karlin, Michelle Selinger & Bill Jerome. Type: Conference. Year: 2025.",
           "topic_codes": [
             "T07",
-            "T06",
+            "T06"
+          ],
+          "content_type": "AP",
+          "status": "APPROVED",
+          "section": "T07 AI & Foundation Models in Learning"
+        },
+        {
+          "resource_id": "LE-GL-082",
+          "title": "Capturing Elusive Technology: Designing a Course on AI for Learning and Development Practitioners",
+          "url": "https://doi.org/10.14434/ijdl.v16i2.42150",
+          "context": "Source: International Journal of Designs for Learning. Author(s): Rafael Leonardo da Silva. Type: journal. Year: 2025.",
+          "topic_codes": [
+            "T07",
             "T00"
           ],
           "content_type": "AP",
@@ -1288,8 +1219,7 @@
           "context": "Source: Journal of Applied Instructional Design. Author(s): Kristin Torrence. Type: Journal. Year: 2025.",
           "topic_codes": [
             "T08",
-            "T10",
-            "T00"
+            "T10"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1302,8 +1232,7 @@
           "context": "Source: Adaptive Instructional Systems. HCII 2025. Author(s): Jessica M. Johnson. Type: Conference. Year: 2025.",
           "topic_codes": [
             "T08",
-            "T10",
-            "T00"
+            "T10"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1316,8 +1245,7 @@
           "context": "Source: International Journal of Artificial Intelligence in Education. Author(s): Danielle S. McNamara. Type: Journal. Year: 2023.",
           "topic_codes": [
             "T08",
-            "T10",
-            "T00"
+            "T10"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1375,8 +1303,7 @@
           "context": "Source: I/ITSEC. Author(s): Shelly Blake-Plock. Type: Point Paper. Panel. Year: 2019.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1389,8 +1316,7 @@
           "context": "Source: US Army\u2019s Journal of Military Learning. Author(s): Sae Schatz, Jim Goodell and Aaron Kessler. Type: Journal. Year: 2023.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1403,8 +1329,7 @@
           "context": "Source: Hosted by Health Simulation. Author(s): Benjamin Goldberg  & Jim Goodell. Type: Webinar. Year: 2023.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1417,8 +1342,7 @@
           "context": "Source: I/ITSEC 2023. Author(s): Shelly Blake-Plock, Kevin Owens and Jim Goodell. Type: Conference Paper. Year: 2023.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1431,8 +1355,7 @@
           "context": "Source: Air Force. Type: Video. Year: 2024.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1445,10 +1368,22 @@
           "context": "Source: I/ITSEC Conference. Year: 2024.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T10 Workforce Development & Training Systems"
+        },
+        {
+          "resource_id": "LE-GL-079",
+          "title": "Cultural Dimensions in Learning Engineering: Redesigning Courses for Industrial Training Institutes",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-96-5761-2_21",
+          "context": "Source: Proceedings of the International Conference on Technology 4 Education 2024, Volume 1. Author(s): Meiyi Chen, Tanvi Domadia, Abigail Stein, Norman Bier & John Stamper. Type: Conference. Year: 2025.",
+          "topic_codes": [
+            "T10",
+            "T00"
+          ],
+          "content_type": "AP",
           "status": "APPROVED",
           "section": "T10 Workforce Development & Training Systems"
         },
@@ -1459,8 +1394,7 @@
           "context": "Source: I/ITSEC 2025. Author(s): Jim Goodell. Type: Conference. Year: 2025.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1473,8 +1407,7 @@
           "context": "Source: I/ITSEC 2025. Author(s): Blair Lehman,  Jeanine DeFalco. Type: Conference. Year: 2025.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1487,8 +1420,7 @@
           "context": "Source: I/ITSEC 2025. Author(s): Jessica Johnson. Type: Conference. Year: 2025.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1501,8 +1433,7 @@
           "context": "Source: I/ITSEC 2025. Author(s): Mr. Kevin Owens, Shawn Miller, Jeanine DeFalco,Christine Covas-Smith. Type: Conference. Year: 2025.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1515,8 +1446,7 @@
           "context": "Source: I/ITSEC Conference. Year: 2024.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1529,8 +1459,7 @@
           "context": "Source: I/ITSEC Conference. Year: 2024.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1543,8 +1472,7 @@
           "context": "Source: I/ITSEC Conference. Year: 2024.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1557,8 +1485,7 @@
           "context": "Source: I/ITSEC Conference. Year: 2024.",
           "topic_codes": [
             "T10",
-            "T13",
-            "T00"
+            "T13"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1595,8 +1522,7 @@
           "context": "Source: LinkedIn. Author(s): Anne Fensie. Type: Blog Post. Year: 2024.",
           "topic_codes": [
             "T12",
-            "T03",
-            "T00"
+            "T03"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1609,8 +1535,7 @@
           "context": "Source: Adaptive Instructional Systems. HCII 2025. Author(s): Erin Czerwinski, Tanvi Domadia & Yue Wang. Type: Conference. Year: 2025.",
           "topic_codes": [
             "T12",
-            "T03",
-            "T00"
+            "T03"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1623,8 +1548,7 @@
           "context": "Source: Learning Solutions. Author(s): Jim Goddell. Type: Post. Year: 2019.",
           "topic_codes": [
             "T12",
-            "T03",
-            "T00"
+            "T03"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1637,8 +1561,7 @@
           "context": "Source: Journal of Applied Instructional Design. Author(s): Dina Kurzweil and Karen (Beth) Marcellas. Type: Journal Publication. Year: 2020.",
           "topic_codes": [
             "T12",
-            "T03",
-            "T00"
+            "T03"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1651,8 +1574,7 @@
           "context": "Source: Educause. Author(s): Educause. Type: Report. Year: 2020.",
           "topic_codes": [
             "T12",
-            "T03",
-            "T00"
+            "T03"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1665,8 +1587,7 @@
           "context": "Source: Share Whatcha Learned: Journeys in Instructional Design. Author(s): Kristin Torrence. Type: Podcast. Year: 2022.",
           "topic_codes": [
             "T12",
-            "T03",
-            "T00"
+            "T03"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1707,6 +1628,19 @@
           "section": "T13 High-Consequence & Complex Domains"
         },
         {
+          "resource_id": "LE-GL-087",
+          "title": "Crucible Cyber Platform Brochure: They have learning engineering as part of their process.",
+          "url": "https://www.sei.cmu.edu/documents/6425/6611_Cyber_Platform_Brochure_1.pdf",
+          "context": "Source: Software Engineering Institute, CMU. Type: Brochure. Year: 2026.",
+          "topic_codes": [
+            "T13",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T13 High-Consequence & Complex Domains"
+        },
+        {
           "resource_id": "LE-IC-036",
           "title": "Teaming Up to Improve Medical & Healthcare Education (Kurzweil & Marcellas, 2020)",
           "url": "[ICICLE resources page]",
@@ -1732,8 +1666,7 @@
           "context": "Source: Communication of ACM. Author(s): Jeremy Roschelle, Elizabeth A. McLaughlin, and Kenneth R. Koedinger. Type: article. Year: 2025.",
           "topic_codes": [
             "T14",
-            "T07",
-            "T00"
+            "T07"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1769,8 +1702,7 @@
           "url": "http://www.sr.ithaka.org/wp-content/uploads/2016/10/SR_Case_Study_Engineering_Learning_Kaplan_100616.pdf",
           "context": "Source: Ithaka S+R Case Study. Author(s): Jessie Brown\nMartin Kurzweil. Type: Report. Year: 2016.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1782,8 +1714,7 @@
           "url": "http://www.gettingsmart.com/2018/01/learning-engineering-merging-science-and-data-to-design-powerful-learning/",
           "context": "Source: Getting Smart. Author(s): Shelly Blake-Plock. Type: Post. Year: 2018.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1795,8 +1726,7 @@
           "url": "https://er.educause.edu/blogs/2018/5/icicle-a-consortium-for-learning-engineering",
           "context": "Source: Educause. Author(s): Shelly Blake-Plock. Type: Post. Year: 2018.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1808,8 +1738,7 @@
           "url": "https://oeb.global/oeb-insights/the-rise-of-learning-engineering/",
           "context": "Source: OEB. Author(s): Ellen Wagner. Type: Post. Year: 2018.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1821,8 +1750,7 @@
           "url": "https://www.learningsolutionsmag.com/articles/quinnsights-get-ready-for-learning-engineering/",
           "context": "Source: Learning Solutions. Author(s): Clark Quinn. Type: Post. Year: 2018.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1834,8 +1762,7 @@
           "url": "https://library.educause.edu/resources/2018/9/7-things-you-should-know-about-learning-engineering",
           "context": "Source: Educause. Author(s): Ellen Wagner, Shelly Blake-Plock, Robby Robson, Avron Barr. Type: Article. Year: 2018.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1847,8 +1774,7 @@
           "url": "https://www.tandfonline.com/doi/full/10.1080/10888691.2017.1421437",
           "context": "Source: Applied Developmental Science. Author(s): Melina R. Uncapher. Type: Paper. Year: 2018.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1860,8 +1786,7 @@
           "url": "https://www.learningguild.com/insights/238/learning-engineering-a-primer/",
           "context": "Source: Learning Guild. Author(s): Ellen Wagner. Type: Report. Year: 2019.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1873,8 +1798,7 @@
           "url": "https://eliterate.us/learning-engineering-a-caliper-example/",
           "context": "Source: eLiterate. Author(s): Michael Feldstein. Type: Post. Year: 2019.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1886,8 +1810,7 @@
           "url": "https://sagroups.ieee.org/icicle/wp-content/uploads/sites/148/2020/07/ICICLE_Proceedings_Learning-Engineering.pdf",
           "context": "Source: ICICLE 2019 Conference. Author(s): Multiple. Type: Conference Proceedings. Year: 2019.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1899,8 +1822,7 @@
           "url": "https://www.edsurge.com/news/topics/learning-engineering",
           "context": "Source: Edsurge. Author(s): EdSurge. Year: 2020.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1912,8 +1834,7 @@
           "url": "https://www.edsurge.com/news/2020-04-16-learning-engineering-is-learning-about-learning-we-need-that-now-more-than-ever",
           "context": "Source: Edsurge. Author(s): Michael Feldstein. Type: Post. Year: 2020.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1925,8 +1846,7 @@
           "url": "https://tmb.apaopen.org/pub/5ib9cpqa/release/1",
           "context": "Source: Technology, Mind and Behaviour. Author(s): Ryan S. Baker, Ulrich Boser and Erica L. Snow. Type: Journal. Year: 2021.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1938,8 +1858,7 @@
           "url": "https://blogs.cisco.com/csr/how-cisco-networking-academys-learning-engineering-team-creates-a-pathway",
           "context": "Source: Cisco Blog. Author(s): Stacey Faucett. Type: Post. Year: 2021.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1951,8 +1870,7 @@
           "url": "https://medium.com/open-learning/learning-engineering-at-a-glance-poster-awarded-best-design-at-ifest-2022-1cfdfaf7dda3",
           "context": "Source: iFEST. Author(s): Sae Schatz and Jim Goodell. Type: Poster. Year: 2022.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -1964,8 +1882,7 @@
           "url": "https://www.tandfonline.com/doi/full/10.1080/10508406.2022.2100705",
           "context": "Source: Journal of the Learning Sciences. Author(s): Victor Lee. Type: Journal. Year: 2022.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1977,8 +1894,7 @@
           "url": "https://www.tandfonline.com/doi/full/10.1080/10508406.2023.2190717?src=recsys",
           "context": "Source: Journal of the Learning Sciences. Author(s): Janet Kolodner. Type: Journal. Year: 2022.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -1990,8 +1906,7 @@
           "url": "https://doi.org/10.31681/jetol.1376727",
           "context": "Source: Journal of Educational Technology and Online Learning (Turkey). Author(s): Kursat Cag\u0131ltay Nazire Bur\u00e7in Hamuto\u011flu  Mehmet Kesim. Type: Journal. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -2003,8 +1918,7 @@
           "url": "https://www.linkedin.com/pulse/how-video-games-can-train-you-job-lessons-from-learning-eric-basu?trk=public_profile_article_view",
           "context": "Source: Linkedin. Author(s): Eric Basu. Type: Post. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2016,8 +1930,7 @@
           "url": "https://spectrum.ieee.org/duolingo",
           "context": "Source: IEEE Specturm. Author(s): Klinton Bicknell, Claire Brust, Burr Settles. Type: Post. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2029,8 +1942,7 @@
           "url": "https://www.linkedin.com/pulse/learning-engineering-workingoutloud-science-julian-stodd",
           "context": "Source: Linkedin. Author(s): Julian Sodd,  from the writing with co-authors Sae Schatz and Geoff Stea. Type: Post. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2042,8 +1954,7 @@
           "url": "https://www.linkedin.com/pulse/how-improve-edtech-engagement-using-learning-principles-nirmal-patel/?trackingId=lEq8hdLnTyen4UKsT1TpWg%3D%3D",
           "context": "Source: LinkedIn post. Author(s): Nirmal Patel. Type: Blog Posts. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2055,8 +1966,7 @@
           "url": "https://silverliningforlearning.org/episode-162-the-art-science-of-learning-engineering/",
           "context": "Source: Silver Lining for Learning. Author(s): Danielle McNamara, Scotty Craig, and Rod Roscoe. Type: Video/Podcast. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2068,8 +1978,7 @@
           "url": "https://link.springer.com/content/pdf/10.1007/978-981-99-0026-8_1",
           "context": "Source: Chapter 1, Educational Data Science: Essentials, Approaches,and Tendencies. Author(s): Rachel Van Campenhout, Bill Jerome, and Benny G. Johnson. Type: Book Chapter. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -2081,8 +1990,7 @@
           "url": "https://www.leadinglearning.com/episode-369-sae-schatz/",
           "context": "Source: Leading Learning. Author(s): Sae Schatz. Type: Podcast. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2094,8 +2002,7 @@
           "url": "https://journals.sagepub.com/doi/full/10.1177/21695067231192886",
           "context": "Source: Human Factors and Ergonomics Society. Author(s): Scotty Craig, Jim Goodell, Rod Roscoe, Erin Czerwinski, Jodi Lis. Type: Conference Proceeding. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -2107,8 +2014,7 @@
           "url": "https://www.youtube.com/watch?v=H-MbNTt2NRc",
           "context": "Source: GRAILE AI conference. Type: Conference Session. Year: 2023.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2120,8 +2026,7 @@
           "url": "https://icicle.edtechbooks.org/icicle_2024",
           "context": "Source: Proceeding. Year: 2024.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2133,8 +2038,7 @@
           "url": "https://campustechnology.com/Articles/2024/07/08/Learning-Engineering-New-Profession-or-Transformational-Process.aspx",
           "context": "Source: Campus Technology Q&A. Author(s): Q&A with Ellen Wagner by Mary Grush. Type: Article. Year: 2024.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2146,8 +2050,7 @@
           "url": "https://www.yetanalytics.com/learningengineering",
           "context": "Source: Website. Author(s): Shelly Blake-Plock and team. Year: 2017.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2159,8 +2062,7 @@
           "url": "https://www.youtube.com/playlist?list=PLhrOETQQiHyqsizqcBLG4SD1U44-dVCaQ",
           "context": "Source: QIP. Author(s): QIP. Type: Videos on what is learning engineering based on toolkit. Year: 2024.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "GL",
           "status": "APPROVED",
@@ -2172,8 +2074,7 @@
           "url": "https://link.springer.com/chapter/10.1007/978-3-031-92967-0_6",
           "context": "Source: Adaptive Instructional Systems. HCII 2025. Author(s): James R. Paradiso, Nicole Lapeyrouse, Cameron Bechard & Paula Libos. Type: Conference. Year: 2025.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -2185,8 +2086,7 @@
           "url": "https://link.springer.com/epdf/10.1007/s11528-025-01076-y?sharing_token=mrBeVHduSO-RqfsC97UHyfe4RwlQNchNByi7wbcMAY6qP46mxdNoo15tkG5HsPXQ1X94enV-ANeEbh9UX4bw9fdvIJOfs5W9xXDyG_-rTOOElDjZwjUcVhFrgUcF76jZA_2BZahn3_0_V3bD7k-IhfmkhHkWbayRwGEpmCYK-FM%3D",
           "context": "Source: AECT TechTrends. Author(s): Lauren Totino & Aaron Kessler. Type: Journal. Year: 2025.",
           "topic_codes": [
-            "T16",
-            "T00"
+            "T16"
           ],
           "content_type": "AP",
           "status": "APPROVED",
@@ -2198,10 +2098,61 @@
           "url": "https://www.youtube.com/@graileai/videos",
           "context": "Source: Empowering Learnings in the Age of AI Conference. Year: 2022.",
           "topic_codes": [
+            "T16"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-084",
+          "title": "CMU Simon Inititative Learning Engineering Community",
+          "url": "https://www.cmu.edu/simon/open-simon/",
+          "context": "Source: CMU: Open Simon. Type: Resources.",
+          "topic_codes": [
             "T16",
             "T00"
           ],
           "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-086",
+          "title": "CMU Learn Lab Learning Science and Engineering Seminar Series",
+          "url": "https://learnlab.org/learning-science-and-engineering-seminar/",
+          "context": "Source: CMU Learn Lab Learning. Author(s): CMU Learn Lab Learning. Type: Talks. Year: 2022.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-088",
+          "title": "ASU Learning Engineering Institute website",
+          "url": "https://learningengineering.asu.edu/",
+          "context": "",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-GL-091",
+          "title": "ASU LE Research Network 2026 Convening",
+          "url": "https://edtecharchives.org/journal/2551/",
+          "context": "Source: ASU. Type: convenings. Year: 2026.",
+          "topic_codes": [
+            "T16",
+            "T00"
+          ],
+          "content_type": "CE",
           "status": "APPROVED",
           "section": "T16 Standards, Credentialing & Community"
         },
