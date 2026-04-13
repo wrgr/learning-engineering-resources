@@ -8,6 +8,7 @@ import unittest
 from pathlib import Path
 
 from scripts.scrape_learning_engineers import (
+    COMPANY_LEADS_PATH,
     _DDGParser,
     _dedup_key,
     append_record,
@@ -18,6 +19,7 @@ from scripts.scrape_learning_engineers import (
     next_person_id,
     parse_github_user,
     parse_snippet_for_person,
+    run_reverse_company_search,
 )
 
 
@@ -50,6 +52,13 @@ class TitleFilterTests(unittest.TestCase):
 
     def test_rejects_machine_learning_engineer(self) -> None:
         self.assertFalse(is_le_title("Machine Learning Engineer at Big Co"))
+
+    def test_rejects_deep_learning_engineer(self) -> None:
+        self.assertFalse(is_le_title("Deep Learning Engineer at Intel"))
+
+    def test_accepts_le_who_mentions_deep_learning(self) -> None:
+        """An ed-tech LE whose bio mentions deep learning should not be excluded."""
+        self.assertTrue(is_le_title("Learning Engineer at Duolingo, uses deep learning for personalisation"))
 
     def test_rejects_machine_learning_in_context(self) -> None:
         self.assertFalse(is_le_title("I'm a learning engineer focused on machine learning"))
@@ -162,6 +171,18 @@ class SnippetParserTests(unittest.TestCase):
             self._result(snippet="A learning engineer worked here"), self._TODAY
         )
         self.assertIsNone(rec)
+
+
+class ReverseSearchTests(unittest.TestCase):
+    def test_no_leads_file_returns_zero(self) -> None:
+        """run_reverse_company_search returns 0 when company_leads.jsonl is absent."""
+        import unittest.mock as mock
+        with mock.patch(
+            "scripts.scrape_learning_engineers.COMPANY_LEADS_PATH",
+            new=Path("/nonexistent/company_leads.jsonl"),
+        ):
+            result = run_reverse_company_search(set(), "2026-04-13", Path("/tmp/out.jsonl"))
+        self.assertEqual(result, 0)
 
 
 class DDGParserTests(unittest.TestCase):

@@ -36,7 +36,11 @@ GITHUB_SLEEP_AUTH_SEC = 1.0
 WEB_SLEEP_SEC = 4.0
 PROGRESS_INTERVAL = 10  # print running totals every N profiles inspected
 
-_ML_EXCLUDE = re.compile(r"\bmachine\s+learning\b", re.IGNORECASE)
+# Reject "machine learning" anywhere in text, and "deep learning engineer" as a title phrase.
+# Note: "deep learning" alone is NOT rejected — a genuine LE might mention it in context.
+_ML_EXCLUDE = re.compile(
+    r"\bmachine\s+learning\b|\bdeep\s+learning\s+engineer\b", re.IGNORECASE
+)
 _LE_INCLUDE = re.compile(r"\blearning\s+engineer", re.IGNORECASE)
 
 _SENIORITY = r"(?:Senior |Lead |Principal |Staff |Associate )?"
@@ -73,20 +77,32 @@ _SNIPPET_NAME_TITLE = [
         rf"^{_NAME},\s+{_SENIORITY}learning engineer{_ORG}",
         re.IGNORECASE,
     ),
+    # Byline: "By Name, Learning Engineer at Org" or "By Name — Learning Engineer at Org"
+    re.compile(
+        rf"[Bb]y\s+{_NAME}[,\s–-]+{_SENIORITY}learning engineer{_ORG}",
+        re.IGNORECASE,
+    ),
 ]
 
 DDG_QUERIES = [
-    # Exact intro phrases that only appear when naming a specific person with this title
-    '"a learning engineer at"',
-    '", a senior learning engineer" OR ", a lead learning engineer" OR ", a principal learning engineer"',
     # Conference abstract format: "Name (Learning Engineer, Org)"
     '"(learning engineer," OR "(senior learning engineer"',
     # Speaker/author bio pages from known ed-tech publications
-    '"learning engineer" speaker OR author site:gettingsmart.com OR site:edsurge.com OR site:the-learning-agency.com',
-    # Known employer articles/press that name their Learning Engineers
-    '"learning engineer" "carnegie learning" OR "amplify" OR "newsela" OR "ETS" OR "duolingo" bio OR profile OR team',
-    # ICICLE community — members often publish with their title
+    '"learning engineer" author OR speaker site:edsurge.com OR site:gettingsmart.com OR site:the-learning-agency.com',
+    # ATD DevLearn conference — speaker bios with explicit titles
+    '"learning engineer" speaker site:td.org OR site:devlearn.org OR site:elearningguild.com',
+    # ICICLE / IEEE learning engineering community members
     '"learning engineer" site:sagroups.ieee.org OR site:ieeexplore.ieee.org',
+    # Ed-tech company staff/team pages with structured bios
+    '"learning engineer" site:amplify.com OR site:carnegielearning.com OR site:khanacademy.org',
+    # EDUCAUSE — higher-ed tech conference, many LE titles in higher ed
+    '"learning engineer" site:educause.edu speaker OR presenter OR bio',
+    # "is a learning engineer" intro phrase — only in editorial/bio text
+    '"is a learning engineer at" -"machine" -"deep" -"robot"',
+    # ISTE conference participants (major K-12 ed-tech conference)
+    '"learning engineer" site:iste.org speaker OR presenter',
+    # Named individuals with explicit title in articles about their work
+    '"learning engineer at carnegie" OR "learning engineer at amplify" OR "learning engineer at ETS" OR "learning engineer at duolingo"',
 ]
 
 
@@ -220,7 +236,11 @@ def github_sleep_sec() -> float:
 # ---------------------------------------------------------------------------
 
 def fetch_github_users(limit: int = GITHUB_API_MAX_RESULTS) -> list[dict]:
-    """Search GitHub for users whose bio contains 'learning engineer' (max 1000)."""
+    """Search GitHub for users whose bio contains 'learning engineer' (max 1000).
+
+    The NOT clauses reduce deep/machine learning engineer noise at the API level
+    so that per-page result quota is spent on more likely ed-tech matches.
+    """
     results: list[dict] = []
     page = 1
     per_page = 30  # GitHub caps user search results at 30/page
@@ -228,7 +248,11 @@ def fetch_github_users(limit: int = GITHUB_API_MAX_RESULTS) -> list[dict]:
     cap = min(limit, GITHUB_API_MAX_RESULTS)
     while len(results) < cap:
         params = urllib.parse.urlencode(
-            {"q": "learning engineer in:bio", "per_page": per_page, "page": page}
+            {
+                "q": '"learning engineer" in:bio NOT "machine learning" NOT "deep learning"',
+                "per_page": per_page,
+                "page": page,
+            }
         )
         url = f"{GITHUB_API_BASE}/search/users?{params}"
         try:
@@ -473,6 +497,16 @@ JOB_BOARD_QUERIES = [
     '"learning engineer" lms OR "learning management"',
 ]
 
+# Per-company query templates for reverse lookup from company leads.
+# {company} is substituted at runtime.
+# The LinkedIn variant surfaces public profile snippets via SERP — direct scraping is ToS-violating
+# but search engine result snippets for linkedin.com/in URLs are freely accessible.
+REVERSE_QUERY_TEMPLATES = [
+    '"{company}" "learning engineer" -"machine learning"',
+    '"{company}" "learning engineer" profile OR bio OR team -"machine learning"',
+    'site:linkedin.com/in "learning engineer" "{company}" -"machine learning"',
+]
+
 # Patterns to extract company name from ATS job posting page titles
 # e.g. "Senior Learning Engineer at Duolingo | Greenhouse"
 _JOB_TITLE_PATTERNS = [
@@ -545,6 +579,61 @@ def run_job_board_source(today: str) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Reverse company search (company leads → named individuals)
+# ---------------------------------------------------------------------------
+
+def run_reverse_company_search(
+    existing_keys: set[str], today: str, out_path: Path
+) -> int:
+    """Search for named Learning Engineers at each company in company_leads.jsonl.
+
+    For each company, runs REVERSE_QUERY_TEMPLATES through the web search API —
+    including a LinkedIn SERP query that surfaces public profile snippets without
+    direct scraping (which would violate LinkedIn ToS).
+    """
+    if not COMPANY_LEADS_PATH.is_file():
+        print("[reverse] No company_leads.jsonl found; run --jobs first.")
+        return 0
+    companies: list[str] = []
+    for line in COMPANY_LEADS_PATH.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            rec = json.loads(line)
+            c = rec.get("company", "").strip()
+            if c and c not in companies:
+                companies.append(c)
+        except json.JSONDecodeError:
+            continue
+    if not companies:
+        print("[reverse] No companies in company_leads.jsonl.")
+        return 0
+    print(f"[reverse] {len(companies)} company lead(s): {', '.join(companies)}")
+    found = 0
+    for company in companies:
+        for template in REVERSE_QUERY_TEMPLATES:
+            query = template.format(company=company)
+            print(f"[reverse] Query: {query}")
+            results = fetch_web_results(query)
+            print(f"  {len(results)} results")
+            for result in results:
+                record = parse_snippet_for_person(result, today)
+                if record is None:
+                    continue
+                key = _dedup_key(record["name"], record["organization"])
+                if key in existing_keys:
+                    continue
+                existing_keys.add(key)
+                record["person_id"] = next_person_id(out_path)
+                append_record(record, out_path)
+                found += 1
+                print(f"  [reverse] + {record['name']} ({record['organization']})")
+            time.sleep(WEB_SLEEP_SEC)
+    return found
+
+
+# ---------------------------------------------------------------------------
 # Stats
 # ---------------------------------------------------------------------------
 
@@ -597,6 +686,11 @@ def main() -> None:
         action="store_true",
         help="Search public job boards (Greenhouse, Lever, Ashby) for LE postings",
     )
+    parser.add_argument(
+        "--reverse",
+        action="store_true",
+        help="Reverse-search company_leads.jsonl to find named individuals (includes LinkedIn SERP)",
+    )
     parser.add_argument("--stats", action="store_true", help="Print database stats and exit")
     parser.add_argument(
         "--limit",
@@ -611,10 +705,11 @@ def main() -> None:
         return
 
     # Default: run all sources when no source flag is given
-    no_source_flags = not args.github and not args.web and not args.jobs
+    no_source_flags = not args.github and not args.web and not args.jobs and not args.reverse
     run_github = args.github or no_source_flags
     run_web = args.web or no_source_flags
     run_jobs = args.jobs or no_source_flags
+    run_reverse = args.reverse or no_source_flags
 
     today = date.today().isoformat()
     existing_keys = load_existing_keys(OUTPUT_PATH)
@@ -633,6 +728,9 @@ def main() -> None:
         for lead in job_leads:
             append_record(lead, COMPANY_LEADS_PATH)
         print(f"  {len(job_leads)} new company lead(s) written to {COMPANY_LEADS_PATH}")
+
+    if run_reverse:
+        total_people += run_reverse_company_search(existing_keys, today, out_path=OUTPUT_PATH)
 
     print(f"\nDone. {total_people} new person record(s) written to {OUTPUT_PATH}")
     print_stats(OUTPUT_PATH, COMPANY_LEADS_PATH)
