@@ -77,6 +77,55 @@ From `data/build_summary.json`:
 - Graph nodes: `339`
 - Graph edges: `1261`
 
+## People Database
+
+`data/people.jsonl` is a scraped registry of practitioners who carry **"Learning Engineer"**
+in their actual job title (Machine Learning Engineers are excluded by filter).
+
+### Building / updating the database
+
+```bash
+# Run both sources (GitHub API + DuckDuckGo web search):
+python3 scripts/scrape_learning_engineers.py
+
+# GitHub only (structured, higher confidence):
+python3 scripts/scrape_learning_engineers.py --github
+
+# Web search only (broader discovery, snippets need verification):
+python3 scripts/scrape_learning_engineers.py --web
+
+# Limit GitHub profile inspections (default 300):
+python3 scripts/scrape_learning_engineers.py --github --limit 100
+```
+
+Set `GITHUB_TOKEN` in your environment to raise the GitHub API rate limit from
+10 req/min to 5,000 req/hr:
+
+```bash
+export GITHUB_TOKEN=ghp_...
+python3 scripts/scrape_learning_engineers.py --github
+```
+
+### Record schema (`data/people.jsonl`)
+
+| Field | Description |
+|---|---|
+| `person_id` | Sequential `LP-NNN` identifier |
+| `name` | Display name |
+| `title_as_found` | Title phrase as it appeared in the source |
+| `organization` | Employer / affiliation |
+| `source_url` | URL where the person was found |
+| `source_type` | `github_api` or `web_search_snippet` |
+| `profile_urls` | Known public profile links |
+| `location` | Self-reported location (GitHub only) |
+| `bio_snippet` | Up to 300 chars of bio/context |
+| `date_collected` | ISO date of collection |
+| `verified` | `false` until manually confirmed |
+| `notes` | Curation notes |
+
+Records from `web_search_snippet` are heuristic extractions and should be
+manually reviewed before being treated as authoritative.
+
 ## Notes
 
 - Website code was restored from `feature/vertex-rag` and updated to use the fresh corpus data model.
