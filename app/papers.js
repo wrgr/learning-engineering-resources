@@ -72,7 +72,10 @@ function summarizeAbstract(raw, paperType, isProxy) {
   };
 }
 
-export function buildPaperRows(seedPapers, hopPapers, endnotesEnriched) {
+/**
+ * @param {{ papers?: object[] }} [mergedLanePapers] - Optional broad-corpus lane (merged edition).
+ */
+export function buildPaperRows(seedPapers, hopPapers, endnotesEnriched, mergedLanePapers) {
   const workMeta = new Map();
   for (const row of endnotesEnriched.rows || []) {
     if (!row.work_id) continue;
@@ -97,16 +100,22 @@ export function buildPaperRows(seedPapers, hopPapers, endnotesEnriched) {
     const mergedTopics = new Set([...(meta ? [...meta.topics] : []), ...directTopics]);
     const artifactType =
       paper.artifact_type ||
-      (scope === "seed" ? "paper_like" : "derived_one_hop");
+      (scope === "seed" ? "paper_like" : scope === "hop" ? "derived_one_hop" : "derived_merged_lane");
 
     const artifactTypesSet = new Set(meta ? [...meta.artifactTypes] : [artifactType]);
     if (scope === "hop") {
       artifactTypesSet.add("derived_one_hop");
     }
+    if (scope === "merged") {
+      artifactTypesSet.add("derived_merged_lane");
+    }
+
+    const corpusTier = paper.corpus_tier === "expanded" ? "expanded" : "core";
 
     return {
       ...paper,
       scope,
+      corpus_tier: corpusTier,
       topic_codes: [...mergedTopics],
       artifactTypes: [...artifactTypesSet].sort(),
       matchedNoteCount: meta ? meta.notes.size : 0,
@@ -116,5 +125,6 @@ export function buildPaperRows(seedPapers, hopPapers, endnotesEnriched) {
 
   const seedRows = (seedPapers.papers || []).map((paper) => toPaper(paper, "seed"));
   const hopRows = (hopPapers.papers || []).map((paper) => toPaper(paper, "hop"));
-  return [...seedRows, ...hopRows];
+  const mergedRows = (mergedLanePapers?.papers || []).map((paper) => toPaper(paper, "merged"));
+  return [...seedRows, ...hopRows, ...mergedRows];
 }

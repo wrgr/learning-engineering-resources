@@ -1,4 +1,4 @@
-import { DATA_FILES } from "./constants.js";
+import { getDataFiles } from "./constants.js";
 import { buildEntityDirectory, enrichResourceEntities } from "./entities.js";
 import { appendAcademicProgramRowsFromSummary } from "./programResourceBridge.js";
 import { mergePrograms } from "./programs.js";
@@ -35,6 +35,8 @@ function normalizePaper(paper) {
     topic_codes: (paper.topic_codes || []).map((code) => cleanText(code)).filter(Boolean),
     topic_names: (paper.topic_names || []).map((name) => cleanText(name)).filter(Boolean),
     artifact_type: cleanText(paper.artifact_type || "paper_like"),
+    corpus_tier: paper.corpus_tier === "expanded" ? "expanded" : "core",
+    source_lane: cleanText(paper.source_lane || ""),
   };
 }
 
@@ -84,14 +86,20 @@ function normalizeEndnotesEnriched(rawEndnotes) {
 function normalizeGraph(rawGraph) {
   return {
     ...rawGraph,
-    nodes: (rawGraph.nodes || []).map((node) => ({
-      ...node,
-      id: cleanText(node.id),
-      label: cleanText(node.label || node.id),
-      type: cleanText(node.type || "unknown"),
-      hop: Number(node.hop || 0),
-      chapter: Number(node.chapter),
-    })),
+    nodes: (rawGraph.nodes || []).map((node) => {
+      const base = {
+        ...node,
+        id: cleanText(node.id),
+        label: cleanText(node.label || node.id),
+        type: cleanText(node.type || "unknown"),
+        hop: Number(node.hop || 0),
+        chapter: Number(node.chapter),
+      };
+      if (node.corpus_tier === "expanded" || node.corpus_tier === "core") {
+        return { ...base, corpus_tier: node.corpus_tier };
+      }
+      return base;
+    }),
     edges: (rawGraph.edges || []).map((edge) => ({
       ...edge,
       source: cleanText(edge.source),
@@ -129,9 +137,15 @@ function normalizeExtraDocs(rawExtraDocs) {
   };
 }
 
-export async function loadAllData() {
+/**
+ * Loads site JSON bundles. Pass `edition: "merged"` for the broadened graph + merged-lane papers.
+ * @param {{ edition?: "classic"|"merged" }} options
+ */
+export async function loadAllData(options = {}) {
+  const edition = options.edition === "merged" ? "merged" : "classic";
+  const files = getDataFiles(edition);
   const loaded = Object.fromEntries(
-    await Promise.all(Object.entries(DATA_FILES).map(async ([key, config]) => [key, await fetchJson(config)]))
+    await Promise.all(Object.entries(files).map(async ([key, config]) => [key, await fetchJson(config)]))
   );
 
   const { resources, resourceRows } = normalizeResources(loaded.resources, loaded.programs);
@@ -139,7 +153,10 @@ export async function loadAllData() {
   const programs = mergePrograms(loaded.programs || {});
   const entities = buildEntityDirectory(resourceRows, programs);
 
+  const mergedLaneRaw = loaded.mergedLane || { papers: [] };
+
   return {
+    edition,
     summary: loaded.summary,
     topicMap: loaded.topicMap,
     resources,
@@ -153,6 +170,9 @@ export async function loadAllData() {
     hopPapers: {
       ...loaded.hopPapers,
       papers: (loaded.hopPapers.papers || []).map(normalizePaper),
+    },
+    mergedLanePapers: {
+      papers: (mergedLaneRaw.papers || []).map(normalizePaper),
     },
     endnotesRaw: normalizeEndnotesRaw(loaded.endnotesRaw),
     endnotesEnriched: normalizeEndnotesEnriched(loaded.endnotesEnriched),

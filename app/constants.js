@@ -1,6 +1,5 @@
-export const DATA_FILES = {
-  summary: { path: "data/build_summary.json" },
-  graph: { path: "data/graph.json" },
+/** Shared paths between classic and merged editions (seed/hop papers and endnotes stay in `data/`). */
+const SHARED_DATA_FILES = {
   topicMap: { path: "data/topic_map.json" },
   resources: { path: "data/icicle_resources.json" },
   seedPapers: { path: "data/papers_seed.json" },
@@ -15,6 +14,33 @@ export const DATA_FILES = {
     fallback: { count: 0, documents: [] },
   },
 };
+
+/** Default site: summary + graph under `data/`. */
+export const DATA_FILES_CLASSIC = {
+  ...SHARED_DATA_FILES,
+  summary: { path: "data/build_summary.json" },
+  graph: { path: "data/graph.json" },
+};
+
+/** Broadened edition: merged summary/graph + optional merged-lane papers (distilled core vs expanded). */
+export const DATA_FILES_MERGED = {
+  ...SHARED_DATA_FILES,
+  summary: { path: "data/merged/build_summary.json" },
+  graph: { path: "data/merged/graph.json" },
+  mergedLane: {
+    path: "data/merged/papers_merged_lane.json",
+    optional: true,
+    fallback: { papers: [] },
+  },
+};
+
+/** @param {"classic"|"merged"} edition */
+export function getDataFiles(edition) {
+  return edition === "merged" ? DATA_FILES_MERGED : DATA_FILES_CLASSIC;
+}
+
+/** @deprecated Use getDataFiles(getDataEdition()) — kept for grep/lint compatibility. */
+export const DATA_FILES = DATA_FILES_CLASSIC;
 
 export const RESOURCE_GROUP_ORDER = [
   "People & Teams",
@@ -49,6 +75,7 @@ export const NODE_COLORS = {
   concept: "#6d28d9",
   paper_seed: "#1d4ed8",
   paper_hop: "#a16207",
+  paper_merged: "#7c3aed",
   resource: "#0f766e",
   unknown: "#94a3b8",
 };

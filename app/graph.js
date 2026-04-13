@@ -38,8 +38,18 @@ export function matchesGraphNodeFilters(node, query, typeFilter, neighborIndex, 
   return node.type === typeFilter;
 }
 
-export function computeVisibleGraph(graph, includeHop) {
-  const nodes = (graph.nodes || []).filter((node) => includeHop || node.hop === 0).map((node) => ({ ...node }));
+/**
+ * @param {boolean} includeHop - When false, hide hop&gt;0 paper nodes (related expansion on graph).
+ * @param {boolean} [showExpanded=true] - When false, hide nodes with corpus_tier "expanded" (merged edition Core view).
+ */
+export function computeVisibleGraph(graph, includeHop, showExpanded = true) {
+  const nodes = (graph.nodes || [])
+    .filter((node) => {
+      if (!includeHop && (node.hop || 0) > 0) return false;
+      if (!showExpanded && node.corpus_tier === "expanded") return false;
+      return true;
+    })
+    .map((node) => ({ ...node }));
   const visibleIds = new Set(nodes.map((node) => node.id));
   const links = (graph.edges || [])
     .filter((edge) => visibleIds.has(edge.source) && visibleIds.has(edge.target))
