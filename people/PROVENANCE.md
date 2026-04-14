@@ -77,7 +77,7 @@ Each entry records one discrete search action. `raw_file` links to the file in `
 - **Scope:** Global
 - **Query string:** `"learning engineer" NOT ("machine" OR "deep" OR "robot" OR "reinforcement")`
 - **URL:** `https://www.linkedin.com/search/results/people/?keywords=%22learning%20engineer%22%20NOT%20%28%22machine%22%20OR%20%22deep%22%20OR%20%22robot%22%20OR%20%22reinforcement%22%29&origin=FACETED_SEARCH`
-- **Run count:** 2 (same query run twice)
+- **Run count:** 1
 - **Result count:** _[to be filled when results pasted]_
 - **Raw file:** `people/raw/Q004_LI_keyword_global_broad_exclusions.jsonl`
 - **Notes:** Broadest exclusion set — single words rather than phrases, so e.g. any profile mentioning "machine" at all is excluded; may over-exclude. Results to follow.
