@@ -7,6 +7,26 @@
 
 ---
 
+## Methodology artifacts
+
+| File | Purpose |
+|------|---------|
+| `people/companies.json` | Curated company seed list (~120 orgs, 11 tiers); read by scraper scripts |
+| `scripts/github_le_search.py` | GitHub bio search via date-range bisection; writes to `people/raw/GH_bio_search_DATE.jsonl` |
+| `scripts/web_le_search.py` | Brave Search per-company queries; writes to `people/raw/WS_company_search_DATE.jsonl` |
+
+Run commands:
+```bash
+# GitHub (requires GITHUB_TOKEN env var)
+python3 scripts/github_le_search.py
+
+# Web search per company (requires BRAVE_API_KEY env var)
+python3 scripts/web_le_search.py --tiers 1 2   # specific tiers
+python3 scripts/web_le_search.py                # all tiers
+```
+
+---
+
 ## Source inventory
 
 | Source ID | Platform | Access method | Known limitations |
