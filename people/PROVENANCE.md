@@ -70,6 +70,44 @@ Each entry records one discrete search action. `raw_file` links to the file in `
 
 <!-- Add new query blocks here. Copy the template below. -->
 
+### Q004
+- **Date:** 2026-04-14
+- **Source:** LI (LinkedIn)
+- **Query type:** Keyword search — broad term exclusions
+- **Scope:** Global
+- **Query string:** `"learning engineer" NOT ("machine" OR "deep" OR "robot" OR "reinforcement")`
+- **URL:** `https://www.linkedin.com/search/results/people/?keywords=%22learning%20engineer%22%20NOT%20%28%22machine%22%20OR%20%22deep%22%20OR%20%22robot%22%20OR%20%22reinforcement%22%29&origin=FACETED_SEARCH`
+- **Run count:** 2 (same query run twice; results may differ due to LinkedIn session/cache)
+- **Result count:** _[to be filled when results pasted]_
+- **Raw file:** `people/raw/Q004_LI_keyword_global_broad_exclusions.jsonl`
+- **Notes:** Broadest exclusion set — single words rather than phrases, so e.g. any profile mentioning "machine" at all is excluded; may over-exclude. Results to follow.
+
+---
+
+### Q005
+- **Date:** 2026-04-14
+- **Source:** LI (LinkedIn)
+- **Query type:** Keyword search — phrase exclusions
+- **Scope:** Global
+- **Query string:** `"learning engineer" NOT ("machine learning" OR "reinforcement learning" OR "robot learning" OR "deep learning")`
+- **URL:** `https://www.linkedin.com/search/results/people/?keywords=%22learning%20engineer%22%20NOT%20%28%22machine%20learning%22%20OR%20%22reinforcement%20learning%22%20OR%20%22robot%20learning%22%20OR%20%22deep%20learning%22%29&origin=TYPEAHEAD_ESCAPE_HATCH`
+- **Result count:** _[to be filled when results pasted]_
+- **Raw file:** `people/raw/Q005_LI_keyword_global_phrase_exclusions.jsonl`
+- **Notes:** Narrower exclusion logic than Q004 (full phrases, not single words); should retain more true LE results. Origin=TYPEAHEAD_ESCAPE_HATCH suggests it was entered via the main search bar.
+
+---
+
+### Q006
+- **Date:** 2026-04-14
+- **Source:** LI (LinkedIn)
+- **Query type:** Title field search — phrase exclusions
+- **Scope:** Global
+- **Query string:** `title:"learning engineer" NOT ("machine learning" OR "reinforcement learning" OR "robot learning" OR "deep learning")`
+- **URL:** `https://www.linkedin.com/search/results/people/?keywords=title%3A%22learning%20engineer%22%20NOT%20%28%22machine%20learning%22%20OR%20%22reinforcement%20learning%22%20OR%20%22robot%20learning%22%20OR%20%22deep%20learning%22%29&origin=GLOBAL_SEARCH_HEADER`
+- **Result count:** _[to be filled when results pasted]_
+- **Raw file:** `people/raw/Q006_LI_title_global_phrase_exclusions.jsonl`
+- **Notes:** Title-scoped search; most precise of the three LI queries — requires "learning engineer" to appear in the job title field specifically. Should yield highest-confidence self-IDs.
+
 <!--
 ### QXXX
 - **Date:** 2026-04-14
