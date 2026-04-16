@@ -1,0 +1,28 @@
+---
+import Base from "../layouts/Base.astro";
+import SectionHero from "../components/SectionHero.astro";
+import SectionGrid from "../components/SectionGrid.astro";
+import { getCollection } from "astro:content";
+
+const entries = await getCollection("practice");
+---
+
+<Base title="Practice · Learning Engineering" active="practice">
+  <SectionHero
+    eyebrow="Practice"
+    title="Process, methods &amp; frameworks"
+    question="How do learning engineers structure their work — and what techniques do they apply?"
+    count={entries.length}
+  />
+  <SectionGrid
+    collection="practice"
+    formatOrder={["diagram", "framework", "method", "template", "toolkit"]}
+    groupHeadings={{
+      diagram: "Process diagrams & checklists",
+      framework: "Frameworks & maturity models",
+      method: "Analysis techniques & templates",
+      template: "Templates",
+      toolkit: "Toolkits",
+    }}
+  />
+</Base>

@@ -1,0 +1,271 @@
+---
+// Community page: four curated subheadings — Study groups · Conferences · Institutions · People.
+// Conferences are pulled in from the Events collection as cross-references.
+
+import Base from "../layouts/Base.astro";
+import SectionHero from "../components/SectionHero.astro";
+import Card from "../components/Card.astro";
+import { getCollection, render } from "astro:content";
+
+type CommEntry = Awaited<ReturnType<typeof getCollection<"community">>>[number];
+type EventEntry = Awaited<ReturnType<typeof getCollection<"events">>>[number];
+
+const community = await getCollection("community");
+const eventsAll = await getCollection("events");
+
+const STUDY_GROUP_KEYWORDS = [
+  " sig", " mig", "working group", "community", "incubator",
+  "learnlab", "consortium", "initiative", "lab ",
+];
+
+function isStudyGroup(e: CommEntry): boolean {
+  const name = e.data.title.toLowerCase();
+  // Orgs explicitly named SIG/MIG or working groups, or other working-group-like bodies
+  if (e.data.format !== "org" && e.data.format !== "program") return false;
+  if (name.includes("sigs & migs") || name.includes(" sig") || name.includes(" mig")) return true;
+  if (STUDY_GROUP_KEYWORDS.some((k) => name.includes(k))) return true;
+  return false;
+}
+
+function isConferenceFromCommunity(e: CommEntry): boolean {
+  const name = e.data.title.toLowerCase();
+  return (
+    e.data.format === "event" ||
+    name.includes("conference") ||
+    name.includes("summit") ||
+    name.includes("annual meeting") ||
+    name.includes("i/itsec")
+  );
+}
+
+// Partition the community collection into four buckets.
+const study: CommEntry[] = [];
+const conferencesFromCommunity: CommEntry[] = [];
+const institutions: CommEntry[] = [];
+const people: CommEntry[] = [];
+
+for (const entry of community) {
+  if (entry.data.format === "person") {
+    people.push(entry);
+    continue;
+  }
+  if (isConferenceFromCommunity(entry)) {
+    conferencesFromCommunity.push(entry);
+    continue;
+  }
+  if (isStudyGroup(entry)) {
+    study.push(entry);
+    continue;
+  }
+  // Institutions catch-all: format=institution, format=org (not a study group),
+  // format=program, or anything unclassified.
+  institutions.push(entry);
+}
+
+// Pull conferences from the Events collection (recurring venues) and render them here too.
+const conferencesFromEvents: EventEntry[] = eventsAll.filter(
+  (e) => e.data.format === "conference" || e.data.format === "series",
+);
+
+// Sort each bucket: institutions first so deeply-sourced ones (CMU, MIT, JHU, ASU, IEEE ICICLE) lead.
+const INST_PRIORITY: Record<string, number> = {
+  "IEEE ICICLE": 1,
+  "Carnegie Mellon University": 2,
+  "Johns Hopkins University": 3,
+  "Arizona State University": 4,
+  "Massachusetts Institute of Technology": 5,
+};
+
+institutions.sort((a, b) => {
+  const ap = INST_PRIORITY[a.data.title] ?? (a.data.format === "institution" ? 10 : 20);
+  const bp = INST_PRIORITY[b.data.title] ?? (b.data.format === "institution" ? 10 : 20);
+  return ap - bp || a.data.title.localeCompare(b.data.title);
+});
+people.sort((a, b) => a.data.title.localeCompare(b.data.title));
+study.sort((a, b) => a.data.title.localeCompare(b.data.title));
+conferencesFromCommunity.sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+// Pre-render all bodies for the three community buckets (events don't need bodies here).
+const toRender = [...study, ...conferencesFromCommunity, ...institutions, ...people];
+const rendered = await Promise.all(
+  toRender.map(async (entry) => {
+    const { Content } = await render(entry);
+    return [entry.id, Content] as const;
+  }),
+);
+const bodyMap = new Map(rendered);
+
+const totalCount =
+  study.length + conferencesFromCommunity.length + conferencesFromEvents.length +
+  institutions.length + people.length;
+---
+
+<Base title="Community · Learning Engineering" active="community">
+  <SectionHero
+    eyebrow="Community"
+    title="Study groups, conferences, institutions &amp; people"
+    question="Where does the field live — who convenes, where is it practiced, and who does the work?"
+    count={totalCount}
+  />
+
+  <div class="section-grid container">
+
+    <section class="group">
+      <h2 class="group-heading">
+        Study groups <span class="count muted">({study.length})</span>
+      </h2>
+      <p class="group-note">SIGs, MIGs, working groups, and smaller research bodies inside the larger field.</p>
+      <div class="grid">
+        {study.map((entry) => {
+          const Body = bodyMap.get(entry.id);
+          return (
+            <Card
+              title={entry.data.title}
+              format={entry.data.format}
+              url={entry.data.url}
+              venue={entry.data.venue}
+              cluster={entry.data.cluster}
+              topics={entry.data.topics}
+              missingProvenance={entry.data.missingProvenance}
+            >
+              {Body && <Body />}
+            </Card>
+          );
+        })}
+      </div>
+    </section>
+
+    <section class="group">
+      <h2 class="group-heading">
+        Conferences <span class="count muted">({conferencesFromCommunity.length + conferencesFromEvents.length})</span>
+      </h2>
+      <p class="group-note">
+        Where the field convenes. Individual talks and recordings live on the
+        <a href="/events/">Events</a> page.
+      </p>
+      <div class="grid">
+        {conferencesFromCommunity.map((entry) => {
+          const Body = bodyMap.get(entry.id);
+          return (
+            <Card
+              title={entry.data.title}
+              format={entry.data.format}
+              url={entry.data.url}
+              venue={entry.data.venue}
+              cluster={entry.data.cluster}
+              topics={entry.data.topics}
+              missingProvenance={entry.data.missingProvenance}
+            >
+              {Body && <Body />}
+            </Card>
+          );
+        })}
+        {conferencesFromEvents.map((entry) => (
+          <Card
+            title={entry.data.title}
+            format={entry.data.format}
+            url={entry.data.url}
+            venue={entry.data.venue}
+            authors={entry.data.authors}
+            year={entry.data.year}
+            cluster={entry.data.cluster}
+            topics={entry.data.topics}
+            missingProvenance={entry.data.missingProvenance}
+          >
+            <p class="cross-ref-note">
+              Details &amp; talks on <a href="/events/">Events →</a>
+            </p>
+          </Card>
+        ))}
+      </div>
+    </section>
+
+    <section class="group">
+      <h2 class="group-heading">
+        Institutions <span class="count muted">({institutions.length})</span>
+      </h2>
+      <p class="group-note">Universities, research centers, agencies, and professional societies that host LE work.</p>
+      <div class="grid">
+        {institutions.map((entry) => {
+          const Body = bodyMap.get(entry.id);
+          return (
+            <Card
+              title={entry.data.title}
+              format={entry.data.format}
+              url={entry.data.url}
+              venue={entry.data.venue}
+              cluster={entry.data.cluster}
+              topics={entry.data.topics}
+              missingProvenance={entry.data.missingProvenance}
+            >
+              {Body && <Body />}
+            </Card>
+          );
+        })}
+      </div>
+    </section>
+
+    <section class="group">
+      <h2 class="group-heading">
+        People <span class="count muted">({people.length})</span>
+      </h2>
+      <p class="group-note">ICICLE SIG/MIG leaders and contributors. Associated reading links below each card where we could match authorship.</p>
+      <div class="grid">
+        {people.map((entry) => {
+          const Body = bodyMap.get(entry.id);
+          return (
+            <Card
+              title={entry.data.title}
+              format={entry.data.format}
+              url={entry.data.url}
+              venue={entry.data.venue}
+              cluster={entry.data.cluster}
+              topics={entry.data.topics}
+              missingProvenance={entry.data.missingProvenance}
+            >
+              {Body && <Body />}
+            </Card>
+          );
+        })}
+      </div>
+    </section>
+
+  </div>
+</Base>
+
+<style>
+  .section-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  .group { display: flex; flex-direction: column; gap: .9rem; }
+  .group-heading {
+    font-family: var(--serif);
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin: 0;
+    padding-bottom: .5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .group-note {
+    font-family: var(--sans);
+    font-size: .85rem;
+    color: var(--muted);
+    margin: 0 0 .3rem 0;
+    max-width: var(--measure);
+  }
+  .group-note a { color: var(--accent); }
+  .count { font-size: .95rem; font-weight: 400; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    gap: 1rem;
+  }
+  .cross-ref-note {
+    font-family: var(--sans);
+    font-size: .85rem;
+    color: var(--muted);
+    margin: 0;
+  }
+</style>

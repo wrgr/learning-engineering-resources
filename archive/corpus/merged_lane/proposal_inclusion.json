@@ -1,0 +1,8 @@
+{
+  "description": "Default thresholds for merged_lane_proposal.py (permissive; tighten later or run scripts/prune_merged_lane_offtopic.py after build).",
+  "min_citations": 5,
+  "per_person": 25,
+  "year_min": 1990,
+  "year_max": 2026,
+  "max_pages": 8
+}

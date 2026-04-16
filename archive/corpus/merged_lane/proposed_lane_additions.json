@@ -1,0 +1,1633 @@
+{
+  "generated_at_utc": "2026-04-13T05:56:48.728231+00:00",
+  "parameters": {
+    "per_person": 12,
+    "min_citations": 25,
+    "year_min": 2005,
+    "year_max": 2026,
+    "corpus_tier": "expanded",
+    "only_resource_id": null
+  },
+  "lane_rows": [
+    {
+      "work_id": "W2141506589",
+      "topic_codes": [
+        "T04",
+        "T06",
+        "T07"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-011",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-011",
+      "_proposal_audit": {
+        "title": "Improving the Endosomal Escape of Cell-Penetrating Peptides and Their Cargos: Strategies and Challenges",
+        "publication_year": 2012,
+        "cited_by_count": 369,
+        "type": "review"
+      }
+    },
+    {
+      "work_id": "W2493554588",
+      "topic_codes": [
+        "T00",
+        "T03",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-012",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-012",
+      "_proposal_audit": {
+        "title": "Breakthrough Leadership in the Digital Age: Using Learning Science to Reboot Schooling",
+        "publication_year": 2014,
+        "cited_by_count": 26,
+        "type": "book"
+      }
+    },
+    {
+      "work_id": "W4283166366",
+      "topic_codes": [
+        "T00",
+        "T16",
+        "T03"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-013",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-013",
+      "_proposal_audit": {
+        "title": "Learning Engineering Toolkit",
+        "publication_year": 2022,
+        "cited_by_count": 32,
+        "type": "book"
+      }
+    },
+    {
+      "work_id": "W2584726024",
+      "topic_codes": [
+        "T00",
+        "T16",
+        "T03"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-013",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-013",
+      "_proposal_audit": {
+        "title": "Student-Centered Learning: Functional Requirements for Integrated Systems to Optimize Learning.",
+        "publication_year": 2016,
+        "cited_by_count": 30,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2142733603",
+      "topic_codes": [
+        "T04",
+        "T09",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-014",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-014",
+      "_proposal_audit": {
+        "title": "Design and Discovery in Educational Assessment: Evidence-Centered Design, Psychometrics, and Educational Data Mining",
+        "publication_year": 2012,
+        "cited_by_count": 136,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1520570656",
+      "topic_codes": [
+        "T04",
+        "T09",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-014",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-014",
+      "_proposal_audit": {
+        "title": "Putting ECD into Practice: The Interplay of Theory and Data in Evidence Models within a Digital Learning Environment",
+        "publication_year": 2012,
+        "cited_by_count": 61,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1981810550",
+      "topic_codes": [
+        "T04",
+        "T09",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-014",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-014",
+      "_proposal_audit": {
+        "title": "Design Patterns for Learning and Assessment: Facilitating the Introduction of a Complex Simulation-Based Learning Environment into a Community of Instructors",
+        "publication_year": 2009,
+        "cited_by_count": 57,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2605998206",
+      "topic_codes": [
+        "T04",
+        "T09",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-014",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-014",
+      "_proposal_audit": {
+        "title": "Evidence Centered Design for Learning and Assessment in the Digital World",
+        "publication_year": 2012,
+        "cited_by_count": 54,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2131565876",
+      "topic_codes": [
+        "T04",
+        "T09",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-014",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-014",
+      "_proposal_audit": {
+        "title": "Psychometric and Evidentiary Approaches to Simulation Assessment in Packet Tracer Software",
+        "publication_year": 2009,
+        "cited_by_count": 41,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2530155032",
+      "topic_codes": [
+        "T04",
+        "T09",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-014",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-014",
+      "_proposal_audit": {
+        "title": "Impacts of the Digital Ocean on Education",
+        "publication_year": 2014,
+        "cited_by_count": 35,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1996201838",
+      "topic_codes": [
+        "T04",
+        "T09",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-014",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-014",
+      "_proposal_audit": {
+        "title": "Educational data scientists",
+        "publication_year": 2013,
+        "cited_by_count": 28,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2098008429",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-058",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-058",
+      "_proposal_audit": {
+        "title": "Examination of the Construct Validity of Impact\u2122 Computerized Test, Traditional, and Experimental Neuropsychological Measures",
+        "publication_year": 2010,
+        "cited_by_count": 118,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3036248821",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-058",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-058",
+      "_proposal_audit": {
+        "title": "What should teacher educators know about technology? Perspectives and self-assessments",
+        "publication_year": 2020,
+        "cited_by_count": 71,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2021191764",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-058",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-058",
+      "_proposal_audit": {
+        "title": "Discriminant Construct Validity of ImPACT\u2122: A Companion Study",
+        "publication_year": 2013,
+        "cited_by_count": 47,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3035475861",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-058",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-058",
+      "_proposal_audit": {
+        "title": "Saving a semester of learning: MIT\u2019s emergency transition to online instruction",
+        "publication_year": 2020,
+        "cited_by_count": 32,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2171155897",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-059",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-059",
+      "_proposal_audit": {
+        "title": "Surgical resection of epidural disease improves local control following postoperative spine stereotactic body radiotherapy",
+        "publication_year": 2013,
+        "cited_by_count": 189,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1988797537",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-059",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-059",
+      "_proposal_audit": {
+        "title": "Bone Fractures Following External Beam Radiotherapy and Limb-Preservation Surgery for Lower Extremity Soft Tissue Sarcoma: Relationship to Irradiated Bone Length, Volume, Tumor Location and Dose",
+        "publication_year": 2009,
+        "cited_by_count": 125,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2055179040",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-059",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-059",
+      "_proposal_audit": {
+        "title": "Measuring Interfractional and Intrafractional Motion With Cone Beam Computed Tomography and an Optical Localization System for Lower Extremity Soft Tissue Sarcoma Patients Treated With Preoperative Intensity-Modulated Radiation Therapy",
+        "publication_year": 2010,
+        "cited_by_count": 42,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2011205068",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-059",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-059",
+      "_proposal_audit": {
+        "title": "Active breathing control for patients receiving mediastinal radiation therapy for lymphoma: Impact on normal tissue dose",
+        "publication_year": 2013,
+        "cited_by_count": 40,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2153241357",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-059",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-059",
+      "_proposal_audit": {
+        "title": "The Relationship Between Local Recurrence and Radiotherapy Treatment Volume for Soft Tissue Sarcomas Treated With External Beam Radiotherapy and Function Preservation Surgery",
+        "publication_year": 2011,
+        "cited_by_count": 29,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1978641103",
+      "topic_codes": [
+        "T03",
+        "T16",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-059",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-059",
+      "_proposal_audit": {
+        "title": "A Device and Procedure for Immobilization of Patients Receiving Limb-Preserving Radiotherapy for Soft Tissue Sarcoma",
+        "publication_year": 2008,
+        "cited_by_count": 25,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2089607910",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "Heparan sulfate proteoglycans mediate internalization and propagation of specific proteopathic seeds",
+        "publication_year": 2013,
+        "cited_by_count": 836,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2397309732",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "Structure of spinach photosystem II\u2013LHCII supercomplex at 3.2\u2009\u00c5 resolution",
+        "publication_year": 2016,
+        "cited_by_count": 587,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3021626065",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "Competition for iron drives phytopathogen control by natural rhizosphere microbiomes",
+        "publication_year": 2020,
+        "cited_by_count": 532,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2746181160",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "Structure and assembly mechanism of plant C <sub>2</sub> S <sub>2</sub> M <sub>2</sub> -type PSII-LHCII supercomplex",
+        "publication_year": 2017,
+        "cited_by_count": 394,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2964260760",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "X-ray and UV Dual Photochromism, Thermochromism, Electrochromism, and Amine-Selective Chemochromism in an Anderson-like Zn<sub>7</sub> Cluster-Based 7-Fold Interpenetrated Framework",
+        "publication_year": 2019,
+        "cited_by_count": 344,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2028571118",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "Structural insights into energy regulation of light-harvesting complex CP29 from spinach",
+        "publication_year": 2011,
+        "cited_by_count": 277,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3202606175",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "Discovery of a first-in-class reversible DNMT1-selective inhibitor with improved tolerability and efficacy in acute myeloid leukemia",
+        "publication_year": 2021,
+        "cited_by_count": 266,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1971038644",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "Copper and zinc induction of lipid peroxidation and effects on antioxidant enzyme activities in the microalga Pavlova viridis (Prymnesiophyceae)",
+        "publication_year": 2005,
+        "cited_by_count": 264,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2805446519",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "Structure of the maize photosystem I supercomplex with light-harvesting complexes I and II",
+        "publication_year": 2018,
+        "cited_by_count": 263,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2758364315",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "A Survey on Information Diffusion in Online Social Networks: Models and Methods",
+        "publication_year": 2017,
+        "cited_by_count": 255,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3190474970",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "NSUN2-mediated RNA 5-methylcytosine promotes esophageal squamous cell carcinoma progression via LIN28B-dependent GRB2 mRNA stabilization",
+        "publication_year": 2021,
+        "cited_by_count": 216,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2910471371",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-061",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-061",
+      "_proposal_audit": {
+        "title": "PIWI-interacting RNA-36712 restrains breast cancer progression and chemoresistance by interaction with SEPW1 pseudogene SEPW1P RNA",
+        "publication_year": 2019,
+        "cited_by_count": 196,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2090005769",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Nitrogen\u2010Doped Porous Carbon Nanosheets as Low\u2010Cost, High\u2010Performance Anode Material for Sodium\u2010Ion Batteries",
+        "publication_year": 2012,
+        "cited_by_count": 638,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1964906176",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Metal Organic Frameworks Route to <i>in Situ</i> Insertion of Multiwalled Carbon Nanotubes in Co<sub>3</sub>O<sub>4</sub> Polyhedra as Anode Materials for Lithium-Ion Batteries",
+        "publication_year": 2015,
+        "cited_by_count": 493,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2314906766",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Erythrocyte Membrane Is an Alternative Coating to Polyethylene Glycol for Prolonging the Circulation Lifetime of Gold Nanocages for Photothermal Therapy",
+        "publication_year": 2014,
+        "cited_by_count": 420,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2103321094",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Chemically exfoliated metallic MoS2 nanosheets: A promising supporting co-catalyst for enhancing the photocatalytic performance of TiO2 nanocrystals",
+        "publication_year": 2014,
+        "cited_by_count": 354,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1166011494",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Peanut shell derived hard carbon as ultralong cycling anodes for lithium and sodium batteries",
+        "publication_year": 2015,
+        "cited_by_count": 319,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2946458026",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "ZnCl<sub>2</sub> \u201cWater\u2010in\u2010Salt\u201d Electrolyte Transforms the Performance of Vanadium Oxide as a Zn Battery Cathode",
+        "publication_year": 2019,
+        "cited_by_count": 302,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2134295014",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Na<sub>3</sub>PSe<sub>4</sub>: A Novel Chalcogenide Solid Electrolyte with High Ionic Conductivity",
+        "publication_year": 2015,
+        "cited_by_count": 267,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1996302053",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Hierarchical NiFe<sub>2</sub>O<sub>4</sub>/Fe<sub>2</sub>O<sub>3</sub> nanotubes derived from metal organic frameworks for superior lithium ion battery anodes",
+        "publication_year": 2014,
+        "cited_by_count": 267,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2033121581",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Facile, mild and fast thermal-decomposition reduction of graphene oxide in air and its application in high-performance lithium batteries",
+        "publication_year": 2011,
+        "cited_by_count": 260,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2898808733",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "A high-rate aqueous rechargeable zinc ion battery based on the VS<sub>4</sub>@rGO nanocomposite",
+        "publication_year": 2018,
+        "cited_by_count": 250,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2093885221",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Self-assembly of ultrathin porous NiO nanosheets/graphene hierarchical structure for high-capacity and high-rate lithium storage",
+        "publication_year": 2012,
+        "cited_by_count": 247,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3199117575",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-063",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-063",
+      "_proposal_audit": {
+        "title": "Interfacial Model Deciphering High\u2010Voltage Electrolytes for High Energy Density, High Safety, and Fast\u2010Charging Lithium\u2010Ion Batteries",
+        "publication_year": 2021,
+        "cited_by_count": 235,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2800868251",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-067",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-067",
+      "_proposal_audit": {
+        "title": "MySpace: Social Networking or Social Isolation?",
+        "publication_year": 2007,
+        "cited_by_count": 62,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2946802058",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-067",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-067",
+      "_proposal_audit": {
+        "title": "Does Class Size Matter? An Exploration into Faculty Perceptions of Teaching High-Enrollment Online Courses",
+        "publication_year": 2019,
+        "cited_by_count": 40,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2008895270",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-067",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-067",
+      "_proposal_audit": {
+        "title": "Participation in Internet Fantasy Sports Leagues and Mass Media Use",
+        "publication_year": 2008,
+        "cited_by_count": 33,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2604949810",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-067",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-067",
+      "_proposal_audit": {
+        "title": "The RISE Framework: Using Learning Analytics to Automatically Identify Open Educational Resources for Continuous Improvement",
+        "publication_year": 2017,
+        "cited_by_count": 26,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W4401211033",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "Review of Particle Physics",
+        "publication_year": 2024,
+        "cited_by_count": 2527,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2891839017",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "On the maximal strength of a first-order electroweak phase transition and its gravitational wave signal",
+        "publication_year": 2019,
+        "cited_by_count": 330,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2924287771",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "Gravitational wave energy budget in strongly supercooled phase transitions",
+        "publication_year": 2019,
+        "cited_by_count": 286,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2020192120",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "Starobinsky-like inflationary models as avatars of no-scale supergravity",
+        "publication_year": 2013,
+        "cited_by_count": 282,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3084648816",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "Cosmic String Interpretation of NANOGrav Pulsar Timing Data",
+        "publication_year": 2021,
+        "cited_by_count": 276,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2072329169",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "No-Scale Supergravity Realization of the Starobinsky Model of Inflation",
+        "publication_year": 2013,
+        "cited_by_count": 265,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2116539773",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "The probable fate of the Standard Model",
+        "publication_year": 2009,
+        "cited_by_count": 251,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3158048308",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "Top, Higgs, diboson and electroweak fit to the Standard Model effective field theory",
+        "publication_year": 2020,
+        "cited_by_count": 224,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2139368551",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "Flavour-changing decays of a 125 GeV Higgs-like particle",
+        "publication_year": 2012,
+        "cited_by_count": 223,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2067442253",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "Robust limits on Lorentz violation from gamma-ray bursts",
+        "publication_year": 2006,
+        "cited_by_count": 216,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2103734246",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "Complete Higgs sector constraints on dimension-6 operators",
+        "publication_year": 2014,
+        "cited_by_count": 198,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2198409293",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-071",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-071",
+      "_proposal_audit": {
+        "title": "On the interpretation of a possible \u223c 750 GeV particle decaying into \u03b3\u03b3",
+        "publication_year": 2016,
+        "cited_by_count": 187,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1529668868",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-072",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-072",
+      "_proposal_audit": {
+        "title": "Use of radars to monitor stream discharge by noncontact methods",
+        "publication_year": 2006,
+        "cited_by_count": 187,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1524063150",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-072",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-072",
+      "_proposal_audit": {
+        "title": "An evaluation of selected extraordinary floods in the United States reported by the U.S. Geological Survey and implications for future advancement of flood science",
+        "publication_year": 2008,
+        "cited_by_count": 55,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1980239702",
+      "topic_codes": [
+        "T16",
+        "T13",
+        "T00"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-072",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-072",
+      "_proposal_audit": {
+        "title": "Joint NOAA/NWS/USGS Prototype Debris Flow Warning System for Recently Burned Areas in Southern California",
+        "publication_year": 2008,
+        "cited_by_count": 28,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1990989708",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "The Evolution of Al-Li Base Products for Aerospace and Space Applications",
+        "publication_year": 2012,
+        "cited_by_count": 1013,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W4281674067",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Upadacitinib as induction and maintenance therapy for moderately to severely active ulcerative colitis: results from three phase 3, multicentre, double-blind, randomised trials",
+        "publication_year": 2022,
+        "cited_by_count": 564,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3164705475",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Once-daily upadacitinib versus placebo in adolescents and adults with moderate-to-severe atopic dermatitis (Measure Up 1 and Measure Up 2): results from two replicate double-blind, randomised controlled phase 3 trials",
+        "publication_year": 2021,
+        "cited_by_count": 517,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3189956257",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Efficacy and Safety of Upadacitinib vs Dupilumab in Adults With Moderate-to-Severe Atopic Dermatitis",
+        "publication_year": 2021,
+        "cited_by_count": 464,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2053123023",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Demand forecast sharing in a dual-channel supply chain",
+        "publication_year": 2005,
+        "cited_by_count": 334,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2913568822",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Effects of different protocols of high intensity interval training for VO2max improvements in adults: A meta-analysis of randomised controlled trials",
+        "publication_year": 2019,
+        "cited_by_count": 292,
+        "type": "review"
+      }
+    },
+    {
+      "work_id": "W3147660541",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Trial of Upadacitinib and Adalimumab for Psoriatic Arthritis",
+        "publication_year": 2021,
+        "cited_by_count": 290,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2953343412",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Deep Learning for NLP and Speech Recognition",
+        "publication_year": 2019,
+        "cited_by_count": 251,
+        "type": "book"
+      }
+    },
+    {
+      "work_id": "W2070354308",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Changes in coronal and sagittal plane alignment following minimally invasive direct lateral interbody fusion for the treatment of degenerative lumbar disease in adults: a radiographic study",
+        "publication_year": 2011,
+        "cited_by_count": 238,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1600899541",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Retroperitoneal oblique corridor to the L2\u2013S1 intervertebral discs in the lateral position: an anatomic study",
+        "publication_year": 2014,
+        "cited_by_count": 201,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W4220831188",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Efficacy and Safety of Upadacitinib in Patients With Moderate to Severe Atopic Dermatitis",
+        "publication_year": 2022,
+        "cited_by_count": 193,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W4319656513",
+      "topic_codes": [
+        "T06",
+        "T07",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-081",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-081",
+      "_proposal_audit": {
+        "title": "Safety profile of upadacitinib over 15 000 patient-years across rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and atopic dermatitis",
+        "publication_year": 2023,
+        "cited_by_count": 193,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2335791207",
+      "topic_codes": [
+        "T06",
+        "T03",
+        "T13"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-082",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-082",
+      "_proposal_audit": {
+        "title": "Is the doer effect a causal relationship?",
+        "publication_year": 2016,
+        "cited_by_count": 65,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1964716415",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "Automatic detection of learner\u2019s affect from conversational cues",
+        "publication_year": 2007,
+        "cited_by_count": 318,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1995880425",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "Emote aloud during learning with AutoTutor: Applying the Facial Action Coding System to cognitive\u2013affective states during learning",
+        "publication_year": 2008,
+        "cited_by_count": 195,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W3117448124",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "Motivation, engagement, and performance across multiple virtual reality sessions and levels of immersion",
+        "publication_year": 2020,
+        "cited_by_count": 188,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1968621787",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "The Deep-Level-Reasoning-Question Effect: The Role of Dialogue and Deep-Level-Reasoning Questions During Vicarious Learning",
+        "publication_year": 2006,
+        "cited_by_count": 168,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2734963796",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "Reconsidering the voice effect when learning from a virtual human",
+        "publication_year": 2017,
+        "cited_by_count": 139,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1530785623",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "Predicting Affective States expressed through an Emote-Aloud Procedure from AutoTutor's Mixed-Initiative Dialogue",
+        "publication_year": 2006,
+        "cited_by_count": 137,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W1973003216",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "Multimethod assessment of affective experience and expression during deep learning",
+        "publication_year": 2009,
+        "cited_by_count": 98,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2089146866",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "The impact of a technology-based mathematics after-school program using ALEKS on student's knowledge and behaviors",
+        "publication_year": 2013,
+        "cited_by_count": 96,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2168574056",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "Improving classroom learning by collaboratively observing human tutoring videos while problem solving.",
+        "publication_year": 2009,
+        "cited_by_count": 79,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2014570323",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "Promoting Constructive Activities that Support Vicarious Learning During Computer-Based Instruction",
+        "publication_year": 2006,
+        "cited_by_count": 78,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2986334266",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "How we trust, perceive, and learn from virtual humans: The influence of voice quality",
+        "publication_year": 2019,
+        "cited_by_count": 78,
+        "type": "article"
+      }
+    },
+    {
+      "work_id": "W2589724482",
+      "topic_codes": [
+        "T13",
+        "T06",
+        "T15"
+      ],
+      "corpus_tier": "expanded",
+      "source_lane": "person_expansion_auto:LE-PP-083",
+      "source_expansion": "person",
+      "registry_person_id": "LE-PP-083",
+      "_proposal_audit": {
+        "title": "Measuring pedagogical agent persona and the influence of agent persona on learning",
+        "publication_year": 2017,
+        "cited_by_count": 72,
+        "type": "article"
+      }
+    }
+  ],
+  "notes": [
+    "no new works above citation threshold for LE-PP-010 Ken Koedinger",
+    "no new works above citation threshold for LE-PP-056 Jodi Lis",
+    "no author match for LE-PP-057 Bedriye Akson",
+    "no new works above citation threshold for LE-PP-060 Adesola Ogundimu",
+    "weak author match (0.77) for LE-PP-061 Mei-Mei Li \u2014 add to openalex_author_overrides.json if wrong",
+    "no author match for LE-PP-062 Abby Bregman",
+    "weak author match (0.52) for LE-PP-063 Li (Lee) Liang \u2014 add to openalex_author_overrides.json if wrong",
+    "no new works above citation threshold for LE-PP-064 Erin Czerwinski",
+    "no new works above citation threshold for LE-PP-065 Baptiste Moreau-Pernet",
+    "no new works above citation threshold for LE-PP-066 Emily Marasco",
+    "no author match for LE-PP-068 Eric Ultes",
+    "no author match for LE-PP-069 Jason Virtue",
+    "weak author match (0.72) for LE-PP-070 Zarka Ali \u2014 add to openalex_author_overrides.json if wrong",
+    "no new works above citation threshold for LE-PP-070 Zarka Ali",
+    "weak author match (0.67) for LE-PP-073 DJ Jaeger \u2014 add to openalex_author_overrides.json if wrong",
+    "no new works above citation threshold for LE-PP-073 DJ Jaeger"
+  ]
+}

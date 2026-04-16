@@ -1,0 +1,150 @@
+{
+  "description": "OpenAlex `search` strings for proceedings-heavy conferences linked from IEEE ICICLE resources and the programs registry. Prefer short phrase searches (OpenAlex full-text grammar is picky; avoid deep boolean). `trust_query: true` keeps all non-paratext hits for that search up to per-query caps. Adjust `max_pages` / `max_works_per_query` when expanding.",
+  "defaults": {
+    "publication_year_filter": "",
+    "max_pages": 15,
+    "max_works_per_query": 200
+  },
+  "queries": [
+    {
+      "id": "ieee_icicle_annual",
+      "label": "IEEE ICICLE Annual Meeting",
+      "registry_resource_id": "LE-PP-024",
+      "openalex_search": "IEEE ICICLE annual meeting",
+      "trust_query": true
+    },
+    {
+      "id": "conference_learning_engineering",
+      "label": "Conference on Learning Engineering",
+      "openalex_search": "Conference on Learning Engineering IEEE",
+      "trust_query": true
+    },
+    {
+      "id": "learning_engineering_proceedings",
+      "label": "Learning engineering proceedings ICICLE",
+      "openalex_search": "learning engineering proceedings ICICLE",
+      "trust_query": true
+    },
+    {
+      "id": "icicle_site_conference_on_le",
+      "label": "ICICLE Conference on Learning Engineering (IEEE sagroups page title)",
+      "openalex_search": "ICICLE Conference on Learning Engineering",
+      "trust_query": true
+    },
+    {
+      "id": "ieee_industry_consortium_le",
+      "label": "IEEE Industry Consortium on Learning Engineering",
+      "openalex_search": "Industry Consortium on Learning Engineering IEEE",
+      "trust_query": true
+    },
+    {
+      "id": "asu_learning_engineering_institute_icicle",
+      "label": "ASU Learning Engineering Institute (ICICLE conference co-host)",
+      "openalex_search": "Learning Engineering Institute Arizona State",
+      "trust_query": true
+    },
+    {
+      "id": "learning_at_scale",
+      "label": "ACM Learning at Scale",
+      "registry_resource_id": "LE-PP-020",
+      "openalex_search": "Learning at Scale ACM conference",
+      "trust_query": true
+    },
+    {
+      "id": "l_at_scale",
+      "label": "L at Scale learning",
+      "openalex_search": "L@S learning scale conference",
+      "trust_query": true
+    },
+    {
+      "id": "edm_conference",
+      "label": "Educational Data Mining conference",
+      "registry_resource_id": "LE-PP-021",
+      "openalex_search": "Educational Data Mining conference proceedings",
+      "trust_query": true
+    },
+    {
+      "id": "aied_conference",
+      "label": "Artificial Intelligence in Education",
+      "registry_resource_id": "LE-PP-022",
+      "openalex_search": "Artificial Intelligence in Education conference",
+      "trust_query": true
+    },
+    {
+      "id": "lak_conference",
+      "label": "Learning Analytics and Knowledge",
+      "registry_resource_id": "LE-PP-023",
+      "openalex_search": "Learning Analytics Knowledge LAK conference",
+      "trust_query": true
+    },
+    {
+      "id": "its_conference",
+      "label": "Intelligent Tutoring Systems",
+      "openalex_search": "Intelligent Tutoring Systems conference proceedings",
+      "trust_query": true
+    },
+    {
+      "id": "icls_conference",
+      "label": "International Conference of the Learning Sciences",
+      "openalex_search": "International Conference of the Learning Sciences",
+      "trust_query": true
+    },
+    {
+      "id": "icls_icls",
+      "label": "ICLS learning sciences",
+      "openalex_search": "ICLS learning sciences conference",
+      "trust_query": true
+    },
+    {
+      "id": "aied_workshop_le",
+      "label": "learning engineering AIED",
+      "openalex_search": "learning engineering artificial intelligence education",
+      "trust_query": false
+    },
+    {
+      "id": "ieee_learning_engineering_symposium",
+      "label": "IEEE learning engineering symposium",
+      "openalex_search": "IEEE learning engineering symposium",
+      "trust_query": true
+    },
+    {
+      "id": "stem_icicle",
+      "label": "ICICLE IEEE community",
+      "openalex_search": "ICICLE IEEE learning engineering",
+      "trust_query": false
+    },
+    {
+      "id": "lak_learning_engineering",
+      "label": "LAK learning engineering",
+      "openalex_search": "learning engineering learning analytics conference",
+      "trust_query": false
+    },
+    {
+      "id": "edm_learning_engineering",
+      "label": "EDM learning engineering",
+      "openalex_search": "learning engineering educational data mining",
+      "trust_query": false
+    },
+    {
+      "id": "chi_learning",
+      "label": "CHI learning education",
+      "openalex_search": "CHI conference learning technology education",
+      "trust_query": false
+    },
+    {
+      "id": "gem_learning",
+      "label": "Games in education (common on resource lists)",
+      "openalex_search": "Games for Learning conference",
+      "trust_query": false
+    },
+    {
+      "id": "aied_genai_recent",
+      "label": "generative AI education conference recent",
+      "openalex_search": "generative AI education conference",
+      "publication_year_filter": "2020-2026",
+      "max_pages": 8,
+      "max_works_per_query": 80,
+      "trust_query": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+---
+import Base from "../layouts/Base.astro";
+import SectionHero from "../components/SectionHero.astro";
+import SectionGrid from "../components/SectionGrid.astro";
+import { getCollection } from "astro:content";
+
+const entries = await getCollection("events");
+---
+
+<Base title="Events · Learning Engineering" active="events">
+  <SectionHero
+    eyebrow="Events"
+    title="Conferences, workshops &amp; talks"
+    question="Where does the field convene — and what talks, podcasts, and keynotes come out of those convenings?"
+    count={entries.length}
+  />
+  <SectionGrid
+    collection="events"
+    formatOrder={[
+      "conference", "series", "workshop", "convening",
+      "conference-talk", "keynote", "webinar", "video", "podcast",
+    ]}
+    groupHeadings={{
+      conference: "Conferences",
+      series: "Recurring series",
+      workshop: "Workshops",
+      convening: "Convenings",
+      "conference-talk": "Conference talks",
+      keynote: "Keynotes",
+      webinar: "Webinars",
+      video: "Video",
+      podcast: "Podcasts",
+    }}
+  />
+</Base>

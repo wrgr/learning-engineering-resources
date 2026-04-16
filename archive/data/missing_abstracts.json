@@ -1,0 +1,5006 @@
+{
+  "count": 295,
+  "proxy_count": 0,
+  "true_missing_count": 295,
+  "rows": [
+    {
+      "id": "W12309149",
+      "scope": "hop",
+      "type": "article",
+      "title": "Seeing language learning inside the math: Cognitive analysis yields transfer",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W12309149",
+      "source_url": "https://openalex.org/W12309149",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W131038430",
+      "scope": "hop",
+      "type": "review",
+      "title": "Should There Be a Three-Strikes Rule Against Pure Discovery Learning?",
+      "doi": "10.1037/0003-066x.59.1.14",
+      "openalex_id": "https://openalex.org/W131038430",
+      "source_url": "https://doi.org/10.1037/0003-066x.59.1.14",
+      "topic_codes": [
+        "T08",
+        "T10",
+        "T13"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W13581958",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Design of Self-explanation Prompts: The Fit Hypothesis",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W13581958",
+      "source_url": "https://openalex.org/W13581958",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W143118477",
+      "scope": "hop",
+      "type": "article",
+      "title": "Using Cognitive Models to Guide Instructional Design: The Case of Fraction Division",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W143118477",
+      "source_url": "https://openalex.org/W143118477",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W14377909",
+      "scope": "hop",
+      "type": "article",
+      "title": "Is Self-Explanation Always Better? The Effects of Adding Self-Explanation Prompts to an English Grammar Tutor",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W14377909",
+      "source_url": "https://openalex.org/W14377909",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W144248838",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Composition Effect in Symbolizing: The Role of Symbol Production vs. Text Comprehension",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W144248838",
+      "source_url": "https://openalex.org/W144248838",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1483155202",
+      "scope": "hop",
+      "type": "book",
+      "title": "Mental Representations: A Dual Coding Approach",
+      "doi": "10.1093/acprof:oso/9780195066661.001.0001",
+      "openalex_id": "https://openalex.org/W1483155202",
+      "source_url": "https://doi.org/10.1093/acprof:oso/9780195066661.001.0001",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1491087240",
+      "scope": "hop",
+      "type": "book",
+      "title": "Quasi-Experimentation: Design & Analysis Issues for Field Settings",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1491087240",
+      "source_url": "https://openalex.org/W1491087240",
+      "topic_codes": [
+        "T08",
+        "T10",
+        "T13"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1494137514",
+      "scope": "hop",
+      "type": "book",
+      "title": "Big data: The next frontier for innovation, competition, and productivity",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1494137514",
+      "source_url": "https://openalex.org/W1494137514",
+      "topic_codes": [
+        "T03",
+        "T04",
+        "T06",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1501218279",
+      "scope": "hop",
+      "type": "book",
+      "title": "Preventing Reading Difficulties in Young Children",
+      "doi": "10.17226/6023",
+      "openalex_id": "https://openalex.org/W1501218279",
+      "source_url": "https://doi.org/10.17226/6023",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1504261278",
+      "scope": "hop",
+      "type": "article",
+      "title": "Is Over Practice Necessary? --Improving Learning Efficiency with the Cognitive Tutor through Educational Data Mining",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1504261278",
+      "source_url": "https://openalex.org/W1504261278",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1524917549",
+      "scope": "hop",
+      "type": "article",
+      "title": "Cognitive task analysis",
+      "doi": "10.4324/9780203880869.ch43",
+      "openalex_id": "https://openalex.org/W1524917549",
+      "source_url": "https://doi.org/10.4324/9780203880869.ch43",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1526122805",
+      "scope": "hop",
+      "type": "book",
+      "title": "Handbook of Self-Regulation of Learning and Performance",
+      "doi": "10.4324/9781315697048",
+      "openalex_id": "https://openalex.org/W1526122805",
+      "source_url": "https://doi.org/10.4324/9781315697048",
+      "topic_codes": [
+        "T01",
+        "T04",
+        "T06",
+        "T08",
+        "T10",
+        "T13"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1529024143",
+      "scope": "hop",
+      "type": "book",
+      "title": "Handbook of Competence and Motivation",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1529024143",
+      "source_url": "https://openalex.org/W1529024143",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1535782774",
+      "scope": "hop",
+      "type": "article",
+      "title": "Controlled and automatic human information processing: I",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1535782774",
+      "source_url": "https://openalex.org/W1535782774",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1539947443",
+      "scope": "hop",
+      "type": "review",
+      "title": "The State of Educational Data Mining in 2009: A Review and Future Visions",
+      "doi": "10.5281/zenodo.3554658",
+      "openalex_id": "https://openalex.org/W1539947443",
+      "source_url": "https://doi.org/10.5281/zenodo.3554658",
+      "topic_codes": [
+        "T04",
+        "T06",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1551403135",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Educational Design Research",
+      "doi": "10.1007/978-1-4614-3185-5_11",
+      "openalex_id": "https://openalex.org/W1551403135",
+      "source_url": "https://doi.org/10.1007/978-1-4614-3185-5_11",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1553185521",
+      "scope": "hop",
+      "type": "article",
+      "title": "Proceedings of the 6th international conference on Learning sciences",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1553185521",
+      "source_url": "https://openalex.org/W1553185521",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1562748096",
+      "scope": "hop",
+      "type": "preprint",
+      "title": "Building intelligent interactive tutors student-centered strategies for revolutionizing e-learning",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1562748096",
+      "source_url": "https://openalex.org/W1562748096",
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03",
+        "T04",
+        "T06",
+        "T07"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1562975070",
+      "scope": "hop",
+      "type": "article",
+      "title": "From Studying Examples to Solving Problem: Fading Worked-Out Solution Steps Helps Learning",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1562975070",
+      "source_url": "https://openalex.org/W1562975070",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1569653074",
+      "scope": "hop",
+      "type": "book",
+      "title": "Handbook of Educational Data Mining",
+      "doi": "10.1201/b10274",
+      "openalex_id": "https://openalex.org/W1569653074",
+      "source_url": "https://doi.org/10.1201/b10274",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1570448133",
+      "scope": "hop",
+      "type": "book",
+      "title": "Data Mining: Practical Machine Learning Tools and Techniques",
+      "doi": "10.1016/c2009-0-19715-5",
+      "openalex_id": "https://openalex.org/W1570448133",
+      "source_url": "https://doi.org/10.1016/c2009-0-19715-5",
+      "topic_codes": [
+        "T03",
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1584714453",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Advantage of Abstract Examples in Learning Math",
+      "doi": "10.1126/science.1154659",
+      "openalex_id": "https://openalex.org/W1584714453",
+      "source_url": "https://doi.org/10.1126/science.1154659",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1589525026",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Detecting Student Misuse of Intelligent Tutoring Systems",
+      "doi": "10.1007/978-3-540-30139-4_50",
+      "openalex_id": "https://openalex.org/W1589525026",
+      "source_url": "https://doi.org/10.1007/978-3-540-30139-4_50",
+      "topic_codes": [
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1594874760",
+      "scope": "hop",
+      "type": "book",
+      "title": "Scientific Research in Education",
+      "doi": "10.17226/10236",
+      "openalex_id": "https://openalex.org/W1594874760",
+      "source_url": "https://doi.org/10.17226/10236",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1633170972",
+      "scope": "hop",
+      "type": "article",
+      "title": "Remote Transfer of Scientific-Reasoning and Problem-Solving Strategies in Children",
+      "doi": "10.1016/s0065-2407(08)00010-4",
+      "openalex_id": "https://openalex.org/W1633170972",
+      "source_url": "https://doi.org/10.1016/s0065-2407(08)00010-4",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1660123436",
+      "scope": "hop",
+      "type": "book",
+      "title": "Handbook of Research on Educational Communications and Technology",
+      "doi": "10.4324/9780203880869",
+      "openalex_id": "https://openalex.org/W1660123436",
+      "source_url": "https://doi.org/10.4324/9780203880869",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1674947250",
+      "scope": "hop",
+      "type": "book",
+      "title": "Comprehension: A Paradigm for Cognition",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1674947250",
+      "source_url": "https://openalex.org/W1674947250",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1679907412",
+      "scope": "hop",
+      "type": "book",
+      "title": "The Atomic Components of Thought",
+      "doi": "10.4324/9781315805696",
+      "openalex_id": "https://openalex.org/W1679907412",
+      "source_url": "https://doi.org/10.4324/9781315805696",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1752512628",
+      "scope": "hop",
+      "type": "book",
+      "title": "Knowing, Learning, and Instruction",
+      "doi": "10.4324/9781315044408",
+      "openalex_id": "https://openalex.org/W1752512628",
+      "source_url": "https://doi.org/10.4324/9781315044408",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1761828760",
+      "scope": "hop",
+      "type": "book",
+      "title": "How people learn: Brain, mind, experience, and school.",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W1761828760",
+      "source_url": "https://openalex.org/W1761828760",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1855733103",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "The Evolution of Design Studies as Methodology",
+      "doi": "10.1017/cbo9780511816833.010",
+      "openalex_id": "https://openalex.org/W1855733103",
+      "source_url": "https://doi.org/10.1017/cbo9780511816833.010",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1898103075",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Educational Data Mining and Learning Analytics",
+      "doi": "10.1007/978-1-4614-3305-7_4",
+      "openalex_id": "https://openalex.org/W1898103075",
+      "source_url": "https://doi.org/10.1007/978-1-4614-3305-7_4",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1911642898",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Faster Teaching by POMDP Planning",
+      "doi": "10.1007/978-3-642-21869-9_37",
+      "openalex_id": "https://openalex.org/W1911642898",
+      "source_url": "https://doi.org/10.1007/978-3-642-21869-9_37",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W192680528",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Ten Benefits of Testing and Their Applications to Educational Practice",
+      "doi": "10.1016/b978-0-12-387691-1.00001-6",
+      "openalex_id": "https://openalex.org/W192680528",
+      "source_url": "https://doi.org/10.1016/b978-0-12-387691-1.00001-6",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1950434568",
+      "scope": "hop",
+      "type": "review",
+      "title": "Data mining and education",
+      "doi": "10.1002/wcs.1350",
+      "openalex_id": "https://openalex.org/W1950434568",
+      "source_url": "https://doi.org/10.1002/wcs.1350",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1963697479",
+      "scope": "hop",
+      "type": "article",
+      "title": "From Example Study to Problem Solving: Smooth Transitions Help Learning",
+      "doi": "10.1080/00220970209599510",
+      "openalex_id": "https://openalex.org/W1963697479",
+      "source_url": "https://doi.org/10.1080/00220970209599510",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1964499255",
+      "scope": "hop",
+      "type": "article",
+      "title": "Knowing what you don't know makes failure productive",
+      "doi": "10.1016/j.learninstruc.2014.08.004",
+      "openalex_id": "https://openalex.org/W1964499255",
+      "source_url": "https://doi.org/10.1016/j.learninstruc.2014.08.004",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1968199915",
+      "scope": "hop",
+      "type": "article",
+      "title": "Reading both high-coherence and low-coherence texts: Effects of text sequence and prior knowledge.",
+      "doi": "10.1037/h0087352",
+      "openalex_id": "https://openalex.org/W1968199915",
+      "source_url": "https://doi.org/10.1037/h0087352",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1969129312",
+      "scope": "hop",
+      "type": "article",
+      "title": "Hypothesis behavior by humans during discrimination learning.",
+      "doi": "10.1037/h0023006",
+      "openalex_id": "https://openalex.org/W1969129312",
+      "source_url": "https://doi.org/10.1037/h0023006",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1969658372",
+      "scope": "hop",
+      "type": "article",
+      "title": "Cue recognition and cue elaboration in learning from examples.",
+      "doi": "10.1073/pnas.93.3.1346",
+      "openalex_id": "https://openalex.org/W1969658372",
+      "source_url": "https://doi.org/10.1073/pnas.93.3.1346",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1971746982",
+      "scope": "hop",
+      "type": "article",
+      "title": "Automated, Unobtrusive, Action-by-Action Assessment of Self-Regulation During Learning With an Intelligent Tutoring System",
+      "doi": "10.1080/00461520.2010.517740",
+      "openalex_id": "https://openalex.org/W1971746982",
+      "source_url": "https://doi.org/10.1080/00461520.2010.517740",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1977196850",
+      "scope": "hop",
+      "type": "review",
+      "title": "The Atomic Components of Thought",
+      "doi": "10.1016/s1364-6613(98)01250-9",
+      "openalex_id": "https://openalex.org/W1977196850",
+      "source_url": "https://doi.org/10.1016/s1364-6613(98)01250-9",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1979290264",
+      "scope": "hop",
+      "type": "article",
+      "title": "Using thematic analysis in psychology",
+      "doi": "10.1191/1478088706qp063oa",
+      "openalex_id": "https://openalex.org/W1979290264",
+      "source_url": "https://doi.org/10.1191/1478088706qp063oa",
+      "topic_codes": [
+        "T02",
+        "T13"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1985690942",
+      "scope": "hop",
+      "type": "article",
+      "title": "Using example problems to improve student learning in algebra: Differentiating between correct and incorrect examples",
+      "doi": "10.1016/j.learninstruc.2012.11.002",
+      "openalex_id": "https://openalex.org/W1985690942",
+      "source_url": "https://doi.org/10.1016/j.learninstruc.2012.11.002",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1985824294",
+      "scope": "hop",
+      "type": "article",
+      "title": "Effectiveness of Intelligent Tutoring Systems",
+      "doi": "10.3102/0034654315581420",
+      "openalex_id": "https://openalex.org/W1985824294",
+      "source_url": "https://doi.org/10.3102/0034654315581420",
+      "topic_codes": [
+        "T06",
+        "T07"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1986285750",
+      "scope": "hop",
+      "type": "article",
+      "title": "Toward an Instructionally Oriented Theory of Example\u2010Based Learning",
+      "doi": "10.1111/cogs.12086",
+      "openalex_id": "https://openalex.org/W1986285750",
+      "source_url": "https://doi.org/10.1111/cogs.12086",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1986787497",
+      "scope": "hop",
+      "type": "article",
+      "title": "A symbolic-connectionist theory of relational inference and generalization.",
+      "doi": "10.1037/0033-295x.110.2.220",
+      "openalex_id": "https://openalex.org/W1986787497",
+      "source_url": "https://doi.org/10.1037/0033-295x.110.2.220",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1987626674",
+      "scope": "hop",
+      "type": "review",
+      "title": "A review of recent advances in learner and skill modeling in intelligent learning environments",
+      "doi": "10.1007/s11257-011-9106-8",
+      "openalex_id": "https://openalex.org/W1987626674",
+      "source_url": "https://doi.org/10.1007/s11257-011-9106-8",
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03",
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1989930562",
+      "scope": "hop",
+      "type": "article",
+      "title": "Pragmatic reasoning schemas",
+      "doi": "10.1016/0010-0285(85)90014-3",
+      "openalex_id": "https://openalex.org/W1989930562",
+      "source_url": "https://doi.org/10.1016/0010-0285(85)90014-3",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1991284076",
+      "scope": "hop",
+      "type": "article",
+      "title": "A Model of the Self-Explanation Effect",
+      "doi": "10.1207/s15327809jls0201_1",
+      "openalex_id": "https://openalex.org/W1991284076",
+      "source_url": "https://doi.org/10.1207/s15327809jls0201_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1993868776",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Real Story Behind Story Problems: Effects of Representations on Quantitative Reasoning",
+      "doi": "10.1207/s15327809jls1302_1",
+      "openalex_id": "https://openalex.org/W1993868776",
+      "source_url": "https://doi.org/10.1207/s15327809jls1302_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1994701398",
+      "scope": "hop",
+      "type": "article",
+      "title": "Rethinking Transfer: A Simple Proposal with Multiple Implications",
+      "doi": "10.2307/1167267",
+      "openalex_id": "https://openalex.org/W1994701398",
+      "source_url": "https://doi.org/10.2307/1167267",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1994925058",
+      "scope": "hop",
+      "type": "article",
+      "title": "Schema induction and analogical transfer",
+      "doi": "10.1016/0010-0285(83)90002-6",
+      "openalex_id": "https://openalex.org/W1994925058",
+      "source_url": "https://doi.org/10.1016/0010-0285(83)90002-6",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1996650435",
+      "scope": "hop",
+      "type": "article",
+      "title": "Are Good Texts Always Better? Interactions of Text Coherence, Background Knowledge, and Levels of Understanding in Learning From Text",
+      "doi": "10.1207/s1532690xci1401_1",
+      "openalex_id": "https://openalex.org/W1996650435",
+      "source_url": "https://doi.org/10.1207/s1532690xci1401_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1998213518",
+      "scope": "hop",
+      "type": "article",
+      "title": "Contextual interference: Contributions of practice",
+      "doi": "10.1016/0001-6918(90)90076-r",
+      "openalex_id": "https://openalex.org/W1998213518",
+      "source_url": "https://doi.org/10.1016/0001-6918(90)90076-r",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W1998933811",
+      "scope": "hop",
+      "type": "review",
+      "title": "Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification",
+      "doi": "10.1109/hicss.2014.377",
+      "openalex_id": "https://openalex.org/W1998933811",
+      "source_url": "https://doi.org/10.1109/hicss.2014.377",
+      "topic_codes": [
+        "T00",
+        "T03",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2000052479",
+      "scope": "hop",
+      "type": "article",
+      "title": "Rule-Learning Events in the Acquisition of a Complex Skill: An Evaluation of Cascade",
+      "doi": "10.1207/s15327809jls0801_3",
+      "openalex_id": "https://openalex.org/W2000052479",
+      "source_url": "https://doi.org/10.1207/s15327809jls0801_3",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2001098248",
+      "scope": "hop",
+      "type": "review",
+      "title": "A theory of implicit and explicit knowledge",
+      "doi": "10.1017/s0140525x99002186",
+      "openalex_id": "https://openalex.org/W2001098248",
+      "source_url": "https://doi.org/10.1017/s0140525x99002186",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2001308469",
+      "scope": "hop",
+      "type": "article",
+      "title": "Studies in retention.",
+      "doi": "10.1037/h0063404",
+      "openalex_id": "https://openalex.org/W2001308469",
+      "source_url": "https://doi.org/10.1037/h0063404",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2001468118",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Expertise Reversal Effect",
+      "doi": "10.1207/s15326985ep3801_4",
+      "openalex_id": "https://openalex.org/W2001468118",
+      "source_url": "https://doi.org/10.1207/s15326985ep3801_4",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2001469931",
+      "scope": "hop",
+      "type": "article",
+      "title": "Creating a Framework for Research on Systemic Technology Innovations",
+      "doi": "10.1207/s15327809jls1301_3",
+      "openalex_id": "https://openalex.org/W2001469931",
+      "source_url": "https://doi.org/10.1207/s15327809jls1301_3",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2001564915",
+      "scope": "hop",
+      "type": "article",
+      "title": "Reciprocal Teaching of Comprehension-Fostering and Comprehension-Monitoring Activities",
+      "doi": "10.1207/s1532690xci0102_1",
+      "openalex_id": "https://openalex.org/W2001564915",
+      "source_url": "https://doi.org/10.1207/s1532690xci0102_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2006336094",
+      "scope": "hop",
+      "type": "article",
+      "title": "Argumentation and Explanation in Conceptual Change: Indications From Protocol Analyses of Peer\u2010to\u2010Peer Dialog",
+      "doi": "10.1111/j.1551-6709.2009.01017.x",
+      "openalex_id": "https://openalex.org/W2006336094",
+      "source_url": "https://doi.org/10.1111/j.1551-6709.2009.01017.x",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2007377366",
+      "scope": "hop",
+      "type": "article",
+      "title": "When problem solving is superior to studying worked examples.",
+      "doi": "10.1037/0022-0663.93.3.579",
+      "openalex_id": "https://openalex.org/W2007377366",
+      "source_url": "https://doi.org/10.1037/0022-0663.93.3.579",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2010593734",
+      "scope": "hop",
+      "type": "article",
+      "title": "Active learning increases student performance in science, engineering, and mathematics",
+      "doi": "10.1073/pnas.1319030111",
+      "openalex_id": "https://openalex.org/W2010593734",
+      "source_url": "https://doi.org/10.1073/pnas.1319030111",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2010793828",
+      "scope": "hop",
+      "type": "article",
+      "title": "Dilemmas in a general theory of planning",
+      "doi": "10.1007/bf01405730",
+      "openalex_id": "https://openalex.org/W2010793828",
+      "source_url": "https://doi.org/10.1007/bf01405730",
+      "topic_codes": [
+        "T02",
+        "T13"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2013068849",
+      "scope": "hop",
+      "type": "article",
+      "title": "Controlled and automatic human information processing: I. Detection, search, and attention.",
+      "doi": "10.1037/0033-295x.84.1.1",
+      "openalex_id": "https://openalex.org/W2013068849",
+      "source_url": "https://doi.org/10.1037/0033-295x.84.1.1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2014366154",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Role of Central Conceptual Structures in the Development of Children's Thought",
+      "doi": "10.2307/1166077",
+      "openalex_id": "https://openalex.org/W2014366154",
+      "source_url": "https://doi.org/10.2307/1166077",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2015040676",
+      "scope": "hop",
+      "type": "article",
+      "title": "Knowledge tracing: Modeling the acquisition of procedural knowledge",
+      "doi": "10.1007/bf01099821",
+      "openalex_id": "https://openalex.org/W2015040676",
+      "source_url": "https://doi.org/10.1007/bf01099821",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2019566340",
+      "scope": "hop",
+      "type": "article",
+      "title": "Deliberative Discourse Idealized and Realized: Accountable Talk in the Classroom and in Civic Life",
+      "doi": "10.1007/s11217-007-9071-1",
+      "openalex_id": "https://openalex.org/W2019566340",
+      "source_url": "https://doi.org/10.1007/s11217-007-9071-1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2020229731",
+      "scope": "hop",
+      "type": "article",
+      "title": "Instructional Complexity and the Science to Constrain It",
+      "doi": "10.1126/science.1238056",
+      "openalex_id": "https://openalex.org/W2020229731",
+      "source_url": "https://doi.org/10.1126/science.1238056",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2023330715",
+      "scope": "hop",
+      "type": "article",
+      "title": "Toward an epistemology of physics",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2023330715",
+      "source_url": "https://openalex.org/W2023330715",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2023697782",
+      "scope": "hop",
+      "type": "article",
+      "title": "Constructing arguments from multiple sources: Tasks that promote understanding and not just memory for text.",
+      "doi": "10.1037/0022-0663.91.2.301",
+      "openalex_id": "https://openalex.org/W2023697782",
+      "source_url": "https://doi.org/10.1037/0022-0663.91.2.301",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2023718959",
+      "scope": "hop",
+      "type": "article",
+      "title": "From game design elements to gamefulness",
+      "doi": "10.1145/2181037.2181040",
+      "openalex_id": "https://openalex.org/W2023718959",
+      "source_url": "https://doi.org/10.1145/2181037.2181040",
+      "topic_codes": [
+        "T00",
+        "T03",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2026161499",
+      "scope": "hop",
+      "type": "article",
+      "title": "Structure\u2010Mapping: A Theoretical Framework for Analogy*",
+      "doi": "10.1207/s15516709cog0702_3",
+      "openalex_id": "https://openalex.org/W2026161499",
+      "source_url": "https://doi.org/10.1207/s15516709cog0702_3",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2026190834",
+      "scope": "hop",
+      "type": "article",
+      "title": "Role of examples in how students learn to categorize statistics word problems.",
+      "doi": "10.1037/0022-0663.88.1.144",
+      "openalex_id": "https://openalex.org/W2026190834",
+      "source_url": "https://doi.org/10.1037/0022-0663.88.1.144",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2027429247",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Transfer of Scientific Principles Using Concrete and Idealized Simulations",
+      "doi": "10.1207/s15327809jls1401_4",
+      "openalex_id": "https://openalex.org/W2027429247",
+      "source_url": "https://doi.org/10.1207/s15327809jls1401_4",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2027711578",
+      "scope": "hop",
+      "type": "article",
+      "title": "Educational data mining: A survey from 1995 to 2005",
+      "doi": "10.1016/j.eswa.2006.04.005",
+      "openalex_id": "https://openalex.org/W2027711578",
+      "source_url": "https://doi.org/10.1016/j.eswa.2006.04.005",
+      "topic_codes": [
+        "T03",
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2031099082",
+      "scope": "hop",
+      "type": "article",
+      "title": "Ontological Innovation and the Role of Theory in Design Experiments",
+      "doi": "10.1207/s15327809jls1301_4",
+      "openalex_id": "https://openalex.org/W2031099082",
+      "source_url": "https://doi.org/10.1207/s15327809jls1301_4",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2032267485",
+      "scope": "hop",
+      "type": "article",
+      "title": "The situativity of knowing, learning, and research.",
+      "doi": "10.1037/0003-066x.53.1.5",
+      "openalex_id": "https://openalex.org/W2032267485",
+      "source_url": "https://doi.org/10.1037/0003-066x.53.1.5",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2035659515",
+      "scope": "hop",
+      "type": "article",
+      "title": "Learner Experience and Efficiency of Instructional Guidance",
+      "doi": "10.1080/01443410124681",
+      "openalex_id": "https://openalex.org/W2035659515",
+      "source_url": "https://doi.org/10.1080/01443410124681",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2036233135",
+      "scope": "hop",
+      "type": "article",
+      "title": "The effects of monological and dialogical argumentation on concept learning in evolutionary theory.",
+      "doi": "10.1037/0022-0663.99.3.626",
+      "openalex_id": "https://openalex.org/W2036233135",
+      "source_url": "https://doi.org/10.1037/0022-0663.99.3.626",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2038558034",
+      "scope": "hop",
+      "type": "article",
+      "title": "Learning is Not a Spectator Sport",
+      "doi": "10.1145/2724660.2724681",
+      "openalex_id": "https://openalex.org/W2038558034",
+      "source_url": "https://doi.org/10.1145/2724660.2724681",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2041179101",
+      "scope": "hop",
+      "type": "article",
+      "title": "SERT: Self-Explanation Reading Training",
+      "doi": "10.1207/s15326950dp3801_1",
+      "openalex_id": "https://openalex.org/W2041179101",
+      "source_url": "https://doi.org/10.1207/s15326950dp3801_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2041201199",
+      "scope": "hop",
+      "type": "article",
+      "title": "Learning from performance errors.",
+      "doi": "10.1037/0033-295x.103.2.241",
+      "openalex_id": "https://openalex.org/W2041201199",
+      "source_url": "https://doi.org/10.1037/0033-295x.103.2.241",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2043409247",
+      "scope": "hop",
+      "type": "article",
+      "title": "The impact of guidance during problem-solving prior to instruction on students\u2019 inventions and learning outcomes",
+      "doi": "10.1007/s11251-013-9282-5",
+      "openalex_id": "https://openalex.org/W2043409247",
+      "source_url": "https://doi.org/10.1007/s11251-013-9282-5",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2045181804",
+      "scope": "hop",
+      "type": "article",
+      "title": "Handbook of Industrial and Organizational Psychology.",
+      "doi": "10.2307/2391755",
+      "openalex_id": "https://openalex.org/W2045181804",
+      "source_url": "https://doi.org/10.2307/2391755",
+      "topic_codes": [
+        "T08",
+        "T10",
+        "T13"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2045300586",
+      "scope": "hop",
+      "type": "article",
+      "title": "Categorization and Representation of Physics Problems by Experts and Novices*",
+      "doi": "10.1207/s15516709cog0502_2",
+      "openalex_id": "https://openalex.org/W2045300586",
+      "source_url": "https://doi.org/10.1207/s15516709cog0502_2",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2046099063",
+      "scope": "hop",
+      "type": "article",
+      "title": "Designing Educative Curriculum Materials to Promote Teacher Learning",
+      "doi": "10.3102/0013189x034003003",
+      "openalex_id": "https://openalex.org/W2046099063",
+      "source_url": "https://doi.org/10.3102/0013189x034003003",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2046109394",
+      "scope": "hop",
+      "type": "article",
+      "title": "The worked-example effect: Not an artefact of lousy control conditions",
+      "doi": "10.1016/j.chb.2008.12.011",
+      "openalex_id": "https://openalex.org/W2046109394",
+      "source_url": "https://doi.org/10.1016/j.chb.2008.12.011",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2046675442",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra",
+      "doi": "10.1207/s1532690xci0201_3",
+      "openalex_id": "https://openalex.org/W2046675442",
+      "source_url": "https://doi.org/10.1207/s1532690xci0201_3",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2048679005",
+      "scope": "hop",
+      "type": "article",
+      "title": "Combining labeled and unlabeled data with co-training",
+      "doi": "10.1145/279943.279962",
+      "openalex_id": "https://openalex.org/W2048679005",
+      "source_url": "https://doi.org/10.1145/279943.279962",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2049428464",
+      "scope": "hop",
+      "type": "review",
+      "title": "Distributed practice in verbal recall tasks: A review and quantitative synthesis.",
+      "doi": "10.1037/0033-2909.132.3.354",
+      "openalex_id": "https://openalex.org/W2049428464",
+      "source_url": "https://doi.org/10.1037/0033-2909.132.3.354",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2051480848",
+      "scope": "hop",
+      "type": "article",
+      "title": "Using worked examples as an instructional support in the algebra classroom.",
+      "doi": "10.1037/0022-0663.86.3.360",
+      "openalex_id": "https://openalex.org/W2051480848",
+      "source_url": "https://doi.org/10.1037/0022-0663.86.3.360",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2054487443",
+      "scope": "hop",
+      "type": "article",
+      "title": "Worked Examples and Tutored Problem Solving: Redundant or Synergistic Forms of Support?",
+      "doi": "10.1111/j.1756-8765.2008.01011.x",
+      "openalex_id": "https://openalex.org/W2054487443",
+      "source_url": "https://doi.org/10.1111/j.1756-8765.2008.01011.x",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2056513446",
+      "scope": "hop",
+      "type": "article",
+      "title": "Effects of Massed and Distributed Practice on the Learning and Retention of Second-Language Vocabulary",
+      "doi": "10.1080/00220671.1981.10885317",
+      "openalex_id": "https://openalex.org/W2056513446",
+      "source_url": "https://doi.org/10.1080/00220671.1981.10885317",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2060642394",
+      "scope": "hop",
+      "type": "book",
+      "title": "Human Problem Solving",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2060642394",
+      "source_url": "https://openalex.org/W2060642394",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2061177236",
+      "scope": "hop",
+      "type": "article",
+      "title": "Why Some Material Is Difficult to Learn",
+      "doi": "10.1207/s1532690xci1203_1",
+      "openalex_id": "https://openalex.org/W2061177236",
+      "source_url": "https://doi.org/10.1207/s1532690xci1203_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2066816090",
+      "scope": "hop",
+      "type": "article",
+      "title": "Addressing the assessment challenge with an online system that tutors as it assesses",
+      "doi": "10.1007/s11257-009-9063-7",
+      "openalex_id": "https://openalex.org/W2066816090",
+      "source_url": "https://doi.org/10.1007/s11257-009-9063-7",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2067115680",
+      "scope": "hop",
+      "type": "article",
+      "title": "Transitioning From Studying Examples to Solving Problems: Effects of Self-Explanation Prompts and Fading Worked-Out Steps.",
+      "doi": "10.1037/0022-0663.95.4.774",
+      "openalex_id": "https://openalex.org/W2067115680",
+      "source_url": "https://doi.org/10.1037/0022-0663.95.4.774",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2071476613",
+      "scope": "hop",
+      "type": "article",
+      "title": "Illustrating Principled Design: The Early Evolution of a Cognitive Tutor for Algebra Symbolization",
+      "doi": "10.1080/1049482980050111",
+      "openalex_id": "https://openalex.org/W2071476613",
+      "source_url": "https://doi.org/10.1080/1049482980050111",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2071666535",
+      "scope": "hop",
+      "type": "article",
+      "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives",
+      "doi": "10.1080/10705519909540118",
+      "openalex_id": "https://openalex.org/W2071666535",
+      "source_url": "https://doi.org/10.1080/10705519909540118",
+      "topic_codes": [
+        "T05",
+        "T12"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2072435181",
+      "scope": "hop",
+      "type": "article",
+      "title": "Helping Students Understand Challenging Topics in Science Through Ontology Training",
+      "doi": "10.1207/s1532690xci2402_3",
+      "openalex_id": "https://openalex.org/W2072435181",
+      "source_url": "https://doi.org/10.1207/s1532690xci2402_3",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2073371272",
+      "scope": "hop",
+      "type": "article",
+      "title": "Toward an instance theory of automatization.",
+      "doi": "10.1037/0033-295x.95.4.492",
+      "openalex_id": "https://openalex.org/W2073371272",
+      "source_url": "https://doi.org/10.1037/0033-295x.95.4.492",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2077111155",
+      "scope": "hop",
+      "type": "article",
+      "title": "Design Research: Theoretical and Methodological Issues",
+      "doi": "10.1207/s15327809jls1301_2",
+      "openalex_id": "https://openalex.org/W2077111155",
+      "source_url": "https://doi.org/10.1207/s15327809jls1301_2",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2077763589",
+      "scope": "hop",
+      "type": "article",
+      "title": "Design research: A socially responsible approach to instructional technology research in higher education",
+      "doi": "10.1007/bf02961476",
+      "openalex_id": "https://openalex.org/W2077763589",
+      "source_url": "https://doi.org/10.1007/bf02961476",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2078428840",
+      "scope": "hop",
+      "type": "article",
+      "title": "Measuring Knowledge to Optimize Cognitive Load Factors During Instruction.",
+      "doi": "10.1037/0022-0663.96.3.558",
+      "openalex_id": "https://openalex.org/W2078428840",
+      "source_url": "https://doi.org/10.1037/0022-0663.96.3.558",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2078482049",
+      "scope": "hop",
+      "type": "article",
+      "title": "Learning analytics and educational data mining",
+      "doi": "10.1145/2330601.2330661",
+      "openalex_id": "https://openalex.org/W2078482049",
+      "source_url": "https://doi.org/10.1145/2330601.2330661",
+      "topic_codes": [
+        "T04",
+        "T06",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2081811286",
+      "scope": "hop",
+      "type": "article",
+      "title": "Training strategies for attaining transfer of problem-solving skill in statistics: A cognitive-load approach.",
+      "doi": "10.1037/0022-0663.84.4.429",
+      "openalex_id": "https://openalex.org/W2081811286",
+      "source_url": "https://doi.org/10.1037/0022-0663.84.4.429",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2083133776",
+      "scope": "hop",
+      "type": "review",
+      "title": "Principles derived from the study of simple skills do not generalize to complex skill learning",
+      "doi": "10.3758/bf03196276",
+      "openalex_id": "https://openalex.org/W2083133776",
+      "source_url": "https://doi.org/10.3758/bf03196276",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2084895013",
+      "scope": "hop",
+      "type": "article",
+      "title": "Learning from Worked\u2010Out Examples: A Study on Individual Differences",
+      "doi": "10.1207/s15516709cog2101_1",
+      "openalex_id": "https://openalex.org/W2084895013",
+      "source_url": "https://doi.org/10.1207/s15516709cog2101_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2085455523",
+      "scope": "hop",
+      "type": "article",
+      "title": "Simulation of expert memory using EPAM IV.",
+      "doi": "10.1037/0033-295x.102.2.305",
+      "openalex_id": "https://openalex.org/W2085455523",
+      "source_url": "https://doi.org/10.1037/0033-295x.102.2.305",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2086618114",
+      "scope": "hop",
+      "type": "article",
+      "title": "Context theory of classification learning.",
+      "doi": "10.1037/0033-295x.85.3.207",
+      "openalex_id": "https://openalex.org/W2086618114",
+      "source_url": "https://doi.org/10.1037/0033-295x.85.3.207",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2088563966",
+      "scope": "hop",
+      "type": "article",
+      "title": "Unified theories of cognition",
+      "doi": "10.5860/choice.28-5376",
+      "openalex_id": "https://openalex.org/W2088563966",
+      "source_url": "https://doi.org/10.5860/choice.28-5376",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2088730954",
+      "scope": "hop",
+      "type": "article",
+      "title": "Guidance during mathematical problem solving.",
+      "doi": "10.1037/0022-0663.80.4.424",
+      "openalex_id": "https://openalex.org/W2088730954",
+      "source_url": "https://doi.org/10.1037/0022-0663.80.4.424",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2089636244",
+      "scope": "hop",
+      "type": "article",
+      "title": "Generative Processes of Comprehension",
+      "doi": "10.1207/s15326985ep2404_2",
+      "openalex_id": "https://openalex.org/W2089636244",
+      "source_url": "https://doi.org/10.1207/s15326985ep2404_2",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2091097903",
+      "scope": "hop",
+      "type": "article",
+      "title": "Scaffolding Deep Comprehension Strategies Through Point&amp;Query, AutoTutor, and iSTART",
+      "doi": "10.1207/s15326985ep4004_4",
+      "openalex_id": "https://openalex.org/W2091097903",
+      "source_url": "https://doi.org/10.1207/s15326985ep4004_4",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2091934148",
+      "scope": "hop",
+      "type": "article",
+      "title": "Why and How to Learn Why: Analysis\u2010based Generalization of Procedures",
+      "doi": "10.1207/s15516709cog1202_3",
+      "openalex_id": "https://openalex.org/W2091934148",
+      "source_url": "https://doi.org/10.1207/s15516709cog1202_3",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2092919341",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Adaptive Character of Thought",
+      "doi": "10.2307/1423253",
+      "openalex_id": "https://openalex.org/W2092919341",
+      "source_url": "https://doi.org/10.2307/1423253",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2094192576",
+      "scope": "hop",
+      "type": "article",
+      "title": "When and where do we apply what we learn?: A taxonomy for far transfer.",
+      "doi": "10.1037/0033-2909.128.4.612",
+      "openalex_id": "https://openalex.org/W2094192576",
+      "source_url": "https://doi.org/10.1037/0033-2909.128.4.612",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2095371090",
+      "scope": "hop",
+      "type": "article",
+      "title": "Chapter 3: Rethinking Transfer: A Simple Proposal With Multiple Implications",
+      "doi": "10.3102/0091732x024001061",
+      "openalex_id": "https://openalex.org/W2095371090",
+      "source_url": "https://doi.org/10.3102/0091732x024001061",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2097731551",
+      "scope": "hop",
+      "type": "article",
+      "title": "Improving Students\u2019 Long-Term Knowledge Retention Through Personalized Review",
+      "doi": "10.1177/0956797613504302",
+      "openalex_id": "https://openalex.org/W2097731551",
+      "source_url": "https://doi.org/10.1177/0956797613504302",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2099013648",
+      "scope": "hop",
+      "type": "article",
+      "title": "The effects of overlearning and distributed practise on the retention of mathematics knowledge",
+      "doi": "10.1002/acp.1266",
+      "openalex_id": "https://openalex.org/W2099013648",
+      "source_url": "https://doi.org/10.1002/acp.1266",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2099460238",
+      "scope": "hop",
+      "type": "article",
+      "title": "Digital Games, Design, and Learning",
+      "doi": "10.3102/0034654315582065",
+      "openalex_id": "https://openalex.org/W2099460238",
+      "source_url": "https://doi.org/10.3102/0034654315582065",
+      "topic_codes": [
+        "T00",
+        "T03",
+        "T08",
+        "T10",
+        "T13",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2104732510",
+      "scope": "hop",
+      "type": "article",
+      "title": "All Other Things Being Equal: Acquisition and Transfer of the Control of Variables Strategy",
+      "doi": "10.1111/1467-8624.00081",
+      "openalex_id": "https://openalex.org/W2104732510",
+      "source_url": "https://doi.org/10.1111/1467-8624.00081",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2104882621",
+      "scope": "hop",
+      "type": "article",
+      "title": "An effective metacognitive strategy: learning by doing and explaining with a computer-based Cognitive Tutor",
+      "doi": "10.1016/s0364-0213(02)00061-7",
+      "openalex_id": "https://openalex.org/W2104882621",
+      "source_url": "https://doi.org/10.1016/s0364-0213(02)00061-7",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2105428750",
+      "scope": "hop",
+      "type": "article",
+      "title": "Expertise, models of learning and computer-based tutoring",
+      "doi": "10.1016/s0360-1315(99)00032-9",
+      "openalex_id": "https://openalex.org/W2105428750",
+      "source_url": "https://doi.org/10.1016/s0360-1315(99)00032-9",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2105543722",
+      "scope": "hop",
+      "type": "article",
+      "title": "Locus of feedback control in computer-based tutoring",
+      "doi": "10.1145/365024.365111",
+      "openalex_id": "https://openalex.org/W2105543722",
+      "source_url": "https://doi.org/10.1145/365024.365111",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2106779500",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Knowledge\u2010Learning\u2010Instruction Framework: Bridging the Science\u2010Practice Chasm to Enhance Robust Student Learning",
+      "doi": "10.1111/j.1551-6709.2012.01245.x",
+      "openalex_id": "https://openalex.org/W2106779500",
+      "source_url": "https://doi.org/10.1111/j.1551-6709.2012.01245.x",
+      "topic_codes": [
+        "T00",
+        "T13",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2108461008",
+      "scope": "hop",
+      "type": "article",
+      "title": "Numbers are not enough. Why e-learning analytics failed to inform an institutional strategic plan",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2108461008",
+      "source_url": "https://openalex.org/W2108461008",
+      "topic_codes": [
+        "T04",
+        "T06",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2108499824",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Exam-A-Day Procedure Improves Performance in Psychology Classes",
+      "doi": "10.1207/s15328023top2903_06",
+      "openalex_id": "https://openalex.org/W2108499824",
+      "source_url": "https://doi.org/10.1207/s15328023top2903_06",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2108606031",
+      "scope": "hop",
+      "type": "article",
+      "title": "Spanning seven orders of magnitude: a challenge for cognitive modeling",
+      "doi": "10.1207/s15516709cog2601_3",
+      "openalex_id": "https://openalex.org/W2108606031",
+      "source_url": "https://doi.org/10.1207/s15516709cog2601_3",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2111804672",
+      "scope": "hop",
+      "type": "review",
+      "title": "The critical role of retrieval practice in long-term retention",
+      "doi": "10.1016/j.tics.2010.09.003",
+      "openalex_id": "https://openalex.org/W2111804672",
+      "source_url": "https://doi.org/10.1016/j.tics.2010.09.003",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2112268323",
+      "scope": "hop",
+      "type": "book",
+      "title": "The Conditions of Learning and Theory of Instruction",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2112268323",
+      "source_url": "https://openalex.org/W2112268323",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2116199508",
+      "scope": "hop",
+      "type": "article",
+      "title": "Situated Learning: Legitimate Peripheral Participation.",
+      "doi": "10.2307/2804509",
+      "openalex_id": "https://openalex.org/W2116199508",
+      "source_url": "https://doi.org/10.2307/2804509",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2116343313",
+      "scope": "hop",
+      "type": "book",
+      "title": "Toward a Theory of Instruction",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2116343313",
+      "source_url": "https://openalex.org/W2116343313",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2116669434",
+      "scope": "hop",
+      "type": "article",
+      "title": "Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach.",
+      "doi": "10.1037/0022-0663.86.1.122",
+      "openalex_id": "https://openalex.org/W2116669434",
+      "source_url": "https://doi.org/10.1037/0022-0663.86.1.122",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2116782019",
+      "scope": "hop",
+      "type": "article",
+      "title": "When and how often should worked examples be given to students? New results and a summary of the current state of research",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2116782019",
+      "source_url": "https://openalex.org/W2116782019",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2122423127",
+      "scope": "hop",
+      "type": "article",
+      "title": "Explanation\u2010driven inquiry: Integrating conceptual and epistemic scaffolds for scientific inquiry",
+      "doi": "10.1002/sce.10130",
+      "openalex_id": "https://openalex.org/W2122423127",
+      "source_url": "https://doi.org/10.1002/sce.10130",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2123184471",
+      "scope": "hop",
+      "type": "article",
+      "title": "Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge",
+      "doi": "10.1111/j.1467-9620.2006.00684.x",
+      "openalex_id": "https://openalex.org/W2123184471",
+      "source_url": "https://doi.org/10.1111/j.1467-9620.2006.00684.x",
+      "topic_codes": [
+        "T03",
+        "T05",
+        "T12",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2124868162",
+      "scope": "hop",
+      "type": "article",
+      "title": "Self-explanations: How students study and use examples in learning to solve problems",
+      "doi": "10.1016/0364-0213(89)90002-5",
+      "openalex_id": "https://openalex.org/W2124868162",
+      "source_url": "https://doi.org/10.1016/0364-0213(89)90002-5",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2126177085",
+      "scope": "hop",
+      "type": "article",
+      "title": "Generalizing solution procedures learned from examples.",
+      "doi": "10.1037/0278-7393.22.4.1020",
+      "openalex_id": "https://openalex.org/W2126177085",
+      "source_url": "https://doi.org/10.1037/0278-7393.22.4.1020",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2126180793",
+      "scope": "hop",
+      "type": "article",
+      "title": "Improving Students\u2019 Learning With Effective Learning Techniques",
+      "doi": "10.1177/1529100612453266",
+      "openalex_id": "https://openalex.org/W2126180793",
+      "source_url": "https://doi.org/10.1177/1529100612453266",
+      "topic_codes": [
+        "T01",
+        "T03"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2127076710",
+      "scope": "hop",
+      "type": "article",
+      "title": "A meta-analysis of the cognitive and motivational effects of serious games.",
+      "doi": "10.1037/a0031311",
+      "openalex_id": "https://openalex.org/W2127076710",
+      "source_url": "https://doi.org/10.1037/a0031311",
+      "topic_codes": [
+        "T00",
+        "T03",
+        "T08",
+        "T10",
+        "T13",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2128365310",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Human-Machine Student Model Discovery and Improvement Using DataShop",
+      "doi": "10.1007/978-3-642-21869-9_46",
+      "openalex_id": "https://openalex.org/W2128365310",
+      "source_url": "https://doi.org/10.1007/978-3-642-21869-9_46",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2129660020",
+      "scope": "hop",
+      "type": "book",
+      "title": "Conducting Educational Design Research",
+      "doi": "10.4324/9781315105642",
+      "openalex_id": "https://openalex.org/W2129660020",
+      "source_url": "https://doi.org/10.4324/9781315105642",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2130000957",
+      "scope": "hop",
+      "type": "review",
+      "title": "A meta-analytic review of the distribution of practice effect: Now you see it, now you don't.",
+      "doi": "10.1037/0021-9010.84.5.795",
+      "openalex_id": "https://openalex.org/W2130000957",
+      "source_url": "https://doi.org/10.1037/0021-9010.84.5.795",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2131057562",
+      "scope": "hop",
+      "type": "article",
+      "title": "Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions",
+      "doi": "10.1007/s10648-005-3951-0",
+      "openalex_id": "https://openalex.org/W2131057562",
+      "source_url": "https://doi.org/10.1007/s10648-005-3951-0",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2131370811",
+      "scope": "hop",
+      "type": "article",
+      "title": "Dual Space Search During Scientific Reasoning",
+      "doi": "10.1207/s15516709cog1201_1",
+      "openalex_id": "https://openalex.org/W2131370811",
+      "source_url": "https://doi.org/10.1207/s15516709cog1201_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2133705455",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Power of Testing Memory: Basic Research and Implications for Educational Practice",
+      "doi": "10.1111/j.1745-6916.2006.00012.x",
+      "openalex_id": "https://openalex.org/W2133705455",
+      "source_url": "https://doi.org/10.1111/j.1745-6916.2006.00012.x",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2133739167",
+      "scope": "hop",
+      "type": "article",
+      "title": "Learning artificial grammars with competitive chunking.",
+      "doi": "10.1037/0278-7393.16.4.592",
+      "openalex_id": "https://openalex.org/W2133739167",
+      "source_url": "https://doi.org/10.1037/0278-7393.16.4.592",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2134907585",
+      "scope": "hop",
+      "type": "article",
+      "title": "New Conceptualizations of Practice: Common Principles in Three Paradigms Suggest New Concepts for Training",
+      "doi": "10.1111/j.1467-9280.1992.tb00029.x",
+      "openalex_id": "https://openalex.org/W2134907585",
+      "source_url": "https://doi.org/10.1111/j.1467-9280.1992.tb00029.x",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2136070270",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "When and Why Does Mastery Learning Work: Instructional Experiments with ACT-R \u201cSimStudents\u201d",
+      "doi": "10.1007/3-540-47987-2_39",
+      "openalex_id": "https://openalex.org/W2136070270",
+      "source_url": "https://doi.org/10.1007/3-540-47987-2_39",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2136518234",
+      "scope": "hop",
+      "type": "article",
+      "title": "An Integrated Theory of the Mind.",
+      "doi": "10.1037/0033-295x.111.4.1036",
+      "openalex_id": "https://openalex.org/W2136518234",
+      "source_url": "https://doi.org/10.1037/0033-295x.111.4.1036",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2137247190",
+      "scope": "hop",
+      "type": "article",
+      "title": "The role of deliberate practice in the acquisition of expert performance.",
+      "doi": "10.1037/0033-295x.100.3.363",
+      "openalex_id": "https://openalex.org/W2137247190",
+      "source_url": "https://doi.org/10.1037/0033-295x.100.3.363",
+      "topic_codes": [
+        "T01",
+        "T03"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2137576942",
+      "scope": "hop",
+      "type": "article",
+      "title": "Cognitive load theory, learning difficulty, and instructional design",
+      "doi": "10.1016/0959-4752(94)90003-5",
+      "openalex_id": "https://openalex.org/W2137576942",
+      "source_url": "https://doi.org/10.1016/0959-4752(94)90003-5",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2138491732",
+      "scope": "hop",
+      "type": "article",
+      "title": "Advancing Development of Intercultural Competence through Supporting Predictions in Narrative Video",
+      "doi": "10.3233/irg-2009-19(3)02",
+      "openalex_id": "https://openalex.org/W2138491732",
+      "source_url": "https://doi.org/10.3233/irg-2009-19(3)02",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2139678233",
+      "scope": "hop",
+      "type": "article",
+      "title": "e\u2010Learning and the Science of Instruction",
+      "doi": "10.1002/acp.969",
+      "openalex_id": "https://openalex.org/W2139678233",
+      "source_url": "https://doi.org/10.1002/acp.969",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2140369176",
+      "scope": "hop",
+      "type": "article",
+      "title": "Those Who Understand: Knowledge Growth in Teaching",
+      "doi": "10.3102/0013189x015002004",
+      "openalex_id": "https://openalex.org/W2140369176",
+      "source_url": "https://doi.org/10.3102/0013189x015002004",
+      "topic_codes": [
+        "T05",
+        "T12"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2140420369",
+      "scope": "hop",
+      "type": "article",
+      "title": "Feminist HCI",
+      "doi": "10.1145/1753326.1753521",
+      "openalex_id": "https://openalex.org/W2140420369",
+      "source_url": "https://doi.org/10.1145/1753326.1753521",
+      "topic_codes": [
+        "T00",
+        "T03",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2140503925",
+      "scope": "hop",
+      "type": "article",
+      "title": "Animations need narrations: An experimental test of a dual-coding hypothesis.",
+      "doi": "10.1037/0022-0663.83.4.484",
+      "openalex_id": "https://openalex.org/W2140503925",
+      "source_url": "https://doi.org/10.1037/0022-0663.83.4.484",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2140995456",
+      "scope": "hop",
+      "type": "article",
+      "title": "Learning from Worked-Out Examples: The Effects of Example Variability and Elicited Self-Explanations",
+      "doi": "10.1006/ceps.1997.0959",
+      "openalex_id": "https://openalex.org/W2140995456",
+      "source_url": "https://doi.org/10.1006/ceps.1997.0959",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2142416448",
+      "scope": "hop",
+      "type": "review",
+      "title": "Student Learning: What Has Instruction Got to Do With It?",
+      "doi": "10.1146/annurev-psych-113011-143833",
+      "openalex_id": "https://openalex.org/W2142416448",
+      "source_url": "https://doi.org/10.1146/annurev-psych-113011-143833",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2143963523",
+      "scope": "hop",
+      "type": "article",
+      "title": "The effects of self\u2010explaining when learning with text or diagrams",
+      "doi": "10.1207/s15516709cog2704_5",
+      "openalex_id": "https://openalex.org/W2143963523",
+      "source_url": "https://doi.org/10.1207/s15516709cog2704_5",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2144208367",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Math Wars",
+      "doi": "10.1177/0895904803260042",
+      "openalex_id": "https://openalex.org/W2144208367",
+      "source_url": "https://doi.org/10.1177/0895904803260042",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2145560170",
+      "scope": "hop",
+      "type": "article",
+      "title": "Redirecting learners' attention during training: effects on cognitive load, transfer test performance and training efficiency",
+      "doi": "10.1016/s0959-4752(01)00020-2",
+      "openalex_id": "https://openalex.org/W2145560170",
+      "source_url": "https://doi.org/10.1016/s0959-4752(01)00020-2",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2146991114",
+      "scope": "hop",
+      "type": "article",
+      "title": "Development of left occipitotemporal systems for skilled reading in children after a phonologically- based intervention",
+      "doi": "10.1016/j.biopsych.2003.12.019",
+      "openalex_id": "https://openalex.org/W2146991114",
+      "source_url": "https://doi.org/10.1016/j.biopsych.2003.12.019",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2147435888",
+      "scope": "hop",
+      "type": "article",
+      "title": "Structuring Effective Worked Examples",
+      "doi": "10.1207/s1532690xci0701_1",
+      "openalex_id": "https://openalex.org/W2147435888",
+      "source_url": "https://doi.org/10.1207/s1532690xci0701_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2147489905",
+      "scope": "hop",
+      "type": "article",
+      "title": "Gamifying learning experiences: Practical implications and outcomes",
+      "doi": "10.1016/j.compedu.2012.12.020",
+      "openalex_id": "https://openalex.org/W2147489905",
+      "source_url": "https://doi.org/10.1016/j.compedu.2012.12.020",
+      "topic_codes": [
+        "T00",
+        "T03",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2147624292",
+      "scope": "hop",
+      "type": "article",
+      "title": "Systematic Review of Design-Based Research Progress",
+      "doi": "10.3102/0013189x12463781",
+      "openalex_id": "https://openalex.org/W2147624292",
+      "source_url": "https://doi.org/10.3102/0013189x12463781",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2147763969",
+      "scope": "hop",
+      "type": "article",
+      "title": "Developing conceptual understanding and procedural skill in mathematics: An iterative process.",
+      "doi": "10.1037/0022-0663.93.2.346",
+      "openalex_id": "https://openalex.org/W2147763969",
+      "source_url": "https://doi.org/10.1037/0022-0663.93.2.346",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2148119838",
+      "scope": "hop",
+      "type": "article",
+      "title": "How Fading Worked Solution Steps Works \u2013 A Cognitive Load Perspective",
+      "doi": "10.1023/b:truc.0000021815.74806.f6",
+      "openalex_id": "https://openalex.org/W2148119838",
+      "source_url": "https://doi.org/10.1023/b:truc.0000021815.74806.f6",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2148354545",
+      "scope": "hop",
+      "type": "article",
+      "title": "Retrieval-induced facilitation: Initially nontested material can benefit from prior testing of related material.",
+      "doi": "10.1037/0096-3445.135.4.553",
+      "openalex_id": "https://openalex.org/W2148354545",
+      "source_url": "https://doi.org/10.1037/0096-3445.135.4.553",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2150415683",
+      "scope": "hop",
+      "type": "article",
+      "title": "Tracing the development of teacher knowledge in a design seminar: Integrating content, pedagogy and technology",
+      "doi": "10.1016/j.compedu.2005.11.012",
+      "openalex_id": "https://openalex.org/W2150415683",
+      "source_url": "https://doi.org/10.1016/j.compedu.2005.11.012",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2153699412",
+      "scope": "hop",
+      "type": "article",
+      "title": "Reviving Inert Knowledge: Analogical Abstraction Supports Relational Retrieval of Past Events",
+      "doi": "10.1111/j.1551-6709.2009.01070.x",
+      "openalex_id": "https://openalex.org/W2153699412",
+      "source_url": "https://doi.org/10.1111/j.1551-6709.2009.01070.x",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2157535018",
+      "scope": "hop",
+      "type": "article",
+      "title": "Exploring the Assistance Dilemma in Experiments with Cognitive Tutors",
+      "doi": "10.1007/s10648-007-9049-0",
+      "openalex_id": "https://openalex.org/W2157535018",
+      "source_url": "https://doi.org/10.1007/s10648-007-9049-0",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2157565254",
+      "scope": "hop",
+      "type": "review",
+      "title": "Self-Regulated Learning: Beliefs, Techniques, and Illusions",
+      "doi": "10.1146/annurev-psych-113011-143823",
+      "openalex_id": "https://openalex.org/W2157565254",
+      "source_url": "https://doi.org/10.1146/annurev-psych-113011-143823",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2158241055",
+      "scope": "hop",
+      "type": "article",
+      "title": "Eliciting self-explanations improves understanding,",
+      "doi": "10.1016/0364-0213(94)90016-7",
+      "openalex_id": "https://openalex.org/W2158241055",
+      "source_url": "https://doi.org/10.1016/0364-0213(94)90016-7",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2160231112",
+      "scope": "hop",
+      "type": "article",
+      "title": "Understanding and applying the dynamics of test practice and study practice",
+      "doi": "10.1007/s11251-006-9013-2",
+      "openalex_id": "https://openalex.org/W2160231112",
+      "source_url": "https://doi.org/10.1007/s11251-006-9013-2",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2160534505",
+      "scope": "hop",
+      "type": "article",
+      "title": "The role of examples and rules in the acquisition of a cognitive skill.",
+      "doi": "10.1037/0278-7393.23.4.932",
+      "openalex_id": "https://openalex.org/W2160534505",
+      "source_url": "https://doi.org/10.1037/0278-7393.23.4.932",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2161374186",
+      "scope": "hop",
+      "type": "article",
+      "title": "Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement",
+      "doi": "10.1186/2046-4053-4-1",
+      "openalex_id": "https://openalex.org/W2161374186",
+      "source_url": "https://doi.org/10.1186/2046-4053-4-1",
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03",
+        "T04",
+        "T06",
+        "T07"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2162700863",
+      "scope": "hop",
+      "type": "article",
+      "title": "A reference model for learning analytics",
+      "doi": "10.1504/ijtel.2012.051815",
+      "openalex_id": "https://openalex.org/W2162700863",
+      "source_url": "https://doi.org/10.1504/ijtel.2012.051815",
+      "topic_codes": [
+        "T03",
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2162792036",
+      "scope": "hop",
+      "type": "book",
+      "title": "Rules of the Mind",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2162792036",
+      "source_url": "https://openalex.org/W2162792036",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2163569782",
+      "scope": "hop",
+      "type": "article",
+      "title": "Test-Enhanced Learning",
+      "doi": "10.1111/j.1467-9280.2006.01693.x",
+      "openalex_id": "https://openalex.org/W2163569782",
+      "source_url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2166550729",
+      "scope": "hop",
+      "type": "article",
+      "title": "Rapid dynamic assessment of expertise to improve the efficiency of adaptive e-learning",
+      "doi": "10.1007/bf02504800",
+      "openalex_id": "https://openalex.org/W2166550729",
+      "source_url": "https://doi.org/10.1007/bf02504800",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2169419728",
+      "scope": "hop",
+      "type": "article",
+      "title": "Spacing Effects in Learning",
+      "doi": "10.1111/j.1467-9280.2008.02209.x",
+      "openalex_id": "https://openalex.org/W2169419728",
+      "source_url": "https://doi.org/10.1111/j.1467-9280.2008.02209.x",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2171825763",
+      "scope": "hop",
+      "type": "article",
+      "title": "Evaluating and improving adaptive educational systems with learning curves",
+      "doi": "10.1007/s11257-010-9084-2",
+      "openalex_id": "https://openalex.org/W2171825763",
+      "source_url": "https://doi.org/10.1007/s11257-010-9084-2",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2172297119",
+      "scope": "hop",
+      "type": "article",
+      "title": "Trade\u2010Offs Between Grounded and Abstract Representations: Evidence From Algebra Problem Solving",
+      "doi": "10.1080/03640210701863933",
+      "openalex_id": "https://openalex.org/W2172297119",
+      "source_url": "https://doi.org/10.1080/03640210701863933",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2180885055",
+      "scope": "hop",
+      "type": "article",
+      "title": "Explanation-Based Generalization: A Unifying View",
+      "doi": "10.1023/a:1022691120807",
+      "openalex_id": "https://openalex.org/W2180885055",
+      "source_url": "https://doi.org/10.1023/a:1022691120807",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2211069567",
+      "scope": "hop",
+      "type": "article",
+      "title": "Rethinking the Boundaries of Cognitive Load Theory in Complex Learning",
+      "doi": "10.1007/s10648-015-9352-0",
+      "openalex_id": "https://openalex.org/W2211069567",
+      "source_url": "https://doi.org/10.1007/s10648-015-9352-0",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W22297218",
+      "scope": "hop",
+      "type": "book",
+      "title": "The Organization of Behavior",
+      "doi": "10.4324/9781410612403",
+      "openalex_id": "https://openalex.org/W22297218",
+      "source_url": "https://doi.org/10.4324/9781410612403",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2232925767",
+      "scope": "hop",
+      "type": "book",
+      "title": "The Psychology of Learning and Motivation: Advances in Research and Theory",
+      "doi": "10.1016/c2009-0-62209-1",
+      "openalex_id": "https://openalex.org/W2232925767",
+      "source_url": "https://doi.org/10.1016/c2009-0-62209-1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2237600160",
+      "scope": "hop",
+      "type": "article",
+      "title": "Help Helps, But Only So Much: Research on Help Seeking with Intelligent Tutoring Systems",
+      "doi": "10.1007/s40593-015-0089-1",
+      "openalex_id": "https://openalex.org/W2237600160",
+      "source_url": "https://doi.org/10.1007/s40593-015-0089-1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2261910606",
+      "scope": "hop",
+      "type": "article",
+      "title": "Example-Tracing Tutors: Intelligent Tutor Development for Non-programmers",
+      "doi": "10.1007/s40593-015-0088-2",
+      "openalex_id": "https://openalex.org/W2261910606",
+      "source_url": "https://doi.org/10.1007/s40593-015-0088-2",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2293509135",
+      "scope": "hop",
+      "type": "review",
+      "title": "Relational categories as a bridge between cognitive and educational research.",
+      "doi": "10.1037/bul0000043",
+      "openalex_id": "https://openalex.org/W2293509135",
+      "source_url": "https://doi.org/10.1037/bul0000043",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2320084995",
+      "scope": "hop",
+      "type": "article",
+      "title": "Toward a Theory of Instruction",
+      "doi": "10.1097/00006842-196611000-00010",
+      "openalex_id": "https://openalex.org/W2320084995",
+      "source_url": "https://doi.org/10.1097/00006842-196611000-00010",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2326141067",
+      "scope": "hop",
+      "type": "article",
+      "title": "Taxonomy of Educational Objectives. Handbook I: Cognitive Domain",
+      "doi": "10.2307/3119730",
+      "openalex_id": "https://openalex.org/W2326141067",
+      "source_url": "https://doi.org/10.2307/3119730",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2333196491",
+      "scope": "hop",
+      "type": "article",
+      "title": "Human Problem Solving.",
+      "doi": "10.2307/2063712",
+      "openalex_id": "https://openalex.org/W2333196491",
+      "source_url": "https://doi.org/10.2307/2063712",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2337068785",
+      "scope": "hop",
+      "type": "book",
+      "title": "Multimedia Learning",
+      "doi": "10.1016/s0079-7421(02)80005-6",
+      "openalex_id": "https://openalex.org/W2337068785",
+      "source_url": "https://doi.org/10.1016/s0079-7421(02)80005-6",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2339255380",
+      "scope": "hop",
+      "type": "article",
+      "title": "Stupid Tutoring Systems, Intelligent Humans",
+      "doi": "10.1007/s40593-016-0105-0",
+      "openalex_id": "https://openalex.org/W2339255380",
+      "source_url": "https://doi.org/10.1007/s40593-016-0105-0",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2340555101",
+      "scope": "hop",
+      "type": "article",
+      "title": "How Mastery Learning Works at Scale",
+      "doi": "10.1145/2876034.2876039",
+      "openalex_id": "https://openalex.org/W2340555101",
+      "source_url": "https://doi.org/10.1145/2876034.2876039",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2342209196",
+      "scope": "hop",
+      "type": "article",
+      "title": "Conditions for the Effectiveness of Multiple Visual Representations in Enhancing STEM Learning",
+      "doi": "10.1007/s10648-016-9365-3",
+      "openalex_id": "https://openalex.org/W2342209196",
+      "source_url": "https://doi.org/10.1007/s10648-016-9365-3",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2463230187",
+      "scope": "hop",
+      "type": "article",
+      "title": "Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning.",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2463230187",
+      "source_url": "https://openalex.org/W2463230187",
+      "topic_codes": [
+        "T01",
+        "T03"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2489865376",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Cognitive Apprenticeship: Teaching the Crafts of Reading, Writing, and Mathematics",
+      "doi": "10.4324/9781315044408-14",
+      "openalex_id": "https://openalex.org/W2489865376",
+      "source_url": "https://doi.org/10.4324/9781315044408-14",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2495004645",
+      "scope": "hop",
+      "type": "article",
+      "title": "Towards a Theory of When and How Problem Solving Followed by Instruction Supports Learning",
+      "doi": "10.1007/s10648-016-9379-x",
+      "openalex_id": "https://openalex.org/W2495004645",
+      "source_url": "https://doi.org/10.1007/s10648-016-9379-x",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2551301908",
+      "scope": "hop",
+      "type": "article",
+      "title": "The role of argumentation and explanation in conceptual change: Indications from protocol analyses of peer-to-peer dialogue",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2551301908",
+      "source_url": "https://openalex.org/W2551301908",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2560703437",
+      "scope": "hop",
+      "type": "article",
+      "title": "Peak: Secrets From the New Science of Expertise",
+      "doi": "10.1123/iscj.2016-0089",
+      "openalex_id": "https://openalex.org/W2560703437",
+      "source_url": "https://doi.org/10.1123/iscj.2016-0089",
+      "topic_codes": [
+        "T01",
+        "T03"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2567228826",
+      "scope": "hop",
+      "type": "article",
+      "title": "Enhancing learning outcomes through self-regulated learning support with an Open Learner Model",
+      "doi": "10.1007/s11257-016-9186-6",
+      "openalex_id": "https://openalex.org/W2567228826",
+      "source_url": "https://doi.org/10.1007/s11257-016-9186-6",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2594908799",
+      "scope": "hop",
+      "type": "article",
+      "title": "Proceedings for the Annual Meeting of the Cognitive Science Society",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2594908799",
+      "source_url": "https://openalex.org/W2594908799",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2606747632",
+      "scope": "hop",
+      "type": "article",
+      "title": "Proceedings of the 31st Annual Conference of the Cognitive Science Society.",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2606747632",
+      "source_url": "https://openalex.org/W2606747632",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2612152805",
+      "scope": "hop",
+      "type": "article",
+      "title": "Proceedings of the Twenty-Third Annual Conference of the Cognitive Science Society",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2612152805",
+      "source_url": "https://openalex.org/W2612152805",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2614883504",
+      "scope": "hop",
+      "type": "article",
+      "title": "Instruction Based on Adaptive Learning Technologies",
+      "doi": "10.4324/9781315736419.ch24",
+      "openalex_id": "https://openalex.org/W2614883504",
+      "source_url": "https://doi.org/10.4324/9781315736419.ch24",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2615786590",
+      "scope": "hop",
+      "type": "article",
+      "title": "Bayesian knowledge tracing, logistic models, and beyond: an overview of learner modeling techniques",
+      "doi": "10.1007/s11257-017-9193-2",
+      "openalex_id": "https://openalex.org/W2615786590",
+      "source_url": "https://doi.org/10.1007/s11257-017-9193-2",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2618608669",
+      "scope": "hop",
+      "type": "article",
+      "title": "Proceedings of the 32nd Annual Conference of the Cognitive Science Society",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2618608669",
+      "source_url": "https://openalex.org/W2618608669",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2738883334",
+      "scope": "hop",
+      "type": "article",
+      "title": "In Vivo Experiments on Whether Supporting Metacognition in Intelligent Tutoring Systems Yields Robust Learning",
+      "doi": "10.4324/9780203876428.ch20",
+      "openalex_id": "https://openalex.org/W2738883334",
+      "source_url": "https://doi.org/10.4324/9780203876428.ch20",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2767051907",
+      "scope": "hop",
+      "type": "review",
+      "title": "Authoring Tools for Designing Intelligent Tutoring Systems: a Systematic Review of the Literature",
+      "doi": "10.1007/s40593-017-0157-9",
+      "openalex_id": "https://openalex.org/W2767051907",
+      "source_url": "https://doi.org/10.1007/s40593-017-0157-9",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2767277073",
+      "scope": "hop",
+      "type": "article",
+      "title": "Cascade Explains and Informs the Utility of Fading Examples to Problems",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2767277073",
+      "source_url": "https://openalex.org/W2767277073",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2767970495",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Why Example Fading Works: A Qualitative Analysis Using Cascade",
+      "doi": "10.4324/9781315782379-88",
+      "openalex_id": "https://openalex.org/W2767970495",
+      "source_url": "https://doi.org/10.4324/9781315782379-88",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2770182351",
+      "scope": "hop",
+      "type": "review",
+      "title": "Big Data and data science: A critical review of issues for educational research",
+      "doi": "10.1111/bjet.12595",
+      "openalex_id": "https://openalex.org/W2770182351",
+      "source_url": "https://doi.org/10.1111/bjet.12595",
+      "topic_codes": [
+        "T03",
+        "T04",
+        "T06",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2785349534",
+      "scope": "hop",
+      "type": "article",
+      "title": "Unsupervised Models for Named Entity Classification",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2785349534",
+      "source_url": "https://openalex.org/W2785349534",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2790783572",
+      "scope": "hop",
+      "type": "article",
+      "title": "Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2790783572",
+      "source_url": "https://openalex.org/W2790783572",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2888486405",
+      "scope": "hop",
+      "type": "article",
+      "title": "Personalizing Algebra to Students\u2019 Individual Interests in an Intelligent Tutoring System: Moderators of Impact",
+      "doi": "10.1007/s40593-018-0168-1",
+      "openalex_id": "https://openalex.org/W2888486405",
+      "source_url": "https://doi.org/10.1007/s40593-018-0168-1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2890544186",
+      "scope": "hop",
+      "type": "article",
+      "title": "Learning Analytics for Learning Design: A Systematic Literature Review of Analytics-Driven Design to Enhance Learning",
+      "doi": "10.1109/tlt.2018.2868673",
+      "openalex_id": "https://openalex.org/W2890544186",
+      "source_url": "https://doi.org/10.1109/tlt.2018.2868673",
+      "topic_codes": [
+        "T01",
+        "T04",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2904980464",
+      "scope": "hop",
+      "type": "review",
+      "title": "Utilising learning analytics to support study success in higher education: a systematic review",
+      "doi": "10.1007/s11423-020-09788-z",
+      "openalex_id": "https://openalex.org/W2904980464",
+      "source_url": "https://doi.org/10.1007/s11423-020-09788-z",
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03",
+        "T04"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2912828701",
+      "scope": "hop",
+      "type": "article",
+      "title": "The effect of expanded versus massed practice on the retention of multiplication facts and spelling lists.",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2912828701",
+      "source_url": "https://openalex.org/W2912828701",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2920253877",
+      "scope": "hop",
+      "type": "article",
+      "title": "A Conceptual History of the Achievement Goal Construct.",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2920253877",
+      "source_url": "https://openalex.org/W2920253877",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2946580964",
+      "scope": "hop",
+      "type": "review",
+      "title": "A Systematic Review of Empirical Studies on Learning Analytics Dashboards: A Self-Regulated Learning Perspective",
+      "doi": "10.1109/tlt.2019.2916802",
+      "openalex_id": "https://openalex.org/W2946580964",
+      "source_url": "https://doi.org/10.1109/tlt.2019.2916802",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2949159326",
+      "scope": "hop",
+      "type": "article",
+      "title": "Applications of data science to game learning analytics data: A systematic literature review",
+      "doi": "10.1016/j.compedu.2019.103612",
+      "openalex_id": "https://openalex.org/W2949159326",
+      "source_url": "https://doi.org/10.1016/j.compedu.2019.103612",
+      "topic_codes": [
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2953522645",
+      "scope": "hop",
+      "type": "article",
+      "title": "The global landscape of AI ethics guidelines",
+      "doi": "10.1038/s42256-019-0088-2",
+      "openalex_id": "https://openalex.org/W2953522645",
+      "source_url": "https://doi.org/10.1038/s42256-019-0088-2",
+      "topic_codes": [
+        "T00",
+        "T13",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2962798420",
+      "scope": "hop",
+      "type": "article",
+      "title": "Designing educational technologies in the age of AI: A learning sciences\u2010driven approach",
+      "doi": "10.1111/bjet.12861",
+      "openalex_id": "https://openalex.org/W2962798420",
+      "source_url": "https://doi.org/10.1111/bjet.12861",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2969625533",
+      "scope": "hop",
+      "type": "article",
+      "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "doi": "10.1016/j.ijinfomgt.2019.08.002",
+      "openalex_id": "https://openalex.org/W2969625533",
+      "source_url": "https://doi.org/10.1016/j.ijinfomgt.2019.08.002",
+      "topic_codes": [
+        "T00",
+        "T13",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2979190497",
+      "scope": "hop",
+      "type": "article",
+      "title": "Using radicals in teaching Chinese characters to second language learners",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W2979190497",
+      "source_url": "https://openalex.org/W2979190497",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W2993450401",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Design-Based Research",
+      "doi": "10.1017/cbo9780511816833.011",
+      "openalex_id": "https://openalex.org/W2993450401",
+      "source_url": "https://doi.org/10.1017/cbo9780511816833.011",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3000065748",
+      "scope": "hop",
+      "type": "article",
+      "title": "Educational data mining and learning analytics: An updated survey",
+      "doi": "10.1002/widm.1355",
+      "openalex_id": "https://openalex.org/W3000065748",
+      "source_url": "https://doi.org/10.1002/widm.1355",
+      "topic_codes": [
+        "T04",
+        "T06",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3006837908",
+      "scope": "hop",
+      "type": "article",
+      "title": "Artificial intelligence for education: Knowledge and its assessment in AI-enabled learning ecologies",
+      "doi": "10.1080/00131857.2020.1728732",
+      "openalex_id": "https://openalex.org/W3006837908",
+      "source_url": "https://doi.org/10.1080/00131857.2020.1728732",
+      "topic_codes": [
+        "T04",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3029186289",
+      "scope": "hop",
+      "type": "review",
+      "title": "Psychological foundations of emerging technologies for teaching and learning in higher education",
+      "doi": "10.1016/j.copsyc.2020.04.011",
+      "openalex_id": "https://openalex.org/W3029186289",
+      "source_url": "https://doi.org/10.1016/j.copsyc.2020.04.011",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3036734628",
+      "scope": "hop",
+      "type": "article",
+      "title": "Educational design research: Portraying, conducting, and enhancing productive scholarship",
+      "doi": "10.1111/medu.14280",
+      "openalex_id": "https://openalex.org/W3036734628",
+      "source_url": "https://doi.org/10.1111/medu.14280",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3046530224",
+      "scope": "hop",
+      "type": "article",
+      "title": "Historical threads, missing links, and future directions in AI in education",
+      "doi": "10.1080/17439884.2020.1798995",
+      "openalex_id": "https://openalex.org/W3046530224",
+      "source_url": "https://doi.org/10.1080/17439884.2020.1798995",
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03",
+        "T04",
+        "T13",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3049252626",
+      "scope": "hop",
+      "type": "article",
+      "title": "Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains",
+      "doi": "10.1007/s10648-020-09561-x",
+      "openalex_id": "https://openalex.org/W3049252626",
+      "source_url": "https://doi.org/10.1007/s10648-020-09561-x",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3084223432",
+      "scope": "hop",
+      "type": "article",
+      "title": "Application and theory gaps during the rise of Artificial Intelligence in Education",
+      "doi": "10.1016/j.caeai.2020.100002",
+      "openalex_id": "https://openalex.org/W3084223432",
+      "source_url": "https://doi.org/10.1016/j.caeai.2020.100002",
+      "topic_codes": [
+        "T00",
+        "T04",
+        "T06",
+        "T13",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3096180801",
+      "scope": "hop",
+      "type": "article",
+      "title": "When is Deep Learning the Best Approach to Knowledge Tracing?",
+      "doi": "10.5281/zenodo.4143614",
+      "openalex_id": "https://openalex.org/W3096180801",
+      "source_url": "https://doi.org/10.5281/zenodo.4143614",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3128690923",
+      "scope": "hop",
+      "type": "book",
+      "title": "Handbook of Research on Educational Communications and Technology",
+      "doi": "10.4324/9781410609519",
+      "openalex_id": "https://openalex.org/W3128690923",
+      "source_url": "https://doi.org/10.4324/9781410609519",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06",
+        "T08",
+        "T10",
+        "T13"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3146115948",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "The Taxonomy of Educational Objectives",
+      "doi": "10.1007/978-1-4419-1428-6_6027",
+      "openalex_id": "https://openalex.org/W3146115948",
+      "source_url": "https://doi.org/10.1007/978-1-4419-1428-6_6027",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3147653952",
+      "scope": "hop",
+      "type": "article",
+      "title": "Proceedings of the 29th Annual Conference of the Cognitive Science Society",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W3147653952",
+      "source_url": "https://openalex.org/W3147653952",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W3158904737",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "A Data Repository for the EDM Community: The PSLC DataShop",
+      "doi": "10.1201/b10274-10",
+      "openalex_id": "https://openalex.org/W3158904737",
+      "source_url": "https://doi.org/10.1201/b10274-10",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W37106624",
+      "scope": "hop",
+      "type": "article",
+      "title": "Explaining Self-Explaining: A Contrast between Content and Generation",
+      "doi": "10.3390/bioengineering10040437",
+      "openalex_id": "https://openalex.org/W37106624",
+      "source_url": "https://doi.org/10.3390/bioengineering10040437",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4229056760",
+      "scope": "hop",
+      "type": "review",
+      "title": "The Promises and Challenges of Artificial Intelligence for Teachers: a Systematic Review of Research",
+      "doi": "10.1007/s11528-022-00715-y",
+      "openalex_id": "https://openalex.org/W4229056760",
+      "source_url": "https://doi.org/10.1007/s11528-022-00715-y",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4231434309",
+      "scope": "hop",
+      "type": "article",
+      "title": "Effects of schema acquisition and rule automation on mathematical problem-solving transfer.",
+      "doi": "10.1037//0022-0663.79.4.347",
+      "openalex_id": "https://openalex.org/W4231434309",
+      "source_url": "https://doi.org/10.1037//0022-0663.79.4.347",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4238339051",
+      "scope": "hop",
+      "type": "article",
+      "title": "Generalizing solution procedures learned from examples.",
+      "doi": "10.1037//0278-7393.22.4.1020",
+      "openalex_id": "https://openalex.org/W4238339051",
+      "source_url": "https://doi.org/10.1037//0278-7393.22.4.1020",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4239613992",
+      "scope": "hop",
+      "type": "article",
+      "title": "Toward an Epistemology of Physics",
+      "doi": "10.1080/07370008.1985.9649008",
+      "openalex_id": "https://openalex.org/W4239613992",
+      "source_url": "https://doi.org/10.1080/07370008.1985.9649008",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4239816899",
+      "scope": "hop",
+      "type": "article",
+      "title": "Self\u2010Explanations: How Students Study and Use Examples in Learning to Solve Problems",
+      "doi": "10.1207/s15516709cog1302_1",
+      "openalex_id": "https://openalex.org/W4239816899",
+      "source_url": "https://doi.org/10.1207/s15516709cog1302_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4243420394",
+      "scope": "hop",
+      "type": "article",
+      "title": "Eliciting Self\u2010Explanations Improves Understanding",
+      "doi": "10.1207/s15516709cog1803_3",
+      "openalex_id": "https://openalex.org/W4243420394",
+      "source_url": "https://doi.org/10.1207/s15516709cog1803_3",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4245961435",
+      "scope": "hop",
+      "type": "book",
+      "title": "Situated Learning",
+      "doi": "10.1017/cbo9780511815355",
+      "openalex_id": "https://openalex.org/W4245961435",
+      "source_url": "https://doi.org/10.1017/cbo9780511815355",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4248308907",
+      "scope": "hop",
+      "type": "article",
+      "title": "Explanation-based generalization: A unifying view",
+      "doi": "10.1007/bf00116250",
+      "openalex_id": "https://openalex.org/W4248308907",
+      "source_url": "https://doi.org/10.1007/bf00116250",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4250727746",
+      "scope": "hop",
+      "type": "article",
+      "title": "An effective metacognitive strategy: learning by doing and explaining with a computer\u2010based Cognitive Tutor",
+      "doi": "10.1207/s15516709cog2602_1",
+      "openalex_id": "https://openalex.org/W4250727746",
+      "source_url": "https://doi.org/10.1207/s15516709cog2602_1",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4283746498",
+      "scope": "hop",
+      "type": "article",
+      "title": "Design-based research: What it is and why it matters to studying online learning",
+      "doi": "10.1080/00461520.2022.2079128",
+      "openalex_id": "https://openalex.org/W4283746498",
+      "source_url": "https://doi.org/10.1080/00461520.2022.2079128",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4285086207",
+      "scope": "hop",
+      "type": "article",
+      "title": "Foundations of online learning: Challenges and opportunities",
+      "doi": "10.1080/00461520.2022.2090364",
+      "openalex_id": "https://openalex.org/W4285086207",
+      "source_url": "https://doi.org/10.1080/00461520.2022.2090364",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4292952947",
+      "scope": "hop",
+      "type": "article",
+      "title": "What video games have to teach us about learning and literacy",
+      "doi": "10.1145/950566.950595",
+      "openalex_id": "https://openalex.org/W4292952947",
+      "source_url": "https://doi.org/10.1145/950566.950595",
+      "topic_codes": [
+        "T00",
+        "T03",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4301914006",
+      "scope": "hop",
+      "type": "article",
+      "title": "Unified Theories of Cognition",
+      "doi": "10.2307/1422886",
+      "openalex_id": "https://openalex.org/W4301914006",
+      "source_url": "https://doi.org/10.2307/1422886",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4302282158",
+      "scope": "hop",
+      "type": "article",
+      "title": "The Research\u2013Practice Dialogue in Second Language Learning and Teaching: Past, Present, and Future",
+      "doi": "10.1111/modl.12791",
+      "openalex_id": "https://openalex.org/W4302282158",
+      "source_url": "https://doi.org/10.1111/modl.12791",
+      "topic_codes": [
+        "T03",
+        "T15",
+        "T17"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4307888124",
+      "scope": "hop",
+      "type": "article",
+      "title": "State of the art and practice in <scp>AI</scp> in education",
+      "doi": "10.1111/ejed.12533",
+      "openalex_id": "https://openalex.org/W4307888124",
+      "source_url": "https://doi.org/10.1111/ejed.12533",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4308066047",
+      "scope": "hop",
+      "type": "review",
+      "title": "A systematic review of the role of learning analytics in enhancing feedback practices in higher education",
+      "doi": "10.1016/j.edurev.2022.100489",
+      "openalex_id": "https://openalex.org/W4308066047",
+      "source_url": "https://doi.org/10.1016/j.edurev.2022.100489",
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03",
+        "T04",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4362581834",
+      "scope": "hop",
+      "type": "article",
+      "title": "Revolutionizing education with AI: Exploring the transformative potential of ChatGPT",
+      "doi": "10.30935/cedtech/13152",
+      "openalex_id": "https://openalex.org/W4362581834",
+      "source_url": "https://doi.org/10.30935/cedtech/13152",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W4366783381",
+      "scope": "hop",
+      "type": "article",
+      "title": "Artificial intelligence in higher education: the state of the field",
+      "doi": "10.1186/s41239-023-00392-8",
+      "openalex_id": "https://openalex.org/W4366783381",
+      "source_url": "https://doi.org/10.1186/s41239-023-00392-8",
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03",
+        "T04",
+        "T06",
+        "T07"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W49761325",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Implications of the ACT-R Learning Theory: No Magic Bullets",
+      "doi": "10.1184/r1/6615140",
+      "openalex_id": "https://openalex.org/W49761325",
+      "source_url": "https://doi.org/10.1184/r1/6615140",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W54318667",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "A Cognitive Task Analysis of Using Pictures To Support Pre-Algebraic Reasoning",
+      "doi": "10.4324/9781315782379-129",
+      "openalex_id": "https://openalex.org/W54318667",
+      "source_url": "https://doi.org/10.4324/9781315782379-129",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W568024311",
+      "scope": "hop",
+      "type": "book",
+      "title": "Cognitively Diagnostic Assessment",
+      "doi": "10.4324/9780203052969",
+      "openalex_id": "https://openalex.org/W568024311",
+      "source_url": "https://doi.org/10.4324/9780203052969",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W595197191",
+      "scope": "hop",
+      "type": "book",
+      "title": "Handbook of Metacognition in Education",
+      "doi": "10.4324/9780203876428",
+      "openalex_id": "https://openalex.org/W595197191",
+      "source_url": "https://doi.org/10.4324/9780203876428",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W600881208",
+      "scope": "hop",
+      "type": "book",
+      "title": "Advances in Instructional Psychology",
+      "doi": "10.4324/9781315864341",
+      "openalex_id": "https://openalex.org/W600881208",
+      "source_url": "https://doi.org/10.4324/9781315864341",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W612243507",
+      "scope": "hop",
+      "type": "book",
+      "title": "Review of research in education",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W612243507",
+      "source_url": "https://openalex.org/W612243507",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W643967429",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Educational Data Mining and Learning Analytics",
+      "doi": "10.1017/cbo9781139519526.016",
+      "openalex_id": "https://openalex.org/W643967429",
+      "source_url": "https://doi.org/10.1017/cbo9781139519526.016",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W75572175",
+      "scope": "hop",
+      "type": "article",
+      "title": "Key Misconceptions in Algebraic Problem Solving",
+      "doi": "",
+      "openalex_id": "https://openalex.org/W75572175",
+      "source_url": "https://openalex.org/W75572175",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "W86846322",
+      "scope": "hop",
+      "type": "book-chapter",
+      "title": "Emotions During the Learning of Difficult Material",
+      "doi": "10.1016/b978-0-12-394293-7.00005-4",
+      "openalex_id": "https://openalex.org/W86846322",
+      "source_url": "https://doi.org/10.1016/b978-0-12-394293-7.00005-4",
+      "topic_codes": [
+        "T01",
+        "T03",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-001",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Learning Engineering: A Developing Discipline (Chapter 1)",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-002",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "What is Learning Engineering? (Saxberg 2016)",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T00",
+        "T13",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-003",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "The Science of Learning: 77 Studies That Every Teacher Should Know",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T01",
+        "T03"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-004",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Improving Students' Learning With Effective Practice Techniques",
+      "doi": "10.1177/1529100612453266",
+      "openalex_id": "",
+      "source_url": "https://doi.org/10.1177/1529100612453266",
+      "topic_codes": [
+        "T01"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-005",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Human Systems Integration Handbook",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T02",
+        "T13"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-006",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Cognitive Load Theory",
+      "doi": "10.1007/978-1-4612-3662-2",
+      "openalex_id": "",
+      "source_url": "https://doi.org/10.1007/978-1-4612-3662-2",
+      "topic_codes": [
+        "T01",
+        "T06",
+        "T12"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-007",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Learning Engineering Toolkit (LEVI)",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T03",
+        "T00",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-008",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Knowledge-Learning-Instruction Framework",
+      "doi": "10.1111/j.1551-6709.2012.01245.x",
+      "openalex_id": "",
+      "source_url": "https://doi.org/10.1111/j.1551-6709.2012.01245.x",
+      "topic_codes": [
+        "T03",
+        "T01",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-009",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Educational Data Mining: A Review of the State-of-the-Art",
+      "doi": "10.1109/TSMCC.2010.2053532",
+      "openalex_id": "",
+      "source_url": "https://doi.org/10.1109/TSMCC.2010.2053532",
+      "topic_codes": [
+        "T04",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-010",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Learning Analytics: The Emergence of a Discipline",
+      "doi": "10.1177/0002764213498851",
+      "openalex_id": "",
+      "source_url": "https://doi.org/10.1177/0002764213498851",
+      "topic_codes": [
+        "T04",
+        "T11"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-011",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Competency-Based Education: A Framework for Practice",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T05",
+        "T12"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-013",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Intelligent Tutoring Systems: A Comprehensive Review",
+      "doi": "10.1080/10494820.2018.1558257",
+      "openalex_id": "",
+      "source_url": "https://doi.org/10.1080/10494820.2018.1558257",
+      "topic_codes": [
+        "T06",
+        "T07"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-015",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "A Survey of Large Language Models for Education",
+      "doi": "2311.07174",
+      "openalex_id": "",
+      "source_url": "https://doi.org/2311.07174",
+      "topic_codes": [
+        "T07",
+        "T06"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-017",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Simulation-Based Learning: Theory and Practice",
+      "doi": "10.1111/j.1744-6570.2011.01190.x",
+      "openalex_id": "",
+      "source_url": "https://doi.org/10.1111/j.1744-6570.2011.01190.x",
+      "topic_codes": [
+        "T08",
+        "T10",
+        "T13"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-019",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "A Practical Guide to Cognitive Task Analysis",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T09",
+        "T10"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-021",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Evaluating Training Programs: The Four Levels",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T10",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-027",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Human Error",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T13",
+        "T02"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-029",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Algorithmic Fairness in Education",
+      "doi": "2210.00909",
+      "openalex_id": "",
+      "source_url": "https://doi.org/2210.00909",
+      "topic_codes": [
+        "T14",
+        "T07",
+        "T04"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-031",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Toward a Science of Exceptional Achievement",
+      "doi": "10.1196/annals.1373.001",
+      "openalex_id": "",
+      "source_url": "https://doi.org/10.1196/annals.1373.001",
+      "topic_codes": [
+        "T15",
+        "T09"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-033",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "IEEE ICICLE Body of Knowledge \u2014 current version",
+      "doi": "",
+      "openalex_id": "",
+      "source_url": "",
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    },
+    {
+      "id": "LE-T1-035",
+      "scope": "seed",
+      "type": "seed_record",
+      "title": "Design-Based Research: An Emerging Paradigm for Educational Inquiry",
+      "doi": "10.3102/0013189X032001005",
+      "openalex_id": "",
+      "source_url": "https://doi.org/10.3102/0013189X032001005",
+      "topic_codes": [
+        "T17",
+        "T03",
+        "T15"
+      ],
+      "abstract_source": "",
+      "is_proxy_description": false,
+      "has_abstract_text": false
+    }
+  ]
+}

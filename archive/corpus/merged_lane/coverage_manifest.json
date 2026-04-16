@@ -1,0 +1,18 @@
+{
+  "description": "Declares which program/person registry rows must have at least one representative row in lane_work_specs.json, and minimum thematic breadth. Edit this when you expand merged-lane coverage; tests enforce it.",
+  "required_registry_program_ids": [
+    "LE-PP-001",
+    "LE-PP-002",
+    "LE-PP-004",
+    "LE-PP-024",
+    "LE-PP-030"
+  ],
+  "required_registry_person_ids": [
+    "LE-PP-010",
+    "LE-PP-011",
+    "LE-PP-012",
+    "LE-PP-013",
+    "LE-PP-014"
+  ],
+  "minimum_thematic_rows": 1
+}

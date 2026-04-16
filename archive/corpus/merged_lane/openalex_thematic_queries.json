@@ -1,0 +1,35 @@
+{
+  "description": "Canonical OpenAlex search intents for broad-lane thematic harvests. Use these strings (or equivalent filters) when expanding the merged corpus; dedupe against seed, one-hop, and existing merged-lane work IDs.",
+  "updated_note": "Prefer title.search, publication_year, is_paratext:false, and mailto= on API calls per OpenAlex guidelines.",
+  "queries": [
+    {
+      "id": "ai_education",
+      "label": "AI + education",
+      "summary": "Artificial intelligence in education, AIED, intelligent tutoring, and GenAI/LLM-in-education surveys not already covered by seeds.",
+      "openalex_search": "(\"artificial intelligence\" AND education) OR \"AI in education\" OR AIED OR (\"intelligent tutoring\" AND survey)",
+      "suggested_filters": "is_paratext:false, type:article|review, publication_year:2018-2026",
+      "primary_topic_codes": ["T07", "T06", "T04"],
+      "default_corpus_tier": "expanded"
+    },
+    {
+      "id": "ai_learning_engineering",
+      "label": "AI + learning engineering",
+      "summary": "Scholarly works that explicitly connect learning engineering as a field or practice with AI, machine learning, or foundation models (often low yield—post-filter for IEEE/ICICLE/LAK/L@S relevance).",
+      "openalex_search": "\"learning engineering\" AND (\"artificial intelligence\" OR \"machine learning\" OR \"large language model\" OR generative OR \"foundation model\")",
+      "suggested_filters": "is_paratext:false, type:article|review, publication_year:2018-2026",
+      "primary_topic_codes": ["T00", "T07", "T03", "T16"],
+      "default_corpus_tier": "core",
+      "notes": "Yields few items; consider supplementing with venue-filtered harvest (Learning@Scale, ICICLE-adjacent proceedings) and manual registry alignment."
+    },
+    {
+      "id": "llms_in_education",
+      "label": "LLMs in education",
+      "summary": "Large language models, chatbots, and generative AI in teaching, learning, assessment, and classroom or LMS workflows—including surveys, design patterns, risks, and efficacy studies.",
+      "openalex_search": "(\"large language model\" OR LLM OR ChatGPT OR \"generative AI\") AND (education OR classroom OR \"higher education\" OR assessment OR tutoring OR \"learning outcome\")",
+      "suggested_filters": "is_paratext:false, type:article|review, publication_year:2020-2026",
+      "primary_topic_codes": ["T07", "T06", "T04"],
+      "default_corpus_tier": "expanded",
+      "notes": "Dedupe against seed/one-hop (many LLM-education surveys are already cited). Prefer venue-tagged follow-ups and empirical classroom studies."
+    }
+  ]
+}

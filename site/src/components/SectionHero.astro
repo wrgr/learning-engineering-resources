@@ -1,0 +1,40 @@
+---
+// Section-page header: eyebrow, title, anchor question.
+
+interface Props {
+  eyebrow: string;
+  title: string;
+  question: string;
+  count?: number;
+}
+
+const { eyebrow, title, question, count } = Astro.props;
+---
+
+<header class="section-hero">
+  <div class="container">
+    <div class="eyebrow">{eyebrow}{count !== undefined && <span class="count"> · {count} items</span>}</div>
+    <h1>{title}</h1>
+    <p class="question">{question}</p>
+  </div>
+</header>
+
+<style>
+  .section-hero {
+    border-bottom: 1px solid var(--border);
+    background: var(--tint);
+  }
+  .section-hero .container {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+  .count { color: var(--muted); font-weight: 400; letter-spacing: 0; text-transform: none; }
+  .question {
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    font-style: italic;
+    color: var(--ink-soft);
+    margin: 0;
+    max-width: var(--measure);
+  }
+</style>

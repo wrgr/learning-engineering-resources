@@ -1,0 +1,142 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "People Record",
+  "description": "Schema for a person in the learning engineering people search registry.",
+  "type": "object",
+  "required": ["person_id", "display_name", "status", "provenance"],
+  "properties": {
+    "person_id": {
+      "type": "string",
+      "description": "Stable unique identifier, e.g. LE-P-001"
+    },
+    "first_name": {
+      "type": "string",
+      "description": "Given name, parsed from display_name when possible"
+    },
+    "last_name": {
+      "type": "string",
+      "description": "Family name, parsed from display_name when possible"
+    },
+    "display_name": {
+      "type": "string",
+      "description": "Full name as they publish or present; falls back to github_login"
+    },
+    "github_login": {
+      "type": "string",
+      "description": "GitHub username"
+    },
+    "bio": {
+      "type": "string",
+      "description": "Profile bio from source system; used for triage and keyword extraction"
+    },
+    "job_title": {
+      "type": "string",
+      "description": "Current role title; may be blank if not available from source"
+    },
+    "organization": {
+      "type": "string",
+      "description": "Employer or institution; @ prefix stripped for GitHub company fields"
+    },
+    "department": {
+      "type": "string",
+      "description": "Lab, team, or unit within the organization"
+    },
+    "career_stage": {
+      "type": "string",
+      "enum": ["faculty", "researcher", "industry", "student", "practitioner", "unknown"],
+      "description": "Broad career classification"
+    },
+    "email": {
+      "type": "string",
+      "description": "Primary contact email; omit or leave blank if not public"
+    },
+    "github_url": {
+      "type": "string",
+      "description": "GitHub profile URL"
+    },
+    "linkedin_url": {
+      "type": "string",
+      "description": "LinkedIn profile URL"
+    },
+    "website_url": {
+      "type": "string",
+      "description": "Personal or lab website"
+    },
+    "orcid": {
+      "type": "string",
+      "description": "ORCID identifier for academic publication linkage"
+    },
+    "location": {
+      "type": "string",
+      "description": "Freetext location string as provided by source (e.g. 'Baltimore, MD')"
+    },
+    "city": {
+      "type": "string"
+    },
+    "state_region": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "primary_topic": {
+      "type": "string",
+      "description": "Topic ID from the project ontology (e.g. T13)"
+    },
+    "secondary_topics": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Additional topic IDs"
+    },
+    "keywords": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Freetext tags extracted from bio or manual curation"
+    },
+    "triage": {
+      "type": "string",
+      "enum": ["APPROVED", "CANDIDATE", "REJECTED", "NEEDS_REVIEW"],
+      "description": "Automated or manual triage result"
+    },
+    "triage_reason": {
+      "type": "string",
+      "description": "Short explanation of the triage decision"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["APPROVED", "CANDIDATE", "ARCHIVED"],
+      "description": "Curation status"
+    },
+    "provenance": {
+      "type": "object",
+      "description": "Where and how this record was obtained",
+      "required": ["source", "retrieved_date"],
+      "properties": {
+        "source": {
+          "type": "string",
+          "description": "Source system, e.g. 'github_search', 'manual', 'openalex', 'linkedin'"
+        },
+        "query": {
+          "type": "string",
+          "description": "Search query or API call that surfaced this person"
+        },
+        "source_url": {
+          "type": "string",
+          "description": "URL of the search result or profile page"
+        },
+        "retrieved_date": {
+          "type": "string",
+          "description": "ISO 8601 date the record was first retrieved, e.g. 2026-04-14"
+        },
+        "notes": {
+          "type": "string",
+          "description": "Any additional context about the data source or retrieval"
+        }
+      }
+    },
+    "last_updated": {
+      "type": "string",
+      "description": "ISO 8601 date of last modification to this record"
+    }
+  }
+}

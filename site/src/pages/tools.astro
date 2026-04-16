@@ -1,0 +1,25 @@
+---
+import Base from "../layouts/Base.astro";
+import SectionHero from "../components/SectionHero.astro";
+import SectionGrid from "../components/SectionGrid.astro";
+import { getCollection } from "astro:content";
+
+const entries = await getCollection("tools");
+---
+
+<Base title="Tools · Learning Engineering" active="tools">
+  <SectionHero
+    eyebrow="Tools"
+    title="Platforms, systems &amp; software"
+    question="What platforms and systems do learning engineers build on?"
+    count={entries.length}
+  />
+  <SectionGrid
+    collection="tools"
+    formatOrder={["tool", "platform"]}
+    groupHeadings={{
+      tool: "Tools",
+      platform: "Platforms",
+    }}
+  />
+</Base>

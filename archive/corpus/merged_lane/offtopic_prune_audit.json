@@ -1,0 +1,324 @@
+{
+  "removed_work_ids": [
+    "W1166011494",
+    "W1524063150",
+    "W1529668868",
+    "W1600899541",
+    "W1964906176",
+    "W1971038644",
+    "W1978641103",
+    "W1980239702",
+    "W1988797537",
+    "W1990989708",
+    "W1996302053",
+    "W2008895270",
+    "W2011205068",
+    "W2020192120",
+    "W2021191764",
+    "W2028571118",
+    "W2033121581",
+    "W2053123023",
+    "W2055179040",
+    "W2067442253",
+    "W2070354308",
+    "W2072329169",
+    "W2089607910",
+    "W2090005769",
+    "W2093885221",
+    "W2098008429",
+    "W2103321094",
+    "W2103734246",
+    "W2116539773",
+    "W2134295014",
+    "W2139368551",
+    "W2141506589",
+    "W2153241357",
+    "W2171155897",
+    "W2198409293",
+    "W2314906766",
+    "W2397309732",
+    "W2746181160",
+    "W2758364315",
+    "W2800868251",
+    "W2805446519",
+    "W2891839017",
+    "W2898808733",
+    "W2910471371",
+    "W2913568822",
+    "W2924287771",
+    "W2946458026",
+    "W2964260760",
+    "W3021626065",
+    "W3084648816",
+    "W3147660541",
+    "W3158048308",
+    "W3164705475",
+    "W3189956257",
+    "W3190474970",
+    "W3193638860",
+    "W3199117575",
+    "W3202606175",
+    "W4220831188",
+    "W4224988655",
+    "W4281674067",
+    "W4319656513",
+    "W4401211033"
+  ],
+  "removed_count": 63,
+  "kept_lane_rows": 39,
+  "removed_rows_missing_from_papers": 63,
+  "removed_detail": [
+    {
+      "work_id": "W4224988655",
+      "title": "Machine learning-aided engineering of hydrolases for PET depolymerization"
+    },
+    {
+      "work_id": "W3193638860",
+      "title": "Machine Learning: New Ideas and Tools in Environmental Science and Engineering"
+    },
+    {
+      "work_id": "W2141506589",
+      "title": "Improving the Endosomal Escape of Cell-Penetrating Peptides and Their Cargos: Strategies and Challenges"
+    },
+    {
+      "work_id": "W2098008429",
+      "title": "Examination of the Construct Validity of Impact\u2122 Computerized Test, Traditional, and Experimental Neuropsychological Measures"
+    },
+    {
+      "work_id": "W2021191764",
+      "title": "Discriminant Construct Validity of ImPACT\u2122: A Companion Study"
+    },
+    {
+      "work_id": "W2171155897",
+      "title": "Surgical resection of epidural disease improves local control following postoperative spine stereotactic body radiotherapy"
+    },
+    {
+      "work_id": "W1988797537",
+      "title": "Bone Fractures Following External Beam Radiotherapy and Limb-Preservation Surgery for Lower Extremity Soft Tissue Sarcoma: Relationship to Irradiated Bone Length, Volume, Tumor Location and Dose"
+    },
+    {
+      "work_id": "W2055179040",
+      "title": "Measuring Interfractional and Intrafractional Motion With Cone Beam Computed Tomography and an Optical Localization System for Lower Extremity Soft Tissue Sarcoma Patients Treated With Preoperative Intensity-Modulated Radiation Therapy"
+    },
+    {
+      "work_id": "W2011205068",
+      "title": "Active breathing control for patients receiving mediastinal radiation therapy for lymphoma: Impact on normal tissue dose"
+    },
+    {
+      "work_id": "W2153241357",
+      "title": "The Relationship Between Local Recurrence and Radiotherapy Treatment Volume for Soft Tissue Sarcomas Treated With External Beam Radiotherapy and Function Preservation Surgery"
+    },
+    {
+      "work_id": "W1978641103",
+      "title": "A Device and Procedure for Immobilization of Patients Receiving Limb-Preserving Radiotherapy for Soft Tissue Sarcoma"
+    },
+    {
+      "work_id": "W2089607910",
+      "title": "Heparan sulfate proteoglycans mediate internalization and propagation of specific proteopathic seeds"
+    },
+    {
+      "work_id": "W2397309732",
+      "title": "Structure of spinach photosystem II\u2013LHCII supercomplex at 3.2\u2009\u00c5 resolution"
+    },
+    {
+      "work_id": "W3021626065",
+      "title": "Competition for iron drives phytopathogen control by natural rhizosphere microbiomes"
+    },
+    {
+      "work_id": "W2746181160",
+      "title": "Structure and assembly mechanism of plant C <sub>2</sub> S <sub>2</sub> M <sub>2</sub> -type PSII-LHCII supercomplex"
+    },
+    {
+      "work_id": "W2964260760",
+      "title": "X-ray and UV Dual Photochromism, Thermochromism, Electrochromism, and Amine-Selective Chemochromism in an Anderson-like Zn<sub>7</sub> Cluster-Based 7-Fold Interpenetrated Framework"
+    },
+    {
+      "work_id": "W2028571118",
+      "title": "Structural insights into energy regulation of light-harvesting complex CP29 from spinach"
+    },
+    {
+      "work_id": "W3202606175",
+      "title": "Discovery of a first-in-class reversible DNMT1-selective inhibitor with improved tolerability and efficacy in acute myeloid leukemia"
+    },
+    {
+      "work_id": "W1971038644",
+      "title": "Copper and zinc induction of lipid peroxidation and effects on antioxidant enzyme activities in the microalga Pavlova viridis (Prymnesiophyceae)"
+    },
+    {
+      "work_id": "W2805446519",
+      "title": "Structure of the maize photosystem I supercomplex with light-harvesting complexes I and II"
+    },
+    {
+      "work_id": "W2758364315",
+      "title": "A Survey on Information Diffusion in Online Social Networks: Models and Methods"
+    },
+    {
+      "work_id": "W3190474970",
+      "title": "NSUN2-mediated RNA 5-methylcytosine promotes esophageal squamous cell carcinoma progression via LIN28B-dependent GRB2 mRNA stabilization"
+    },
+    {
+      "work_id": "W2910471371",
+      "title": "PIWI-interacting RNA-36712 restrains breast cancer progression and chemoresistance by interaction with SEPW1 pseudogene SEPW1P RNA"
+    },
+    {
+      "work_id": "W2090005769",
+      "title": "Nitrogen\u2010Doped Porous Carbon Nanosheets as Low\u2010Cost, High\u2010Performance Anode Material for Sodium\u2010Ion Batteries"
+    },
+    {
+      "work_id": "W1964906176",
+      "title": "Metal Organic Frameworks Route to <i>in Situ</i> Insertion of Multiwalled Carbon Nanotubes in Co<sub>3</sub>O<sub>4</sub> Polyhedra as Anode Materials for Lithium-Ion Batteries"
+    },
+    {
+      "work_id": "W2314906766",
+      "title": "Erythrocyte Membrane Is an Alternative Coating to Polyethylene Glycol for Prolonging the Circulation Lifetime of Gold Nanocages for Photothermal Therapy"
+    },
+    {
+      "work_id": "W2103321094",
+      "title": "Chemically exfoliated metallic MoS2 nanosheets: A promising supporting co-catalyst for enhancing the photocatalytic performance of TiO2 nanocrystals"
+    },
+    {
+      "work_id": "W1166011494",
+      "title": "Peanut shell derived hard carbon as ultralong cycling anodes for lithium and sodium batteries"
+    },
+    {
+      "work_id": "W2946458026",
+      "title": "ZnCl<sub>2</sub> \u201cWater\u2010in\u2010Salt\u201d Electrolyte Transforms the Performance of Vanadium Oxide as a Zn Battery Cathode"
+    },
+    {
+      "work_id": "W2134295014",
+      "title": "Na<sub>3</sub>PSe<sub>4</sub>: A Novel Chalcogenide Solid Electrolyte with High Ionic Conductivity"
+    },
+    {
+      "work_id": "W1996302053",
+      "title": "Hierarchical NiFe<sub>2</sub>O<sub>4</sub>/Fe<sub>2</sub>O<sub>3</sub> nanotubes derived from metal organic frameworks for superior lithium ion battery anodes"
+    },
+    {
+      "work_id": "W2033121581",
+      "title": "Facile, mild and fast thermal-decomposition reduction of graphene oxide in air and its application in high-performance lithium batteries"
+    },
+    {
+      "work_id": "W2898808733",
+      "title": "A high-rate aqueous rechargeable zinc ion battery based on the VS<sub>4</sub>@rGO nanocomposite"
+    },
+    {
+      "work_id": "W2093885221",
+      "title": "Self-assembly of ultrathin porous NiO nanosheets/graphene hierarchical structure for high-capacity and high-rate lithium storage"
+    },
+    {
+      "work_id": "W3199117575",
+      "title": "Interfacial Model Deciphering High\u2010Voltage Electrolytes for High Energy Density, High Safety, and Fast\u2010Charging Lithium\u2010Ion Batteries"
+    },
+    {
+      "work_id": "W2800868251",
+      "title": "MySpace: Social Networking or Social Isolation?"
+    },
+    {
+      "work_id": "W2008895270",
+      "title": "Participation in Internet Fantasy Sports Leagues and Mass Media Use"
+    },
+    {
+      "work_id": "W4401211033",
+      "title": "Review of Particle Physics"
+    },
+    {
+      "work_id": "W2891839017",
+      "title": "On the maximal strength of a first-order electroweak phase transition and its gravitational wave signal"
+    },
+    {
+      "work_id": "W2924287771",
+      "title": "Gravitational wave energy budget in strongly supercooled phase transitions"
+    },
+    {
+      "work_id": "W2020192120",
+      "title": "Starobinsky-like inflationary models as avatars of no-scale supergravity"
+    },
+    {
+      "work_id": "W3084648816",
+      "title": "Cosmic String Interpretation of NANOGrav Pulsar Timing Data"
+    },
+    {
+      "work_id": "W2072329169",
+      "title": "No-Scale Supergravity Realization of the Starobinsky Model of Inflation"
+    },
+    {
+      "work_id": "W2116539773",
+      "title": "The probable fate of the Standard Model"
+    },
+    {
+      "work_id": "W3158048308",
+      "title": "Top, Higgs, diboson and electroweak fit to the Standard Model effective field theory"
+    },
+    {
+      "work_id": "W2139368551",
+      "title": "Flavour-changing decays of a 125 GeV Higgs-like particle"
+    },
+    {
+      "work_id": "W2067442253",
+      "title": "Robust limits on Lorentz violation from gamma-ray bursts"
+    },
+    {
+      "work_id": "W2103734246",
+      "title": "Complete Higgs sector constraints on dimension-6 operators"
+    },
+    {
+      "work_id": "W2198409293",
+      "title": "On the interpretation of a possible \u223c 750 GeV particle decaying into \u03b3\u03b3"
+    },
+    {
+      "work_id": "W1529668868",
+      "title": "Use of radars to monitor stream discharge by noncontact methods"
+    },
+    {
+      "work_id": "W1524063150",
+      "title": "An evaluation of selected extraordinary floods in the United States reported by the U.S. Geological Survey and implications for future advancement of flood science"
+    },
+    {
+      "work_id": "W1980239702",
+      "title": "Joint NOAA/NWS/USGS Prototype Debris Flow Warning System for Recently Burned Areas in Southern California"
+    },
+    {
+      "work_id": "W1990989708",
+      "title": "The Evolution of Al-Li Base Products for Aerospace and Space Applications"
+    },
+    {
+      "work_id": "W4281674067",
+      "title": "Upadacitinib as induction and maintenance therapy for moderately to severely active ulcerative colitis: results from three phase 3, multicentre, double-blind, randomised trials"
+    },
+    {
+      "work_id": "W3164705475",
+      "title": "Once-daily upadacitinib versus placebo in adolescents and adults with moderate-to-severe atopic dermatitis (Measure Up 1 and Measure Up 2): results from two replicate double-blind, randomised controlled phase 3 trials"
+    },
+    {
+      "work_id": "W3189956257",
+      "title": "Efficacy and Safety of Upadacitinib vs Dupilumab in Adults With Moderate-to-Severe Atopic Dermatitis"
+    },
+    {
+      "work_id": "W2053123023",
+      "title": "Demand forecast sharing in a dual-channel supply chain"
+    },
+    {
+      "work_id": "W2913568822",
+      "title": "Effects of different protocols of high intensity interval training for VO2max improvements in adults: A meta-analysis of randomised controlled trials"
+    },
+    {
+      "work_id": "W3147660541",
+      "title": "Trial of Upadacitinib and Adalimumab for Psoriatic Arthritis"
+    },
+    {
+      "work_id": "W2070354308",
+      "title": "Changes in coronal and sagittal plane alignment following minimally invasive direct lateral interbody fusion for the treatment of degenerative lumbar disease in adults: a radiographic study"
+    },
+    {
+      "work_id": "W1600899541",
+      "title": "Retroperitoneal oblique corridor to the L2\u2013S1 intervertebral discs in the lateral position: an anatomic study"
+    },
+    {
+      "work_id": "W4220831188",
+      "title": "Efficacy and Safety of Upadacitinib in Patients With Moderate to Severe Atopic Dermatitis"
+    },
+    {
+      "work_id": "W4319656513",
+      "title": "Safety profile of upadacitinib over 15 000 patient-years across rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and atopic dermatitis"
+    }
+  ]
+}

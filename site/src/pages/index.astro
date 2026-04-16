@@ -1,0 +1,305 @@
+---
+import Base from "../layouts/Base.astro";
+import { getCollection } from "astro:content";
+
+const counts = {
+  practice:      (await getCollection("practice")).length,
+  tools:         (await getCollection("tools")).length,
+  "field-notes": (await getCollection("field-notes")).filter((p) => !p.data.draft).length,
+  "reading-list":(await getCollection("reading-list")).length,
+  events:        (await getCollection("events")).length,
+  community:     (await getCollection("community")).length,
+};
+
+type SectionKey = keyof typeof counts;
+
+const whyCards: { key: SectionKey; href: string; lead: string; title: string; detail: string }[] = [
+  {
+    key: "field-notes",
+    href: "/field-notes/",
+    lead: "Need something you can use this week?",
+    title: "Field Notes",
+    detail: "Short practitioner pieces — tips, templates, and lessons from the actual work.",
+  },
+  {
+    key: "practice",
+    href: "/practice/",
+    lead: "Figuring out how LEs structure their work?",
+    title: "Practice",
+    detail: "Process diagrams, maturity models, and analysis methods (Five Whys, Fishbone, task analysis).",
+  },
+  {
+    key: "community",
+    href: "/community/",
+    lead: "Looking for people or programs?",
+    title: "Community",
+    detail: "Organizations, degree programs, and practitioners who do this work.",
+  },
+  {
+    key: "events",
+    href: "/events/",
+    lead: "Planning to attend, present, or catch up?",
+    title: "Events",
+    detail: "Conferences, recurring series, keynotes, podcasts, and talks from the field.",
+  },
+  {
+    key: "reading-list",
+    href: "/reading-list/",
+    lead: "Scanning the field or citing the literature?",
+    title: "Reading List",
+    detail: "Papers, books, articles, and reports that define the evidence base.",
+  },
+  {
+    key: "tools",
+    href: "/tools/",
+    lead: "Picking a platform or instrumenting something?",
+    title: "Tools",
+    detail: "The platforms, systems, and software LEs build on.",
+  },
+];
+---
+
+<Base title="Learning Engineering — a practice-centered guide" active="welcome">
+  <section class="hero">
+    <div class="container">
+      <div class="eyebrow">Welcome</div>
+      <h1 class="lede">
+        Learning engineers apply the learning sciences and engineering methods
+        to iteratively improve learning outcomes at scale.
+      </h1>
+      <p class="subhead">
+        This site is a practice-centered guide for people doing the work, people curious about the role,
+        and people adjacent to it. It's organized around what you might actually need — not around a graph
+        of citations.
+      </p>
+    </div>
+  </section>
+
+  <hr class="rule-in-container" />
+
+  <section class="why-here">
+    <div class="container">
+      <div class="eyebrow">Why you might be here</div>
+      <h2>Pick the thread that matches what you came for.</h2>
+      <ul class="why-list">
+        {whyCards.map((c) => (
+          <li>
+            <a href={c.href} class="why-card">
+              <div class="why-lead">{c.lead}</div>
+              <div class="why-title">{c.title} <span class="why-count">({counts[c.key]})</span> →</div>
+              <div class="why-detail">{c.detail}</div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="what-they-do">
+    <div class="container two-col">
+      <div>
+        <h2>What learning engineers do</h2>
+        <p>
+          They work at the intersection of learning science, instructional design, data analysis, and
+          systems thinking. They diagnose why a course or training program isn't producing the outcomes
+          it should, redesign the intervention with evidence in mind, instrument it to collect signal,
+          and iterate. The work spans K–12 classrooms, higher-ed platforms, workplace training, and
+          high-consequence domains like medicine and defense.
+        </p>
+        <p>
+          What distinguishes a learning engineer from an instructional designer is the emphasis on
+          <em>evidence of impact</em> over compliance with a design process — and the willingness to
+          treat learning interventions as systems that can be measured, debugged, and improved.
+        </p>
+      </div>
+      <aside class="pull-quotes">
+        <blockquote>
+          "Learning engineering is a process and practice that applies the learning sciences using
+          human-centered engineering design methodologies and data-informed decision-making to
+          support learners and their development."
+          <cite>— IEEE ICICLE definition</cite>
+        </blockquote>
+        <blockquote>
+          "We need learning engineers who can take what the learning sciences tell us and translate
+          it into practice — at scale, in real settings, with real measurement."
+          <cite>— Bror Saxberg</cite>
+        </blockquote>
+      </aside>
+    </div>
+  </section>
+
+  <section class="audiences">
+    <div class="container">
+      <h2>Who this site is for</h2>
+      <ul class="audience-list">
+        <li>
+          <strong>Practitioners</strong> who already do this work and want a shared vocabulary,
+          practice references, and a way to point colleagues to the field.
+        </li>
+        <li>
+          <strong>Students and new entrants</strong> deciding whether learning engineering is the
+          right path — and where to study or start.
+        </li>
+        <li>
+          <strong>Adjacent professionals</strong> (instructional designers, ML engineers, learning
+          scientists, HR/L&D leaders) who need to understand how this role overlaps with theirs.
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="about-site">
+    <div class="container">
+      <h2>About this site</h2>
+      <p>
+        Most entries come from a hand-curated workbook of IEEE ICICLE–adjacent resources, plus
+        original practitioner posts in Field Notes. Items are tagged by format and by curatorial
+        cluster (e.g. "ICICLE resources," "Bror Saxberg," "I/ITSEC"). Sources with incomplete
+        provenance carry a visible <em>source unknown</em> badge — we'd rather show you a promising
+        lead we haven't verified than quietly drop it. <a href="/about/">More on scope &amp; method →</a>
+      </p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero .container {
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+  }
+  .lede {
+    font-family: var(--serif);
+    font-size: clamp(1.6rem, 3.2vw, 2.4rem);
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: -0.005em;
+    max-width: 40rem;
+    color: var(--ink);
+    margin: 0 0 1.2rem 0;
+  }
+  .subhead {
+    font-size: 1.1rem;
+    color: var(--ink-soft);
+    max-width: 40rem;
+    line-height: 1.55;
+  }
+
+  .rule-in-container {
+    max-width: 60rem;
+    margin: 0 auto;
+    border: none;
+    border-top: 1px solid var(--border);
+  }
+
+  .why-here { padding-top: 1rem; }
+  .why-here h2 {
+    font-size: clamp(1.3rem, 2.4vw, 1.6rem);
+    margin-bottom: 1.4rem;
+    max-width: 36rem;
+  }
+  .why-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: 1rem;
+  }
+  .why-card {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    padding: 1.2rem 1.25rem;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    border-top: 3px solid var(--accent);
+    color: var(--ink);
+    transition: transform .15s ease, border-color .15s ease;
+    height: 100%;
+  }
+  .why-card:hover {
+    transform: translateY(-1px);
+    border-color: var(--accent);
+    border-top-color: var(--accent);
+  }
+  .why-lead {
+    font-family: var(--serif);
+    font-size: .95rem;
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+  .why-title {
+    font-family: var(--serif);
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--accent);
+  }
+  .why-count { color: var(--muted); font-weight: 400; font-size: .9rem; }
+  .why-detail {
+    font-family: var(--sans);
+    font-size: .85rem;
+    color: var(--muted);
+    line-height: 1.45;
+  }
+
+  .what-they-do { margin-top: 2.5rem; }
+  .two-col {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 2.5rem;
+    align-items: start;
+  }
+  @media (max-width: 780px) {
+    .two-col { grid-template-columns: 1fr; gap: 1.5rem; }
+  }
+
+  .pull-quotes {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    border-left: 2px solid var(--accent);
+    padding: .2rem 0 .2rem 1.2rem;
+  }
+  blockquote {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--ink-soft);
+    line-height: 1.5;
+  }
+  blockquote cite {
+    display: block;
+    margin-top: .5rem;
+    font-style: normal;
+    font-size: .85rem;
+    color: var(--muted);
+    font-family: var(--sans);
+  }
+
+  .audiences {
+    background: var(--tint);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    margin-top: 3rem;
+  }
+  .audiences .container { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+  .audience-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: 1.2rem;
+  }
+  .audience-list li {
+    font-size: .98rem;
+    line-height: 1.55;
+    color: var(--ink-soft);
+  }
+  .audience-list strong { color: var(--accent); font-weight: 600; }
+
+  .about-site { margin-top: 2.5rem; padding-bottom: 2rem; }
+  .about-site p { font-size: .95rem; color: var(--ink-soft); max-width: 40rem; }
+</style>
