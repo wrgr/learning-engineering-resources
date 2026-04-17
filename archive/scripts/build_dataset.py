@@ -80,12 +80,31 @@ def parse_args() -> argparse.Namespace:
     return p.parse_args()
 
 
+def _ordered_unique(items: List[str]) -> List[str]:
+    out: List[str] = []
+    seen: Set[str] = set()
+    for item in items:
+        if item and item not in seen:
+            seen.add(item)
+            out.append(item)
+    return out
+
+
+def _pick_mode_with_tiebreak(counts: Dict[str, int]) -> str:
+    if not counts:
+        return ""
+    max_count = max(counts.values())
+    winners = [key for key, value in counts.items() if value == max_count]
+    return sorted(winners)[0]
+
+
 def build_seed_papers(topic_by_code: Dict[str, Topic]) -> List[Dict]:
     rows = load_jsonl(CORPUS_DIR / "academic_papers.jsonl")
     papers: List[Dict] = []
     for row in rows:
         topic_codes = [row.get("primary_topic", "")] + listify(row.get("secondary_topics", []))
-        topic_codes = [code for code in topic_codes if code in topic_by_code]
+        topic_codes = _ordered_unique([code for code in topic_codes if code in topic_by_code])
+        home_topic = topic_codes[0] if topic_codes else ""
 
         title = (row.get("title") or "").strip()
         authors_text = (row.get("authors") or "").strip()
@@ -114,6 +133,8 @@ def build_seed_papers(topic_by_code: Dict[str, Topic]) -> List[Dict]:
             "status": (row.get("status") or "").strip(),
             "selection_tier": (row.get("selection_tier") or "").strip(),
             "topic_codes": topic_codes,
+            "home_topic": home_topic,
+            "home_concept": "",
             "artifact_type": (row.get("content_type") or "AP").strip() or "AP",
             "topic_names": [topic_by_code[code].name for code in topic_codes if code in topic_by_code],
         }
@@ -131,12 +152,16 @@ def build_hop_papers(topic_by_code: Dict[str, Topic], seed_topic_lookup: Dict[st
     papers: List[Dict] = []
     for row in rows:
         topic_codes: Set[str] = set()
+        topic_counts: Dict[str, int] = defaultdict(int)
         for seed_id in row.get("origin_seed_ids", []) or []:
-            topic_codes.update(seed_topic_lookup.get(seed_id, set()))
+            for topic in seed_topic_lookup.get(seed_id, set()):
+                topic_codes.add(topic)
+                topic_counts[topic] += 1
 
         mapped_topics = sorted(code for code in topic_codes if code in topic_by_code)
         if not mapped_topics:
             continue
+        home_topic = _pick_mode_with_tiebreak({k: v for k, v in topic_counts.items() if k in topic_by_code}) or mapped_topics[0]
 
         work_id = (row.get("work_id") or "").strip()
         if not work_id:
@@ -167,6 +192,8 @@ def build_hop_papers(topic_by_code: Dict[str, Topic], seed_topic_lookup: Dict[st
                 "source_url": doi_to_url(doi) or (row.get("openalex_id") or ""),
                 "scope": "hop",
                 "topic_codes": mapped_topics,
+                "home_topic": home_topic,
+                "home_concept": "",
                 "topic_names": [topic_by_code[code].name for code in mapped_topics],
                 "artifact_type": "derived_one_hop",
                 "cross_seed_score": int(row.get("cross_seed_score") or 0),
@@ -433,7 +460,11 @@ def build_concept_graph(
         # Anchor to primary topic only; secondary codes are metadata, not structural edges.
         if primary_codes and primary_codes[0] in topic_codes:
             add_edge(primary_codes[0], cid, "has_concept")
-        for pid in concept.get("primary_papers", []):
+        concept_primary_papers = [pid for pid in listify(concept.get("primary_papers", [])) if pid in paper_ids]
+        if concept_primary_papers:
+            # Primary path edge: each concept has one canonical "home paper."
+            add_edge(cid, concept_primary_papers[0], "core_evidence")
+        for pid in concept_primary_papers:
             if pid in paper_ids:
                 add_edge(cid, pid, "anchored_by")
         for rid in concept.get("primary_resources", []):
@@ -452,6 +483,70 @@ def build_concept_graph(
                 add_edge(src, dst, "prereq")
 
     return nodes, edges
+
+
+def assign_paper_homes(
+    seed_papers: List[Dict],
+    hop_papers: List[Dict],
+    concepts: List[Dict],
+) -> None:
+    """Assign deterministic `home_topic` + `home_concept` onto papers for path-first traversal."""
+    concepts_by_paper: Dict[str, List[str]] = defaultdict(list)
+    concepts_by_topic: Dict[str, List[str]] = defaultdict(list)
+
+    for concept in concepts:
+        cid = (concept.get("concept_id") or "").strip()
+        if not cid:
+            continue
+        topic_codes = listify(concept.get("topic_codes", []))
+        if topic_codes:
+            concepts_by_topic[topic_codes[0]].append(cid)
+        for pid in listify(concept.get("primary_papers", [])):
+            if pid:
+                concepts_by_paper[pid].append(cid)
+
+    for topic_code, cids in concepts_by_topic.items():
+        concepts_by_topic[topic_code] = sorted(_ordered_unique(cids))
+
+    for paper in seed_papers + hop_papers:
+        topic_codes = _ordered_unique(listify(paper.get("topic_codes", [])))
+        home_topic = (paper.get("home_topic") or "").strip() or (topic_codes[0] if topic_codes else "")
+        paper["home_topic"] = home_topic
+
+        cid_candidates = sorted(_ordered_unique(concepts_by_paper.get((paper.get("id") or "").strip(), [])))
+
+        if not cid_candidates and (paper.get("scope") == "hop"):
+            hop_counts: Dict[str, int] = defaultdict(int)
+            for seed_id in paper.get("origin_seed_ids", []) or []:
+                if not str(seed_id).startswith("WORKBOOK-"):
+                    continue
+                normalized_seed_id = str(seed_id).replace("WORKBOOK-", "", 1)
+                for cid in concepts_by_paper.get(normalized_seed_id, []):
+                    hop_counts[cid] += 1
+            chosen_from_hop = _pick_mode_with_tiebreak(hop_counts)
+            if chosen_from_hop:
+                cid_candidates = [chosen_from_hop]
+
+        if not cid_candidates and home_topic:
+            cid_candidates = concepts_by_topic.get(home_topic, [])
+
+        paper["home_concept"] = cid_candidates[0] if cid_candidates else ""
+
+
+def build_path_first_graph(graph: Dict) -> Dict:
+    """Return a lightweight spine graph for sequential reading/training paths."""
+    spine_edge_types = {"prereq", "has_concept", "core_evidence"}
+    edges = [edge for edge in (graph.get("edges") or []) if edge.get("type") in spine_edge_types]
+    node_ids = {edge.get("source") for edge in edges}.union({edge.get("target") for edge in edges})
+    nodes = [node for node in (graph.get("nodes") or []) if node.get("id") in node_ids]
+    return {
+        "nodes": nodes,
+        "edges": edges,
+        "meta": {
+            "description": "Path-first subset: prereq + concept anchor + canonical concept evidence edges.",
+            "edge_types": sorted(spine_edge_types),
+        },
+    }
 
 
 def build_graph(
@@ -480,6 +575,12 @@ def build_graph(
             }
         )
 
+    concept_ontology_path = CORPUS_DIR / "tables" / "concept_ontology.json"
+    concepts: List[Dict] = []
+    if concept_ontology_path.exists():
+        concepts = load_json(concept_ontology_path)
+        assign_paper_homes(seed_papers, hop_papers, concepts)
+
     for paper in seed_papers:
         nodes.append(
             {
@@ -488,10 +589,14 @@ def build_graph(
                 "type": "paper",
                 "hop": 0,
                 "topic_codes": paper.get("topic_codes", []),
+                "home_topic": paper.get("home_topic", ""),
+                "home_concept": paper.get("home_concept", ""),
                 "provenance": {
                     "scope": "seed",
                     "selection_tier": paper.get("selection_tier"),
                     "artifact_type": paper.get("artifact_type"),
+                    "home_topic": paper.get("home_topic", ""),
+                    "home_concept": paper.get("home_concept", ""),
                 },
             }
         )
@@ -504,10 +609,14 @@ def build_graph(
                 "type": "paper",
                 "hop": 1,
                 "topic_codes": paper.get("topic_codes", []),
+                "home_topic": paper.get("home_topic", ""),
+                "home_concept": paper.get("home_concept", ""),
                 "provenance": {
                     "scope": "hop",
                     "cross_seed_score": paper.get("cross_seed_score"),
                     "artifact_type": paper.get("artifact_type"),
+                    "home_topic": paper.get("home_topic", ""),
+                    "home_concept": paper.get("home_concept", ""),
                 },
             }
         )
@@ -573,10 +682,9 @@ def build_graph(
 
     paper_id_set = {p["id"] for p in seed_papers + hop_papers}
     resource_id_set = {r.get("resource_id", "") for r in resources_flat if r.get("resource_id")}
-    concept_ontology_path = CORPUS_DIR / "tables" / "concept_ontology.json"
-    if concept_ontology_path.exists():
+    if concepts:
         concept_nodes, concept_edges = build_concept_graph(
-            load_json(concept_ontology_path),
+            concepts,
             topic_codes,
             paper_id_set,
             resource_id_set,
@@ -595,6 +703,7 @@ def build_summary(
     graph: Dict,
     endnotes_raw: Dict,
     openalex_enrichment: Dict,
+    path_graph: Dict,
 ) -> Dict:
     seed_resolution = load_jsonl(CORPUS_DIR / "expansion" / "seed_resolutions.jsonl")
     matched_endnotes = sum(
@@ -612,6 +721,8 @@ def build_summary(
         "icicle_resource_items": len(resources_flat),
         "graph_nodes": len(graph.get("nodes", [])),
         "graph_edges": len(graph.get("edges", [])),
+        "path_graph_nodes": len(path_graph.get("nodes", [])),
+        "path_graph_edges": len(path_graph.get("edges", [])),
         "concept_nodes": len([n for n in graph.get("nodes", []) if n.get("type") == "concept"]),
         "openalex_papers_total": openalex_enrichment.get("papers_total", 0),
         "openalex_matches": openalex_enrichment.get("papers_with_openalex_match", 0),
@@ -754,6 +865,7 @@ def main() -> None:
     topic_payload = build_topic_payload(topics)
 
     graph_payload = build_graph(topics, seed_papers, hop_papers, resources_flat)
+    path_graph_payload = build_path_first_graph(graph_payload)
     summary_payload = build_summary(
         seed_papers,
         hop_papers,
@@ -761,12 +873,14 @@ def main() -> None:
         graph_payload,
         endnotes_raw,
         openalex_enrichment,
+        path_graph_payload,
     )
     extra_docs_payload = build_extra_docs()
     missing_abstracts_payload = build_missing_abstracts(seed_papers, hop_papers)
 
     write_json(DATA_DIR / "build_summary.json", summary_payload)
     write_json(DATA_DIR / "graph.json", graph_payload)
+    write_json(DATA_DIR / "graph_path_first.json", path_graph_payload)
     write_json(DATA_DIR / "icicle_resources.json", resources_payload)
     write_json(DATA_DIR / "papers_seed.json", {"papers": seed_papers})
     write_json(DATA_DIR / "papers_one_hop.json", {"papers": hop_papers})

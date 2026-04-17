@@ -1,0 +1,1755 @@
+{
+  "nodes": [
+    {
+      "id": "T00",
+      "label": "T00 Field Overview & History",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T00",
+      "provenance": {
+        "layer": "Foundation",
+        "why_it_matters": "What is LE? Origins in cognitive science, instructional design, systems engineering. ICICLE body of knowledge. Why LE is distinct from instructional design."
+      }
+    },
+    {
+      "id": "T01",
+      "label": "T01 Learning Science Foundations",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T01",
+      "provenance": {
+        "layer": "Foundation",
+        "why_it_matters": "Cognitive load theory; spaced practice; retrieval; worked examples; transfer. The scientific basis for design decisions."
+      }
+    },
+    {
+      "id": "T02",
+      "label": "T02 Systems Engineering & Human Factors",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T02",
+      "provenance": {
+        "layer": "Foundation",
+        "why_it_matters": "Human systems integration; HSI principles; human as top-level design constraint; MBSE; sociotechnical systems."
+      }
+    },
+    {
+      "id": "T03",
+      "label": "T03 Learning Engineering Process",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T03",
+      "provenance": {
+        "layer": "Foundation",
+        "why_it_matters": "LE as iterative, evidence-based design process. Rapid prototyping; formative evaluation; A/B testing in learning contexts."
+      }
+    },
+    {
+      "id": "T04",
+      "label": "T04 Measurement & Analytics",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T04",
+      "provenance": {
+        "layer": "Foundation",
+        "why_it_matters": "Learning analytics; educational data mining; psychometrics; competency assessment; performance measurement."
+      }
+    },
+    {
+      "id": "T05",
+      "label": "T05 Knowledge Representation",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T05",
+      "provenance": {
+        "layer": "Foundation",
+        "why_it_matters": "Ontologies; knowledge graphs; concept maps; prerequisite relationships; competency frameworks; skill taxonomies."
+      }
+    },
+    {
+      "id": "T06",
+      "label": "T06 Intelligent Tutoring & Adaptive Systems",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T06",
+      "provenance": {
+        "layer": "Practice",
+        "why_it_matters": "ITS architecture; knowledge tracing; Bayesian student models; ALEKS; Cognitive Tutor; modern DKT."
+      }
+    },
+    {
+      "id": "T07",
+      "label": "T07 AI & Foundation Models in Learning",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T07",
+      "provenance": {
+        "layer": "Practice",
+        "why_it_matters": "LLM tutors; generative feedback; AI-generated content; automated hint systems; risks and opportunities."
+      }
+    },
+    {
+      "id": "T08",
+      "label": "T08 Simulation & Experiential Learning",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T08",
+      "provenance": {
+        "layer": "Practice",
+        "why_it_matters": "Serious games; XR/VR/AR; simulation fidelity; transfer; after-action review; scenario design."
+      }
+    },
+    {
+      "id": "T09",
+      "label": "T09 Expert Knowledge Elicitation",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T09",
+      "provenance": {
+        "layer": "Practice",
+        "why_it_matters": "Cognitive task analysis; SME elicitation; tacit knowledge; PKSM; knowledge auditing; elicitation pipelines."
+      }
+    },
+    {
+      "id": "T10",
+      "label": "T10 Workforce Development & Training Systems",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T10",
+      "provenance": {
+        "layer": "Practice",
+        "why_it_matters": "Military/defense training; healthcare training; large-scale workforce upskilling; apprenticeship; on-the-job learning."
+      }
+    },
+    {
+      "id": "T11",
+      "label": "T11 Learning Infrastructure & Platforms",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T11",
+      "provenance": {
+        "layer": "Practice",
+        "why_it_matters": "LMS; xAPI/Tin Can; data interoperability; learning record stores; open standards; platform architecture."
+      }
+    },
+    {
+      "id": "T13",
+      "label": "T13 High-Consequence & Complex Domains",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T13",
+      "provenance": {
+        "layer": "Context",
+        "why_it_matters": "Defense/national security; healthcare; emergency response; aviation; nuclear. Stakes of performance gaps. Human error."
+      }
+    },
+    {
+      "id": "T14",
+      "label": "T14 Ethics, Equity & Responsible LE",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T14",
+      "provenance": {
+        "layer": "Context",
+        "why_it_matters": "Algorithmic fairness in adaptive systems; data privacy; equity in access; avoiding automation bias in assessment."
+      }
+    },
+    {
+      "id": "T15",
+      "label": "T15 Evidence & Evaluation Standards",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T15",
+      "provenance": {
+        "layer": "Context",
+        "why_it_matters": "What counts as evidence? Level 1-4 Kirkpatrick; decision-grade evidence; reproducibility in LE research."
+      }
+    },
+    {
+      "id": "T16",
+      "label": "T16 Standards, Credentialing & Community",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T16",
+      "provenance": {
+        "layer": "Context",
+        "why_it_matters": "IEEE ICICLE body of knowledge; LE credential pathways; professional community development; field maturation."
+      }
+    },
+    {
+      "id": "T17",
+      "label": "T17 Research Methods & Field Development",
+      "type": "topic",
+      "hop": 0,
+      "topic_code": "T17",
+      "provenance": {
+        "layer": "Context",
+        "why_it_matters": "Randomized trials in education; quasi-experimental designs; design-based research; open science; replication."
+      }
+    },
+    {
+      "id": "LE-T1-001",
+      "label": "Learning Engineering: A Developing Discipline (Chapter 1)",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T00",
+        "T01",
+        "T03"
+      ],
+      "home_topic": "T00",
+      "home_concept": "C01",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T00",
+        "home_concept": "C01"
+      }
+    },
+    {
+      "id": "LE-T1-003",
+      "label": "The Science of Learning: 77 Studies That Every Teacher Should Know",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T01",
+        "T03"
+      ],
+      "home_topic": "T01",
+      "home_concept": "C04",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T01",
+        "home_concept": "C04"
+      }
+    },
+    {
+      "id": "LE-T1-005",
+      "label": "Human Systems Integration Handbook",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T02",
+        "T13"
+      ],
+      "home_topic": "T02",
+      "home_concept": "C09",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "SG",
+        "home_topic": "T02",
+        "home_concept": "C09"
+      }
+    },
+    {
+      "id": "LE-T1-006",
+      "label": "Cognitive Load Theory",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T01",
+        "T06",
+        "T12"
+      ],
+      "home_topic": "T01",
+      "home_concept": "C06",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T01",
+        "home_concept": "C06"
+      }
+    },
+    {
+      "id": "LE-T1-007",
+      "label": "Learning Engineering Toolkit (LEVI)",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T03",
+        "T00",
+        "T15"
+      ],
+      "home_topic": "T03",
+      "home_concept": "C03",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "GL",
+        "home_topic": "T03",
+        "home_concept": "C03"
+      }
+    },
+    {
+      "id": "LE-T1-008",
+      "label": "Knowledge-Learning-Instruction Framework",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T03",
+        "T01",
+        "T06"
+      ],
+      "home_topic": "T03",
+      "home_concept": "C11",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T03",
+        "home_concept": "C11"
+      }
+    },
+    {
+      "id": "LE-T1-009",
+      "label": "Educational Data Mining: A Review of the State-of-the-Art",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T04",
+        "T06"
+      ],
+      "home_topic": "T04",
+      "home_concept": "C13",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T04",
+        "home_concept": "C13"
+      }
+    },
+    {
+      "id": "LE-T1-010",
+      "label": "Learning Analytics: The Emergence of a Discipline",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T04",
+        "T11"
+      ],
+      "home_topic": "T04",
+      "home_concept": "C14",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T04",
+        "home_concept": "C14"
+      }
+    },
+    {
+      "id": "LE-T1-011",
+      "label": "Competency-Based Education: A Framework for Practice",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T05",
+        "T12"
+      ],
+      "home_topic": "T05",
+      "home_concept": "C18",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
+      }
+    },
+    {
+      "id": "LE-T1-013",
+      "label": "Intelligent Tutoring Systems: A Comprehensive Review",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T06",
+        "T07"
+      ],
+      "home_topic": "T06",
+      "home_concept": "C20",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T06",
+        "home_concept": "C20"
+      }
+    },
+    {
+      "id": "LE-T1-015",
+      "label": "A Survey of Large Language Models for Education",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T07",
+        "T06"
+      ],
+      "home_topic": "T07",
+      "home_concept": "C23",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T07",
+        "home_concept": "C23"
+      }
+    },
+    {
+      "id": "LE-T1-017",
+      "label": "Simulation-Based Learning: Theory and Practice",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T08",
+        "T10",
+        "T13"
+      ],
+      "home_topic": "T08",
+      "home_concept": "C25",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T08",
+        "home_concept": "C25"
+      }
+    },
+    {
+      "id": "LE-T1-019",
+      "label": "A Practical Guide to Cognitive Task Analysis",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T09",
+        "T10"
+      ],
+      "home_topic": "T09",
+      "home_concept": "C12",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C12"
+      }
+    },
+    {
+      "id": "LE-T1-021",
+      "label": "Evaluating Training Programs: The Four Levels",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T10",
+        "T15"
+      ],
+      "home_topic": "T10",
+      "home_concept": "C17",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T10",
+        "home_concept": "C17"
+      }
+    },
+    {
+      "id": "LE-T1-027",
+      "label": "Human Error",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T13",
+        "T02"
+      ],
+      "home_topic": "T13",
+      "home_concept": "C33",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T13",
+        "home_concept": "C33"
+      }
+    },
+    {
+      "id": "LE-T1-029",
+      "label": "Algorithmic Fairness in Education",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T14",
+        "T07",
+        "T04"
+      ],
+      "home_topic": "T14",
+      "home_concept": "C24",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T14",
+        "home_concept": "C24"
+      }
+    },
+    {
+      "id": "LE-T1-031",
+      "label": "Toward a Science of Exceptional Achievement",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T15",
+        "T09"
+      ],
+      "home_topic": "T15",
+      "home_concept": "C15",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T15",
+        "home_concept": "C15"
+      }
+    },
+    {
+      "id": "LE-T1-033",
+      "label": "IEEE ICICLE Body of Knowledge \u2014 current version",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T16",
+        "T00"
+      ],
+      "home_topic": "T16",
+      "home_concept": "C32",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "SG",
+        "home_topic": "T16",
+        "home_concept": "C32"
+      }
+    },
+    {
+      "id": "LE-T1-035",
+      "label": "Design-Based Research: An Emerging Paradigm for Educational Inquiry",
+      "type": "paper",
+      "hop": 0,
+      "topic_codes": [
+        "T17",
+        "T03",
+        "T15"
+      ],
+      "home_topic": "T17",
+      "home_concept": "C31",
+      "provenance": {
+        "scope": "seed",
+        "selection_tier": "T1",
+        "artifact_type": "AP",
+        "home_topic": "T17",
+        "home_concept": "C31"
+      }
+    },
+    {
+      "id": "C01",
+      "label": "What is Learning Engineering?",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T00"
+      ],
+      "provenance": {
+        "book_chapters": [
+          1
+        ],
+        "bloom_level": "Understand",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C02",
+      "label": "LE vs. Instructional Design",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T00",
+        "T12"
+      ],
+      "provenance": {
+        "book_chapters": [
+          1
+        ],
+        "bloom_level": "Analyze",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C03",
+      "label": "Learning Engineering Teams & Roles",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T00",
+        "T03"
+      ],
+      "provenance": {
+        "book_chapters": [
+          1
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C04",
+      "label": "How People Learn: Cognitive Foundations",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T01"
+      ],
+      "provenance": {
+        "book_chapters": [
+          2
+        ],
+        "bloom_level": "Understand",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C05",
+      "label": "Desirable Difficulties & Memory Principles",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T01"
+      ],
+      "provenance": {
+        "book_chapters": [
+          2
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C06",
+      "label": "Cognitive Load Theory",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T01"
+      ],
+      "provenance": {
+        "book_chapters": [
+          2
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C07",
+      "label": "Motivation, Engagement & Self-Regulation",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T01"
+      ],
+      "provenance": {
+        "book_chapters": [
+          2
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C08",
+      "label": "Transfer of Learning",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T01"
+      ],
+      "provenance": {
+        "book_chapters": [
+          2
+        ],
+        "bloom_level": "Analyze",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C09",
+      "label": "Human Systems Integration",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T02"
+      ],
+      "provenance": {
+        "book_chapters": [
+          3
+        ],
+        "bloom_level": "Understand",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C10",
+      "label": "Human-Centered Design",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T02",
+        "T03"
+      ],
+      "provenance": {
+        "book_chapters": [
+          3
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C11",
+      "label": "The Learning Engineering Process",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T03"
+      ],
+      "provenance": {
+        "book_chapters": [
+          3,
+          4
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C12",
+      "label": "Needs Analysis & Task Analysis",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T03",
+        "T09"
+      ],
+      "provenance": {
+        "book_chapters": [
+          3
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C13",
+      "label": "Educational Data Mining",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T04"
+      ],
+      "provenance": {
+        "book_chapters": [
+          5
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C14",
+      "label": "Learning Analytics",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T04"
+      ],
+      "provenance": {
+        "book_chapters": [
+          5
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C15",
+      "label": "Assessment & Measurement Design",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T04",
+        "T15"
+      ],
+      "provenance": {
+        "book_chapters": [
+          5
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C16",
+      "label": "Tracking Decisions & Evidence Throughout the Process",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T03",
+        "T15"
+      ],
+      "provenance": {
+        "book_chapters": [
+          4,
+          5
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C17",
+      "label": "Evaluation Frameworks",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T15"
+      ],
+      "provenance": {
+        "book_chapters": [
+          9
+        ],
+        "bloom_level": "Evaluate",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C18",
+      "label": "Knowledge-Learning-Instruction (KLI) Framework",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T05",
+        "T03"
+      ],
+      "provenance": {
+        "book_chapters": [
+          6,
+          7
+        ],
+        "bloom_level": "Understand",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C19",
+      "label": "Competency Frameworks & Learning Objectives",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T05",
+        "T12"
+      ],
+      "provenance": {
+        "book_chapters": [
+          7
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C20",
+      "label": "Intelligent Tutoring Systems",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T06"
+      ],
+      "provenance": {
+        "book_chapters": [
+          6
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C21",
+      "label": "Adaptive Learning Systems",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T06"
+      ],
+      "provenance": {
+        "book_chapters": [
+          6
+        ],
+        "bloom_level": "Analyze",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C22",
+      "label": "Learning Infrastructure & Data Standards",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T11"
+      ],
+      "provenance": {
+        "book_chapters": [
+          7
+        ],
+        "bloom_level": "Understand",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C23",
+      "label": "AI & Foundation Models in Education",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T07"
+      ],
+      "provenance": {
+        "book_chapters": [],
+        "bloom_level": "Analyze",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C24",
+      "label": "AI Ethics & Responsible Use in Learning",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T07",
+        "T14"
+      ],
+      "provenance": {
+        "book_chapters": [],
+        "bloom_level": "Evaluate",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C25",
+      "label": "Simulation-Based Training",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T08"
+      ],
+      "provenance": {
+        "book_chapters": [
+          8
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C26",
+      "label": "Serious Games & Gamification",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T08"
+      ],
+      "provenance": {
+        "book_chapters": [
+          8
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C27",
+      "label": "Extended Reality (XR/VR/AR) in Learning",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T08"
+      ],
+      "provenance": {
+        "book_chapters": [
+          8
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C28",
+      "label": "Expert Knowledge Elicitation & Cognitive Task Analysis",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T09"
+      ],
+      "provenance": {
+        "book_chapters": [
+          3
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C29",
+      "label": "Workforce Development & Training Systems",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T10"
+      ],
+      "provenance": {
+        "book_chapters": [
+          4
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C30",
+      "label": "Evidence Standards in Learning Research",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T15"
+      ],
+      "provenance": {
+        "book_chapters": [
+          9
+        ],
+        "bloom_level": "Evaluate",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C31",
+      "label": "Research Methods in Learning Engineering",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T17"
+      ],
+      "provenance": {
+        "book_chapters": [
+          9
+        ],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C32",
+      "label": "Standards, Credentialing & Professional Community",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T16"
+      ],
+      "provenance": {
+        "book_chapters": [],
+        "bloom_level": "Understand",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C33",
+      "label": "High-Consequence Domain Learning",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T13"
+      ],
+      "provenance": {
+        "book_chapters": [],
+        "bloom_level": "Apply",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C34",
+      "label": "Ethics & Equity in Learning Engineering",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T14"
+      ],
+      "provenance": {
+        "book_chapters": [],
+        "bloom_level": "Evaluate",
+        "layer": "concept"
+      }
+    },
+    {
+      "id": "C35",
+      "label": "Learning Engineering at Scale & Online Education",
+      "type": "concept",
+      "hop": 0,
+      "topic_codes": [
+        "T11",
+        "T06"
+      ],
+      "provenance": {
+        "book_chapters": [],
+        "bloom_level": "Analyze",
+        "layer": "concept"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "T00",
+      "target": "T01",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "Must understand LE field before learning science foundations"
+      }
+    },
+    {
+      "source": "T00",
+      "target": "T03",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "LE process presupposes field overview"
+      }
+    },
+    {
+      "source": "T01",
+      "target": "T06",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "ITS requires learning science theory"
+      }
+    },
+    {
+      "source": "T01",
+      "target": "T08",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "Simulation design requires learning theory"
+      }
+    },
+    {
+      "source": "T02",
+      "target": "T13",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "High-consequence domains require SE framing"
+      }
+    },
+    {
+      "source": "T03",
+      "target": "T04",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "Measurement presupposes process understanding"
+      }
+    },
+    {
+      "source": "T04",
+      "target": "T15",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "Evidence standards require analytics competency"
+      }
+    },
+    {
+      "source": "T05",
+      "target": "T09",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "Elicitation requires knowledge representation concepts"
+      }
+    },
+    {
+      "source": "T06",
+      "target": "T07",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "AI/LLMs are evolving ITS paradigm"
+      }
+    },
+    {
+      "source": "T09",
+      "target": "T10",
+      "type": "prereq",
+      "provenance": {
+        "edge_label": "Workforce dev requires expert knowledge capture"
+      }
+    },
+    {
+      "source": "T00",
+      "target": "C01",
+      "type": "has_concept"
+    },
+    {
+      "source": "C01",
+      "target": "LE-T1-001",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T00",
+      "target": "C02",
+      "type": "has_concept"
+    },
+    {
+      "source": "C02",
+      "target": "LE-T1-001",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T00",
+      "target": "C03",
+      "type": "has_concept"
+    },
+    {
+      "source": "C03",
+      "target": "LE-T1-001",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T01",
+      "target": "C04",
+      "type": "has_concept"
+    },
+    {
+      "source": "C04",
+      "target": "LE-T1-003",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T01",
+      "target": "C05",
+      "type": "has_concept"
+    },
+    {
+      "source": "C05",
+      "target": "LE-T1-003",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T01",
+      "target": "C06",
+      "type": "has_concept"
+    },
+    {
+      "source": "C06",
+      "target": "LE-T1-006",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T01",
+      "target": "C07",
+      "type": "has_concept"
+    },
+    {
+      "source": "C07",
+      "target": "LE-T1-003",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T01",
+      "target": "C08",
+      "type": "has_concept"
+    },
+    {
+      "source": "C08",
+      "target": "LE-T1-003",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T02",
+      "target": "C09",
+      "type": "has_concept"
+    },
+    {
+      "source": "C09",
+      "target": "LE-T1-005",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T02",
+      "target": "C10",
+      "type": "has_concept"
+    },
+    {
+      "source": "C10",
+      "target": "LE-T1-005",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T03",
+      "target": "C11",
+      "type": "has_concept"
+    },
+    {
+      "source": "C11",
+      "target": "LE-T1-007",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T03",
+      "target": "C12",
+      "type": "has_concept"
+    },
+    {
+      "source": "C12",
+      "target": "LE-T1-007",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T04",
+      "target": "C13",
+      "type": "has_concept"
+    },
+    {
+      "source": "C13",
+      "target": "LE-T1-009",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T04",
+      "target": "C14",
+      "type": "has_concept"
+    },
+    {
+      "source": "C14",
+      "target": "LE-T1-010",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T04",
+      "target": "C15",
+      "type": "has_concept"
+    },
+    {
+      "source": "C15",
+      "target": "LE-T1-009",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T03",
+      "target": "C16",
+      "type": "has_concept"
+    },
+    {
+      "source": "C16",
+      "target": "LE-T1-007",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T15",
+      "target": "C17",
+      "type": "has_concept"
+    },
+    {
+      "source": "C17",
+      "target": "LE-T1-021",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T05",
+      "target": "C18",
+      "type": "has_concept"
+    },
+    {
+      "source": "C18",
+      "target": "LE-T1-008",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T05",
+      "target": "C19",
+      "type": "has_concept"
+    },
+    {
+      "source": "C19",
+      "target": "LE-T1-011",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T06",
+      "target": "C20",
+      "type": "has_concept"
+    },
+    {
+      "source": "C20",
+      "target": "LE-T1-013",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T06",
+      "target": "C21",
+      "type": "has_concept"
+    },
+    {
+      "source": "C21",
+      "target": "LE-T1-013",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T11",
+      "target": "C22",
+      "type": "has_concept"
+    },
+    {
+      "source": "C22",
+      "target": "LE-T1-011",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T07",
+      "target": "C23",
+      "type": "has_concept"
+    },
+    {
+      "source": "C23",
+      "target": "LE-T1-015",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T07",
+      "target": "C24",
+      "type": "has_concept"
+    },
+    {
+      "source": "C24",
+      "target": "LE-T1-015",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T08",
+      "target": "C25",
+      "type": "has_concept"
+    },
+    {
+      "source": "C25",
+      "target": "LE-T1-017",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T08",
+      "target": "C26",
+      "type": "has_concept"
+    },
+    {
+      "source": "C26",
+      "target": "LE-T1-017",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T08",
+      "target": "C27",
+      "type": "has_concept"
+    },
+    {
+      "source": "C27",
+      "target": "LE-T1-017",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T09",
+      "target": "C28",
+      "type": "has_concept"
+    },
+    {
+      "source": "C28",
+      "target": "LE-T1-019",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T10",
+      "target": "C29",
+      "type": "has_concept"
+    },
+    {
+      "source": "C29",
+      "target": "LE-T1-021",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T15",
+      "target": "C30",
+      "type": "has_concept"
+    },
+    {
+      "source": "C30",
+      "target": "LE-T1-031",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T17",
+      "target": "C31",
+      "type": "has_concept"
+    },
+    {
+      "source": "C31",
+      "target": "LE-T1-035",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T16",
+      "target": "C32",
+      "type": "has_concept"
+    },
+    {
+      "source": "C32",
+      "target": "LE-T1-033",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T13",
+      "target": "C33",
+      "type": "has_concept"
+    },
+    {
+      "source": "C33",
+      "target": "LE-T1-027",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T14",
+      "target": "C34",
+      "type": "has_concept"
+    },
+    {
+      "source": "C34",
+      "target": "LE-T1-029",
+      "type": "core_evidence"
+    },
+    {
+      "source": "T11",
+      "target": "C35",
+      "type": "has_concept"
+    },
+    {
+      "source": "C35",
+      "target": "LE-T1-015",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C01",
+      "target": "C02",
+      "type": "prereq"
+    },
+    {
+      "source": "C01",
+      "target": "C03",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C05",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C06",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C07",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C08",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C13",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C15",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C18",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C20",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C25",
+      "type": "prereq"
+    },
+    {
+      "source": "C04",
+      "target": "C26",
+      "type": "prereq"
+    },
+    {
+      "source": "C06",
+      "target": "C25",
+      "type": "prereq"
+    },
+    {
+      "source": "C07",
+      "target": "C26",
+      "type": "prereq"
+    },
+    {
+      "source": "C08",
+      "target": "C29",
+      "type": "prereq"
+    },
+    {
+      "source": "C09",
+      "target": "C10",
+      "type": "prereq"
+    },
+    {
+      "source": "C09",
+      "target": "C33",
+      "type": "prereq"
+    },
+    {
+      "source": "C10",
+      "target": "C11",
+      "type": "prereq"
+    },
+    {
+      "source": "C11",
+      "target": "C12",
+      "type": "prereq"
+    },
+    {
+      "source": "C11",
+      "target": "C15",
+      "type": "prereq"
+    },
+    {
+      "source": "C11",
+      "target": "C16",
+      "type": "prereq"
+    },
+    {
+      "source": "C11",
+      "target": "C31",
+      "type": "prereq"
+    },
+    {
+      "source": "C12",
+      "target": "C28",
+      "type": "prereq"
+    },
+    {
+      "source": "C13",
+      "target": "C14",
+      "type": "prereq"
+    },
+    {
+      "source": "C14",
+      "target": "C17",
+      "type": "prereq"
+    },
+    {
+      "source": "C15",
+      "target": "C17",
+      "type": "prereq"
+    },
+    {
+      "source": "C15",
+      "target": "C30",
+      "type": "prereq"
+    },
+    {
+      "source": "C18",
+      "target": "C19",
+      "type": "prereq"
+    },
+    {
+      "source": "C18",
+      "target": "C20",
+      "type": "prereq"
+    },
+    {
+      "source": "C19",
+      "target": "C22",
+      "type": "prereq"
+    },
+    {
+      "source": "C20",
+      "target": "C21",
+      "type": "prereq"
+    },
+    {
+      "source": "C20",
+      "target": "C23",
+      "type": "prereq"
+    },
+    {
+      "source": "C21",
+      "target": "C23",
+      "type": "prereq"
+    },
+    {
+      "source": "C21",
+      "target": "C35",
+      "type": "prereq"
+    },
+    {
+      "source": "C22",
+      "target": "C35",
+      "type": "prereq"
+    },
+    {
+      "source": "C23",
+      "target": "C24",
+      "type": "prereq"
+    },
+    {
+      "source": "C25",
+      "target": "C27",
+      "type": "prereq"
+    },
+    {
+      "source": "C28",
+      "target": "C29",
+      "type": "prereq"
+    },
+    {
+      "source": "C31",
+      "target": "C30",
+      "type": "prereq"
+    }
+  ],
+  "meta": {
+    "description": "Path-first subset: prereq + concept anchor + canonical concept evidence edges.",
+    "edge_types": [
+      "core_evidence",
+      "has_concept",
+      "prereq"
+    ]
+  }
+}

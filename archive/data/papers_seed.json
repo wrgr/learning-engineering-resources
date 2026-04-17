@@ -27,6 +27,8 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T00",
+      "home_concept": "C01",
       "artifact_type": "AP",
       "topic_names": [
         "Field Overview & History",
@@ -61,6 +63,8 @@
         "T13",
         "T15"
       ],
+      "home_topic": "T00",
+      "home_concept": "C01",
       "artifact_type": "GL",
       "topic_names": [
         "Field Overview & History",
@@ -94,6 +98,8 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "artifact_type": "AP",
       "topic_names": [
         "Learning Science Foundations",
@@ -125,6 +131,8 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "artifact_type": "AP",
       "topic_names": [
         "Learning Science Foundations"
@@ -156,6 +164,8 @@
         "T02",
         "T13"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "SG",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -189,6 +199,8 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C06",
       "artifact_type": "AP",
       "topic_names": [
         "Learning Science Foundations",
@@ -223,6 +235,8 @@
         "T00",
         "T15"
       ],
+      "home_topic": "T03",
+      "home_concept": "C03",
       "artifact_type": "GL",
       "topic_names": [
         "Learning Engineering Process",
@@ -257,6 +271,8 @@
         "T01",
         "T06"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "artifact_type": "AP",
       "topic_names": [
         "Learning Engineering Process",
@@ -290,6 +306,8 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "artifact_type": "AP",
       "topic_names": [
         "Measurement & Analytics",
@@ -322,6 +340,8 @@
         "T04",
         "T11"
       ],
+      "home_topic": "T04",
+      "home_concept": "C14",
       "artifact_type": "AP",
       "topic_names": [
         "Measurement & Analytics",
@@ -354,6 +374,8 @@
         "T05",
         "T12"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -386,6 +408,8 @@
         "T06",
         "T07"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "artifact_type": "AP",
       "topic_names": [
         "Intelligent Tutoring & Adaptive Systems",
@@ -418,6 +442,8 @@
         "T07",
         "T06"
       ],
+      "home_topic": "T07",
+      "home_concept": "C23",
       "artifact_type": "AP",
       "topic_names": [
         "AI & Foundation Models in Learning",
@@ -451,6 +477,8 @@
         "T10",
         "T13"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "artifact_type": "AP",
       "topic_names": [
         "Simulation & Experiential Learning",
@@ -484,6 +512,8 @@
         "T09",
         "T10"
       ],
+      "home_topic": "T09",
+      "home_concept": "C12",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -516,6 +546,8 @@
         "T10",
         "T15"
       ],
+      "home_topic": "T10",
+      "home_concept": "C17",
       "artifact_type": "AP",
       "topic_names": [
         "Workforce Development & Training Systems",
@@ -548,6 +580,8 @@
         "T13",
         "T02"
       ],
+      "home_topic": "T13",
+      "home_concept": "C33",
       "artifact_type": "AP",
       "topic_names": [
         "High-Consequence & Complex Domains",
@@ -581,6 +615,8 @@
         "T07",
         "T04"
       ],
+      "home_topic": "T14",
+      "home_concept": "C24",
       "artifact_type": "AP",
       "topic_names": [
         "Ethics, Equity & Responsible LE",
@@ -614,6 +650,8 @@
         "T15",
         "T09"
       ],
+      "home_topic": "T15",
+      "home_concept": "C15",
       "artifact_type": "AP",
       "topic_names": [
         "Evidence & Evaluation Standards",
@@ -646,6 +684,8 @@
         "T16",
         "T00"
       ],
+      "home_topic": "T16",
+      "home_concept": "C32",
       "artifact_type": "SG",
       "topic_names": [
         "Standards, Credentialing & Community",
@@ -679,6 +719,8 @@
         "T03",
         "T15"
       ],
+      "home_topic": "T17",
+      "home_concept": "C31",
       "artifact_type": "AP",
       "topic_names": [
         "Research Methods & Field Development",
@@ -713,6 +755,8 @@
         "T03",
         "T15"
       ],
+      "home_topic": "T17",
+      "home_concept": "C31",
       "artifact_type": "AP",
       "topic_names": [
         "Research Methods & Field Development",
@@ -747,6 +791,8 @@
         "T17",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "artifact_type": "AP",
       "topic_names": [
         "Measurement & Analytics",
@@ -781,6 +827,8 @@
         "T04",
         "T01"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "artifact_type": "AP",
       "topic_names": [
         "Intelligent Tutoring & Adaptive Systems",
@@ -815,6 +863,8 @@
         "T01",
         "T15"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "artifact_type": "AP",
       "topic_names": [
         "Intelligent Tutoring & Adaptive Systems",
@@ -849,6 +899,8 @@
         "T12",
         "T03"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "artifact_type": "AP",
       "topic_names": [
         "Learning Science Foundations",
@@ -883,6 +935,8 @@
         "T01",
         "T09"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "artifact_type": "AP",
       "topic_names": [
         "Intelligent Tutoring & Adaptive Systems",
@@ -916,6 +970,8 @@
         "T01",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "artifact_type": "AP",
       "topic_names": [
         "Learning Science Foundations",
@@ -949,6 +1005,8 @@
         "T02",
         "T06"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "artifact_type": "AP",
       "topic_names": [
         "Simulation & Experiential Learning",
@@ -983,6 +1041,8 @@
         "T02",
         "T07"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "artifact_type": "AP",
       "topic_names": [
         "Simulation & Experiential Learning",
@@ -1017,6 +1077,8 @@
         "T03",
         "T15"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "artifact_type": "AP",
       "topic_names": [
         "Measurement & Analytics",
@@ -1051,6 +1113,8 @@
         "T03",
         "T15"
       ],
+      "home_topic": "T16",
+      "home_concept": "C32",
       "artifact_type": "AP",
       "topic_names": [
         "Standards, Credentialing & Community",
@@ -1085,6 +1149,8 @@
         "T03",
         "T09"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "AP",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -1118,6 +1184,8 @@
         "T02",
         "T13"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "AP",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -1151,6 +1219,8 @@
         "T09",
         "T13"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "AP",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -1184,6 +1254,8 @@
         "T02",
         "T13"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "AP",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -1217,6 +1289,8 @@
         "T12",
         "T03"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -1251,6 +1325,8 @@
         "T10",
         "T04"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -1285,6 +1361,8 @@
         "T10",
         "T06"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -1319,6 +1397,8 @@
         "T09",
         "T03"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -1353,6 +1433,8 @@
         "T02",
         "T13"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -1387,6 +1469,8 @@
         "T06",
         "T02"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -1421,6 +1505,8 @@
         "T01",
         "T06"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -1455,6 +1541,8 @@
         "T12",
         "T10"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -1488,6 +1576,8 @@
         "T09",
         "T02"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -1521,6 +1611,8 @@
         "T05",
         "T03"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "artifact_type": "AP",
       "topic_names": [
         "Instructional Design & Curriculum",
@@ -1555,6 +1647,8 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "artifact_type": "AP",
       "topic_names": [
         "Instructional Design & Curriculum",
@@ -1589,6 +1683,8 @@
         "T01",
         "T06"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "artifact_type": "AP",
       "topic_names": [
         "Instructional Design & Curriculum",
@@ -1622,6 +1718,8 @@
         "T12",
         "T03"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "artifact_type": "AP",
       "topic_names": [
         "Instructional Design & Curriculum",
@@ -1655,6 +1753,8 @@
         "T07",
         "T06"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "artifact_type": "AP",
       "topic_names": [
         "Instructional Design & Curriculum",
@@ -1688,6 +1788,8 @@
         "T02",
         "T10"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "AP",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -1720,6 +1822,8 @@
         "T02",
         "T01"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "AP",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -1752,6 +1856,8 @@
         "T02",
         "T09"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "AP",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -1785,6 +1891,8 @@
         "T01",
         "T09"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "AP",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -1819,6 +1927,8 @@
         "T15",
         "T16"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "artifact_type": "AP",
       "topic_names": [
         "Systems Engineering & Human Factors",
@@ -1853,6 +1963,8 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -1887,6 +1999,8 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -1921,6 +2035,8 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -1954,6 +2070,8 @@
         "T05",
         "T06"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -1987,6 +2105,8 @@
         "T04",
         "T01"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -2021,6 +2141,8 @@
         "T04",
         "T07"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "artifact_type": "AP",
       "topic_names": [
         "Knowledge Representation",
@@ -2054,6 +2176,8 @@
         "T09",
         "T02"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -2087,6 +2211,8 @@
         "T01",
         "T15"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -2121,6 +2247,8 @@
         "T03",
         "T12"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -2155,6 +2283,8 @@
         "T02",
         "T03"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",
@@ -2188,6 +2318,8 @@
         "T09",
         "T17"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "artifact_type": "AP",
       "topic_names": [
         "Expert Knowledge Elicitation",

@@ -601,7 +601,10 @@ const indexGroups = layerOrder.flatMap((layer) =>
       // Child concepts
       if (data.children.length > 0) {
         childrenList.innerHTML = data.children
-          .map((c: any) => `<li><button class="detail-link" data-nav="${c.id}" type="button">${c.name}</button> <span class="bloom-tag">${c.bloom}</span></li>`)
+          .map(
+            (c: any) =>
+              `<li class="associated-concept"><button class="detail-link" data-nav="${c.id}" type="button">${c.name}</button><span class="bloom-tag">${c.bloom}</span></li>`
+          )
           .join("");
         childrenSection.hidden = false;
       } else {
@@ -931,6 +934,14 @@ const indexGroups = layerOrder.flatMap((layer) =>
     font-style: italic;
     margin-left: .3rem;
   }
+  .associated-concept {
+    display: flex;
+    align-items: baseline;
+    gap: .35rem;
+  }
+  .associated-concept .detail-link {
+    min-width: 0;
+  }
 
   .paper-item { display: flex; flex-direction: column; gap: .1rem; }
   .paper-title { color: var(--ink-soft); }
@@ -942,10 +953,15 @@ const indexGroups = layerOrder.flatMap((layer) =>
   .associated-item {
     display: flex;
     align-items: baseline;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: .6rem;
   }
+  .associated-item .resource-link {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
   .associated-meta {
+    margin-left: auto;
     font-family: var(--sans);
     font-size: .64rem;
     color: var(--muted);

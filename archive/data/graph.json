@@ -208,10 +208,14 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T00",
+      "home_concept": "C01",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T00",
+        "home_concept": "C01"
       }
     },
     {
@@ -224,10 +228,14 @@
         "T13",
         "T15"
       ],
+      "home_topic": "T00",
+      "home_concept": "C01",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "GL"
+        "artifact_type": "GL",
+        "home_topic": "T00",
+        "home_concept": "C01"
       }
     },
     {
@@ -239,10 +247,14 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -253,10 +265,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -268,10 +284,14 @@
         "T02",
         "T13"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "SG"
+        "artifact_type": "SG",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -284,10 +304,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C06",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T01",
+        "home_concept": "C06"
       }
     },
     {
@@ -300,10 +324,14 @@
         "T00",
         "T15"
       ],
+      "home_topic": "T03",
+      "home_concept": "C03",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "GL"
+        "artifact_type": "GL",
+        "home_topic": "T03",
+        "home_concept": "C03"
       }
     },
     {
@@ -316,10 +344,14 @@
         "T01",
         "T06"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -331,10 +363,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -346,10 +382,14 @@
         "T04",
         "T11"
       ],
+      "home_topic": "T04",
+      "home_concept": "C14",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T04",
+        "home_concept": "C14"
       }
     },
     {
@@ -361,10 +401,14 @@
         "T05",
         "T12"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -376,10 +420,14 @@
         "T06",
         "T07"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T06",
+        "home_concept": "C20"
       }
     },
     {
@@ -391,10 +439,14 @@
         "T07",
         "T06"
       ],
+      "home_topic": "T07",
+      "home_concept": "C23",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T07",
+        "home_concept": "C23"
       }
     },
     {
@@ -407,10 +459,14 @@
         "T10",
         "T13"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T08",
+        "home_concept": "C25"
       }
     },
     {
@@ -422,10 +478,14 @@
         "T09",
         "T10"
       ],
+      "home_topic": "T09",
+      "home_concept": "C12",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C12"
       }
     },
     {
@@ -437,10 +497,14 @@
         "T10",
         "T15"
       ],
+      "home_topic": "T10",
+      "home_concept": "C17",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T10",
+        "home_concept": "C17"
       }
     },
     {
@@ -452,10 +516,14 @@
         "T13",
         "T02"
       ],
+      "home_topic": "T13",
+      "home_concept": "C33",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T13",
+        "home_concept": "C33"
       }
     },
     {
@@ -468,10 +536,14 @@
         "T07",
         "T04"
       ],
+      "home_topic": "T14",
+      "home_concept": "C24",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T14",
+        "home_concept": "C24"
       }
     },
     {
@@ -483,10 +555,14 @@
         "T15",
         "T09"
       ],
+      "home_topic": "T15",
+      "home_concept": "C15",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T15",
+        "home_concept": "C15"
       }
     },
     {
@@ -498,10 +574,14 @@
         "T16",
         "T00"
       ],
+      "home_topic": "T16",
+      "home_concept": "C32",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "SG"
+        "artifact_type": "SG",
+        "home_topic": "T16",
+        "home_concept": "C32"
       }
     },
     {
@@ -514,10 +594,14 @@
         "T03",
         "T15"
       ],
+      "home_topic": "T17",
+      "home_concept": "C31",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T17",
+        "home_concept": "C31"
       }
     },
     {
@@ -530,10 +614,14 @@
         "T03",
         "T15"
       ],
+      "home_topic": "T17",
+      "home_concept": "C31",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T17",
+        "home_concept": "C31"
       }
     },
     {
@@ -546,10 +634,14 @@
         "T17",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -562,10 +654,14 @@
         "T04",
         "T01"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T06",
+        "home_concept": "C20"
       }
     },
     {
@@ -578,10 +674,14 @@
         "T01",
         "T15"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T06",
+        "home_concept": "C20"
       }
     },
     {
@@ -594,10 +694,14 @@
         "T12",
         "T03"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -610,10 +714,14 @@
         "T01",
         "T09"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T06",
+        "home_concept": "C20"
       }
     },
     {
@@ -625,10 +733,14 @@
         "T01",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -641,10 +753,14 @@
         "T02",
         "T06"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T08",
+        "home_concept": "C25"
       }
     },
     {
@@ -657,10 +773,14 @@
         "T02",
         "T07"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T08",
+        "home_concept": "C25"
       }
     },
     {
@@ -673,10 +793,14 @@
         "T03",
         "T15"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -689,10 +813,14 @@
         "T03",
         "T15"
       ],
+      "home_topic": "T16",
+      "home_concept": "C32",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T16",
+        "home_concept": "C32"
       }
     },
     {
@@ -705,10 +833,14 @@
         "T03",
         "T09"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -720,10 +852,14 @@
         "T02",
         "T13"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -736,10 +872,14 @@
         "T09",
         "T13"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -751,10 +891,14 @@
         "T02",
         "T13"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -767,10 +911,14 @@
         "T12",
         "T03"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -783,10 +931,14 @@
         "T10",
         "T04"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -799,10 +951,14 @@
         "T10",
         "T06"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -815,10 +971,14 @@
         "T09",
         "T03"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -831,10 +991,14 @@
         "T02",
         "T13"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -847,10 +1011,14 @@
         "T06",
         "T02"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -863,10 +1031,14 @@
         "T01",
         "T06"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -879,10 +1051,14 @@
         "T12",
         "T10"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -894,10 +1070,14 @@
         "T09",
         "T02"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -910,10 +1090,14 @@
         "T05",
         "T03"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T12",
+        "home_concept": ""
       }
     },
     {
@@ -926,10 +1110,14 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T12",
+        "home_concept": ""
       }
     },
     {
@@ -942,10 +1130,14 @@
         "T01",
         "T06"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T12",
+        "home_concept": ""
       }
     },
     {
@@ -957,10 +1149,14 @@
         "T12",
         "T03"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T12",
+        "home_concept": ""
       }
     },
     {
@@ -973,10 +1169,14 @@
         "T07",
         "T06"
       ],
+      "home_topic": "T12",
+      "home_concept": "",
       "provenance": {
         "scope": "seed",
         "selection_tier": "T1",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T12",
+        "home_concept": ""
       }
     },
     {
@@ -988,10 +1188,14 @@
         "T02",
         "T10"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -1003,10 +1207,14 @@
         "T02",
         "T01"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -1018,10 +1226,14 @@
         "T02",
         "T09"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -1034,10 +1246,14 @@
         "T01",
         "T09"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -1050,10 +1266,14 @@
         "T15",
         "T16"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -1066,10 +1286,14 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -1082,10 +1306,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -1098,10 +1326,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -1113,10 +1345,14 @@
         "T05",
         "T06"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -1129,10 +1365,14 @@
         "T04",
         "T01"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -1145,10 +1385,14 @@
         "T04",
         "T07"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -1160,10 +1404,14 @@
         "T09",
         "T02"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -1176,10 +1424,14 @@
         "T01",
         "T15"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -1192,10 +1444,14 @@
         "T03",
         "T12"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -1208,10 +1464,14 @@
         "T02",
         "T03"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -1223,10 +1483,14 @@
         "T09",
         "T17"
       ],
+      "home_topic": "T09",
+      "home_concept": "C28",
       "provenance": {
         "scope": "seed",
         "selection_tier": "",
-        "artifact_type": "AP"
+        "artifact_type": "AP",
+        "home_topic": "T09",
+        "home_concept": "C28"
       }
     },
     {
@@ -1242,10 +1506,14 @@
         "T09",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 8,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -1261,10 +1529,14 @@
         "T09",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 8,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -1282,10 +1554,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T06",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 6,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T06",
+        "home_concept": "C05"
       }
     },
     {
@@ -1298,10 +1574,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 6,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -1317,10 +1597,14 @@
         "T12",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 6,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1333,10 +1617,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 5,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -1350,10 +1638,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 5,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -1371,10 +1663,14 @@
         "T12",
         "T17"
       ],
+      "home_topic": "T06",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 5,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T06",
+        "home_concept": "C11"
       }
     },
     {
@@ -1389,10 +1685,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 5,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1405,10 +1705,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 5,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -1422,10 +1726,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 5,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1438,10 +1746,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 5,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1458,10 +1770,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 5,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1476,10 +1792,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T06",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 5,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T06",
+        "home_concept": "C11"
       }
     },
     {
@@ -1496,10 +1816,14 @@
         "T07",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C20",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C20"
       }
     },
     {
@@ -1513,10 +1837,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T06",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T06",
+        "home_concept": "C11"
       }
     },
     {
@@ -1529,10 +1857,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1545,10 +1877,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -1563,10 +1899,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1579,10 +1919,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1595,10 +1939,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -1613,10 +1961,14 @@
         "T09",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -1633,10 +1985,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -1651,10 +2007,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -1667,10 +2027,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -1685,10 +2049,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1701,10 +2069,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -1719,10 +2091,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1737,10 +2113,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1755,10 +2135,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1773,10 +2157,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C18",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C18"
       }
     },
     {
@@ -1789,10 +2177,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -1806,10 +2198,14 @@
         "T09",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -1822,10 +2218,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -1840,10 +2240,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1858,10 +2262,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1878,10 +2286,14 @@
         "T11",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C14",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C14"
       }
     },
     {
@@ -1895,10 +2307,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1913,10 +2329,14 @@
         "T12",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1929,10 +2349,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1946,10 +2370,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1962,10 +2390,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -1980,10 +2412,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -1998,10 +2434,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2014,10 +2454,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 4,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2030,10 +2474,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2046,10 +2494,14 @@
         "T10",
         "T13"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T08",
+        "home_concept": "C25"
       }
     },
     {
@@ -2063,10 +2515,14 @@
         "T06",
         "T11"
       ],
+      "home_topic": "T04",
+      "home_concept": "C14",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C14"
       }
     },
     {
@@ -2079,10 +2535,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -2095,10 +2555,14 @@
         "T06",
         "T11"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -2111,10 +2575,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2127,10 +2595,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2144,10 +2616,14 @@
         "T09",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -2161,10 +2637,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -2178,10 +2658,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2196,10 +2680,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T06",
+        "home_concept": "C20"
       }
     },
     {
@@ -2212,10 +2700,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -2229,10 +2721,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2245,10 +2741,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2261,10 +2761,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -2277,10 +2781,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2294,10 +2802,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2312,10 +2824,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T15",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T15",
+        "home_concept": "C31"
       }
     },
     {
@@ -2329,10 +2845,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2344,10 +2864,14 @@
         "T02",
         "T13"
       ],
+      "home_topic": "T02",
+      "home_concept": "C09",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T02",
+        "home_concept": "C09"
       }
     },
     {
@@ -2361,10 +2885,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2379,10 +2907,14 @@
         "T09",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -2395,10 +2927,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -2412,10 +2948,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2429,10 +2969,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -2447,10 +2991,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -2463,10 +3011,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2480,10 +3032,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2498,10 +3054,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T06",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T06",
+        "home_concept": "C13"
       }
     },
     {
@@ -2514,10 +3074,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2530,10 +3094,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -2547,10 +3115,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2564,10 +3136,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2581,10 +3157,14 @@
         "T11",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -2598,10 +3178,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2614,10 +3198,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -2631,10 +3219,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2648,10 +3240,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -2664,10 +3260,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2680,10 +3280,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2696,10 +3300,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -2712,10 +3320,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2731,10 +3343,14 @@
         "T13",
         "T15"
       ],
+      "home_topic": "T00",
+      "home_concept": "C01",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T00",
+        "home_concept": "C01"
       }
     },
     {
@@ -2748,10 +3364,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2765,10 +3385,14 @@
         "T09",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -2782,10 +3406,14 @@
         "T09",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -2799,10 +3427,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2815,10 +3447,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -2831,10 +3467,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2847,10 +3487,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2863,10 +3507,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -2880,10 +3528,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2896,10 +3548,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -2912,10 +3568,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -2929,10 +3589,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2946,10 +3610,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2962,10 +3630,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -2979,10 +3651,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -2995,10 +3671,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3011,10 +3691,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -3027,10 +3711,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -3043,10 +3731,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -3059,10 +3751,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3075,10 +3771,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3091,10 +3791,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -3107,10 +3811,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -3126,10 +3834,14 @@
         "T10",
         "T13"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3142,10 +3854,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -3159,10 +3875,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3175,10 +3895,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -3191,10 +3915,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3207,10 +3935,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -3228,10 +3960,14 @@
         "T12",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 3,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3244,10 +3980,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3260,10 +4000,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3276,10 +4020,14 @@
         "T10",
         "T13"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T08",
+        "home_concept": "C25"
       }
     },
     {
@@ -3292,10 +4040,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3308,10 +4060,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3324,10 +4080,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3340,10 +4100,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3356,10 +4120,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3372,10 +4140,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3388,10 +4160,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3405,10 +4181,14 @@
         "T09",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -3421,10 +4201,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3438,10 +4222,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -3456,10 +4244,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -3472,10 +4264,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -3488,10 +4284,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3504,10 +4304,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3522,10 +4326,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T06",
+        "home_concept": "C20"
       }
     },
     {
@@ -3538,10 +4346,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3554,10 +4366,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3570,10 +4386,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3586,10 +4406,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3605,10 +4429,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T06",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T06",
+        "home_concept": "C11"
       }
     },
     {
@@ -3621,10 +4449,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3638,10 +4470,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -3654,10 +4490,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3670,10 +4510,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3686,10 +4530,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3701,10 +4549,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3717,10 +4569,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3733,10 +4589,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3749,10 +4609,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3765,10 +4629,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -3781,10 +4649,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3798,10 +4670,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -3813,10 +4689,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3829,10 +4709,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3847,10 +4731,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -3864,10 +4752,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -3880,10 +4772,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3896,10 +4792,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3912,10 +4812,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3928,10 +4832,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3944,10 +4852,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -3960,10 +4872,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3976,10 +4892,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -3994,10 +4914,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4011,10 +4935,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4030,10 +4958,14 @@
         "T10",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4046,10 +4978,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4060,10 +4996,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -4076,10 +5016,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4092,10 +5036,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4110,10 +5058,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T06",
+      "home_concept": "C20",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T06",
+        "home_concept": "C20"
       }
     },
     {
@@ -4126,10 +5078,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4144,10 +5100,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4160,10 +5120,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4176,10 +5140,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4192,10 +5160,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4211,10 +5183,14 @@
         "T12",
         "T13"
       ],
+      "home_topic": "T01",
+      "home_concept": "C25",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C25"
       }
     },
     {
@@ -4227,10 +5203,14 @@
         "T10",
         "T13"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T08",
+        "home_concept": "C25"
       }
     },
     {
@@ -4243,10 +5223,14 @@
         "T03",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4259,10 +5243,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4275,10 +5263,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4293,10 +5285,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4308,10 +5304,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -4324,10 +5324,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4343,10 +5347,14 @@
         "T10",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4359,10 +5367,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4375,10 +5387,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -4391,10 +5407,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4407,10 +5427,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4425,10 +5449,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4441,10 +5469,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4457,10 +5489,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4471,10 +5507,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -4488,10 +5528,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4506,10 +5550,14 @@
         "T12",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4522,10 +5570,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4538,10 +5590,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -4554,10 +5610,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4570,10 +5630,14 @@
         "T03",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4586,10 +5650,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4602,10 +5670,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4618,10 +5690,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4634,10 +5710,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4653,10 +5733,14 @@
         "T12",
         "T13"
       ],
+      "home_topic": "T01",
+      "home_concept": "C25",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C25"
       }
     },
     {
@@ -4671,10 +5755,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -4687,10 +5775,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -4703,10 +5795,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4719,10 +5815,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -4735,10 +5835,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4751,10 +5855,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4769,10 +5877,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4785,10 +5897,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4801,10 +5917,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -4817,10 +5937,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4833,10 +5957,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4849,10 +5977,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4866,10 +5998,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -4882,10 +6018,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -4898,10 +6038,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4914,10 +6058,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4930,10 +6078,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4946,10 +6098,14 @@
         "T10",
         "T13"
       ],
+      "home_topic": "T08",
+      "home_concept": "C25",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T08",
+        "home_concept": "C25"
       }
     },
     {
@@ -4962,10 +6118,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -4978,10 +6138,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -4994,10 +6158,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -5010,10 +6178,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5026,10 +6198,14 @@
         "T05",
         "T12"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -5042,10 +6218,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5058,10 +6238,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5072,10 +6256,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -5088,10 +6276,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5104,10 +6296,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5120,10 +6316,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5136,10 +6336,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -5152,10 +6356,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5168,10 +6376,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5184,10 +6396,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -5200,10 +6416,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5215,10 +6435,14 @@
         "T05",
         "T12"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -5232,10 +6456,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5248,10 +6476,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5264,10 +6496,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5279,10 +6515,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -5297,10 +6537,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -5313,10 +6557,14 @@
         "T03",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -5329,10 +6577,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -5345,10 +6597,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -5361,10 +6617,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -5377,10 +6637,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5393,10 +6657,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5411,10 +6679,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T15",
+      "home_concept": "C17",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T15",
+        "home_concept": "C17"
       }
     },
     {
@@ -5429,10 +6701,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5445,10 +6721,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5461,10 +6741,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5477,10 +6761,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5491,10 +6779,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -5507,10 +6799,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5523,10 +6819,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5539,10 +6839,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5555,10 +6859,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5571,10 +6879,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5587,10 +6899,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -5602,10 +6918,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -5618,10 +6938,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5632,10 +6956,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -5646,10 +6974,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -5662,10 +6994,14 @@
         "T05",
         "T12"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -5679,10 +7015,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5695,10 +7035,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5712,10 +7056,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5728,10 +7076,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5744,10 +7096,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5760,10 +7116,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5776,10 +7136,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5792,10 +7156,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5811,10 +7179,14 @@
         "T13",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C25",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C25"
       }
     },
     {
@@ -5830,10 +7202,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C25",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C25"
       }
     },
     {
@@ -5845,10 +7221,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -5861,10 +7241,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -5878,10 +7262,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5896,10 +7284,14 @@
         "T12",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5912,10 +7304,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -5927,10 +7323,14 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -5946,10 +7346,14 @@
         "T13",
         "T15"
       ],
+      "home_topic": "T00",
+      "home_concept": "C03",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T00",
+        "home_concept": "C03"
       }
     },
     {
@@ -5962,10 +7366,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -5977,10 +7385,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -5993,10 +7405,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6009,10 +7425,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6025,10 +7445,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -6041,10 +7465,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6057,10 +7485,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6073,10 +7505,14 @@
         "T05",
         "T12"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -6089,10 +7525,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6105,10 +7545,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -6121,10 +7565,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6137,10 +7585,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6152,10 +7604,14 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6168,10 +7624,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6184,10 +7644,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -6200,10 +7664,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6216,10 +7684,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6231,10 +7703,14 @@
         "T05",
         "T12"
       ],
+      "home_topic": "T05",
+      "home_concept": "C18",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T05",
+        "home_concept": "C18"
       }
     },
     {
@@ -6247,10 +7723,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6263,10 +7743,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6280,10 +7764,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6296,10 +7784,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6312,10 +7804,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -6328,10 +7824,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6342,10 +7842,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -6358,10 +7862,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -6374,10 +7882,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -6390,10 +7902,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6406,10 +7922,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6420,10 +7940,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -6436,10 +7960,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -6453,10 +7981,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6469,10 +8001,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6485,10 +8021,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6501,10 +8041,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -6515,10 +8059,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -6531,10 +8079,14 @@
         "T03",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6546,10 +8098,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -6562,10 +8118,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6578,10 +8138,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6594,10 +8158,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6611,10 +8179,14 @@
         "T06",
         "T15"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6625,10 +8197,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -6639,10 +8215,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -6655,10 +8235,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6671,10 +8255,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6687,10 +8275,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6703,10 +8295,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6719,10 +8315,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6735,10 +8335,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6749,10 +8353,14 @@
       "topic_codes": [
         "T01"
       ],
+      "home_topic": "T01",
+      "home_concept": "C05",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C05"
       }
     },
     {
@@ -6766,10 +8374,14 @@
         "T06",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6782,10 +8394,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6797,10 +8413,14 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6813,10 +8433,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C11"
       }
     },
     {
@@ -6829,10 +8453,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6844,10 +8472,14 @@
         "T01",
         "T03"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6860,10 +8492,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -6876,10 +8512,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6892,10 +8532,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6908,10 +8552,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6924,10 +8572,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6943,10 +8595,14 @@
         "T10",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -6959,10 +8615,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6975,10 +8635,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -6991,10 +8655,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7007,10 +8675,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7023,10 +8695,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7039,10 +8715,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7055,10 +8735,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7073,10 +8757,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T15",
+      "home_concept": "C17",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T15",
+        "home_concept": "C17"
       }
     },
     {
@@ -7089,10 +8777,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7105,10 +8797,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7121,10 +8817,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7137,10 +8837,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7153,10 +8857,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7170,10 +8878,14 @@
         "T06",
         "T09"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -7186,10 +8898,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7202,10 +8918,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7218,10 +8938,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7234,10 +8958,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7250,10 +8978,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7268,10 +9000,14 @@
         "T09",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -7284,10 +9020,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7300,10 +9040,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7316,10 +9060,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7332,10 +9080,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T03",
+      "home_concept": "C31",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T03",
+        "home_concept": "C31"
       }
     },
     {
@@ -7348,10 +9100,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7364,10 +9120,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7383,10 +9143,14 @@
         "T10",
         "T12"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -7399,10 +9163,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7415,10 +9183,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7431,10 +9203,14 @@
         "T03",
         "T15"
       ],
+      "home_topic": "T00",
+      "home_concept": "C03",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T00",
+        "home_concept": "C03"
       }
     },
     {
@@ -7447,10 +9223,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7463,10 +9243,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7479,10 +9263,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7498,10 +9286,14 @@
         "T15",
         "T17"
       ],
+      "home_topic": "T01",
+      "home_concept": "C04",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C04"
       }
     },
     {
@@ -7514,10 +9306,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -7529,10 +9325,14 @@
         "T04",
         "T06"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -7545,10 +9345,14 @@
         "T06",
         "T17"
       ],
+      "home_topic": "T04",
+      "home_concept": "C13",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T04",
+        "home_concept": "C13"
       }
     },
     {
@@ -7561,10 +9365,14 @@
         "T03",
         "T06"
       ],
+      "home_topic": "T01",
+      "home_concept": "C11",
       "provenance": {
         "scope": "hop",
         "cross_seed_score": 2,
-        "artifact_type": "derived_one_hop"
+        "artifact_type": "derived_one_hop",
+        "home_topic": "T01",
+        "home_concept": "C11"
       }
     },
     {
@@ -25334,6 +27142,11 @@
     {
       "source": "C01",
       "target": "LE-T1-001",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C01",
+      "target": "LE-T1-001",
       "type": "anchored_by"
     },
     {
@@ -25369,6 +27182,11 @@
     {
       "source": "C02",
       "target": "LE-T1-001",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C02",
+      "target": "LE-T1-001",
       "type": "anchored_by"
     },
     {
@@ -25395,6 +27213,11 @@
       "source": "T00",
       "target": "C03",
       "type": "has_concept"
+    },
+    {
+      "source": "C03",
+      "target": "LE-T1-001",
+      "type": "core_evidence"
     },
     {
       "source": "C03",
@@ -25434,6 +27257,11 @@
     {
       "source": "C04",
       "target": "LE-T1-003",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C04",
+      "target": "LE-T1-003",
       "type": "anchored_by"
     },
     {
@@ -25469,6 +27297,11 @@
     {
       "source": "C05",
       "target": "LE-T1-003",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C05",
+      "target": "LE-T1-003",
       "type": "anchored_by"
     },
     {
@@ -25485,6 +27318,11 @@
       "source": "T01",
       "target": "C06",
       "type": "has_concept"
+    },
+    {
+      "source": "C06",
+      "target": "LE-T1-006",
+      "type": "core_evidence"
     },
     {
       "source": "C06",
@@ -25509,6 +27347,11 @@
     {
       "source": "C07",
       "target": "LE-T1-003",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C07",
+      "target": "LE-T1-003",
       "type": "anchored_by"
     },
     {
@@ -25520,6 +27363,11 @@
       "source": "T01",
       "target": "C08",
       "type": "has_concept"
+    },
+    {
+      "source": "C08",
+      "target": "LE-T1-003",
+      "type": "core_evidence"
     },
     {
       "source": "C08",
@@ -25544,6 +27392,11 @@
     {
       "source": "C09",
       "target": "LE-T1-005",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C09",
+      "target": "LE-T1-005",
       "type": "anchored_by"
     },
     {
@@ -25559,6 +27412,11 @@
     {
       "source": "C10",
       "target": "LE-T1-005",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C10",
+      "target": "LE-T1-005",
       "type": "anchored_by"
     },
     {
@@ -25570,6 +27428,11 @@
       "source": "T03",
       "target": "C11",
       "type": "has_concept"
+    },
+    {
+      "source": "C11",
+      "target": "LE-T1-007",
+      "type": "core_evidence"
     },
     {
       "source": "C11",
@@ -25609,6 +27472,11 @@
     {
       "source": "C12",
       "target": "LE-T1-007",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C12",
+      "target": "LE-T1-007",
       "type": "anchored_by"
     },
     {
@@ -25635,6 +27503,11 @@
       "source": "T04",
       "target": "C13",
       "type": "has_concept"
+    },
+    {
+      "source": "C13",
+      "target": "LE-T1-009",
+      "type": "core_evidence"
     },
     {
       "source": "C13",
@@ -25674,6 +27547,11 @@
     {
       "source": "C14",
       "target": "LE-T1-010",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C14",
+      "target": "LE-T1-010",
       "type": "anchored_by"
     },
     {
@@ -25709,6 +27587,11 @@
     {
       "source": "C15",
       "target": "LE-T1-009",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C15",
+      "target": "LE-T1-009",
       "type": "anchored_by"
     },
     {
@@ -25730,6 +27613,11 @@
       "source": "T03",
       "target": "C16",
       "type": "has_concept"
+    },
+    {
+      "source": "C16",
+      "target": "LE-T1-007",
+      "type": "core_evidence"
     },
     {
       "source": "C16",
@@ -25759,6 +27647,11 @@
     {
       "source": "C17",
       "target": "LE-T1-021",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C17",
+      "target": "LE-T1-021",
       "type": "anchored_by"
     },
     {
@@ -25780,6 +27673,11 @@
       "source": "T05",
       "target": "C18",
       "type": "has_concept"
+    },
+    {
+      "source": "C18",
+      "target": "LE-T1-008",
+      "type": "core_evidence"
     },
     {
       "source": "C18",
@@ -25809,6 +27707,11 @@
     {
       "source": "C19",
       "target": "LE-T1-011",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C19",
+      "target": "LE-T1-011",
       "type": "anchored_by"
     },
     {
@@ -25825,6 +27728,11 @@
       "source": "T06",
       "target": "C20",
       "type": "has_concept"
+    },
+    {
+      "source": "C20",
+      "target": "LE-T1-013",
+      "type": "core_evidence"
     },
     {
       "source": "C20",
@@ -25864,6 +27772,11 @@
     {
       "source": "C21",
       "target": "LE-T1-013",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C21",
+      "target": "LE-T1-013",
       "type": "anchored_by"
     },
     {
@@ -25885,6 +27798,11 @@
       "source": "T11",
       "target": "C22",
       "type": "has_concept"
+    },
+    {
+      "source": "C22",
+      "target": "LE-T1-011",
+      "type": "core_evidence"
     },
     {
       "source": "C22",
@@ -25939,6 +27857,11 @@
     {
       "source": "C23",
       "target": "LE-T1-015",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C23",
+      "target": "LE-T1-015",
       "type": "anchored_by"
     },
     {
@@ -25960,6 +27883,11 @@
       "source": "T07",
       "target": "C24",
       "type": "has_concept"
+    },
+    {
+      "source": "C24",
+      "target": "LE-T1-015",
+      "type": "core_evidence"
     },
     {
       "source": "C24",
@@ -25989,6 +27917,11 @@
     {
       "source": "C25",
       "target": "LE-T1-017",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C25",
+      "target": "LE-T1-017",
       "type": "anchored_by"
     },
     {
@@ -26005,6 +27938,11 @@
       "source": "T08",
       "target": "C26",
       "type": "has_concept"
+    },
+    {
+      "source": "C26",
+      "target": "LE-T1-017",
+      "type": "core_evidence"
     },
     {
       "source": "C26",
@@ -26029,6 +27967,11 @@
     {
       "source": "C27",
       "target": "LE-T1-017",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C27",
+      "target": "LE-T1-017",
       "type": "anchored_by"
     },
     {
@@ -26044,6 +27987,11 @@
     {
       "source": "C28",
       "target": "LE-T1-019",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C28",
+      "target": "LE-T1-019",
       "type": "anchored_by"
     },
     {
@@ -26055,6 +28003,11 @@
       "source": "T10",
       "target": "C29",
       "type": "has_concept"
+    },
+    {
+      "source": "C29",
+      "target": "LE-T1-021",
+      "type": "core_evidence"
     },
     {
       "source": "C29",
@@ -26079,6 +28032,11 @@
     {
       "source": "C30",
       "target": "LE-T1-031",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C30",
+      "target": "LE-T1-031",
       "type": "anchored_by"
     },
     {
@@ -26095,6 +28053,11 @@
       "source": "T17",
       "target": "C31",
       "type": "has_concept"
+    },
+    {
+      "source": "C31",
+      "target": "LE-T1-035",
+      "type": "core_evidence"
     },
     {
       "source": "C31",
@@ -26125,6 +28088,11 @@
       "source": "T16",
       "target": "C32",
       "type": "has_concept"
+    },
+    {
+      "source": "C32",
+      "target": "LE-T1-033",
+      "type": "core_evidence"
     },
     {
       "source": "C32",
@@ -26174,6 +28142,11 @@
     {
       "source": "C33",
       "target": "LE-T1-027",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C33",
+      "target": "LE-T1-027",
       "type": "anchored_by"
     },
     {
@@ -26194,6 +28167,11 @@
     {
       "source": "C34",
       "target": "LE-T1-029",
+      "type": "core_evidence"
+    },
+    {
+      "source": "C34",
+      "target": "LE-T1-029",
       "type": "anchored_by"
     },
     {
@@ -26205,6 +28183,11 @@
       "source": "T11",
       "target": "C35",
       "type": "has_concept"
+    },
+    {
+      "source": "C35",
+      "target": "LE-T1-015",
+      "type": "core_evidence"
     },
     {
       "source": "C35",

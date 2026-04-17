@@ -68,6 +68,24 @@ The hero and footer on each page link to the other HTML entry point so you can s
 python3 scripts/build_merged_site_dataset.py
 ```
 
+7. Import new citation lists (LEBOK-style) into `site/src/content/reading-list/`:
+
+```bash
+# dry-run (shows what would be created/skipped)
+python3 site/scripts/import_lebok_refs.py --input /path/to/citations.txt
+
+# write mode (creates new MDX stubs, dedupes against existing reading-list)
+python3 site/scripts/import_lebok_refs.py --input /path/to/citations.txt --write
+
+# then validate/build site
+npm --prefix site run build
+```
+
+Notes:
+- Input can be bullet lists or paragraph-style citations.
+- Duplicate detection uses normalized title and URL checks.
+- In `--write` mode, a JSON import report is saved under `site/data/import_reports/`.
+
 If OpenAlex returns budget or rate-limit errors, set **`OPENALEX_MAILTO`** (contact email for the API) and optionally **`OPENALEX_API_KEY`** (premium quota) in the environment before running the command. The scripts read them but never print them. You can put the same variables in a **`.env`** file at the repository root (see [`.env.example`](.env.example)); `merged_lane_proposal.py` and `build_merged_site_dataset.py` load it automatically when present. Existing shell environment variables take precedence over `.env`.
 
 `build_merged_site_dataset.py` skips any lane row whose `work_id` already appears as **`openalex_id`** on a seed or one-hop paper (dedupe), and drops duplicate `work_id` entries in `lane_work_specs.json`. Skips are recorded under `merged_lane_specs_skipped` in `data/merged/build_summary.json`. Each surviving lane work is fetched from OpenAlex with **outer retries** (on top of the client’s own handling of rate limits); per-work timing is in **`merged_lane_openalex_fetch_log`**.
