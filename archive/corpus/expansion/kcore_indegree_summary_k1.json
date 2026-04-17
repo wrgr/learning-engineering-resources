@@ -1,0 +1,14 @@
+{
+  "generated_at_utc": "2026-04-17T01:55:26.167476+00:00",
+  "input": "corpus/expansion/candidates_cross_seed_ge2.jsonl",
+  "k": 1,
+  "counts": {
+    "input_candidates": 1182,
+    "input_work_ids": 1182,
+    "induced_edges": 6190,
+    "indegree_ge_k": 808,
+    "k_in_core_nodes": 567,
+    "final_nodes": 567
+  },
+  "output_file": "corpus/expansion/candidates_cross_seed_ge2_kincore_indeg_ge1.jsonl"
+}

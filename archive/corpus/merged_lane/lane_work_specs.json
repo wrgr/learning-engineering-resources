@@ -29708,5 +29708,5176 @@
     "corpus_tier": "expanded",
     "source_lane": "harvest:ieee_icicle_conference_seeds",
     "source_expansion": "thematic"
+  },
+  {
+    "work_id": "W4296527633",
+    "topic_codes": [
+      "T04",
+      "T06",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-011",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-011"
+  },
+  {
+    "work_id": "W2915656765",
+    "topic_codes": [
+      "T00",
+      "T03",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-012",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-012"
+  },
+  {
+    "work_id": "W2892505165",
+    "topic_codes": [
+      "T00",
+      "T03",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-012",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-012"
+  },
+  {
+    "work_id": "W2885261442",
+    "topic_codes": [
+      "T00",
+      "T03",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-012",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-012"
+  },
+  {
+    "work_id": "W2090847193",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2068844315",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2076991236",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2035223780",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W4256095053",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W1966114173",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2086681002",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2986236907",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2170402458",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W1829357153",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2027120251",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2273735674",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2019401659",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2248657068",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W1996553037",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2044630613",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2091238191",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2185565288",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2084678488",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2725531887",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2012193553",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2945470560",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2087233285",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2020348436",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2141806912",
+    "topic_codes": [
+      "T04",
+      "T09",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-014",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-014"
+  },
+  {
+    "work_id": "W2999700099",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-058",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-058"
+  },
+  {
+    "work_id": "W2008039778",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-058",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-058"
+  },
+  {
+    "work_id": "W3204304595",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-058",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-058"
+  },
+  {
+    "work_id": "W4391972039",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-058",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-058"
+  },
+  {
+    "work_id": "W2601070432",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-058",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-058"
+  },
+  {
+    "work_id": "W2950086628",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-058",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-058"
+  },
+  {
+    "work_id": "W2030265874",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-059",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-059"
+  },
+  {
+    "work_id": "W2584654622",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-059",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-059"
+  },
+  {
+    "work_id": "W1977254994",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-059",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-059"
+  },
+  {
+    "work_id": "W4392360651",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-059",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-059"
+  },
+  {
+    "work_id": "W4327579768",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-059",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-059"
+  },
+  {
+    "work_id": "W2162934409",
+    "topic_codes": [
+      "T03",
+      "T16",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-059",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-059"
+  },
+  {
+    "work_id": "W2054177883",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2041108171",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2207576671",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W4248225261",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W4384071384",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2004832418",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W1990082628",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W4294904827",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2052731400",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W1968545949",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2978276418",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2192671216",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2898542411",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2164090974",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2121531008",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2012299711",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W44365434",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2570525150",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W1993764192",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2950438582",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2972235958",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2112727195",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W3007326911",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W2039390437",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W3187894809",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-061",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-061"
+  },
+  {
+    "work_id": "W1987330726",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2144372818",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2029631366",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W1830679697",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2163883141",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2043376709",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2140643043",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2006770121",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2922088926",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W3006502601",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W4312195595",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2340047421",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2903253993",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W4321484957",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2042645920",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2325559191",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W3111389439",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W3005803397",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W4206797589",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2991414878",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2069186175",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W2016753828",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W1987616401",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W3122332204",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W4362720900",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-063",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-063"
+  },
+  {
+    "work_id": "W4389002521",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-066",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-066"
+  },
+  {
+    "work_id": "W1973292488",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-066",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-066"
+  },
+  {
+    "work_id": "W2921748887",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-066",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-066"
+  },
+  {
+    "work_id": "W2557262657",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-066",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-066"
+  },
+  {
+    "work_id": "W2744729413",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-066",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-066"
+  },
+  {
+    "work_id": "W1518534096",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-066",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-066"
+  },
+  {
+    "work_id": "W4308713117",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-066",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-066"
+  },
+  {
+    "work_id": "W3208012880",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-066",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-066"
+  },
+  {
+    "work_id": "W2561462644",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-067",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-067"
+  },
+  {
+    "work_id": "W2101355109",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-067",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-067"
+  },
+  {
+    "work_id": "W2778583468",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-067",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-067"
+  },
+  {
+    "work_id": "W963223582",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-067",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-067"
+  },
+  {
+    "work_id": "W2535019908",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-067",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-067"
+  },
+  {
+    "work_id": "W3039458808",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-067",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-067"
+  },
+  {
+    "work_id": "W3170138941",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-067",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-067"
+  },
+  {
+    "work_id": "W2142595523",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2032933650",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2116172336",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W1966912445",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2097933614",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W1999739013",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W1992516426",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2153178376",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W3106132330",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2055306882",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2109797625",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W1961848711",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2023309614",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2114108698",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2041589930",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2796323143",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W3011889656",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W1974055309",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W1974576514",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2606440006",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2171303855",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2113294687",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2162018625",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W4391023495",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W3103331187",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-071",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-071"
+  },
+  {
+    "work_id": "W2073374239",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W613221599",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W2070996984",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1589061952",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W2158607697",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W2082178886",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1509998468",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1489943945",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1966329786",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W2137400896",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1654337437",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1997709831",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W2171665829",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W2008797894",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1509188757",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1516869746",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W2023726438",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W3156580533",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1554418046",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1969250643",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1535754082",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1514412303",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W4220912093",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W2324330980",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W4377024437",
+    "topic_codes": [
+      "T16",
+      "T13",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-072",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-072"
+  },
+  {
+    "work_id": "W1972651141",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2111410314",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W3193360717",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2058516620",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2046307535",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2806161046",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W3205622799",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2088841850",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2010830901",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2061567928",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2054557511",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W4298325658",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W4200075460",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W4282942340",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2086843646",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W4200348523",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2069573175",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2027385934",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W4377690919",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W1984776228",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2884525830",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W3126285395",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W4200522151",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W3088730857",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2143818416",
+    "topic_codes": [
+      "T06",
+      "T07",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-081",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-081"
+  },
+  {
+    "work_id": "W2467346710",
+    "topic_codes": [
+      "T06",
+      "T03",
+      "T13"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-082",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-082"
+  },
+  {
+    "work_id": "W2117342357",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2063705673",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2130523331",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W1865292488",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2019364517",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W1485648732",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2265967673",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2285705399",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2597720601",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2990299464",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2891137678",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W1992786309",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2099622778",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W3215861457",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W4388595753",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W3092141661",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2827355147",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W299961079",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2925014171",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W4234030253",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W3135273136",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2909118084",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2507520747",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W4386160905",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W2025319279",
+    "topic_codes": [
+      "T13",
+      "T06",
+      "T15"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-083",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-083"
+  },
+  {
+    "work_id": "W1510672157",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W4243216998",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2069099927",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W3046509492",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2047926687",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2053680135",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W4241576146",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2309067248",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W112537198",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2010648543",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W1574662445",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2958068212",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2066404961",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W126420677",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2098103640",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2102495692",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2067893130",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W1991218162",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2166367303",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2042385018",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2170130400",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W1976036348",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2097284564",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W2061995914",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W3048957961",
+    "topic_codes": [
+      "T00",
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-090",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-090"
+  },
+  {
+    "work_id": "W1708874574",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2134917048",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W1996989406",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W1492518088",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W74704794",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2064332540",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W1928882148",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W1965191725",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2154164802",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W1889619166",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2065070540",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2082496272",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2154099072",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2132073746",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2016288462",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W1990310447",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2102187172",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2138414057",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2075517826",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2102162397",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2018823572",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2139906140",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2059351555",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2139099630",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W2108602246",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T00"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-091",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-091"
+  },
+  {
+    "work_id": "W1991691398",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1502491548",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W3030747497",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1972687012",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W2147870538",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1966944550",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1998547244",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W163812436",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1517240909",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1491002050",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W2025692333",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1577290756",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1517036110",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W166186692",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1582219060",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1996858122",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W2156770822",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W2162333310",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W2165234017",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1574795579",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W2251790026",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1506161382",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1651819853",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W11441919",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1514473185",
+    "topic_codes": [
+      "T01",
+      "T06"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-092",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-092"
+  },
+  {
+    "work_id": "W1976637107",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2096036274",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2004599511",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2046036800",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2040127838",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2913144876",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W1795004830",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2140591843",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W30153120",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2038403654",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2053915626",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2141019025",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2966192018",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2045224349",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W1998901892",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2800397035",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2003788177",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2077546866",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2090580324",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2008594187",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2046966022",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2014511864",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2040945096",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2067983851",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2011458368",
+    "topic_codes": [
+      "T01",
+      "T12",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-093",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-093"
+  },
+  {
+    "work_id": "W2727426218",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W2243496244",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W4234747672",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W2000180085",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W3214555744",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W1979880286",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W2981797421",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W2153088647",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W2068190731",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W4387344702",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W4234731396",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W3097879358",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W4399185115",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W3025144730",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W3163151389",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W2742605657",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W1965174056",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W3131782436",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W2108586740",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W1598666460",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W4310065241",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W4389210602",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W3129813986",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W4388557098",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W4386739731",
+    "topic_codes": [
+      "T17",
+      "T03",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-094",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-094"
+  },
+  {
+    "work_id": "W2133052656",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W1520164249",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2116736830",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2158500347",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W1523480272",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2169490753",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W41944343",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2008675626",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2026997179",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2015519275",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2109606528",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W1520427559",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W1969164220",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W1982744178",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W204253390",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W1546777085",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W249883844",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W1998598292",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2040698846",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2107283157",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W1744327130",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2180834469",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2097394251",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2065561905",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W2135563096",
+    "topic_codes": [
+      "T06",
+      "T01",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-095",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-095"
+  },
+  {
+    "work_id": "W1970332800",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2052377591",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2098801065",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2114566179",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2043975518",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2016751155",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W65973527",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2161153780",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W1598396054",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2163520651",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2036850753",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W3142478421",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2545461012",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2056614320",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W6724912",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2794307529",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2159928334",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2041136294",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2124123217",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2104686311",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W113138739",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W4297371803",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W1509699980",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W1527039019",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W2196441567",
+    "topic_codes": [
+      "T08",
+      "T00",
+      "T07"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-096",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-096"
+  },
+  {
+    "work_id": "W1995864528",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2115486496",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W1918776538",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2336395599",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2089966986",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2146856593",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2606234010",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2132425059",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2394824715",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2801003678",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2082009863",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2903795157",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2144209849",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2605898966",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2097424976",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2163117691",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2160133757",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W1636689632",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2117629044",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2406472076",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W4320731315",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2273188821",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2108080737",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W3012049595",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W2885231241",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T17"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-097",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-097"
+  },
+  {
+    "work_id": "W1999075212",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2152896489",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2098077093",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2811395263",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2147836374",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2124500362",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W1981119767",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2332297685",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2885397520",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W1966450732",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2075783780",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2333312111",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W3008005432",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2075385817",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2529348500",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2040146655",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W1162707989",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W3026573367",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W1973136150",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W3164894983",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W1926678456",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W1965716520",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2014330362",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W3121471846",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W2147836594",
+    "topic_codes": [
+      "T00",
+      "T11",
+      "T03"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-098",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-098"
+  },
+  {
+    "work_id": "W1522943378",
+    "topic_codes": [
+      "T06",
+      "T04",
+      "T01"
+    ],
+    "corpus_tier": "expanded",
+    "source_lane": "person_expansion_auto:LE-PP-099",
+    "source_expansion": "person",
+    "registry_person_id": "LE-PP-099"
   }
 ]

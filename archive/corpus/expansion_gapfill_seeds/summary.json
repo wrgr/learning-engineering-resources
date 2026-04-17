@@ -1,0 +1,22 @@
+{
+  "generated_at_utc": "2026-04-17T01:51:50.602456+00:00",
+  "input_seed_file": "corpus/expansion_seed_queries_gapfill.jsonl",
+  "counts": {
+    "seed_queries_total": 9,
+    "seed_resolved_total": 8,
+    "seed_unresolved_total": 1,
+    "candidates_total": 916,
+    "candidates_forward_edge": 392,
+    "candidates_backward_edge": 527,
+    "candidates_cross_seed_ge_2": 16,
+    "candidates_cross_seed_ge_3": 0
+  },
+  "seed_resolution_breakdown": {
+    "doi": 3,
+    "search": 5,
+    "unresolved": 1
+  },
+  "seed_kind_breakdown": {
+    "gap_fill_anchor": 9
+  }
+}

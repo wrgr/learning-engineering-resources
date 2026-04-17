@@ -1,23 +1,24 @@
 {
-  "generated_at_utc": "2026-04-09T02:26:08.695739+00:00",
+  "generated_at_utc": "2026-04-17T00:44:53.772330+00:00",
   "input_seed_file": "corpus/expansion_seed_queries.jsonl",
   "counts": {
-    "seed_queries_total": 295,
-    "seed_resolved_total": 170,
+    "seed_queries_total": 302,
+    "seed_resolved_total": 177,
     "seed_unresolved_total": 125,
-    "candidates_total": 15126,
-    "candidates_forward_edge": 7745,
-    "candidates_backward_edge": 7476,
-    "candidates_cross_seed_ge_2": 1030,
-    "candidates_cross_seed_ge_3": 154
+    "candidates_total": 15933,
+    "candidates_forward_edge": 8322,
+    "candidates_backward_edge": 7775,
+    "candidates_cross_seed_ge_2": 1182,
+    "candidates_cross_seed_ge_3": 229
   },
   "seed_resolution_breakdown": {
-    "doi": 71,
+    "doi": 78,
     "search": 99,
     "unresolved": 125
   },
   "seed_kind_breakdown": {
     "book_endnote_reference": 268,
+    "landscape_foundational_anchor": 7,
     "workbook_expansion_source": 27
   }
 }

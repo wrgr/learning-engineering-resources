@@ -550,5 +550,17 @@
     "secondary_topics": "T05",
     "description": "OER schema: specification and metadata ontology for publishing Open Educational Resources on the web. Unifies content to a standard vocabulary for discoverability and automated remixing.",
     "notes": "Developed by Learning Tapestry / ICICLE. Enables interoperable OER ecosystems."
+  },
+  {
+    "resource_id": "LE-IC-047",
+    "status": "APPROVED",
+    "content_type": "SG",
+    "name": "IEEE 1484.12.1-2002 & P2881: Learning Object Metadata",
+    "affiliation_or_venue": "LOM / P2881",
+    "url": "https://standards.ieee.org/ieee/1484.12.1/1280/",
+    "primary_topic": "T11",
+    "secondary_topics": "T05, T16",
+    "description": "Essential standards for cataloging, discovery, and semantic structuring of digital learning resources across repositories. Enables automated discoverability and cross-platform content reuse.",
+    "notes": "Landscape merge. Original ID: LE-LS-SG-005. Sponsoring body: IEEE LTSC. P2881 is the modernized successor incorporating linked data and accessibility requirements."
   }
 ]

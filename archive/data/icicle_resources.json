@@ -1,7 +1,7 @@
 {
   "source_url": "corpus/non_paper_resources.jsonl",
-  "section_count": 16,
-  "item_count": 232,
+  "section_count": 18,
+  "item_count": 303,
   "sections": [
     {
       "section": "T00 Field Overview & History",
@@ -484,6 +484,135 @@
           "section": "T00 Field Overview & History"
         },
         {
+          "resource_id": "LE-LS-GL-001",
+          "title": "Untitled",
+          "url": "http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33692",
+          "context": "The founding document of learning engineering. Simon coined the term 'learning engineer' and made the case that teaching effectiveness is a distinct, learnable expertise grounded in cognitive science \u2014 not a byproduct of subject-matter expertise. The philosophical foundation for everything that followed.",
+          "topic_codes": [
+            "T00",
+            "T03",
+            "T12"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-LS-GL-002",
+          "title": "Untitled",
+          "url": "https://oepi.mit.edu/files/2016/09/MIT-Online-Education-Policy-Initiative-September-2016.pdf",
+          "context": "Re-injected 'learning engineer' into higher education discourse at the moment MOOCs reached 58M+ global students. Recommended universities create dedicated learning engineering roles. Catalyzed institutional adoption of LE language and practices across US higher education. Widely cited as the document that triggered the modern LE movement.",
+          "topic_codes": [
+            "T00",
+            "T11",
+            "T03"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-LS-GL-003",
+          "title": "Untitled",
+          "url": "https://repository.upenn.edu/handle/20.500.14332/6388",
+          "context": "Synthesized a 2020 convening of 100+ academics, policymakers, and practitioners to define ten strategic priorities for the field in three domains: Better LE Infrastructure (shared R&D architectures, A/B testing at scale, reusable algorithmic components), Supporting Human Processes (teacher dashboards, predictive advising), and Better Learning Technologies (algorithmic equity, complex-skills measurement). The field's most comprehensive contemporary roadmap.",
+          "topic_codes": [
+            "T00",
+            "T04",
+            "T14",
+            "T07"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-LS-GL-005",
+          "title": "Untitled",
+          "url": "https://library.educause.edu/resources/2017/2/2017-horizon-report",
+          "context": "The annual predictive literature for edtech adoption across global higher education. Tracks short-, mid-, and long-term adoption horizons. Documents the gradual mainstreaming of LE concepts (analytics, adaptive systems, AI tutors) from forecast to widespread adoption across the 2017\u20132024 arc.",
+          "topic_codes": [
+            "T00",
+            "T07",
+            "T04",
+            "T11"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-LS-GL-006",
+          "title": "Untitled",
+          "url": "https://library.educause.edu/resources/2017/2/2017-horizon-report",
+          "context": "Identified adaptive learning technologies and data-driven personalization as short-term adoption trends in higher education. Forecast the long-term restructuring of degrees around competency measurement. Part of the annual Horizon series that documented the field's gradual integration into mainstream institutional practice.",
+          "topic_codes": [
+            "T00",
+            "T06",
+            "T11"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-LS-GL-008",
+          "title": "Untitled",
+          "url": "https://www.routledge.com/Learning-Engineering-for-Online-Education-Theoretical-Contexts-and-Design-Based/Dede-Richards-Saxberg/p/book/9780815394426",
+          "context": "First book-length treatment of learning engineering applied to digital and distributed contexts. Saxberg's formulation \u2014 LE as applying learning science at 'massive, affordable, data-rich scale' \u2014 became widely adopted. Documents how online architectures enable continuous telemetry that peer-reviewed journals document years later.",
+          "topic_codes": [
+            "T00",
+            "T03",
+            "T11",
+            "T04"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-LS-GL-011",
+          "title": "Untitled",
+          "url": "https://library.educause.edu/resources/2018/4/7-things-you-should-know-about-learning-engineering",
+          "context": "Widely circulated practitioner-oriented brief that introduced LE to a broad institutional technology audience. Part of the canonical EDUCAUSE '7 Things' series consumed by CIOs, provosts, and instructional technology directors. Accelerated LE vocabulary adoption in non-research higher education contexts.",
+          "topic_codes": [
+            "T00",
+            "T03"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-LS-CO-002",
+          "title": "Untitled",
+          "url": "https://www.cmu.edu/simon/",
+          "context": "Cross-disciplinary learning engineering ecosystem at CMU. Encompasses LearnLab, OLI, DataShop/LearnSphere, and the METALS master's program. Mission: improve learning outcomes through rigorous research and technology deployment.",
+          "topic_codes": [
+            "T00",
+            "T06",
+            "T04",
+            "T11"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-LS-JO-006",
+          "title": "Untitled",
+          "url": "https://jole.ieee.org",
+          "context": "Applied integration of learning design, analytics, and systems thinking. Provides the 'Learning Engineering Primer' for terminological alignment. Diamond Open Access; community-driven by ICICLE.",
+          "topic_codes": [
+            "T00",
+            "T03",
+            "T16"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
           "resource_id": "LE-IC-001",
           "title": "Learning Engineering for Online Education (Dede, Richards, Saxberg eds.)",
           "url": "https://www.routledge.com/Learning-Engineering-for-Online-Education/Dede-Richards/p/book/9780367899691",
@@ -842,6 +971,65 @@
           "content_type": "CO",
           "status": "APPROVED",
           "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-LS-PP-005",
+          "title": "Kenneth R. Koedinger",
+          "url": "https://pact.cs.cmu.edu/koedinger.html",
+          "context": "Co-originator of learning engineering as a named field; Cognitive Tutor pioneer; DataShop founder \u2014 Led development of Cognitive Tutors deployed in thousands of schools; co-founded Carnegie Learning Inc.; Founded Pittsburgh Science of Learning Center (PSLC) and DataShop \u2014 world's largest open repository of educational log data; Developed 'Assistment' methodology linking formative assessment to intelligent hints; Coined the term 'learning engineering' in its modern formulation as an applied, data",
+          "topic_codes": [
+            "T00",
+            "T06",
+            "T01",
+            "T04"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-117",
+          "title": "EDUCAUSE Horizon Report: Teaching and Learning Edition",
+          "url": "https://library.educause.edu/resources/2017/2/2017-horizon-report",
+          "context": "The annual predictive literature for edtech adoption across global higher education. Tracks short-, mid-, and long-term adoption horizons. Documents the gradual mainstreaming of LE concepts (analytics, adaptive systems, AI tutors) from forecast to widespread adoption across the 2017\u20132024 arc.",
+          "topic_codes": [
+            "T00",
+            "T07",
+            "T04",
+            "T11"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-118",
+          "title": "NMC Horizon Report: 2017 Higher Education Edition",
+          "url": "https://library.educause.edu/resources/2017/2/2017-horizon-report",
+          "context": "Identified adaptive learning technologies and data-driven personalization as short-term adoption trends in higher education. Forecast the long-term restructuring of degrees around competency measurement. Part of the annual Horizon series that documented the field's gradual integration into mainstream institutional practice.",
+          "topic_codes": [
+            "T00",
+            "T06",
+            "T11"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
+        },
+        {
+          "resource_id": "LE-PP-120",
+          "title": "Learning Engineering for Online Education: Theoretical Contexts and Design-Based Examples",
+          "url": "https://www.routledge.com/Learning-Engineering-for-Online-Education-Theoretical-Contexts-and-Design-Based/Dede-Richards-Saxberg/p/book/9780815394426",
+          "context": "First book-length treatment of learning engineering applied to digital and distributed contexts. Saxberg's formulation \u2014 LE as applying learning science at 'massive, affordable, data-rich scale' \u2014 became widely adopted. Documents how online architectures enable continuous telemetry that peer-reviewed journals document years later.",
+          "topic_codes": [
+            "T00",
+            "T03",
+            "T11",
+            "T04"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T00 Field Overview & History"
         }
       ]
     },
@@ -920,6 +1108,92 @@
       ]
     },
     {
+      "section": "T02 Systems Engineering & Human Factors",
+      "items": [
+        {
+          "resource_id": "GF-GL-001",
+          "title": "Untitled",
+          "url": "https://www.incose.org/",
+          "context": "Global professional society for systems engineering. Publishes Systems Engineering journal and INCOSE Handbook. Bridges SE methodology and human factors in complex system design.",
+          "topic_codes": [
+            "T02",
+            "T13"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T02 Systems Engineering & Human Factors"
+        },
+        {
+          "resource_id": "GF-GL-002",
+          "title": "Untitled",
+          "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36903",
+          "context": "DoD handbook for integrating human engineering into systems acquisition. Free, public domain. Directly feeds ICICLE Gov/Mil MIG work on mission-critical training design.",
+          "topic_codes": [
+            "T02",
+            "T13",
+            "T10"
+          ],
+          "content_type": "SG",
+          "status": "APPROVED",
+          "section": "T02 Systems Engineering & Human Factors"
+        },
+        {
+          "resource_id": "LE-PP-131",
+          "title": "MIL-STD-1472H: Human Engineering Design Criteria for Military Systems",
+          "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36903",
+          "context": "DoD standard specifying human engineering design criteria for military systems, equipment, and facilities. The authoritative source for human factors requirements in defense training systems. Directly applicable to military LE system design.",
+          "topic_codes": [
+            "T02",
+            "T10"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T02 Systems Engineering & Human Factors"
+        },
+        {
+          "resource_id": "LE-PP-132",
+          "title": "NASA Human Systems Integration Practitioner's Guide",
+          "url": "https://www.nasa.gov/",
+          "context": "NASA's operational guide to implementing HSI across the systems engineering lifecycle. Demonstrates how human-centered analysis (task analysis, workload, error analysis) integrates with traditional systems engineering milestones. Applicable to complex LE system development.",
+          "topic_codes": [
+            "T02",
+            "T10",
+            "T08"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T02 Systems Engineering & Human Factors"
+        },
+        {
+          "resource_id": "LE-PP-133",
+          "title": "Human Factors and Ergonomics Society",
+          "url": "https://www.hfes.org/",
+          "context": "Professional society for human factors and ergonomics. Publishes Human Factors journal and organizes the annual HFES conference. The Training Systems technical group directly addresses LE-relevant human factors in instructional systems.",
+          "topic_codes": [
+            "T02",
+            "T08"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T02 Systems Engineering & Human Factors"
+        },
+        {
+          "resource_id": "LE-PP-134",
+          "title": "INCOSE Systems Engineering Body of Knowledge (SEBoK)",
+          "url": "https://sebokwiki.org/",
+          "context": "Open wiki-based body of knowledge for systems engineering. Includes the Human Systems Integration knowledge area. The SE process framework (requirements, architecture, integration, verification) is the engineering process backbone that LE adapts for learning system development.",
+          "topic_codes": [
+            "T02",
+            "T03",
+            "T16"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T02 Systems Engineering & Human Factors"
+        }
+      ]
+    },
+    {
       "section": "T03 Learning Engineering Process",
       "items": [
         {
@@ -932,6 +1206,21 @@
             "T00"
           ],
           "content_type": "AP",
+          "status": "APPROVED",
+          "section": "T03 Learning Engineering Process"
+        },
+        {
+          "resource_id": "LE-LS-GL-007",
+          "title": "Untitled",
+          "url": "https://www.routledge.com/Learning-Engineering-Toolkit-Evidence-Based-Practices-from-the-Learning/Goodell-Kolodner/p/book/9781032205007",
+          "context": "The field's primary practitioner handbook. Frames LE as a verb \u2014 an iterative, evidence-based problem-solving process \u2014 not a technology set or a job title. Covers lean-agile methods, HCI design, data instrumentation, motivation modeling, and predictive analytics. Explicitly technology-agnostic: the principles apply equally to AI-driven software and low-tech interventions.",
+          "topic_codes": [
+            "T03",
+            "T00",
+            "T04",
+            "T12"
+          ],
+          "content_type": "GL",
           "status": "APPROVED",
           "section": "T03 Learning Engineering Process"
         },
@@ -1095,6 +1384,21 @@
           "content_type": "PC",
           "status": "APPROVED",
           "section": "T03 Learning Engineering Process"
+        },
+        {
+          "resource_id": "LE-PP-119",
+          "title": "Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, and Beyond",
+          "url": "https://www.routledge.com/Learning-Engineering-Toolkit-Evidence-Based-Practices-from-the-Learning/Goodell-Kolodner/p/book/9781032205007",
+          "context": "The field's primary practitioner handbook. Frames LE as a verb \u2014 an iterative, evidence-based problem-solving process \u2014 not a technology set or a job title. Covers lean-agile methods, HCI design, data instrumentation, motivation modeling, and predictive analytics. Explicitly technology-agnostic: the principles apply equally to AI-driven software and low-tech interventions.",
+          "topic_codes": [
+            "T03",
+            "T00",
+            "T04",
+            "T12"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T03 Learning Engineering Process"
         }
       ]
     },
@@ -1180,6 +1484,119 @@
             "T04",
             "T11",
             "T15"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-LS-GL-010",
+          "title": "Untitled",
+          "url": "https://www.cmu.edu/simon/open-simon/",
+          "context": "A hybrid of grey literature, open-source software repository, and methodological guide comprising: DataShop (educational data repository), LearnSphere (world's largest open learning analytics infrastructure), CTAT (cognitive tutor authoring tools), OLI (Open Learning Initiative courseware), DiscourseDB, LightSide, Bazaar, Mathtutor, ChemCollective, and Echo. The flagship open infrastructure for learning engineering research globally.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T11",
+            "T17"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-LS-CO-003",
+          "title": "Untitled",
+          "url": "https://www.solaresearch.org/",
+          "context": "Academic society promoting learning analytics research, practice, and policy. Organizes the annual LAK conference and Learning Analytics Summer Institute (LASI). Publishes the Journal of Learning Analytics.",
+          "topic_codes": [
+            "T04",
+            "T14",
+            "T17"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-LS-CO-004",
+          "title": "Untitled",
+          "url": "https://learninganalytics.upenn.edu",
+          "context": "Research center at University of Pennsylvania directing EDM and LE policy work. Led by Ryan Baker. Produced 'High-Leverage Opportunities for Learning Engineering' (2021) and several landmark EDM papers.",
+          "topic_codes": [
+            "T04",
+            "T17",
+            "T06"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-LS-CO-006",
+          "title": "Untitled",
+          "url": "https://educationaldatamining.org",
+          "context": "Society organizing the annual EDM conference and publishing the Journal of Educational Data Mining. Focus on computational, discovery-oriented analysis of educational data.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T17"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-LS-CE-002",
+          "title": "Untitled",
+          "url": "https://www.solaresearch.org/events/lak/",
+          "context": "Practice-oriented learning analytics, ethical deployment, dashboard design, predictive modeling, algorithmic fairness. Community-building for the SoLAR network.",
+          "topic_codes": [
+            "T04",
+            "T14",
+            "T17"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-LS-CE-003",
+          "title": "Untitled",
+          "url": "https://educationaldatamining.org/conferences/",
+          "context": "Algorithmic and computational approaches to educational data: knowledge tracing, early warning systems, automated feature engineering, student behavior modeling.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T17"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-LS-JO-002",
+          "title": "Untitled",
+          "url": "https://jedm.educationaldatamining.org/",
+          "context": "Open-access journal dedicated to algorithms and methodologies for analyzing educational data: knowledge tracing, automated feature engineering, predictive student modeling.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T17"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-LS-JO-004",
+          "title": "Untitled",
+          "url": "https://learning-analytics.info/index.php/JLA",
+          "context": "Socio-technical implications of educational data: dashboard design, algorithmic ethics, data privacy, human-in-the-loop architectures, equity in analytics deployment.",
+          "topic_codes": [
+            "T04",
+            "T14",
+            "T17"
           ],
           "content_type": "CO",
           "status": "APPROVED",
@@ -1297,6 +1714,92 @@
           "content_type": "CO",
           "status": "APPROVED",
           "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-LS-PP-008",
+          "title": "Ryan S. J. d. Baker",
+          "url": "https://www.upenn.edu/faculty/ryan-baker",
+          "context": "EDM pioneer; director of Penn Center for Learning Analytics; high-leverage LE policy voice \u2014 Codified Educational Data Mining as a formal discipline with Baker & Yacef 2009 (1,500+ citations); Developed methods for detecting gaming-the-system, off-task behavior, and boredom in ITS telemetry; Directed production of 'High-Leverage Opportunities for Learning Engineering' (2021), the field's most cited contemporary policy document; Directs the Penn Center for Learning Analytics, a major hub for LE r",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T07",
+            "T17"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-121",
+          "title": "OpenSimon Toolkit",
+          "url": "https://www.cmu.edu/simon/open-simon/",
+          "context": "A hybrid of grey literature, open-source software repository, and methodological guide comprising: DataShop (educational data repository), LearnSphere (world's largest open learning analytics infrastructure), CTAT (cognitive tutor authoring tools), OLI (Open Learning Initiative courseware), DiscourseDB, LightSide, Bazaar, Mathtutor, ChemCollective, and Echo. The flagship open infrastructure for learning engineering research globally.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T11",
+            "T17"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-123",
+          "title": "Society for Learning Analytics Research",
+          "url": "https://www.solaresearch.org/",
+          "context": "Academic society promoting learning analytics research, practice, and policy. Organizes the annual LAK conference and Learning Analytics Summer Institute (LASI). Publishes the Journal of Learning Analytics.",
+          "topic_codes": [
+            "T04",
+            "T14",
+            "T17"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-124",
+          "title": "International Educational Data Mining Society",
+          "url": "https://educationaldatamining.org",
+          "context": "Society organizing the annual EDM conference and publishing the Journal of Educational Data Mining. Focus on computational, discovery-oriented analysis of educational data.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T17"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-126",
+          "title": "International Conference on Learning Analytics and Knowledge",
+          "url": "https://www.solaresearch.org/events/lak/",
+          "context": "Practice-oriented learning analytics, ethical deployment, dashboard design, predictive modeling, algorithmic fairness. Community-building for the SoLAR network.",
+          "topic_codes": [
+            "T04",
+            "T14",
+            "T17"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
+        },
+        {
+          "resource_id": "LE-PP-127",
+          "title": "International Conference on Educational Data Mining",
+          "url": "https://educationaldatamining.org/conferences/",
+          "context": "Algorithmic and computational approaches to educational data: knowledge tracing, early warning systems, automated feature engineering, student behavior modeling.",
+          "topic_codes": [
+            "T04",
+            "T06",
+            "T17"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T04 Measurement & Analytics"
         }
       ]
     },
@@ -1317,6 +1820,61 @@
           "section": "T05 Knowledge Representation"
         },
         {
+          "resource_id": "GF-GL-003",
+          "title": "Untitled",
+          "url": "https://www.1edtech.org/standards/clr",
+          "context": "Open standard for capturing and sharing rich learner achievement data across systems. Successor to Open Badges. Underpins LE infrastructure for competency-based education.",
+          "topic_codes": [
+            "T05",
+            "T11",
+            "T16"
+          ],
+          "content_type": "SG",
+          "status": "APPROVED",
+          "section": "T05 Knowledge Representation"
+        },
+        {
+          "resource_id": "GF-GL-004",
+          "title": "Untitled",
+          "url": "https://credentialengine.org/",
+          "context": "Non-profit mapping the credential landscape via machine-readable descriptions. CTDL schema enables interoperability between competency frameworks. Registry contains 1M+ credentials.",
+          "topic_codes": [
+            "T05",
+            "T11",
+            "T16"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T05 Knowledge Representation"
+        },
+        {
+          "resource_id": "GF-GL-005",
+          "title": "Untitled",
+          "url": "https://www.1edtech.org/standards/case",
+          "context": "1EdTech specification for publishing, discovering, and correlating competency frameworks and academic standards. Enables machine-readable alignment between curricula and assessments.",
+          "topic_codes": [
+            "T05",
+            "T11",
+            "T12"
+          ],
+          "content_type": "SG",
+          "status": "APPROVED",
+          "section": "T05 Knowledge Representation"
+        },
+        {
+          "resource_id": "GF-GL-006",
+          "title": "Untitled",
+          "url": "https://www.1edtech.org/standards/open-badges",
+          "context": "Open standard for portable, verifiable digital credentials. Enables LE systems to issue machine-readable evidence of competency achievement.",
+          "topic_codes": [
+            "T05",
+            "T11"
+          ],
+          "content_type": "SG",
+          "status": "APPROVED",
+          "section": "T05 Knowledge Representation"
+        },
+        {
           "resource_id": "LE-IC-044",
           "title": "IEEE 1484.20.2: Recommended Practice for Defining Competencies",
           "url": "https://standards.ieee.org/ieee/1484.20.2/10435/",
@@ -1327,6 +1885,62 @@
             "T11"
           ],
           "content_type": "SG",
+          "status": "APPROVED",
+          "section": "T05 Knowledge Representation"
+        },
+        {
+          "resource_id": "LE-PP-135",
+          "title": "DataShop \u2014 LearnSphere Educational Data Repository",
+          "url": "https://pslcdatashop.web.cmu.edu/",
+          "context": "World's largest open repository of educational interaction data. Stores student performance logs indexed by knowledge component models. The canonical infrastructure for empirical validation of knowledge representations \u2014 if your KC model predicts student learning curves well, it's a good representation.",
+          "topic_codes": [
+            "T05",
+            "T04",
+            "T06"
+          ],
+          "content_type": "TP",
+          "status": "APPROVED",
+          "section": "T05 Knowledge Representation"
+        },
+        {
+          "resource_id": "LE-PP-136",
+          "title": "CTAT \u2014 Cognitive Tutor Authoring Tools",
+          "url": "https://github.com/CMUCTAT/CTAT",
+          "context": "Authoring environment for building model-tracing and example-tracing cognitive tutors. Authors encode domain knowledge as production rules (model-tracing) or annotated examples (example-tracing). The primary tool for operationalizing expert knowledge into runnable knowledge component models.",
+          "topic_codes": [
+            "T05",
+            "T06",
+            "T09"
+          ],
+          "content_type": "TP",
+          "status": "APPROVED",
+          "section": "T05 Knowledge Representation"
+        },
+        {
+          "resource_id": "LE-PP-137",
+          "title": "IMS Global Competency and Academic Standards Exchange (CASE)",
+          "url": "https://www.1edtech.org/standards/case",
+          "context": "Technical standard for expressing and exchanging competency frameworks, learning outcomes, and academic standards in machine-readable form. Enables interoperable knowledge representation across learning platforms \u2014 the infrastructure layer for competency-based knowledge models.",
+          "topic_codes": [
+            "T05",
+            "T11",
+            "T16"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T05 Knowledge Representation"
+        },
+        {
+          "resource_id": "LE-PP-138",
+          "title": "Credential Engine / Credential Transparency Description Language (CTDL)",
+          "url": "https://credentialengine.org/",
+          "context": "Open-source data standard and registry for describing credentials, competencies, and learning pathways. CTDL encodes 1,200+ properties for representing what people know and can do. The emerging national infrastructure for credential-level knowledge representation.",
+          "topic_codes": [
+            "T05",
+            "T16",
+            "T11"
+          ],
+          "content_type": "CO",
           "status": "APPROVED",
           "section": "T05 Knowledge Representation"
         }
@@ -1427,6 +2041,48 @@
             "T00"
           ],
           "content_type": "AP",
+          "status": "APPROVED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        },
+        {
+          "resource_id": "LE-LS-CO-005",
+          "title": "Untitled",
+          "url": "https://hcii.cmu.edu",
+          "context": "Academic home of learning sciences and technologies at CMU. Houses Ken Koedinger, Al Corbett, and the PACT Center. Offers PhD and MS programs integrating HCI, learning sciences, and data science.",
+          "topic_codes": [
+            "T06",
+            "T01",
+            "T03"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        },
+        {
+          "resource_id": "LE-LS-CE-001",
+          "title": "Untitled",
+          "url": "https://iis-international.org/its/",
+          "context": "Premier venue for ITS research: cognitive models, student modeling, adaptive instruction, feedback algorithms. Founded 1988 in Montreal. Proceedings published by Springer LNCS.",
+          "topic_codes": [
+            "T06",
+            "T04",
+            "T07"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T06 Intelligent Tutoring & Adaptive Systems"
+        },
+        {
+          "resource_id": "LE-LS-JO-003",
+          "title": "Untitled",
+          "url": "https://www.computer.org/csdl/journal/lt",
+          "context": "Technical design and architecture of learning systems: adaptive algorithms, NLP conversational agents, multimodal telemetry (eye tracking, EEG, GSR), large-scale platform engineering.",
+          "topic_codes": [
+            "T06",
+            "T07",
+            "T11"
+          ],
+          "content_type": "CO",
           "status": "APPROVED",
           "section": "T06 Intelligent Tutoring & Adaptive Systems"
         },
@@ -1716,6 +2372,34 @@
           "section": "T07 AI & Foundation Models in Learning"
         },
         {
+          "resource_id": "LE-LS-CE-004",
+          "title": "Untitled",
+          "url": "https://aied2025.org",
+          "context": "AI-driven educational systems: generative AI tutors, NLP for learning, deep knowledge tracing, conversational agents, human-AI interaction in education.",
+          "topic_codes": [
+            "T07",
+            "T06",
+            "T04"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T07 AI & Foundation Models in Learning"
+        },
+        {
+          "resource_id": "LE-LS-JO-005",
+          "title": "Untitled",
+          "url": "https://link.springer.com/journal/40593",
+          "context": "Premier venue for ITS, generative AI in education, deep cognitive modeling, evaluation of AI vs. human tutoring. Algorithmic accuracy evaluations and human factors studies.",
+          "topic_codes": [
+            "T07",
+            "T06",
+            "T04"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T07 AI & Foundation Models in Learning"
+        },
+        {
           "resource_id": "LE-PP-113",
           "title": "International Journal of Artificial Intelligence in Education",
           "url": "https://link.springer.com/journal/40593",
@@ -1726,6 +2410,20 @@
             "T04"
           ],
           "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T07 AI & Foundation Models in Learning"
+        },
+        {
+          "resource_id": "LE-PP-128",
+          "title": "International Conference on Artificial Intelligence in Education",
+          "url": "https://aied2025.org",
+          "context": "AI-driven educational systems: generative AI tutors, NLP for learning, deep knowledge tracing, conversational agents, human-AI interaction in education.",
+          "topic_codes": [
+            "T07",
+            "T06",
+            "T04"
+          ],
+          "content_type": "CE",
           "status": "APPROVED",
           "section": "T07 AI & Foundation Models in Learning"
         }
@@ -1826,6 +2524,106 @@
           "content_type": "PP",
           "status": "APPROVED",
           "section": "T08 Simulation & Experiential Learning"
+        },
+        {
+          "resource_id": "LE-LS-PP-014",
+          "title": "Scotty D. Craig",
+          "url": "https://scottycraig.com",
+          "context": "Human factors researcher; virtual humans and pedagogical agents specialist \u2014 Systematically investigated design principles for virtual humans and pedagogical agents in learning environments; Demonstrated that vocal quality, aesthetic design, and agent persona significantly affect learner cognitive load and outcomes; Co-authored the Learning Engineering Adoption Maturity Model; Bridges human factors engineering with instructional technology research",
+          "topic_codes": [
+            "T08",
+            "T02",
+            "T06"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T08 Simulation & Experiential Learning"
+        }
+      ]
+    },
+    {
+      "section": "T09 Expert Knowledge Elicitation",
+      "items": [
+        {
+          "resource_id": "GF-GL-007",
+          "title": "Untitled",
+          "url": "https://www.arlut.utexas.edu/",
+          "context": "U.S. DoD University Affiliated Research Center. Kevin Owens (featured in ICICLE Gov/Mil MIG webinar) conducts CTA-based training system design for mission-critical environments.",
+          "topic_codes": [
+            "T09",
+            "T02",
+            "T13"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T09 Expert Knowledge Elicitation"
+        },
+        {
+          "resource_id": "GF-GL-008",
+          "title": "Untitled",
+          "url": "https://journals.sagepub.com/home/edm",
+          "context": "SAGE journal publishing CTA methodology, naturalistic decision making, and expertise research. Key venue for the Klein/Hoffman community.",
+          "topic_codes": [
+            "T09",
+            "T02"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T09 Expert Knowledge Elicitation"
+        },
+        {
+          "resource_id": "GF-GL-009",
+          "title": "Untitled",
+          "url": "https://journals.sagepub.com/home/hfs",
+          "context": "Premier venue for human factors and ergonomics research. Publishes CTA methodology, workload assessment, and human-system integration studies relevant to LE in complex domains.",
+          "topic_codes": [
+            "T09",
+            "T02"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T09 Expert Knowledge Elicitation"
+        },
+        {
+          "resource_id": "LE-PP-139",
+          "title": "Naturalistic Decision Making Association",
+          "url": "https://www.naturalisticdecisionmaking.org/",
+          "context": "Research community studying expert decision-making in real-world conditions. NDM methods (critical decision method, cognitive task analysis) are the primary toolkit for eliciting expert knowledge in high-stakes training domains: military, healthcare, aviation, firefighting.",
+          "topic_codes": [
+            "T09",
+            "T02"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T09 Expert Knowledge Elicitation"
+        },
+        {
+          "resource_id": "LE-PP-140",
+          "title": "Robert R. Hoffman",
+          "url": "https://www.ihmc.us/groups/rhoffman/",
+          "context": "Pioneer of cognitive task analysis and knowledge elicitation methodology. Co-authored 'Working Minds' and the Cambridge Handbook of Expertise. Led development of CTA methods for military training at IHMC. Bridges expertise research with practical training system design.",
+          "topic_codes": [
+            "T09",
+            "T02",
+            "T01"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T09 Expert Knowledge Elicitation"
+        },
+        {
+          "resource_id": "LE-PP-141",
+          "title": "Gary Klein",
+          "url": "https://www.macrocognition.com/",
+          "context": "Creator of the Recognition-Primed Decision model and Critical Decision Method. His naturalistic decision-making research established that expert performance depends on pattern recognition and mental simulation \u2014 defining what CTA must capture to build effective training.",
+          "topic_codes": [
+            "T09",
+            "T02",
+            "T01"
+          ],
+          "content_type": "PP",
+          "status": "APPROVED",
+          "section": "T09 Expert Knowledge Elicitation"
         }
       ]
     },
@@ -2047,6 +2845,34 @@
           "section": "T11 Learning Infrastructure & Platforms"
         },
         {
+          "resource_id": "LE-LS-CE-006",
+          "title": "Untitled",
+          "url": "https://learningatscale.acm.org/",
+          "context": "Technical and pedagogical research on large-scale digital learning: MOOCs, online education platforms, at-scale experimentation, A/B testing in learning contexts.",
+          "topic_codes": [
+            "T11",
+            "T04",
+            "T07"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T11 Learning Infrastructure & Platforms"
+        },
+        {
+          "resource_id": "LE-LS-SG-005",
+          "title": "Untitled",
+          "url": "https://standards.ieee.org/ieee/1484.12.1/1280/",
+          "context": "Essential standards for cataloging, discovery, and semantic structuring of digital learning resources across repositories. Enables automated discoverability and cross-platform content reuse.",
+          "topic_codes": [
+            "T11",
+            "T05",
+            "T16"
+          ],
+          "content_type": "SG",
+          "status": "APPROVED",
+          "section": "T11 Learning Infrastructure & Platforms"
+        },
+        {
           "resource_id": "LE-IC-041",
           "title": "IEEE 1484.1-2003: Learning Technology Systems Architecture (LTSA)",
           "url": "https://standards.ieee.org/ieee/1484.1/1655/",
@@ -2095,6 +2921,20 @@
           "topic_codes": [
             "T11",
             "T05"
+          ],
+          "content_type": "SG",
+          "status": "APPROVED",
+          "section": "T11 Learning Infrastructure & Platforms"
+        },
+        {
+          "resource_id": "LE-IC-047",
+          "title": "IEEE 1484.12.1-2002 & P2881: Learning Object Metadata",
+          "url": "https://standards.ieee.org/ieee/1484.12.1/1280/",
+          "context": "Essential standards for cataloging, discovery, and semantic structuring of digital learning resources across repositories. Enables automated discoverability and cross-platform content reuse.",
+          "topic_codes": [
+            "T11",
+            "T05",
+            "T16"
           ],
           "content_type": "SG",
           "status": "APPROVED",
@@ -2182,6 +3022,19 @@
           "content_type": "GL",
           "status": "APPROVED",
           "section": "T12 Instructional Design & Curriculum"
+        },
+        {
+          "resource_id": "GF-GL-010",
+          "title": "Untitled",
+          "url": "",
+          "context": "Original US Army ISD framework (Florida State University, 1975). Codified Analysis-Design-Development-Implementation-Evaluation as the canonical ID process. LE extends ADDIE with data-driven iteration.",
+          "topic_codes": [
+            "T12",
+            "T03"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T12 Instructional Design & Curriculum"
         }
       ]
     },
@@ -2213,6 +3066,20 @@
             "T00"
           ],
           "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T13 High-Consequence & Complex Domains"
+        },
+        {
+          "resource_id": "LE-LS-JO-007",
+          "title": "Untitled",
+          "url": "https://stemeducationjournal.springeropen.com/",
+          "context": "Discipline-based education research (DBER): problem-based learning, flipped classrooms, educational robotics, STEM learning outcomes at scale.",
+          "topic_codes": [
+            "T13",
+            "T01",
+            "T15"
+          ],
+          "content_type": "CO",
           "status": "APPROVED",
           "section": "T13 High-Consequence & Complex Domains"
         },
@@ -2299,6 +3166,20 @@
           "content_type": "PC",
           "status": "APPROVED",
           "section": "T13 High-Consequence & Complex Domains"
+        },
+        {
+          "resource_id": "LE-PP-130",
+          "title": "International Journal of STEM Education",
+          "url": "https://stemeducationjournal.springeropen.com/",
+          "context": "Discipline-based education research (DBER): problem-based learning, flipped classrooms, educational robotics, STEM learning outcomes at scale.",
+          "topic_codes": [
+            "T13",
+            "T01",
+            "T15"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T13 High-Consequence & Complex Domains"
         }
       ]
     },
@@ -2315,6 +3196,20 @@
             "T07"
           ],
           "content_type": "AP",
+          "status": "APPROVED",
+          "section": "T14 Ethics, Equity & Responsible LE"
+        },
+        {
+          "resource_id": "LE-LS-GL-004",
+          "title": "Untitled",
+          "url": "https://www2.ed.gov/documents/ai-report/ai-report.pdf",
+          "context": "First major federal policy document addressing AI in education with explicit civil-rights framing. Documented algorithmic bias in e-proctoring systems (facial recognition failures for darker-skinned, transgender, and neurodivergent students). Mandated algorithmic fairness and data representation requirements that now set the ethical floor for learning engineering practice.",
+          "topic_codes": [
+            "T14",
+            "T07",
+            "T04"
+          ],
+          "content_type": "GL",
           "status": "APPROVED",
           "section": "T14 Ethics, Equity & Responsible LE"
         },
@@ -2817,6 +3712,34 @@
           "section": "T16 Standards, Credentialing & Community"
         },
         {
+          "resource_id": "LE-LS-GL-009",
+          "title": "Untitled",
+          "url": "https://icicle.ieee.org",
+          "context": "Organizational capability matrix allowing enterprises to measure fidelity of their LE adoption across human-centered design, learning science integration, and data-driven iteration dimensions. Provides a structured pathway from ad-hoc instructional design to mature learning engineering practice. The field's primary organizational self-assessment tool.",
+          "topic_codes": [
+            "T16",
+            "T03",
+            "T15"
+          ],
+          "content_type": "GL",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-LS-CO-001",
+          "title": "Untitled",
+          "url": "https://icicle.ieee.org",
+          "context": "Professional standards body for learning engineering. Produces the LE Adoption Maturity Model, competency frameworks, annual conference proceedings, and the Journal of Learning Engineering. Chartered 2017 under IEEE LTSC.",
+          "topic_codes": [
+            "T16",
+            "T00",
+            "T03"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
+        },
+        {
           "resource_id": "LE-IC-004",
           "title": "Generalizable Learning Engineering Adoption Maturity Model",
           "url": "[ICICLE resources page]",
@@ -3094,12 +4017,68 @@
           "content_type": "GL",
           "status": "APPROVED",
           "section": "T16 Standards, Credentialing & Community"
+        },
+        {
+          "resource_id": "LE-PP-122",
+          "title": "IEEE ICICLE \u2014 Industry Consortium on Learning Engineering",
+          "url": "https://icicle.ieee.org",
+          "context": "Professional standards body for learning engineering. Produces the LE Adoption Maturity Model, competency frameworks, annual conference proceedings, and the Journal of Learning Engineering. Chartered 2017 under IEEE LTSC.",
+          "topic_codes": [
+            "T16",
+            "T00",
+            "T03"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T16 Standards, Credentialing & Community"
         }
       ]
     },
     {
       "section": "T17 Research Methods & Field Development",
       "items": [
+        {
+          "resource_id": "LE-LS-CO-007",
+          "title": "Untitled",
+          "url": "https://lsri.uic.edu/",
+          "context": "Interdisciplinary research institute at University of Illinois Chicago spanning learning sciences, computational methods, and educational equity.",
+          "topic_codes": [
+            "T17",
+            "T14",
+            "T01"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T17 Research Methods & Field Development"
+        },
+        {
+          "resource_id": "LE-LS-CE-005",
+          "title": "Untitled",
+          "url": "https://www.isls.org/",
+          "context": "Design-based research, socio-cultural learning theory, collaborative learning, epistemology of learning environments. Balances computational rigor with qualitative and humanistic perspectives.",
+          "topic_codes": [
+            "T17",
+            "T01",
+            "T03"
+          ],
+          "content_type": "CE",
+          "status": "APPROVED",
+          "section": "T17 Research Methods & Field Development"
+        },
+        {
+          "resource_id": "LE-LS-JO-001",
+          "title": "Untitled",
+          "url": "https://www.tandfonline.com/journals/hlns20",
+          "context": "Multidisciplinary forum for theoretical models, epistemology, and design-based research in learning sciences. Publishes foundational work on socio-cognitive frameworks, knowledge-building, and interaction analysis.",
+          "topic_codes": [
+            "T17",
+            "T01",
+            "T03"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T17 Research Methods & Field Development"
+        },
         {
           "resource_id": "LE-IC-023",
           "title": "High-Leverage Opportunities for Learning Engineering (Baker & Boser, 2021)",
@@ -3139,6 +4118,34 @@
             "T03"
           ],
           "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T17 Research Methods & Field Development"
+        },
+        {
+          "resource_id": "LE-PP-125",
+          "title": "Learning Sciences Research Institute, UIC",
+          "url": "https://lsri.uic.edu/",
+          "context": "Interdisciplinary research institute at University of Illinois Chicago spanning learning sciences, computational methods, and educational equity.",
+          "topic_codes": [
+            "T17",
+            "T14",
+            "T01"
+          ],
+          "content_type": "CO",
+          "status": "APPROVED",
+          "section": "T17 Research Methods & Field Development"
+        },
+        {
+          "resource_id": "LE-PP-129",
+          "title": "International Society of the Learning Sciences Annual Meeting",
+          "url": "https://www.isls.org/",
+          "context": "Design-based research, socio-cultural learning theory, collaborative learning, epistemology of learning environments. Balances computational rigor with qualitative and humanistic perspectives.",
+          "topic_codes": [
+            "T17",
+            "T01",
+            "T03"
+          ],
+          "content_type": "CE",
           "status": "APPROVED",
           "section": "T17 Research Methods & Field Development"
         }
