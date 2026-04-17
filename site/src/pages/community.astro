@@ -102,11 +102,11 @@ const totalCount =
   institutions.length + people.length;
 ---
 
-<Base title="Community · Learning Engineering" active="community">
+<Base title="Community · Learning Engineering Commons" active="community">
   <SectionHero
     eyebrow="Community"
     title="Study groups, conferences, institutions &amp; people"
-    question="Where does the field live — who convenes, where is it practiced, and who does the work?"
+    question="Where does the field live — and who does the work?"
     count={totalCount}
   />
 
@@ -211,7 +211,7 @@ const totalCount =
       <h2 class="group-heading">
         People <span class="count muted">({people.length})</span>
       </h2>
-      <p class="group-note">ICICLE SIG/MIG leaders and contributors. Associated reading links below each card where we could match authorship.</p>
+      <p class="group-note">ICICLE SIG/MIG leaders and contributors, with links to their published work.</p>
       <div class="grid">
         {people.map((entry) => {
           const Body = bodyMap.get(entry.id);

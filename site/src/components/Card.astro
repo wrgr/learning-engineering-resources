@@ -21,6 +21,8 @@ interface Props {
   speakerName?: string;
 }
 
+import { topicUrl, topicName } from "../data/topicSlugs";
+
 const {
   title, format, url, venue, authors, year,
   cluster, topics = [], tags = [],
@@ -80,7 +82,7 @@ const isHero = Boolean(embed);
     <span class="format-chip">{formatLabel[format] ?? format}</span>
     {isExpertConversation && <span class="conversation-chip">Expert conversation</span>}
     {cluster && <span class="cluster-chip">{cluster}</span>}
-    {topics.slice(0, 2).map((t) => <span class="topic-chip">{t}</span>)}
+    {topics.slice(0, 2).map((t) => <a href={topicUrl(t)} class="topic-chip">{topicName(t)}</a>)}
     {missingProvenance && <span class="badge-missing">source unknown</span>}
   </div>
 
@@ -182,7 +184,8 @@ const isHero = Boolean(embed);
     letter-spacing: .04em;
   }
   .cluster-chip { color: var(--accent-2); background: #e8f4f6; letter-spacing: .03em; text-transform: none; }
-  .topic-chip { color: var(--muted); background: var(--tint); }
+  .topic-chip { color: var(--muted); background: var(--tint); border: none; }
+  a.topic-chip:hover { color: var(--accent); background: var(--tint-warm); }
 
   .badge-missing {
     font-family: var(--sans);

@@ -15,6 +15,21 @@ const counts = {
 
 type SectionKey = keyof typeof counts;
 
+const discoveryCards: { href: string; lead: string; title: string; detail: string }[] = [
+  {
+    href: base + "topics/",
+    lead: "Exploring by topic?",
+    title: "Topics",
+    detail: "Browse 18 topics across three layers — from learning science foundations to ethics and evidence standards.",
+  },
+  {
+    href: base + "pathways/",
+    lead: "Want a guided tour?",
+    title: "Pathways",
+    detail: "Five narrative threads through the field — follow the one that matches your question.",
+  },
+];
+
 const whyCards: { key: SectionKey; href: string; lead: string; title: string; detail: string }[] = [
   {
     key: "field-notes",
@@ -81,8 +96,20 @@ const whyCards: { key: SectionKey; href: string; lead: string; title: string; de
 
   <section class="why-here">
     <div class="container">
-      <div class="eyebrow">Why you might be here</div>
-      <h2>Pick the topic that matches your area of interest!</h2>
+      <div class="eyebrow">Navigate the field</div>
+      <h2>Start from a question, a topic, or a guided tour</h2>
+      <ul class="why-list why-list--discovery">
+        {discoveryCards.map((c) => (
+          <li>
+            <a href={c.href} class="why-card why-card--discovery">
+              <div class="why-lead">{c.lead}</div>
+              <div class="why-title">{c.title} →</div>
+              <div class="why-detail">{c.detail}</div>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <h3 class="browse-heading">Or browse by what you need</h3>
       <ul class="why-list">
         {whyCards.map((c) => (
           <li>
@@ -109,8 +136,8 @@ const whyCards: { key: SectionKey; href: string; lead: string; title: string; de
           high-consequence domains like medicine and defense.
         </p>
         <p>
-          What distinguishes a learning engineer from an instructional designer is the emphasis on
-          <em>evidence of impact</em> over compliance with a design process — and the willingness to
+          What learning engineering adds to instructional design is an emphasis on
+          <em>evidence of impact</em> — and the willingness to
           treat learning interventions as systems that can be measured, debugged, and improved.
         </p>
       </div>
@@ -206,6 +233,22 @@ const whyCards: { key: SectionKey; href: string; lead: string; title: string; de
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
     gap: 1rem;
+  }
+  .why-list--discovery {
+    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+    margin-bottom: 1.8rem;
+  }
+  .why-card--discovery {
+    border-top-color: var(--accent-2);
+    background: var(--tint);
+  }
+  .why-card--discovery .why-title { color: var(--accent-2); }
+  .browse-heading {
+    font-family: var(--serif);
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--ink-soft);
+    margin: 0 0 1rem;
   }
   .why-card {
     display: flex;

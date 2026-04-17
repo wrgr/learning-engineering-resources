@@ -1,0 +1,254 @@
+[
+  {
+    "id": "LE-LS-GL-001",
+    "title": "The Job of a College President",
+    "topics": "T00, T03, T12",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-002",
+    "title": "Online Education: A Catalyst for Higher Education Reforms",
+    "topics": "T00, T11, T03",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-003",
+    "title": "High-Leverage Opportunities for Learning Engineering",
+    "topics": "T00, T04, T14, T07",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-004",
+    "title": "Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations",
+    "topics": "T14, T07, T04",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-005",
+    "title": "EDUCAUSE Horizon Report: Teaching and Learning Edition",
+    "topics": "T00, T07, T04, T11",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-006",
+    "title": "NMC Horizon Report: 2017 Higher Education Edition",
+    "topics": "T00, T06, T11",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-007",
+    "title": "Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, and Beyond",
+    "topics": "T03, T00, T04, T12",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-008",
+    "title": "Learning Engineering for Online Education: Theoretical Contexts and Design-Based Examples",
+    "topics": "T00, T03, T11, T04",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-009",
+    "title": "Learning Engineering Adoption Maturity Model (LEAMM)",
+    "topics": "T16, T03, T15",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-010",
+    "title": "OpenSimon Toolkit",
+    "topics": "T04, T06, T11, T17",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-GL-011",
+    "title": "7 Things You Should Know About Learning Engineering",
+    "topics": "T00, T03",
+    "content_type": "GL"
+  },
+  {
+    "id": "LE-LS-CO-001",
+    "title": "IEEE ICICLE \u2014 Industry Consortium on Learning Engineering",
+    "topics": "T16, T00, T03",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-CO-002",
+    "title": "The Simon Initiative \u2014 Carnegie Mellon University",
+    "topics": "T00, T06, T04, T11",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-CO-003",
+    "title": "Society for Learning Analytics Research",
+    "topics": "T04, T14, T17",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-CO-004",
+    "title": "Penn Center for Learning Analytics",
+    "topics": "T04, T17, T06",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-CO-005",
+    "title": "HCII \u2014 Human-Computer Interaction Institute, Carnegie Mellon",
+    "topics": "T06, T01, T03",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-CO-006",
+    "title": "International Educational Data Mining Society",
+    "topics": "T04, T06, T17",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-CO-007",
+    "title": "Learning Sciences Research Institute, UIC",
+    "topics": "T17, T14, T01",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-CE-001",
+    "title": "International Conference on Intelligent Tutoring Systems",
+    "topics": "T06, T04, T07",
+    "content_type": "CE"
+  },
+  {
+    "id": "LE-LS-CE-002",
+    "title": "International Conference on Learning Analytics and Knowledge",
+    "topics": "T04, T14, T17",
+    "content_type": "CE"
+  },
+  {
+    "id": "LE-LS-CE-003",
+    "title": "International Conference on Educational Data Mining",
+    "topics": "T04, T06, T17",
+    "content_type": "CE"
+  },
+  {
+    "id": "LE-LS-CE-004",
+    "title": "International Conference on Artificial Intelligence in Education",
+    "topics": "T07, T06, T04",
+    "content_type": "CE"
+  },
+  {
+    "id": "LE-LS-CE-005",
+    "title": "International Society of the Learning Sciences Annual Meeting",
+    "topics": "T17, T01, T03",
+    "content_type": "CE"
+  },
+  {
+    "id": "LE-LS-CE-006",
+    "title": "Learning @ Scale",
+    "topics": "T11, T04, T07",
+    "content_type": "CE"
+  },
+  {
+    "id": "LE-LS-JO-001",
+    "title": "Journal of the Learning Sciences",
+    "topics": "T17, T01, T03",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-JO-002",
+    "title": "Journal of Educational Data Mining",
+    "topics": "T04, T06, T17",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-JO-003",
+    "title": "IEEE Transactions on Learning Technologies",
+    "topics": "T06, T07, T11",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-JO-004",
+    "title": "Journal of Learning Analytics",
+    "topics": "T04, T14, T17",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-JO-005",
+    "title": "International Journal of Artificial Intelligence in Education",
+    "topics": "T07, T06, T04",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-JO-006",
+    "title": "Journal of Learning Engineering",
+    "topics": "T00, T03, T16",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-JO-007",
+    "title": "International Journal of STEM Education",
+    "topics": "T13, T01, T15",
+    "content_type": "CO"
+  },
+  {
+    "id": "LE-LS-SG-005",
+    "title": "IEEE 1484.12.1-2002 & P2881: Learning Object Metadata",
+    "topics": "T11, T05, T16",
+    "content_type": "SG"
+  },
+  {
+    "id": "GF-GL-001",
+    "title": "INCOSE \u2014 International Council on Systems Engineering",
+    "topics": "T02, T13",
+    "content_type": "CO"
+  },
+  {
+    "id": "GF-GL-002",
+    "title": "MIL-HDBK-46855A: Human Engineering Program Process and Procedures",
+    "topics": "T02, T13, T10",
+    "content_type": "SG"
+  },
+  {
+    "id": "GF-GL-003",
+    "title": "1EdTech Comprehensive Learner Record (CLR) Standard",
+    "topics": "T05, T11, T16",
+    "content_type": "SG"
+  },
+  {
+    "id": "GF-GL-004",
+    "title": "Credential Engine / CTDL (Credential Transparency Description Language)",
+    "topics": "T05, T11, T16",
+    "content_type": "CO"
+  },
+  {
+    "id": "GF-GL-005",
+    "title": "CASE (Competency and Academic Standards Exchange) Specification",
+    "topics": "T05, T11, T12",
+    "content_type": "SG"
+  },
+  {
+    "id": "GF-GL-006",
+    "title": "Open Badges Specification (1EdTech)",
+    "topics": "T05, T11",
+    "content_type": "SG"
+  },
+  {
+    "id": "GF-GL-007",
+    "title": "Applied Research Laboratories (ARL) \u2014 University of Texas at Austin",
+    "topics": "T09, T02, T13",
+    "content_type": "CO"
+  },
+  {
+    "id": "GF-GL-008",
+    "title": "Journal of Cognitive Engineering and Decision Making",
+    "topics": "T09, T02",
+    "content_type": "CO"
+  },
+  {
+    "id": "GF-GL-009",
+    "title": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+    "topics": "T09, T02",
+    "content_type": "CO"
+  },
+  {
+    "id": "GF-GL-010",
+    "title": "ADDIE Model \u2014 Branson et al. (1975) Interservice Procedures for Instructional Systems Development",
+    "topics": "T12, T03",
+    "content_type": "GL"
+  }
+]

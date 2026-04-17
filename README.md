@@ -1,6 +1,6 @@
-# Learning Engineering Resources Website
+# Learning Engineering Commons
 
-This repo now serves a topic-linked Learning Engineering evidence website, built from the latest corpus pipeline.
+This repo now serves the Learning Engineering Commons, a topic-linked evidence website, built from the latest corpus pipeline.
 
 ## What It Does
 

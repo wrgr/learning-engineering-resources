@@ -7,11 +7,11 @@ import { getCollection } from "astro:content";
 const entries = await getCollection("reading-list");
 ---
 
-<Base title="Reading List · Learning Engineering" active="reading-list">
+<Base title="Reading List · Learning Engineering Commons" active="reading-list">
   <SectionHero
     eyebrow="Reading List"
     title="Papers, books &amp; field literature"
-    question="What should you read to understand the evidence base and intellectual roots of learning engineering?"
+    question="What should you read to understand the evidence base behind learning engineering?"
     count={entries.length}
   />
   <SectionGrid

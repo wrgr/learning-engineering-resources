@@ -21,6 +21,9 @@ const items = [
   { href: base + "reading-list/", label: "Reading List", slug: "reading-list" },
   { href: base + "events/",       label: "Events",       slug: "events" },
   { href: base + "community/",    label: "Community",    slug: "community" },
+  { href: base + "topics/",       label: "Topics",       slug: "topics" },
+  { href: base + "pathways/",     label: "Pathways",     slug: "pathways" },
+  { href: base + "graph/",        label: "Graph",        slug: "graph" },
   { href: base + "about/",        label: "About",        slug: "about" },
 ];
 
@@ -30,8 +33,8 @@ const activeLabel = items.find((it) => it.slug === active)?.label ?? "Menu";
 <header class="site-nav">
   <div class="nav-inner">
     <a href={base} class="brand" aria-label="Home">
-      <span class="brand-mark">LE</span>
-      <span class="brand-text">Learning Engineering</span>
+      <span class="brand-mark">LEC</span>
+      <span class="brand-text">Learning Engineering Commons</span>
     </a>
 
     <nav class="desktop-nav" aria-label="Primary">
