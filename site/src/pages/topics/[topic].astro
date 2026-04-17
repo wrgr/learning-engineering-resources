@@ -97,6 +97,10 @@ const bloomColors: Record<string, string> = {
   Evaluate: "#6b3a6b",
   Create: "#3a5e6b",
 };
+
+function entryAnchorId(slug: string): string {
+  return `entry-${slug.replace(/[^a-zA-Z0-9_-]/g, "-")}`;
+}
 ---
 
 <Base title={`${topic.topic_name} · Topics`} active="topics">
@@ -198,19 +202,21 @@ const bloomColors: Record<string, string> = {
             </h3>
             <div class="card-grid">
               {group.items.map((item: any) => (
-                <Card
-                  title={item.data.title}
-                  format={item.data.format}
-                  url={item.data.url}
-                  venue={item.data.venue}
-                  authors={item.data.authors}
-                  year={item.data.year}
-                  cluster={item.data.cluster}
-                  topics={item.data.topics}
-                  tags={item.data.tags}
-                  missingProvenance={item.data.missingProvenance}
-                  summary={item.data.summary}
-                />
+                <div id={entryAnchorId(item.slug ?? item.id)} class="topic-item-anchor">
+                  <Card
+                    title={item.data.title}
+                    format={item.data.format}
+                    url={item.data.url}
+                    venue={item.data.venue}
+                    authors={item.data.authors}
+                    year={item.data.year}
+                    cluster={item.data.cluster}
+                    topics={item.data.topics}
+                    tags={item.data.tags}
+                    missingProvenance={item.data.missingProvenance}
+                    summary={item.data.summary}
+                  />
+                </div>
               ))}
             </div>
           </div>
@@ -345,7 +351,7 @@ const bloomColors: Record<string, string> = {
   }
   .concept-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
     gap: .8rem;
   }
   .concept-item {
@@ -382,6 +388,7 @@ const bloomColors: Record<string, string> = {
     margin: 0 0 1.2rem;
   }
   .content-group { margin-bottom: 2rem; }
+  .topic-item-anchor { scroll-margin-top: 5.5rem; }
   .group-heading {
     font-family: var(--sans);
     font-size: .85rem;
@@ -403,7 +410,7 @@ const bloomColors: Record<string, string> = {
   }
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
     gap: 1rem;
   }
 

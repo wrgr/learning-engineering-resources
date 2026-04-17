@@ -1,93 +1,17 @@
 ---
-// Community page: four curated subheadings — Study groups · Conferences · Institutions · People.
-// Conferences are pulled in from the Events collection as cross-references.
-
+// Community hub page with split navigation plus global filtering across all community cards.
 import Base from "../layouts/Base.astro";
 import SectionHero from "../components/SectionHero.astro";
 import Card from "../components/Card.astro";
 import { getCollection, render } from "astro:content";
-
-type CommEntry = Awaited<ReturnType<typeof getCollection<"community">>>[number];
-type EventEntry = Awaited<ReturnType<typeof getCollection<"events">>>[number];
+import { conferenceEvents, partitionCommunity } from "../data/communityBuckets";
 
 const community = await getCollection("community");
 const eventsAll = await getCollection("events");
 
-const base = import.meta.env.BASE_URL;
+const { study, conferencesFromCommunity, institutions, people } = partitionCommunity(community);
+const conferencesFromEvents = conferenceEvents(eventsAll);
 
-const STUDY_GROUP_KEYWORDS = [
-  " sig", " mig", "working group", "community", "incubator",
-  "learnlab", "consortium", "initiative", "lab ",
-];
-
-function isStudyGroup(e: CommEntry): boolean {
-  const name = e.data.title.toLowerCase();
-  // Orgs explicitly named SIG/MIG or working groups, or other working-group-like bodies
-  if (e.data.format !== "org" && e.data.format !== "program") return false;
-  if (name.includes("sigs & migs") || name.includes(" sig") || name.includes(" mig")) return true;
-  if (STUDY_GROUP_KEYWORDS.some((k) => name.includes(k))) return true;
-  return false;
-}
-
-function isConferenceFromCommunity(e: CommEntry): boolean {
-  const name = e.data.title.toLowerCase();
-  return (
-    e.data.format === "event" ||
-    name.includes("conference") ||
-    name.includes("summit") ||
-    name.includes("annual meeting") ||
-    name.includes("i/itsec")
-  );
-}
-
-// Partition the community collection into four buckets.
-const study: CommEntry[] = [];
-const conferencesFromCommunity: CommEntry[] = [];
-const institutions: CommEntry[] = [];
-const people: CommEntry[] = [];
-
-for (const entry of community) {
-  if (entry.data.format === "person") {
-    people.push(entry);
-    continue;
-  }
-  if (isConferenceFromCommunity(entry)) {
-    conferencesFromCommunity.push(entry);
-    continue;
-  }
-  if (isStudyGroup(entry)) {
-    study.push(entry);
-    continue;
-  }
-  // Institutions catch-all: format=institution, format=org (not a study group),
-  // format=program, or anything unclassified.
-  institutions.push(entry);
-}
-
-// Pull conferences from the Events collection (recurring venues) and render them here too.
-const conferencesFromEvents: EventEntry[] = eventsAll.filter(
-  (e) => e.data.format === "conference" || e.data.format === "series",
-);
-
-// Sort each bucket: institutions first so deeply-sourced ones (CMU, MIT, JHU, ASU, IEEE ICICLE) lead.
-const INST_PRIORITY: Record<string, number> = {
-  "IEEE ICICLE": 1,
-  "Carnegie Mellon University": 2,
-  "Johns Hopkins University": 3,
-  "Arizona State University": 4,
-  "Massachusetts Institute of Technology": 5,
-};
-
-institutions.sort((a, b) => {
-  const ap = INST_PRIORITY[a.data.title] ?? (a.data.format === "institution" ? 10 : 20);
-  const bp = INST_PRIORITY[b.data.title] ?? (b.data.format === "institution" ? 10 : 20);
-  return ap - bp || a.data.title.localeCompare(b.data.title);
-});
-people.sort((a, b) => a.data.title.localeCompare(b.data.title));
-study.sort((a, b) => a.data.title.localeCompare(b.data.title));
-conferencesFromCommunity.sort((a, b) => a.data.title.localeCompare(b.data.title));
-
-// Pre-render all bodies for the three community buckets (events don't need bodies here).
 const toRender = [...study, ...conferencesFromCommunity, ...institutions, ...people];
 const rendered = await Promise.all(
   toRender.map(async (entry) => {
@@ -97,9 +21,35 @@ const rendered = await Promise.all(
 );
 const bodyMap = new Map(rendered);
 
-const totalCount =
-  study.length + conferencesFromCommunity.length + conferencesFromEvents.length +
-  institutions.length + people.length;
+const allItems = [
+  ...study,
+  ...conferencesFromCommunity,
+  ...conferencesFromEvents,
+  ...institutions,
+  ...people,
+];
+
+const topicOptions = Array.from(
+  new Set(allItems.flatMap((entry) => entry.data.topics ?? []).filter(Boolean)),
+).sort((a, b) => a.localeCompare(b));
+
+const typeOptions = Array.from(
+  new Set(allItems.map((entry) => entry.data.format)),
+).sort((a, b) => a.localeCompare(b));
+
+function searchBlob(values: Array<string | number | undefined>): string {
+  return values
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function topicsBlob(topics: string[] | undefined): string {
+  return (topics ?? []).map((topic) => topic.toLowerCase()).join("|");
+}
+
+const totalCount = allItems.length;
+const base = import.meta.env.BASE_URL;
 ---
 
 <Base title="Community · Learning Engineering Commons" active="community">
@@ -110,36 +60,108 @@ const totalCount =
     count={totalCount}
   />
 
-  <div class="section-grid container">
+  <div class="container-wide section-grid" data-community-filter-root>
+    <section class="hub-tools">
+      <h2 class="hub-heading">Navigate Community</h2>
+      <p class="hub-note">
+        Start on this hub, then move into focused lists when you want less scroll.
+      </p>
+      <div class="hub-links">
+        <a class="hub-link" href={base + "community/people/"}>People ({people.length})</a>
+        <a class="hub-link" href={base + "community/institutions/"}>Institutions ({institutions.length})</a>
+        <a class="hub-link" href={base + "community/programs-groups/"}>Programs &amp; groups ({study.length})</a>
+        <a class="hub-link" href={base + "community/conferences/"}>Conferences ({conferencesFromCommunity.length + conferencesFromEvents.length})</a>
+        <a class="hub-link" href={base + "search/"}>Site search</a>
+      </div>
+    </section>
 
-    <section class="group">
+    <section class="filter-shell">
+      <div class="filter-row">
+        <label class="filter-input">
+          <span>Search</span>
+          <input data-filter-search type="search" placeholder="Name, organization, topic, conference..." />
+        </label>
+        <label class="filter-input">
+          <span>Group</span>
+          <select data-filter-group>
+            <option value="all">All groups</option>
+            <option value="study">Programs &amp; groups</option>
+            <option value="conference">Conferences</option>
+            <option value="institution">Institutions</option>
+            <option value="person">People</option>
+          </select>
+        </label>
+        <label class="filter-input">
+          <span>Type</span>
+          <select data-filter-type>
+            <option value="all">All types</option>
+            {typeOptions.map((type) => <option value={type}>{type}</option>)}
+          </select>
+        </label>
+        <label class="filter-input">
+          <span>Topic</span>
+          <select data-filter-topic>
+            <option value="all">All topics</option>
+            {topicOptions.map((topic) => <option value={topic.toLowerCase()}>{topic}</option>)}
+          </select>
+        </label>
+      </div>
+      <label class="filter-check">
+        <input data-filter-known-source type="checkbox" />
+        <span>Only show entries with known source provenance</span>
+      </label>
+      <p class="filter-meta"><span data-filter-count>{totalCount}</span> entries shown</p>
+      <p class="filter-empty" data-filter-empty hidden>
+        No entries match these filters. Clear one filter or broaden your search terms.
+      </p>
+    </section>
+
+    <section class="group" data-community-section data-group-name="study" data-section-total={study.length}>
       <h2 class="group-heading">
-        Study groups <span class="count muted">({study.length})</span>
+        Programs &amp; groups <span class="count muted" data-section-count>({study.length})</span>
       </h2>
       <p class="group-note">SIGs, MIGs, working groups, and smaller research bodies inside the larger field.</p>
       <div class="grid">
         {study.map((entry) => {
           const Body = bodyMap.get(entry.id);
           return (
-            <Card
-              title={entry.data.title}
-              format={entry.data.format}
-              url={entry.data.url}
-              venue={entry.data.venue}
-              cluster={entry.data.cluster}
-              topics={entry.data.topics}
-              missingProvenance={entry.data.missingProvenance}
+            <div
+              class="community-item"
+              data-community-item
+              data-group="study"
+              data-format={entry.data.format}
+              data-topics={topicsBlob(entry.data.topics)}
+              data-missing={entry.data.missingProvenance ? "true" : "false"}
+              data-search={searchBlob([
+                entry.data.title,
+                entry.data.format,
+                entry.data.venue,
+                entry.data.cluster,
+                ...(entry.data.topics ?? []),
+                ...(entry.data.tags ?? []),
+              ])}
             >
-              {Body && <Body />}
-            </Card>
+              <Card
+                title={entry.data.title}
+                format={entry.data.format}
+                url={entry.data.url}
+                venue={entry.data.venue}
+                cluster={entry.data.cluster}
+                topics={entry.data.topics}
+                tags={entry.data.tags}
+                missingProvenance={entry.data.missingProvenance}
+              >
+                {Body && <Body />}
+              </Card>
+            </div>
           );
         })}
       </div>
     </section>
 
-    <section class="group">
+    <section class="group" data-community-section data-group-name="conference" data-section-total={conferencesFromCommunity.length + conferencesFromEvents.length}>
       <h2 class="group-heading">
-        Conferences <span class="count muted">({conferencesFromCommunity.length + conferencesFromEvents.length})</span>
+        Conferences <span class="count muted" data-section-count>({conferencesFromCommunity.length + conferencesFromEvents.length})</span>
       </h2>
       <p class="group-note">
         Where the field convenes. Individual talks and recordings live on the
@@ -149,97 +171,268 @@ const totalCount =
         {conferencesFromCommunity.map((entry) => {
           const Body = bodyMap.get(entry.id);
           return (
+            <div
+              class="community-item"
+              data-community-item
+              data-group="conference"
+              data-format={entry.data.format}
+              data-topics={topicsBlob(entry.data.topics)}
+              data-missing={entry.data.missingProvenance ? "true" : "false"}
+              data-search={searchBlob([
+                entry.data.title,
+                entry.data.format,
+                entry.data.venue,
+                entry.data.cluster,
+                ...(entry.data.topics ?? []),
+                ...(entry.data.tags ?? []),
+              ])}
+            >
+              <Card
+                title={entry.data.title}
+                format={entry.data.format}
+                url={entry.data.url}
+                venue={entry.data.venue}
+                cluster={entry.data.cluster}
+                topics={entry.data.topics}
+                tags={entry.data.tags}
+                missingProvenance={entry.data.missingProvenance}
+              >
+                {Body && <Body />}
+              </Card>
+            </div>
+          );
+        })}
+        {conferencesFromEvents.map((entry) => (
+          <div
+            class="community-item"
+            data-community-item
+            data-group="conference"
+            data-format={entry.data.format}
+            data-topics={topicsBlob(entry.data.topics)}
+            data-missing={entry.data.missingProvenance ? "true" : "false"}
+            data-search={searchBlob([
+              entry.data.title,
+              entry.data.format,
+              entry.data.authors,
+              entry.data.venue,
+              entry.data.year,
+              entry.data.cluster,
+              ...(entry.data.topics ?? []),
+              ...(entry.data.tags ?? []),
+            ])}
+          >
             <Card
               title={entry.data.title}
               format={entry.data.format}
               url={entry.data.url}
               venue={entry.data.venue}
+              authors={entry.data.authors}
+              year={entry.data.year}
               cluster={entry.data.cluster}
               topics={entry.data.topics}
+              tags={entry.data.tags}
               missingProvenance={entry.data.missingProvenance}
             >
-              {Body && <Body />}
+              <p class="cross-ref-note">
+                Details &amp; talks on <a href={base + "events/"}>Events →</a>
+              </p>
             </Card>
-          );
-        })}
-        {conferencesFromEvents.map((entry) => (
-          <Card
-            title={entry.data.title}
-            format={entry.data.format}
-            url={entry.data.url}
-            venue={entry.data.venue}
-            authors={entry.data.authors}
-            year={entry.data.year}
-            cluster={entry.data.cluster}
-            topics={entry.data.topics}
-            missingProvenance={entry.data.missingProvenance}
-          >
-            <p class="cross-ref-note">
-              Details &amp; talks on <a href={base + "events/"}>Events →</a>
-            </p>
-          </Card>
+          </div>
         ))}
       </div>
     </section>
 
-    <section class="group">
+    <section class="group" data-community-section data-group-name="institution" data-section-total={institutions.length}>
       <h2 class="group-heading">
-        Institutions <span class="count muted">({institutions.length})</span>
+        Institutions <span class="count muted" data-section-count>({institutions.length})</span>
       </h2>
       <p class="group-note">Universities, research centers, agencies, and professional societies that host LE work.</p>
       <div class="grid">
         {institutions.map((entry) => {
           const Body = bodyMap.get(entry.id);
           return (
-            <Card
-              title={entry.data.title}
-              format={entry.data.format}
-              url={entry.data.url}
-              venue={entry.data.venue}
-              cluster={entry.data.cluster}
-              topics={entry.data.topics}
-              missingProvenance={entry.data.missingProvenance}
+            <div
+              class="community-item"
+              data-community-item
+              data-group="institution"
+              data-format={entry.data.format}
+              data-topics={topicsBlob(entry.data.topics)}
+              data-missing={entry.data.missingProvenance ? "true" : "false"}
+              data-search={searchBlob([
+                entry.data.title,
+                entry.data.format,
+                entry.data.venue,
+                entry.data.cluster,
+                ...(entry.data.topics ?? []),
+                ...(entry.data.tags ?? []),
+              ])}
             >
-              {Body && <Body />}
-            </Card>
+              <Card
+                title={entry.data.title}
+                format={entry.data.format}
+                url={entry.data.url}
+                venue={entry.data.venue}
+                cluster={entry.data.cluster}
+                topics={entry.data.topics}
+                tags={entry.data.tags}
+                missingProvenance={entry.data.missingProvenance}
+              >
+                {Body && <Body />}
+              </Card>
+            </div>
           );
         })}
       </div>
     </section>
 
-    <section class="group">
+    <section class="group" data-community-section data-group-name="person" data-section-total={people.length}>
       <h2 class="group-heading">
-        People <span class="count muted">({people.length})</span>
+        People <span class="count muted" data-section-count>({people.length})</span>
       </h2>
       <p class="group-note">ICICLE SIG/MIG leaders and contributors, with links to their published work.</p>
       <div class="grid">
         {people.map((entry) => {
           const Body = bodyMap.get(entry.id);
           return (
-            <Card
-              title={entry.data.title}
-              format={entry.data.format}
-              url={entry.data.url}
-              venue={entry.data.venue}
-              cluster={entry.data.cluster}
-              topics={entry.data.topics}
-              missingProvenance={entry.data.missingProvenance}
+            <div
+              class="community-item"
+              data-community-item
+              data-group="person"
+              data-format={entry.data.format}
+              data-topics={topicsBlob(entry.data.topics)}
+              data-missing={entry.data.missingProvenance ? "true" : "false"}
+              data-search={searchBlob([
+                entry.data.title,
+                entry.data.format,
+                entry.data.venue,
+                entry.data.cluster,
+                ...(entry.data.topics ?? []),
+                ...(entry.data.tags ?? []),
+              ])}
             >
-              {Body && <Body />}
-            </Card>
+              <Card
+                title={entry.data.title}
+                format={entry.data.format}
+                url={entry.data.url}
+                venue={entry.data.venue}
+                cluster={entry.data.cluster}
+                topics={entry.data.topics}
+                tags={entry.data.tags}
+                missingProvenance={entry.data.missingProvenance}
+              >
+                {Body && <Body />}
+              </Card>
+            </div>
           );
         })}
       </div>
     </section>
-
   </div>
+
+  <script type="module" src={base + "scripts/community-filters.js"}></script>
 </Base>
 
 <style>
   .section-grid {
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: 2.25rem;
+  }
+  .hub-tools {
+    border: 1px solid var(--border);
+    background: var(--tint);
+    border-radius: 4px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: .6rem;
+  }
+  .hub-heading {
+    margin: 0;
+    font-size: 1.15rem;
+  }
+  .hub-note {
+    margin: 0;
+    font-family: var(--sans);
+    color: var(--muted);
+    font-size: .9rem;
+  }
+  .hub-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+  }
+  .hub-link {
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--ink-soft);
+    border-radius: 3px;
+    padding: .35rem .55rem;
+    font-family: var(--sans);
+    font-size: .85rem;
+  }
+  .hub-link:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .filter-shell {
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: .9rem;
+    display: flex;
+    flex-direction: column;
+    gap: .7rem;
+  }
+  .filter-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    gap: .65rem;
+  }
+  .filter-input {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+    font-family: var(--sans);
+    font-size: .74rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .filter-input input,
+  .filter-input select {
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    background: var(--bg);
+    color: var(--ink);
+    font-size: .9rem;
+    padding: .45rem .55rem;
+    font-family: var(--sans);
+    text-transform: none;
+    letter-spacing: normal;
+  }
+  .filter-check {
+    display: inline-flex;
+    align-items: center;
+    gap: .45rem;
+    font-family: var(--sans);
+    font-size: .82rem;
+    color: var(--ink-soft);
+  }
+  .filter-meta {
+    margin: 0;
+    font-family: var(--sans);
+    font-size: .82rem;
+    color: var(--muted);
+  }
+  .filter-empty {
+    margin: 0;
+    font-family: var(--sans);
+    font-size: .86rem;
+    color: var(--muted);
+    background: var(--tint);
+    border-radius: 3px;
+    padding: .6rem .7rem;
   }
   .group { display: flex; flex-direction: column; gap: .9rem; }
   .group-heading {
@@ -261,7 +454,7 @@ const totalCount =
   .count { font-size: .95rem; font-weight: 400; }
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
     gap: 1rem;
   }
   .cross-ref-note {

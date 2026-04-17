@@ -241,6 +241,16 @@ const isHero = Boolean(embed);
   @media (max-width: 640px) {
     .hero-header { grid-template-columns: 1fr; }
   }
+
+  @media (max-width: 520px) {
+    .card { padding: .95rem 1rem; }
+    .card--hero {
+      padding: 1rem;
+      gap: .7rem;
+    }
+    .card--hero .card-title { font-size: 1.2rem; }
+    .card--hero .card-summary { font-size: .95rem; }
+  }
   .hero-portrait {
     width: 100%;
     aspect-ratio: 16 / 9;

@@ -28,6 +28,7 @@ import seedPapersData from "../data/papers_seed.json";
 import icicleRegistry from "../data/icicle_resources_registry.json";
 // @ts-ignore
 import ppRegistry from "../data/programs_people_registry.json";
+import { topicUrl } from "../data/topicSlugs";
 
 const base = import.meta.env.BASE_URL;
 
@@ -51,7 +52,11 @@ for (const r of ppRegistry as any[]) {
   resourceTitles.set(r.resource_id, { name: r.name, url: r.url ?? "", type: r.content_type });
 }
 
-// ── 2. Content counts per topic code ──────────────────────────────────────
+// ── 2. Content counts + per-topic item links ──────────────────────────────
+
+function entryAnchorId(slug: string): string {
+  return `entry-${slug.replace(/[^a-zA-Z0-9_-]/g, "-")}`;
+}
 
 const allItems = [
   ...(await getCollection("practice")),
@@ -60,11 +65,39 @@ const allItems = [
   ...(await getCollection("events")),
   ...(await getCollection("community")),
 ];
+
+const collectionLabels: Record<string, string> = {
+  practice: "Practice",
+  tools: "Tools",
+  "reading-list": "Reading List",
+  events: "Events",
+  community: "Community",
+};
+
 const topicCounts: Record<string, number> = {};
+const topicItems: Record<string, { title: string; href: string; external: boolean; collection: string }[]> = {};
 for (const item of allItems) {
-  for (const t of (item.data as any).topics ?? []) {
+  const data = item.data as any;
+  const itemTopics = data.topics ?? [];
+  for (const t of itemTopics) {
     topicCounts[t] = (topicCounts[t] || 0) + 1;
+
+    if (!topicItems[t]) topicItems[t] = [];
+
+    const hasExternal = typeof data.url === "string" && /^https?:\/\//.test(data.url);
+    const fallbackHref = `${topicUrl(t)}#${entryAnchorId(item.slug ?? item.id)}`;
+
+    topicItems[t].push({
+      title: data.title ?? item.slug ?? item.id,
+      href: hasExternal ? data.url : fallbackHref,
+      external: hasExternal,
+      collection: collectionLabels[item.collection] ?? item.collection,
+    });
   }
+}
+
+for (const code of Object.keys(topicItems)) {
+  topicItems[code].sort((a, b) => a.collection.localeCompare(b.collection) || a.title.localeCompare(b.title));
 }
 
 // ── 3. Build concept metadata for the detail panel ────────────────────────
@@ -156,6 +189,7 @@ for (const t of topicMap as any[]) {
     name: t.topic_name,
     description: t.why_it_matters,
     contentCount: topicCounts[t.topic_code] || 0,
+    siteItems: topicItems[t.topic_code] ?? [],
     children,
   };
 }
@@ -446,6 +480,11 @@ const indexGroups = layerOrder.flatMap((layer) =>
           <ul id="detail-children-list" class="detail-list"></ul>
         </div>
 
+        <div id="detail-items" class="detail-section" hidden>
+          <h4 class="detail-section-heading">Associated items</h4>
+          <ul id="detail-items-list" class="detail-list"></ul>
+        </div>
+
         <div id="detail-papers" class="detail-section" hidden>
           <h4 class="detail-section-heading">Key papers</h4>
           <ul id="detail-papers-list" class="detail-list"></ul>
@@ -533,6 +572,8 @@ const indexGroups = layerOrder.flatMap((layer) =>
   const prereqChainEl = document.getElementById("detail-prereq-chain")!;
   const childrenSection = document.getElementById("detail-children")!;
   const childrenList = document.getElementById("detail-children-list")!;
+  const itemsSection = document.getElementById("detail-items")!;
+  const itemsList = document.getElementById("detail-items-list")!;
   const papersSection = document.getElementById("detail-papers")!;
   const papersList = document.getElementById("detail-papers-list")!;
   const resourcesSection = document.getElementById("detail-resources")!;
@@ -571,6 +612,18 @@ const indexGroups = layerOrder.flatMap((layer) =>
       papersSection.hidden = true;
       resourcesSection.hidden = true;
 
+      if (data.siteItems.length > 0) {
+        itemsList.innerHTML = data.siteItems
+          .map((item: any) => {
+            const target = item.external ? ` target="_blank" rel="noopener"` : "";
+            return `<li class="associated-item"><a href="${item.href}"${target} class="resource-link">${item.title}</a><span class="associated-meta">${item.collection}</span></li>`;
+          })
+          .join("");
+        itemsSection.hidden = false;
+      } else {
+        itemsSection.hidden = true;
+      }
+
       if (data.contentCount > 0) {
         countEl.innerHTML = `<strong>${data.contentCount}</strong> site item${data.contentCount !== 1 ? "s" : ""} tagged with this topic`;
         countEl.hidden = false;
@@ -584,6 +637,7 @@ const indexGroups = layerOrder.flatMap((layer) =>
       bloomEl.hidden = false;
       descEl.hidden = true;
       childrenSection.hidden = true;
+      itemsSection.hidden = true;
 
       // Prereq chain
       if (data.prereqChain.length > 0) {
@@ -759,7 +813,7 @@ const indexGroups = layerOrder.flatMap((layer) =>
     border-radius: 4px;
     background: var(--bg);
   }
-  .graph-wrap svg { display: block; min-width: 900px; width: 100%; height: auto; }
+  .graph-wrap svg { display: block; min-width: clamp(640px, 165vw, 900px); width: 100%; height: auto; }
 
   .layer-band { opacity: 0.35; }
   .layer-band--foundation { fill: #f4ebdc; }
@@ -885,6 +939,33 @@ const indexGroups = layerOrder.flatMap((layer) =>
   .resource-link { color: var(--accent); }
   .resource-link:hover { text-decoration: underline; }
   .resource-item { color: var(--ink-soft); }
+  .associated-item {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: .6rem;
+  }
+  .associated-meta {
+    font-family: var(--sans);
+    font-size: .64rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    white-space: nowrap;
+  }
 
   .detail-count { font-family: var(--sans); font-size: .82rem; color: var(--accent); margin: .8rem 0 0; font-weight: 500; }
+
+  @media (max-width: 700px) {
+    .legend {
+      gap: .45rem .8rem;
+      font-size: .7rem;
+    }
+    .detail-panel { padding: 1rem .9rem; }
+    .detail-close { top: .35rem; right: .45rem; }
+    .detail-title {
+      font-size: 1.05rem;
+      padding-right: 1.5rem;
+    }
+  }
 </style>

@@ -78,10 +78,44 @@ const base = import.meta.env.BASE_URL;
       }
 
       img, svg, video { max-width: 100%; height: auto; }
-      h1, h2, h3, h4, p, li, blockquote { overflow-wrap: break-word; }
+      h1, h2, h3, h4, p, li, blockquote, td, th { overflow-wrap: break-word; }
+      a { overflow-wrap: anywhere; }
 
       a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .15s ease; }
       a:hover { border-bottom-color: var(--accent); }
+
+      table {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        border-collapse: collapse;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        font-family: var(--sans);
+        font-size: .9rem;
+        line-height: 1.4;
+      }
+      th, td {
+        border: 1px solid var(--border);
+        padding: .45rem .55rem;
+        text-align: left;
+        vertical-align: top;
+      }
+      th { background: var(--tint); font-weight: 600; }
+
+      pre {
+        max-width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        padding: .7rem .8rem;
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        background: var(--tint);
+      }
+      code {
+        font-family: var(--mono);
+        font-size: .9em;
+      }
 
       main { min-height: calc(100vh - 120px); padding-bottom: 4rem; }
 

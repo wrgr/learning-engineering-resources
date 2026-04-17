@@ -148,14 +148,14 @@ const remainingGroups = remainingOrder
   /* Compact grid for video/keynote/webinar cards — targets ~4 across. */
   .video-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 13rem), 1fr));
     gap: .75rem;
   }
 
   /* Standard grid for conferences, workshops, etc. */
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
     gap: 1rem;
   }
 </style>

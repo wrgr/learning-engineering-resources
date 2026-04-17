@@ -37,4 +37,12 @@ const { eyebrow, title, question, count } = Astro.props;
     margin: 0;
     max-width: var(--measure);
   }
+
+  @media (max-width: 560px) {
+    .section-hero .container {
+      padding-top: 2.4rem;
+      padding-bottom: 1.5rem;
+    }
+    .question { font-size: 1.03rem; }
+  }
 </style>

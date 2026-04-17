@@ -78,17 +78,39 @@ const whyCards: { key: SectionKey; href: string; lead: string; title: string; de
 
 <Base title="Learning Engineering — a practice-centered guide" active="welcome">
   <section class="hero">
-    <div class="container">
-      <div class="eyebrow">Welcome</div>
-      <h1 class="lede">
-        Learning engineers apply the learning sciences and engineering methods
-        to iteratively improve learning outcomes at scale.
-      </h1>
-      <p class="subhead">
-        This site is a practice-centered guide for people doing the work, people curious about the role,
-        and people adjacent to it. It's organized around what you might actually need — not around a graph
-        of citations.
-      </p>
+    <div class="container hero-grid">
+      <div class="hero-copy">
+        <div class="eyebrow">Welcome</div>
+        <h1 class="lede">
+          Learning engineers apply the learning sciences and engineering methods
+          to iteratively improve learning outcomes at scale.
+        </h1>
+        <p class="subhead">
+          This site is a practice-centered guide for people doing the work, people curious about the role,
+          and people adjacent to it. It's organized around what you might actually need — not around a graph
+          of citations.
+        </p>
+      </div>
+      <aside class="hero-graphic hero-editorial" aria-hidden="true">
+        <div class="editorial-strap">SPECIAL ISSUE · LEARNING ENGINEERING</div>
+        <div class="editorial-grid">
+          <p class="editorial-byline">Field desk</p>
+          <h2 class="editorial-headline">Design, evidence, iteration.</h2>
+          <p class="editorial-deck">
+            Reporting from the overlap of learning science, systems design, and real-world implementation.
+          </p>
+          <div class="editorial-columns">
+            <p>Diagnose where learning breaks down.</p>
+            <p>Rebuild with measurable outcomes in mind.</p>
+            <p>Ship, measure, and improve.</p>
+          </div>
+          <div class="editorial-tags">
+            <span>Practice Notes</span>
+            <span>Reading List</span>
+            <span>Community Radar</span>
+          </div>
+        </div>
+      </aside>
     </div>
   </section>
 
@@ -192,9 +214,26 @@ const whyCards: { key: SectionKey; href: string; lead: string; title: string; de
 </Base>
 
 <style>
+  .hero {
+    background:
+      radial-gradient(42rem 16rem at 88% -5%, #f7f1e3 0%, transparent 70%),
+      radial-gradient(28rem 14rem at 9% -20%, #f1ece1 0%, transparent 75%),
+      var(--bg);
+    border-bottom: 1px solid var(--border);
+  }
   .hero .container {
     padding-top: 4rem;
     padding-bottom: 2rem;
+  }
+  .hero-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(17rem, .9fr);
+    align-items: end;
+    gap: clamp(1.2rem, 3vw, 2.2rem);
+  }
+  .hero-copy {
+    position: relative;
+    z-index: 1;
   }
   .lede {
     font-family: var(--serif);
@@ -211,6 +250,110 @@ const whyCards: { key: SectionKey; href: string; lead: string; title: string; de
     color: var(--ink-soft);
     max-width: 40rem;
     line-height: 1.55;
+  }
+  .hero-graphic {
+    justify-self: end;
+    width: min(100%, 25rem);
+    padding: .35rem;
+    border-radius: 3px;
+    background: #f8f4ea;
+    border: 1px solid #ddd4c5;
+    box-shadow: 0 10px 28px rgba(32, 31, 25, 0.12);
+  }
+  .hero-editorial {
+    background:
+      linear-gradient(180deg, #f9f4e9 0%, #f5eedf 100%);
+  }
+  .editorial-strap {
+    font-family: var(--sans);
+    font-size: .62rem;
+    letter-spacing: .16em;
+    font-weight: 600;
+    color: #534a3d;
+    border-bottom: 1px solid #d7cdbb;
+    padding: .45rem .65rem;
+    text-transform: uppercase;
+  }
+  .editorial-grid {
+    padding: .8rem .9rem .9rem;
+    background:
+      repeating-linear-gradient(
+        0deg,
+        rgba(94, 83, 66, 0.07) 0px,
+        rgba(94, 83, 66, 0.07) 1px,
+        transparent 1px,
+        transparent 23px
+      ),
+      linear-gradient(180deg, #fffdf8 0%, #f6efdf 100%);
+    border-top: 4px solid var(--accent);
+  }
+  .editorial-byline {
+    margin: 0 0 .35rem;
+    font-family: var(--sans);
+    font-size: .68rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: #6b6254;
+  }
+  .editorial-headline {
+    margin: 0;
+    font-size: clamp(1.15rem, 2.4vw, 1.42rem);
+    line-height: 1.14;
+    max-width: 20ch;
+    color: #211d17;
+  }
+  .editorial-deck {
+    margin: .45rem 0 .65rem;
+    font-family: var(--sans);
+    font-size: .78rem;
+    line-height: 1.42;
+    color: #534a3d;
+    max-width: none;
+  }
+  .editorial-columns {
+    column-count: 2;
+    column-gap: .9rem;
+    margin: 0 0 .65rem;
+  }
+  .editorial-columns p {
+    break-inside: avoid;
+    margin: 0 0 .35rem;
+    font-size: .72rem;
+    line-height: 1.35;
+    color: #4f473a;
+    max-width: none;
+    text-wrap: balance;
+  }
+  .editorial-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem;
+  }
+  .editorial-tags span {
+    display: inline-block;
+    border: 1px solid #cfc3ae;
+    background: #fcf8ef;
+    color: #5f5342;
+    font-family: var(--sans);
+    font-size: .61rem;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    padding: .2rem .38rem;
+  }
+
+  .hero-editorial {
+    animation: liftIn .42s ease-out both;
+  }
+
+  @keyframes liftIn {
+    from {
+      transform: translateY(10px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
   }
 
   .rule-in-container {
@@ -231,11 +374,11 @@ const whyCards: { key: SectionKey; href: string; lead: string; title: string; de
     margin: 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
     gap: 1rem;
   }
   .why-list--discovery {
-    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
     margin-bottom: 1.8rem;
   }
   .why-card--discovery {
@@ -335,7 +478,7 @@ const whyCards: { key: SectionKey; href: string; lead: string; title: string; de
     margin: 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
     gap: 1.2rem;
   }
   .audience-list li {
@@ -347,4 +490,35 @@ const whyCards: { key: SectionKey; href: string; lead: string; title: string; de
 
   .about-site { margin-top: 2.5rem; padding-bottom: 2rem; }
   .about-site p { font-size: .95rem; color: var(--ink-soft); max-width: 40rem; }
+
+  @media (max-width: 900px) {
+    .hero .container { padding-top: 3rem; }
+    .hero-grid {
+      grid-template-columns: 1fr;
+      align-items: start;
+      gap: 1.2rem;
+    }
+    .hero-graphic {
+      justify-self: start;
+      width: min(100%, 30rem);
+    }
+  }
+
+  @media (max-width: 560px) {
+    .hero .container {
+      padding-top: 2.3rem;
+      padding-bottom: 1.5rem;
+    }
+    .hero-graphic {
+      border-radius: 2px;
+      box-shadow: 0 8px 20px rgba(32, 31, 25, 0.09);
+    }
+    .editorial-columns { column-count: 1; }
+    .editorial-headline { font-size: 1.18rem; }
+    .editorial-deck { font-size: .8rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hero-editorial { animation: none; }
+  }
 </style>
