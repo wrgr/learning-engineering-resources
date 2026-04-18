@@ -1,0 +1,2516 @@
+{
+  "practice/applying-learning-engineering-process-to-existing-military-training-pr": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "practice/crucible-cyber-platform-brochure-they-have-learning-engineering-as-par": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "practice/examples-of-roles-and-areas-of-expertise-on-a-le-team": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "standards",
+      "credentialing",
+      "professional community"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "practice/generalizable-learning-engineering-adoption-maturity-model-paper-outli": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "iitsec",
+      "lebok wiki"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "practice/le-ic-005-five-whys-root-cause-analysis-template": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "expert knowledge elicitation",
+      "cognitive task analysis",
+      "SME elicitation",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "practice/le-ic-006-fishbone-cause-and-effect-analysis-template": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "expert knowledge elicitation",
+      "cognitive task analysis",
+      "SME elicitation",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "practice/le-ic-007-performance-task-analysis-template": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "expert knowledge elicitation",
+      "cognitive task analysis",
+      "SME elicitation",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "practice/le-ic-008-learning-engineering-evidence-decision-tracker": {
+    "keywords": [
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "practice/le-ic-009-learning-engineering-implementation-checklist": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "practice/le-ic-010-learning-engineering-team-roles-and-expertise-guide": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "practice/le-ic-011-learning-design-principles-toolkit-mceldoon": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "instructional design",
+      "ADDIE",
+      "backward design",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "practice/le-ic-033-data-use-across-the-learning-engineering-process": {
+    "keywords": [
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "practice/le-ic-035-learning-engineering-is-a-team-sport-icicle-2024": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "practice/learning-engineering-new-profession-or-transformational-process": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "practice/learning-engineering-virtual-training-systems-with-learning-science-da": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "tools/caliper-analytics": {
+    "keywords": [
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "standards",
+      "credentialing",
+      "professional community",
+      "adjacent",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "tools/cmu-simon-initiative-learning-engineering-community": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "tools/ctat-cognitive-tutor-authoring-tools": {
+    "keywords": [
+      "knowledge representation",
+      "ontology",
+      "knowledge graph",
+      "intelligent tutoring",
+      "adaptive systems",
+      "knowledge tracing",
+      "expert knowledge elicitation",
+      "cognitive task analysis",
+      "SME elicitation",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "tools/datashop-learnsphere": {
+    "keywords": [
+      "knowledge representation",
+      "ontology",
+      "knowledge graph",
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "intelligent tutoring",
+      "adaptive systems",
+      "knowledge tracing",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "tools/gift-generalized-intelligent-framework-for-tutoring": {
+    "keywords": [
+      "intelligent tutoring",
+      "adaptive systems",
+      "knowledge tracing",
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 2
+  },
+  "tools/teaching-online-preparation-toolkit-topkit": {
+    "keywords": [
+      "instructional design",
+      "ADDIE",
+      "backward design",
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 4
+  },
+  "tools/xapi-experience-api-specification": {
+    "keywords": [
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "standards",
+      "credentialing",
+      "professional community",
+      "adjacent",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 4
+  },
+  "tools/yet-analytics-learning-engineering-tools": {
+    "keywords": [
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "reading-list/2020-educause-horizon-report-teaching-and-learning-edition": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/7-things-to-know-about-learning-engineering": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/a-learning-engineering-model-for-learner-centered-adaptive-systems": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/a-practical-guide-to-cognitive-task-analysis": {
+    "keywords": [
+      "expert knowledge elicitation",
+      "cognitive task analysis",
+      "SME elicitation",
+      "human systems integration",
+      "HSI",
+      "systems engineering",
+      "workforce development",
+      "training systems",
+      "military training",
+      "seed data"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 1
+  },
+  "reading-list/a-taxonomy-for-learning-teaching-and-assessing-revised-blooms": {
+    "keywords": [
+      "knowledge representation",
+      "ontology",
+      "knowledge graph",
+      "instructional design",
+      "ADDIE",
+      "backward design",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "reading-list/ai-and-future-of-teaching-and-learning-us-dept-of-education": {
+    "keywords": [
+      "ethics",
+      "equity",
+      "algorithmic fairness",
+      "AI in learning",
+      "foundation models",
+      "LLM",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "reading-list/aied-from-cognitive-simulations-to-learning-engineering-with-humans-in": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/algorithmic-fairness-in-education": {
+    "keywords": [
+      "ethics",
+      "equity",
+      "algorithmic fairness",
+      "AI in learning",
+      "foundation models",
+      "LLM",
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "reading-list/applying-human-centered-learning-engineering-methods-to-learning": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 0
+  },
+  "reading-list/are-you-doing-learning-engineering-or-instructional-design": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/asu-learning-engineering-institute-website": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/at-advanced-distributed-learning-initiative-ifest-2022-conference-the-": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/better-faster-learning": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "workforce development",
+      "training systems",
+      "military training",
+      "journalism",
+      "lebok wiki"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/beyond-benchmarks-responsible-ai-in-education-needs-learning-sciences": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/breakthrough-leadership-in-the-digital-age": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "instructional design",
+      "ADDIE",
+      "backward design",
+      "high-consequence domains",
+      "defense",
+      "healthcare",
+      "leadership",
+      "lebok wiki"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/bridging-learning-research-and-teaching-practice-for-the-public-good-t": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/capturing-elusive-technology-designing-a-course-on-ai-for-learning-and": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/changing-the-production-function-in-higher-education": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/cold-rolled-steel-and-knowledge-what-can-higher-education-learn-about-": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/competency-based-education-a-framework": {
+    "keywords": [
+      "knowledge representation",
+      "ontology",
+      "knowledge graph",
+      "instructional design",
+      "ADDIE",
+      "backward design",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "reading-list/data-informed-course-improvement-the-application-of-learning-engineeri": {
+    "keywords": [
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "reading-list/define-learning-engineering-with-the-trap-framework": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/design-based-research-an-emerging-paradigm": {
+    "keywords": [
+      "research methods",
+      "randomized trials",
+      "quasi-experimental design",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "reading-list/design-experiments-in-educational-research": {
+    "keywords": [
+      "research methods",
+      "randomized trials",
+      "quasi-experimental design",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "reading-list/designing-a-student-progress-panel-for-formative-practice-a-learning-e": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "intelligent tutoring",
+      "adaptive systems",
+      "knowledge tracing",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "reading-list/designing-for-transfer-developing-a-skill-based-simulation-using-learn": {
+    "keywords": [
+      "simulation",
+      "serious games",
+      "VR",
+      "workforce development",
+      "training systems",
+      "military training",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 2
+  },
+  "reading-list/developing-an-ontology-for-learning-engineering-learning-engineering-e": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/engaging-in-student-centered-educational-data-science-through-learning": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/engineering-learning-at-kaplan-university": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/evidence-centered-design": {
+    "keywords": [
+      "knowledge representation",
+      "ontology",
+      "knowledge graph",
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "intelligent tutoring",
+      "adaptive systems",
+      "knowledge tracing",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "reading-list/exploring-learning-engineering-design-decision-tracking-emergent-theme": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/from-the-science-of-learning-and-development-to-learning-engineering": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/generalizable-learning-engineering-adoption-maturity-model-i-itsec-2024": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "iitsec",
+      "lebok wiki"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "reading-list/high-leverage-opportunities-for-learning-engineering-discusses-the-pot": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/how-cisco-networking-academy-s-learning-engineering-team-creates-a-pat": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/how-duolingo-s-ai-learns-what-you-need-to-learn-the-ai-that-powers-the": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/how-to-bring-learning-engineering-principles-to-your-classroom-intervi": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/how-to-improve-edtech-engagement-using-learning-engineering-principles": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/how-video-games-can-train-you-for-a-job-lessons-from-learning-engineer": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/icicle-2024-conference-proceedings": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/icicle-a-consortium-for-learning-engineering": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/in-the-2020-educause-horizon-report-teaching-and-learning-edition-the-": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/instructional-designer-or-learning-engineer-it-depends-on-how-you-brus": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/le-ic-018-learning-engineering-a-view-on-the-field-and-future-research-baker-boser-snow-2022": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "research methods",
+      "randomized trials",
+      "quasi-experimental design",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/le-ic-019-learning-engineering-perspectives-for-educational-systems-craig-et-al-2023": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "standards",
+      "credentialing",
+      "professional community",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/le-ic-020-learning-sciences-and-learning-engineering-natural-or-artificial-distinction-lee-2023": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/le-ic-021-learning-engineering-what-it-is-and-why-i-m-involved-kolodner-2023": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/le-ic-031-learning-engineering-at-a-glance-army-press-2023": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "high-consequence domains",
+      "defense",
+      "healthcare",
+      "workforce development",
+      "training systems",
+      "military training",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/le-ic-032-state-of-xr-and-immersive-learning-report-2021": {
+    "keywords": [
+      "simulation",
+      "serious games",
+      "VR",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 2
+  },
+  "reading-list/le-ic-036-teaming-up-to-improve-medical-and-healthcare-education-kurzweil-marcellas-2020": {
+    "keywords": [
+      "high-consequence domains",
+      "defense",
+      "healthcare",
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 1
+  },
+  "reading-list/le-ic-037-build-a-learning-data-dream-team-torrance-lin-goodell-2024": {
+    "keywords": [
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "reading-list/le-ic-039-student-centered-educational-data-science-through-learning-engineering-van-campenhout-et-al-2023": {
+    "keywords": [
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "research methods",
+      "randomized trials",
+      "quasi-experimental design",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "reading-list/le-toolkit-introduction-open-access-chapter": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/le-toolkit-learning-engineering-applies-the-learning-sciences-open-acc": {
+    "keywords": [
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/le-toolkit-learning-engineering-is-a-process-open-access-chapter": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "reading-list/learning-analytics-in-education-niemi-2018": {
+    "keywords": [
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "research methods",
+      "randomized trials",
+      "quasi-experimental design",
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "analytics",
+      "lebok wiki"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "reading-list/learning-engineering-a-caliper-example": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-a-new-academic-discipline-and-engineering-profess": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-a-primer-this-research-report-learning-engineerin": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-a-view-on-where-the-field-is-at-where-it-s-going-": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-as-an-ethical-framework": {
+    "keywords": [
+      "ethics",
+      "equity",
+      "algorithmic fairness",
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "AI in learning",
+      "foundation models",
+      "LLM",
+      "lebok wiki"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "reading-list/learning-engineering-at-a-glance-based-on-the-ifest-poster-winner-of-b": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-enlightenment-think-like-an-engineer": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-for-online-education": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "measurement",
+      "learning analytics",
+      "educational data mining"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-is-learning-about-learning-we-need-that-now-more-": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-leveraging-science-and-technology-for-effective-i": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-making-its-way-in-the-world": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-merging-science-and-data-to-design-powerful-learn": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-past-present-and-future-note-icicle-images-and-re": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-perspectives-for-supporting-educational-systems": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-series-edsurge": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-toolkit-evidence-based-practices-from-the-learnin": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "LE process",
+      "iterative design",
+      "rapid prototyping"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-toolkit": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "instructional design",
+      "ADDIE",
+      "backward design"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "reading-list/learning-engineering-what-is-it-and-how-can-the-government-benefit": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-engineering-workingoutloud-on-learning-science": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/learning-factors-analysis": {
+    "keywords": [
+      "knowledge representation",
+      "ontology",
+      "knowledge graph",
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "reading-list/learning-sciences-and-learning-engineering-a-natural-or-artificial-dis": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/leveraging-learning-engineering-to-advance-authentic-learning-in-virtu": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/online-education-a-catalyst-for-higher-education-reforms-mit": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/online-education-a-catalyst-for-higher-education-reforms": {
+    "keywords": [
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 4
+  },
+  "reading-list/proceedings-of-the-2019-conference-on-learning-engineering": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/quinnsights-get-ready-for-learning-engineering": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/response-to-victor-lee-s-ls-and-le-learning-engineering-what-it-is-why": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/scaffolds-and-nudges-a-case-study-in-learning-engineering-design-impro": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/teaming-up-to-improve-medical-healthcare-education-instructional-desig": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/the-art-and-science-of-learning-engineering": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/the-job-of-a-college-president": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/the-rise-of-learning-engineering": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/the-science-of-remote-learning": {
+    "keywords": [
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/the-value-proposition-of-e-generalized-intelligent-framework-for-tutor": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/why-did-we-do-that-a-systematic-approach-to-tracking-decisions-in-the-": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 6
+  },
+  "reading-list/why-we-need-learning-engineers": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "reading-list/yet-analytics-learning-engineering-page": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/a-practical-guide-to-using-open-tools-for-well-defined-competencies-le": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/a-transformation-to-learning-engineering-bror-saxberg-2018-simon-initi": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/advancing-expertise-development-through-adaptive-human-ai-training": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/advancing-workforce-learning-through-learning-engineering": {
+    "keywords": [
+      "workforce development",
+      "training systems",
+      "military training",
+      "standards",
+      "credentialing",
+      "professional community",
+      "expert conversation",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 4
+  },
+  "events/aect-learner-engagement-activated-jim-goodell-episode": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "expert conversation"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/air-force-enterprise-learning-engineering-center-of-excellence-ele-coe": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/all-rise-the-learning-engineers": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "expert conversation"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/applying-learning-engineering-in-a-global-context": {
+    "keywords": [
+      "high-consequence domains",
+      "defense",
+      "healthcare",
+      "standards",
+      "credentialing",
+      "professional community",
+      "expert conversation",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 1
+  },
+  "events/applying-learning-engineering-in-mission-critical-environments": {
+    "keywords": [
+      "high-consequence domains",
+      "defense",
+      "healthcare",
+      "workforce development",
+      "training systems",
+      "military training",
+      "expert conversation",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 1
+  },
+  "events/are-you-curious-about-what-learning-engineering-is-listen-in-as-kateri": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/asu-le-research-network-2026-convening": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/bringing-learning-engineering-into-online-education": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/bror-saxberg-gave-a-keynote-learning-engineering-what-we-know-what-we-": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/but-how-do-you-know-they-learned-that": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/carnegie-mellon-university-open-learning-institute-s-simon-approach-to": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/cmu-learn-lab-learning-science-and-engineering-seminar-series": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/crazy-idea-what-if-we-use-engineering-to-develop-and-deliver-engineeri": {
+    "keywords": [
+      "workforce development",
+      "training systems",
+      "military training",
+      "standards",
+      "credentialing",
+      "professional community",
+      "expert conversation",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 4
+  },
+  "events/cultural-dimensions-in-learning-engineering-redesigning-courses-for-in": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/discover-the-world-of-learning-engineering-in-post-secondary-contexts": {
+    "keywords": [
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "intelligent tutoring",
+      "adaptive systems",
+      "knowledge tracing",
+      "expert conversation",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 4
+  },
+  "events/forging-effective-learning-with-bror-saxberg": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/from-designer-to-engineer-new-roles-for-learning-professionals-dr-mich": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/full-video-from-above-introduction-to-learning-engineering": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/icicle-conference-on-learning-engineering-2019": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/icicle-conference-on-learning-engineering-2022": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/icicle-conference-on-learning-engineering-2023": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/icicle-conference-on-learning-engineering-2024": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/ieee-learning-engineering-podcast": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "expert conversation"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/implementing-learning-in-military-environments-an-operational-tactical": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/integrating-adaptive-interventions-into-learning-engineering-workflows": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/intro-what-is-learning-engineering": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/le-ic-013-qip-learning-engineering-video-series": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "standards",
+      "credentialing",
+      "professional community",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/le-ic-014-introduction-to-learning-engineering-webinar-series": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "standards",
+      "credentialing",
+      "professional community",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/le-ic-016-silver-lining-for-learning-the-art-and-science-of-learning-engineering": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/le-ic-017-silver-lining-for-learning-human-centered-methods-in-learning-engineering": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "human systems integration",
+      "HSI",
+      "systems engineering",
+      "icicle",
+      "draft"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 6
+  },
+  "events/le-ic-028-aect-learning-engagement-activated-jim-goodell-on-learning-engineering": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "standards",
+      "credentialing",
+      "professional community",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/learning-engineering-a-path-to-empowering-learners-in-and-for-the-age-": {
+    "keywords": [
+      "AI in learning",
+      "foundation models",
+      "LLM",
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "expert conversation",
+      "ai"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 2
+  },
+  "events/learning-engineering-competency-based-experiential-learning-within-ins": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/learning-engineering-fellowship-program-a-case-study-in-data-driven-cu": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/learning-engineering-in-practice-a-case-study-on-developing-llm-based-": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/learning-engineering-in-the-age-of-ai-kumar-garg": {
+    "keywords": [
+      "AI in learning",
+      "foundation models",
+      "LLM",
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "expert conversation",
+      "ai",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 2
+  },
+  "events/learning-engineering-the-art-of-applying-learning-science-to-real-worl": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/learning-engineering-what-we-know-what-we-can-do-bror-saxberg-keynote": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "expert conversation",
+      "saxberg"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/learning-engineering-with-dr-bror-saxberg-why-doesn-t-education-have-m": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/learning-engineering-with-kristin-torrence-head-of-learning-engineerin": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/leveraging-ai-and-learning-engineering-in-large-scale-learning-science": {
+    "keywords": [
+      "AI in learning",
+      "foundation models",
+      "LLM",
+      "measurement",
+      "learning analytics",
+      "educational data mining",
+      "expert conversation",
+      "ai",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 2
+  },
+  "events/leveraging-deterministic-algorithms-to-personalize-education-and-enhan": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/leveraging-learning-engineering-to-orchestrate-and-enhance-learning": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/macrocognition-in-simulation-based-training-a-practical-application-of": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/measuring-learning-technology-maturity-in-dod-acquisition": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/mission-xrpossible-navigating-novice-to-expert-assessment-design-in-me": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/modern-learning": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/overview-of-u-s-army-competency-based-training-and-the-role-of-simulat": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/qip-learning-engineering-videos": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/silver-lining-for-learning-applying-human-centered-engineering-methods": {
+    "keywords": [
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "human systems integration",
+      "HSI",
+      "systems engineering",
+      "expert conversation",
+      "icicle"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 6
+  },
+  "events/silver-lining-for-learning-the-art-and-science-of-learning-engineering": {
+    "keywords": [
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "expert conversation"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "events/unlock-the-learning-engineer-in-you-pk-12-context": {
+    "keywords": [
+      "instructional design",
+      "ADDIE",
+      "backward design",
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "expert conversation",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 4
+  },
+  "events/webinar-learning-engineering-a-forum-with-bror-saxberg": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/advanced-distributed-learning-initiative-adl": {
+    "keywords": [
+      "workforce development",
+      "training systems",
+      "military training",
+      "standards",
+      "credentialing",
+      "professional community",
+      "adjacent",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 4
+  },
+  "community/aetc-developing-enterprise-learning-engineering-center-of-excellence-t": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/air-education-and-training-command-aetc-enterprise-learning-engineerin": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/air-force-enterprise-learning-engineering-center-of-excellence-ele-coe": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/air-force-enterprise-learning-engineering-center-of-excellence": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/airman-development-command-enterprise-learning-engineering-center-of-e": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/carnegie-mellon-open-learning-initiative-simon-initiative": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/ele-coe-overview-presentation": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/i-itsec-interservice-industry-training-simulation-education-conference": {
+    "keywords": [
+      "le excel v1"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/ieee-learning-technology-standards-committee-ltsc": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-arizona-state-university": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-carnegie-mellon-university": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-dartmouth-college": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-ieee-icicle": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-indiana-university": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-johns-hopkins-university": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-massachusetts-institute-of-technology": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-purdue-university": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-stanford-university": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-university-of-calgary": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-university-of-pennsylvania": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/institution-university-of-washington": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/le-ic-034-learning-engineering-adjacent-academic-programs-directory": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "field overview",
+      "learning engineering",
+      "ICICLE",
+      "draft"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/mit-integrated-learning-initiative-mitili": {
+    "keywords": [
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "learning infrastructure",
+      "LMS",
+      "xAPI",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 0
+  },
+  "community/org-ieee-icicle-sigs-migs": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/org-ieee-icicle": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/org-international-society-for-the-learning-sciences-isls": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/org-isls-annual-meeting": {
+    "keywords": [
+      "research methods",
+      "randomized trials",
+      "quasi-experimental design",
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "community/org-journal-of-the-learning-sciences": {
+    "keywords": [
+      "research methods",
+      "randomized trials",
+      "quasi-experimental design",
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "LE process",
+      "iterative design",
+      "rapid prototyping",
+      "seed data"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  },
+  "community/org-live-learning-innovation-incubator-vanderbilt-peabody": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/org-national-ai-institute-for-adult-learning-and-online-education-ai-aloe": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/org-naturalistic-decision-making-association": {
+    "keywords": [
+      "expert knowledge elicitation",
+      "cognitive task analysis",
+      "SME elicitation",
+      "human systems integration",
+      "HSI",
+      "systems engineering",
+      "seed data"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 1
+  },
+  "community/org-society-for-learning-analytics-research-solar": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-aaron-kessler": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-abby-bregman": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-adesola-ogundimu": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-amy-parent": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-baptiste-moreau-pernet": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-bedriye-akson": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-dj-jaeger": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-emily-marasco": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-eric-ultes": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-erin-czerwinski": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-gary-klein": {
+    "keywords": [
+      "expert knowledge elicitation",
+      "cognitive task analysis",
+      "SME elicitation",
+      "human systems integration",
+      "HSI",
+      "systems engineering",
+      "seed data"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 1
+  },
+  "community/person-james-diamond": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "human systems integration",
+      "HSI",
+      "systems engineering",
+      "workforce development",
+      "training systems",
+      "military training",
+      "icicle"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 5
+  },
+  "community/person-jason-virtue": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-jim-goodell": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-jodi-lis": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-john-costa": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-john-ellis": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-li-lee-liang": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-mei-mei-li": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-rob-nyland": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/person-robert-hoffman": {
+    "keywords": [
+      "expert knowledge elicitation",
+      "cognitive task analysis",
+      "SME elicitation",
+      "human systems integration",
+      "HSI",
+      "systems engineering",
+      "seed data"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 1
+  },
+  "community/person-william-gray-roncal": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "human systems integration",
+      "HSI",
+      "systems engineering",
+      "high-consequence domains",
+      "defense",
+      "healthcare",
+      "icicle"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 1
+  },
+  "community/person-zarka-ali": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/playful-journey-lab": {
+    "keywords": [
+      "simulation",
+      "serious games",
+      "VR",
+      "learning science",
+      "cognitive load theory",
+      "spaced practice",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 2
+  },
+  "community/program-asu-learning-engineering-institute-graduate-certificate": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-human-computer-interaction-institute-cmu": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-indiana-university-luddy-ise-human-centered-computing": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 5
+  },
+  "community/program-jhu-med-learning-design-and-technology": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "instructional design",
+      "ADDIE",
+      "backward design",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-learning-engineering-fellowship-cmu-oli": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-learning-engineering-virtual-institute-levi": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-learnlab-learnlab-professional-programs-cmu-network": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-lens-jhu-learning-engineering-for-next-generation-systems": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "human systems integration",
+      "HSI",
+      "systems engineering",
+      "workforce development",
+      "training systems",
+      "military training",
+      "high-consequence domains",
+      "defense",
+      "healthcare"
+    ],
+    "hsi_relevant": true,
+    "cluster_id": 1
+  },
+  "community/program-metals-ms-in-learning-engineering-carnegie-mellon": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-mit-learning-engineering-and-practice-leap-group": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-open-learning-initiative-oli": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-penn-center-for-learning-analytics-upenn-gse": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-purdue-school-of-engineering-education-ene": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-stanford-gse-m-s-learning-design-and-technology-ldt": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/program-university-of-washington-learning-sciences-design-coe-hcde-ischool": {
+    "keywords": [
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 5
+  },
+  "community/the-learning-agency": {
+    "keywords": [
+      "evidence standards",
+      "Kirkpatrick",
+      "evaluation",
+      "standards",
+      "credentialing",
+      "professional community",
+      "icicle"
+    ],
+    "hsi_relevant": false,
+    "cluster_id": 3
+  }
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "id": 0,
+    "name": "Foundations of Learning",
+    "topics": [
+      "T00",
+      "T01"
+    ],
+    "description": "What is learning engineering? Origins, definitions, and the learning science evidence base."
+  },
+  {
+    "id": 1,
+    "name": "HSI & Human Performance",
+    "topics": [
+      "T02",
+      "T09",
+      "T13"
+    ],
+    "description": "Human systems integration, expert knowledge elicitation, and high-consequence domain applications."
+  },
+  {
+    "id": 2,
+    "name": "AI & Adaptive Learning",
+    "topics": [
+      "T06",
+      "T07",
+      "T08"
+    ],
+    "description": "Intelligent tutoring systems, foundation models in learning, simulation, and experiential design."
+  },
+  {
+    "id": 3,
+    "name": "Assessment & Evidence",
+    "topics": [
+      "T04",
+      "T15",
+      "T17"
+    ],
+    "description": "Measurement, analytics, evidence standards, and research methods."
+  },
+  {
+    "id": 4,
+    "name": "Workforce & Training Systems",
+    "topics": [
+      "T10",
+      "T11",
+      "T12"
+    ],
+    "description": "Workforce development, learning infrastructure, and instructional design."
+  },
+  {
+    "id": 5,
+    "name": "Ethics, Equity & Community",
+    "topics": [
+      "T14",
+      "T16"
+    ],
+    "description": "Algorithmic fairness, equity in access, standards, and professional credentialing."
+  },
+  {
+    "id": 6,
+    "name": "LE Process & Knowledge",
+    "topics": [
+      "T03",
+      "T05"
+    ],
+    "description": "The learning engineering process, knowledge representation, and ontologies."
+  }
+]
