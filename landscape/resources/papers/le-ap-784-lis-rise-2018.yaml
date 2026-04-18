@@ -1,0 +1,22 @@
+resource_id: LE-AP-784
+content_type: AP
+source: curated
+title: "The Rise of Learning Engineering"
+authors:
+  - Jodi Lis
+  - Ellen Wagner
+year: 2018
+venue: "eLearn Magazine (ACM)"
+doi: "10.1145/3265972.3242101"
+tier: highly_cited
+citation_count_approx: 180
+significance: >
+  Co-authored field overview arguing that learning engineering was emerging as a
+  distinct discipline bridging learning science and technology practice.
+  Positioned LE as requiring systematic evidence use, iterative design, and
+  cross-functional teams. One of the earliest widely-circulated definitions of
+  LE in a practitioner venue.
+primary_topic: T00
+secondary_topics:
+  - T16
+  - T03

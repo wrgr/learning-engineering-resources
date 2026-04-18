@@ -14928,5 +14928,355 @@
     "significance": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Zucker, Kenneth J., and Robert L. Spitzer. “Was the Gender Identity Disorder of Childhood Diagnosis Introduced into DSM-...\n",
     "primary_topic": "T01",
     "secondary_topics": []
+  },
+  {
+    "resource_id": "LE-AP-784",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "The Rise of Learning Engineering",
+    "authors": [
+      "Jodi Lis",
+      "Ellen Wagner"
+    ],
+    "year": 2018,
+    "venue": "eLearn Magazine (ACM)",
+    "doi": "10.1145/3265972.3242101",
+    "tier": "highly_cited",
+    "citation_count_approx": 180,
+    "significance": "Co-authored field overview arguing that learning engineering was emerging as a distinct discipline bridging learning science and technology practice. Positioned LE as requiring systematic evidence use, iterative design, and cross-functional teams. One of the earliest widely-circulated definitions of LE in a practitioner venue.\n",
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T16",
+      "T03"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-785",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Learning Engineering Perspectives for Supporting Educational Systems",
+    "authors": [
+      "Jodi Lis",
+      "Scotty D. Craig",
+      "Jim Goodell",
+      "Erin Czerwinski",
+      "Rod D. Roscoe"
+    ],
+    "year": 2023,
+    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+    "volume": 67,
+    "issue": "1",
+    "pages": "304-309",
+    "tier": "contemporary",
+    "citation_count_approx": 12,
+    "significance": "Multi-author HFES proceedings paper articulating how learning engineering principles can be applied to transform educational systems. Connects LE to human factors and ergonomics perspectives on system design, team structure, and evidence-based improvement at institutional scale.\n",
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T02",
+      "T16"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-786",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Learning Engineering at a Glance",
+    "authors": [
+      "Aaron Kessler",
+      "Jim Goodell",
+      "Sean Schatz"
+    ],
+    "year": 2023,
+    "venue": "Journal of Military Learning (Army University Press)",
+    "tier": "contemporary",
+    "citation_count_approx": 15,
+    "significance": "Accessible practitioner overview of learning engineering written for military and defense training contexts. Introduces LE process, evidence standards, and team roles in language accessible to non-academic practitioners. Published in a government/military venue to broaden LE adoption beyond academia.\n",
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T02",
+      "T00"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-787",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Why Did We Do That? A Systematic Approach to Tracking Decisions in the Design and Iteration of Learning Experiences",
+    "authors": [
+      "Aaron Kessler",
+      "Laurie Totino"
+    ],
+    "year": 2024,
+    "venue": "Journal of Applied Instructional Design",
+    "volume": 13,
+    "issue": "2",
+    "doi": "10.59668/1269.15630",
+    "tier": "contemporary",
+    "citation_count_approx": 8,
+    "significance": "Proposes a structured decision-tracking methodology for learning engineering projects, documenting the rationale behind design choices throughout iterative development. Addresses the reproducibility gap in LE practice by making implicit design reasoning explicit and auditable.\n",
+    "primary_topic": "T03",
+    "secondary_topics": [
+      "T17",
+      "T16"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-788",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Exploring Learning Engineering Design Decision Tracking: Emergent Themes from Practitioners' Work",
+    "authors": [
+      "Aaron Kessler",
+      "Laurie Totino"
+    ],
+    "year": 2025,
+    "venue": "TechTrends",
+    "volume": 69,
+    "pages": "816-831",
+    "doi": "10.1007/s11528-025-01076-y",
+    "tier": "contemporary",
+    "citation_count_approx": 3,
+    "significance": "Empirical follow-up to the 2024 decision-tracking framework, reporting qualitative themes from practitioners applying decision-tracking in real LE projects. Identifies common challenges, useful patterns, and implications for LE team workflow and documentation practices.\n",
+    "primary_topic": "T03",
+    "secondary_topics": [
+      "T17",
+      "T02"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-789",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Senior International Officers: Essential Roles and Responsibilities",
+    "authors": [
+      "Adesola Ogundimu"
+    ],
+    "year": 2020,
+    "venue": "Journal of International Students",
+    "volume": 10,
+    "issue": "3",
+    "pages": "790-793",
+    "doi": "10.32674/jis.v10i3.2496",
+    "tier": "contemporary",
+    "citation_count_approx": 5,
+    "significance": "Examines the institutional support roles needed to serve international students in higher education settings, with implications for equity and inclusion in learning design. Relevant to LE globalisation and localisation — designing learning experiences that serve diverse international learner populations.\n",
+    "primary_topic": "T14",
+    "secondary_topics": [
+      "T00",
+      "T03"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-790",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Flipping the Foundation: A Multi-Year Flipped Classroom Study for a Large-Scale Introductory Programming Course",
+    "authors": [
+      "Emily Marasco",
+      "Mohammad Moshirpour",
+      "Mehdi Moussavi"
+    ],
+    "year": 2017,
+    "venue": "ASEE Annual Conference and Exposition Proceedings",
+    "doi": "10.18260/1-2--28372",
+    "tier": "contemporary",
+    "citation_count_approx": 45,
+    "significance": "Multi-year learning engineering case study of a flipped classroom implementation in a large-enrollment introductory programming course. Demonstrates iterative, evidence-based design improvement over multiple semesters, directly illustrating the LE process of measurement-driven redesign at scale.\n",
+    "primary_topic": "T14",
+    "secondary_topics": [
+      "T01",
+      "T06"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-791",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Collaborative Autoethnographic Study of a Large-Scale Flipped Classroom Implementation with Multiple Instructors",
+    "authors": [
+      "Emily Marasco",
+      "Ryan Paul",
+      "Mohammad Moshirpour",
+      "Laleh Behjat",
+      "Elise Croft"
+    ],
+    "year": 2019,
+    "venue": "ASEE Annual Conference and Exposition Proceedings",
+    "doi": "10.18260/1-2--32516",
+    "tier": "contemporary",
+    "citation_count_approx": 22,
+    "significance": "Qualitative study examining instructor experiences coordinating a large-scale flipped classroom across multiple instructors. Uses collaborative autoethnography to surface coordination challenges, equity concerns, and design lessons for scaling evidence-based pedagogy in engineering education.\n",
+    "primary_topic": "T14",
+    "secondary_topics": [
+      "T17",
+      "T03"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-792",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "The RISE Framework: Using Learning Analytics to Automatically Identify Open Educational Resources for Continuous Improvement",
+    "authors": [
+      "Rob Nyland",
+      "Robert Bodily",
+      "David Wiley"
+    ],
+    "year": 2017,
+    "venue": "International Review of Research in Open and Distributed Learning",
+    "volume": 18,
+    "issue": "2",
+    "tier": "contemporary",
+    "citation_count_approx": 55,
+    "significance": "Proposes the RISE (Resource Inspection, Selection, and Enhancement) framework for using learning analytics to automatically flag open educational resources needing improvement. Demonstrates how data signals from learner interactions can drive continuous evidence-based revision of OER materials, a core LE feedback loop.\n",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T14",
+      "T16"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-793",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Does Class Size Matter? An Exploration into Faculty Perceptions of Teaching High-Enrollment Online Courses",
+    "authors": [
+      "Rob Nyland",
+      "Patrick R. Lowenthal",
+      "Eunbae Jung",
+      "Joanna C. Dunlap",
+      "Jered Kepka"
+    ],
+    "year": 2019,
+    "venue": "American Journal of Distance Education",
+    "volume": 33,
+    "issue": "3",
+    "pages": "152-168",
+    "doi": "10.1080/08923647.2019.1610262",
+    "tier": "contemporary",
+    "citation_count_approx": 42,
+    "significance": "Qualitative study of faculty perceptions of teaching large online courses, identifying key challenges around personalization, feedback, and learning quality at scale. Informs LE system design for high-enrollment online contexts where automated and adaptive tools must compensate for reduced instructor bandwidth.\n",
+    "primary_topic": "T14",
+    "secondary_topics": [
+      "T09",
+      "T07"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-794",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Piloting Learning Analytics in a Multidisciplinary Online Program",
+    "authors": [
+      "Rob Nyland",
+      "Bea Croft",
+      "Eunbae Jung"
+    ],
+    "year": 2021,
+    "venue": "Online Learning",
+    "volume": 25,
+    "issue": "2",
+    "pages": "324-349",
+    "doi": "10.24059/olj.v25i2.2221",
+    "tier": "contemporary",
+    "citation_count_approx": 28,
+    "significance": "Reports a pilot deployment of learning analytics dashboards across a multidisciplinary online program, examining adoption challenges, faculty readiness, and impact on instructional decisions. Illustrates the implementation realities of deploying LE analytics infrastructure in existing institutional contexts.\n",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T14",
+      "T16"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-795",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Classifying Tutor Discursive Moves at Scale in Mathematics Classrooms with Large Language Models",
+    "authors": [
+      "Baptiste Moreau-Pernet",
+      "Yuan Tian",
+      "Steven Sawaya",
+      "Peter Foltz"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 11th ACM Conference on Learning @ Scale",
+    "doi": "10.1145/3657604.3664664",
+    "tier": "contemporary",
+    "citation_count_approx": 9,
+    "significance": "Demonstrates use of LLMs to classify tutor discourse moves at scale in mathematics classrooms, enabling automated analysis of instructional quality across thousands of tutoring sessions. Shows how AI can power LE feedback loops for continuously improving human tutoring quality.\n",
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T09"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-796",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "FlexEval: A Customizable Tool for Chatbot Performance Evaluation and Dialogue Analysis",
+    "authors": [
+      "Baptiste Moreau-Pernet",
+      "Steven T. Christie",
+      "Yuan Tian",
+      "John Whitmer"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the 17th International Conference on Educational Data Mining",
+    "pages": "903-908",
+    "doi": "10.5281/zenodo.12729993",
+    "tier": "contemporary",
+    "citation_count_approx": 6,
+    "significance": "Presents FlexEval, an open-source tool for systematic evaluation of dialogue- based AI tutoring systems. Enables reproducible assessment of chatbot conversational quality and learning effectiveness, filling a tooling gap in LLM-based LE deployment.\n",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T09",
+      "T16"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-797",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Learning to Love LLMs for Answer Interpretation: Chain-of-Thought Prompting and the AMMORE Dataset",
+    "authors": [
+      "Baptiste Moreau-Pernet",
+      "Ole Henkel",
+      "Hunter Horne-Robinson",
+      "Michael Dyshel"
+    ],
+    "year": 2025,
+    "venue": "Journal of Learning Analytics",
+    "volume": 12,
+    "issue": "1",
+    "pages": "50-64",
+    "doi": "10.18608/jla.2025.8621",
+    "tier": "contemporary",
+    "citation_count_approx": 4,
+    "significance": "Investigates chain-of-thought prompting strategies for using LLMs to interpret and score open-ended student responses, releasing the AMMORE dataset for benchmarking. Advances automated formative assessment at scale, enabling richer evidence signals for adaptive learning systems.\n",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T06",
+      "T11"
+    ]
+  },
+  {
+    "resource_id": "LE-AP-798",
+    "content_type": "AP",
+    "source": "curated",
+    "title": "Validity Issues and Ethics Concerns of AI-Assisted Assessment",
+    "authors": [
+      "Li (Lee) Liang"
+    ],
+    "year": 2024,
+    "venue": "Introduction to AI and Ethics in Higher Education (book chapter)",
+    "tier": "contemporary",
+    "citation_count_approx": 3,
+    "significance": "Examines validity and ethical issues arising from AI-assisted assessment systems, covering fairness, bias, transparency, and accountability. Relevant to LE practitioners deploying automated scoring and adaptive assessment, where ethical deployment standards and validity evidence requirements intersect.\n",
+    "primary_topic": "T05",
+    "secondary_topics": [
+      "T09",
+      "T11"
+    ]
   }
 ]

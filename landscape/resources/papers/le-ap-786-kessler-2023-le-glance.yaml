@@ -1,0 +1,21 @@
+resource_id: LE-AP-786
+content_type: AP
+source: curated
+title: "Learning Engineering at a Glance"
+authors:
+  - Aaron Kessler
+  - Jim Goodell
+  - Sean Schatz
+year: 2023
+venue: "Journal of Military Learning (Army University Press)"
+tier: contemporary
+citation_count_approx: 15
+significance: >
+  Accessible practitioner overview of learning engineering written for military
+  and defense training contexts. Introduces LE process, evidence standards, and
+  team roles in language accessible to non-academic practitioners. Published in
+  a government/military venue to broaden LE adoption beyond academia.
+primary_topic: T10
+secondary_topics:
+  - T02
+  - T00

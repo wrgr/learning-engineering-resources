@@ -16,6 +16,9 @@ key_contributions:
   - Helps curate the ICICLE BoK's tools inventory for the learning engineering community
 key_works:
   - "IEEE ICICLE Tools SIG practitioner guidance and tool evaluations"
+  - "LE-AP-795 — Classifying Tutor Discursive Moves with LLMs (L@S, 2024)"
+  - "LE-AP-796 — FlexEval: Chatbot Evaluation Tool (EDM, 2024)"
+  - "LE-AP-797 — Learning to Love LLMs for Answer Interpretation (JLA, 2025)"
 primary_topic: T11
 secondary_topics:
   - T16

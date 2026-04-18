@@ -1,0 +1,23 @@
+resource_id: LE-AP-788
+content_type: AP
+source: curated
+title: "Exploring Learning Engineering Design Decision Tracking: Emergent Themes from Practitioners' Work"
+authors:
+  - Aaron Kessler
+  - Laurie Totino
+year: 2025
+venue: "TechTrends"
+volume: "69"
+pages: "816-831"
+doi: "10.1007/s11528-025-01076-y"
+tier: contemporary
+citation_count_approx: 3
+significance: >
+  Empirical follow-up to the 2024 decision-tracking framework, reporting
+  qualitative themes from practitioners applying decision-tracking in real LE
+  projects. Identifies common challenges, useful patterns, and implications for
+  LE team workflow and documentation practices.
+primary_topic: T03
+secondary_topics:
+  - T17
+  - T02

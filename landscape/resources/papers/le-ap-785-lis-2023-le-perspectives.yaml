@@ -1,0 +1,26 @@
+resource_id: LE-AP-785
+content_type: AP
+source: curated
+title: "Learning Engineering Perspectives for Supporting Educational Systems"
+authors:
+  - Jodi Lis
+  - Scotty D. Craig
+  - Jim Goodell
+  - Erin Czerwinski
+  - Rod D. Roscoe
+year: 2023
+venue: "Proceedings of the Human Factors and Ergonomics Society Annual Meeting"
+volume: "67"
+issue: "1"
+pages: "304-309"
+tier: contemporary
+citation_count_approx: 12
+significance: >
+  Multi-author HFES proceedings paper articulating how learning engineering
+  principles can be applied to transform educational systems. Connects LE to
+  human factors and ergonomics perspectives on system design, team structure,
+  and evidence-based improvement at institutional scale.
+primary_topic: T00
+secondary_topics:
+  - T02
+  - T16
