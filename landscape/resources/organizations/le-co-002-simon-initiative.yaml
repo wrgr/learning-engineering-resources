@@ -1,0 +1,23 @@
+resource_id: LE-CO-002
+content_type: CO
+status: APPROVED
+name: "The Simon Initiative"
+type: research_center
+affiliation_or_venue: "Carnegie Mellon University"
+url: "https://www.cmu.edu/simon/"
+primary_topic: T00
+secondary_topics:
+  - T06
+  - T04
+description: >
+  Cross-disciplinary learning engineering ecosystem at CMU named for Herbert Simon.
+  Encompasses LearnLab, OLI, DataShop/LearnSphere, METALS master's program, and
+  the OpenSimon Toolkit. Hundreds of affiliated faculty collaborate across schools
+  to design, instrument, and iteratively improve learning systems using rigorous
+  data.
+
+  The world's most integrated LE research-to-practice ecosystem, housing the
+  world's largest open educational log data bank and serving as the primary
+  institutional model for what learning engineering looks like at institutional
+  scale.
+notes: "Named for Herbert A. Simon; umbrella for LearnLab, OLI, DataShop/LearnSphere, METALS, and OpenSimon Toolkit."

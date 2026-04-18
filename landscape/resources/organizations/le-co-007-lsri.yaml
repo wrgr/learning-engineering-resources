@@ -1,0 +1,21 @@
+resource_id: LE-CO-007
+content_type: CO
+status: APPROVED
+name: "Learning Sciences Research Institute, UIC"
+type: research_center
+affiliation_or_venue: "University of Illinois Chicago"
+url: "https://lsri.uic.edu/"
+primary_topic: T17
+secondary_topics:
+  - T14
+  - T01
+description: >
+  Interdisciplinary research institute at the University of Illinois Chicago
+  spanning learning sciences, computational methods, and educational equity.
+  Conducts research that bridges theoretical learning science and applied
+  educational intervention, with particular attention to equity and access
+  in urban educational contexts.
+
+  LSRI provides a model for LE research that integrates rigorous methodology
+  with a commitment to socially situated, equity-centered approaches — an
+  important counterweight to purely technocentric conceptions of the field.

@@ -1,0 +1,18 @@
+resource_id: LE-AP-589
+content_type: AP
+status: seed
+title: "Are Needs to Manage Uncertainty and Threat Associated With Political Conservatism or Ideological Extremity?"
+authors: []
+year: 2007
+venue: Personality and Social Psychology Bulletin
+doi: "10.1177/0146167207301028"
+tier: contemporary
+citation_count_approx: 673
+cross_seed_score: 2
+openalex_id: "W2159250033"
+significance: >
+  Published in Personality and Social Psychology Bulletin; addresses
+  conservatism, ambiguity, ideology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

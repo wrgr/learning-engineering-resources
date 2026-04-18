@@ -1,0 +1,18 @@
+resource_id: LE-AP-241
+content_type: AP
+status: seed
+title: "Handbook of socialization: theory and research"
+authors: []
+year: 2007
+venue: Choice Reviews Online
+doi: "10.5860/choice.45-0345"
+tier: highly_cited
+citation_count_approx: 3412
+cross_seed_score: 3
+openalex_id: "W2101856356"
+significance: >
+  Published in Choice Reviews Online; addresses socialization, psychology,
+  cognitive science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

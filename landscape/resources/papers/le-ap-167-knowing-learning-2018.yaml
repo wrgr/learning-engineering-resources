@@ -1,0 +1,18 @@
+resource_id: LE-AP-167
+content_type: AP
+status: seed
+title: "Knowing, Learning, and Instruction"
+authors: []
+year: 2018
+venue: Unknown Venue
+doi: "10.4324/9781315044408"
+tier: highly_cited
+citation_count_approx: 1815
+cross_seed_score: 4
+openalex_id: "W1752512628"
+significance: >
+  Published in Unknown Venue; addresses subject matter, competence (human
+  resources), reading comprehension. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

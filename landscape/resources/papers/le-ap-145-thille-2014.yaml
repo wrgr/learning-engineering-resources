@@ -1,0 +1,25 @@
+resource_id: LE-AP-145
+content_type: AP
+title: "The Future of Data-Enriched Assessment"
+authors:
+  - Candace Thille
+  - Emily Schneider
+  - Sherif Halawa
+  - Jim Ottaway
+  - Daniel Seaton
+  - Simon Buckingham Shum
+  - Jacob Whitehill
+year: 2014
+venue: "Research & Practice in Assessment"
+volume: "9"
+pages: "5-16"
+tier: contemporary
+citation_count_approx: 160
+significance: >
+  Argued for a shift from periodic high-stakes testing to continuous data-enriched assessment
+  using learning management system and ITS interaction data, drawing on OLI experience.
+  Directly relevant to LE evaluation redesign for competency-based programs.
+primary_topic: T10
+secondary_topics:
+  - T09
+  - T15

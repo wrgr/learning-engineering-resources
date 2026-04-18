@@ -1,0 +1,18 @@
+resource_id: LE-AP-393
+content_type: AP
+status: seed
+title: "A theory of implicit and explicit knowledge"
+authors: []
+year: 1999
+venue: Behavioral and Brain Sciences
+doi: "10.1017/s0140525x99002186"
+tier: contemporary
+citation_count_approx: 660
+cross_seed_score: 2
+openalex_id: "W2001098248"
+significance: >
+  Published in Behavioral and Brain Sciences; addresses proposition, explicit
+  knowledge, implicit knowledge. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

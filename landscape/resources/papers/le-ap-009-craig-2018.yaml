@@ -1,0 +1,22 @@
+resource_id: LE-AP-009
+content_type: AP
+title: Design principles for virtual humans in educational technology environments
+authors:
+  - Scotty D. Craig
+  - Nicolaus L. Schroeder
+year: 2018
+venue: International Journal of Artificial Intelligence in Education
+volume: "28"
+pages: "357–396"
+doi: "10.1007/s40593-017-0148-y"
+tier: contemporary
+citation_count_approx: 150
+significance: >
+  Synthesized human-factors engineering principles for designing pedagogical agents. Showed
+  that voice, appearance, and persona of virtual instructors systematically affect learner
+  cognitive load and perceived credibility — establishing that LE must integrate psychological
+  design alongside algorithmic design.
+primary_topic: T02
+secondary_topics:
+  - T08
+  - T06

@@ -1,0 +1,18 @@
+resource_id: LE-AP-459
+content_type: AP
+status: seed
+title: "Emerging Forms of Formative Intervention Research in Education"
+authors: []
+year: 2014
+venue: Mind Culture and Activity
+doi: "10.1080/10749039.2014.884137"
+tier: contemporary
+citation_count_approx: 65
+cross_seed_score: 2
+openalex_id: "W2060948481"
+significance: >
+  Published in Mind Culture and Activity; addresses formative assessment,
+  intervention (counseling), agency (philosophy). Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T06

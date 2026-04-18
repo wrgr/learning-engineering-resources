@@ -1,0 +1,18 @@
+resource_id: LE-AP-237
+content_type: AP
+status: seed
+title: "Guidance during mathematical problem solving."
+authors: []
+year: 1988
+venue: Journal of Educational Psychology
+doi: "10.1037/0022-0663.80.4.424"
+tier: contemporary
+citation_count_approx: 435
+cross_seed_score: 3
+openalex_id: "W2088730954"
+significance: >
+  Published in Journal of Educational Psychology; addresses psychology,
+  mathematics education, cognitive psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

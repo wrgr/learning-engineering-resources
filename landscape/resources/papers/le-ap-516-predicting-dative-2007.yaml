@@ -1,0 +1,17 @@
+resource_id: LE-AP-516
+content_type: AP
+status: seed
+title: "Predicting the dative alternation"
+authors: []
+year: 2007
+venue: Max Planck Digital Library
+tier: contemporary
+citation_count_approx: 492
+cross_seed_score: 2
+openalex_id: "W2117909082"
+significance: >
+  Published in Max Planck Digital Library; addresses grammaticality, alternation
+  (linguistics), grammar. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

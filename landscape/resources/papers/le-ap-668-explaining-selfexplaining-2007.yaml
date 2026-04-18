@@ -1,0 +1,18 @@
+resource_id: LE-AP-668
+content_type: AP
+status: seed
+title: "Explaining Self-Explaining: A Contrast between Content and Generation"
+authors: []
+year: 2007
+venue: Unknown Venue
+doi: "10.3390/bioengineering10040437"
+tier: contemporary
+citation_count_approx: 63
+cross_seed_score: 2
+openalex_id: "W37106624"
+significance: >
+  Published in Unknown Venue; addresses contrast (vision), psychology, variety
+  (cybernetics). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,22 @@
+resource_id: LE-AP-401
+content_type: AP
+status: seed
+title: "Educational Data Mining: A Review of the State of the Art"
+authors: []
+year: 2010
+venue: IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)
+doi: "10.1109/tsmcc.2010.2053532"
+tier: highly_cited
+citation_count_approx: 2075
+cross_seed_score: 2
+openalex_id: "W2006444123"
+significance: >
+  Published in IEEE Transactions on Systems Man and Cybernetics Part C
+  (Applications and Reviews); addresses educational data mining, data science,
+  field (mathematics). Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T09
+secondary_topics:
+  - T11
+  - T01

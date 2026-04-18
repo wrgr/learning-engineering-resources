@@ -1,0 +1,24 @@
+resource_id: LE-AP-026
+content_type: AP
+title: Transfer of training: A review and directions for future research
+authors:
+  - Timothy T. Baldwin
+  - J. Kevin Ford
+year: 1988
+venue: Personnel Psychology
+volume: "41"
+issue: "1"
+pages: "63–105"
+doi: "10.1111/j.1744-6570.1988.tb00632.x"
+tier: foundational
+citation_count_approx: 7800
+significance: >
+  The definitive review of training transfer research, establishing that transfer is
+  determined by trainee characteristics, training design, and work environment — not
+  training quality alone. Established the transfer climate construct and shifted training
+  evaluation toward longitudinal outcome tracking, directly shaping how LE systems are
+  evaluated for real-world impact.
+primary_topic: T10
+secondary_topics:
+  - T02
+  - T15

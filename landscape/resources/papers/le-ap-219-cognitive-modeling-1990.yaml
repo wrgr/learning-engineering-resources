@@ -1,0 +1,20 @@
+resource_id: LE-AP-219
+content_type: AP
+status: seed
+title: "Cognitive modeling and intelligent tutoring"
+authors: []
+year: 1990
+venue: Artificial Intelligence
+doi: "10.1016/0004-3702(90)90093-f"
+tier: contemporary
+citation_count_approx: 524
+cross_seed_score: 3
+openalex_id: "W2016288462"
+significance: >
+  Published in Artificial Intelligence; addresses computer science, cognition,
+  intelligent tutoring system. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T01

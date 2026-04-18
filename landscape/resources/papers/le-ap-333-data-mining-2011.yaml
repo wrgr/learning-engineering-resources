@@ -1,0 +1,20 @@
+resource_id: LE-AP-333
+content_type: AP
+status: seed
+title: "Data Mining: Practical Machine Learning Tools and Techniques"
+authors: []
+year: 2011
+venue: Elsevier eBooks
+doi: "10.1016/c2009-0-19715-5"
+tier: foundational
+citation_count_approx: 25709
+cross_seed_score: 2
+openalex_id: "W1570448133"
+significance: >
+  Published in Elsevier eBooks; addresses computer science, machine learning,
+  data science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T14
+secondary_topics:
+  - T01

@@ -1,0 +1,17 @@
+resource_id: LE-HT-021
+content_type: HT
+year: 2023
+era: contemporary
+event: "U.S. Dept. of Education releases 'Artificial Intelligence and the Future of Teaching and Learning'"
+significance: >
+  First major federal policy document addressing AI in education with explicit
+  civil-rights framing. Documented algorithmic bias in e-proctoring, mandated
+  fairness requirements. Set policy guardrails that now frame responsible
+  learning engineering practice.
+actors:
+  - "U.S. Department of Education, Office of Educational Technology"
+references:
+  - "U.S. Department of Education, Office of Educational Technology. (2023). Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations."
+primary_topic: T14
+secondary_topics:
+  - T07

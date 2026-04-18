@@ -1,0 +1,23 @@
+resource_id: LE-AP-144
+content_type: AP
+title: "An Approach to Knowledge Component / Skill Modeling in Online Courses"
+authors:
+  - Norman Bier
+  - Sean Lip
+  - Ross Strader
+  - Candace Thille
+  - Dawn Zimmaro
+year: 2014
+venue: "Proceedings of the 7th International Conference on Educational Data Mining"
+pages: "115-122"
+tier: contemporary
+citation_count_approx: 120
+significance: >
+  Described OLI's methodology for building knowledge component models in online courses and
+  validating them against student performance data. Demonstrates the LE data infrastructure
+  approach for continuously refining knowledge maps and adaptive sequencing in large-scale
+  online courseware.
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T12

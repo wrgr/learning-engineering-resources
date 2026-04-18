@@ -1,0 +1,24 @@
+resource_id: LE-AP-035
+content_type: AP
+title: "First Principles of Instruction"
+authors:
+  - M. David Merrill
+year: 2002
+venue: Educational Technology Research and Development
+volume: "50"
+issue: "3"
+pages: "43–59"
+doi: "10.1007/BF02505024"
+tier: highly_cited
+citation_count_approx: 4500
+significance: >
+  Synthesized five instructional design theories into first principles: problem-centered
+  instruction, activation of prior experience, demonstration of new knowledge, application
+  with feedback, and integration into real-world tasks. Merrill's framework provides a
+  theory-neutral checklist for evaluating any LE instructional approach and is directly
+  applicable to LE system design across domains — particularly useful for gap analysis
+  in instructional evaluation (LEBOK KA5/KA6).
+primary_topic: T12
+secondary_topics:
+  - T01
+  - T10

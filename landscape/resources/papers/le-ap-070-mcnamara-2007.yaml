@@ -1,0 +1,19 @@
+resource_id: LE-AP-070
+content_type: AP
+title: "Self-Explanation Training and Comprehension"
+authors:
+  - Danielle S. McNamara
+year: 2004
+venue: "Handbook of Research on Educational Communications and Technology (2nd ed.)"
+tier: highly_cited
+citation_count_approx: 420
+significance: >
+  Synthesized research on self-explanation as a learning strategy, demonstrating that
+  prompting learners to explain text to themselves during reading substantially improves
+  comprehension and knowledge retention. Provided the theoretical basis for iSTART and
+  self-explanation-based ITS design. Relevant to LE systems that use generative
+  processing prompts (explain-back, predict-then-read) as instructional mechanisms.
+primary_topic: T01
+secondary_topics:
+  - T06
+  - T04

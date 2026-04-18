@@ -1,0 +1,30 @@
+resource_id: LE-PP-159
+content_type: PP
+status: APPROVED
+name: Paul A. Kirschner
+affiliation: Open University of the Netherlands
+years: "1950–present"
+era: contemporary
+role: CLT applied to collaboration; co-author of 'Why Minimal Guidance Fails'
+description: >
+  Co-authored 'Why Minimal Guidance During Instruction Does Not Work' (2006) — the
+  most-cited critique of discovery and problem-based learning (6,800+ citations). Extended
+  Cognitive Load Theory to collaborative learning. Co-authored How Learning Happens with
+  Carl Hendrick and the 4C/ID model with van Merriënboer.
+key_contributions:
+  - Co-authored 'Why Minimal Guidance During Instruction Does Not Work' — the most-cited critique of discovery and problem-based learning (6,800+ citations)
+  - Extended Cognitive Load Theory to collaborative learning, showing that collaboration can increase or decrease load depending on design
+  - Co-authored How Learning Happens with Carl Hendrick — a practitioner guide to 28 seminal educational psychology works
+  - Challenged widespread ed-tech myths (learning styles, digital natives, multitasking) with rigorous empirical evidence
+  - Co-authored the 4C/ID model with van Merriënboer, a widely used framework for complex-skills instructional design
+key_works:
+  - "Why Minimal Guidance During Instruction Does Not Work (with Sweller & Clark, Educ Psychologist, 2006)"
+  - "A cognitive load approach to collaborative learning (Educ Psychology Review, 2009)"
+  - "How Learning Happens: Seminal Works in Educational Psychology (with Hendrick, Routledge, 2020)"
+primary_topic: T01
+secondary_topics:
+  - T02
+  - T12
+  - T15
+url: https://www.paulkirschner.nl/
+notes: 'Why Minimal Guidance Fails'. CLT for collaboration. How Learning Happens.

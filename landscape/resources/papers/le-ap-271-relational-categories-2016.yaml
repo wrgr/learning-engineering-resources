@@ -1,0 +1,17 @@
+resource_id: LE-AP-271
+content_type: AP
+status: seed
+title: "Relational categories as a bridge between cognitive and educational research."
+authors: []
+year: 2016
+venue: Psychological Bulletin
+doi: "10.1037/bul0000043"
+tier: contemporary
+citation_count_approx: 140
+cross_seed_score: 3
+openalex_id: "W2293509135"
+significance: >
+  Published in Psychological Bulletin; addresses psycinfo, analogy, cognition.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

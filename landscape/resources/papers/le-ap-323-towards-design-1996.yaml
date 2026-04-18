@@ -1,0 +1,18 @@
+resource_id: LE-AP-323
+content_type: AP
+status: seed
+title: "Towards the design of more effective advisors for learning-by-doing systems"
+authors: []
+year: 1996
+venue: Lecture notes in computer science
+doi: "10.1007/3-540-61327-7_164"
+tier: contemporary
+citation_count_approx: 12
+cross_seed_score: 2
+openalex_id: "W1532689176"
+significance: >
+  Published in Lecture notes in computer science; addresses affordance,
+  coaching, knowledge management. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

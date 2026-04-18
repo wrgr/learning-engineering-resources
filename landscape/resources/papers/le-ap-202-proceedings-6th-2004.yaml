@@ -1,0 +1,17 @@
+resource_id: LE-AP-202
+content_type: AP
+status: seed
+title: "Proceedings of the 6th international conference on Learning sciences"
+authors: []
+year: 2004
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 483
+cross_seed_score: 3
+openalex_id: "W1553185521"
+significance: >
+  Published in Unknown Venue; addresses diversity (politics), multitude, theme
+  (computing). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

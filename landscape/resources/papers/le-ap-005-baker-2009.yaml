@@ -1,0 +1,23 @@
+resource_id: LE-AP-005
+content_type: AP
+title: "The State of Educational Data Mining in 2009: A Review and Future Visions"
+authors:
+  - Ryan S. J. d. Baker
+  - Kalina Yacef
+year: 2009
+venue: Journal of Educational Data Mining
+volume: "1"
+issue: "1"
+pages: "3–17"
+url: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/2"
+tier: foundational
+citation_count_approx: 1500
+significance: >
+  Codified Educational Data Mining as a distinct discipline, distinguishing it from learning
+  analytics and positioning it with its own methods, journals, and research questions.
+  Established the taxonomy of EDM methods (prediction, clustering, knowledge discovery,
+  relationship mining, distillation for human judgment) still used today.
+primary_topic: T04
+secondary_topics:
+  - T17
+  - T06

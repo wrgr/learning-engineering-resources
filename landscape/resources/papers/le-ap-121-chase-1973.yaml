@@ -1,0 +1,24 @@
+resource_id: LE-AP-121
+content_type: AP
+title: "Perception in chess"
+authors:
+  - William G. Chase
+  - Herbert A. Simon
+year: 1973
+venue: Cognitive Psychology
+volume: "4"
+issue: "1"
+pages: "55-81"
+doi: "10.1016/0010-0285(73)90004-2"
+tier: foundational
+citation_count_approx: 2400
+significance: >
+  Demonstrated through memory experiments that chess masters' superiority is due
+  to recognition of thousands of meaningful chunk patterns rather than deeper
+  look-ahead — establishing "chunking" as a fundamental cognitive mechanism.
+  This expertise/chunking model directly informed intelligent tutoring system
+  design, knowledge component modeling, and LE theories of expert performance.
+primary_topic: T04
+secondary_topics:
+  - T01
+  - T09

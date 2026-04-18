@@ -1,0 +1,18 @@
+resource_id: LE-AP-355
+content_type: AP
+status: seed
+title: "Descartes' baby: how the science of child development explains what makes us human"
+authors: []
+year: 2004
+venue: Choice Reviews Online
+doi: "10.5860/choice.42-1874"
+tier: highly_cited
+citation_count_approx: 802
+cross_seed_score: 2
+openalex_id: "W1807941282"
+significance: >
+  Published in Choice Reviews Online; addresses child development, development
+  (topology), psychology. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

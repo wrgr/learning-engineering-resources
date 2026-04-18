@@ -1,0 +1,18 @@
+resource_id: LE-AP-179
+content_type: AP
+status: seed
+title: "Unified theories of cognition"
+authors: []
+year: 1991
+venue: Choice Reviews Online
+doi: "10.5860/choice.28-5376"
+tier: highly_cited
+citation_count_approx: 4262
+cross_seed_score: 4
+openalex_id: "W2088563966"
+significance: >
+  Published in Choice Reviews Online; addresses cognition, cognitive science,
+  computer science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

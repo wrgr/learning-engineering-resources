@@ -1,0 +1,18 @@
+resource_id: LE-AP-602
+content_type: AP
+status: seed
+title: "Spacing Effects in Learning"
+authors: []
+year: 2008
+venue: Psychological Science
+doi: "10.1111/j.1467-9280.2008.02209.x"
+tier: contemporary
+citation_count_approx: 590
+cross_seed_score: 2
+openalex_id: "W2169419728"
+significance: >
+  Published in Psychological Science; addresses test (biology), psychology,
+  affect (linguistics). Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

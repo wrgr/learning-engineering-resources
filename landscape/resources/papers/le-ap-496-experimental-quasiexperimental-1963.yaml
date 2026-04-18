@@ -1,0 +1,16 @@
+resource_id: LE-AP-496
+content_type: AP
+status: seed
+title: "Experimental and Quasi-Experimental Designs for Research"
+authors: []
+year: 1963
+venue: Medical Entomology and Zoology
+tier: foundational
+citation_count_approx: 15244
+cross_seed_score: 2
+openalex_id: "W2094419105"
+significance: >
+  Published in Medical Entomology and Zoology; addresses computer science.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

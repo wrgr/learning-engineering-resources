@@ -1,0 +1,23 @@
+resource_id: LE-AP-105
+content_type: AP
+title: "Structuring the Transition From Example Study to Problem Solving in Cognitive Skill Acquisition: A Cognitive Load Perspective"
+authors:
+  - Alexander Renkl
+  - Robert K. Atkinson
+year: 2003
+venue: Educational Psychologist
+volume: "38"
+issue: "1"
+pages: "15-22"
+doi: "10.1207/S15326985EP3801_3"
+tier: highly_cited
+citation_count_approx: 860
+significance: >
+  Synthesized research on fading strategies for worked examples, providing a cognitive
+  load theory rationale for how gradual reduction of worked steps supports the transition
+  to independent problem solving. Foundational for adaptive instruction design in LE
+  systems that sequence examples and problems.
+primary_topic: T12
+secondary_topics:
+  - T04
+  - T06

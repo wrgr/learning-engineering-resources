@@ -1,0 +1,18 @@
+resource_id: LE-AP-282
+content_type: AP
+status: seed
+title: "The Jasper Series as an Example of Anchored Instruction: Theory, Program Description, and Assessment Data"
+authors: []
+year: 1992
+venue: Educational Psychologist
+doi: "10.1207/s15326985ep2703_3"
+tier: contemporary
+citation_count_approx: 240
+cross_seed_score: 3
+openalex_id: "W4213223022"
+significance: >
+  Published in Educational Psychologist; addresses series (stratigraphy),
+  psychology, mathematics education. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,25 @@
+resource_id: LE-PP-069
+content_type: PP
+status: APPROVED
+name: Jason Virtue
+affiliation: "Canadian Armed Forces; IEEE ICICLE — Government / Military MIG"
+years: "active 2010s–present"
+era: contemporary
+role: Military training practitioner; ICICLE Government/Military MIG co-chair
+description: >
+  Co-chair of the Government / Military MIG within IEEE ICICLE. Canadian Armed Forces
+  practitioner applying LE methods to military professional development and training
+  system design.
+key_contributions:
+  - Co-chairs the Government / Military MIG (ICICLE), bridging military training standards and LE research
+  - Applies LE methods to Canadian Armed Forces professional development and training programs
+  - Connects NATO and ADL training standards with the ICICLE community's LE frameworks
+  - Contributes defense-sector perspectives to ICICLE's Body of Knowledge on workplace and military learning
+key_works:
+  - "IEEE ICICLE Government / Military MIG practitioner resources"
+primary_topic: T10
+secondary_topics:
+  - T02
+  - T16
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Government/Military MIG. Canadian Armed Forces context.

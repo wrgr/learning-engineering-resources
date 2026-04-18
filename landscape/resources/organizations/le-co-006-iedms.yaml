@@ -1,0 +1,22 @@
+resource_id: LE-CO-006
+content_type: CO
+status: APPROVED
+name: "International Educational Data Mining Society (IEDMS)"
+type: academic_society
+affiliation_or_venue: "International"
+url: "https://educationaldatamining.org"
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T17
+description: >
+  Society organizing the annual EDM (Educational Data Mining) conference and
+  publishing the Journal of Educational Data Mining. Focuses on computational,
+  discovery-oriented analysis of educational data, with emphasis on mathematical
+  and algorithmic approaches to knowledge tracing, student modeling, and
+  behavioral prediction.
+
+  EDM is complementary to but distinct from learning analytics: EDM prioritizes
+  algorithmic rigor and discovery, while LA emphasizes socio-technical implications
+  and practice. Both communities are essential to the learning engineering toolkit.
+notes: "Organizes annual EDM conference; publishes JEDM; sister community to SoLAR/LAK."

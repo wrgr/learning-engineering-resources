@@ -1,0 +1,24 @@
+resource_id: LE-AP-100
+content_type: AP
+title: "Understanding Tutor Learning: Knowledge-Building and Knowledge-Telling in Peer Tutors' Explanations and Questions"
+authors:
+  - Rod D. Roscoe
+  - Michelene T. H. Chi
+year: 2007
+venue: Review of Educational Research
+volume: "77"
+issue: "4"
+pages: "534-574"
+doi: "10.3102/0034654307309920"
+tier: highly_cited
+citation_count_approx: 650
+significance: >
+  Distinguished between knowledge-building (generative, deep processing) and
+  knowledge-telling (shallow retrieval) in peer tutors' behavior, finding that tutors
+  learn more when they build knowledge during explanations. Foundational for LE systems
+  that use peer tutoring and learning-by-teaching architectures, informing prompt and
+  scaffold design to promote deep tutor processing.
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T07

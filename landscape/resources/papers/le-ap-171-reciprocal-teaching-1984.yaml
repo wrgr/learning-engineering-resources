@@ -1,0 +1,18 @@
+resource_id: LE-AP-171
+content_type: AP
+status: seed
+title: "Reciprocal Teaching of Comprehension-Fostering and Comprehension-Monitoring Activities"
+authors: []
+year: 1984
+venue: Cognition and Instruction
+doi: "10.1207/s1532690xci0102_1"
+tier: foundational
+citation_count_approx: 5160
+cross_seed_score: 4
+openalex_id: "W2001564915"
+significance: >
+  Published in Cognition and Instruction; addresses comprehension, reciprocal
+  teaching, reading comprehension. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

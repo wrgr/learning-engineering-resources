@@ -1,0 +1,24 @@
+resource_id: LE-AP-033
+content_type: AP
+title: "Productive Failure in Mathematical Problem Solving"
+authors:
+  - Manu Kapur
+year: 2010
+venue: Instructional Science
+volume: "38"
+issue: "6"
+pages: "523–550"
+doi: "10.1007/s11251-009-9093-x"
+tier: highly_cited
+citation_count_approx: 1800
+significance: >
+  Demonstrated that students who struggle with problems before receiving instruction
+  (productive failure) develop deeper conceptual understanding and better transfer
+  than those who receive instruction first. Challenges the assumption that reducing
+  errors is always optimal and provides empirical grounding for LE design patterns
+  involving exploratory problem-solving, desirable difficulties, and sequencing
+  direct instruction after generative struggle.
+primary_topic: T01
+secondary_topics:
+  - T04
+  - T12

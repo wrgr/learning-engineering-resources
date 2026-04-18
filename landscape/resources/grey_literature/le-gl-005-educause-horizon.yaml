@@ -1,0 +1,19 @@
+resource_id: LE-GL-005
+content_type: GL
+status: APPROVED
+title: "EDUCAUSE Horizon Report: Teaching and Learning Edition"
+authors:
+  - "EDUCAUSE"
+year: 2017
+publisher: "EDUCAUSE"
+url: "https://library.educause.edu/resources/2017/2/2017-horizon-report"
+type: report
+primary_topic: T00
+secondary_topics:
+  - T07
+  - T11
+significance: >
+  The annual predictive literature for edtech adoption across global higher education. Tracks short-,
+  mid-, and long-term adoption horizons. Documents the gradual mainstreaming of LE concepts (analytics,
+  adaptive systems, AI tutors) from forecast to widespread adoption across the 2017–2024 arc.
+notes: "Annual series 2017–present"

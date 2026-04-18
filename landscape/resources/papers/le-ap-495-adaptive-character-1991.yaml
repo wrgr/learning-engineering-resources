@@ -1,0 +1,18 @@
+resource_id: LE-AP-495
+content_type: AP
+status: seed
+title: "The Adaptive Character of Thought"
+authors: []
+year: 1991
+venue: The American Journal of Psychology
+doi: "10.2307/1423253"
+tier: highly_cited
+citation_count_approx: 2240
+cross_seed_score: 2
+openalex_id: "W2092919341"
+significance: >
+  Published in The American Journal of Psychology; addresses psychology,
+  character (mathematics), cognitive psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

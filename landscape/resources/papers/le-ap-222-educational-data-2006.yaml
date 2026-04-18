@@ -1,0 +1,21 @@
+resource_id: LE-AP-222
+content_type: AP
+status: seed
+title: "Educational data mining: A survey from 1995 to 2005"
+authors: []
+year: 2006
+venue: Expert Systems with Applications
+doi: "10.1016/j.eswa.2006.04.005"
+tier: highly_cited
+citation_count_approx: 1472
+cross_seed_score: 3
+openalex_id: "W2027711578"
+significance: >
+  Published in Expert Systems with Applications; addresses computer science,
+  educational data mining, association rule learning. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T09
+secondary_topics:
+  - T11
+  - T14

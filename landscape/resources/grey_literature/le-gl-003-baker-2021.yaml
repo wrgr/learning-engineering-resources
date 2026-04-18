@@ -1,0 +1,21 @@
+resource_id: LE-GL-003
+content_type: GL
+status: APPROVED
+title: "High-Leverage Opportunities for Learning Engineering"
+authors:
+  - "Ryan S. Baker"
+  - "Ulrich Boser"
+  - "Allison Shelley"
+year: 2021
+publisher: "University of Pennsylvania Center for Learning Analytics"
+url: "https://repository.upenn.edu/handle/20.500.14332/6388"
+type: report
+primary_topic: T00
+secondary_topics:
+  - T09
+  - T14
+significance: >
+  Synthesized a 2020 convening of 100+ academics, policymakers, and practitioners to define ten
+  strategic priorities in three domains: Better LE Infrastructure, Supporting Human Processes, and
+  Better Learning Technologies. The field's most comprehensive contemporary roadmap and primary
+  policy document framing LE's current agenda.

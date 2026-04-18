@@ -1,0 +1,19 @@
+resource_id: LE-AP-018
+content_type: AP
+title: Instructional Design for Distributed Learning
+authors:
+  - Michael T. O'Brien
+  - Fletcher J. D.
+year: 1999
+venue: "Advanced Distributed Learning Initiative / Defense Technical Information Center"
+tier: contemporary
+citation_count_approx: 180
+significance: >
+  Applied systems engineering methodology to distributed and technology-mediated learning
+  design in defense and government training contexts. Bridged instructional systems design
+  (ISD) with software engineering practices — a precursor to modern learning engineering
+  frameworks for large-scale training deployment.
+primary_topic: T02
+secondary_topics:
+  - T10
+  - T11

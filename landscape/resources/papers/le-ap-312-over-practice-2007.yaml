@@ -1,0 +1,19 @@
+resource_id: LE-AP-312
+content_type: AP
+status: seed
+title: "Is Over Practice Necessary? --Improving Learning Efficiency with the Cognitive Tutor through Educational Data Mining"
+authors: []
+year: 2007
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 94
+cross_seed_score: 2
+openalex_id: "W1504261278"
+significance: >
+  Published in Unknown Venue; addresses curriculum, tutor, cognition. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T01

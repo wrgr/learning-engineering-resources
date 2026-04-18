@@ -1,0 +1,21 @@
+resource_id: LE-AP-106
+content_type: AP
+title: "Immersive VR and Education: Embodied Design Principles That Include Gesture and Hand Controls"
+authors:
+  - Mina C. Johnson-Glenberg
+year: 2018
+venue: Frontiers in Robotics and AI
+volume: "5"
+pages: "81"
+doi: "10.3389/frobt.2018.00081"
+tier: contemporary
+citation_count_approx: 310
+significance: >
+  Developed embodied design principles for immersive VR learning environments, specifying how
+  gesture interactions and hand controllers should be designed to align with the to-be-learned
+  concepts. Provides LE practitioners with actionable design heuristics for VR-based learning
+  systems grounded in embodied cognition theory.
+primary_topic: T08
+secondary_topics:
+  - T01
+  - T12

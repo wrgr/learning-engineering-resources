@@ -1,0 +1,24 @@
+resource_id: LE-AP-090
+content_type: AP
+title: "Learning analytics should not promote one size fits all: The effects of instructional conditions in predicting academic success"
+authors:
+  - Dragan Gašević
+  - Shane Dawson
+  - Tim Rogers
+  - Danijela Gasevic
+year: 2016
+venue: The Internet and Higher Education
+volume: "28"
+pages: "68-84"
+doi: "10.1016/j.iheduc.2015.10.002"
+tier: highly_cited
+citation_count_approx: 620
+significance: >
+  Demonstrated that predictive learning analytics models built in one instructional context
+  fail to generalize to others, calling for context-sensitive analytics design. Directly
+  informs LE practitioners about the limits of off-the-shelf early warning systems and the
+  need for local model validation.
+primary_topic: T09
+secondary_topics:
+  - T10
+  - T15

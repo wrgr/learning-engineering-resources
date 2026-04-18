@@ -1,0 +1,18 @@
+resource_id: LE-AP-600
+content_type: AP
+status: seed
+title: "Moral Divisions within Countries between Orthodoxy and Progressivism: India and the United States"
+authors: []
+year: 1998
+venue: Journal for the Scientific Study of Religion
+doi: "10.2307/1388031"
+tier: contemporary
+citation_count_approx: 111
+cross_seed_score: 2
+openalex_id: "W2167668359"
+significance: >
+  Published in Journal for the Scientific Study of Religion; addresses
+  progressivism, orthodoxy, political science. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

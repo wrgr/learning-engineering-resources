@@ -1,0 +1,15 @@
+resource_id: LE-PC-003
+content_type: PC
+status: APPROVED
+name: "Learning Engineering Virtual Institute (LEVI)"
+url: "https://learning-engineering-virtual-institute.org/"
+primary_topic: T16
+secondary_topics:
+  - T07
+  - T06
+  - T15
+description: >
+  Funds multi-year cohorts building AI-driven, research-backed tools to improve
+  outcomes in math (LEVI Math) and early literacy (LEVI Literacy), with rapid
+  experimentation and rigorous evaluation. Not affiliated with the earlier
+  iNACOL/Aurora convening sometimes also called LEVI.

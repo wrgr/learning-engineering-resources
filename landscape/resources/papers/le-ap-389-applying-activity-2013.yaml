@@ -1,0 +1,18 @@
+resource_id: LE-AP-389
+content_type: AP
+status: seed
+title: "Applying an Activity Theory Lens to Designing Instruction for Learning About the Structure, Behavior, and Function of a Honeybee System"
+authors: []
+year: 2013
+venue: Journal of the Learning Sciences
+doi: "10.1080/10508406.2013.856793"
+tier: contemporary
+citation_count_approx: 81
+cross_seed_score: 2
+openalex_id: "W1995339358"
+significance: >
+  Published in Journal of the Learning Sciences; addresses lens (geology),
+  function (biology), through-the-lens metering. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,21 @@
+resource_id: LE-AP-301
+content_type: AP
+status: seed
+title: "The Potentials of Educational Data Mining for Researching Metacognition, Motivation and Self-Regulated Learning"
+authors: []
+year: 2013
+venue: Zenodo (CERN European Organization for Nuclear Research)
+doi: "10.5281/zenodo.3554619"
+tier: contemporary
+citation_count_approx: 159
+cross_seed_score: 2
+openalex_id: "W1483580517"
+significance: >
+  Published in Zenodo (CERN European Organization for Nuclear Research);
+  addresses metacognition, educational data mining, computer science. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T09
+secondary_topics:
+  - T01
+  - T11

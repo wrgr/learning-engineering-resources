@@ -1,0 +1,18 @@
+resource_id: LE-AP-557
+content_type: AP
+status: seed
+title: "The political left rolls with the good and the political right confronts the bad: connecting physiology and cognition to preferences"
+authors: []
+year: 2012
+venue: Philosophical Transactions of the Royal Society B Biological Sciences
+doi: "10.1098/rstb.2011.0268"
+tier: contemporary
+citation_count_approx: 188
+cross_seed_score: 2
+openalex_id: "W2139225101"
+significance: >
+  Published in Philosophical Transactions of the Royal Society B Biological
+  Sciences; addresses politics, biology and political orientation, cognition.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

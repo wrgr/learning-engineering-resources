@@ -1,0 +1,17 @@
+resource_id: LE-AP-220
+content_type: AP
+status: seed
+title: "Instructional Complexity and the Science to Constrain It"
+authors: []
+year: 2013
+venue: Science
+doi: "10.1126/science.1238056"
+tier: contemporary
+citation_count_approx: 186
+cross_seed_score: 3
+openalex_id: "W2020229731"
+significance: >
+  Published in Science; addresses computer science, data science. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

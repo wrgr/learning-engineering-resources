@@ -1,0 +1,22 @@
+resource_id: LE-AP-006
+content_type: AP
+title: Immersive interfaces for engagement and learning
+authors:
+  - Chris Dede
+year: 2009
+venue: Science
+volume: "323"
+issue: "5910"
+pages: "66–69"
+doi: "10.1126/science.1167311"
+tier: highly_cited
+citation_count_approx: 2000
+significance: >
+  Established the engineering parameters for using immersive virtual environments in STEM
+  education. Demonstrated that multi-user virtual environments and augmented reality can
+  support complex cognition and inquiry skills not achievable through conventional instruction.
+  Positioned XR as a serious learning engineering domain.
+primary_topic: T08
+secondary_topics:
+  - T01
+  - T06

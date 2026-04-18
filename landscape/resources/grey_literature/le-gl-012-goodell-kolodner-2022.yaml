@@ -1,0 +1,21 @@
+resource_id: LE-GL-012
+content_type: GL
+status: APPROVED
+title: "Learning Engineering (IEEE Press)"
+authors:
+  - "Jim Goodell"
+  - "Janet Kolodner"
+year: 2022
+publisher: "IEEE Press / Wiley"
+url: ""
+type: book
+primary_topic: T00
+secondary_topics:
+  - T01
+  - T03
+significance: >
+  The canonical textbook of the learning engineering field. Two-part structure covering LE
+  foundations and practice. End notes are a primary seed source for corpus expansion — over
+  200 references spanning cognitive science, instructional design, analytics, and systems
+  engineering. IEEE Press, 2022. Required reading for any LE practitioner or researcher.
+notes: "PRIMARY seed document. Harvest all chapter end notes for corpus expansion."

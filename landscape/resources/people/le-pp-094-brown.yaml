@@ -1,0 +1,28 @@
+resource_id: LE-PP-094
+content_type: PP
+status: APPROVED
+name: Ann L. Brown
+affiliation: "University of California, Berkeley"
+years: "1943–1999"
+era: expansion
+role: Pioneer of design-based research and collaborative learning environments
+description: >
+  Educational psychologist and pioneer of design-based research (DBR) and collaborative
+  learning. Her 'Design Experiments' (JLS, 1992) is the most-cited paper in the learning
+  sciences. Co-created 'Fostering Communities of Learners', an influential model for
+  scaffolded inquiry-based learning environments. Demonstrated how engineered classroom
+  environments can simultaneously serve as research sites.
+key_contributions:
+  - Established design-based research (DBR) as the canonical methodology for testing learning interventions in authentic contexts
+  - 'Design Experiments' (JLS, 1992) is the most-cited paper in the field of learning sciences (2,800+ citations)
+  - Co-created 'Fostering Communities of Learners' — an influential model for scaffolded, inquiry-based learning environments
+  - Demonstrated how engineered classroom environments could simultaneously serve as research sites
+key_works:
+  - "Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings (JLS, 1992)"
+  - "Guided Discovery in a Community of Learners (1994)"
+primary_topic: T17
+secondary_topics:
+  - T03
+  - T01
+url: https://en.wikipedia.org/wiki/Ann_Brown_(psychologist)
+notes: DBR originator. Fostering Communities of Learners. Core T17.

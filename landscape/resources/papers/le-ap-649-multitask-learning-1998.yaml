@@ -1,0 +1,19 @@
+resource_id: LE-AP-649
+content_type: AP
+status: seed
+title: "Multitask learning"
+authors: []
+year: 1998
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 1121
+cross_seed_score: 2
+openalex_id: "W2914746235"
+significance: >
+  Published in Unknown Venue; addresses multi-task learning, computer science,
+  artificial intelligence. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T14
+secondary_topics:
+  - T01

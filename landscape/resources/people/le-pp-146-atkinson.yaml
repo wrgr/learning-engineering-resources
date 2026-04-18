@@ -1,0 +1,30 @@
+resource_id: LE-PP-146
+content_type: PP
+status: APPROVED
+name: Robert K. Atkinson
+affiliation: Arizona State University
+years: "1965–present"
+era: contemporary
+role: Instructional design researcher; worked examples and pedagogical agents
+description: >
+  ASU researcher who demonstrated that optimized sequencing of worked examples using
+  animated pedagogical agents improves learning. Applied cognitive load theory principles
+  to the design of example-based instruction and investigated the guidance fading effect
+  across different instructional formats.
+key_contributions:
+  - Demonstrated that optimized sequencing of worked examples using animated pedagogical agents improves learning
+  - Synthesized evidence on transitioning learners from example study to independent problem solving
+  - Showed that interactive worked examples encourage more effective processing than static presentations
+  - Applied cognitive load theory principles to the design of example-based instruction
+  - Investigated how the guidance fading effect operates across different instructional formats
+key_works:
+  - "Optimizing learning from examples using animated pedagogical agents (JEP Applied, 2002)"
+  - "Transitioning from studying examples to solving problems (JEP Applied, 2003)"
+  - "Interactive example-based learning environments (Educ Psychology Review, 2007)"
+primary_topic: T12
+secondary_topics:
+  - T01
+  - T02
+  - T06
+url: https://education.asu.edu/
+notes: Worked examples and pedagogical agents. CLT applications.

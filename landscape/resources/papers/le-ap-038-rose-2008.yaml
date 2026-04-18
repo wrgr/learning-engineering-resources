@@ -1,0 +1,29 @@
+resource_id: LE-AP-038
+content_type: AP
+title: "Analyzing Collaborative Learning Processes Automatically: Exploiting the Advances of Computational Linguistics in Computer-Supported Collaborative Learning"
+authors:
+  - Carolyn Penstein Rosé
+  - Yi-Chia Wang
+  - Yue Cui
+  - Jaime Arguello
+  - Karsten Stegmann
+  - Armin Weinberger
+  - Frank Fischer
+year: 2008
+venue: International Journal of Computer-Supported Collaborative Learning
+volume: "3"
+issue: "3"
+pages: "237–271"
+doi: "10.1007/s11412-008-9048-2"
+tier: highly_cited
+citation_count_approx: 520
+significance: >
+  Demonstrated how NLP and machine learning techniques can automatically classify
+  collaborative learning processes from discourse transcripts, enabling real-time
+  formative feedback in CSCL environments. Established the computational methodology
+  for automated collaborative discourse analysis that underpins modern learning analytics
+  platforms and AI-facilitated group learning tools.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T09

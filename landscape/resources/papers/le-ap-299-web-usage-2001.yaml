@@ -1,0 +1,18 @@
+resource_id: LE-AP-299
+content_type: AP
+status: seed
+title: "Web Usage Mining for a Better Web-Based Learning Environment"
+authors: []
+year: 2001
+venue: Unknown Venue
+doi: "10.7939/r3736m20p"
+tier: contemporary
+citation_count_approx: 262
+cross_seed_score: 2
+openalex_id: "W14494740"
+significance: >
+  Published in Unknown Venue; addresses web application, world wide web,
+  computer science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

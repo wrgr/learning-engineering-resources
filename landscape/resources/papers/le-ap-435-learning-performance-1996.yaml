@@ -1,0 +1,20 @@
+resource_id: LE-AP-435
+content_type: AP
+status: seed
+title: "Learning from performance errors."
+authors: []
+year: 1996
+venue: Psychological Review
+doi: "10.1037/0033-295x.103.2.241"
+tier: contemporary
+citation_count_approx: 363
+cross_seed_score: 2
+openalex_id: "W2041201199"
+significance: >
+  Published in Psychological Review; addresses psychology, cognitive psychology,
+  computer science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T14
+secondary_topics:
+  - T01

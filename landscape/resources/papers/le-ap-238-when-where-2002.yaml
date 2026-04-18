@@ -1,0 +1,18 @@
+resource_id: LE-AP-238
+content_type: AP
+status: seed
+title: "When and where do we apply what we learn?: A taxonomy for far transfer."
+authors: []
+year: 2002
+venue: Psychological Bulletin
+doi: "10.1037/0033-2909.128.4.612"
+tier: highly_cited
+citation_count_approx: 1885
+cross_seed_score: 3
+openalex_id: "W2094192576"
+significance: >
+  Published in Psychological Bulletin; addresses confusion, situated,
+  intersection (aeronautics). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

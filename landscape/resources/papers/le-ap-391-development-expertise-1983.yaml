@@ -1,0 +1,18 @@
+resource_id: LE-AP-391
+content_type: AP
+status: seed
+title: "Development of expertise in mathematical problem solving."
+authors: []
+year: 1983
+venue: Journal of Experimental Psychology General
+doi: "10.1037/0096-3445.112.4.639"
+tier: contemporary
+citation_count_approx: 216
+cross_seed_score: 2
+openalex_id: "W1997788290"
+significance: >
+  Published in Journal of Experimental Psychology General; addresses psychology,
+  management science, cognitive science. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

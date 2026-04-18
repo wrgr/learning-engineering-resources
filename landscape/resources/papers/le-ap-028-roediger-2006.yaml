@@ -1,0 +1,24 @@
+resource_id: LE-AP-028
+content_type: AP
+title: "Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention"
+authors:
+  - Henry L. Roediger III
+  - Jeffrey D. Karpicke
+year: 2006
+venue: Psychological Science
+volume: "17"
+issue: "3"
+pages: "249–255"
+doi: "10.1111/j.1467-9280.2006.01693.x"
+tier: foundational
+citation_count_approx: 3200
+significance: >
+  Demonstrated experimentally that repeated retrieval practice produces substantially
+  better long-term retention than repeated study — the "testing effect." This work
+  directly underpins formative assessment design in LE systems, supporting frequent
+  low-stakes quizzing as a core instructional mechanism rather than a mere measurement
+  tool. One of the most replicated findings in cognitive psychology.
+primary_topic: T01
+secondary_topics:
+  - T12
+  - T06

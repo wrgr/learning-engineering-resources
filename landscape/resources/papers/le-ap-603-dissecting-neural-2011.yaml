@@ -1,0 +1,18 @@
+resource_id: LE-AP-603
+content_type: AP
+status: seed
+title: "Dissecting the Neural Mechanisms Mediating Empathy"
+authors: []
+year: 2011
+venue: Emotion Review
+doi: "10.1177/1754073910374662"
+tier: contemporary
+citation_count_approx: 516
+cross_seed_score: 2
+openalex_id: "W2170264085"
+significance: >
+  Published in Emotion Review; addresses empathy, psychology, prosocial
+  behavior. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

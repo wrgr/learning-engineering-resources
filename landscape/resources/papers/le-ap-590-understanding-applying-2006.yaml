@@ -1,0 +1,18 @@
+resource_id: LE-AP-590
+content_type: AP
+status: seed
+title: "Understanding and applying the dynamics of test practice and study practice"
+authors: []
+year: 2006
+venue: Instructional Science
+doi: "10.1007/s11251-006-9013-2"
+tier: contemporary
+citation_count_approx: 18
+cross_seed_score: 2
+openalex_id: "W2160231112"
+significance: >
+  Published in Instructional Science; addresses mnemonic, educational
+  psychology, test (biology). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

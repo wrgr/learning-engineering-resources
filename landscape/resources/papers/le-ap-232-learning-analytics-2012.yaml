@@ -1,0 +1,21 @@
+resource_id: LE-AP-232
+content_type: AP
+status: seed
+title: "Learning analytics and educational data mining"
+authors: []
+year: 2012
+venue: Unknown Venue
+doi: "10.1145/2330601.2330661"
+tier: highly_cited
+citation_count_approx: 942
+cross_seed_score: 3
+openalex_id: "W2078482049"
+significance: >
+  Published in Unknown Venue; addresses learning analytics, educational data
+  mining, analytics. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T09
+secondary_topics:
+  - T11
+  - T01

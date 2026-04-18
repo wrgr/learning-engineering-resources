@@ -1,0 +1,22 @@
+resource_id: LE-PP-062
+content_type: PP
+status: APPROVED
+name: Abby Bregman
+affiliation: "IEEE ICICLE — Students and Grads SIG"
+years: "active 2010s–present"
+era: contemporary
+role: Emerging LE professional; ICICLE Students and Grads SIG co-chair
+description: >
+  Co-chair of the Students and Grads SIG within IEEE ICICLE, supporting career development
+  and mentorship for emerging learning engineering practitioners.
+key_contributions:
+  - Co-chairs the Students and Grads SIG (ICICLE), building community infrastructure for the next generation of learning engineers
+  - Develops peer support, mentorship, and networking resources for LE students and recent graduates
+  - Contributes to ICICLE's efforts to recruit and develop emerging LE talent across diverse disciplines
+key_works:
+  - "IEEE ICICLE Students and Grads SIG community resources and programming"
+primary_topic: T16
+secondary_topics:
+  - T00
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Students and Grads SIG.

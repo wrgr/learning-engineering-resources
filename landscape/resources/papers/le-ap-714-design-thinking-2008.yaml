@@ -1,0 +1,16 @@
+resource_id: LE-AP-714
+content_type: AP
+status: seed
+title: "“Design Thinking"
+authors: []
+year: 2008
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation: Brown,
+  Tim. “Design Thinking.” Harvard Business Review 86, no. 6 (2008): 1–10.
+  https://hbr.org/2008/06/design-thinking...
+primary_topic: T01

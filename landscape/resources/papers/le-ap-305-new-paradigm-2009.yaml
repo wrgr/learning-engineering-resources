@@ -1,0 +1,18 @@
+resource_id: LE-AP-305
+content_type: AP
+status: seed
+title: "A New Paradigm for Intelligent Tutoring Systems: Example-Tracing Tutors"
+authors: []
+year: 2009
+venue: Unknown Venue
+doi: "10.5555/1734243.1734245"
+tier: contemporary
+citation_count_approx: 280
+cross_seed_score: 2
+openalex_id: "W1490935989"
+significance: >
+  Published in Unknown Venue; addresses computer science, tracing,
+  human–computer interaction. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

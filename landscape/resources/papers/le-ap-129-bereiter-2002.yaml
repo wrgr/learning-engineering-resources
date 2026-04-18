@@ -1,0 +1,20 @@
+resource_id: LE-AP-129
+content_type: AP
+title: "Knowledge Building"
+authors:
+  - Carl Bereiter
+  - Marlene Scardamalia
+year: 2003
+venue: "Encyclopedia of Education (2nd ed., vol. 4)"
+pages: "1370-1373"
+tier: highly_cited
+citation_count_approx: 1200
+significance: >
+  Defined knowledge building as the deliberate work of advancing a community's
+  collective understanding — distinct from individual learning. This framework
+  underpins LE design of collaborative platforms where community knowledge
+  artifacts, not individual performance, are the primary learning targets.
+primary_topic: T01
+secondary_topics:
+  - T07
+  - T12

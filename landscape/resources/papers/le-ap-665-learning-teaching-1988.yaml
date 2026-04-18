@@ -1,0 +1,17 @@
+resource_id: LE-AP-665
+content_type: AP
+status: seed
+title: "Learning and Teaching Styles in Engineering Education."
+authors: []
+year: 1988
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 3489
+cross_seed_score: 2
+openalex_id: "W3170775390"
+significance: >
+  Published in Unknown Venue; addresses engineering education, mathematics
+  education, computer science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

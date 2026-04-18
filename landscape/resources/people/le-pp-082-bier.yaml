@@ -1,0 +1,29 @@
+resource_id: LE-PP-082
+content_type: PP
+status: APPROVED
+name: Norman Bier
+affiliation: "Carnegie Mellon University — Open Learning Initiative"
+years: "active 2000s–present"
+era: contemporary
+role: OLI Director; evidence-based online course design practitioner; open educational resources leader
+description: >
+  Director of CMU's Open Learning Initiative (OLI), which produces open online courses
+  shown to produce learning outcomes comparable to semester-length courses in half the time.
+  Pioneered continuous data-driven redesign of online courses. Bridges the Simon Initiative's
+  research infrastructure with open educational access goals. Active ICICLE contributor.
+key_contributions:
+  - Directs CMU's Open Learning Initiative, demonstrating that evidence-based online courses can match traditional semester outcomes in half the time
+  - Pioneered integration of formative assessments, learning analytics dashboards, and iterative course redesign in OLI
+  - Demonstrated that continuous data-driven redesign improves course outcomes year over year
+  - Bridged Simon Initiative research infrastructure with open educational access and equity goals
+  - Active IEEE ICICLE contributor defining OLI's learning engineering methodology for the broader community
+key_works:
+  - "Lovett, Meyer & Thille — The Open Learning Initiative: Measuring the Effectiveness of the OLI Statistics Course (Educause Quarterly, 2008)"
+  - "Thille et al. — Educating the Educators: Initiatives for Technology-Enhanced Learning (Schmidt & Cohen, 2014)"
+  - "CMU Simon Initiative OLI technical reports on learning analytics and course redesign"
+primary_topic: T10
+secondary_topics:
+  - T00
+  - T11
+url: https://oli.cmu.edu
+notes: OLI Director. Strong connection to Simon Initiative. Evidence-based online learning.

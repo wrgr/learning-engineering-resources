@@ -1,0 +1,20 @@
+resource_id: LE-AP-569
+content_type: AP
+status: seed
+title: "Psychometricians’ Beliefs About Learning"
+authors: []
+year: 1991
+venue: Educational Researcher
+doi: "10.3102/0013189x020007002"
+tier: contemporary
+citation_count_approx: 208
+cross_seed_score: 2
+openalex_id: "W2146068067"
+significance: >
+  Published in Educational Researcher; addresses framing (construction), test
+  (biology), psychology. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T01

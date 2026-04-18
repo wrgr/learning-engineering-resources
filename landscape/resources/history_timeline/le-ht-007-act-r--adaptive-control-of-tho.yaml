@@ -1,0 +1,17 @@
+resource_id: LE-HT-007
+content_type: HT
+year: 1985
+era: founding
+event: "ACT-R (Adaptive Control of Thought—Rational) theory formalized by John Anderson"
+significance: >
+  ACT-R provided a unified cognitive architecture distinguishing declarative
+  from procedural memory and specifying how practice drives skill acquisition.
+  Became the theoretical backbone for Cognitive Tutors and much of the ITS
+  field.
+actors:
+  - "John R. Anderson"
+references:
+  - "Anderson, J. R. (1993). Rules of the Mind. Lawrence Erlbaum Associates."
+primary_topic: T01
+secondary_topics:
+  - T06

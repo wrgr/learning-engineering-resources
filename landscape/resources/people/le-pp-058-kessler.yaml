@@ -1,0 +1,26 @@
+resource_id: LE-PP-058
+content_type: PP
+status: APPROVED
+name: Aaron Kessler
+affiliation: "MIT; IEEE ICICLE — Design for Learning SIG"
+years: "active 2010s–present"
+era: contemporary
+role: Human-centered design researcher; ICICLE Design for Learning SIG co-chair
+description: >
+  Co-chair of the Design for Learning SIG within IEEE ICICLE, advancing human-centered
+  design (HCD) methods as core LE practice. MIT-affiliated, bringing HCD and systems
+  thinking frameworks into the LE practitioner community.
+key_contributions:
+  - Co-chairs the Design for Learning SIG (ICICLE), establishing human-centered design as a core learning engineering competency
+  - Brings MIT-grounded HCD and systems thinking frameworks to LE practitioner training and professional development
+  - Contributes frameworks for user research, iterative design, and formative evaluation in educational technology
+  - Bridges engineering design methodology and instructional design within the LE field
+key_works:
+  - "ICICLE Body of Knowledge — Design for Learning chapter contributions"
+  - "IEEE ICICLE Design for Learning SIG working papers"
+primary_topic: T03
+secondary_topics:
+  - T02
+  - T16
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Design for Learning SIG.

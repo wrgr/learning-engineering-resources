@@ -1,0 +1,18 @@
+resource_id: LE-AP-221
+content_type: AP
+status: seed
+title: "The Transfer of Scientific Principles Using Concrete and Idealized Simulations"
+authors: []
+year: 2004
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1401_4"
+tier: contemporary
+citation_count_approx: 445
+cross_seed_score: 3
+openalex_id: "W2027429247"
+significance: >
+  Published in Journal of the Learning Sciences; addresses idealization,
+  concreteness, construals. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

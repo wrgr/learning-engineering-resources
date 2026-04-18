@@ -1,0 +1,18 @@
+resource_id: LE-AP-258
+content_type: AP
+status: seed
+title: "New Conceptualizations of Practice: Common Principles in Three Paradigms Suggest New Concepts for Training"
+authors: []
+year: 1992
+venue: Psychological Science
+doi: "10.1111/j.1467-9280.1992.tb00029.x"
+tier: highly_cited
+citation_count_approx: 1570
+cross_seed_score: 3
+openalex_id: "W2134907585"
+significance: >
+  Published in Psychological Science; addresses generality, psychology, training
+  (meteorology). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

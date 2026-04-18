@@ -1,0 +1,20 @@
+resource_id: LE-AP-123
+content_type: AP
+title: "Human Problem Solving"
+authors:
+  - Allen Newell
+  - Herbert A. Simon
+year: 1972
+venue: Prentice-Hall
+tier: foundational
+citation_count_approx: 8000
+significance: >
+  Presented the information-processing theory of human problem solving —
+  problem spaces, search heuristics, and means-ends analysis — establishing
+  the cognitive architecture that underpins both human performance modeling
+  and the design of problem-based ITS. Foundational to ACT-R, production
+  systems, and all knowledge-tracing approaches in learning engineering.
+primary_topic: T04
+secondary_topics:
+  - T01
+  - T06

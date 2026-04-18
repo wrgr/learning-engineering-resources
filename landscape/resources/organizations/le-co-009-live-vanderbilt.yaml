@@ -1,0 +1,22 @@
+resource_id: LE-CO-009
+content_type: CO
+status: APPROVED
+name: "LIVE Learning Innovation Incubator — Vanderbilt Peabody"
+type: research_center
+affiliation_or_venue: "Vanderbilt University, Peabody College"
+url: "https://lab.vanderbilt.edu/live/"
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T15
+description: >
+  Peabody College incubator supporting interdisciplinary learning innovation at
+  Vanderbilt University. Brings together researchers, designers, and technologists
+  to develop and evaluate novel learning systems, with emphasis on evidence-based
+  design and emerging AI applications.
+
+  Vanderbilt LIVE teams participate in national AI-for-learning efforts, including
+  AI-ALOE partner work on intelligent text and workplace learning tools. The
+  incubator model — rapid prototyping with embedded evaluation — exemplifies the
+  learning engineering design cycle applied at a research university.
+notes: "AI-ALOE consortium partner; Peabody College, Vanderbilt."

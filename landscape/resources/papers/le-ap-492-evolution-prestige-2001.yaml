@@ -1,0 +1,18 @@
+resource_id: LE-AP-492
+content_type: AP
+status: seed
+title: "The evolution of prestige: freely conferred deference as a mechanism for enhancing the benefits of cultural transmission"
+authors: []
+year: 2001
+venue: Evolution and Human Behavior
+doi: "10.1016/s1090-5138(00)00071-4"
+tier: highly_cited
+citation_count_approx: 2451
+cross_seed_score: 2
+openalex_id: "W2091416687"
+significance: >
+  Published in Evolution and Human Behavior; addresses deference, prestige,
+  copying. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

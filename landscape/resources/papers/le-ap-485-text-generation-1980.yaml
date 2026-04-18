@@ -1,0 +1,18 @@
+resource_id: LE-AP-485
+content_type: AP
+status: seed
+title: "Text generation and recall by high-knowledge and low-knowledge individuals"
+authors: []
+year: 1980
+venue: Journal of Verbal Learning and Verbal Behavior
+doi: "10.1016/s0022-5371(80)90343-6"
+tier: contemporary
+citation_count_approx: 221
+cross_seed_score: 2
+openalex_id: "W2083772030"
+significance: >
+  Published in Journal of Verbal Learning and Verbal Behavior; addresses recall,
+  comprehension, text generation. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

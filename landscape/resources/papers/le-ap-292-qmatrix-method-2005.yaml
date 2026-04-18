@@ -1,0 +1,17 @@
+resource_id: LE-AP-292
+content_type: AP
+status: seed
+title: "The Q-matrix Method: Mining Student Response Data for Knowledge"
+authors: []
+year: 2005
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 153
+cross_seed_score: 2
+openalex_id: "W124870434"
+significance: >
+  Published in Unknown Venue; addresses computer science, scalability, quality
+  (philosophy). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,17 @@
+resource_id: LE-AP-717
+content_type: AP
+status: seed
+title: "“Tales from the Dark Side: Privacy Dark Strategies and Privacy Dark Patterns"
+authors: []
+year: 2016
+venue: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
+doi: "10.1515/popets-2016-0038"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T02
+  topics in learning engineering. Full bibliographic details in citation: Bösch,
+  Christoph, Benjamin Erb, Frank Kargl, Henning Kopp, and Stefan Pfattheicher.
+  “Tales from the Dark Side: Privacy D...
+primary_topic: T02

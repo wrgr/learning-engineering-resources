@@ -1,0 +1,26 @@
+resource_id: LE-AP-069
+content_type: AP
+title: "Scaffolding Deep Comprehension Strategies Through Point&Query, AutoSummarize, and iSTART"
+authors:
+  - Danielle S. McNamara
+  - Irwin B. Levinstein
+  - Chutima Boonthum
+year: 2004
+venue: Behavior Research Methods, Instruments, & Computers
+volume: "36"
+issue: "2"
+pages: "222–233"
+doi: "10.3758/BF03195567"
+tier: highly_cited
+citation_count_approx: 560
+significance: >
+  Described iSTART (Interactive Strategy Training for Active Reading and Thinking), an
+  automated web-based system that teaches reading comprehension strategies through
+  modeling, practice, and feedback. Demonstrated that automated delivery of
+  self-explanation training improved reading comprehension comparably to human-led
+  instruction. Established the paradigm for automated reading strategy tutoring that
+  influenced Writing Pal and subsequent literacy-domain LE systems.
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T07

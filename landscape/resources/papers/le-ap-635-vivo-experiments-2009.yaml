@@ -1,0 +1,20 @@
+resource_id: LE-AP-635
+content_type: AP
+status: seed
+title: "In Vivo Experiments on Whether Supporting Metacognition in Intelligent Tutoring Systems Yields Robust Learning"
+authors: []
+year: 2009
+venue: Unknown Venue
+doi: "10.4324/9780203876428.ch20"
+tier: contemporary
+citation_count_approx: 53
+cross_seed_score: 2
+openalex_id: "W2738883334"
+significance: >
+  Published in Unknown Venue; addresses metacognition, computer science,
+  intelligent tutoring system. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T01

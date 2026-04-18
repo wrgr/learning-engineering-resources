@@ -1,0 +1,20 @@
+resource_id: LE-AP-168
+content_type: AP
+status: seed
+title: "How people learn: Brain, mind, experience, and school."
+authors: []
+year: 1999
+venue: Unknown Venue
+tier: foundational
+citation_count_approx: 12902
+cross_seed_score: 4
+openalex_id: "W1761828760"
+significance: >
+  Published in Unknown Venue; addresses science learning, learning sciences,
+  mathematics education. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T14
+  - T01

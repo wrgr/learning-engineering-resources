@@ -1,0 +1,17 @@
+resource_id: LE-HT-009
+content_type: HT
+year: 1988
+era: founding
+event: "John Sweller publishes foundational paper on Cognitive Load Theory"
+significance: >
+  Cognitive Load Theory formalized the constraints working memory imposes on
+  learning and provided empirically grounded design rules for instructional
+  materials. One of the most-cited theoretical frameworks in instructional
+  design and learning engineering.
+actors:
+  - "John Sweller"
+references:
+  - "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257–285."
+primary_topic: T01
+secondary_topics:
+  - T12

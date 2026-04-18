@@ -1,0 +1,18 @@
+resource_id: LE-AP-369
+content_type: AP
+status: seed
+title: "Hypothesis behavior by humans during discrimination learning."
+authors: []
+year: 1966
+venue: Journal of Experimental Psychology
+doi: "10.1037/h0023006"
+tier: contemporary
+citation_count_approx: 394
+cross_seed_score: 2
+openalex_id: "W1969129312"
+significance: >
+  Published in Journal of Experimental Psychology; addresses psychology, animal
+  learning, discrimination learning. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-379
+content_type: AP
+status: seed
+title: "What Video Games Have to Teach Us about Learning and Literacy"
+authors: []
+year: 2004
+venue: Education + Training
+doi: "10.1108/et.2004.00446dae.002"
+tier: foundational
+citation_count_approx: 6695
+cross_seed_score: 2
+openalex_id: "W1980850924"
+significance: >
+  Published in Education + Training; addresses literacy, mathematics education,
+  pedagogy. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

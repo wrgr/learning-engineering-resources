@@ -1,0 +1,23 @@
+resource_id: LE-AP-124
+content_type: AP
+title: "Cognitive Load During Problem Solving: Effects on Learning"
+authors:
+  - John Sweller
+year: 1988
+venue: Cognitive Science
+volume: "12"
+issue: "2"
+pages: "257-285"
+doi: "10.1207/s15516709cog1202_4"
+tier: foundational
+citation_count_approx: 3800
+significance: >
+  Introduced Cognitive Load Theory, demonstrating that problem-solving search
+  imposes extraneous cognitive load that interferes with schema acquisition.
+  Proposed worked examples as a means of reducing extraneous load. The seminal
+  paper launching CLT, which became the dominant theoretical framework for
+  instructional design in LE systems.
+primary_topic: T04
+secondary_topics:
+  - T01
+  - T12

@@ -1,0 +1,18 @@
+resource_id: LE-AP-184
+content_type: AP
+status: seed
+title: "Design Experiments in Educational Research"
+authors: []
+year: 2003
+venue: Educational Researcher
+doi: "10.3102/0013189x032001009"
+tier: highly_cited
+citation_count_approx: 3440
+cross_seed_score: 4
+openalex_id: "W2131601454"
+significance: >
+  Published in Educational Researcher; addresses variety (cybernetics), computer
+  science, measure (data warehouse). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

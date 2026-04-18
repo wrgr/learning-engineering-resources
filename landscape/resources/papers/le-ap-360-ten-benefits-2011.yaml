@@ -1,0 +1,18 @@
+resource_id: LE-AP-360
+content_type: AP
+status: seed
+title: "Ten Benefits of Testing and Their Applications to Educational Practice"
+authors: []
+year: 2011
+venue: The Psychology of learning and motivation/The psychology of learning and motivation
+doi: "10.1016/b978-0-12-387691-1.00001-6"
+tier: contemporary
+citation_count_approx: 437
+cross_seed_score: 2
+openalex_id: "W192680528"
+significance: >
+  Published in The Psychology of learning and motivation/The psychology of
+  learning and motivation; addresses psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

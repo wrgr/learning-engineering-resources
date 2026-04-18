@@ -1,0 +1,20 @@
+resource_id: LE-AP-231
+content_type: AP
+status: seed
+title: "Measuring Knowledge to Optimize Cognitive Load Factors During Instruction."
+authors: []
+year: 2004
+venue: Journal of Educational Psychology
+doi: "10.1037/0022-0663.96.3.558"
+tier: contemporary
+citation_count_approx: 216
+cross_seed_score: 3
+openalex_id: "W2078428840"
+significance: >
+  Published in Journal of Educational Psychology; addresses psychology,
+  cognition, cognitive load. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T04
+secondary_topics:
+  - T01

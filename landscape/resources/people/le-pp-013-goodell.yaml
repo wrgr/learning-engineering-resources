@@ -1,0 +1,29 @@
+resource_id: LE-PP-013
+content_type: PP
+status: APPROVED
+name: Jim Goodell
+affiliation: "Quality Information Partners (QIP); IEEE ICICLE"
+years: "active 2010s–present"
+era: contemporary
+role: LE standards architect; Learning Engineering Toolkit co-editor; ICICLE community builder
+description: >
+  Co-founder of the Learning Engineering book (IEEE Press). Co-editor of the canonical
+  Learning Engineering Toolkit (Taylor & Francis, 2023). Co-chaired IEEE ICICLE, building
+  the professional infrastructure for learning engineering. Framed LE as a verb — a process
+  — rather than a noun. Drove development of xAPI standards and competency frameworks for
+  interoperable LE systems.
+key_contributions:
+  - Co-edited the Learning Engineering Toolkit (Taylor & Francis, 2023), the field's primary practitioner handbook
+  - Co-chaired IEEE ICICLE, building the professional infrastructure for learning engineering
+  - Developed the Learning Engineering Adoption Maturity Model with ICICLE colleagues
+  - Framed LE as a verb (a process) rather than a noun (a role or technology)
+  - Drove development of xAPI standards and competency frameworks for interoperable LE systems
+key_works:
+  - "Learning Engineering Toolkit (co-editor, Taylor & Francis, 2023)"
+  - "Generalizable Learning Engineering Adoption Maturity Model (with Blake-Plock et al., 2024/2025)"
+primary_topic: T16
+secondary_topics:
+  - T03
+  - T11
+url: https://qip.com
+notes: Core ICICLE community figure. Anchor for T16 (standards/professional).

@@ -1,0 +1,20 @@
+resource_id: LE-AP-465
+content_type: AP
+status: seed
+title: "Enacting Project-Based Science"
+authors: []
+year: 1997
+venue: The Elementary School Journal
+doi: "10.1086/461870"
+tier: contemporary
+citation_count_approx: 356
+cross_seed_score: 2
+openalex_id: "W2064874336"
+significance: >
+  Published in The Elementary School Journal; addresses science learning,
+  science education, engineering ethics. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T14
+secondary_topics:
+  - T01

@@ -1,0 +1,12 @@
+resource_id: LE-HT-008
+content_type: HT
+year: 1988
+era: founding
+event: "First International Conference on Intelligent Tutoring Systems held in Montreal"
+significance: >
+  Established the formal academic community for ITS research. The ITS conference
+  series (biennial) remains the premier venue for computational learning
+  engineering research to this day.
+primary_topic: T06
+secondary_topics:
+  - T00

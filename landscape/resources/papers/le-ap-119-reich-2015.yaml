@@ -1,0 +1,22 @@
+resource_id: LE-AP-119
+content_type: AP
+title: "Rebooting MOOC Research"
+authors:
+  - Justin Reich
+year: 2015
+venue: Science
+volume: "347"
+issue: "6217"
+pages: "34-35"
+doi: "10.1126/science.1261627"
+tier: highly_cited
+citation_count_approx: 520
+significance: >
+  Argued that MOOC research had focused on learner completion rates while ignoring the diverse
+  populations and purposes that drive enrollment, calling for richer outcome measures and more
+  rigorous designs. Catalyzed a methodological rethinking of LE evaluation for large-scale online
+  learning and influenced subsequent MOOC research standards.
+primary_topic: T10
+secondary_topics:
+  - T15
+  - T16

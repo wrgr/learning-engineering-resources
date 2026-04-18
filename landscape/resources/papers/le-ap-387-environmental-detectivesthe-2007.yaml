@@ -1,0 +1,18 @@
+resource_id: LE-AP-387
+content_type: AP
+status: seed
+title: "Environmental Detectives—the development of an augmented reality platform for environmental simulations"
+authors: []
+year: 2007
+venue: Educational Technology Research and Development
+doi: "10.1007/s11423-007-9037-6"
+tier: highly_cited
+citation_count_approx: 970
+cross_seed_score: 2
+openalex_id: "W1993806858"
+significance: >
+  Published in Educational Technology Research and Development; addresses
+  augmented reality, mobile device, computer science. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T08

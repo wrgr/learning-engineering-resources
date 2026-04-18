@@ -1,0 +1,20 @@
+resource_id: LE-AP-177
+content_type: AP
+status: seed
+title: "Why Some Material Is Difficult to Learn"
+authors: []
+year: 1994
+venue: Cognition and Instruction
+doi: "10.1207/s1532690xci1203_1"
+tier: highly_cited
+citation_count_approx: 1408
+cross_seed_score: 4
+openalex_id: "W2061177236"
+significance: >
+  Published in Cognition and Instruction; addresses interactivity, cognitive
+  load, schema (genetic algorithms). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T04
+secondary_topics:
+  - T01

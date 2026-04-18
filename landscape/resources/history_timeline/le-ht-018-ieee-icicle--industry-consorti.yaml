@@ -1,0 +1,13 @@
+resource_id: LE-HT-018
+content_type: HT
+year: 2017
+era: contemporary
+event: "IEEE ICICLE (Industry Consortium on Learning Engineering) chartered under IEEE LTSC"
+significance: >
+  First formal standards-aligned professional body specifically for learning
+  engineering. ICICLE produces maturity models, competency frameworks, annual
+  proceedings, and the Journal of Learning Engineering — anchoring the field's
+  professional infrastructure.
+primary_topic: T16
+secondary_topics:
+  - T00

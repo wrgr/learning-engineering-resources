@@ -1,0 +1,18 @@
+resource_id: LE-AP-595
+content_type: AP
+status: seed
+title: "Political conservatism as motivated social cognition."
+authors: []
+year: 2003
+venue: Psychological Bulletin
+doi: "10.1037/0033-2909.129.3.339"
+tier: highly_cited
+citation_count_approx: 4877
+cross_seed_score: 2
+openalex_id: "W2163984563"
+significance: >
+  Published in Psychological Bulletin; addresses conservatism, social
+  psychology, openness to experience. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

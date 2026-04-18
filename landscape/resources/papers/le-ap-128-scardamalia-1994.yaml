@@ -1,0 +1,24 @@
+resource_id: LE-AP-128
+content_type: AP
+title: "Computer Support for Knowledge-Building Communities"
+authors:
+  - Marlene Scardamalia
+  - Carl Bereiter
+year: 1994
+venue: Journal of the Learning Sciences
+volume: "3"
+issue: "3"
+pages: "265-283"
+doi: "10.1207/s15327809jls0303_3"
+tier: foundational
+citation_count_approx: 2100
+significance: >
+  Described CSILE (Computer-Supported Intentional Learning Environments), the
+  predecessor to Knowledge Forum, as a technology platform for collaborative
+  knowledge building. Established the theoretical and design framework for
+  knowledge-building communities that remains influential in LE design of
+  collaborative learning environments and community-of-inquiry platforms.
+primary_topic: T07
+secondary_topics:
+  - T01
+  - T03

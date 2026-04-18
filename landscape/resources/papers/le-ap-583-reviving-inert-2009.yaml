@@ -1,0 +1,18 @@
+resource_id: LE-AP-583
+content_type: AP
+status: seed
+title: "Reviving Inert Knowledge: Analogical Abstraction Supports Relational Retrieval of Past Events"
+authors: []
+year: 2009
+venue: Cognitive Science
+doi: "10.1111/j.1551-6709.2009.01070.x"
+tier: contemporary
+citation_count_approx: 216
+cross_seed_score: 2
+openalex_id: "W2153699412"
+significance: >
+  Published in Cognitive Science; addresses schema (genetic algorithms),
+  abstraction, computer science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T04

@@ -1,0 +1,18 @@
+resource_id: LE-AP-437
+content_type: AP
+status: seed
+title: "Chapter 5: Computers and Education: A Cultural Constructivist Perspective"
+authors: []
+year: 1992
+venue: Review of Research in Education
+doi: "10.3102/0091732x018001191"
+tier: contemporary
+citation_count_approx: 36
+cross_seed_score: 2
+openalex_id: "W2044058264"
+significance: >
+  Published in Review of Research in Education; addresses perspective
+  (graphical), constructivist teaching methods, sociology. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,30 @@
+resource_id: LE-PP-153
+content_type: PP
+status: APPROVED
+name: Bruce M. McLaren
+affiliation: "Carnegie Mellon University, HCII"
+years: "1960–present"
+era: contemporary
+role: ITS researcher; learning games and worked-example sequencing in mathematics
+description: >
+  CMU HCII research scientist who designed Decimal Point — a math game for decimal numbers
+  shown to outperform conventional tutoring software in controlled trials. Investigated
+  optimal sequencing of worked examples and tutored problem solving, and developed adaptive
+  worked-example and ITS hybrid approaches for fraction and decimal learning.
+key_contributions:
+  - Designed Decimal Point — a math game for decimal numbers shown to produce learning gains over conventional tutoring software
+  - Showed that computer games can promote mathematics learning more effectively than conventional ITS in controlled trials
+  - Investigated optimal sequencing of worked examples and tutored problem solving, challenging assumptions about when each helps
+  - Developed adaptive worked-example and ITS hybrid approaches for fraction and decimal learning
+  - Contributed foundational research on example-tracing tutors at CMU HCII alongside Vincent Aleven
+key_works:
+  - "A computer game promotes mathematics learning more than a conventional approach (IJAIED, 2017)"
+  - "Decimal Point: Designing and evaluating a math game for decimal numbers (ITS, 2014)"
+  - "Worked examples and intelligent tutoring in fraction learning (ITS, 2016)"
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T04
+  - T03
+url: https://www.hcii.cmu.edu/people/bruce-mclaren
+notes: Decimal Point math game. Worked example sequencing. CMU HCII.

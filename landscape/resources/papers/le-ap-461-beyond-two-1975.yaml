@@ -1,0 +1,18 @@
+resource_id: LE-AP-461
+content_type: AP
+status: seed
+title: "Beyond the two disciplines of scientific psychology."
+authors: []
+year: 1975
+venue: American Psychologist
+doi: "10.1037/h0076829"
+tier: highly_cited
+citation_count_approx: 2099
+cross_seed_score: 2
+openalex_id: "W2062363309"
+significance: >
+  Published in American Psychologist; addresses psychology, scientific
+  communication, applied psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

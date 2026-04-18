@@ -1,0 +1,20 @@
+resource_id: LE-AP-036
+content_type: AP
+title: "Multimedia Learning"
+authors:
+  - Richard E. Mayer
+year: 2001
+venue: "Cambridge University Press"
+tier: foundational
+citation_count_approx: 14000
+significance: >
+  Established the Cognitive Theory of Multimedia Learning (CTML), demonstrating through
+  dozens of experiments that learning is improved when words and pictures are presented
+  together (multimedia principle), spatially contiguous (contiguity principle), and free
+  of extraneous detail (coherence principle). CTML is the most empirically supported
+  framework for digital learning content design, directly informing LE standards for
+  instructional media production and slide/video/simulation design.
+primary_topic: T12
+secondary_topics:
+  - T04
+  - T06

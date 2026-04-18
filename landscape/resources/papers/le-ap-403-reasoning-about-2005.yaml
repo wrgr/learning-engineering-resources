@@ -1,0 +1,18 @@
+resource_id: LE-AP-403
+content_type: AP
+status: seed
+title: "Reasoning about dead agents reveals possible adaptive trends"
+authors: []
+year: 2005
+venue: Human Nature
+doi: "10.1007/s12110-005-1015-2"
+tier: contemporary
+citation_count_approx: 181
+cross_seed_score: 2
+openalex_id: "W2008995175"
+significance: >
+  Published in Human Nature; addresses prosocial behavior, psychology,
+  attribution. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-326
+content_type: AP
+status: seed
+title: "International Perspectives on the Design of Technology-supported Learning Environments"
+authors: []
+year: 2012
+venue: Unknown Venue
+doi: "10.4324/9780203053386"
+tier: contemporary
+citation_count_approx: 161
+cross_seed_score: 2
+openalex_id: "W1544204756"
+significance: >
+  Published in Unknown Venue; addresses engineering ethics, engineering,
+  psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-462
+content_type: AP
+status: seed
+title: "The Evolution of Cooperation"
+authors: []
+year: 1981
+venue: Science
+doi: "10.1126/science.7466396"
+tier: foundational
+citation_count_approx: 20184
+cross_seed_score: 2
+openalex_id: "W2062663664"
+significance: >
+  Published in Science; addresses reciprocity (cultural anthropology), dilemma,
+  territoriality. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

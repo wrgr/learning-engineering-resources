@@ -1,0 +1,20 @@
+resource_id: LE-AP-475
+content_type: AP
+status: seed
+title: "Promoting Transfer: Effects of Self-Explanation and Direct Instruction"
+authors: []
+year: 2006
+venue: Child Development
+doi: "10.1111/j.1467-8624.2006.00852.x"
+tier: contemporary
+citation_count_approx: 393
+cross_seed_score: 2
+openalex_id: "W2074801235"
+significance: >
+  Published in Child Development; addresses psychology, transfer of training,
+  equivalence (formal languages). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T10
+secondary_topics:
+  - T01

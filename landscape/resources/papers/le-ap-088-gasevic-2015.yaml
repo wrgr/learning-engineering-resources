@@ -1,0 +1,25 @@
+resource_id: LE-AP-088
+content_type: AP
+title: "Let's Not Forget: Learning Analytics Are about Learning"
+authors:
+  - Dragan Gašević
+  - Shane Dawson
+  - George Siemens
+year: 2015
+venue: TechTrends
+volume: "59"
+issue: "1"
+pages: "64–71"
+doi: "10.1007/s11528-014-0822-x"
+tier: highly_cited
+citation_count_approx: 1100
+significance: >
+  Argued that the field of learning analytics had drifted toward technical pattern
+  detection disconnected from learning theory, calling for learning theory to anchor
+  analytics design and interpretation. This intervention directly shaped how LE
+  practitioners approach analytics — as theory-driven instruments for improving
+  learning, not mere surveillance or performance metrics.
+primary_topic: T09
+secondary_topics:
+  - T10
+  - T15

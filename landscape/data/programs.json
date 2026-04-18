@@ -1,0 +1,188 @@
+[
+  {
+    "resource_id": "LE-PC-001",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "LENS @ JHU — Learning Engineering for Next-Generation Systems",
+    "url": "[internal]",
+    "primary_topic": "T13",
+    "secondary_topics": [
+      "T02",
+      "T10",
+      "T15"
+    ],
+    "description": "Concentration within JHU MEd in Learning Design & Technology. Targets practitioners in complex organizations: defense, healthcare, large-scale education. Grounded in human systems integration and learning engineering expertise. Capstone produces evidence dashboard, reproducible report, and governance/ethics plan. Unique JHU ecosystem: APL + Medicine + IEEE/ICICLE partnership.\n"
+  },
+  {
+    "resource_id": "LE-PC-002",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "Human-Computer Interaction Institute — CMU",
+    "url": "https://hcii.cmu.edu",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T01",
+      "T03"
+    ],
+    "description": "Home of Ken Koedinger and Cognitive Tutor / LearnLab. One of the premier academic homes for LE research globally. PhD and MS programs.\n"
+  },
+  {
+    "resource_id": "LE-PC-003",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "Learning Engineering Virtual Institute (LEVI)",
+    "url": "https://learning-engineering-virtual-institute.org/",
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T07",
+      "T06",
+      "T15"
+    ],
+    "description": "Funds multi-year cohorts building AI-driven, research-backed tools to improve outcomes in math (LEVI Math) and early literacy (LEVI Literacy), with rapid experimentation and rigorous evaluation. Not affiliated with the earlier iNACOL/Aurora convening sometimes also called LEVI.\n"
+  },
+  {
+    "resource_id": "LE-PC-004",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "Open Learning Initiative (OLI)",
+    "url": "https://oli.cmu.edu",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T03",
+      "T04"
+    ],
+    "description": "Flagship CMU learning-engineering R&D: course development, instructional training, consulting, and platforms (including Torus) for evidence-based, continuously improving digital learning tied to the Simon Initiative.\n"
+  },
+  {
+    "resource_id": "LE-PC-074",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "METALS / MS in Learning Engineering (Carnegie Mellon)",
+    "url": "https://metals.hcii.cmu.edu/",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T01",
+      "T03",
+      "T13"
+    ],
+    "description": "Graduate program (long known as METALS) training learning engineers in design, learning science, analytics, and intelligent learning systems; capstone with external clients. Public materials may use MS in Learning Engineering naming.\n"
+  },
+  {
+    "resource_id": "LE-PC-075",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "Learning Engineering Fellowship (CMU OLI)",
+    "url": "https://oli.cmu.edu/learning-engineering/training/",
+    "primary_topic": "T13",
+    "secondary_topics": [
+      "T03",
+      "T06"
+    ],
+    "description": "Nine-week intensive for educators and designers to apply learning science and data-informed methods to real educational products and contexts; part of OLI professional learning.\n"
+  },
+  {
+    "resource_id": "LE-PC-076",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "MIT Learning Engineering and Practice (LEAP) Group",
+    "url": "https://leapgroup.mit.edu/",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T08",
+      "T13"
+    ],
+    "description": "Research group applying systems and design methods to STEM and workforce learning; emphasizes AI, simulation, XR, haptics, MOOCs, and curriculum at scale.\n"
+  },
+  {
+    "resource_id": "LE-PC-077",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "LearnLab & LearnLab professional programs (CMU / network)",
+    "url": "https://learnlab.org/",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T04",
+      "T03"
+    ],
+    "description": "Research network and professional offerings (e.g., data analysis and modeling workshops, summer school) connecting cognitive science, LearnSphere/DataShop, and course improvement for formal and informal educators.\n"
+  },
+  {
+    "resource_id": "LE-PC-079",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "ASU Learning Engineering Institute & Graduate Certificate",
+    "url": "https://learningengineering.asu.edu/",
+    "primary_topic": "T13",
+    "secondary_topics": [
+      "T06",
+      "T15"
+    ],
+    "description": "Graduate certificate and research network fusing human systems engineering, design, and evidence to improve educational systems; connects students with Learning Engineering Research Network partners.\n"
+  },
+  {
+    "resource_id": "LE-PC-080",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "Indiana University Luddy — ISE & human-centered computing",
+    "url": "https://luddy.indiana.edu/",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T01",
+      "T07"
+    ],
+    "description": "Large informatics and engineering school where Intelligent Systems Engineering, human-centered computing, and data-driven design converge—common feeder disciplines for learning engineering careers even where the phrase is not a standalone degree title.\n"
+  },
+  {
+    "resource_id": "LE-PC-084",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "Penn Center for Learning Analytics (UPenn GSE)",
+    "url": "https://learninganalytics.upenn.edu/",
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T06",
+      "T07"
+    ],
+    "description": "GSE hub for learning analytics and AI in education research, including work that explicitly intersects learning engineering, educational data mining, and design of data-informed learning systems. Related graduate offerings include the online M.S. in Learning Analytics and Artificial Intelligence.\n"
+  },
+  {
+    "resource_id": "LE-PC-085",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "Stanford GSE — M.S. Learning Design and Technology (LDT)",
+    "url": "https://gse-ldt.stanford.edu/",
+    "primary_topic": "T03",
+    "secondary_topics": [
+      "T06",
+      "T01"
+    ],
+    "description": "Residential master’s focused on designing and evaluating technology-enhanced learning environments using learning sciences, design methods, and empirical study—one of the clearest Stanford pathways aligned with learning engineering practice (even when the degree title says LDT, not LE).\n"
+  },
+  {
+    "resource_id": "LE-PC-088",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "University of Washington — Learning sciences & design (CoE, HCDE, iSchool)",
+    "url": "https://education.uw.edu/academics/area/learning-sciences-human-development",
+    "primary_topic": "T01",
+    "secondary_topics": [
+      "T03",
+      "T06"
+    ],
+    "description": "Graduate hub in Learning Sciences & Human Development plus related units (e.g., Learning, Epistemology, and Design Lab in HCDE; learning sciences at the Information School) for research on learning, design, and technology in formal and informal settings—UW’s closest cluster to learning engineering even without a single LE degree name.\n"
+  },
+  {
+    "resource_id": "LE-PC-089",
+    "content_type": "PC",
+    "status": "APPROVED",
+    "name": "Purdue School of Engineering Education (ENE)",
+    "url": "https://engineering.purdue.edu/ENE/Academics/Graduate",
+    "primary_topic": "T13",
+    "secondary_topics": [
+      "T08",
+      "T03"
+    ],
+    "description": "First-in-the-nation school of engineering education; graduate offerings include the online M.S. in Engineering Education, Ph.D. in engineering education research, and the stackable Teaching and Learning in Engineering graduate certificate—explicit “learning engineering” language appears in certificate and course titles.\n"
+  }
+]

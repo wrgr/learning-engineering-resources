@@ -1,0 +1,30 @@
+resource_id: LE-PP-143
+content_type: PP
+status: APPROVED
+name: Carolyn Rosé
+affiliation: "Carnegie Mellon University, HCII / Language Technologies Institute"
+years: "1970–present"
+era: contemporary
+role: NLP researcher; pioneer of computational analysis of collaborative learning discourse
+description: >
+  CMU researcher who applied NLP to analyze and scaffold collaborative learning conversations
+  in real time. Developed the BASILICA architecture for conversational agents and the Bazaar
+  collaborative learning platform. Bridged computational linguistics and CSCL, founding a
+  distinct NLP-for-learning subfield.
+key_contributions:
+  - Applied NLP to analyze and scaffold collaborative learning conversations in real time
+  - Developed BASILICA architecture for conversational agents that support collaborative learning
+  - Showed that automated discourse analysis can detect productive vs. unproductive collaboration patterns
+  - Led development of the Bazaar collaborative learning platform within the OpenSimon toolkit
+  - Bridged computational linguistics and CSCL, founding a distinct NLP-for-learning subfield
+key_works:
+  - "Analyzing collaborative learning processes automatically (IJAIED, 2008)"
+  - "Supportive technologies for collaborative learning in ill-structured domains (CSCL, 2008)"
+  - "Linguistic correlates of conversational uptake in collaborative learning discussions (IJAIED, 2013)"
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T01
+  - T09
+url: https://www.cs.cmu.edu/~cprose/
+notes: NLP for collaborative learning. BASILICA and Bazaar.

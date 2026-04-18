@@ -1,0 +1,23 @@
+resource_id: LE-AP-022
+content_type: AP
+title: Effectiveness of computer-based instruction: An updated analysis
+authors:
+  - James A. Kulik
+  - Chen-Lin C. Kulik
+year: 1991
+venue: Computers in Human Behavior
+volume: "7"
+issue: "1–2"
+pages: "75–94"
+doi: "10.1016/0747-5632(91)90030-5"
+tier: highly_cited
+citation_count_approx: 3200
+significance: >
+  Meta-analysis across hundreds of studies demonstrating consistent positive effects of
+  computer-based instruction on learning outcomes. Established the evidentiary baseline
+  that technology-enhanced instruction works, and identified moderating variables (feedback
+  timing, pacing control) that predict effect size — directly informing LE evaluation design.
+primary_topic: T10
+secondary_topics:
+  - T15
+  - T06

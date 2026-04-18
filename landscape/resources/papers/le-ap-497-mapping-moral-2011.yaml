@@ -1,0 +1,18 @@
+resource_id: LE-AP-497
+content_type: AP
+status: seed
+title: "Mapping the moral domain."
+authors: []
+year: 2011
+venue: Journal of Personality and Social Psychology
+doi: "10.1037/a0021847"
+tier: highly_cited
+citation_count_approx: 2548
+cross_seed_score: 2
+openalex_id: "W2096910467"
+significance: >
+  Published in Journal of Personality and Social Psychology; addresses
+  psychology, social psychology, morality. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

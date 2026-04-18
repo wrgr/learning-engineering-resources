@@ -1,0 +1,17 @@
+resource_id: LE-AP-783
+content_type: AP
+status: seed
+title: ", and Robert L"
+authors: []
+year: 2005
+venue: Unknown Venue
+doi: "10.1080/00926230590475251"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Zucker, Kenneth J., and Robert L. Spitzer. “Was the Gender Identity Disorder
+  of Childhood Diagnosis Introduced into DSM-...
+primary_topic: T01

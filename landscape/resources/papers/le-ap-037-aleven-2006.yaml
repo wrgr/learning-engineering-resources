@@ -1,0 +1,25 @@
+resource_id: LE-AP-037
+content_type: AP
+title: "Toward Meta-cognitive Tutoring: A Model of Help Seeking with a Cognitive Tutor"
+authors:
+  - Vincent Aleven
+  - Bruce M. McLaren
+  - Jonathan Sewall
+  - Kenneth R. Koedinger
+year: 2006
+venue: International Journal of Artificial Intelligence in Education
+volume: "16"
+issue: "2"
+pages: "101–128"
+tier: highly_cited
+citation_count_approx: 780
+significance: >
+  Developed a model of strategic help-seeking and avoidance behavior in intelligent
+  tutoring systems, showing that students systematically misuse hints (gaming the system
+  or help-avoidance). Introduced the help-seeking tutor model and informed subsequent
+  ITS designs that explicitly scaffold metacognitive strategies. Foundational for LE
+  systems addressing self-regulated learning and learner behavior analytics.
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T09

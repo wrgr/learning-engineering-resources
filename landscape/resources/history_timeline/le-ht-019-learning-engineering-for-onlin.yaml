@@ -1,0 +1,18 @@
+resource_id: LE-HT-019
+content_type: HT
+year: 2019
+era: contemporary
+event: "Learning Engineering for Online Education published (Dede, Richards, Saxberg, eds.)"
+significance: >
+  First book-length treatment of learning engineering applied to digital and
+  distributed contexts. Saxberg's framing of LE as applying learning science 'at
+  massive scale' became widely adopted. Routledge.
+actors:
+  - "Chris Dede"
+  - "John Richards"
+  - "Bror Saxberg"
+references:
+  - "Dede, C., Richards, J., & Saxberg, B. (Eds.). (2019). Learning Engineering for Online Education. Routledge."
+primary_topic: T00
+secondary_topics:
+  - T03

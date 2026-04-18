@@ -1,0 +1,18 @@
+resource_id: LE-AP-272
+content_type: AP
+status: seed
+title: "What To Do About Educational Research’s Credibility Gaps?"
+authors: []
+year: 2000
+venue: Journal of Cognitive Education and Psychology
+doi: "10.1891/194589500787383571"
+tier: contemporary
+citation_count_approx: 66
+cross_seed_score: 3
+openalex_id: "W2315872199"
+significance: >
+  Published in Journal of Cognitive Education and Psychology; addresses
+  credibility, educational research, multidisciplinary approach. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

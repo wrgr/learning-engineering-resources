@@ -1,0 +1,23 @@
+resource_id: LE-AP-092
+content_type: AP
+title: "An effective metacognitive strategy: Learning by doing and explaining with a computer-based cognitive tutor"
+authors:
+  - Vincent Aleven
+  - Kenneth R. Koedinger
+year: 2002
+venue: Cognitive Science
+volume: "26"
+issue: "2"
+pages: "147-179"
+doi: "10.1207/s15516709cog2602_1"
+tier: highly_cited
+citation_count_approx: 1100
+significance: >
+  Showed that students using a cognitive tutor who were prompted to self-explain their steps
+  significantly outperformed students who practiced without explanation prompts. Established
+  self-explanation prompting as a core ITS design feature and provided strong evidence for
+  metacognitive scaffolding in adaptive learning systems.
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T01

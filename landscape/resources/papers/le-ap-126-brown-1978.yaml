@@ -1,0 +1,25 @@
+resource_id: LE-AP-126
+content_type: AP
+title: "Diagnostic Models for Procedural Bugs in Basic Mathematical Skills"
+authors:
+  - John Seely Brown
+  - Richard R. Burton
+year: 1978
+venue: Cognitive Science
+volume: "2"
+issue: "2"
+pages: "155-192"
+doi: "10.1207/s15516709cog0202_4"
+tier: foundational
+citation_count_approx: 1800
+significance: >
+  Introduced the "buggy algorithm" concept — systematic procedural errors
+  resulting from corrupted or missing knowledge — and demonstrated automated
+  diagnosis of student subtraction bugs. Foundational to the diagnostic
+  modeling tradition in ITS, knowledge component analysis, and LE approaches
+  to formative assessment that identify specific misconceptions rather than
+  just correct/incorrect performance.
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T09

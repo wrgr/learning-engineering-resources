@@ -1,0 +1,18 @@
+resource_id: LE-AP-582
+content_type: AP
+status: seed
+title: "Compassionate Liberals and Polite Conservatives: Associations of Agreeableness With Political Ideology and Moral Values"
+authors: []
+year: 2010
+venue: Personality and Social Psychology Bulletin
+doi: "10.1177/0146167210366854"
+tier: contemporary
+citation_count_approx: 360
+cross_seed_score: 2
+openalex_id: "W2153649987"
+significance: >
+  Published in Personality and Social Psychology Bulletin; addresses
+  agreeableness, social psychology, psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

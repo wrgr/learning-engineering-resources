@@ -1,0 +1,24 @@
+resource_id: LE-AP-063
+content_type: AP
+title: "Designing for Complementarity: Teacher and Student Needs for Orchestration Support in AI-Enhanced Classrooms"
+authors:
+  - Kenneth Holstein
+  - Jess Wortman Vaughan
+  - Hal Daumé III
+  - Miro Dudík
+  - Hanna Wallach
+year: 2020
+venue: "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems"
+doi: "10.1145/3313831.3376251"
+tier: contemporary
+citation_count_approx: 175
+significance: >
+  Extended co-design work on AI-augmented classrooms with a focus on student perspectives
+  alongside teacher needs. Found that students have distinct orchestration needs that
+  are often invisible to teachers, highlighting the importance of student-centered
+  design in AI-mediated classrooms. Informs LE system design for dual-stakeholder
+  (teacher and student) adaptive learning environments.
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T16

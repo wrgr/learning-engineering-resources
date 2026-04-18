@@ -1,0 +1,19 @@
+resource_id: LE-CE-008
+content_type: CE
+status: APPROVED
+name: "ACM CHI Conference on Human Factors in Computing Systems"
+type: conference
+affiliation_or_venue: "ACM SIGCHI"
+frequency: Annual
+url: "https://chi.acm.org/"
+primary_topic: T07
+secondary_topics:
+  - T02
+  - T09
+description: >
+  Premier venue for human-computer interaction research. Increasingly hosts
+  learning engineering research at the intersection of AI, educational
+  technology, and human-centered design — including significant work on
+  AI-augmented teachers, fairness in educational AI, and learning dashboard
+  design.
+notes: ""

@@ -1,0 +1,18 @@
+resource_id: LE-AP-291
+content_type: AP
+status: seed
+title: "Instrumentation and Innovation in Design Experiments: Taking the Turn Towards Efficiency"
+authors: []
+year: 2014
+venue: Unknown Venue
+doi: "10.4324/9781315759593-13"
+tier: contemporary
+citation_count_approx: 29
+cross_seed_score: 2
+openalex_id: "W122653949"
+significance: >
+  Published in Unknown Venue; addresses instrumentation (computer programming),
+  turn (biochemistry), engineering. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T02

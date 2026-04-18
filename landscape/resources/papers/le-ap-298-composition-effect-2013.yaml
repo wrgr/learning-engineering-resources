@@ -1,0 +1,17 @@
+resource_id: LE-AP-298
+content_type: AP
+status: seed
+title: "The Composition Effect in Symbolizing: The Role of Symbol Production vs. Text Comprehension"
+authors: []
+year: 2013
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 24
+cross_seed_score: 2
+openalex_id: "W144248838"
+significance: >
+  Published in Unknown Venue; addresses schematic, comprehension, competence
+  (human resources). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T04

@@ -1,0 +1,18 @@
+resource_id: LE-AP-457
+content_type: AP
+status: seed
+title: "Computers and Education: A Cultural Constructivist Perspective"
+authors: []
+year: 1992
+venue: Review of Research in Education
+doi: "10.2307/1167300"
+tier: contemporary
+citation_count_approx: 82
+cross_seed_score: 2
+openalex_id: "W2059633905"
+significance: >
+  Published in Review of Research in Education; addresses perspective
+  (graphical), constructivist teaching methods, mathematics education. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

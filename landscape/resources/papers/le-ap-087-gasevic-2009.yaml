@@ -1,0 +1,21 @@
+resource_id: LE-AP-087
+content_type: AP
+title: "Ontology-Based Learning Object Adaptation"
+authors:
+  - Dragan Gašević
+  - Dragan Djurić
+  - Vladan Devedžić
+year: 2009
+venue: "Springer"
+tier: contemporary
+citation_count_approx: 580
+significance: >
+  Presented a framework for ontology-driven adaptation of learning objects and
+  curriculum sequencing in adaptive educational systems. Established formal methods
+  for semantic interoperability between learning content repositories and adaptive
+  engines. Foundational for LE infrastructure design involving metadata standards,
+  content reuse, and cross-platform learning object portability.
+primary_topic: T09
+secondary_topics:
+  - T02
+  - T06

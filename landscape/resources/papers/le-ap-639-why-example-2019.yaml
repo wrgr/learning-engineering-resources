@@ -1,0 +1,17 @@
+resource_id: LE-AP-639
+content_type: AP
+status: seed
+title: "Why Example Fading Works: A Qualitative Analysis Using Cascade"
+authors: []
+year: 2019
+venue: Unknown Venue
+doi: "10.4324/9781315782379-88"
+tier: contemporary
+citation_count_approx: 7
+cross_seed_score: 2
+openalex_id: "W2767970495"
+significance: >
+  Published in Unknown Venue; addresses fading, cascade, computer science.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

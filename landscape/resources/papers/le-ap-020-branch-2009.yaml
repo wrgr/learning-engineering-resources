@@ -1,0 +1,18 @@
+resource_id: LE-AP-020
+content_type: AP
+title: "Instructional Design: The ADDIE Approach"
+authors:
+  - Robert Maribe Branch
+year: 2009
+venue: Springer
+tier: highly_cited
+citation_count_approx: 2200
+significance: >
+  The definitive modern treatment of the ADDIE (Analyze, Design, Develop, Implement,
+  Evaluate) model. ADDIE remains the most widely used instructional design framework
+  in professional practice. LE situates itself as an evidence-based, iterative evolution
+  of ADDIE — understanding this baseline is essential context for LEBOK KA4.
+primary_topic: T02
+secondary_topics:
+  - T12
+  - T15

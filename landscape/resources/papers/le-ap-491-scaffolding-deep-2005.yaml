@@ -1,0 +1,18 @@
+resource_id: LE-AP-491
+content_type: AP
+status: seed
+title: "Scaffolding Deep Comprehension Strategies Through Point&amp;Query, AutoTutor, and iSTART"
+authors: []
+year: 2005
+venue: Educational Psychologist
+doi: "10.1207/s15326985ep4004_4"
+tier: contemporary
+citation_count_approx: 279
+cross_seed_score: 2
+openalex_id: "W2091097903"
+significance: >
+  Published in Educational Psychologist; addresses metacognition, reading
+  comprehension, comprehension. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

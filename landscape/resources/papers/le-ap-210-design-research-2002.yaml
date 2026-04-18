@@ -1,0 +1,18 @@
+resource_id: LE-AP-210
+content_type: AP
+status: seed
+title: "Design Research: What We Learn When We Engage in Design"
+authors: []
+year: 2002
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1101_4"
+tier: highly_cited
+citation_count_approx: 965
+cross_seed_score: 3
+openalex_id: "W1985919181"
+significance: >
+  Published in Journal of the Learning Sciences; addresses research design,
+  computer science, management science. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,24 @@
+resource_id: LE-AP-091
+content_type: AP
+title: "SENS: Network analytics to combine social and cognitive perspectives of collaborative learning"
+authors:
+  - Dragan Gašević
+  - Srećko Joksimović
+  - Brian R. Eagan
+  - David Williamson Shaffer
+year: 2019
+venue: Computers in Human Behavior
+volume: "92"
+pages: "562-577"
+doi: "10.1016/j.chb.2018.07.003"
+tier: contemporary
+citation_count_approx: 210
+significance: >
+  Introduced SENS (Social-Epistemic Network Analytics), combining social network analysis
+  with epistemic frame analysis to characterize how learners co-construct knowledge in
+  collaborative settings. Advances LE analytics for group learning by bridging relational
+  and cognitive dimensions of collaboration.
+primary_topic: T09
+secondary_topics:
+  - T07
+  - T10

@@ -1,0 +1,23 @@
+resource_id: LE-AP-015
+content_type: AP
+title: "SOAR: An Architecture for General Intelligence"
+authors:
+  - John E. Laird
+  - Allen Newell
+  - Paul S. Rosenbloom
+year: 1987
+venue: Artificial Intelligence
+volume: "33"
+issue: "1"
+pages: "1–64"
+doi: "10.1016/0004-3702(87)90050-6"
+tier: foundational
+citation_count_approx: 5000
+significance: >
+  Established SOAR as a unified cognitive architecture. The chunking mechanism in SOAR
+  provides a computational model of procedural learning from practice — directly informing
+  how ITS should structure problem sequences and when to apply mastery criteria. Foundational
+  for cognitive modeling in learning engineering.
+primary_topic: T01
+secondary_topics:
+  - T06

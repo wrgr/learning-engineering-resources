@@ -1,0 +1,22 @@
+resource_id: LE-AP-058
+content_type: AP
+title: "Feedback During Web-Based Homework: The Role of Hints"
+authors:
+  - Bruce M. McLaren
+  - Kirsten R. Butcher
+year: 2012
+venue: "Proceedings of the 11th International Conference on Intelligent Tutoring Systems"
+pages: "162–172"
+doi: "10.1007/978-3-642-30950-2_21"
+tier: contemporary
+citation_count_approx: 95
+significance: >
+  Investigated how different types of hints (immediate, on-demand, explanatory) affect
+  learning during web-based homework in chemistry. Found that explanation-level hints
+  produced greater learning than answer-level hints for low-prior-knowledge students.
+  Informs LE system design decisions about hint architecture and the appropriate level
+  of scaffolding detail for different learner populations.
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T12

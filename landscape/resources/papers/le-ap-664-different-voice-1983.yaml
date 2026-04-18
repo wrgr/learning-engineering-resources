@@ -1,0 +1,18 @@
+resource_id: LE-AP-664
+content_type: AP
+status: seed
+title: "In a Different Voice: Psychological Theory and Women's Development."
+authors: []
+year: 1983
+venue: Contemporary Sociology A Journal of Reviews
+doi: "10.2307/2067520"
+tier: foundational
+citation_count_approx: 11189
+cross_seed_score: 2
+openalex_id: "W3169791305"
+significance: >
+  Published in Contemporary Sociology A Journal of Reviews; addresses
+  psychology, social psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

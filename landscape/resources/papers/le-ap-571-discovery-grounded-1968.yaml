@@ -1,0 +1,18 @@
+resource_id: LE-AP-571
+content_type: AP
+status: seed
+title: "The Discovery of Grounded Theory; Strategies for Qualitative Research"
+authors: []
+year: 1968
+venue: Nursing Research
+doi: "10.1097/00006199-196807000-00014"
+tier: foundational
+citation_count_approx: 38865
+cross_seed_score: 2
+openalex_id: "W2146691185"
+significance: >
+  Published in Nursing Research; addresses grounded theory, qualitative
+  research, psychology. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

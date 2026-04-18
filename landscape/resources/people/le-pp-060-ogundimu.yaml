@@ -1,0 +1,27 @@
+resource_id: LE-PP-060
+content_type: PP
+status: APPROVED
+name: Adesola Ogundimu
+affiliation: "Johns Hopkins University; IEEE ICICLE — Globalisation/Localisation SIG"
+years: "active 2010s–present"
+era: contemporary
+role: LE globalisation researcher; ICICLE Globalisation/Localisation SIG co-chair
+description: >
+  Co-chair of the Globalisation/Localisation SIG within IEEE ICICLE, adapting learning
+  engineering frameworks for international, multilingual, and culturally diverse contexts.
+  Johns Hopkins affiliation connects global health education and equity perspectives to
+  the LE field.
+key_contributions:
+  - Co-chairs the Globalisation/Localisation SIG (ICICLE), advancing culturally responsive adaptation of LE methods and standards
+  - Brings Johns Hopkins global health education expertise to bear on international LE equity challenges
+  - Contributes international and multilingual perspectives to ICICLE standards and BoK development
+  - Works to ensure LE frameworks are applicable outside Western, English-speaking educational contexts
+key_works:
+  - "ICICLE Body of Knowledge — Globalisation/Localisation chapter contributions"
+  - "IEEE ICICLE Globalisation/Localisation SIG working papers"
+primary_topic: T16
+secondary_topics:
+  - T14
+  - T00
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Globalisation/Localisation SIG. Equity/international perspective.

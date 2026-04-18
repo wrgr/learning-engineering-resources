@@ -1,0 +1,22 @@
+resource_id: LE-PP-065
+content_type: PP
+status: APPROVED
+name: Baptiste Moreau-Pernet
+affiliation: "IEEE ICICLE — Tools SIG"
+years: "active 2010s–present"
+era: contemporary
+role: LE tools practitioner; ICICLE Tools SIG co-chair
+description: >
+  Co-chair of the Tools SIG within IEEE ICICLE, evaluating and promoting tools that
+  support the learning engineering workflow from design through measurement.
+key_contributions:
+  - Co-chairs the Tools SIG (ICICLE), providing practitioner guidance on tool selection and integration for LE projects
+  - Contributes evaluation frameworks for LE tools covering authoring, analytics, assessment, and delivery platforms
+  - Helps curate the ICICLE BoK's tools inventory for the learning engineering community
+key_works:
+  - "IEEE ICICLE Tools SIG practitioner guidance and tool evaluations"
+primary_topic: T11
+secondary_topics:
+  - T16
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Tools SIG.

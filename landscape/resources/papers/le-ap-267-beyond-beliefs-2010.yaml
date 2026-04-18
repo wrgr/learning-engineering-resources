@@ -1,0 +1,18 @@
+resource_id: LE-AP-267
+content_type: AP
+status: seed
+title: "Beyond Beliefs: Religions Bind Individuals Into Moral Communities"
+authors: []
+year: 2010
+venue: Personality and Social Psychology Review
+doi: "10.1177/1088868309353415"
+tier: highly_cited
+citation_count_approx: 839
+cross_seed_score: 3
+openalex_id: "W2163138441"
+significance: >
+  Published in Personality and Social Psychology Review; addresses religiosity,
+  ingroups and outgroups, social psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-CE-004
+content_type: CE
+status: APPROVED
+name: "International Conference on Artificial Intelligence in Education (AIED)"
+type: conference
+affiliation_or_venue: "IAIED"
+frequency: Annual
+url: "https://aied.org"
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T04
+description: >
+  AI-driven educational systems: generative AI tutors, NLP for learning, deep
+  knowledge tracing, conversational agents, human-AI interaction in education.
+  Largest first-authorship from China — highlights globally distributed LE
+  research ecosystem.
+notes: ""

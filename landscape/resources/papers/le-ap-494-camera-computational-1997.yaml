@@ -1,0 +1,18 @@
+resource_id: LE-AP-494
+content_type: AP
+status: seed
+title: "CaMeRa: A Computational Model of Multiple Representations"
+authors: []
+year: 1997
+venue: Cognitive Science
+doi: "10.1207/s15516709cog2103_3"
+tier: contemporary
+citation_count_approx: 135
+cross_seed_score: 2
+openalex_id: "W2092696541"
+significance: >
+  Published in Cognitive Science; addresses computer science, computational
+  model, artificial intelligence. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

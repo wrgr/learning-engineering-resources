@@ -1,0 +1,18 @@
+resource_id: LE-AP-341
+content_type: AP
+status: seed
+title: "Hierarchy in the Forest"
+authors: []
+year: 2009
+venue: Harvard University Press eBooks
+doi: "10.2307/j.ctvjf9xr4"
+tier: highly_cited
+citation_count_approx: 876
+cross_seed_score: 2
+openalex_id: "W1606649754"
+significance: >
+  Published in Harvard University Press eBooks; addresses hierarchy, geography,
+  forestry. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

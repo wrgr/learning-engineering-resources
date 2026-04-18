@@ -1,0 +1,18 @@
+resource_id: LE-AP-204
+content_type: AP
+status: seed
+title: "The Advantage of Abstract Examples in Learning Math"
+authors: []
+year: 2008
+venue: Science
+doi: "10.1126/science.1154659"
+tier: contemporary
+citation_count_approx: 280
+cross_seed_score: 3
+openalex_id: "W1584714453"
+significance: >
+  Published in Science; addresses mathematics education, mathematics, computer
+  science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

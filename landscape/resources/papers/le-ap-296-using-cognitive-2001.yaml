@@ -1,0 +1,19 @@
+resource_id: LE-AP-296
+content_type: AP
+status: seed
+title: "Using Cognitive Models to Guide Instructional Design: The Case of Fraction Division"
+authors: []
+year: 2001
+venue: eScholarship (California Digital Library)
+tier: contemporary
+citation_count_approx: 16
+cross_seed_score: 2
+openalex_id: "W143118477"
+significance: >
+  Published in eScholarship (California Digital Library); addresses curriculum,
+  fraction (chemistry), cognition. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T01

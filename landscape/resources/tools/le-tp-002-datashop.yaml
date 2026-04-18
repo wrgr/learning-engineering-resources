@@ -1,0 +1,18 @@
+resource_id: LE-TP-002
+content_type: TP
+status: APPROVED
+name: "DataShop / LearnSphere"
+type: repository
+affiliation_or_venue: "Carnegie Mellon University / LearnLab"
+url: "https://pslcdatashop.web.cmu.edu"
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T05
+description: >
+  World's largest open repository of educational interaction data. Stores
+  student performance logs indexed by knowledge component models from hundreds
+  of studies. The canonical infrastructure for empirical validation of knowledge
+  representations and EDM research. If a KC model predicts student learning
+  curves, it can be validated here.
+notes: ""

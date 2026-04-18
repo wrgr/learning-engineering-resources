@@ -1,0 +1,18 @@
+resource_id: LE-AP-285
+content_type: AP
+status: seed
+title: "Situated Learning"
+authors: []
+year: 1991
+venue: Cambridge University Press eBooks
+doi: "10.1017/cbo9780511815355"
+tier: foundational
+citation_count_approx: 31448
+cross_seed_score: 3
+openalex_id: "W4245961435"
+significance: >
+  Published in Cambridge University Press eBooks; addresses situated, situated
+  learning, sociocultural evolution. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

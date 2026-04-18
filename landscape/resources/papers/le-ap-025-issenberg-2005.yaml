@@ -1,0 +1,26 @@
+resource_id: LE-AP-025
+content_type: AP
+title: "Features and uses of high-fidelity medical simulations that lead to effective learning: a BEME systematic review"
+authors:
+  - S. Barry Issenberg
+  - William C. McGaghie
+  - Emil R. Petrusa
+  - David Lee Gordon
+  - Ross J. Scalese
+year: 2005
+venue: Medical Teacher
+volume: "27"
+issue: "1"
+pages: "10–28"
+doi: "10.1080/01421590500046924"
+tier: highly_cited
+citation_count_approx: 3500
+significance: >
+  The most rigorous systematic review of simulation-based learning in healthcare, identifying
+  the features that make high-fidelity simulation effective (feedback, deliberate practice,
+  curriculum integration, outcome measurement). Directly applicable to LE evaluation of
+  immersive and simulation-based training systems.
+primary_topic: T10
+secondary_topics:
+  - T08
+  - T15

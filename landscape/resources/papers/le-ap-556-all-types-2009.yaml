@@ -1,0 +1,18 @@
+resource_id: LE-AP-556
+content_type: AP
+status: seed
+title: "Are All Types of Morality Compromised in Psychopathy?"
+authors: []
+year: 2009
+venue: Journal of Personality Disorders
+doi: "10.1521/pedi.2009.23.4.384"
+tier: contemporary
+citation_count_approx: 198
+cross_seed_score: 2
+openalex_id: "W2138644328"
+significance: >
+  Published in Journal of Personality Disorders; addresses psychopathy,
+  psychology, harm. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-152
+content_type: AP
+status: seed
+title: "Design Research: Theoretical and Methodological Issues"
+authors: []
+year: 2004
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1301_2"
+tier: highly_cited
+citation_count_approx: 1897
+cross_seed_score: 6
+openalex_id: "W2077111155"
+significance: >
+  Published in Journal of the Learning Sciences; addresses research design,
+  management science, computer science. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T06

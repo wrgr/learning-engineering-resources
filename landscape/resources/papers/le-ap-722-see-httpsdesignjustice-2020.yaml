@@ -1,0 +1,17 @@
+resource_id: LE-AP-722
+content_type: AP
+status: seed
+title: "See: https://designjustice"
+authors: []
+year: 2020
+venue: Unknown Venue
+doi: "10.7551/mitpress/12255.001.0001"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation: DESIGN
+  JUSTICE RESOURCES • The Design Justice Network offers resources and conducts
+  events for those practicing the desi...
+primary_topic: T01

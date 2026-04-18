@@ -1,0 +1,18 @@
+resource_id: LE-AP-363
+content_type: AP
+status: seed
+title: "Construct validity in psychological tests."
+authors: []
+year: 1955
+venue: Psychological Bulletin
+doi: "10.1037/h0040957"
+tier: foundational
+citation_count_approx: 10762
+cross_seed_score: 2
+openalex_id: "W1964218847"
+significance: >
+  Published in Psychological Bulletin; addresses construct validity, psychology,
+  construct (python library). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

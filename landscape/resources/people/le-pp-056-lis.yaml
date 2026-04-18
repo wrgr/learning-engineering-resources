@@ -1,0 +1,27 @@
+resource_id: LE-PP-056
+content_type: PP
+status: APPROVED
+name: Jodi Lis
+affiliation: "IEEE ICICLE — CCC SIG & Globalisation/Localisation SIG"
+years: "active 2010s–present"
+era: contemporary
+role: LE competency framework developer; ICICLE CCC and Globalisation/Localisation SIG co-chair
+description: >
+  Co-chair of the Competencies, Credentials and Curriculum (CCC) SIG and the
+  Globalisation/Localisation SIG within IEEE ICICLE. Develops practitioner competency
+  frameworks for the learning engineering profession and works to adapt LE methods for
+  international and multilingual contexts.
+key_contributions:
+  - Co-chairs the CCC SIG, developing competency and credential frameworks that define what a learning engineer must know and be able to do
+  - Co-chairs the Globalisation/Localisation SIG, advancing culturally responsive adaptation of LE curricula and frameworks
+  - Contributes to IEEE ICICLE Body of Knowledge chapters on competencies and professional development
+  - Bridges international LE communities with ICICLE's standards and certification efforts
+key_works:
+  - "ICICLE Body of Knowledge — CCC chapter contributions"
+  - "IEEE ICICLE Globalisation/Localisation SIG working papers"
+primary_topic: T16
+secondary_topics:
+  - T00
+  - T03
+url: https://icicle.ieee.org
+notes: ICICLE community lead. CCC and Globalisation SIGs.

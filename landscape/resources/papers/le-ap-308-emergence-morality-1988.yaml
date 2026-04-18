@@ -1,0 +1,18 @@
+resource_id: LE-AP-308
+content_type: AP
+status: seed
+title: "The Emergence of morality in young children"
+authors: []
+year: 1988
+venue: Choice Reviews Online
+doi: "10.5860/choice.26-1805"
+tier: highly_cited
+citation_count_approx: 949
+cross_seed_score: 2
+openalex_id: "W1492615455"
+significance: >
+  Published in Choice Reviews Online; addresses morality, literature,
+  philosophy. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

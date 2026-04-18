@@ -1,0 +1,19 @@
+resource_id: LE-HT-017
+content_type: HT
+year: 2016
+era: contemporary
+event: "MIT OEPI publishes 'Online Education: A Catalyst for Higher Education Reforms'"
+significance: >
+  Willcox, Sarma & Lippel re-injected 'learning engineer' into mainstream higher
+  education discourse at the moment MOOCs were serving 58M+ students globally.
+  Directly recommended universities create learning engineering roles. Catalyzed
+  institutional adoption of the LE framing.
+actors:
+  - "Karen Willcox"
+  - "Sanjay Sarma"
+  - "Philip Lippel"
+references:
+  - "Willcox, K., Sarma, S., & Lippel, P. (2016). Online Education: A Catalyst for Higher Education Reforms. MIT Online Education Policy Initiative."
+primary_topic: T00
+secondary_topics:
+  - T11

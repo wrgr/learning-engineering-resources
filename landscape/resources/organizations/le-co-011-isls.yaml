@@ -1,0 +1,23 @@
+resource_id: LE-CO-011
+content_type: CO
+status: APPROVED
+name: "International Society for the Learning Sciences (ISLS)"
+type: academic_society
+affiliation_or_venue: "International"
+url: "https://www.isls.org"
+primary_topic: T01
+secondary_topics:
+  - T03
+  - T15
+description: >
+  Academic society organizing the annual ICLS (International Conference of the
+  Learning Sciences) and CSCL (Computer-Supported Collaborative Learning)
+  conferences. Bridges learning science theory and instructional design practice.
+  Emphasizes socio-cultural and humanistic perspectives alongside computational
+  approaches.
+
+  Essential for grounding algorithmic LE systems in rich theories of how people
+  learn in social and institutional contexts. ISLS conferences are where
+  learning scientists and education researchers most directly interrogate the
+  assumptions embedded in AI and data-driven learning systems.
+notes: "Organizes ICLS and CSCL conferences; the primary society for learning sciences as an academic discipline."

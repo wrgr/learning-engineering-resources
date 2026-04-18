@@ -1,0 +1,18 @@
+resource_id: LE-AP-432
+content_type: AP
+status: seed
+title: "If Design-Based Research is the Answer, What is the Question? A Commentary on Collins, Joseph, and Bielaczyc; diSessa and Cobb; and Fishman, Marx, Blumenthal, Krajcik, and Soloway in the JLS Special Issue on Design-Based Research"
+authors: []
+year: 2004
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1301_5"
+tier: contemporary
+citation_count_approx: 150
+cross_seed_score: 2
+openalex_id: "W2041136294"
+significance: >
+  Published in Journal of the Learning Sciences; addresses cobb, philosophy,
+  epistemology. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

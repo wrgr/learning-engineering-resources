@@ -1,0 +1,18 @@
+resource_id: LE-AP-423
+content_type: AP
+status: seed
+title: "Role of examples in how students learn to categorize statistics word problems."
+authors: []
+year: 1996
+venue: Journal of Educational Psychology
+doi: "10.1037/0022-0663.88.1.144"
+tier: contemporary
+citation_count_approx: 295
+cross_seed_score: 2
+openalex_id: "W2026190834"
+significance: >
+  Published in Journal of Educational Psychology; addresses psychology,
+  categorization, word (group theory). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

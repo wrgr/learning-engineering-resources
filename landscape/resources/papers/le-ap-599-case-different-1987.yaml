@@ -1,0 +1,18 @@
+resource_id: LE-AP-599
+content_type: AP
+status: seed
+title: "A case of different intentions concerning intentionality"
+authors: []
+year: 1987
+venue: Behavioral and Brain Sciences
+doi: "10.1017/s0140525x00055631"
+tier: contemporary
+citation_count_approx: 2
+cross_seed_score: 2
+openalex_id: "W2167359396"
+significance: >
+  Published in Behavioral and Brain Sciences; addresses intentionality, content
+  (measure theory), psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

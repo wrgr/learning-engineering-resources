@@ -1,0 +1,18 @@
+resource_id: LE-AP-551
+content_type: AP
+status: seed
+title: "Fluency Training in the ESL Classroom: An Experimental Study of Fluency Development and Proceduralization"
+authors: []
+year: 2011
+venue: Language Learning
+doi: "10.1111/j.1467-9922.2010.00620.x"
+tier: contemporary
+citation_count_approx: 248
+cross_seed_score: 2
+openalex_id: "W2136576070"
+significance: >
+  Published in Language Learning; addresses fluency, psychology, repetition
+  (rhetorical device). Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

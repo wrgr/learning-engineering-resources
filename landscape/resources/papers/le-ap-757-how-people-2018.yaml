@@ -1,0 +1,19 @@
+resource_id: LE-AP-757
+content_type: AP
+status: seed
+title: "How People Learn II: Learners, Contexts, and Cultures"
+authors: []
+year: 2018
+venue: Unknown Venue
+doi: "10.17226/24783"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T14
+  topics in learning engineering. Full bibliographic details in citation:
+  National Academies of Sciences, Engineering, and Medicine. How People Learn
+  II: Learners, Contexts, and Cultures. Nation...
+primary_topic: T14
+secondary_topics:
+  - T01

@@ -1,0 +1,20 @@
+resource_id: LE-AP-686
+content_type: AP
+status: seed
+title: "Educational Data Mining and Learning Analytics"
+authors: []
+year: 2016
+venue: Unknown Venue
+doi: "10.1002/9781118956588.ch16"
+tier: contemporary
+citation_count_approx: 163
+cross_seed_score: 2
+openalex_id: "W4252599113"
+significance: >
+  Published in Unknown Venue; addresses learning analytics, inference, computer
+  science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T09
+secondary_topics:
+  - T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-555
+content_type: AP
+status: seed
+title: "Advancing Development of Intercultural Competence through Supporting Predictions in Narrative Video"
+authors: []
+year: 2009
+venue: International Journal of Artificial Intelligence in Education
+doi: "10.3233/irg-2009-19(3)02"
+tier: contemporary
+citation_count_approx: 34
+cross_seed_score: 2
+openalex_id: "W2138491732"
+significance: >
+  Published in International Journal of Artificial Intelligence in Education;
+  addresses intercultural competence, competence (human resources), narrative.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

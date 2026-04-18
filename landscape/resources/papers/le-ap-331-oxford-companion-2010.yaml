@@ -1,0 +1,18 @@
+resource_id: LE-AP-331
+content_type: AP
+status: seed
+title: "The Oxford Companion to Consciousness"
+authors: []
+year: 2010
+venue: Reference Reviews
+doi: "10.1108/09504121011057635"
+tier: contemporary
+citation_count_approx: 67
+cross_seed_score: 2
+openalex_id: "W1564750093"
+significance: >
+  Published in Reference Reviews; addresses consciousness, psychology,
+  psychoanalysis. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-507
+content_type: AP
+status: seed
+title: "The essential elements of team‐based learning"
+authors: []
+year: 2008
+venue: New Directions for Teaching and Learning
+doi: "10.1002/tl.330"
+tier: contemporary
+citation_count_approx: 779
+cross_seed_score: 2
+openalex_id: "W2111850066"
+significance: >
+  Published in New Directions for Teaching and Learning; addresses team-based
+  learning, mathematics education, knowledge management. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

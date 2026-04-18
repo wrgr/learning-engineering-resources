@@ -1,0 +1,17 @@
+resource_id: LE-AP-701
+content_type: AP
+status: seed
+title: "Culture wars: the struggle to define America"
+authors: []
+year: 1992
+venue: Choice Reviews Online
+doi: "10.5860/choice.29-5401"
+tier: highly_cited
+citation_count_approx: 1573
+cross_seed_score: 2
+openalex_id: "W618248419"
+significance: >
+  Published in Choice Reviews Online; addresses history, political science.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,30 @@
+resource_id: LE-PP-014
+content_type: PP
+status: APPROVED
+name: John Behrens
+affiliation: "Pearson; formerly ETS and CRESST"
+years: "active 1990s–present"
+era: contemporary
+role: Psychometrician; evidence-centered design architect; learning analytics at scale
+description: >
+  Evidence-centered design (ECD) researcher and practitioner. Led large-scale assessment
+  innovation at ETS and Pearson. Co-developed the ECD framework with Robert Mislevy,
+  bridging psychometrics and instructional design. Active ICICLE contributor who defined
+  the role of the learning engineer in assessment and credentialing contexts. Applies
+  Bayesian inference networks to adaptive assessment design.
+key_contributions:
+  - Co-developed Evidence-Centered Design (ECD) with Robert Mislevy — the principled framework for aligning assessment tasks, evidence, and competency claims
+  - Applied ECD and learning analytics to large-scale credentialing and certification programs at ETS and Pearson
+  - Integrated Bayesian inference networks into adaptive assessment design
+  - Active IEEE ICICLE contributor; defined the learning engineer role within assessment and psychometric contexts
+  - Bridged academic psychometrics and LE practice across K-12, higher education, and professional credentialing
+key_works:
+  - "Mislevy, Almond & Behrens — Evidence-Centered Design for Knowledge Representation in Assessment (2002)"
+  - "Behrens et al. — The SR/VE Framework (in Educational Measurement, 4th ed., 2011)"
+  - "DiCerbo & Behrens — Implications of the Digital Ocean on Current and Future Assessment (2012)"
+primary_topic: T04
+secondary_topics:
+  - T02
+  - T15
+url: https://www.linkedin.com/in/johnbehrens/
+notes: Assessment/psychometrics anchor for LEBOK. Key for T04 and T15 (evidence standards).

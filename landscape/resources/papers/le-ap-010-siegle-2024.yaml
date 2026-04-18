@@ -1,0 +1,23 @@
+resource_id: LE-AP-010
+content_type: AP
+title: The voice quality of pedagogical agent impacts learning and agent perceptions
+authors:
+  - Ryan F. Siegle
+  - Scotty D. Craig
+year: 2024
+venue: Journal of Computer Assisted Learning
+volume: "40"
+issue: "5"
+pages: "2278–2291"
+doi: "10.1111/jcal.12997"
+tier: contemporary
+citation_count_approx: 20
+significance: >
+  Empirically demonstrated that voice quality (prosody, naturalness, warmth) of a
+  pedagogical agent significantly affects both learning outcomes and learner perception.
+  Illustrates the meticulous human factors engineering required in modern AI-driven
+  learning systems.
+primary_topic: T08
+secondary_topics:
+  - T02
+  - T07

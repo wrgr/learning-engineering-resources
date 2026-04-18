@@ -1,0 +1,23 @@
+resource_id: LE-AP-011
+content_type: AP
+title: "Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge"
+authors:
+  - Albert T. Corbett
+  - John R. Anderson
+year: 1994
+venue: User Modeling and User-Adapted Interaction
+volume: "4"
+issue: "4"
+pages: "253–278"
+doi: "10.1007/BF01099821"
+tier: foundational
+citation_count_approx: 2500
+significance: >
+  The formal presentation of Bayesian Knowledge Tracing (BKT) — the probabilistic model
+  for tracking per-student, per-skill mastery. BKT remains the most widely deployed
+  student model in production ITS and learning platforms worldwide, forming the core of
+  personalization algorithms.
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T01

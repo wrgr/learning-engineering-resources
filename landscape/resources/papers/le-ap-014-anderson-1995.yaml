@@ -1,0 +1,25 @@
+resource_id: LE-AP-014
+content_type: AP
+title: "Cognitive Tutors: Lessons Learned"
+authors:
+  - John R. Anderson
+  - Albert T. Corbett
+  - Kenneth R. Koedinger
+  - Ray Pelletier
+year: 1995
+venue: Journal of the Learning Sciences
+volume: "4"
+issue: "2"
+pages: "167–207"
+doi: "10.1207/s15327809jls0402_2"
+tier: foundational
+citation_count_approx: 1800
+significance: >
+  The comprehensive review of a decade of Cognitive Tutor development and deployment.
+  Documented both the theory (ACT-R production rules, BKT) and the empirical learning
+  gains in real schools. One of the most influential synthesis papers in ITS, directly
+  shaping subsequent adaptive learning system design.
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T15

@@ -1,0 +1,18 @@
+resource_id: LE-AP-460
+content_type: AP
+status: seed
+title: "The neurobiology of adaptive learning in reading: A contrast of different training conditions"
+authors: []
+year: 2004
+venue: Cognitive Affective & Behavioral Neuroscience
+doi: "10.3758/cabn.4.1.67"
+tier: contemporary
+citation_count_approx: 136
+cross_seed_score: 2
+openalex_id: "W2061421613"
+significance: >
+  Published in Cognitive Affective & Behavioral Neuroscience; addresses
+  facilitation, contrast (vision), psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

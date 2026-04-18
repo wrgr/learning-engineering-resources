@@ -1,0 +1,17 @@
+resource_id: LE-AP-290
+content_type: AP
+status: seed
+title: "Data Mining Algorithms to Classify Students"
+authors: []
+year: 2008
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 344
+cross_seed_score: 2
+openalex_id: "W109702185"
+significance: >
+  Published in Unknown Venue; addresses computer science, data pre-processing,
+  preprocessor. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

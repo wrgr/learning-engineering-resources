@@ -1,0 +1,30 @@
+resource_id: LE-PP-148
+content_type: PP
+status: APPROVED
+name: Arthur C. Graesser
+affiliation: "University of Memphis, Institute for Intelligent Systems"
+years: "1948–present"
+era: contemporary
+role: AutoTutor developer; discourse analysis and comprehension in ITS
+description: >
+  Created AutoTutor — an ITS that conducts Socratic dialogue in natural language, covering
+  physics, computer literacy, and other domains. Showed AutoTutor produces deep learning
+  gains comparable to expert human tutors. Co-developed Coh-Metrix for analyzing textual
+  cohesion and readability. Co-founded the discourse-based approach to ITS.
+key_contributions:
+  - Created AutoTutor — an ITS that conducts socratic dialogue in natural language, covering physics, computer literacy, and other domains
+  - Showed that AutoTutor produces deep learning gains comparable to expert human tutors in one-on-one sessions
+  - Developed Coh-Metrix — a computational tool for analyzing the cohesion and readability of educational texts
+  - Demonstrated that conversational tutoring dialogues support deeper conceptual understanding than worked-example ITS
+  - Co-founded the discourse-based approach to ITS that influenced conversational AI tutors
+key_works:
+  - "AutoTutor: A tutor with dialogue in natural language (IEEE TLT, 2005)"
+  - "Intelligent tutoring systems: past, present, and future (Handbook of Research on Educ Comms and Tech, 2004)"
+  - "Collaborative tutoring discourse (Cognition and Instruction, 1995)"
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T01
+  - T09
+url: https://www.memphis.edu/iis/people/graesser.php
+notes: AutoTutor and Coh-Metrix. Natural language dialogue in ITS.

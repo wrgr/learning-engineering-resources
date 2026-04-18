@@ -1,0 +1,18 @@
+resource_id: LE-AP-182
+content_type: AP
+status: seed
+title: "Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge"
+authors: []
+year: 2006
+venue: Teachers College Record The Voice of Scholarship in Education
+doi: "10.1111/j.1467-9620.2006.00684.x"
+tier: foundational
+citation_count_approx: 9420
+cross_seed_score: 4
+openalex_id: "W2123184471"
+significance: >
+  Published in Teachers College Record The Voice of Scholarship in Education;
+  addresses situated, pedagogy, technology integration. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T10

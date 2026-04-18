@@ -1,0 +1,21 @@
+resource_id: LE-AP-189
+content_type: AP
+status: seed
+title: "Seven Affordances of Computer-Supported Collaborative Learning: How to Support Collaborative Learning? How Can Technologies Help?"
+authors: []
+year: 2016
+venue: Educational Psychologist
+doi: "10.1080/00461520.2016.1158654"
+tier: contemporary
+citation_count_approx: 441
+cross_seed_score: 4
+openalex_id: "W2339337351"
+significance: >
+  Published in Educational Psychologist; addresses collaborative learning,
+  affordance, computer-supported collaborative learning. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T07
+secondary_topics:
+  - T14
+  - T16

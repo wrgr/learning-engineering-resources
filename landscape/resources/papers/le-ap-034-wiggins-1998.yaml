@@ -1,0 +1,21 @@
+resource_id: LE-AP-034
+content_type: AP
+title: "Understanding by Design"
+authors:
+  - Grant Wiggins
+  - Jay McTighe
+year: 1998
+venue: "Association for Supervision and Curriculum Development"
+tier: foundational
+citation_count_approx: 11000
+significance: >
+  Introduced the "backward design" instructional design framework: identify desired
+  learning outcomes first, then determine acceptable evidence of achievement, then
+  plan instruction. UbD's emphasis on enduring understandings, essential questions,
+  and transfer goals aligns directly with LE competency-based design and assessment
+  architecture. One of the most widely adopted curriculum design frameworks in K–12
+  and higher education, widely referenced in LE instructional design courses.
+primary_topic: T12
+secondary_topics:
+  - T02
+  - T10

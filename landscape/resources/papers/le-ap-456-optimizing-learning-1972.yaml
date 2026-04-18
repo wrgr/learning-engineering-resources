@@ -1,0 +1,18 @@
+resource_id: LE-AP-456
+content_type: AP
+status: seed
+title: "Optimizing the learning of a second-language vocabulary."
+authors: []
+year: 1972
+venue: Journal of Experimental Psychology
+doi: "10.1037/h0033475"
+tier: contemporary
+citation_count_approx: 207
+cross_seed_score: 2
+openalex_id: "W2058166043"
+significance: >
+  Published in Journal of Experimental Psychology; addresses psychology,
+  vocabulary, linguistics. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

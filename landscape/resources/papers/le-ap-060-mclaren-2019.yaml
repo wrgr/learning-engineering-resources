@@ -1,0 +1,23 @@
+resource_id: LE-AP-060
+content_type: AP
+title: "Digital game versus textbook practice leads to better retention and transfer of mathematics in 3rd grade"
+authors:
+  - Bruce M. McLaren
+  - Deanne M. Adams
+  - Richard E. Mayer
+year: 2015
+venue: Computers in Human Behavior
+volume: "66"
+pages: "72-79"
+doi: "10.1016/j.chb.2016.09.027"
+tier: contemporary
+citation_count_approx: 260
+significance: >
+  Reported a controlled study showing digital game practice produced stronger long-term
+  retention and transfer of fractions knowledge than textbook practice in young learners.
+  Addresses key threats to validity (engagement confounds) and provides LE practitioners
+  with evidence for age-appropriate game-based learning design.
+primary_topic: T06
+secondary_topics:
+  - T08
+  - T10

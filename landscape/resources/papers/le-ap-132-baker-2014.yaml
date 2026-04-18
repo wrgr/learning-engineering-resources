@@ -1,0 +1,21 @@
+resource_id: LE-AP-132
+content_type: AP
+title: "Educational Data Mining and Learning Analytics"
+authors:
+  - Ryan S. J. d. Baker
+  - Paul Salvador Inventado
+year: 2014
+venue: "Learning Analytics: From Research to Practice"
+pages: "61-75"
+doi: "10.1007/978-1-4614-3305-7_4"
+tier: highly_cited
+citation_count_approx: 780
+significance: >
+  Distinguished educational data mining (hypothesis-driven, automated pattern discovery)
+  from learning analytics (stakeholder-focused, interpretive) and surveyed methods used
+  in each. The standard reference for understanding EDM/LA as distinct but complementary
+  LE research traditions.
+primary_topic: T09
+secondary_topics:
+  - T10
+  - T15

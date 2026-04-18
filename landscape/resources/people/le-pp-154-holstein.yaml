@@ -1,0 +1,30 @@
+resource_id: LE-PP-154
+content_type: PP
+status: APPROVED
+name: Ken Holstein
+affiliation: "Carnegie Mellon University, HCII"
+years: "1988–present"
+era: contemporary
+role: Human-AI complementarity researcher; equity in adaptive learning; real-time teacher orchestration
+description: >
+  CMU HCII researcher who developed real-time multimodal classroom systems giving teachers
+  live student-struggle signals during ITS sessions. Demonstrated that teacher-AI
+  complementarity — not replacement — yields better outcomes. Published the most-cited
+  work on equity and fairness in AI-driven educational systems.
+key_contributions:
+  - Developed real-time multimodal classroom systems giving teachers live student-struggle signals during ITS sessions
+  - Demonstrated that teacher-AI complementarity — not replacement — yields better outcomes than either alone
+  - Co-designed orchestration tools with teachers through participatory design, making teacher agency central to LE systems
+  - Published the most-cited work on equity and fairness in AI-driven educational systems
+  - Leads the new wave of learning engineering that foregrounds human oversight, equity, and participatory design
+key_works:
+  - "Improving at-scale ITS: how multimodal AI enables real-time precision (CHI, 2018)"
+  - "Co-designing a real-time classroom orchestration tool to support teacher-AI complementarity (CHI, 2019)"
+  - "Equity and AI in education: will AIEd amplify or alleviate inequities? (chapter, 2021)"
+primary_topic: T04
+secondary_topics:
+  - T07
+  - T14
+  - T02
+url: https://www.hcii.cmu.edu/people/ken-holstein
+notes: Teacher-AI complementarity. Equity in AIEd. Real-time orchestration.

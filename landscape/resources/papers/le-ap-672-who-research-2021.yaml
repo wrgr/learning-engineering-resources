@@ -1,0 +1,18 @@
+resource_id: LE-AP-672
+content_type: AP
+status: seed
+title: "‘Who Is My Research for?’: Researcher Perceptions of the Research–Practice Relationship"
+authors: []
+year: 2021
+venue: Applied Linguistics
+doi: "10.1093/applin/amab079"
+tier: contemporary
+citation_count_approx: 52
+cross_seed_score: 2
+openalex_id: "W4205528446"
+significance: >
+  Published in Applied Linguistics; addresses perception, psychology, applied
+  linguistics. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

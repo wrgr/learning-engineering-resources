@@ -1,0 +1,20 @@
+resource_id: LE-AP-317
+content_type: AP
+status: seed
+title: "Predicting Students Drop Out: A Case Study"
+authors: []
+year: 2009
+venue: TU/e Research Portal
+tier: contemporary
+citation_count_approx: 354
+cross_seed_score: 2
+openalex_id: "W1523179845"
+significance: >
+  Published in TU/e Research Portal; addresses drop out, computer science,
+  educational data mining. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T09
+secondary_topics:
+  - T11
+  - T14

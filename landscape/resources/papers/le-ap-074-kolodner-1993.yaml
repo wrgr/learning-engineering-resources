@@ -1,0 +1,20 @@
+resource_id: LE-AP-074
+content_type: AP
+title: "Case-Based Reasoning"
+authors:
+  - Janet L. Kolodner
+year: 1993
+venue: "Morgan Kaufmann"
+tier: foundational
+citation_count_approx: 4200
+significance: >
+  The foundational text on case-based reasoning (CBR) as a problem-solving paradigm,
+  in which new problems are solved by adapting solutions from similar past cases.
+  Kolodner's CBR framework directly informed the architecture of case-based learning
+  environments such as Environments for Reasoning Under Uncertainty (ERU) and
+  Learning by Design, and continues to underpin LE systems using scenario-based
+  and example-based instructional approaches.
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T03

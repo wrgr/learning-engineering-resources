@@ -1,0 +1,28 @@
+resource_id: LE-PP-081
+content_type: PP
+status: APPROVED
+name: John Liu
+affiliation: "MIT, Mechanical Engineering / MIT LEAP Group"
+years: "active 2000s–present"
+era: contemporary
+role: Engineering education researcher; MIT LEAP Group PI; data-driven curriculum researcher
+description: >
+  Principal investigator of the MIT Learning Engineering and Practice (LEAP) group,
+  applying data science and LE methods to improve engineering curricula at scale. Develops
+  methods for identifying prerequisite gaps and mapping concept dependencies from student
+  performance data in large MIT engineering courses.
+key_contributions:
+  - Directs the MIT LEAP group, applying data science and LE methods to engineering curriculum improvement at scale
+  - Developed methods for identifying prerequisite gaps and concept dependency structures from student performance data
+  - Applied LE approaches to large MIT engineering courses with thousands of students
+  - Bridges MIT's engineering culture with learning sciences and the IEEE ICICLE community
+  - Contributes data-driven curriculum redesign frameworks applicable across STEM higher education
+key_works:
+  - "Liu et al. — Toward a data-driven approach to course sequencing in engineering education (ASEE, 2020)"
+  - "MIT LEAP Group technical reports on concept prerequisites and curriculum analytics"
+primary_topic: T02
+secondary_topics:
+  - T04
+  - T11
+url: https://leap.mit.edu/
+notes: MIT LEAP Group PI. Engineering education LE practitioner.

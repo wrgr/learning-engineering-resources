@@ -1,0 +1,26 @@
+resource_id: LE-AP-041
+content_type: AP
+title: "Confusion Can Be Beneficial for Learning"
+authors:
+  - Sidney D'Mello
+  - Blair Lehman
+  - Reinhard Pekrun
+  - Arthur Graesser
+year: 2014
+venue: Learning and Instruction
+volume: "29"
+pages: "153–170"
+doi: "10.1016/j.learninstruc.2012.05.003"
+tier: highly_cited
+citation_count_approx: 900
+significance: >
+  Demonstrated that moderate cognitive confusion during learning, when resolved through
+  effortful processing, leads to deeper understanding and better transfer compared to
+  fluent but shallow learning. Provided empirical grounding for LE design patterns that
+  intentionally introduce cognitive disequilibrium — contradictions, anomalies, and
+  impasse-driven problem solving — as productive instructional strategies rather than
+  failure states to be avoided.
+primary_topic: T04
+secondary_topics:
+  - T01
+  - T06

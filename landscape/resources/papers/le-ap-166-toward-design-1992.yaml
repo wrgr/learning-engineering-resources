@@ -1,0 +1,20 @@
+resource_id: LE-AP-166
+content_type: AP
+status: seed
+title: "Toward a Design Science of Education"
+authors: []
+year: 1992
+venue: Unknown Venue
+doi: "10.1007/978-3-642-77750-9_2"
+tier: highly_cited
+citation_count_approx: 1079
+cross_seed_score: 4
+openalex_id: "W1670942626"
+significance: >
+  Published in Unknown Venue; addresses construct (python library), engineering
+  ethics, curriculum. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T01

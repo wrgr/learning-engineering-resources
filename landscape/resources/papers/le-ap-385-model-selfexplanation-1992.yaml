@@ -1,0 +1,18 @@
+resource_id: LE-AP-385
+content_type: AP
+status: seed
+title: "A Model of the Self-Explanation Effect"
+authors: []
+year: 1992
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls0201_1"
+tier: contemporary
+citation_count_approx: 299
+cross_seed_score: 2
+openalex_id: "W1991284076"
+significance: >
+  Published in Journal of the Learning Sciences; addresses lisp, computer
+  science, coding (social sciences). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

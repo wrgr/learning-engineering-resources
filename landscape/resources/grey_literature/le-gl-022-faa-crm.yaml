@@ -1,0 +1,20 @@
+resource_id: LE-GL-022
+content_type: GL
+status: APPROVED
+title: "AC 120-51E: Crew Resource Management Training"
+authors:
+  - "Federal Aviation Administration"
+year: 2004
+publisher: "FAA"
+url: "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22879"
+type: standard
+primary_topic: T10
+secondary_topics:
+  - T02
+  - T16
+significance: >
+  FAA advisory circular defining standards for Crew Resource Management (CRM) training programs.
+  CRM training is one of the most rigorous evidence-based training programs ever deployed at
+  scale — a landmark case study in applying learning science to high-stakes professional training.
+  Directly relevant to LE practitioners in aviation, healthcare simulation, and safety-critical
+  training domains.

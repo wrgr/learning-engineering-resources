@@ -1,0 +1,29 @@
+resource_id: LE-PP-152
+content_type: PP
+status: APPROVED
+name: Justin Reich
+affiliation: MIT Teaching Systems Lab
+years: "1977–present"
+era: contemporary
+role: EdTech researcher; critic of MOOC hype; evidence-based online learning advocate
+description: >
+  Authored Failure to Disrupt (MIT Press, 2020) — the most rigorous critique of MOOC
+  platforms' failure to improve educational equity despite scale. Demonstrated empirically
+  that MOOCs disproportionately benefit already-advantaged learners. Leads MIT Teaching
+  Systems Lab, studying how teacher learning and practice change with educational technology.
+key_contributions:
+  - Authored Failure to Disrupt — the most rigorous critique of MOOC platforms' failure to improve educational equity despite scale
+  - Demonstrated empirically that MOOCs disproportionately benefit already-advantaged learners, contradicting disruption narratives
+  - Documented the MOOC pivot: how platforms shifted from open access toward credentialed professional learning
+  - Advocated for evidence-based online learning design grounded in learning sciences rather than technology novelty
+  - Leads MIT Teaching Systems Lab, studying how teacher learning and practice change with educational technology
+key_works:
+  - "Failure to Disrupt: Why Technology Alone Can't Transform Education (MIT Press, 2020)"
+  - "Rebooting MOOC research (Science, 2015)"
+  - "The MOOC pivot (Science, 2019)"
+primary_topic: T10
+secondary_topics:
+  - T15
+  - T11
+url: https://teachingsystemslab.org/
+notes: Failure to Disrupt. MOOC evidence. MIT Teaching Systems Lab.

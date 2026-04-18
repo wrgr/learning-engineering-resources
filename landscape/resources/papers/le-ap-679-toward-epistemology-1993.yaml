@@ -1,0 +1,18 @@
+resource_id: LE-AP-679
+content_type: AP
+status: seed
+title: "Toward an Epistemology of Physics"
+authors: []
+year: 1993
+venue: Cognition and Instruction
+doi: "10.1080/07370008.1985.9649008"
+tier: highly_cited
+citation_count_approx: 1296
+cross_seed_score: 2
+openalex_id: "W4239613992"
+significance: >
+  Published in Cognition and Instruction; addresses epistemology, mathematics
+  education, science education. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

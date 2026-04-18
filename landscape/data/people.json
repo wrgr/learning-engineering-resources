@@ -1,121 +1,18 @@
 [
   {
-    "resource_id": "LE-LS-PP-001",
+    "resource_id": "LE-PP-010",
     "content_type": "PP",
-    "name": "Herbert A. Simon",
-    "affiliation": "Carnegie Mellon University",
-    "years": "1916–2001",
-    "era": "founding",
-    "role": "Originator of the 'learning engineer' concept; Nobel laureate",
-    "key_contributions": [
-      "Coined the term 'learning engineer' in the 1967 Educational Record essay 'The Job of a College President'",
-      "Argued that teaching is a domain of expertise separate from subject-matter knowledge, requiring its own scientific grounding",
-      "Championed evidence-based instruction over discovery learning when discovery imposes excessive cognitive cost",
-      "Co-developed ACT cognitive theory with John Anderson, providing the scientific basis for cognitive tutors",
-      "His broader work on bounded rationality, problem solving, and cognitive simulation laid the intellectual foundation for ITS"
-    ],
-    "key_works": [
-      "The Job of a College President (Educational Record, 1967)",
-      "Human Problem Solving (with Newell, 1972)",
-      "The Sciences of the Artificial (1969)"
-    ],
-    "primary_topic": "T00",
-    "secondary_topics": [
-      "T01",
-      "T06"
-    ],
-    "url": "https://www.cmu.edu/simon/"
-  },
-  {
-    "resource_id": "LE-LS-PP-002",
-    "content_type": "PP",
-    "name": "John R. Anderson",
-    "affiliation": "Carnegie Mellon University, HCII",
-    "years": "1947–present",
-    "era": "founding",
-    "role": "Cognitive architect; creator of ACT-R; pioneer of Cognitive Tutors",
-    "key_contributions": [
-      "Developed ACT-R (Adaptive Control of Thought–Rational), the dominant cognitive architecture for modeling skill learning",
-      "Created the LISP Tutor (1983), the first empirically validated intelligent tutoring system",
-      "Co-developed Cognitive Tutor for algebra, deployed in 2,600+ schools to half a million students",
-      "Established the production-rule encoding methodology that allows cognitive models to drive adaptive tutoring",
-      "Demonstrated that ITS-based tutoring produces learning gains equivalent to 1-to-1 human tutoring (the '2-sigma effect')"
-    ],
-    "key_works": [
-      "Rules of the Mind (1993)",
-      "Cognitive Tutors: Lessons Learned (Journal of the Learning Sciences, 1995)",
-      "Abstract planning and perceptual chunks (with Koedinger, Cognitive Science, 1990)"
-    ],
-    "primary_topic": "T06",
-    "secondary_topics": [
-      "T01",
-      "T00"
-    ],
-    "url": "https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/anderson-john.html"
-  },
-  {
-    "resource_id": "LE-LS-PP-003",
-    "content_type": "PP",
-    "name": "Allen Newell",
-    "affiliation": "Carnegie Mellon University",
-    "years": "1927–1992",
-    "era": "founding",
-    "role": "Co-creator of SOAR cognitive architecture; pioneer of AI and cognitive science",
-    "key_contributions": [
-      "Co-developed SOAR, a unified theory of cognition modeling problem solving and learning via chunking",
-      "With Herbert Simon, created Logic Theorist (1956) and General Problem Solver (1957), the first AI programs",
-      "Established the 'physical symbol system hypothesis' — the theoretical bridge between computation and cognition",
-      "SOAR's chunking mechanism provided an explicit computational theory of procedural skill acquisition"
-    ],
-    "key_works": [
-      "Human Problem Solving (with Simon, 1972)",
-      "SOAR: An Architecture for General Intelligence (with Laird & Rosenbloom, AI 1987)",
-      "Unified Theories of Cognition (1990)"
-    ],
-    "primary_topic": "T01",
-    "secondary_topics": [
-      "T06"
-    ],
-    "url": "https://en.wikipedia.org/wiki/Allen_Newell"
-  },
-  {
-    "resource_id": "LE-LS-PP-004",
-    "content_type": "PP",
-    "name": "John Sweller",
-    "affiliation": "University of New South Wales",
-    "years": "1946–present",
-    "era": "founding",
-    "role": "Developer of Cognitive Load Theory",
-    "key_contributions": [
-      "Formalized Cognitive Load Theory (CLT) distinguishing intrinsic, extraneous, and germane load",
-      "Established that working memory constraints must drive instructional design decisions",
-      "CLT-derived principles (worked examples effect, split-attention effect, redundancy effect) are now standard LE design rules",
-      "Provided the scientific justification for explicit, structured instruction over unguided discovery"
-    ],
-    "key_works": [
-      "Cognitive load during problem solving: Effects on learning (Cognitive Science, 1988)",
-      "Cognitive Load Theory, Learning Difficulty, and Instructional Design (Learning and Instruction, 1994)",
-      "Cognitive Load Theory (with Ayres & Kalyuga, Springer 2011)"
-    ],
-    "primary_topic": "T01",
-    "secondary_topics": [
-      "T12",
-      "T03"
-    ],
-    "url": "https://www.unsw.edu.au/staff/john-sweller"
-  },
-  {
-    "resource_id": "LE-LS-PP-005",
-    "content_type": "PP",
+    "status": "APPROVED",
     "name": "Kenneth R. Koedinger",
     "affiliation": "Carnegie Mellon University, HCII",
     "years": "active 1988–present",
     "era": "expansion",
     "role": "Co-originator of learning engineering as a named field; Cognitive Tutor pioneer; DataShop founder",
+    "description": "Co-originator of learning engineering as a field. Creator of Cognitive Tutor and Carnegie Learning, deployed in thousands of schools. Founded DataShop (now LearnSphere), the world's largest open repository of educational log data. Coined the modern formulation of learning engineering as an applied, data-driven discipline. Past chair of the EDM community and co-director of LearnLab at CMU.\n",
     "key_contributions": [
       "Led development of Cognitive Tutors deployed in thousands of schools; co-founded Carnegie Learning Inc.",
       "Founded Pittsburgh Science of Learning Center (PSLC) and DataShop — world's largest open repository of educational log data",
-      "Developed 'Assistment' methodology linking formative assessment to intelligent hints",
+      "Developed the Assistment methodology linking formative assessment to intelligent hints",
       "Coined the term 'learning engineering' in its modern formulation as an applied, data-driven discipline",
       "Directed LearnLab, CMU's in-vivo experimentation platform for LE research"
     ],
@@ -130,66 +27,19 @@
       "T01",
       "T04"
     ],
-    "url": "https://pact.cs.cmu.edu/koedinger.html"
+    "url": "https://pact.cs.cmu.edu/koedinger.html",
+    "notes": "Must-include anchor person. Seed multiple topics."
   },
   {
-    "resource_id": "LE-LS-PP-006",
+    "resource_id": "LE-PP-011",
     "content_type": "PP",
-    "name": "Ann L. Brown",
-    "affiliation": "University of California, Berkeley",
-    "years": "1943–1999",
-    "era": "expansion",
-    "role": "Pioneer of design-based research and collaborative learning",
-    "key_contributions": [
-      "Established design-based research (DBR) as the canonical methodology for testing learning interventions in authentic contexts",
-      "'Design Experiments' (JLS, 1992) is the most-cited paper in the field of learning sciences (2,800+ citations)",
-      "Co-created 'Fostering Communities of Learners' — an influential model for scaffolded, inquiry-based learning environments",
-      "Demonstrated how engineered classroom environments could simultaneously serve as research sites"
-    ],
-    "key_works": [
-      "Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings (JLS, 1992)",
-      "Guided Discovery in a Community of Learners (1994)"
-    ],
-    "primary_topic": "T17",
-    "secondary_topics": [
-      "T03",
-      "T01"
-    ],
-    "url": "https://en.wikipedia.org/wiki/Ann_Brown_(psychologist)"
-  },
-  {
-    "resource_id": "LE-LS-PP-007",
-    "content_type": "PP",
-    "name": "Marlene Scardamalia",
-    "affiliation": "University of Toronto, OISE",
-    "years": "active 1970s–present",
-    "era": "expansion",
-    "role": "Pioneer of knowledge-building communities and CSCL",
-    "key_contributions": [
-      "Co-developed Knowledge Forum (formerly CSILE), the first networked collaborative knowledge-building environment",
-      "With Bereiter, theorized the distinction between 'knowledge telling' and 'knowledge transforming' in writing and learning",
-      "Established socio-cognitive frameworks for collaborative platforms that emphasize collective knowledge construction",
-      "Knowledge-building pedagogy influenced the design of modern collaborative learning systems and MOOCs"
-    ],
-    "key_works": [
-      "Computer Support for Knowledge-Building Communities (with Bereiter, JLS, 1994)",
-      "Knowledge Building: Theory, Pedagogy, and Technology (2006)"
-    ],
-    "primary_topic": "T06",
-    "secondary_topics": [
-      "T01",
-      "T17"
-    ],
-    "url": "https://ikit.org/marlene-scardamalia/"
-  },
-  {
-    "resource_id": "LE-LS-PP-008",
-    "content_type": "PP",
+    "status": "APPROVED",
     "name": "Ryan S. J. d. Baker",
     "affiliation": "University of Pennsylvania, Graduate School of Education",
     "years": "active 2000s–present",
     "era": "contemporary",
     "role": "EDM pioneer; director of Penn Center for Learning Analytics; high-leverage LE policy voice",
+    "description": "Pioneer in educational data mining and learning analytics. Directs the Penn Center for Learning Analytics. Co-author of High-Leverage Opportunities for Learning Engineering (2021), the field's most-cited contemporary policy document. Editor of the Journal of Educational Data Mining. Known for work on detecting gaming-the-system and off-task behavior in ITS.\n",
     "key_contributions": [
       "Codified Educational Data Mining as a formal discipline with Baker & Yacef 2009 (1,500+ citations)",
       "Developed methods for detecting gaming-the-system, off-task behavior, and boredom in ITS telemetry",
@@ -208,16 +58,19 @@
       "T07",
       "T17"
     ],
-    "url": "https://www.upenn.edu/faculty/ryan-baker"
+    "url": "https://learninganalytics.upenn.edu",
+    "notes": "Key policy hub figure. Seed T04 and T17."
   },
   {
-    "resource_id": "LE-LS-PP-009",
+    "resource_id": "LE-PP-012",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Bror Saxberg",
     "affiliation": "Formerly Chan Zuckerberg Initiative / Kaplan; founder of LearningForge",
     "years": "active 2000s–present",
     "era": "contemporary",
     "role": "Learning science practitioner; LE thought leader; industry-academic bridge",
+    "description": "Early champion of learning engineering as a named field. Wrote influential 2016 Atlantic piece calling for a new 'learning engineer' profession. Led learning science at Chan Zuckerberg Initiative, framing LE as 'precision education' analogous to precision medicine. Previously Chief Learning Officer at Kaplan. ICICLE advisory board member and co-editor of Learning Engineering for Online Education (Routledge, 2019).\n",
     "key_contributions": [
       "Led learning science at Chan Zuckerberg Initiative, framing LE as 'precision education' analogous to precision medicine",
       "As Chief Learning Officer at Kaplan, pioneered application of cognitive science to large-scale commercial education",
@@ -235,69 +88,19 @@
       "T03",
       "T07"
     ],
-    "url": "https://learningforge.com"
+    "url": "https://learningforge.com",
+    "notes": "Practitioner anchor. Key for T00 field-definition topics."
   },
   {
-    "resource_id": "LE-LS-PP-010",
+    "resource_id": "LE-PP-013",
     "content_type": "PP",
-    "name": "Chris Dede",
-    "affiliation": "Harvard Graduate School of Education",
-    "years": "active 1980s–present",
-    "era": "contemporary",
-    "role": "Pioneer of immersive learning environments; hybrid education researcher",
-    "key_contributions": [
-      "Established engineering parameters for immersive virtual environments (VR/AR) in STEM education",
-      "'Immersive interfaces for engagement and learning' (Science, 2009) has thousands of citations",
-      "Co-edited Learning Engineering for Online Education (Routledge, 2019) — the field's first major book",
-      "Post-pandemic work framed hybrid learning not as emergency measure but as optimal future state",
-      "Directed multiple NSF and DoE grants applying LE principles to K-12 and higher education"
-    ],
-    "key_works": [
-      "Immersive interfaces for engagement and learning (Science, 2009)",
-      "Learning Engineering for Online Education (co-editor, Routledge, 2019)",
-      "Scaling Up Success: Lessons from Technology-Based Educational Improvement (2006)"
-    ],
-    "primary_topic": "T08",
-    "secondary_topics": [
-      "T00",
-      "T07"
-    ],
-    "url": "https://www.gse.harvard.edu/directory/faculty/chris-dede"
-  },
-  {
-    "resource_id": "LE-LS-PP-011",
-    "content_type": "PP",
-    "name": "Neil Heffernan",
-    "affiliation": "Worcester Polytechnic Institute",
-    "years": "active 2000s–present",
-    "era": "contemporary",
-    "role": "Creator of ASSISTments; large-scale LE experimentation pioneer",
-    "key_contributions": [
-      "Created ASSISTments, a free ITS serving 500,000+ students and 20,000+ teachers",
-      "Built E-TRIALS within ASSISTments — a platform for running randomized controlled experiments at scale in real classrooms",
-      "Pioneered the 'crowdsourcing' of instructional design through teacher-authored hint sequences in ASSISTments",
-      "Demonstrated that formative assessment integrated with intelligent hints improves learning outcomes significantly",
-      "Research spans educational data mining, learning analytics, and optimization of student learning pathways"
-    ],
-    "key_works": [
-      "ASSISTments: Helping Mentor Students While Providing Teachers Feedback (ITS, 2004)",
-      "The Doer Effect: Replicating Findings that Doing Causes Learning (EDM, 2018)"
-    ],
-    "primary_topic": "T06",
-    "secondary_topics": [
-      "T04",
-      "T17"
-    ],
-    "url": "https://www.wpi.edu/people/faculty/nth"
-  },
-  {
-    "resource_id": "LE-LS-PP-012",
-    "content_type": "PP",
+    "status": "APPROVED",
     "name": "Jim Goodell",
     "affiliation": "Quality Information Partners (QIP); IEEE ICICLE",
     "years": "active 2010s–present",
     "era": "contemporary",
     "role": "LE standards architect; Learning Engineering Toolkit co-editor; ICICLE community builder",
+    "description": "Co-founder of the Learning Engineering book (IEEE Press). Co-editor of the canonical Learning Engineering Toolkit (Taylor & Francis, 2023). Co-chaired IEEE ICICLE, building the professional infrastructure for learning engineering. Framed LE as a verb — a process — rather than a noun. Drove development of xAPI standards and competency frameworks for interoperable LE systems.\n",
     "key_contributions": [
       "Co-edited the Learning Engineering Toolkit (Taylor & Francis, 2023), the field's primary practitioner handbook",
       "Co-chaired IEEE ICICLE, building the professional infrastructure for learning engineering",
@@ -314,16 +117,855 @@
       "T03",
       "T11"
     ],
-    "url": "https://qip.com"
+    "url": "https://qip.com",
+    "notes": "Core ICICLE community figure. Anchor for T16 (standards/professional)."
   },
   {
-    "resource_id": "LE-LS-PP-013",
+    "resource_id": "LE-PP-014",
     "content_type": "PP",
+    "status": "APPROVED",
+    "name": "John Behrens",
+    "affiliation": "Pearson; formerly ETS and CRESST",
+    "years": "active 1990s–present",
+    "era": "contemporary",
+    "role": "Psychometrician; evidence-centered design architect; learning analytics at scale",
+    "description": "Evidence-centered design (ECD) researcher and practitioner. Led large-scale assessment innovation at ETS and Pearson. Co-developed the ECD framework with Robert Mislevy, bridging psychometrics and instructional design. Active ICICLE contributor who defined the role of the learning engineer in assessment and credentialing contexts. Applies Bayesian inference networks to adaptive assessment design.\n",
+    "key_contributions": [
+      "Co-developed Evidence-Centered Design (ECD) with Robert Mislevy — the principled framework for aligning assessment tasks, evidence, and competency claims",
+      "Applied ECD and learning analytics to large-scale credentialing and certification programs at ETS and Pearson",
+      "Integrated Bayesian inference networks into adaptive assessment design",
+      "Active IEEE ICICLE contributor; defined the learning engineer role within assessment and psychometric contexts",
+      "Bridged academic psychometrics and LE practice across K-12, higher education, and professional credentialing"
+    ],
+    "key_works": [
+      "Mislevy, Almond & Behrens — Evidence-Centered Design for Knowledge Representation in Assessment (2002)",
+      "Behrens et al. — The SR/VE Framework (in Educational Measurement, 4th ed., 2011)",
+      "DiCerbo & Behrens — Implications of the Digital Ocean on Current and Future Assessment (2012)"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T02",
+      "T15"
+    ],
+    "url": "https://www.linkedin.com/in/johnbehrens/",
+    "notes": "Assessment/psychometrics anchor for LEBOK. Key for T04 and T15 (evidence standards)."
+  },
+  {
+    "resource_id": "LE-PP-056",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Jodi Lis",
+    "affiliation": "IEEE ICICLE — CCC SIG & Globalisation/Localisation SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "LE competency framework developer; ICICLE CCC and Globalisation/Localisation SIG co-chair",
+    "description": "Co-chair of the Competencies, Credentials and Curriculum (CCC) SIG and the Globalisation/Localisation SIG within IEEE ICICLE. Develops practitioner competency frameworks for the learning engineering profession and works to adapt LE methods for international and multilingual contexts.\n",
+    "key_contributions": [
+      "Co-chairs the CCC SIG, developing competency and credential frameworks that define what a learning engineer must know and be able to do",
+      "Co-chairs the Globalisation/Localisation SIG, advancing culturally responsive adaptation of LE curricula and frameworks",
+      "Contributes to IEEE ICICLE Body of Knowledge chapters on competencies and professional development",
+      "Bridges international LE communities with ICICLE's standards and certification efforts"
+    ],
+    "key_works": [
+      "ICICLE Body of Knowledge — CCC chapter contributions",
+      "IEEE ICICLE Globalisation/Localisation SIG working papers"
+    ],
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T00",
+      "T03"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. CCC and Globalisation SIGs."
+  },
+  {
+    "resource_id": "LE-PP-057",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Bedriye Akson",
+    "affiliation": "MIT; IEEE ICICLE — CCC SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Learning design researcher; ICICLE CCC SIG co-chair",
+    "description": "Co-chair of the Competencies, Credentials and Curriculum SIG (IEEE ICICLE), focusing on curriculum alignment and credential frameworks for learning engineering practitioners. MIT-affiliated researcher bringing academic LE research into ICICLE's practitioner community.\n",
+    "key_contributions": [
+      "Co-chairs the CCC SIG at IEEE ICICLE, focusing on curriculum alignment and credential frameworks for LE practitioners",
+      "Brings MIT-grounded research perspectives to ICICLE's competency framework development",
+      "Contributes to defining curriculum standards for learning engineering programs",
+      "Works to align academic LE training programs with professional credential requirements"
+    ],
+    "key_works": [
+      "ICICLE Body of Knowledge — CCC chapter contributions",
+      "IEEE ICICLE CCC SIG working papers and competency frameworks"
+    ],
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T03",
+      "T00"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. CCC SIG."
+  },
+  {
+    "resource_id": "LE-PP-058",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Aaron Kessler",
+    "affiliation": "MIT; IEEE ICICLE — Design for Learning SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Human-centered design researcher; ICICLE Design for Learning SIG co-chair",
+    "description": "Co-chair of the Design for Learning SIG within IEEE ICICLE, advancing human-centered design (HCD) methods as core LE practice. MIT-affiliated, bringing HCD and systems thinking frameworks into the LE practitioner community.\n",
+    "key_contributions": [
+      "Co-chairs the Design for Learning SIG (ICICLE), establishing human-centered design as a core learning engineering competency",
+      "Brings MIT-grounded HCD and systems thinking frameworks to LE practitioner training and professional development",
+      "Contributes frameworks for user research, iterative design, and formative evaluation in educational technology",
+      "Bridges engineering design methodology and instructional design within the LE field"
+    ],
+    "key_works": [
+      "ICICLE Body of Knowledge — Design for Learning chapter contributions",
+      "IEEE ICICLE Design for Learning SIG working papers"
+    ],
+    "primary_topic": "T03",
+    "secondary_topics": [
+      "T02",
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Design for Learning SIG."
+  },
+  {
+    "resource_id": "LE-PP-059",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Amy Parent",
+    "affiliation": "Salience Learning; IEEE ICICLE — Design for Learning SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "LE design practitioner; ICICLE Design for Learning SIG co-chair",
+    "description": "Co-chair of the Design for Learning SIG (IEEE ICICLE). Industry practitioner from Salience Learning, bridging corporate L&D and academic HCD frameworks within the learning engineering field.\n",
+    "key_contributions": [
+      "Co-chairs the Design for Learning SIG (ICICLE), advancing human-centered design as a core LE competency",
+      "Brings corporate L&D practitioner perspective from Salience Learning to ICICLE's design frameworks",
+      "Connects academic HCD methods with real-world instructional design constraints and organizational contexts",
+      "Contributes to ICICLE BoK guidance on user research and learner-centered design processes"
+    ],
+    "key_works": [
+      "ICICLE Body of Knowledge — Design for Learning chapter contributions",
+      "IEEE ICICLE Design for Learning SIG practitioner resources"
+    ],
+    "primary_topic": "T03",
+    "secondary_topics": [
+      "T02",
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Design for Learning SIG. Corporate L&D practitioner."
+  },
+  {
+    "resource_id": "LE-PP-060",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Adesola Ogundimu",
+    "affiliation": "Johns Hopkins University; IEEE ICICLE — Globalisation/Localisation SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "LE globalisation researcher; ICICLE Globalisation/Localisation SIG co-chair",
+    "description": "Co-chair of the Globalisation/Localisation SIG within IEEE ICICLE, adapting learning engineering frameworks for international, multilingual, and culturally diverse contexts. Johns Hopkins affiliation connects global health education and equity perspectives to the LE field.\n",
+    "key_contributions": [
+      "Co-chairs the Globalisation/Localisation SIG (ICICLE), advancing culturally responsive adaptation of LE methods and standards",
+      "Brings Johns Hopkins global health education expertise to bear on international LE equity challenges",
+      "Contributes international and multilingual perspectives to ICICLE standards and BoK development",
+      "Works to ensure LE frameworks are applicable outside Western, English-speaking educational contexts"
+    ],
+    "key_works": [
+      "ICICLE Body of Knowledge — Globalisation/Localisation chapter contributions",
+      "IEEE ICICLE Globalisation/Localisation SIG working papers"
+    ],
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T14",
+      "T00"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Globalisation/Localisation SIG. Equity/international perspective."
+  },
+  {
+    "resource_id": "LE-PP-061",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Mei-Mei Li",
+    "affiliation": "Arizona State University; IEEE ICICLE — Students and Grads SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Emerging LE professional; ICICLE Students and Grads SIG co-chair",
+    "description": "Co-chair of the Students and Grads SIG within IEEE ICICLE, supporting mentorship and career development for students pursuing learning engineering careers. ASU affiliation connects the Learning Engineering Institute with ICICLE's professional community.\n",
+    "key_contributions": [
+      "Co-chairs the Students and Grads SIG (ICICLE), creating mentorship pathways and career resources for emerging LE professionals",
+      "Connects ASU's Learning Engineering Institute student community with ICICLE's broader professional network",
+      "Develops on-ramps for students entering the LE profession from varied backgrounds",
+      "Contributes to ICICLE's efforts to grow the next generation of learning engineers"
+    ],
+    "key_works": [
+      "ICICLE Body of Knowledge — Students and Grads SIG contributions",
+      "IEEE ICICLE Students and Grads SIG mentorship resources"
+    ],
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T00"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Students and Grads SIG. ASU-ICICLE bridge."
+  },
+  {
+    "resource_id": "LE-PP-062",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Abby Bregman",
+    "affiliation": "IEEE ICICLE — Students and Grads SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Emerging LE professional; ICICLE Students and Grads SIG co-chair",
+    "description": "Co-chair of the Students and Grads SIG within IEEE ICICLE, supporting career development and mentorship for emerging learning engineering practitioners.\n",
+    "key_contributions": [
+      "Co-chairs the Students and Grads SIG (ICICLE), building community infrastructure for the next generation of learning engineers",
+      "Develops peer support, mentorship, and networking resources for LE students and recent graduates",
+      "Contributes to ICICLE's efforts to recruit and develop emerging LE talent across diverse disciplines"
+    ],
+    "key_works": [
+      "IEEE ICICLE Students and Grads SIG community resources and programming"
+    ],
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T00"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Students and Grads SIG."
+  },
+  {
+    "resource_id": "LE-PP-063",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Li (Lee) Liang",
+    "affiliation": "IEEE ICICLE — Students and Grads SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Emerging LE professional; ICICLE Students and Grads SIG co-chair",
+    "description": "Co-chair of the Students and Grads SIG within IEEE ICICLE, supporting emerging learning engineering professionals through mentorship, community events, and career development resources.\n",
+    "key_contributions": [
+      "Co-chairs the Students and Grads SIG (ICICLE), supporting emerging LE professionals across academic and industry pathways",
+      "Contributes to building the professional infrastructure that helps students transition into learning engineering careers",
+      "Develops SIG programming and networking opportunities within the ICICLE community"
+    ],
+    "key_works": [
+      "IEEE ICICLE Students and Grads SIG community resources and programming"
+    ],
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T00"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Students and Grads SIG."
+  },
+  {
+    "resource_id": "LE-PP-064",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Erin Czerwinski",
+    "affiliation": "Carnegie Mellon University; IEEE ICICLE — Tools SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "LE tools researcher; ICICLE Tools SIG co-chair",
+    "description": "Co-chair of the Tools SIG within IEEE ICICLE, curating and evaluating learning engineering tools and technology stacks. CMU affiliation connects research-grade LE tools (OpenSimon, DataShop/LearnSphere) with ICICLE's practitioner community.\n",
+    "key_contributions": [
+      "Co-chairs the Tools SIG (ICICLE), maintaining curated guidance on tools supporting the LE workflow",
+      "Bridges CMU's research-grade LE tooling (OpenSimon, LearnSphere) with broader practitioner communities",
+      "Contributes frameworks for tool evaluation, selection, and integration in learning engineering projects",
+      "Connects software engineering and educational technology perspectives within ICICLE's tools guidance"
+    ],
+    "key_works": [
+      "ICICLE Body of Knowledge — Tools chapter contributions",
+      "IEEE ICICLE Tools SIG practitioner guidance"
+    ],
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T06",
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Tools SIG. CMU connection."
+  },
+  {
+    "resource_id": "LE-PP-065",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Baptiste Moreau-Pernet",
+    "affiliation": "IEEE ICICLE — Tools SIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "LE tools practitioner; ICICLE Tools SIG co-chair",
+    "description": "Co-chair of the Tools SIG within IEEE ICICLE, evaluating and promoting tools that support the learning engineering workflow from design through measurement.\n",
+    "key_contributions": [
+      "Co-chairs the Tools SIG (ICICLE), providing practitioner guidance on tool selection and integration for LE projects",
+      "Contributes evaluation frameworks for LE tools covering authoring, analytics, assessment, and delivery platforms",
+      "Helps curate the ICICLE BoK's tools inventory for the learning engineering community"
+    ],
+    "key_works": [
+      "IEEE ICICLE Tools SIG practitioner guidance and tool evaluations"
+    ],
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Tools SIG."
+  },
+  {
+    "resource_id": "LE-PP-066",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Emily Marasco",
+    "affiliation": "University of Calgary; IEEE ICICLE — Higher Education MIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Engineering education researcher; ICICLE Higher Education MIG co-chair",
+    "description": "Co-chair of the Higher Education MIG within IEEE ICICLE, applying LE methods to university teaching and curriculum design. University of Calgary researcher bridging engineering education pedagogy with learning engineering practice.\n",
+    "key_contributions": [
+      "Co-chairs the Higher Education MIG (ICICLE), adapting LE principles for post-secondary teaching contexts",
+      "Conducts research on technology-enhanced learning in higher education engineering programs at U Calgary",
+      "Bridges engineering education pedagogy and LE practice within the ICICLE community",
+      "Contributes frameworks for LE implementation in research-intensive university settings"
+    ],
+    "key_works": [
+      "ICICLE Body of Knowledge — Higher Education MIG contributions",
+      "Engineering education technology-enhanced learning research (University of Calgary)"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T02",
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Higher Education MIG. Engineering education researcher."
+  },
+  {
+    "resource_id": "LE-PP-067",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Rob Nyland",
+    "affiliation": "IEEE ICICLE — Higher Education MIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Higher education LE practitioner; ICICLE Higher Education MIG co-chair",
+    "description": "Co-chair of the Higher Education MIG within IEEE ICICLE, alongside Emily Marasco. Practitioner focus on applying LE methods within post-secondary instructional and faculty development contexts.\n",
+    "key_contributions": [
+      "Co-chairs the Higher Education MIG (ICICLE), applying LE principles to university teaching, faculty development, and curriculum design",
+      "Contributes practitioner perspectives on LE implementation challenges within higher education institutions",
+      "Bridges instructional design and learning engineering approaches in post-secondary contexts"
+    ],
+    "key_works": [
+      "IEEE ICICLE Higher Education MIG practitioner resources and guidelines"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T16",
+      "T02"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Higher Education MIG."
+  },
+  {
+    "resource_id": "LE-PP-068",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Eric Ultes",
+    "affiliation": "Caemil USA; IEEE ICICLE — Government / Military MIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Military training technologist; ICICLE Government/Military MIG co-chair",
+    "description": "Co-chair of the Government / Military MIG within IEEE ICICLE. Brings simulation and technology-enabled training expertise from Caemil USA to large-scale government and defense workforce development programs.\n",
+    "key_contributions": [
+      "Co-chairs the Government / Military MIG (ICICLE), applying LE principles to government and defense training contexts",
+      "Brings Caemil USA simulation and technology-enabled training expertise to LE practice",
+      "Connects military training standards (SCORM, xAPI, ADL) with the LE research and practice community",
+      "Contributes LE implementation frameworks for high-stakes government workforce development"
+    ],
+    "key_works": [
+      "IEEE ICICLE Government / Military MIG practitioner resources",
+      "Caemil USA simulation-based training methodology documentation"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T02",
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Government/Military MIG. Simulation-based training."
+  },
+  {
+    "resource_id": "LE-PP-069",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Jason Virtue",
+    "affiliation": "Canadian Armed Forces; IEEE ICICLE — Government / Military MIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Military training practitioner; ICICLE Government/Military MIG co-chair",
+    "description": "Co-chair of the Government / Military MIG within IEEE ICICLE. Canadian Armed Forces practitioner applying LE methods to military professional development and training system design.\n",
+    "key_contributions": [
+      "Co-chairs the Government / Military MIG (ICICLE), bridging military training standards and LE research",
+      "Applies LE methods to Canadian Armed Forces professional development and training programs",
+      "Connects NATO and ADL training standards with the ICICLE community's LE frameworks",
+      "Contributes defense-sector perspectives to ICICLE's Body of Knowledge on workplace and military learning"
+    ],
+    "key_works": [
+      "IEEE ICICLE Government / Military MIG practitioner resources"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T02",
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Government/Military MIG. Canadian Armed Forces context."
+  },
+  {
+    "resource_id": "LE-PP-070",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Zarka Ali",
+    "affiliation": "IEEE ICICLE — pK-12 MIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "K-12 LE practitioner; ICICLE pK-12 MIG co-chair",
+    "description": "Co-chair of the pK-12 MIG within IEEE ICICLE, advancing learning engineering methods in preK–12 settings where implementation differs significantly from higher education and corporate contexts.\n",
+    "key_contributions": [
+      "Co-chairs the pK-12 MIG (ICICLE), adapting LE principles for PreK–12 instructional design and teacher professional development",
+      "Advances LE frameworks for K-12 contexts including curriculum alignment, formative assessment, and adaptive learning",
+      "Contributes K-12-specific perspectives to ICICLE's Body of Knowledge",
+      "Bridges pK-12 educational practice with evidence-based LE methods and tools"
+    ],
+    "key_works": [
+      "IEEE ICICLE pK-12 MIG practitioner resources and frameworks"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T03",
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. pK-12 MIG."
+  },
+  {
+    "resource_id": "LE-PP-071",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "John Ellis",
+    "affiliation": "Dartmouth College; IEEE ICICLE — pK-12 MIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "K-12 LE researcher; ICICLE pK-12 MIG co-chair",
+    "description": "Co-chair of the pK-12 MIG within IEEE ICICLE. Dartmouth College affiliation connects computing and technology resources to K-12 learning engineering applications.\n",
+    "key_contributions": [
+      "Co-chairs the pK-12 MIG (ICICLE), contributing research-grounded perspectives on LE for K-12 contexts",
+      "Connects Dartmouth's computing and research resources to K-12 educational technology and LE practice",
+      "Contributes to ICICLE's pK-12 frameworks and practitioner resources",
+      "Bridges higher education research with K-12 instructional technology implementation"
+    ],
+    "key_works": [
+      "IEEE ICICLE pK-12 MIG practitioner resources"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T03",
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. pK-12 MIG. Dartmouth affiliation."
+  },
+  {
+    "resource_id": "LE-PP-072",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "John Costa",
+    "affiliation": "Repubit; IEEE ICICLE — Workforce MIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Workforce LE practitioner; ICICLE Workforce MIG co-chair",
+    "description": "Co-chair of the Workforce MIG within IEEE ICICLE, advancing LE methods in corporate L&D, workforce development, and professional upskilling contexts. Repubit connection brings startup technology perspectives to workforce LE discussions.\n",
+    "key_contributions": [
+      "Co-chairs the Workforce MIG (ICICLE), advancing LE methods in corporate learning and workforce development",
+      "Connects technology startup context (Repubit) with evidence-based workforce learning practices",
+      "Applies LE principles to corporate training design, credentialing, and professional upskilling",
+      "Contributes practitioner frameworks to ICICLE's BoK on workforce and organizational learning contexts"
+    ],
+    "key_works": [
+      "IEEE ICICLE Workforce MIG practitioner resources and frameworks"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T16",
+      "T03"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Workforce MIG. Corporate L&D."
+  },
+  {
+    "resource_id": "LE-PP-073",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "DJ Jaeger",
+    "affiliation": "IEEE ICICLE — Workforce MIG",
+    "years": "active 2010s–present",
+    "era": "contemporary",
+    "role": "Workforce learning practitioner; ICICLE Workforce MIG co-chair",
+    "description": "Co-chair of the Workforce MIG within IEEE ICICLE, alongside John Costa. Applies learning engineering principles to workforce development and corporate learning programs.\n",
+    "key_contributions": [
+      "Co-chairs the Workforce MIG (ICICLE), applying LE principles to corporate training and professional development",
+      "Contributes practitioner expertise to ICICLE's Body of Knowledge on workforce LE applications",
+      "Advances evidence-based approaches to workplace learning design and evaluation"
+    ],
+    "key_works": [
+      "IEEE ICICLE Workforce MIG practitioner resources"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T16"
+    ],
+    "url": "https://icicle.ieee.org",
+    "notes": "ICICLE community lead. Workforce MIG."
+  },
+  {
+    "resource_id": "LE-PP-081",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "John Liu",
+    "affiliation": "MIT, Mechanical Engineering / MIT LEAP Group",
+    "years": "active 2000s–present",
+    "era": "contemporary",
+    "role": "Engineering education researcher; MIT LEAP Group PI; data-driven curriculum researcher",
+    "description": "Principal investigator of the MIT Learning Engineering and Practice (LEAP) group, applying data science and LE methods to improve engineering curricula at scale. Develops methods for identifying prerequisite gaps and mapping concept dependencies from student performance data in large MIT engineering courses.\n",
+    "key_contributions": [
+      "Directs the MIT LEAP group, applying data science and LE methods to engineering curriculum improvement at scale",
+      "Developed methods for identifying prerequisite gaps and concept dependency structures from student performance data",
+      "Applied LE approaches to large MIT engineering courses with thousands of students",
+      "Bridges MIT's engineering culture with learning sciences and the IEEE ICICLE community",
+      "Contributes data-driven curriculum redesign frameworks applicable across STEM higher education"
+    ],
+    "key_works": [
+      "Liu et al. — Toward a data-driven approach to course sequencing in engineering education (ASEE, 2020)",
+      "MIT LEAP Group technical reports on concept prerequisites and curriculum analytics"
+    ],
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T04",
+      "T11"
+    ],
+    "url": "https://leap.mit.edu/",
+    "notes": "MIT LEAP Group PI. Engineering education LE practitioner."
+  },
+  {
+    "resource_id": "LE-PP-082",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Norman Bier",
+    "affiliation": "Carnegie Mellon University — Open Learning Initiative",
+    "years": "active 2000s–present",
+    "era": "contemporary",
+    "role": "OLI Director; evidence-based online course design practitioner; open educational resources leader",
+    "description": "Director of CMU's Open Learning Initiative (OLI), which produces open online courses shown to produce learning outcomes comparable to semester-length courses in half the time. Pioneered continuous data-driven redesign of online courses. Bridges the Simon Initiative's research infrastructure with open educational access goals. Active ICICLE contributor.\n",
+    "key_contributions": [
+      "Directs CMU's Open Learning Initiative, demonstrating that evidence-based online courses can match traditional semester outcomes in half the time",
+      "Pioneered integration of formative assessments, learning analytics dashboards, and iterative course redesign in OLI",
+      "Demonstrated that continuous data-driven redesign improves course outcomes year over year",
+      "Bridged Simon Initiative research infrastructure with open educational access and equity goals",
+      "Active IEEE ICICLE contributor defining OLI's learning engineering methodology for the broader community"
+    ],
+    "key_works": [
+      "Lovett, Meyer & Thille — The Open Learning Initiative: Measuring the Effectiveness of the OLI Statistics Course (Educause Quarterly, 2008)",
+      "Thille et al. — Educating the Educators: Initiatives for Technology-Enhanced Learning (Schmidt & Cohen, 2014)",
+      "CMU Simon Initiative OLI technical reports on learning analytics and course redesign"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T00",
+      "T11"
+    ],
+    "url": "https://oli.cmu.edu",
+    "notes": "OLI Director. Strong connection to Simon Initiative. Evidence-based online learning."
+  },
+  {
+    "resource_id": "LE-PP-083",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Scotty D. Craig",
+    "affiliation": "Arizona State University",
+    "years": "active 2000s–present",
+    "era": "contemporary",
+    "role": "Human factors researcher; virtual humans and pedagogical agents specialist",
+    "description": "Professor and leader in ASU Learning Engineering Institute initiatives. Systematically investigates design principles for virtual humans and pedagogical agents in learning environments. Demonstrated that vocal quality, aesthetic design, and agent persona significantly affect learner cognitive load and outcomes. Co-authored the Learning Engineering Adoption Maturity Model. Bridges human factors engineering with instructional technology research.\n",
+    "key_contributions": [
+      "Systematically investigated design principles for virtual humans and pedagogical agents in learning environments",
+      "Demonstrated that vocal quality, aesthetic design, and agent persona significantly affect learner cognitive load and outcomes",
+      "Co-authored the Learning Engineering Adoption Maturity Model with ICICLE colleagues",
+      "Bridges human factors engineering with instructional technology research at ASU",
+      "Active contributor to LE practitioner community through ICICLE and graduate training"
+    ],
+    "key_works": [
+      "Design principles for virtual humans in educational technology environments (with Schroeder, 2018)",
+      "The voice quality of pedagogical agent impacts learning and agent perceptions (with Siegle, JCAL, 2024)",
+      "Generalizable Learning Engineering Adoption Maturity Model (with Blake-Plock et al., 2024/2025)"
+    ],
+    "primary_topic": "T08",
+    "secondary_topics": [
+      "T02",
+      "T06"
+    ],
+    "url": "https://scottycraig.com",
+    "notes": "ASU LEI. Pedagogical agents / virtual humans. LEAMM co-author."
+  },
+  {
+    "resource_id": "LE-PP-090",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Herbert A. Simon",
+    "affiliation": "Carnegie Mellon University",
+    "years": "1916–2001",
+    "era": "founding",
+    "role": "Originator of the 'learning engineer' concept; Nobel laureate",
+    "description": "Nobel laureate in Economics (1978) who coined the term 'learning engineer' in his 1967 Educational Record essay 'The Job of a College President'. Argued that teaching is a domain of expertise separate from subject-matter knowledge, requiring its own scientific grounding. Co-developed ACT cognitive theory with John Anderson, providing the scientific basis for cognitive tutors. His broader work on bounded rationality, problem solving, and cognitive simulation laid the intellectual foundation for ITS.\n",
+    "key_contributions": [
+      "Coined the term 'learning engineer' in the 1967 Educational Record essay 'The Job of a College President'",
+      "Argued that teaching is a domain of expertise separate from subject-matter knowledge, requiring its own scientific grounding",
+      "Championed evidence-based instruction over discovery learning when discovery imposes excessive cognitive cost",
+      "Co-developed ACT cognitive theory with John Anderson, providing the scientific basis for cognitive tutors",
+      "His broader work on bounded rationality, problem solving, and cognitive simulation laid the intellectual foundation for ITS"
+    ],
+    "key_works": [
+      "The Job of a College President (Educational Record, 1967)",
+      "Human Problem Solving (with Newell, 1972)",
+      "The Sciences of the Artificial (1969)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T01",
+      "T06"
+    ],
+    "url": "https://www.cmu.edu/simon/",
+    "notes": "Field originator. Coined 'learning engineer'. Anchor for T00 and founding era."
+  },
+  {
+    "resource_id": "LE-PP-091",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "John R. Anderson",
+    "affiliation": "Carnegie Mellon University, HCII",
+    "years": "1947–present",
+    "era": "founding",
+    "role": "Cognitive architect; creator of ACT-R; pioneer of Cognitive Tutors",
+    "description": "Cognitive scientist and architect of ACT-R (Adaptive Control of Thought–Rational), the dominant cognitive architecture for modeling skill learning. Creator of the LISP Tutor (1983), the first empirically validated intelligent tutoring system. Co-developed the Cognitive Tutor for algebra, deployed in 2,600+ schools to half a million students. Demonstrated that ITS-based tutoring produces learning gains equivalent to 1-to-1 human tutoring.\n",
+    "key_contributions": [
+      "Developed ACT-R (Adaptive Control of Thought–Rational), the dominant cognitive architecture for modeling skill learning",
+      "Created the LISP Tutor (1983), the first empirically validated intelligent tutoring system",
+      "Co-developed Cognitive Tutor for algebra, deployed in 2,600+ schools to half a million students",
+      "Established the production-rule encoding methodology that allows cognitive models to drive adaptive tutoring",
+      "Demonstrated that ITS-based tutoring produces learning gains equivalent to 1-to-1 human tutoring (the '2-sigma effect')"
+    ],
+    "key_works": [
+      "Rules of the Mind (1993)",
+      "Cognitive Tutors: Lessons Learned (Journal of the Learning Sciences, 1995)",
+      "Abstract planning and perceptual chunks (with Koedinger, Cognitive Science, 1990)"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T01",
+      "T00"
+    ],
+    "url": "https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/anderson-john.html",
+    "notes": "ACT-R and Cognitive Tutor. Foundational ITS figure."
+  },
+  {
+    "resource_id": "LE-PP-092",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Allen Newell",
+    "affiliation": "Carnegie Mellon University",
+    "years": "1927–1992",
+    "era": "founding",
+    "role": "Co-creator of SOAR cognitive architecture; pioneer of AI and cognitive science",
+    "description": "Pioneer of artificial intelligence and cognitive science. Co-developed SOAR — a unified theory of cognition — and with Herbert Simon created Logic Theorist (1956) and General Problem Solver (1957), the first AI programs. Established the 'physical symbol system hypothesis', the theoretical bridge between computation and cognition. SOAR's chunking mechanism provided an explicit computational theory of procedural skill acquisition.\n",
+    "key_contributions": [
+      "Co-developed SOAR, a unified theory of cognition modeling problem solving and learning via chunking",
+      "With Herbert Simon, created Logic Theorist (1956) and General Problem Solver (1957), the first AI programs",
+      "Established the 'physical symbol system hypothesis' — the theoretical bridge between computation and cognition",
+      "SOAR's chunking mechanism provided an explicit computational theory of procedural skill acquisition"
+    ],
+    "key_works": [
+      "Human Problem Solving (with Simon, 1972)",
+      "SOAR: An Architecture for General Intelligence (with Laird & Rosenbloom, AI 1987)",
+      "Unified Theories of Cognition (1990)"
+    ],
+    "primary_topic": "T01",
+    "secondary_topics": [
+      "T06"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Allen_Newell",
+    "notes": "SOAR and cognitive simulation. Co-founder of AI."
+  },
+  {
+    "resource_id": "LE-PP-093",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "John Sweller",
+    "affiliation": "University of New South Wales",
+    "years": "1946–present",
+    "era": "founding",
+    "role": "Developer of Cognitive Load Theory",
+    "description": "Educational psychologist who formalized Cognitive Load Theory (CLT), distinguishing intrinsic, extraneous, and germane cognitive load. Established that working memory constraints must drive instructional design decisions. CLT-derived principles (worked examples effect, split-attention effect, redundancy effect) are now standard LE design rules. Provided the scientific justification for explicit, structured instruction over unguided discovery.\n",
+    "key_contributions": [
+      "Formalized Cognitive Load Theory (CLT) distinguishing intrinsic, extraneous, and germane load",
+      "Established that working memory constraints must drive instructional design decisions",
+      "CLT-derived principles (worked examples effect, split-attention effect, redundancy effect) are now standard LE design rules",
+      "Provided the scientific justification for explicit, structured instruction over unguided discovery"
+    ],
+    "key_works": [
+      "Cognitive load during problem solving: Effects on learning (Cognitive Science, 1988)",
+      "Cognitive Load Theory, Learning Difficulty, and Instructional Design (Learning and Instruction, 1994)",
+      "Cognitive Load Theory (with Ayres & Kalyuga, Springer 2011)"
+    ],
+    "primary_topic": "T01",
+    "secondary_topics": [
+      "T12",
+      "T03"
+    ],
+    "url": "https://www.unsw.edu.au/staff/john-sweller",
+    "notes": "CLT originator. Core T01 and T12 anchor."
+  },
+  {
+    "resource_id": "LE-PP-094",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Ann L. Brown",
+    "affiliation": "University of California, Berkeley",
+    "years": "1943–1999",
+    "era": "expansion",
+    "role": "Pioneer of design-based research and collaborative learning environments",
+    "description": "Educational psychologist and pioneer of design-based research (DBR) and collaborative learning. Her 'Design Experiments' (JLS, 1992) is the most-cited paper in the learning sciences. Co-created 'Fostering Communities of Learners', an influential model for scaffolded inquiry-based learning environments. Demonstrated how engineered classroom environments can simultaneously serve as research sites.",
+    "key_contributions": [
+      "Established design-based research (DBR) as the canonical methodology for testing learning interventions in authentic contexts",
+      "Design Experiments' (JLS, 1992) is the most-cited paper in the field of learning sciences (2,800+ citations)",
+      "Co-created 'Fostering Communities of Learners' — an influential model for scaffolded, inquiry-based learning environments",
+      "Demonstrated how engineered classroom environments could simultaneously serve as research sites"
+    ],
+    "key_works": [
+      "Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings (JLS, 1992)",
+      "Guided Discovery in a Community of Learners (1994)"
+    ],
+    "primary_topic": "T17",
+    "secondary_topics": [
+      "T03",
+      "T01"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Ann_Brown_(psychologist)",
+    "notes": "DBR originator. Fostering Communities of Learners. Core T17."
+  },
+  {
+    "resource_id": "LE-PP-095",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Marlene Scardamalia",
+    "affiliation": "University of Toronto, OISE",
+    "years": "active 1970s–present",
+    "era": "expansion",
+    "role": "Pioneer of knowledge-building communities and CSCL",
+    "description": "Pioneer of knowledge-building communities and computer-supported collaborative learning. Co-developed Knowledge Forum (formerly CSILE), the first networked collaborative knowledge-building environment. With Bereiter, theorized the distinction between 'knowledge telling' and 'knowledge transforming' in writing and learning. Knowledge-building pedagogy influenced the design of modern collaborative learning systems and MOOCs.\n",
+    "key_contributions": [
+      "Co-developed Knowledge Forum (formerly CSILE), the first networked collaborative knowledge-building environment",
+      "With Bereiter, theorized the distinction between 'knowledge telling' and 'knowledge transforming' in writing and learning",
+      "Established socio-cognitive frameworks for collaborative platforms that emphasize collective knowledge construction",
+      "Knowledge-building pedagogy influenced the design of modern collaborative learning systems and MOOCs"
+    ],
+    "key_works": [
+      "Computer Support for Knowledge-Building Communities (with Bereiter, JLS, 1994)",
+      "Knowledge Building: Theory, Pedagogy, and Technology (2006)"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T01",
+      "T17"
+    ],
+    "url": "https://ikit.org/marlene-scardamalia/",
+    "notes": "Knowledge Forum / CSILE. CSCL pioneer."
+  },
+  {
+    "resource_id": "LE-PP-096",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Chris Dede",
+    "affiliation": "Harvard Graduate School of Education",
+    "years": "active 1980s–present",
+    "era": "contemporary",
+    "role": "Pioneer of immersive learning environments; hybrid education researcher",
+    "description": "Pioneer of immersive learning environments and hybrid education. 'Immersive interfaces for engagement and learning' (Science, 2009) has thousands of citations. Co-edited Learning Engineering for Online Education (Routledge, 2019) — the field's first major book. Post-pandemic work framed hybrid learning not as emergency measure but as optimal future state. Directed multiple NSF and DoE grants applying LE principles to K-12 and higher education.",
+    "key_contributions": [
+      "Established engineering parameters for immersive virtual environments (VR/AR) in STEM education",
+      "Immersive interfaces for engagement and learning' (Science, 2009) has thousands of citations",
+      "Co-edited Learning Engineering for Online Education (Routledge, 2019) — the field's first major book",
+      "Post-pandemic work framed hybrid learning not as emergency measure but as optimal future state",
+      "Directed multiple NSF and DoE grants applying LE principles to K-12 and higher education"
+    ],
+    "key_works": [
+      "Immersive interfaces for engagement and learning (Science, 2009)",
+      "Learning Engineering for Online Education (co-editor, Routledge, 2019)",
+      "Scaling Up Success: Lessons from Technology-Based Educational Improvement (2006)"
+    ],
+    "primary_topic": "T08",
+    "secondary_topics": [
+      "T00",
+      "T07"
+    ],
+    "url": "https://www.gse.harvard.edu/directory/faculty/chris-dede",
+    "notes": "VR/AR and hybrid learning. LE Online Education book co-editor."
+  },
+  {
+    "resource_id": "LE-PP-097",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Neil Heffernan",
+    "affiliation": "Worcester Polytechnic Institute",
+    "years": "active 2000s–present",
+    "era": "contemporary",
+    "role": "Creator of ASSISTments; large-scale LE experimentation pioneer",
+    "description": "Director of Learning Sciences and Technologies at WPI and creator of ASSISTments, a free ITS serving 500,000+ students and 20,000+ teachers. Built E-TRIALS within ASSISTments — a platform for running randomized controlled experiments at scale in real classrooms. Pioneered 'crowdsourcing' of instructional design through teacher-authored hint sequences.\n",
+    "key_contributions": [
+      "Created ASSISTments, a free ITS serving 500,000+ students and 20,000+ teachers",
+      "Built E-TRIALS within ASSISTments — a platform for running randomized controlled experiments at scale in real classrooms",
+      "Pioneered the 'crowdsourcing' of instructional design through teacher-authored hint sequences in ASSISTments",
+      "Demonstrated that formative assessment integrated with intelligent hints improves learning outcomes significantly",
+      "Research spans educational data mining, learning analytics, and optimization of student learning pathways"
+    ],
+    "key_works": [
+      "ASSISTments: Helping Mentor Students While Providing Teachers Feedback (ITS, 2004)",
+      "The Doer Effect: Replicating Findings that Doing Causes Learning (EDM, 2018)"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T04",
+      "T17"
+    ],
+    "url": "https://www.wpi.edu/people/faculty/nth",
+    "notes": "ASSISTments platform. Large-scale RCT experimentation in classrooms."
+  },
+  {
+    "resource_id": "LE-PP-098",
+    "content_type": "PP",
+    "status": "APPROVED",
     "name": "Karen Willcox",
     "affiliation": "University of Texas at Austin, Oden Institute",
     "years": "active 2000s–present",
     "era": "contemporary",
-    "role": "MIT OEPI lead; LE in higher education advocate",
+    "role": "MIT OEPI lead; LE in higher education advocate; computational science-to-education bridge",
+    "description": "Led MIT's Online Education Policy Initiative (OEPI), producing the 2016 catalyst report that re-introduced 'learning engineer' to higher education discourse. Argued that MOOCs and digital scale require a new professional class with learning science and engineering expertise. Connected learning engineering to computational science methodologies from aerospace engineering. Now at UT Austin's Oden Institute for Computational Engineering.\n",
     "key_contributions": [
       "Led MIT's Online Education Policy Initiative (OEPI), producing the 2016 catalyst report that re-introduced 'learning engineer' to higher education discourse",
       "Argued that MOOCs and digital scale require a new professional class with learning science + engineering expertise",
@@ -338,42 +980,19 @@
       "T11",
       "T03"
     ],
-    "url": "https://willcox.oden.utexas.edu"
+    "url": "https://willcox.oden.utexas.edu",
+    "notes": "MIT OEPI lead. Re-introduced 'learning engineer' term to higher ed."
   },
   {
-    "resource_id": "LE-LS-PP-014",
+    "resource_id": "LE-PP-099",
     "content_type": "PP",
-    "name": "Scotty D. Craig",
-    "affiliation": "Arizona State University",
-    "years": "active 2000s–present",
-    "era": "contemporary",
-    "role": "Human factors researcher; virtual humans and pedagogical agents specialist",
-    "key_contributions": [
-      "Systematically investigated design principles for virtual humans and pedagogical agents in learning environments",
-      "Demonstrated that vocal quality, aesthetic design, and agent persona significantly affect learner cognitive load and outcomes",
-      "Co-authored the Learning Engineering Adoption Maturity Model",
-      "Bridges human factors engineering with instructional technology research"
-    ],
-    "key_works": [
-      "Design principles for virtual humans in educational technology environments (with Schroeder, 2018)",
-      "The voice quality of pedagogical agent impacts learning and agent perceptions (with Siegle, JCAL, 2024)",
-      "Generalizable Learning Engineering Adoption Maturity Model (with Blake-Plock et al., 2024/2025)"
-    ],
-    "primary_topic": "T08",
-    "secondary_topics": [
-      "T02",
-      "T06"
-    ],
-    "url": "https://scottycraig.com"
-  },
-  {
-    "resource_id": "LE-LS-PP-015",
-    "content_type": "PP",
+    "status": "APPROVED",
     "name": "Albert T. Corbett",
     "affiliation": "Carnegie Mellon University, HCII",
     "years": "active 1980s–present",
     "era": "expansion",
     "role": "Co-developer of Bayesian Knowledge Tracing; ITS architecture pioneer",
+    "description": "Co-developer of Bayesian Knowledge Tracing (BKT), the dominant probabilistic student model in ITS. Co-designed the ACT Programming Tutor and Algebra Cognitive Tutor with Anderson and Koedinger. Known for systematic empirical work on learning curves, error analysis, and mastery criteria in cognitive tutors.\n",
     "key_contributions": [
       "Co-developed Bayesian Knowledge Tracing (BKT), the dominant probabilistic student model in ITS",
       "Co-designed the ACT Programming Tutor and Algebra Cognitive Tutor with Anderson and Koedinger",
@@ -389,19 +1008,84 @@
       "T04",
       "T01"
     ],
-    "url": "https://www.hcii.cmu.edu/people/albert-corbett"
+    "url": "https://www.hcii.cmu.edu/people/albert-corbett",
+    "notes": "BKT originator. Core ITS student modelling figure."
   },
   {
-    "resource_id": "LE-LS-PP-016",
+    "resource_id": "LE-PP-140",
     "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Robert R. Hoffman",
+    "affiliation": "Institute for Human and Machine Cognition (IHMC), Pensacola FL",
+    "years": "active 1970s–present",
+    "era": "contemporary",
+    "role": "Cognitive task analysis pioneer; expertise and proficiency researcher; knowledge elicitation methodologist",
+    "description": "Pioneer of cognitive task analysis and knowledge elicitation methodology at IHMC. Co-authored the field-defining practitioner guide Working Minds (MIT Press, 2006) with Gary Klein and Beth Crandall. Developed proficiency scale frameworks extending the Dreyfus model for training design. Active IEEE ICICLE contributor who brought human factors expertise research tradition to the LE field.\n",
+    "key_contributions": [
+      "Developed the Critical Decision Method (CDM) for eliciting expert knowledge in naturalistic settings",
+      "Co-authored Working Minds — the field-defining practitioner guide to cognitive task analysis for training design",
+      "Applied proficiency scale frameworks (extended Dreyfus model) to learning engineering and training system design",
+      "With Klein, established naturalistic decision-making as a substrate for evidence-based training design",
+      "Active ICICLE contributor who brought human factors and expertise research traditions to the LE community"
+    ],
+    "key_works": [
+      "Crandall, Klein & Hoffman — Working Minds: A Practitioner's Guide to Cognitive Task Analysis (MIT Press, 2006)",
+      "Hoffman, Ward et al. — Accelerated Learning: Training for High Proficiency in a Complex World (APA, 2014)",
+      "Hoffman & Militello — Perspectives on Cognitive Task Analysis (CRC Press, 2008)"
+    ],
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T01",
+      "T09"
+    ],
+    "url": "https://ihmc.us/groups/rhoffman/",
+    "notes": "IHMC. CTA and expertise research. ICICLE community figure."
+  },
+  {
+    "resource_id": "LE-PP-141",
+    "content_type": "PP",
+    "status": "APPROVED",
+    "name": "Gary Klein",
+    "affiliation": "MacroCognition LLC (formerly Klein Associates)",
+    "years": "active 1970s–present",
+    "era": "contemporary",
+    "role": "Naturalistic decision-making pioneer; Recognition-Primed Decision model creator",
+    "description": "Creator of the Recognition-Primed Decision (RPD) model and Critical Decision Method. Founder of the naturalistic decision-making (NDM) field, which informs how experts are trained in high-stakes environments. Author of Sources of Power (MIT Press, 1998), widely read by LE practitioners for insight into expertise-based training design. Connects expertise science directly to instructional design for high-stakes professional contexts.\n",
+    "key_contributions": [
+      "Created the Recognition-Primed Decision (RPD) model — the most influential descriptive model of expert decision-making under uncertainty",
+      "Co-founded the naturalistic decision-making (NDM) field, which informs training design in military, medical, and safety-critical contexts",
+      "Developed the Critical Decision Method for knowledge elicitation and training system design",
+      "Author of Sources of Power — widely read by LE practitioners as a foundational text on expertise-based training",
+      "Connects cognitive science of expertise directly to instructional design for high-stakes professional contexts"
+    ],
+    "key_works": [
+      "Sources of Power: How People Make Decisions (MIT Press, 1998)",
+      "Seeing What Others Don't: The Remarkable Ways We Gain Insights (PublicAffairs, 2013)",
+      "Working Minds: A Practitioner's Guide to Cognitive Task Analysis (with Crandall & Hoffman, MIT Press, 2006)"
+    ],
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T02",
+      "T01"
+    ],
+    "url": "https://macrocognition.com",
+    "notes": "NDM and RPD. Expertise-based training. Sources of Power."
+  },
+  {
+    "resource_id": "LE-PP-142",
+    "content_type": "PP",
+    "status": "APPROVED",
     "name": "Vincent Aleven",
     "affiliation": "Carnegie Mellon University, HCII",
     "years": "1965–present",
     "era": "contemporary",
     "role": "ITS researcher; pioneer of example-tracing tutors and help-seeking scaffolding",
+    "description": "CMU HCII researcher who developed Example-Tracing Tutors — a new ITS paradigm requiring no cognitive model, built by demonstrating solution paths. Led research on the assistance dilemma (when to give vs. withhold help) and metacognitive scaffolding in ITS. Co-developed deployed math tutors including Lynnette.\n",
     "key_contributions": [
       "Developed Example-Tracing Tutors — a new ITS paradigm requiring no cognitive model, built by demonstrating solution paths",
-      "Led research on the assistance dilemma: when to give vs. withhold help to maximize learning",
+      {
+        "Led research on the assistance dilemma": "when to give vs. withhold help to maximize learning"
+      },
       "Demonstrated metacognitive scaffolding in ITS can improve help-seeking behavior, not just domain knowledge",
       "Co-developed Lynnette and other deployed math tutors at CMU HCII",
       "Extended Cognitive Tutor methodology to collaborative and peer-learning contexts"
@@ -417,16 +1101,19 @@
       "T01",
       "T09"
     ],
-    "url": "https://www.hcii.cmu.edu/people/vincent-aleven"
+    "url": "https://www.hcii.cmu.edu/people/vincent-aleven",
+    "notes": "Example-Tracing Tutors. Assistance dilemma research."
   },
   {
-    "resource_id": "LE-LS-PP-017",
+    "resource_id": "LE-PP-143",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Carolyn Rosé",
     "affiliation": "Carnegie Mellon University, HCII / Language Technologies Institute",
     "years": "1970–present",
     "era": "contemporary",
     "role": "NLP researcher; pioneer of computational analysis of collaborative learning discourse",
+    "description": "CMU researcher who applied NLP to analyze and scaffold collaborative learning conversations in real time. Developed the BASILICA architecture for conversational agents and the Bazaar collaborative learning platform. Bridged computational linguistics and CSCL, founding a distinct NLP-for-learning subfield.\n",
     "key_contributions": [
       "Applied NLP to analyze and scaffold collaborative learning conversations in real time",
       "Developed BASILICA architecture for conversational agents that support collaborative learning",
@@ -445,16 +1132,19 @@
       "T01",
       "T09"
     ],
-    "url": "https://www.cs.cmu.edu/~cprose/"
+    "url": "https://www.cs.cmu.edu/~cprose/",
+    "notes": "NLP for collaborative learning. BASILICA and Bazaar."
   },
   {
-    "resource_id": "LE-LS-PP-018",
+    "resource_id": "LE-PP-144",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Jack Mostow",
     "affiliation": "Carnegie Mellon University, Robotics Institute (emeritus)",
     "years": "1950–present",
     "era": "contemporary",
     "role": "Pioneer of AI-powered reading tutors; data-driven ITS evaluation methods",
+    "description": "Created Project LISTEN — the first ITS that listens to children read aloud and provides real-time corrective feedback using automated speech recognition. Developed data-driven methods for evaluating ITS effectiveness using log data from deployed systems.\n",
     "key_contributions": [
       "Created Project LISTEN — the first ITS that listens to children read aloud and provides real-time corrective feedback",
       "Demonstrated that automated speech recognition can detect oral reading errors with sufficient accuracy for tutoring",
@@ -472,16 +1162,19 @@
       "T04",
       "T01"
     ],
-    "url": "https://www.cs.cmu.edu/~mostow/"
+    "url": "https://www.cs.cmu.edu/~mostow/",
+    "notes": "Project LISTEN. Reading tutors. Data-driven ITS evaluation."
   },
   {
-    "resource_id": "LE-LS-PP-019",
+    "resource_id": "LE-PP-145",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Rod Roscoe",
     "affiliation": "Arizona State University, Learning Engineering Institute",
     "years": "1980–present",
     "era": "contemporary",
     "role": "Writing ITS researcher; human factors in automated writing feedback",
+    "description": "ASU Learning Engineering Institute researcher who co-led the Writing Pal ITS — a game-based writing tutor with automated essay scoring and strategy training. Investigated usability and metacognitive dimensions of writing intelligent tutoring systems and how learners interact with and trust automated feedback.\n",
     "key_contributions": [
       "Co-led the Writing Pal ITS — a game-based writing tutor with automated essay scoring and strategy training",
       "Investigated usability and metacognitive dimensions of writing intelligent tutoring systems",
@@ -500,16 +1193,19 @@
       "T03",
       "T12"
     ],
-    "url": "https://learningengineering.asu.edu/"
+    "url": "https://learningengineering.asu.edu/",
+    "notes": "Writing Pal ITS. ASU Learning Engineering Institute."
   },
   {
-    "resource_id": "LE-LS-PP-020",
+    "resource_id": "LE-PP-146",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Robert K. Atkinson",
     "affiliation": "Arizona State University",
     "years": "1965–present",
     "era": "contemporary",
     "role": "Instructional design researcher; worked examples and pedagogical agents",
+    "description": "ASU researcher who demonstrated that optimized sequencing of worked examples using animated pedagogical agents improves learning. Applied cognitive load theory principles to the design of example-based instruction and investigated the guidance fading effect across different instructional formats.\n",
     "key_contributions": [
       "Demonstrated that optimized sequencing of worked examples using animated pedagogical agents improves learning",
       "Synthesized evidence on transitioning learners from example study to independent problem solving",
@@ -528,20 +1224,23 @@
       "T02",
       "T06"
     ],
-    "url": "https://education.asu.edu/"
+    "url": "https://education.asu.edu/",
+    "notes": "Worked examples and pedagogical agents. CLT applications."
   },
   {
-    "resource_id": "LE-LS-PP-021",
+    "resource_id": "LE-PP-147",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Mina C. Johnson-Glenberg",
     "affiliation": "Arizona State University, Embodied Games Lab",
     "years": "1965–present",
     "era": "contemporary",
     "role": "XR and embodied learning researcher; mixed reality STEM education",
+    "description": "Directs the Embodied Games Lab at ASU. Demonstrated that embodied interaction in mixed reality environments improves STEM concept learning. Developed design guidelines for immersive learning environments based on embodied cognition theory. Positioned XR as a rigorous LE domain with measurable outcome metrics.\n",
     "key_contributions": [
       "Demonstrated that embodied interaction in mixed reality environments improves STEM concept learning",
       "Developed the Embodied Games Lab at ASU focused on XR for science and engineering education",
-      "Showed that whole-body interaction (powering up / slowing down) encodes physics concepts more durably than screen-based instruction",
+      "Showed that whole-body interaction encodes physics concepts more durably than screen-based instruction",
       "Contributed design guidelines for immersive learning environments based on embodied cognition theory",
       "Positioned XR as a rigorous learning engineering domain with measurable outcome metrics"
     ],
@@ -555,16 +1254,19 @@
       "T01",
       "T02"
     ],
-    "url": "https://embodied-games.com/"
+    "url": "https://embodied-games.com/",
+    "notes": "Embodied Games Lab. XR for STEM. Embodied cognition in learning."
   },
   {
-    "resource_id": "LE-LS-PP-022",
+    "resource_id": "LE-PP-148",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Arthur C. Graesser",
     "affiliation": "University of Memphis, Institute for Intelligent Systems",
     "years": "1948–present",
     "era": "contemporary",
     "role": "AutoTutor developer; discourse analysis and comprehension in ITS",
+    "description": "Created AutoTutor — an ITS that conducts Socratic dialogue in natural language, covering physics, computer literacy, and other domains. Showed AutoTutor produces deep learning gains comparable to expert human tutors. Co-developed Coh-Metrix for analyzing textual cohesion and readability. Co-founded the discourse-based approach to ITS.\n",
     "key_contributions": [
       "Created AutoTutor — an ITS that conducts socratic dialogue in natural language, covering physics, computer literacy, and other domains",
       "Showed that AutoTutor produces deep learning gains comparable to expert human tutors in one-on-one sessions",
@@ -583,16 +1285,19 @@
       "T01",
       "T09"
     ],
-    "url": "https://www.memphis.edu/iis/people/graesser.php"
+    "url": "https://www.memphis.edu/iis/people/graesser.php",
+    "notes": "AutoTutor and Coh-Metrix. Natural language dialogue in ITS."
   },
   {
-    "resource_id": "LE-LS-PP-023",
+    "resource_id": "LE-PP-149",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Philip I. Pavlik Jr.",
     "affiliation": "University of Memphis, Institute for Intelligent Systems",
     "years": "1970–present",
     "era": "contemporary",
     "role": "Cognitive modeling researcher; spacing and retrieval practice optimization in ITS",
+    "description": "Developed Performance Factors Analysis (PFA) — a student model accounting for both practice and forgetting. Derived an activation-based model of the spacing effect and created algorithms for optimal practice scheduling. Contributed to Learning Factors Analysis (LFA) for data-driven discovery of knowledge components.\n",
     "key_contributions": [
       "Developed Performance Factors Analysis (PFA) — a student model accounting for both practice and forgetting",
       "Derived an activation-based model of the spacing effect and its application to vocabulary learning",
@@ -610,16 +1315,19 @@
       "T06",
       "T04"
     ],
-    "url": "https://www.memphis.edu/iis/people/pavlik.php"
+    "url": "https://www.memphis.edu/iis/people/pavlik.php",
+    "notes": "PFA student model. Spacing and forgetting curves. LFA."
   },
   {
-    "resource_id": "LE-LS-PP-024",
+    "resource_id": "LE-PP-150",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Ashok K. Goel",
     "affiliation": "Georgia Institute of Technology, School of Interactive Computing",
     "years": "1960–present",
     "era": "contemporary",
     "role": "AI educator; creator of Jill Watson AI teaching assistant",
+    "description": "Created Jill Watson — one of the first AI teaching assistants deployed at scale in a university course, handling 40,000+ student questions with near-human accuracy. Applied case-based reasoning to educational question-answering. Led the AI4K12 initiative developing national guidelines for K-12 AI literacy education.\n",
     "key_contributions": [
       "Created Jill Watson — one of the first AI teaching assistants deployed at scale in a university course, handling 40,000+ student questions",
       "Demonstrated that AI TAs can operate at near-human accuracy without students detecting they are AI",
@@ -637,16 +1345,19 @@
       "T06",
       "T02"
     ],
-    "url": "https://faculty.cc.gatech.edu/~ashokgoel/"
+    "url": "https://faculty.cc.gatech.edu/~ashokgoel/",
+    "notes": "Jill Watson AI TA. AI4K12. Case-based reasoning in education."
   },
   {
-    "resource_id": "LE-LS-PP-025",
+    "resource_id": "LE-PP-151",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Sidney K. D'Mello",
     "affiliation": "University of Colorado Boulder, Institute of Cognitive Science",
     "years": "1980–present",
     "era": "contemporary",
     "role": "Affective computing researcher; emotion detection in intelligent tutoring",
+    "description": "Demonstrated that confusion, when productively resolved, benefits deep learning in ITS contexts. Developed multimodal sensors (eye tracking, posture, facial expression) for real-time affect detection during learning. Mapped the dynamics of affective states (boredom, confusion, frustration, flow) during complex learning tasks.\n",
     "key_contributions": [
       "Demonstrated that confusion, when productively resolved, is beneficial for deep learning in ITS contexts",
       "Developed multimodal sensors (eye tracking, posture, facial expression) for real-time affect detection during learning",
@@ -665,20 +1376,25 @@
       "T06",
       "T02"
     ],
-    "url": "https://www.colorado.edu/ics/sidney-dmello"
+    "url": "https://www.colorado.edu/ics/sidney-dmello",
+    "notes": "Affective computing in ITS. Confusion and learning. Multimodal sensing."
   },
   {
-    "resource_id": "LE-LS-PP-026",
+    "resource_id": "LE-PP-152",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Justin Reich",
     "affiliation": "MIT Teaching Systems Lab",
     "years": "1977–present",
     "era": "contemporary",
     "role": "EdTech researcher; critic of MOOC hype; evidence-based online learning advocate",
+    "description": "Authored Failure to Disrupt (MIT Press, 2020) — the most rigorous critique of MOOC platforms' failure to improve educational equity despite scale. Demonstrated empirically that MOOCs disproportionately benefit already-advantaged learners. Leads MIT Teaching Systems Lab, studying how teacher learning and practice change with educational technology.\n",
     "key_contributions": [
       "Authored Failure to Disrupt — the most rigorous critique of MOOC platforms' failure to improve educational equity despite scale",
       "Demonstrated empirically that MOOCs disproportionately benefit already-advantaged learners, contradicting disruption narratives",
-      "Documented the MOOC pivot: how platforms shifted from open access toward credentialed professional learning",
+      {
+        "Documented the MOOC pivot": "how platforms shifted from open access toward credentialed professional learning"
+      },
       "Advocated for evidence-based online learning design grounded in learning sciences rather than technology novelty",
       "Leads MIT Teaching Systems Lab, studying how teacher learning and practice change with educational technology"
     ],
@@ -692,16 +1408,19 @@
       "T15",
       "T11"
     ],
-    "url": "https://teachingsystemslab.org/"
+    "url": "https://teachingsystemslab.org/",
+    "notes": "Failure to Disrupt. MOOC evidence. MIT Teaching Systems Lab."
   },
   {
-    "resource_id": "LE-LS-PP-027",
+    "resource_id": "LE-PP-153",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Bruce M. McLaren",
     "affiliation": "Carnegie Mellon University, HCII",
     "years": "1960–present",
     "era": "contemporary",
     "role": "ITS researcher; learning games and worked-example sequencing in mathematics",
+    "description": "CMU HCII research scientist who designed Decimal Point — a math game for decimal numbers shown to outperform conventional tutoring software in controlled trials. Investigated optimal sequencing of worked examples and tutored problem solving, and developed adaptive worked-example and ITS hybrid approaches for fraction and decimal learning.\n",
     "key_contributions": [
       "Designed Decimal Point — a math game for decimal numbers shown to produce learning gains over conventional tutoring software",
       "Showed that computer games can promote mathematics learning more effectively than conventional ITS in controlled trials",
@@ -720,16 +1439,19 @@
       "T04",
       "T03"
     ],
-    "url": "https://www.hcii.cmu.edu/people/bruce-mclaren"
+    "url": "https://www.hcii.cmu.edu/people/bruce-mclaren",
+    "notes": "Decimal Point math game. Worked example sequencing. CMU HCII."
   },
   {
-    "resource_id": "LE-LS-PP-028",
+    "resource_id": "LE-PP-154",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Ken Holstein",
     "affiliation": "Carnegie Mellon University, HCII",
     "years": "1988–present",
     "era": "contemporary",
     "role": "Human-AI complementarity researcher; equity in adaptive learning; real-time teacher orchestration",
+    "description": "CMU HCII researcher who developed real-time multimodal classroom systems giving teachers live student-struggle signals during ITS sessions. Demonstrated that teacher-AI complementarity — not replacement — yields better outcomes. Published the most-cited work on equity and fairness in AI-driven educational systems.\n",
     "key_contributions": [
       "Developed real-time multimodal classroom systems giving teachers live student-struggle signals during ITS sessions",
       "Demonstrated that teacher-AI complementarity — not replacement — yields better outcomes than either alone",
@@ -748,16 +1470,19 @@
       "T14",
       "T02"
     ],
-    "url": "https://www.hcii.cmu.edu/people/ken-holstein"
+    "url": "https://www.hcii.cmu.edu/people/ken-holstein",
+    "notes": "Teacher-AI complementarity. Equity in AIEd. Real-time orchestration."
   },
   {
-    "resource_id": "LE-LS-PP-029",
+    "resource_id": "LE-PP-155",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Erin Walker",
     "affiliation": "Arizona State University (formerly Carnegie Mellon University, HCII)",
     "years": "1980–present",
     "era": "contemporary",
     "role": "ITS and peer-tutoring researcher; collaborative learning scaffolding",
+    "description": "Developed ITS scaffolding systems that support peer tutoring in computer science, bridging collaborative and adaptive learning. Showed intelligent support for peer tutoring outperforms unscaffolded peer tutoring and approaches one-on-one ITS. Bridges CMU HCII cognitive tutor lineage with ASU's collaborative learning traditions.\n",
     "key_contributions": [
       "Developed ITS scaffolding systems that support peer tutoring in computer science, bridging collaborative and adaptive learning",
       "Showed that intelligent support for peer tutoring outperforms unscaffolded peer tutoring and approaches one-on-one ITS",
@@ -776,16 +1501,19 @@
       "T09",
       "T03"
     ],
-    "url": "https://learningengineering.asu.edu/"
+    "url": "https://learningengineering.asu.edu/",
+    "notes": "Peer tutoring ITS. CMU-to-ASU bridge. Collaborative learning scaffolding."
   },
   {
-    "resource_id": "LE-LS-PP-030",
+    "resource_id": "LE-PP-156",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Danielle S. McNamara",
     "affiliation": "University of Southern California (formerly Arizona State University)",
     "years": "1960–present",
     "era": "contemporary",
     "role": "Reading and writing ITS researcher; Coh-Metrix and iSTART developer",
+    "description": "Created iSTART (Interactive Strategy Training for Active Reading and Thinking) and co-developed Coh-Metrix — the most widely used computational tool for analyzing textual cohesion, readability, and discourse structure. Co-led Writing Pal — the first ITS for writing strategy instruction. Most-cited ASU learning engineering researcher; moved to USC circa 2018.\n",
     "key_contributions": [
       "Created iSTART (Interactive Strategy Training for Active Reading and Thinking) — an ITS for reading comprehension strategy instruction",
       "Co-developed Coh-Metrix — the most widely used computational tool for analyzing textual cohesion, readability, and discourse structure",
@@ -804,22 +1532,27 @@
       "T04",
       "T12"
     ],
-    "url": "https://dornsife.usc.edu/danielle-mcnamara/"
+    "url": "https://dornsife.usc.edu/danielle-mcnamara/",
+    "notes": "iSTART and Coh-Metrix. Writing Pal ITS. Text analytics for education."
   },
   {
-    "resource_id": "LE-LS-PP-031",
+    "resource_id": "LE-PP-157",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Janet L. Kolodner",
     "affiliation": "Georgia Institute of Technology (emeritus)",
     "years": "1950–present",
     "era": "founding",
     "role": "Case-based reasoning pioneer; Learning by Design framework developer; co-author of LE Toolkit",
+    "description": "Created the case-based reasoning (CBR) paradigm and developed the Learning by Design (LBD) framework — project-based learning grounded in design challenges. Co-edited the Learning Engineering Toolkit with Jim Goodell. Intellectual parent of the LE process methodology: iterative, evidence-based, user-centered design of learning systems.\n",
     "key_contributions": [
       "Created the case-based reasoning (CBR) paradigm — a model of learning from experience that informs how ITS should structure analogical transfer",
-      "Developed the Learning by Design (LBD) framework — project-based learning grounded in design challenges, influencing LE process methodology",
+      "Developed the Learning by Design (LBD) framework — project-based learning grounded in design challenges",
       "Co-edited the Learning Engineering Toolkit with Jim Goodell, the field's primary practitioner handbook",
       "Showed that problem-based learning combined with case-based reasoning produces deeper science understanding in middle school",
-      "Intellectual parent of the LE process methodology: iterative, evidence-based, user-centered design of learning systems"
+      {
+        "Intellectual parent of the LE process methodology": "iterative, evidence-based, user-centered design of learning systems"
+      }
     ],
     "key_works": [
       "Case-Based Reasoning (Morgan Kaufmann, 1993)",
@@ -832,18 +1565,23 @@
       "T17",
       "T01"
     ],
-    "url": "https://www.cc.gatech.edu/~jlk/"
+    "url": "https://www.cc.gatech.edu/~jlk/",
+    "notes": "Case-based reasoning. Learning by Design. LE Toolkit co-editor."
   },
   {
-    "resource_id": "LE-LS-PP-032",
+    "resource_id": "LE-PP-158",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Daniel L. Schwartz",
     "affiliation": "Stanford Graduate School of Education",
     "years": "1963–present",
     "era": "contemporary",
     "role": "Learning scientist; inventing-before-learning and productive failure paradigm developer",
+    "description": "Developed the 'time for telling' principle and 'inventing to prepare for future learning' — showing that generative struggle creates representations that support deeper subsequent learning. Established the productive failure literature demonstrating that effortful incorrect attempts precede better understanding than direct instruction.\n",
     "key_contributions": [
-      "Developed the 'time for telling' principle: learners benefit more from instruction after attempting to generate solutions themselves",
+      {
+        "Developed the 'time for telling' principle": "learners benefit more from instruction after attempting to generate solutions themselves"
+      },
       "Coined 'inventing to prepare for future learning' — showing that generative struggle creates representations that support deeper subsequent learning",
       "Showed that practice with contrasting cases produces better transfer than problem-solving practice alone",
       "Established the productive failure literature demonstrating that effortful incorrect attempts precede better understanding than direct instruction",
@@ -860,16 +1598,19 @@
       "T12",
       "T17"
     ],
-    "url": "https://ed.stanford.edu/faculty/danls"
+    "url": "https://ed.stanford.edu/faculty/danls",
+    "notes": "Time for telling / productive failure. Inventing-before-learning."
   },
   {
-    "resource_id": "LE-LS-PP-033",
+    "resource_id": "LE-PP-159",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Paul A. Kirschner",
     "affiliation": "Open University of the Netherlands",
     "years": "1950–present",
     "era": "contemporary",
-    "role": "CLT applied to collaboration; co-author of 'Why Minimal Guidance Fails'",
+    "role": "CLT applied to collaboration; co-author of 'Why Minimal Guidance Fails",
+    "description": "Co-authored 'Why Minimal Guidance During Instruction Does Not Work' (2006) — the most-cited critique of discovery and problem-based learning (6,800+ citations). Extended Cognitive Load Theory to collaborative learning. Co-authored How Learning Happens with Carl Hendrick and the 4C/ID model with van Merriënboer.",
     "key_contributions": [
       "Co-authored 'Why Minimal Guidance During Instruction Does Not Work' — the most-cited critique of discovery and problem-based learning (6,800+ citations)",
       "Extended Cognitive Load Theory to collaborative learning, showing that collaboration can increase or decrease load depending on design",
@@ -888,16 +1629,19 @@
       "T12",
       "T15"
     ],
-    "url": "https://www.paulkirschner.nl/"
+    "url": "https://www.paulkirschner.nl/",
+    "notes": "Why Minimal Guidance Fails'. CLT for collaboration. How Learning Happens."
   },
   {
-    "resource_id": "LE-LS-PP-034",
+    "resource_id": "LE-PP-160",
     "content_type": "PP",
+    "status": "APPROVED",
     "name": "Dragan Gašević",
     "affiliation": "Monash University",
     "years": "1972–present",
     "era": "contemporary",
     "role": "Learning analytics field-builder; LAK conference co-founder; process mining in CSCL",
+    "description": "Co-founded the Learning Analytics and Knowledge (LAK) conference and the Society for Learning Analytics Research (SoLAR). Established the principle that 'learning analytics should not promote one-size-fits-all' — foundational for equity-aware LE system design. Applied process mining to collaborative learning data, revealing strategy patterns invisible to aggregate statistics.\n",
     "key_contributions": [
       "Co-founded the Learning Analytics and Knowledge (LAK) conference and the Society for Learning Analytics Research (SoLAR)",
       "Established the principle that 'learning analytics should not promote one-size-fits-all' — foundational for equity-aware LE system design",
@@ -916,6 +1660,7 @@
       "T17",
       "T15"
     ],
-    "url": "https://www.monash.edu/education/staff/dragan-gasevic"
+    "url": "https://www.monash.edu/education/staff/dragan-gasevic",
+    "notes": "LAK and SoLAR co-founder. Analytics must serve learning theory."
   }
 ]

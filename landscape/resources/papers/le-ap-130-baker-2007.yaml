@@ -1,0 +1,23 @@
+resource_id: LE-AP-130
+content_type: AP
+title: "Off-Task Behavior in the Cognitive Tutor Classroom: When Students 'Game the System'"
+authors:
+  - Ryan S. J. d. Baker
+  - Albert T. Corbett
+  - Kenneth R. Koedinger
+  - Angela Z. Wagner
+year: 2004
+venue: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2004)
+pages: "383-390"
+doi: "10.1145/985692.985741"
+tier: highly_cited
+citation_count_approx: 560
+significance: >
+  Defined and operationalized "gaming the system" — students exploiting ITS feedback loops
+  to advance without learning — and developed detection methods using interaction logs.
+  Foundational for LE analytics practitioners designing disengagement detection, identifying
+  a critical failure mode of adaptive learning systems.
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T04

@@ -1,0 +1,21 @@
+resource_id: LE-AP-230
+content_type: AP
+status: seed
+title: "Illustrating Principled Design: The Early Evolution of a Cognitive Tutor for Algebra Symbolization"
+authors: []
+year: 1998
+venue: Interactive Learning Environments
+doi: "10.1080/1049482980050111"
+tier: contemporary
+citation_count_approx: 109
+cross_seed_score: 3
+openalex_id: "W2071476613"
+significance: >
+  Published in Interactive Learning Environments; addresses tutor, cognition,
+  computer science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T01

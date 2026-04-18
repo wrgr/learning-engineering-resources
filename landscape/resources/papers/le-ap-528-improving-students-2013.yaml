@@ -1,0 +1,19 @@
+resource_id: LE-AP-528
+content_type: AP
+status: seed
+title: "Improving Students’ Learning With Effective Learning Techniques"
+authors: []
+year: 2013
+venue: Gothic.net
+doi: "10.1177/1529100612453266"
+tier: highly_cited
+citation_count_approx: 2934
+cross_seed_score: 2
+openalex_id: "W2126180793"
+significance: >
+  Published in Gothic.net; addresses mnemonic, automatic summarization, premise.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T14
+secondary_topics:
+  - T01

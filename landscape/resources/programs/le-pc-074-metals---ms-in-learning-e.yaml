@@ -1,0 +1,14 @@
+resource_id: LE-PC-074
+content_type: PC
+status: APPROVED
+name: "METALS / MS in Learning Engineering (Carnegie Mellon)"
+url: "https://metals.hcii.cmu.edu/"
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T03
+  - T13
+description: >
+  Graduate program (long known as METALS) training learning engineers in design,
+  learning science, analytics, and intelligent learning systems; capstone with
+  external clients. Public materials may use MS in Learning Engineering naming.

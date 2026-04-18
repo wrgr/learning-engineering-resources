@@ -1,0 +1,18 @@
+resource_id: LE-AP-388
+content_type: AP
+status: seed
+title: "Rethinking Transfer: A Simple Proposal with Multiple Implications"
+authors: []
+year: 1999
+venue: Review of Research in Education
+doi: "10.2307/1167267"
+tier: highly_cited
+citation_count_approx: 1402
+cross_seed_score: 2
+openalex_id: "W1994701398"
+significance: >
+  Published in Review of Research in Education; addresses simple (philosophy),
+  transfer (computing), mathematics education. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

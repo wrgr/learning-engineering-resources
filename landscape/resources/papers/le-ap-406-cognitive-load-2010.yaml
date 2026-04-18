@@ -1,0 +1,20 @@
+resource_id: LE-AP-406
+content_type: AP
+status: seed
+title: "Cognitive Load Theory: New Conceptualizations, Specifications, and Integrated Research Perspectives"
+authors: []
+year: 2010
+venue: Educational Psychology Review
+doi: "10.1007/s10648-010-9133-8"
+tier: contemporary
+citation_count_approx: 412
+cross_seed_score: 2
+openalex_id: "W2011458368"
+significance: >
+  Published in Educational Psychology Review; addresses cognitive load,
+  educational psychology, cognition. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T04
+secondary_topics:
+  - T01

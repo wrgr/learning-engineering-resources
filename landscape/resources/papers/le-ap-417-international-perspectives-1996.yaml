@@ -1,0 +1,21 @@
+resource_id: LE-AP-417
+content_type: AP
+status: seed
+title: "International perspectives on the design of technology-supported learning environments"
+authors: []
+year: 1996
+venue: Journal of Computing in Higher Education
+doi: "10.1007/bf02942400"
+tier: contemporary
+citation_count_approx: 197
+cross_seed_score: 2
+openalex_id: "W2020802878"
+significance: >
+  Published in Journal of Computing in Higher Education; addresses educational
+  technology, higher education, technology integration. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T16
+  - T01

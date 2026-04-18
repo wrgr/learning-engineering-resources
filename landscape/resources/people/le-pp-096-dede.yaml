@@ -1,0 +1,31 @@
+resource_id: LE-PP-096
+content_type: PP
+status: APPROVED
+name: Chris Dede
+affiliation: Harvard Graduate School of Education
+years: "active 1980s–present"
+era: contemporary
+role: Pioneer of immersive learning environments; hybrid education researcher
+description: >
+  Pioneer of immersive learning environments and hybrid education. 'Immersive interfaces
+  for engagement and learning' (Science, 2009) has thousands of citations. Co-edited
+  Learning Engineering for Online Education (Routledge, 2019) — the field's first major
+  book. Post-pandemic work framed hybrid learning not as emergency measure but as optimal
+  future state. Directed multiple NSF and DoE grants applying LE principles to K-12 and
+  higher education.
+key_contributions:
+  - Established engineering parameters for immersive virtual environments (VR/AR) in STEM education
+  - 'Immersive interfaces for engagement and learning' (Science, 2009) has thousands of citations
+  - Co-edited Learning Engineering for Online Education (Routledge, 2019) — the field's first major book
+  - Post-pandemic work framed hybrid learning not as emergency measure but as optimal future state
+  - Directed multiple NSF and DoE grants applying LE principles to K-12 and higher education
+key_works:
+  - "Immersive interfaces for engagement and learning (Science, 2009)"
+  - "Learning Engineering for Online Education (co-editor, Routledge, 2019)"
+  - "Scaling Up Success: Lessons from Technology-Based Educational Improvement (2006)"
+primary_topic: T08
+secondary_topics:
+  - T00
+  - T07
+url: https://www.gse.harvard.edu/directory/faculty/chris-dede
+notes: VR/AR and hybrid learning. LE Online Education book co-editor.

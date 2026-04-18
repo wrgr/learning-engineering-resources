@@ -1,0 +1,21 @@
+resource_id: LE-AP-233
+content_type: AP
+status: seed
+title: "Training strategies for attaining transfer of problem-solving skill in statistics: A cognitive-load approach."
+authors: []
+year: 1992
+venue: Journal of Educational Psychology
+doi: "10.1037/0022-0663.84.4.429"
+tier: highly_cited
+citation_count_approx: 1950
+cross_seed_score: 3
+openalex_id: "W2081811286"
+significance: >
+  Published in Journal of Educational Psychology; addresses psychology, transfer
+  of training, cognitive load. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T04
+secondary_topics:
+  - T10
+  - T01

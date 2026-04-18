@@ -1,0 +1,24 @@
+resource_id: LE-AP-081
+content_type: AP
+title: "A Time for Telling"
+authors:
+  - Daniel L. Schwartz
+  - John D. Bransford
+year: 1998
+venue: Cognition and Instruction
+volume: "16"
+issue: "4"
+pages: "475–522"
+doi: "10.1207/s1532690xci1604_4"
+tier: foundational
+citation_count_approx: 1900
+significance: >
+  Demonstrated that student-generated contrasting cases (exploratory analysis of two
+  data sets) before direct instruction produced significantly deeper understanding than
+  direct instruction alone. Established the "time for telling" principle — direct
+  instruction is most effective after learners have been prepared by generative
+  problem-solving. Foundational for LE sequencing design and productive failure research.
+primary_topic: T01
+secondary_topics:
+  - T12
+  - T04

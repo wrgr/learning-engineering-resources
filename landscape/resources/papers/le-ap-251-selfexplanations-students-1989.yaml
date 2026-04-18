@@ -1,0 +1,18 @@
+resource_id: LE-AP-251
+content_type: AP
+status: seed
+title: "Self-explanations: How students study and use examples in learning to solve problems"
+authors: []
+year: 1989
+venue: Cognitive Science
+doi: "10.1016/0364-0213(89)90002-5"
+tier: highly_cited
+citation_count_approx: 2295
+cross_seed_score: 3
+openalex_id: "W2124868162"
+significance: >
+  Published in Cognitive Science; addresses computer science, cognitive science,
+  psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-657
+content_type: AP
+status: seed
+title: "The Moral Stereotypes of Liberals and Conservatives: Exaggeration of Differences across the Political Spectrum"
+authors: []
+year: 2012
+venue: PLoS ONE
+doi: "10.1371/journal.pone.0050092"
+tier: contemporary
+citation_count_approx: 322
+cross_seed_score: 2
+openalex_id: "W3123568424"
+significance: >
+  Published in PLoS ONE; addresses ingroups and outgroups, outgroup,
+  exaggeration. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

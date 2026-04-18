@@ -1,0 +1,19 @@
+resource_id: LE-AP-114
+content_type: AP
+title: "Jill Watson: A Virtual Teaching Assistant for Online Education"
+authors:
+  - Ashok Goel
+  - Lalith Polepeddi
+year: 2016
+venue: Georgia Institute of Technology, School of Interactive Computing (Technical Report)
+tier: contemporary
+citation_count_approx: 920
+significance: >
+  Full technical description of Jill Watson's architecture, training data, deployment methodology,
+  and evaluation in a MOOC setting, demonstrating that an AI TA can handle ~40% of student
+  questions without human intervention. Foundational reference for LE deployment of AI teaching
+  assistants in large-scale online education.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T16

@@ -1,0 +1,18 @@
+resource_id: LE-AP-613
+content_type: AP
+status: seed
+title: "Taxonomy of Educational Objectives. Handbook I: Cognitive Domain"
+authors: []
+year: 1966
+venue: British Journal of Educational Studies
+doi: "10.2307/3119730"
+tier: highly_cited
+citation_count_approx: 1115
+cross_seed_score: 2
+openalex_id: "W2326141067"
+significance: >
+  Published in British Journal of Educational Studies; addresses taxonomy
+  (biology), cognition, psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

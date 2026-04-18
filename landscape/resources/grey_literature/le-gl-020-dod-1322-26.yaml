@@ -1,0 +1,19 @@
+resource_id: LE-GL-020
+content_type: GL
+status: APPROVED
+title: "DoD Instruction 1322.26: Development, Management, and Delivery of Distributed Learning"
+authors:
+  - "U.S. Department of Defense"
+year: 2013
+publisher: "U.S. Department of Defense"
+url: "https://www.esd.whs.mil/DD/Issuances/dodi/"
+type: standard
+primary_topic: T02
+secondary_topics:
+  - T10
+  - T16
+significance: >
+  DoD policy governing the design, management, and delivery of distributed (technology-based)
+  learning for military training. Mandates ADDIE-based instructional systems design, learning
+  objective taxonomies, and evaluation standards. The governance framework for LE deployment
+  across the largest single training system in the world.

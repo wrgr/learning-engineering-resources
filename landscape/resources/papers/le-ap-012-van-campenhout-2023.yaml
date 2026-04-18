@@ -1,0 +1,21 @@
+resource_id: LE-AP-012
+content_type: AP
+title: "The doer effect at scale: Investigating correlation and causation across seven courses"
+authors:
+  - Rachel Van Campenhout
+  - Bill Jerome
+  - Benny G. Johnson
+year: 2023
+venue: "Proceedings of LAK23: 13th International Learning Analytics and Knowledge Conference"
+doi: "10.1145/3576050.3576088"
+tier: contemporary
+citation_count_approx: 80
+significance: >
+  Leveraged telemetry from large-scale online platforms to isolate the causal effect of
+  active practice (doing) vs. passive reading on learning outcomes across seven courses.
+  Provides large-sample empirical validation of one of learning engineering's core design
+  principles at scale.
+primary_topic: T04
+secondary_topics:
+  - T03
+  - T15

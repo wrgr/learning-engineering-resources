@@ -1,0 +1,18 @@
+resource_id: LE-AP-225
+content_type: AP
+status: seed
+title: "Categorization and Representation of Physics Problems by Experts and Novices*"
+authors: []
+year: 1981
+venue: Cognitive Science
+doi: "10.1207/s15516709cog0502_2"
+tier: foundational
+citation_count_approx: 5208
+cross_seed_score: 3
+openalex_id: "W2045300586"
+significance: >
+  Published in Cognitive Science; addresses categorization, representation
+  (politics), knowledge representation and reasoning. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

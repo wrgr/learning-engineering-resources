@@ -1,0 +1,18 @@
+resource_id: LE-AP-538
+content_type: AP
+status: seed
+title: "Dual Space Search During Scientific Reasoning"
+authors: []
+year: 1988
+venue: Cognitive Science
+doi: "10.1207/s15516709cog1201_1"
+tier: highly_cited
+citation_count_approx: 1025
+cross_seed_score: 2
+openalex_id: "W2131370811"
+significance: >
+  Published in Cognitive Science; addresses space (punctuation), context
+  (archaeology), computer science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,24 @@
+resource_id: LE-AP-045
+content_type: AP
+title: "Evidence-Based Education Policies: Transforming Educational Practice and Research"
+authors:
+  - Robert E. Slavin
+year: 2002
+venue: Educational Researcher
+volume: "31"
+issue: "7"
+pages: "15–21"
+doi: "10.3102/0013189X031007015"
+tier: highly_cited
+citation_count_approx: 1400
+significance: >
+  Argued for systematic adoption of rigorous evidence standards (randomized experiments,
+  replications, effect size reporting) in education, modeled on evidence-based medicine.
+  Slavin's framework directly shaped the IES What Works Clearinghouse, evidence
+  standards in education research, and LE's commitment to empirical validation
+  of instructional interventions. Essential context for LEBOK KA10 (Evaluation) and
+  KA11 (Research Methods).
+primary_topic: T15
+secondary_topics:
+  - T10
+  - T17

@@ -1,0 +1,18 @@
+resource_id: LE-AP-243
+content_type: AP
+status: seed
+title: "The Knowledge‐Learning‐Instruction Framework: Bridging the Science‐Practice Chasm to Enhance Robust Student Learning"
+authors: []
+year: 2012
+venue: Cognitive Science
+doi: "10.1111/j.1551-6709.2012.01245.x"
+tier: contemporary
+citation_count_approx: 703
+cross_seed_score: 3
+openalex_id: "W2106779500"
+significance: >
+  Published in Cognitive Science; addresses generality, computer science,
+  fluency. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

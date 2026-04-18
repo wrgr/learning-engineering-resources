@@ -1,0 +1,17 @@
+resource_id: LE-AP-753
+content_type: AP
+status: seed
+title: "“A Behavioral Perspective on College Teaching"
+authors: []
+year: 1991
+venue: Unknown Venue
+doi: "10.1007/bf03392578"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Michael, Jack. “A Behavioral Perspective on College Teaching.” The Behavior
+  Analyst 14, no. 2 (1991): 229–239. https://d...
+primary_topic: T01

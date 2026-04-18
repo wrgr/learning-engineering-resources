@@ -1,0 +1,18 @@
+resource_id: LE-AP-366
+content_type: AP
+status: seed
+title: "On the social psychology of the psychological experiment: With particular reference to demand characteristics and their implications."
+authors: []
+year: 1962
+venue: American Psychologist
+doi: "10.1037/h0043424"
+tier: highly_cited
+citation_count_approx: 4014
+cross_seed_score: 2
+openalex_id: "W1967992372"
+significance: >
+  Published in American Psychologist; addresses psychology, applied psychology,
+  social psychology. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

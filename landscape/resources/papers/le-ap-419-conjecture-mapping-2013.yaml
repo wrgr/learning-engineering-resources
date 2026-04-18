@@ -1,0 +1,18 @@
+resource_id: LE-AP-419
+content_type: AP
+status: seed
+title: "Conjecture Mapping: An Approach to Systematic Educational Design Research"
+authors: []
+year: 2013
+venue: Journal of the Learning Sciences
+doi: "10.1080/10508406.2013.778204"
+tier: contemporary
+citation_count_approx: 637
+cross_seed_score: 2
+openalex_id: "W2022041506"
+significance: >
+  Published in Journal of the Learning Sciences; addresses confusion,
+  scholarship, conjecture. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

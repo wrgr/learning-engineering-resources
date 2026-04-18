@@ -1,0 +1,26 @@
+resource_id: LE-AP-116
+content_type: AP
+title: "Automatic detection of learner's affect from conversational cues"
+authors:
+  - Sidney D'Mello
+  - Scotty Craig
+  - Amy Witherspoon
+  - Bethany McDaniel
+  - Art Graesser
+year: 2008
+venue: User Modeling and User-Adapted Interaction
+volume: "18"
+issue: "1-2"
+pages: "45-80"
+doi: "10.1007/s11257-007-9037-6"
+tier: highly_cited
+citation_count_approx: 610
+significance: >
+  Demonstrated automated detection of learner affect (frustration, confusion, boredom, flow) from
+  conversational interaction patterns using machine learning classifiers. Established the
+  methodological foundation for affective computing in LE systems, enabling adaptive responses to
+  learner emotional-cognitive states in intelligent tutoring.
+primary_topic: T04
+secondary_topics:
+  - T07
+  - T06

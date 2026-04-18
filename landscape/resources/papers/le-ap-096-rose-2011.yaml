@@ -1,0 +1,25 @@
+resource_id: LE-AP-096
+content_type: AP
+title: "Towards an agile approach to adapting dynamic collaboration support to student needs"
+authors:
+  - David Adamson
+  - Gregory Dyke
+  - Hyeju Jang
+  - Carolyn Penstein Rosé
+year: 2014
+venue: International Journal of AI in Education
+volume: "24"
+issue: "1"
+pages: "91-121"
+doi: "10.1007/s40593-013-0015-0"
+tier: contemporary
+citation_count_approx: 130
+significance: >
+  Developed an agile methodology for dynamically adapting AI-facilitated collaboration
+  support based on real-time analysis of student group interactions. Demonstrated that
+  just-in-time adaptive interventions improved collaborative learning quality compared to
+  static scaffolds, informing LE system design for adaptive group learning.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T09

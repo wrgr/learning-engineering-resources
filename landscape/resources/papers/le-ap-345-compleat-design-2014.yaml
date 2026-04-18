@@ -1,0 +1,17 @@
+resource_id: LE-AP-345
+content_type: AP
+status: seed
+title: "The “Compleat” Design Experiment: From Soup to Nuts"
+authors: []
+year: 2014
+venue: Unknown Venue
+doi: "10.4324/9781315759593-12"
+tier: contemporary
+citation_count_approx: 55
+cross_seed_score: 2
+openalex_id: "W1628239807"
+significance: >
+  Published in Unknown Venue; addresses computer science. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

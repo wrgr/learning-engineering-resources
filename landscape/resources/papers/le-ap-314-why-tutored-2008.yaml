@@ -1,0 +1,21 @@
+resource_id: LE-AP-314
+content_type: AP
+status: seed
+title: "Why Tutored Problem Solving May be Better Than Example Study: Theoretical Implications from a Simulated-Student Study"
+authors: []
+year: 2008
+venue: Lecture notes in computer science
+doi: "10.1007/978-3-540-69132-7_16"
+tier: contemporary
+citation_count_approx: 17
+cross_seed_score: 2
+openalex_id: "W1512657631"
+significance: >
+  Published in Lecture notes in computer science; addresses computer science,
+  artificial intelligence, tutor. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T14
+  - T01

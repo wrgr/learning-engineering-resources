@@ -1,0 +1,21 @@
+resource_id: LE-AP-548
+content_type: AP
+status: seed
+title: "When and Why Does Mastery Learning Work: Instructional Experiments with ACT-R “SimStudents”"
+authors: []
+year: 2002
+venue: Lecture notes in computer science
+doi: "10.1007/3-540-47987-2_39"
+tier: contemporary
+citation_count_approx: 19
+cross_seed_score: 2
+openalex_id: "W2136070270"
+significance: >
+  Published in Lecture notes in computer science; addresses formative
+  assessment, computer science, curriculum. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T01

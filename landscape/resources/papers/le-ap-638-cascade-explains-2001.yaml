@@ -1,0 +1,17 @@
+resource_id: LE-AP-638
+content_type: AP
+status: seed
+title: "Cascade Explains and Informs the Utility of Fading Examples to Problems"
+authors: []
+year: 2001
+venue: eScholarship (California Digital Library)
+tier: contemporary
+citation_count_approx: 13
+cross_seed_score: 2
+openalex_id: "W2767277073"
+significance: >
+  Published in eScholarship (California Digital Library); addresses fading,
+  cascade, computer science. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

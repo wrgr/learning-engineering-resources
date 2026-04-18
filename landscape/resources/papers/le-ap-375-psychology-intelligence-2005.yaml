@@ -1,0 +1,18 @@
+resource_id: LE-AP-375
+content_type: AP
+status: seed
+title: "The Psychology Of Intelligence"
+authors: []
+year: 2005
+venue: Unknown Venue
+doi: "10.4324/9780203981528"
+tier: highly_cited
+citation_count_approx: 3026
+cross_seed_score: 2
+openalex_id: "W1976518595"
+significance: >
+  Published in Unknown Venue; addresses psychology, applied psychology,
+  cognitive science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

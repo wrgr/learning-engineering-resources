@@ -1,0 +1,24 @@
+resource_id: LE-JO-001
+content_type: JO
+status: APPROVED
+name: "Journal of the Learning Sciences"
+type: journal
+affiliation_or_venue: "Taylor & Francis / ISLS"
+url: "https://www.tandfonline.com/journals/hlns20"
+primary_topic: T17
+secondary_topics:
+  - T01
+  - T03
+description: >
+  Founded 1991; the multidisciplinary anchor journal for theoretical models,
+  epistemology, and design-based research in the learning sciences. Home of
+  Ann Brown's 'Design Experiments' (1992, 2,800+ citations) and Scardamalia &
+  Bereiter's knowledge-building paper (1994). Sets the methodological standard
+  for design-based research in education.
+
+  Publishes the socio-cognitive and humanistic tradition within learning
+  engineering — essential for grounding algorithmic approaches in rich theories
+  of how people learn in context. JLS is the venue where learning engineering
+  practitioners find the theoretical warrant for their design decisions and
+  the strongest empirical challenges to purely technocentric approaches.
+notes: "Founded 1991; published by Taylor & Francis on behalf of ISLS. Ann Brown's 'Design Experiments' (1992) is the most-cited methodological paper in the LE canon."

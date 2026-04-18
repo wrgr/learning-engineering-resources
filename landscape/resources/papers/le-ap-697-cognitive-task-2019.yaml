@@ -1,0 +1,18 @@
+resource_id: LE-AP-697
+content_type: AP
+status: seed
+title: "A Cognitive Task Analysis of Using Pictures To Support Pre-Algebraic Reasoning"
+authors: []
+year: 2019
+venue: Unknown Venue
+doi: "10.4324/9781315782379-129"
+tier: contemporary
+citation_count_approx: 35
+cross_seed_score: 2
+openalex_id: "W54318667"
+significance: >
+  Published in Unknown Venue; addresses task (project management), cognition,
+  computer science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-349
+content_type: AP
+status: seed
+title: "The Atomic Components of Thought"
+authors: []
+year: 2014
+venue: Psychology Press eBooks
+doi: "10.4324/9781315805696"
+tier: highly_cited
+citation_count_approx: 2182
+cross_seed_score: 2
+openalex_id: "W1679907412"
+significance: >
+  Published in Psychology Press eBooks; addresses psychology, computer science,
+  materials science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-421
+content_type: AP
+status: seed
+title: "Constructing arguments from multiple sources: Tasks that promote understanding and not just memory for text."
+authors: []
+year: 1999
+venue: Journal of Educational Psychology
+doi: "10.1037/0022-0663.91.2.301"
+tier: contemporary
+citation_count_approx: 468
+cross_seed_score: 2
+openalex_id: "W2023697782"
+significance: >
+  Published in Journal of Educational Psychology; addresses psychology,
+  cognitive psychology, short-term memory. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

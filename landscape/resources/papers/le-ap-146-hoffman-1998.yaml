@@ -1,0 +1,24 @@
+resource_id: LE-AP-146
+content_type: AP
+title: "Use of the Critical Decision Method to Elicit Expert Knowledge: A Case Study in the Methodology of Cognitive Task Analysis"
+authors:
+  - Robert R. Hoffman
+  - Beth Crandall
+  - Nigel Shadbolt
+year: 1998
+venue: "Human Factors"
+volume: "40"
+issue: "2"
+pages: "254-276"
+doi: "10.1518/001872098779480451"
+tier: highly_cited
+citation_count_approx: 580
+significance: >
+  Demonstrated the Critical Decision Method (CDM) for eliciting tacit expert knowledge through
+  retrospective interviews about critical incidents. Directly applicable to LE needs analysis
+  and knowledge elicitation for professional training design, where SME expertise must be
+  articulated into learnable content.
+primary_topic: T02
+secondary_topics:
+  - T10
+  - T11

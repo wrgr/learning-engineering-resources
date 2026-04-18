@@ -1,0 +1,19 @@
+resource_id: LE-AP-141
+content_type: AP
+title: "Impacts of the Digital Ocean on Education"
+authors:
+  - Kristen E. DiCerbo
+  - John T. Behrens
+year: 2014
+venue: "Pearson Education"
+tier: contemporary
+citation_count_approx: 180
+significance: >
+  Analyzed how the proliferation of digital learning interactions creates unprecedented data
+  for continuous, embedded assessment — the "digital ocean" of learning signals. Provides LE
+  practitioners with a framework for leveraging interaction data as formative assessment
+  evidence and for rethinking the role of testing in data-rich learning environments.
+primary_topic: T09
+secondary_topics:
+  - T16
+  - T10

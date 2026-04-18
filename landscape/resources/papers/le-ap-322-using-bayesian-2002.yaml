@@ -1,0 +1,18 @@
+resource_id: LE-AP-322
+content_type: AP
+status: seed
+title: "Using Bayesian Networks to Manage Uncertainty in Student Modeling"
+authors: []
+year: 2002
+venue: User Modeling and User-Adapted Interaction
+doi: "10.1023/a:1021258506583"
+tier: contemporary
+citation_count_approx: 478
+cross_seed_score: 2
+openalex_id: "W1529098247"
+significance: >
+  Published in User Modeling and User-Adapted Interaction; addresses computer
+  science, probabilistic logic, bayesian network. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

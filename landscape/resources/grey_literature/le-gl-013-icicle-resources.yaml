@@ -1,0 +1,17 @@
+resource_id: LE-GL-013
+content_type: GL
+status: APPROVED
+title: "IEEE ICICLE Resources Page"
+authors:
+  - "IEEE ICICLE"
+year: 2024
+publisher: "IEEE ICICLE"
+url: "https://sagroups.ieee.org/icicle/resources/"
+type: report
+primary_topic: T00
+secondary_topics:
+  - T16
+significance: >
+  Curated resource list maintained by the IEEE ICICLE community. Includes papers, tools, programs,
+  and community resources. The most authoritative practitioner-curated collection of LE resources,
+  updated continuously as the field evolves.

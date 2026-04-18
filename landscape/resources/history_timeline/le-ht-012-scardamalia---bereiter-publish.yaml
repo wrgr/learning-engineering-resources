@@ -1,0 +1,18 @@
+resource_id: LE-HT-012
+content_type: HT
+year: 1994
+era: expansion
+event: "Scardamalia & Bereiter publish 'Computer Support for Knowledge-Building Communities' in JLS"
+significance: >
+  Engineered the socio-cognitive framework for collaborative digital learning
+  platforms. With over 1,800 citations, this paper shaped how online and CSCL
+  systems are designed to support collective knowledge construction rather than
+  individual acquisition.
+actors:
+  - "Marlene Scardamalia"
+  - "Carl Bereiter"
+references:
+  - "Scardamalia, M., & Bereiter, C. (1994). Computer Support for Knowledge-Building Communities. Journal of the Learning Sciences, 3(3), 265–283."
+primary_topic: T06
+secondary_topics:
+  - T01

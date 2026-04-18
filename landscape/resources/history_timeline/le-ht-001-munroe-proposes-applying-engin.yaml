@@ -1,0 +1,12 @@
+resource_id: LE-HT-001
+content_type: HT
+year: 1912
+era: pre-field
+event: "Munroe proposes applying engineering principles to educational efficiency"
+significance: >
+  One of the earliest documented calls for treating the design of educational
+  systems as an engineering discipline, predating the formal field by half a
+  century.
+actors:
+  - "Munroe"
+primary_topic: T00

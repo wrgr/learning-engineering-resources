@@ -1,0 +1,25 @@
+resource_id: LE-AP-101
+content_type: AP
+title: "The Writing Pal intelligent tutoring system: Usability testing and developer decisions"
+authors:
+  - Rod D. Roscoe
+  - Laura K. Allen
+  - Jennifer L. Weston
+  - Scott A. Crossley
+  - Danielle S. McNamara
+year: 2014
+venue: Computers and Composition
+volume: "34"
+pages: "39-59"
+doi: "10.1016/j.compcom.2014.09.002"
+tier: contemporary
+citation_count_approx: 180
+significance: >
+  Reported user testing and iterative design decisions for the Writing Pal ITS,
+  documenting how learner usability feedback shaped system revisions. Provides LE
+  practitioners with a model for user-centered evaluation and iterative refinement of
+  intelligent tutoring systems throughout deployment.
+primary_topic: T06
+secondary_topics:
+  - T10
+  - T15

@@ -1,0 +1,17 @@
+resource_id: LE-PC-001
+content_type: PC
+status: APPROVED
+name: "LENS @ JHU — Learning Engineering for Next-Generation Systems"
+url: "[internal]"
+primary_topic: T13
+secondary_topics:
+  - T02
+  - T10
+  - T15
+description: >
+  Concentration within JHU MEd in Learning Design & Technology. Targets
+  practitioners in complex organizations: defense, healthcare, large-scale
+  education. Grounded in human systems integration and learning engineering
+  expertise. Capstone produces evidence dashboard, reproducible report, and
+  governance/ethics plan. Unique JHU ecosystem: APL + Medicine + IEEE/ICICLE
+  partnership.

@@ -1,0 +1,18 @@
+resource_id: LE-AP-442
+content_type: AP
+status: seed
+title: "The mangle of practice : time, agency, and science"
+authors: []
+year: 1995
+venue: Unknown Venue
+doi: "10.7208/9780226668253"
+tier: highly_cited
+citation_count_approx: 1616
+cross_seed_score: 2
+openalex_id: "W2046823563"
+significance: >
+  Published in Unknown Venue; addresses agency (philosophy), context
+  (archaeology), epistemology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

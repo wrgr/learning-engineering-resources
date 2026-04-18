@@ -1,0 +1,24 @@
+resource_id: LE-JO-004
+content_type: JO
+status: APPROVED
+name: "Journal of Learning Analytics (JLA)"
+type: journal
+affiliation_or_venue: "Society for Learning Analytics Research (SoLAR)"
+url: "https://learning-analytics.info/index.php/JLA"
+primary_topic: T09
+secondary_topics:
+  - T14
+  - T17
+description: >
+  Official publication of SoLAR. Covers the socio-technical implications of
+  educational data: dashboard design, algorithmic ethics, data privacy,
+  human-in-the-loop architectures, and equity in analytics deployment.
+  Publishes empirical evaluations of analytics interventions alongside
+  conceptual and critical scholarship.
+
+  Complements JEDM's algorithmic focus with practice implications and ethical
+  framing. For LE practitioners deploying analytics in institutional contexts,
+  JLA provides the strongest guidance on implementation, adoption, and the
+  institutional and ethical conditions under which analytics actually improves
+  learning outcomes.
+notes: "Open access; official publication of SoLAR. Complements JEDM — LA vs. EDM distinction is a key field boundary."

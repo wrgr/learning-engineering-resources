@@ -1,0 +1,18 @@
+resource_id: LE-AP-502
+content_type: AP
+status: seed
+title: "Expertise, models of learning and computer-based tutoring"
+authors: []
+year: 1999
+venue: Computers & Education
+doi: "10.1016/s0360-1315(99)00032-9"
+tier: contemporary
+citation_count_approx: 34
+cross_seed_score: 2
+openalex_id: "W2105428750"
+significance: >
+  Published in Computers & Education; addresses computer science, relation
+  (database), process (computing). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

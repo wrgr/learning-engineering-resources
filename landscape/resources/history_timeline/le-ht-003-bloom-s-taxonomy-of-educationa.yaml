@@ -1,0 +1,17 @@
+resource_id: LE-HT-003
+content_type: HT
+year: 1956
+era: pre-field
+event: "Bloom's Taxonomy of Educational Objectives published"
+significance: >
+  Provided the first widely adopted framework for classifying learning
+  objectives hierarchically. Became the dominant vocabulary for instructional
+  design and later for competency frameworks used in learning engineering
+  systems.
+actors:
+  - "Benjamin Bloom"
+references:
+  - "Bloom, B. S. (1956). Taxonomy of Educational Objectives."
+primary_topic: T12
+secondary_topics:
+  - T05

@@ -1,0 +1,18 @@
+resource_id: LE-AP-273
+content_type: AP
+status: seed
+title: "19 The Moral Mind"
+authors: []
+year: 2008
+venue: Unknown Venue
+doi: "10.1093/acprof:oso/9780195332834.003.0019"
+tier: contemporary
+citation_count_approx: 644
+cross_seed_score: 3
+openalex_id: "W2489929582"
+significance: >
+  Published in Unknown Venue; addresses morality, epistemology, value
+  (mathematics). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

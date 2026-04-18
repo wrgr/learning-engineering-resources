@@ -1,0 +1,26 @@
+resource_id: LE-AP-057
+content_type: AP
+title: "A Computer-Based Game that Promotes Mathematics Learning More than a Conventional Approach"
+authors:
+  - Bruce M. McLaren
+  - Deanne Adams
+  - Richard Mayer
+  - Jonathan Forlizzi
+year: 2017
+venue: International Journal of Game-Based Learning
+volume: "7"
+issue: "1"
+pages: "36–56"
+doi: "10.4018/IJGBL.2017010103"
+tier: contemporary
+citation_count_approx: 310
+significance: >
+  Reported a large-scale study showing that a decimal-operations game (Decimal Point)
+  produced better learning and retention than a conventional tutoring system for
+  middle-school mathematics. One of the stronger causal evaluations of game-based
+  learning, addressing validity threats that plague most GBL research. Provides LE
+  practitioners with a methodological model for rigorous game-based learning evaluation.
+primary_topic: T06
+secondary_topics:
+  - T08
+  - T10

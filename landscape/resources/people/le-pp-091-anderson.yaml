@@ -1,0 +1,31 @@
+resource_id: LE-PP-091
+content_type: PP
+status: APPROVED
+name: John R. Anderson
+affiliation: "Carnegie Mellon University, HCII"
+years: "1947–present"
+era: founding
+role: Cognitive architect; creator of ACT-R; pioneer of Cognitive Tutors
+description: >
+  Cognitive scientist and architect of ACT-R (Adaptive Control of Thought–Rational),
+  the dominant cognitive architecture for modeling skill learning. Creator of the LISP
+  Tutor (1983), the first empirically validated intelligent tutoring system. Co-developed
+  the Cognitive Tutor for algebra, deployed in 2,600+ schools to half a million students.
+  Demonstrated that ITS-based tutoring produces learning gains equivalent to 1-to-1 human
+  tutoring.
+key_contributions:
+  - Developed ACT-R (Adaptive Control of Thought–Rational), the dominant cognitive architecture for modeling skill learning
+  - Created the LISP Tutor (1983), the first empirically validated intelligent tutoring system
+  - Co-developed Cognitive Tutor for algebra, deployed in 2,600+ schools to half a million students
+  - Established the production-rule encoding methodology that allows cognitive models to drive adaptive tutoring
+  - Demonstrated that ITS-based tutoring produces learning gains equivalent to 1-to-1 human tutoring (the '2-sigma effect')
+key_works:
+  - "Rules of the Mind (1993)"
+  - "Cognitive Tutors: Lessons Learned (Journal of the Learning Sciences, 1995)"
+  - "Abstract planning and perceptual chunks (with Koedinger, Cognitive Science, 1990)"
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T00
+url: https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/anderson-john.html
+notes: ACT-R and Cognitive Tutor. Foundational ITS figure.

@@ -1,0 +1,18 @@
+resource_id: LE-AP-300
+content_type: AP
+status: seed
+title: "Mental Representations: A Dual Coding Approach"
+authors: []
+year: 1986
+venue: Unknown Venue
+doi: "10.1093/acprof:oso/9780195066661.001.0001"
+tier: foundational
+citation_count_approx: 5044
+cross_seed_score: 2
+openalex_id: "W1483155202"
+significance: >
+  Published in Unknown Venue; addresses cognition, cognitive science, dual
+  (grammatical number). Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

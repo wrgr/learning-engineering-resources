@@ -1,0 +1,17 @@
+resource_id: LE-AP-702
+content_type: AP
+status: seed
+title: "Theory of Instruction: Principles and Applications"
+authors: []
+year: 1982
+venue: Medical Entomology and Zoology
+tier: contemporary
+citation_count_approx: 703
+cross_seed_score: 2
+openalex_id: "W630082074"
+significance: >
+  Published in Medical Entomology and Zoology; addresses computer science,
+  mathematics education, psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

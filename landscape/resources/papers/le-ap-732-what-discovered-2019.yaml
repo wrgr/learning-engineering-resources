@@ -1,0 +1,16 @@
+resource_id: LE-AP-732
+content_type: AP
+status: seed
+title: "“What We Discovered at the Roots of Learning Engineering"
+authors: []
+year: 2019
+venue: Proceedings of the 2019 Conference on Learning Engineering
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Goodell, Jim, Mark Lee, and Jodi Lis. “What We Discovered at the Roots of
+  Learning Engineering.” In Proceedings of the 2...
+primary_topic: T01

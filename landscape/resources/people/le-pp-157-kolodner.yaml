@@ -1,0 +1,30 @@
+resource_id: LE-PP-157
+content_type: PP
+status: APPROVED
+name: Janet L. Kolodner
+affiliation: "Georgia Institute of Technology (emeritus)"
+years: "1950–present"
+era: founding
+role: Case-based reasoning pioneer; Learning by Design framework developer; co-author of LE Toolkit
+description: >
+  Created the case-based reasoning (CBR) paradigm and developed the Learning by Design
+  (LBD) framework — project-based learning grounded in design challenges. Co-edited the
+  Learning Engineering Toolkit with Jim Goodell. Intellectual parent of the LE process
+  methodology: iterative, evidence-based, user-centered design of learning systems.
+key_contributions:
+  - Created the case-based reasoning (CBR) paradigm — a model of learning from experience that informs how ITS should structure analogical transfer
+  - Developed the Learning by Design (LBD) framework — project-based learning grounded in design challenges
+  - Co-edited the Learning Engineering Toolkit with Jim Goodell, the field's primary practitioner handbook
+  - Showed that problem-based learning combined with case-based reasoning produces deeper science understanding in middle school
+  - Intellectual parent of the LE process methodology: iterative, evidence-based, user-centered design of learning systems
+key_works:
+  - "Case-Based Reasoning (Morgan Kaufmann, 1993)"
+  - "Problem-based learning meets case-based reasoning in the middle-school science classroom (JLS, 2003)"
+  - "Learning by Design: Creating opportunities for learning in after-school programs (Instructional Science, 2003)"
+primary_topic: T03
+secondary_topics:
+  - T12
+  - T17
+  - T01
+url: https://www.cc.gatech.edu/~jlk/
+notes: Case-based reasoning. Learning by Design. LE Toolkit co-editor.

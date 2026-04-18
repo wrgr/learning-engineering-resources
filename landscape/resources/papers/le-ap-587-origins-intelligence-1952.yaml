@@ -1,0 +1,17 @@
+resource_id: LE-AP-587
+content_type: AP
+status: seed
+title: "The origins of intelligence in children."
+authors: []
+year: 1952
+venue: W W Norton & Co eBooks
+doi: "10.1037/11494-000"
+tier: foundational
+citation_count_approx: 10263
+cross_seed_score: 2
+openalex_id: "W2157904933"
+significance: >
+  Published in W W Norton & Co eBooks; addresses psychology. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,26 @@
+resource_id: LE-AP-051
+content_type: AP
+title: "Collaborative Dialogue Patterns in Naturalistic One-to-One Tutoring"
+authors:
+  - Arthur C. Graesser
+  - Natalie K. Person
+  - Joseph P. Magliano
+year: 1995
+venue: Applied Cognitive Psychology
+volume: "9"
+issue: "6"
+pages: "495–522"
+doi: "10.1002/acp.2350090604"
+tier: foundational
+citation_count_approx: 1700
+significance: >
+  Analyzed transcripts of human one-to-one tutoring to identify the discourse moves,
+  question types, and dialogue patterns that produce learning gains. Found that tutors
+  ask deep-reasoning questions and use Socratic methods far more than classroom teachers.
+  Established the empirical baseline for effective tutoring dialogue that automated
+  tutoring systems (including conversational AI tutors) must replicate, underpinning
+  the design of AutoTutor and subsequent ITS dialogue models.
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T01

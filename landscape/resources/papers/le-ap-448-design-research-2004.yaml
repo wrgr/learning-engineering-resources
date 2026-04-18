@@ -1,0 +1,18 @@
+resource_id: LE-AP-448
+content_type: AP
+status: seed
+title: "Design Research in Education: Yes, but is it Methodological?"
+authors: []
+year: 2004
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1301_6"
+tier: contemporary
+citation_count_approx: 310
+cross_seed_score: 2
+openalex_id: "W2053509885"
+significance: >
+  Published in Journal of the Learning Sciences; addresses sympathy,
+  conventionalism, variety (cybernetics). Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

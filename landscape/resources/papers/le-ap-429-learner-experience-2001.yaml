@@ -1,0 +1,18 @@
+resource_id: LE-AP-429
+content_type: AP
+status: seed
+title: "Learner Experience and Efficiency of Instructional Guidance"
+authors: []
+year: 2001
+venue: Educational Psychology
+doi: "10.1080/01443410124681"
+tier: contemporary
+citation_count_approx: 182
+cross_seed_score: 2
+openalex_id: "W2035659515"
+significance: >
+  Published in Educational Psychology; addresses task (project management),
+  exploratory research, psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

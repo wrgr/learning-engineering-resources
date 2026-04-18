@@ -1,0 +1,18 @@
+resource_id: LE-AP-692
+content_type: AP
+status: seed
+title: "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations."
+authors: []
+year: 1986
+venue: Journal of Personality and Social Psychology
+doi: "10.1037/0022-3514.51.6.1173"
+tier: foundational
+citation_count_approx: 69997
+cross_seed_score: 2
+openalex_id: "W4292811746"
+significance: >
+  Published in Journal of Personality and Social Psychology; addresses
+  moderation, psychology, social psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

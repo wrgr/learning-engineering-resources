@@ -1,0 +1,18 @@
+resource_id: LE-AP-380
+content_type: AP
+status: seed
+title: "Relation of cue to consequence in avoidance learning"
+authors: []
+year: 1966
+venue: Psychonomic Science
+doi: "10.3758/bf03342209"
+tier: highly_cited
+citation_count_approx: 1980
+cross_seed_score: 2
+openalex_id: "W1981340104"
+significance: >
+  Published in Psychonomic Science; addresses stimulus (psychology), neutral
+  stimulus, licking. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

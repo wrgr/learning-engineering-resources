@@ -1,0 +1,27 @@
+resource_id: LE-GL-009
+content_type: GL
+status: APPROVED
+title: "Learning Engineering Adoption Maturity Model (LEAMM)"
+authors:
+  - "Shawn Blake-Plock"
+  - "Scotty D. Craig"
+  - "Emily Czerwinski"
+  - "Jim Goodell"
+  - "Jason Lis"
+  - "Katherine McEldoon"
+  - "Kristopher Owens"
+  - "Julian Stodd"
+  - "Steven Schatz"
+year: 2025
+publisher: "IEEE ICICLE"
+url: "https://icicle.ieee.org"
+type: framework
+primary_topic: T16
+secondary_topics:
+  - T03
+  - T15
+significance: >
+  Organizational capability matrix allowing enterprises to assess and advance their LE practice
+  across human-centered design, learning science integration, and data-driven iteration dimensions.
+  Provides a structured pathway from ad-hoc instructional design toward mature learning engineering
+  practice. The field's primary organizational self-assessment tool.

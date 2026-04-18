@@ -1,0 +1,18 @@
+resource_id: LE-AP-483
+content_type: AP
+status: seed
+title: "Development of explanation: Incremental and fundamental change in children's physics knowledge"
+authors: []
+year: 1991
+venue: Journal of Research in Science Teaching
+doi: "10.1002/tea.3660280906"
+tier: contemporary
+citation_count_approx: 86
+cross_seed_score: 2
+openalex_id: "W2080847544"
+significance: >
+  Published in Journal of Research in Science Teaching; addresses causality
+  (physics), context (archaeology), phenomenon. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

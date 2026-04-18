@@ -1,0 +1,18 @@
+resource_id: LE-AP-690
+content_type: AP
+status: seed
+title: "Making insights from educational psychology and educational technology research more useful for practice"
+authors: []
+year: 2022
+venue: Educational Psychologist
+doi: "10.1080/00461520.2022.2061974"
+tier: contemporary
+citation_count_approx: 14
+cross_seed_score: 2
+openalex_id: "W4289350584"
+significance: >
+  Published in Educational Psychologist; addresses generalizability theory,
+  psychology, educational psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

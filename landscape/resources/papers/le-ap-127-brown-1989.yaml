@@ -1,0 +1,25 @@
+resource_id: LE-AP-127
+content_type: AP
+title: "Situated Cognition and the Culture of Learning"
+authors:
+  - John Seely Brown
+  - Allan Collins
+  - Paul Duguid
+year: 1989
+venue: Educational Researcher
+volume: "18"
+issue: "1"
+pages: "32-42"
+doi: "10.3102/0013189X018001032"
+tier: foundational
+citation_count_approx: 7500
+significance: >
+  Argued that knowledge is inseparable from the activity, context, and culture
+  in which it is learned and used — the foundational paper for situated
+  learning theory. Directly challenged decontextualized drill-and-practice
+  designs and influenced LE design of authentic, contextualized learning
+  activities and problem scenarios.
+primary_topic: T01
+secondary_topics:
+  - T03
+  - T12

@@ -1,0 +1,18 @@
+resource_id: LE-AP-426
+content_type: AP
+status: seed
+title: "Validity of psychological assessment: Validation of inferences from persons' responses and performances as scientific inquiry into score meaning."
+authors: []
+year: 1995
+venue: American Psychologist
+doi: "10.1037/0003-066x.50.9.741"
+tier: highly_cited
+citation_count_approx: 3863
+cross_seed_score: 2
+openalex_id: "W2028829385"
+significance: >
+  Published in American Psychologist; addresses meaning (existential),
+  psychology, psychological science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T11

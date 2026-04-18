@@ -1,0 +1,19 @@
+resource_id: LE-GL-018
+content_type: GL
+status: APPROVED
+title: "NASA Human Systems Integration Practitioner's Guide"
+authors:
+  - "NASA"
+year: 2015
+publisher: "NASA"
+url: "https://www.nasa.gov/"
+type: report
+primary_topic: T02
+secondary_topics:
+  - T10
+  - T08
+significance: >
+  NASA's operational guide to implementing HSI across the systems engineering lifecycle.
+  Demonstrates how human-centered analysis (task analysis, workload, error analysis) integrates
+  with traditional SE milestones. Applicable to complex LE system development in
+  high-consequence environments.

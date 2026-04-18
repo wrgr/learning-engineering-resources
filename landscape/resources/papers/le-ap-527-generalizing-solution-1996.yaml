@@ -1,0 +1,18 @@
+resource_id: LE-AP-527
+content_type: AP
+status: seed
+title: "Generalizing solution procedures learned from examples."
+authors: []
+year: 1996
+venue: Journal of Experimental Psychology Learning Memory and Cognition
+doi: "10.1037/0278-7393.22.4.1020"
+tier: contemporary
+citation_count_approx: 132
+cross_seed_score: 2
+openalex_id: "W2126177085"
+significance: >
+  Published in Journal of Experimental Psychology Learning Memory and Cognition;
+  addresses computer science, calculus (dental), mathematics. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

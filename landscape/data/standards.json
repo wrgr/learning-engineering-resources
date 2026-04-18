@@ -1,0 +1,128 @@
+[
+  {
+    "resource_id": "LE-SG-001",
+    "content_type": "SG",
+    "status": "APPROVED",
+    "name": "IEEE 1484.1-2003: Learning Technology Systems Architecture (LTSA)",
+    "type": "standard",
+    "affiliation_or_venue": "IEEE LTSC",
+    "url": "https://standards.ieee.org/ieee/1484.1/1655/",
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T16"
+    ],
+    "description": "Defines the high-level system components and communication protocols required for interoperable learning technology platforms. Foundational systems architecture standard for the field. Sponsoring body: IEEE LTSC.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-SG-002",
+    "content_type": "SG",
+    "status": "APPROVED",
+    "name": "IEEE 9274 Family (xAPI / Experience API)",
+    "type": "standard",
+    "affiliation_or_venue": "IEEE LTSC / ADL",
+    "url": "https://xapi.com/overview/",
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T09",
+      "T16"
+    ],
+    "description": "Data instrumentation standard governing how learning experiences are tracked, stored in Learning Record Stores (LRS), and analyzed across distributed platforms. Includes JSON-LD application profiles, cybersecurity protocols, and vocabulary registries. The data infrastructure standard underpinning modern LE telemetry pipelines.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-SG-003",
+    "content_type": "SG",
+    "status": "APPROVED",
+    "name": "IEEE P2247.1 & P2247.2: Adaptive Instructional Systems (AIS)",
+    "type": "standard",
+    "affiliation_or_venue": "IEEE LTSC",
+    "url": "https://standards.ieee.org/project/2247_1.html",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T11",
+      "T16"
+    ],
+    "description": "Classifies components, parameters, and interoperability protocols for adaptive instructional systems. Engineering blueprints for building systems that dynamically adjust instruction based on real-time learner state. The most directly LE-relevant IEEE standard family.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-SG-004",
+    "content_type": "SG",
+    "status": "APPROVED",
+    "name": "IEEE 1484.20.2: Recommended Practice for Defining Competencies",
+    "type": "standard",
+    "affiliation_or_venue": "IEEE LTSC",
+    "url": "https://standards.ieee.org/ieee/1484.20.2/10435/",
+    "primary_topic": "T05",
+    "secondary_topics": [
+      "T16",
+      "T11"
+    ],
+    "description": "Rigorous data schema for defining human competencies. Supports Integrated Learner Records (ILR) spanning K-12, higher education, workforce, and military environments. Critical for competency-based education and credential portability.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-SG-005",
+    "content_type": "SG",
+    "status": "APPROVED",
+    "name": "IEEE 1484.12.1-2002 & P2881: Learning Object Metadata",
+    "type": "standard",
+    "affiliation_or_venue": "IEEE LTSC",
+    "url": "https://standards.ieee.org/ieee/1484.12.1/1280/",
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T05",
+      "T16"
+    ],
+    "description": "Essential standards for cataloging, discovery, and semantic structuring of digital learning resources across repositories. Enables automated discoverability and cross-platform content reuse. P2881 is the modernized successor incorporating linked data and accessibility requirements.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-SG-006",
+    "content_type": "SG",
+    "status": "APPROVED",
+    "name": "Open Context Exchange (OCX)",
+    "type": "standard",
+    "affiliation_or_venue": "Learning Tapestry / ICICLE",
+    "url": "https://learningtapestry.github.io/ocx/",
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T05"
+    ],
+    "description": "OER schema: specification and metadata ontology for publishing Open Educational Resources on the web. Unifies content to a standard vocabulary for discoverability and automated remixing. Enables interoperable OER ecosystems.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-SG-007",
+    "content_type": "SG",
+    "status": "APPROVED",
+    "name": "IMS Global CASE (Competency and Academic Standards Exchange)",
+    "type": "standard",
+    "affiliation_or_venue": "1EdTech (formerly IMS Global)",
+    "url": "https://www.1edtech.org/standards/case",
+    "primary_topic": "T05",
+    "secondary_topics": [
+      "T11",
+      "T16"
+    ],
+    "description": "Technical standard for expressing and exchanging competency frameworks, learning outcomes, and academic standards in machine-readable form. Enables interoperable knowledge representation across learning platforms — the infrastructure layer for competency-based knowledge models.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-SG-008",
+    "content_type": "SG",
+    "status": "APPROVED",
+    "name": "MIL-HDBK-502A: Acquisition of Training",
+    "type": "standard",
+    "affiliation_or_venue": "U.S. Department of Defense",
+    "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=213913",
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T02",
+      "T16"
+    ],
+    "description": "DoD handbook specifying acquisition processes for training systems, including task analysis, learning objective specification, instructional media selection, and evaluation criteria. Directly applicable to large-scale training system procurement and LE deployment in defense contexts.\n",
+    "notes": ""
+  }
+]

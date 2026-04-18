@@ -1,0 +1,21 @@
+resource_id: LE-AP-170
+content_type: AP
+status: seed
+title: "Cognitive Tutor: Applied research in mathematics education"
+authors: []
+year: 2007
+venue: Psychonomic Bulletin & Review
+doi: "10.3758/bf03194060"
+tier: contemporary
+citation_count_approx: 473
+cross_seed_score: 4
+openalex_id: "W1971228271"
+significance: >
+  Published in Psychonomic Bulletin & Review; addresses curriculum, tutor,
+  cognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T01

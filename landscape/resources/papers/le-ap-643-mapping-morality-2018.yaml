@@ -1,0 +1,18 @@
+resource_id: LE-AP-643
+content_type: AP
+status: seed
+title: "Mapping morality with a compass: Testing the theory of ‘morality-as-cooperation’ with a new questionnaire"
+authors: []
+year: 2018
+venue: Journal of Research in Personality
+doi: "10.1016/j.jrp.2018.10.008"
+tier: contemporary
+citation_count_approx: 240
+cross_seed_score: 2
+openalex_id: "W2794569589"
+significance: >
+  Published in Journal of Research in Personality; addresses morality,
+  psychology, compass. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

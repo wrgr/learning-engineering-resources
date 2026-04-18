@@ -1,0 +1,15 @@
+resource_id: LE-SG-006
+content_type: SG
+status: APPROVED
+name: "Open Context Exchange (OCX)"
+type: standard
+affiliation_or_venue: "Learning Tapestry / ICICLE"
+url: "https://learningtapestry.github.io/ocx/"
+primary_topic: T11
+secondary_topics:
+  - T05
+description: >
+  OER schema: specification and metadata ontology for publishing Open Educational
+  Resources on the web. Unifies content to a standard vocabulary for
+  discoverability and automated remixing. Enables interoperable OER ecosystems.
+notes: ""

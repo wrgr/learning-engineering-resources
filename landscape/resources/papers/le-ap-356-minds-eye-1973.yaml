@@ -1,0 +1,18 @@
+resource_id: LE-AP-356
+content_type: AP
+status: seed
+title: "THE MIND'S EYE IN CHESS"
+authors: []
+year: 1973
+venue: Elsevier eBooks
+doi: "10.1016/b978-0-12-170150-5.50011-1"
+tier: highly_cited
+citation_count_approx: 1415
+cross_seed_score: 2
+openalex_id: "W1813811056"
+significance: >
+  Published in Elsevier eBooks; addresses task (project management), recall,
+  computer chess. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

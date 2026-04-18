@@ -1,0 +1,21 @@
+resource_id: LE-AP-424
+content_type: AP
+status: seed
+title: "Design-based research and technology-enhanced learning environments"
+authors: []
+year: 2005
+venue: Educational Technology Research and Development
+doi: "10.1007/bf02504682"
+tier: highly_cited
+citation_count_approx: 2118
+cross_seed_score: 2
+openalex_id: "W2027890252"
+significance: >
+  Published in Educational Technology Research and Development; addresses
+  computer science, design-based research, educational technology. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T17
+  - T16

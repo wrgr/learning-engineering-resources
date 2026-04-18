@@ -1,0 +1,18 @@
+resource_id: LE-AP-592
+content_type: AP
+status: seed
+title: "In pursuit of knowledge: Comparing self-explanations, concepts, and procedures as pedagogical tools"
+authors: []
+year: 2008
+venue: Journal of Experimental Child Psychology
+doi: "10.1016/j.jecp.2008.08.004"
+tier: contemporary
+citation_count_approx: 117
+cross_seed_score: 2
+openalex_id: "W2162639440"
+significance: >
+  Published in Journal of Experimental Child Psychology; addresses psychology,
+  equivalence (formal languages), procedural knowledge. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

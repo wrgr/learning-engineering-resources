@@ -1,0 +1,17 @@
+resource_id: LE-AP-705
+content_type: AP
+status: seed
+title: "Key Misconceptions in Algebraic Problem Solving"
+authors: []
+year: 2008
+venue: eScholarship (California Digital Library)
+tier: contemporary
+citation_count_approx: 55
+cross_seed_score: 2
+openalex_id: "W75572175"
+significance: >
+  Published in eScholarship (California Digital Library); addresses mistake,
+  term (time), computer science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

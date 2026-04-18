@@ -1,0 +1,30 @@
+resource_id: LE-PP-012
+content_type: PP
+status: APPROVED
+name: Bror Saxberg
+affiliation: "Formerly Chan Zuckerberg Initiative / Kaplan; founder of LearningForge"
+years: "active 2000s–present"
+era: contemporary
+role: Learning science practitioner; LE thought leader; industry-academic bridge
+description: >
+  Early champion of learning engineering as a named field. Wrote influential 2016 Atlantic
+  piece calling for a new 'learning engineer' profession. Led learning science at Chan
+  Zuckerberg Initiative, framing LE as 'precision education' analogous to precision medicine.
+  Previously Chief Learning Officer at Kaplan. ICICLE advisory board member and co-editor
+  of Learning Engineering for Online Education (Routledge, 2019).
+key_contributions:
+  - Led learning science at Chan Zuckerberg Initiative, framing LE as 'precision education' analogous to precision medicine
+  - As Chief Learning Officer at Kaplan, pioneered application of cognitive science to large-scale commercial education
+  - ICICLE advisory board member; co-editor of Learning Engineering for Online Education (Routledge, 2019)
+  - Defined the practitioner learning engineer as someone who applies learning science at 'massive, affordable scale'
+  - Trained at MIT (BSc), Oxford (DPhil), and Harvard Medical School; bridges science and practice unusually well
+key_works:
+  - "Learning Engineering for Online Education (co-editor, Routledge, 2019)"
+  - "Why Do So Many Students Hate School? (Atlantic, 2014)"
+  - "A Transformation to Learning Engineering (Simon Initiative, 2016)"
+primary_topic: T00
+secondary_topics:
+  - T03
+  - T07
+url: https://learningforge.com
+notes: Practitioner anchor. Key for T00 field-definition topics.

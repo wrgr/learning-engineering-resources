@@ -1,0 +1,13 @@
+resource_id: LE-HT-016
+content_type: HT
+year: 2011
+era: expansion
+event: "First Learning Analytics and Knowledge (LAK) conference; Society for Learning Analytics Research (SoLAR) founded"
+significance: >
+  Formalized learning analytics as a distinct discipline alongside EDM. LAK
+  emphasizes practice-oriented analytics and ethical deployment; SoLAR anchors
+  the community. LA and EDM now constitute two of the three major computational
+  LE conference series.
+primary_topic: T04
+secondary_topics:
+  - T16

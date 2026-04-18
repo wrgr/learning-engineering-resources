@@ -1,0 +1,18 @@
+resource_id: LE-AP-553
+content_type: AP
+status: seed
+title: "The role of deliberate practice in the acquisition of expert performance."
+authors: []
+year: 1993
+venue: Psychological Review
+doi: "10.1037/0033-295x.100.3.363"
+tier: foundational
+citation_count_approx: 8674
+cross_seed_score: 2
+openalex_id: "W2137247190"
+significance: >
+  Published in Psychological Review; addresses psychology, cognitive psychology,
+  applied psychology. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

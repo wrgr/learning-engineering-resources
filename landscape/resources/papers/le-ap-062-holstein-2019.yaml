@@ -1,0 +1,24 @@
+resource_id: LE-AP-062
+content_type: AP
+title: "Co-designing a Real-Time Classroom Orchestration Tool to Support Teacher-AI Complementarity"
+authors:
+  - Kenneth Holstein
+  - Jess Wortman Vaughan
+  - Hal Daumé III
+  - Miro Dudík
+  - Hanna Wallach
+year: 2019
+venue: "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems"
+doi: "10.1145/3290605.3300418"
+tier: contemporary
+citation_count_approx: 380
+significance: >
+  Demonstrated a participatory design process for AI-supported classroom orchestration,
+  emphasizing human-AI complementarity rather than substitution. Findings highlight
+  how teacher agency must be preserved in AI-augmented classrooms. Directly relevant
+  to LE system design for human-in-the-loop learning environments and responsible
+  deployment of AI in educational contexts.
+primary_topic: T09
+secondary_topics:
+  - T07
+  - T16

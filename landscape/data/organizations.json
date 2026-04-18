@@ -1,320 +1,239 @@
 [
   {
-    "resource_id": "LE-LS-CO-001",
+    "resource_id": "LE-CO-001",
     "content_type": "CO",
+    "status": "APPROVED",
     "name": "IEEE ICICLE — Industry Consortium on Learning Engineering",
-    "acronym": "ICICLE",
     "type": "consortium",
-    "focus": "Professional standards body for learning engineering. Produces the LE Adoption Maturity Model, competency frameworks, annual conference proceedings, and the Journal of Learning Engineering. Chartered 2017 under IEEE LTSC.",
+    "affiliation_or_venue": "IEEE",
     "url": "https://icicle.ieee.org",
     "primary_topic": "T16",
-    "secondary_topics": ["T00", "T03"],
-    "notes": "The institutional anchor of the modern LE field. Sponsors the annual ICICLE conference; co-sponsors the xAPI profile work; primary source for LE body of knowledge documentation."
+    "secondary_topics": [
+      "T00",
+      "T03"
+    ],
+    "description": "Professional standards body for learning engineering. Produces the LE Adoption Maturity Model, competency frameworks, annual conference proceedings, and the Journal of Learning Engineering. Chartered 2017 under IEEE LTSC.\nThe institutional anchor of the modern LE field, providing the primary community infrastructure, shared vocabulary, and standards work that distinguish learning engineering as a professional discipline.\n",
+    "notes": "Chartered 2017 under IEEE LTSC; convener of the annual LE conference."
   },
   {
-    "resource_id": "LE-LS-CO-002",
+    "resource_id": "LE-CO-002",
     "content_type": "CO",
-    "name": "The Simon Initiative — Carnegie Mellon University",
-    "acronym": "Simon Initiative",
+    "status": "APPROVED",
+    "name": "The Simon Initiative",
     "type": "research_center",
-    "focus": "Cross-disciplinary learning engineering ecosystem at CMU. Encompasses LearnLab, OLI, DataShop/LearnSphere, and the METALS master's program. Mission: improve learning outcomes through rigorous research and technology deployment.",
+    "affiliation_or_venue": "Carnegie Mellon University",
     "url": "https://www.cmu.edu/simon/",
     "primary_topic": "T00",
-    "secondary_topics": ["T06", "T04", "T11"],
-    "notes": "Named for Herbert Simon. The world's most integrated LE research-to-practice ecosystem. Hundreds of faculty; world's largest educational log data bank; open-source tooling via OpenSimon."
+    "secondary_topics": [
+      "T06",
+      "T04"
+    ],
+    "description": "Cross-disciplinary learning engineering ecosystem at CMU named for Herbert Simon. Encompasses LearnLab, OLI, DataShop/LearnSphere, METALS master's program, and the OpenSimon Toolkit. Hundreds of affiliated faculty collaborate across schools to design, instrument, and iteratively improve learning systems using rigorous data.\nThe world's most integrated LE research-to-practice ecosystem, housing the world's largest open educational log data bank and serving as the primary institutional model for what learning engineering looks like at institutional scale.\n",
+    "notes": "Named for Herbert A. Simon; umbrella for LearnLab, OLI, DataShop/LearnSphere, METALS, and OpenSimon Toolkit."
   },
   {
-    "resource_id": "LE-LS-CO-003",
+    "resource_id": "LE-CO-003",
     "content_type": "CO",
-    "name": "Society for Learning Analytics Research",
-    "acronym": "SoLAR",
+    "status": "APPROVED",
+    "name": "Society for Learning Analytics Research (SoLAR)",
     "type": "academic_society",
-    "focus": "Academic society promoting learning analytics research, practice, and policy. Organizes the annual LAK conference and Learning Analytics Summer Institute (LASI). Publishes the Journal of Learning Analytics.",
+    "affiliation_or_venue": "International",
     "url": "https://www.solaresearch.org/",
-    "primary_topic": "T04",
-    "secondary_topics": ["T14", "T17"],
-    "notes": "Founded 2011 alongside the first LAK conference. Emphasizes practice-oriented, ethical analytics as distinct from pure EDM."
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T14",
+      "T17"
+    ],
+    "description": "International academic society promoting learning analytics research, practice, and policy. Organizes the annual LAK (Learning Analytics and Knowledge) conference and the Learning Analytics Summer Institute (LASI). Publishes the Journal of Learning Analytics. Founded 2011 alongside the first LAK conference.\nEmphasizes practice-oriented, ethical analytics distinct from pure EDM, with strong attention to equity, transparency, and the socio-technical implications of deploying analytics in educational contexts.\n",
+    "notes": "Founded 2011; organizes LAK conference and LASI; publishes Journal of Learning Analytics."
   },
   {
-    "resource_id": "LE-LS-CO-004",
+    "resource_id": "LE-CO-004",
     "content_type": "CO",
+    "status": "APPROVED",
     "name": "Penn Center for Learning Analytics",
-    "acronym": "PCLA",
     "type": "research_center",
-    "focus": "Research center at University of Pennsylvania directing EDM and LE policy work. Led by Ryan Baker. Produced 'High-Leverage Opportunities for Learning Engineering' (2021) and several landmark EDM papers.",
+    "affiliation_or_venue": "University of Pennsylvania",
     "url": "https://learninganalytics.upenn.edu",
-    "primary_topic": "T04",
-    "secondary_topics": ["T17", "T06"],
-    "notes": "Key policy hub alongside academic research. Baker is editor of JEDM and a primary organizer of the EDM conference."
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T17",
+      "T06"
+    ],
+    "description": "Research center at the University of Pennsylvania directing educational data mining and learning engineering policy work, led by Ryan Baker. Produced the influential 'High-Leverage Opportunities for Learning Engineering' report (2021), which mapped priority areas for the field.\nBaker serves as editor of the Journal of Educational Data Mining and is a primary organizer of the EDM conference. The center bridges computational EDM methods with applied learning engineering, making it a key node in the national LE policy conversation.\n",
+    "notes": "Ryan Baker, PI; produced 'High-Leverage Opportunities for Learning Engineering' (2021)."
   },
   {
-    "resource_id": "LE-LS-CO-005",
+    "resource_id": "LE-CO-005",
     "content_type": "CO",
+    "status": "APPROVED",
     "name": "HCII — Human-Computer Interaction Institute, Carnegie Mellon",
-    "acronym": "HCII",
     "type": "research_center",
-    "focus": "Academic home of learning sciences and technologies at CMU. Houses Ken Koedinger, Al Corbett, and the PACT Center. Offers PhD and MS programs integrating HCI, learning sciences, and data science.",
+    "affiliation_or_venue": "Carnegie Mellon University",
     "url": "https://hcii.cmu.edu",
     "primary_topic": "T06",
-    "secondary_topics": ["T01", "T03"],
-    "notes": "One of the premier academic homes for LE research globally. Co-originator of learning engineering as a named field."
+    "secondary_topics": [
+      "T01",
+      "T03"
+    ],
+    "description": "Academic home of learning sciences and technologies at CMU. Houses Ken Koedinger, Al Corbett, and the PACT Center. Offers PhD and MS programs integrating HCI, learning sciences, and data science. Co-originator of learning engineering as a named field.\nHome of DataShop, CTAT (Cognitive Tutor Authoring Tools), and the Cognitive Tutor research lineage — among the most replicated bodies of evidence in applied learning science. The HCII is the primary academic source of the methodological and theoretical frameworks that define learning engineering as a discipline.\n",
+    "notes": "Houses Koedinger, Corbett, and the PACT Center; co-originator of learning engineering as a named discipline."
   },
   {
-    "resource_id": "LE-LS-CO-006",
+    "resource_id": "LE-CO-006",
     "content_type": "CO",
-    "name": "International Educational Data Mining Society",
-    "acronym": "IEDMS",
+    "status": "APPROVED",
+    "name": "International Educational Data Mining Society (IEDMS)",
     "type": "academic_society",
-    "focus": "Society organizing the annual EDM conference and publishing the Journal of Educational Data Mining. Focus on computational, discovery-oriented analysis of educational data.",
+    "affiliation_or_venue": "International",
     "url": "https://educationaldatamining.org",
-    "primary_topic": "T04",
-    "secondary_topics": ["T06", "T17"],
-    "notes": "EDM emphasizes mathematical and algorithmic approaches; complementary to but distinct from LA (practice-oriented)."
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T06",
+      "T17"
+    ],
+    "description": "Society organizing the annual EDM (Educational Data Mining) conference and publishing the Journal of Educational Data Mining. Focuses on computational, discovery-oriented analysis of educational data, with emphasis on mathematical and algorithmic approaches to knowledge tracing, student modeling, and behavioral prediction.\nEDM is complementary to but distinct from learning analytics: EDM prioritizes algorithmic rigor and discovery, while LA emphasizes socio-technical implications and practice. Both communities are essential to the learning engineering toolkit.\n",
+    "notes": "Organizes annual EDM conference; publishes JEDM; sister community to SoLAR/LAK."
   },
   {
-    "resource_id": "LE-LS-CO-007",
+    "resource_id": "LE-CO-007",
     "content_type": "CO",
+    "status": "APPROVED",
     "name": "Learning Sciences Research Institute, UIC",
-    "acronym": "LSRI",
     "type": "research_center",
-    "focus": "Interdisciplinary research institute at University of Illinois Chicago spanning learning sciences, computational methods, and educational equity.",
+    "affiliation_or_venue": "University of Illinois Chicago",
     "url": "https://lsri.uic.edu/",
     "primary_topic": "T17",
-    "secondary_topics": ["T14", "T01"],
-    "notes": ""
+    "secondary_topics": [
+      "T14",
+      "T01"
+    ],
+    "description": "Interdisciplinary research institute at the University of Illinois Chicago spanning learning sciences, computational methods, and educational equity. Conducts research that bridges theoretical learning science and applied educational intervention, with particular attention to equity and access in urban educational contexts.\nLSRI provides a model for LE research that integrates rigorous methodology with a commitment to socially situated, equity-centered approaches — an important counterweight to purely technocentric conceptions of the field.\n"
   },
   {
-    "resource_id": "LE-LS-CE-001",
-    "content_type": "CE",
-    "name": "International Conference on Intelligent Tutoring Systems",
-    "acronym": "ITS",
-    "type": "conference",
-    "frequency": "Biennial",
-    "focus": "Premier venue for ITS research: cognitive models, student modeling, adaptive instruction, feedback algorithms. Founded 1988 in Montreal. Proceedings published by Springer LNCS.",
-    "url": "https://iis-international.org/its/",
+    "resource_id": "LE-CO-008",
+    "content_type": "CO",
+    "status": "APPROVED",
+    "name": "IEEE ICICLE SIGs & MIGs",
+    "type": "consortium",
+    "affiliation_or_venue": "IEEE ICICLE",
+    "url": "https://sagroups.ieee.org/icicle/sigs/",
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T00",
+      "T15"
+    ],
+    "description": "Official listing of IEEE ICICLE Special Interest Groups (SIGs) and Market Interest Groups (MIGs), including chairs, meeting cadence, and subscription information. Active groups span: Competencies/Credentials/Curriculum SIG, Design for Learning SIG, Tools SIG, Higher Education MIG, Government/Military MIG, pK-12 MIG, Workforce MIG, and Globalisation/Localisation SIG.\nOpen participation — the primary roster of active community leaders in learning engineering practice. SIGs and MIGs are the working layer where ICICLE standards, frameworks, and white papers are actually drafted; joining a SIG is the most direct path to participating in the field's institutional development.\n",
+    "notes": "Open participation; primary community organizing layer for LE standards and practice work."
+  },
+  {
+    "resource_id": "LE-CO-009",
+    "content_type": "CO",
+    "status": "APPROVED",
+    "name": "LIVE Learning Innovation Incubator — Vanderbilt Peabody",
+    "type": "research_center",
+    "affiliation_or_venue": "Vanderbilt University, Peabody College",
+    "url": "https://lab.vanderbilt.edu/live/",
     "primary_topic": "T06",
-    "secondary_topics": ["T04", "T07"],
-    "notes": "The oldest dedicated LE/ITS conference. ITS2026 in Cyprus (June 1–5, 2026)."
+    "secondary_topics": [
+      "T07",
+      "T15"
+    ],
+    "description": "Peabody College incubator supporting interdisciplinary learning innovation at Vanderbilt University. Brings together researchers, designers, and technologists to develop and evaluate novel learning systems, with emphasis on evidence-based design and emerging AI applications.\nVanderbilt LIVE teams participate in national AI-for-learning efforts, including AI-ALOE partner work on intelligent text and workplace learning tools. The incubator model — rapid prototyping with embedded evaluation — exemplifies the learning engineering design cycle applied at a research university.\n",
+    "notes": "AI-ALOE consortium partner; Peabody College, Vanderbilt."
   },
   {
-    "resource_id": "LE-LS-CE-002",
-    "content_type": "CE",
-    "name": "International Conference on Learning Analytics and Knowledge",
-    "acronym": "LAK",
-    "type": "conference",
-    "frequency": "Annual",
-    "focus": "Practice-oriented learning analytics, ethical deployment, dashboard design, predictive modeling, algorithmic fairness. Community-building for the SoLAR network.",
-    "url": "https://www.solaresearch.org/events/lak/",
-    "primary_topic": "T04",
-    "secondary_topics": ["T14", "T17"],
-    "notes": "Emphasizes socio-technical context of analytics; complements EDM's algorithmic focus."
-  },
-  {
-    "resource_id": "LE-LS-CE-003",
-    "content_type": "CE",
-    "name": "International Conference on Educational Data Mining",
-    "acronym": "EDM",
-    "type": "conference",
-    "frequency": "Annual",
-    "focus": "Algorithmic and computational approaches to educational data: knowledge tracing, early warning systems, automated feature engineering, student behavior modeling.",
-    "url": "https://educationaldatamining.org/conferences/",
-    "primary_topic": "T04",
-    "secondary_topics": ["T06", "T17"],
-    "notes": "One of three major computational LE conference series (with LAK and AIED)."
-  },
-  {
-    "resource_id": "LE-LS-CE-004",
-    "content_type": "CE",
-    "name": "International Conference on Artificial Intelligence in Education",
-    "acronym": "AIED",
-    "type": "conference",
-    "frequency": "Annual",
-    "focus": "AI-driven educational systems: generative AI tutors, NLP for learning, deep knowledge tracing, conversational agents, human-AI interaction in education.",
-    "url": "https://aied2025.org",
-    "primary_topic": "T07",
-    "secondary_topics": ["T06", "T04"],
-    "notes": "Largest first-authorship from China (vs. US dominance at LAK/EDM) — highlights globally distributed LE research ecosystem."
-  },
-  {
-    "resource_id": "LE-LS-CE-005",
-    "content_type": "CE",
-    "name": "International Society of the Learning Sciences Annual Meeting",
-    "acronym": "ISLS",
-    "type": "conference",
-    "frequency": "Annual",
-    "focus": "Design-based research, socio-cultural learning theory, collaborative learning, epistemology of learning environments. Balances computational rigor with qualitative and humanistic perspectives.",
-    "url": "https://www.isls.org/",
-    "primary_topic": "T17",
-    "secondary_topics": ["T01", "T03"],
-    "notes": "Provides the qualitative and socio-cultural counterbalance to EDM/LAK's algorithmic orientation. Important for ensuring LE systems remain human-centered."
-  },
-  {
-    "resource_id": "LE-LS-CE-006",
-    "content_type": "CE",
-    "name": "Learning @ Scale",
-    "acronym": "L@S",
-    "type": "conference",
-    "frequency": "Annual",
-    "focus": "Technical and pedagogical research on large-scale digital learning: MOOCs, online education platforms, at-scale experimentation, A/B testing in learning contexts.",
-    "url": "https://learningatscale.acm.org/",
-    "primary_topic": "T11",
-    "secondary_topics": ["T04", "T07"],
-    "notes": "ACM-sponsored; focuses on the intersection of scale and learning quality. Home of 'doer effect' and A/B experimentation papers."
-  },
-  {
-    "resource_id": "LE-LS-JO-001",
+    "resource_id": "LE-CO-010",
     "content_type": "CO",
-    "name": "Journal of the Learning Sciences",
-    "acronym": "JLS",
-    "type": "journal",
-    "focus": "Multidisciplinary forum for theoretical models, epistemology, and design-based research in learning sciences. Publishes foundational work on socio-cognitive frameworks, knowledge-building, and interaction analysis.",
-    "url": "https://www.tandfonline.com/journals/hlns20",
-    "primary_topic": "T17",
-    "secondary_topics": ["T01", "T03"],
-    "notes": "Home of Brown 1992 (design experiments, 2,800+ citations) and Scardamalia & Bereiter 1994 (knowledge-building, 1,800+ citations). The theoretical anchor journal for learning engineering."
-  },
-  {
-    "resource_id": "LE-LS-JO-002",
-    "content_type": "CO",
-    "name": "Journal of Educational Data Mining",
-    "acronym": "JEDM",
-    "type": "journal",
-    "focus": "Open-access journal dedicated to algorithms and methodologies for analyzing educational data: knowledge tracing, automated feature engineering, predictive student modeling.",
-    "url": "https://jedm.educationaldatamining.org/",
-    "primary_topic": "T04",
-    "secondary_topics": ["T06", "T17"],
-    "notes": "Premier venue for computational LE methods. Baker & Yacef 2009 (founding codification of EDM) published here. Diamond open access."
-  },
-  {
-    "resource_id": "LE-LS-JO-003",
-    "content_type": "CO",
-    "name": "IEEE Transactions on Learning Technologies",
-    "acronym": "IEEE TLT",
-    "type": "journal",
-    "focus": "Technical design and architecture of learning systems: adaptive algorithms, NLP conversational agents, multimodal telemetry (eye tracking, EEG, GSR), large-scale platform engineering.",
-    "url": "https://www.computer.org/csdl/journal/lt",
+    "status": "APPROVED",
+    "name": "National AI Institute for Adult Learning and Online Education (AI-ALOE)",
+    "type": "research_center",
+    "affiliation_or_venue": "Georgia Institute of Technology",
+    "url": "https://aialoe.org/",
     "primary_topic": "T06",
-    "secondary_topics": ["T07", "T11"],
-    "notes": "Requires substantive technical innovation in CS alongside pedagogical validity. Key venue for AI-in-education engineering papers."
+    "secondary_topics": [
+      "T07",
+      "T13"
+    ],
+    "description": "NSF-funded National AI Institute headquartered at Georgia Tech, developing AI theories and systems for adult online learning, intelligent tutors, and workforce upskilling. Consortium includes Georgia Tech, Vanderbilt, Harvard, and other partners. Pursues both foundational AI research and applied system development for real-world adult learners.\nPrimary Georgia Tech anchor for AI×learning engineering at scale. AI-ALOE represents one of the largest federal investments in AI-driven learning engineering, with particular focus on underserved adult learners and the intersection of workforce development with adaptive educational technology.\n",
+    "notes": "NSF National AI Institute; Georgia Tech-led consortium; focus on adult online learning and workforce upskilling."
   },
   {
-    "resource_id": "LE-LS-JO-004",
+    "resource_id": "LE-CO-011",
     "content_type": "CO",
-    "name": "Journal of Learning Analytics",
-    "acronym": "JLA",
-    "type": "journal",
-    "focus": "Socio-technical implications of educational data: dashboard design, algorithmic ethics, data privacy, human-in-the-loop architectures, equity in analytics deployment.",
-    "url": "https://learning-analytics.info/index.php/JLA",
-    "primary_topic": "T04",
-    "secondary_topics": ["T14", "T17"],
-    "notes": "Official publication of SoLAR. Emphasizes practice implications and ethical framing alongside technical analysis."
+    "status": "APPROVED",
+    "name": "International Society for the Learning Sciences (ISLS)",
+    "type": "academic_society",
+    "affiliation_or_venue": "International",
+    "url": "https://www.isls.org",
+    "primary_topic": "T01",
+    "secondary_topics": [
+      "T03",
+      "T15"
+    ],
+    "description": "Academic society organizing the annual ICLS (International Conference of the Learning Sciences) and CSCL (Computer-Supported Collaborative Learning) conferences. Bridges learning science theory and instructional design practice. Emphasizes socio-cultural and humanistic perspectives alongside computational approaches.\nEssential for grounding algorithmic LE systems in rich theories of how people learn in social and institutional contexts. ISLS conferences are where learning scientists and education researchers most directly interrogate the assumptions embedded in AI and data-driven learning systems.\n",
+    "notes": "Organizes ICLS and CSCL conferences; the primary society for learning sciences as an academic discipline."
   },
   {
-    "resource_id": "LE-LS-JO-005",
+    "resource_id": "LE-CO-012",
     "content_type": "CO",
-    "name": "International Journal of Artificial Intelligence in Education",
-    "acronym": "IJAIED",
-    "type": "journal",
-    "focus": "Premier venue for ITS, generative AI in education, deep cognitive modeling, evaluation of AI vs. human tutoring. Algorithmic accuracy evaluations and human factors studies.",
-    "url": "https://link.springer.com/journal/40593",
-    "primary_topic": "T07",
-    "secondary_topics": ["T06", "T04"],
-    "notes": "Springer. The home journal for rigorous AIED research between conference cycles."
+    "status": "APPROVED",
+    "name": "Human Factors and Ergonomics Society (HFES)",
+    "type": "academic_society",
+    "affiliation_or_venue": "International",
+    "url": "https://www.hfes.org/",
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T08"
+    ],
+    "description": "Professional society for human factors and ergonomics. Publishes the Human Factors journal and organizes the annual HFES conference. The Training Systems technical group directly addresses LE-relevant human factors in instructional systems design, including workload, situation awareness, and performance measurement in training environments.\nKey community for practitioners designing learning systems in complex, safety-critical environments — military, aviation, nuclear, and healthcare. Human factors methods (task analysis, cognitive workload assessment, human-in-the-loop testing) are essential LE tools when learning outcomes must be validated against real operational performance.\n",
+    "notes": "Training Systems technical group is the most directly LE-relevant subgroup."
   },
   {
-    "resource_id": "LE-LS-JO-006",
+    "resource_id": "LE-CO-013",
     "content_type": "CO",
-    "name": "Journal of Learning Engineering",
-    "acronym": "JoLE",
-    "type": "journal",
-    "focus": "Applied integration of learning design, analytics, and systems thinking. Provides the 'Learning Engineering Primer' for terminological alignment. Diamond Open Access; community-driven by ICICLE.",
-    "url": "https://jole.ieee.org",
-    "primary_topic": "T00",
-    "secondary_topics": ["T03", "T16"],
-    "notes": "The only journal specifically dedicated to learning engineering as a named field. Diamond OA means no publication fees for authors or readers."
+    "status": "APPROVED",
+    "name": "INCOSE Systems Engineering Body of Knowledge (SEBoK)",
+    "type": "academic_society",
+    "affiliation_or_venue": "INCOSE — International Council on Systems Engineering",
+    "url": "https://sebokwiki.org/",
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T03",
+      "T16"
+    ],
+    "description": "Open wiki-based body of knowledge for systems engineering, maintained by INCOSE. Includes the Human Systems Integration knowledge area. Covers SE process frameworks: requirements engineering, architecture, integration, verification and validation, and lifecycle management.\nThe SE process framework that SEBoK codifies is the engineering process backbone that learning engineering adapts for learning system development. Understanding SE fundamentals — especially requirements traceability and V&V — is essential for LE practitioners working at the boundary of instructional design and systems engineering.\n",
+    "notes": "Open wiki; Human Systems Integration knowledge area is most directly LE-relevant."
   },
   {
-    "resource_id": "LE-LS-JO-007",
+    "resource_id": "LE-CO-014",
     "content_type": "CO",
-    "name": "International Journal of STEM Education",
-    "acronym": "IJSTE",
-    "type": "journal",
-    "focus": "Discipline-based education research (DBER): problem-based learning, flipped classrooms, educational robotics, STEM learning outcomes at scale.",
-    "url": "https://stemeducationjournal.springeropen.com/",
-    "primary_topic": "T13",
-    "secondary_topics": ["T01", "T15"],
-    "notes": "Springer Open. Critical venue for LE researchers designing domain-specific systems in STEM contexts."
+    "status": "APPROVED",
+    "name": "Naturalistic Decision Making Association (NDM)",
+    "type": "academic_society",
+    "affiliation_or_venue": "International",
+    "url": "https://www.naturalisticdecisionmaking.org/",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T02"
+    ],
+    "description": "Research community studying expert decision-making under realistic, complex conditions. NDM methods — critical decision method (CDM), cognitive task analysis (CTA), recognition-primed decision modeling — are the primary toolkit for eliciting tacit expert knowledge in high-stakes training domains.\nKey source of needs analysis methods for learning engineering in professional training contexts: military, healthcare, aviation, firefighting, and emergency management. When LE practitioners must translate expert performance into instructional objectives, NDM methods provide the validated approach for surfacing knowledge that experts cannot articulate unprompted.\n",
+    "notes": "NDM methods (CDM, CTA) are the standard toolkit for expert knowledge elicitation in high-stakes LE contexts."
   },
   {
-    "resource_id": "LE-LS-SG-001",
-    "content_type": "SG",
-    "name": "IEEE 1484.1-2003: Learning Technology Systems Architecture (LTSA)",
-    "acronym": "IEEE LTSA",
-    "type": "standard",
-    "focus": "Defines the high-level system components and communication protocols required for interoperable learning technology platforms. Foundational systems architecture standard for the field.",
-    "url": "https://standards.ieee.org/ieee/1484.1/1655/",
-    "primary_topic": "T11",
-    "secondary_topics": ["T16"],
-    "notes": "Sponsoring body: IEEE LTSC."
-  },
-  {
-    "resource_id": "LE-LS-SG-002",
-    "content_type": "SG",
-    "name": "IEEE 9274 Family (xAPI / Experience API)",
-    "acronym": "xAPI",
-    "type": "standard",
-    "focus": "Data instrumentation standard governing how learning experiences are tracked, stored in Learning Record Stores (LRS), and analyzed across distributed platforms. Includes JSON-LD application profiles, cybersecurity protocols, and vocabulary registries.",
-    "url": "https://xapi.com/overview/",
-    "primary_topic": "T11",
-    "secondary_topics": ["T04", "T16"],
-    "notes": "Sponsoring body: IEEE LTSC / ADL. The data infrastructure standard underpinning modern LE telemetry pipelines."
-  },
-  {
-    "resource_id": "LE-LS-SG-003",
-    "content_type": "SG",
-    "name": "IEEE P2247.1 & P2247.2: Adaptive Instructional Systems (AIS)",
-    "acronym": "IEEE AIS",
-    "type": "standard",
-    "focus": "Classifies components, parameters, and interoperability protocols for adaptive instructional systems. Engineering blueprints for building systems that dynamically adjust instruction based on real-time learner state.",
-    "url": "https://standards.ieee.org/project/2247_1.html",
-    "primary_topic": "T06",
-    "secondary_topics": ["T11", "T16"],
-    "notes": "Sponsoring body: IEEE LTSC. The most directly LE-relevant IEEE standard family."
-  },
-  {
-    "resource_id": "LE-LS-SG-004",
-    "content_type": "SG",
-    "name": "IEEE 1484.20.2: Recommended Practice for Defining Competencies",
-    "acronym": "IEEE Competencies",
-    "type": "standard",
-    "focus": "Rigorous data schema for defining human competencies. Supports Integrated Learner Records (ILR) spanning K-12, higher education, workforce, and military environments.",
-    "url": "https://standards.ieee.org/ieee/1484.20.2/10435/",
+    "resource_id": "LE-CO-015",
+    "content_type": "CO",
+    "status": "APPROVED",
+    "name": "Credential Engine / CTDL",
+    "type": "institute",
+    "affiliation_or_venue": "Credential Engine",
+    "url": "https://credentialengine.org/",
     "primary_topic": "T05",
-    "secondary_topics": ["T16", "T11"],
-    "notes": "Sponsoring body: IEEE LTSC. Critical for competency-based education and credential portability."
-  },
-  {
-    "resource_id": "LE-LS-SG-005",
-    "content_type": "SG",
-    "name": "IEEE 1484.12.1-2002 & P2881: Learning Object Metadata",
-    "acronym": "LOM / P2881",
-    "type": "standard",
-    "focus": "Essential standards for cataloging, discovery, and semantic structuring of digital learning resources across repositories. Enables automated discoverability and cross-platform content reuse.",
-    "url": "https://standards.ieee.org/ieee/1484.12.1/1280/",
-    "primary_topic": "T11",
-    "secondary_topics": ["T05", "T16"],
-    "notes": "Sponsoring body: IEEE LTSC. P2881 is the modernized successor incorporating linked data and accessibility requirements."
-  },
-  {
-    "resource_id": "LE-LS-SG-006",
-    "content_type": "SG",
-    "name": "Open Context Exchange (OCX)",
-    "acronym": "OCX",
-    "type": "standard",
-    "focus": "OER schema: specification and metadata ontology for publishing Open Educational Resources on the web. Unifies content to a standard vocabulary for discoverability and automated remixing.",
-    "url": "https://learningtapestry.github.io/ocx/",
-    "primary_topic": "T11",
-    "secondary_topics": ["T05"],
-    "notes": "Developed by Learning Tapestry / ICICLE. Enables interoperable OER ecosystems."
+    "secondary_topics": [
+      "T16",
+      "T11"
+    ],
+    "description": "Open-source data standard and registry for describing credentials, competencies, and learning pathways. The Credential Transparency Description Language (CTDL) encodes 1,200+ properties for representing what people know and can do, enabling machine-readable linkages between learning experiences, competencies, and credentials across providers and platforms.\nThe emerging national infrastructure for credential-level knowledge representation in competency-based learning engineering systems. For LE practitioners designing workforce-aligned learning systems, CTDL provides the shared ontology needed to map learning outcomes to job requirements and to stack credentials into coherent pathways at scale.\n",
+    "notes": "CTDL is the primary open standard for machine-readable credential and competency representation in the US."
   }
 ]

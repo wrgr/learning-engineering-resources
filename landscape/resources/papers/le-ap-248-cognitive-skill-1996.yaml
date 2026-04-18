@@ -1,0 +1,18 @@
+resource_id: LE-AP-248
+content_type: AP
+status: seed
+title: "COGNITIVE SKILL ACQUISITION"
+authors: []
+year: 1996
+venue: Annual Review of Psychology
+doi: "10.1146/annurev.psych.47.1.513"
+tier: contemporary
+citation_count_approx: 509
+cross_seed_score: 3
+openalex_id: "W2113476921"
+significance: >
+  Published in Annual Review of Psychology; addresses dreyfus model of skill
+  acquisition, psychology, cognition. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

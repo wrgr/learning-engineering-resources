@@ -1,0 +1,17 @@
+resource_id: LE-AP-658
+content_type: AP
+status: seed
+title: "Designing Adaptive Collaboration Structures for Advancing the Community’s Knowledge"
+authors: []
+year: 2012
+venue: Unknown Venue
+doi: "10.4324/9780203849576-15"
+tier: contemporary
+citation_count_approx: 7
+cross_seed_score: 2
+openalex_id: "W3125830726"
+significance: >
+  Published in Unknown Venue; addresses computer science, knowledge management.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

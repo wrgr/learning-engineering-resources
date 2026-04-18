@@ -1,0 +1,17 @@
+resource_id: LE-AP-662
+content_type: AP
+status: seed
+title: "Proceedings of the 29th Annual Conference of the Cognitive Science Society"
+authors: []
+year: 2007
+venue: Cognitive Science
+tier: highly_cited
+citation_count_approx: 1773
+cross_seed_score: 2
+openalex_id: "W3147653952"
+significance: >
+  Published in Cognitive Science; addresses cognition, cognitive science,
+  psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-498
+content_type: AP
+status: seed
+title: "How to Gain Eleven IQ Points in Ten Minutes: Thinking Aloud Improves Raven's Matrices Performance in Older Adults"
+authors: []
+year: 2009
+venue: Aging Neuropsychology and Cognition
+doi: "10.1080/13825580903042668"
+tier: contemporary
+citation_count_approx: 59
+cross_seed_score: 2
+openalex_id: "W2100749877"
+significance: >
+  Published in Aging Neuropsychology and Cognition; addresses raven's
+  progressive matrices, think aloud protocol, psychology. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

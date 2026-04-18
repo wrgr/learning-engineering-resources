@@ -1,0 +1,20 @@
+resource_id: LE-AP-523
+content_type: AP
+status: seed
+title: "Learning from human tutoring"
+authors: []
+year: 2001
+venue: Cognitive Science
+doi: "10.1207/s15516709cog2504_1"
+tier: highly_cited
+citation_count_approx: 835
+cross_seed_score: 2
+openalex_id: "W2121477371"
+significance: >
+  Published in Cognitive Science; addresses reading (process), tutor, style
+  (visual arts). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T01

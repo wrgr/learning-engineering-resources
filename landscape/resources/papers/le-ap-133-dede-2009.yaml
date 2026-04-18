@@ -1,0 +1,22 @@
+resource_id: LE-AP-133
+content_type: AP
+title: "Immersive Interfaces for Engagement and Learning"
+authors:
+  - Chris Dede
+year: 2009
+venue: Science
+volume: "323"
+issue: "5910"
+pages: "66-69"
+doi: "10.1126/science.1167311"
+tier: highly_cited
+citation_count_approx: 1100
+significance: >
+  Argued in Science that immersive multi-user virtual environments (River City, Whyville)
+  could engage students with low academic motivation and produce measurable science learning
+  gains. Provided early rigorous evidence for the LE value of virtual world simulations
+  and influenced policy and investment in immersive learning technologies.
+primary_topic: T08
+secondary_topics:
+  - T01
+  - T10

@@ -1,0 +1,27 @@
+resource_id: LE-PP-057
+content_type: PP
+status: APPROVED
+name: Bedriye Akson
+affiliation: "MIT; IEEE ICICLE — CCC SIG"
+years: "active 2010s–present"
+era: contemporary
+role: Learning design researcher; ICICLE CCC SIG co-chair
+description: >
+  Co-chair of the Competencies, Credentials and Curriculum SIG (IEEE ICICLE), focusing on
+  curriculum alignment and credential frameworks for learning engineering practitioners.
+  MIT-affiliated researcher bringing academic LE research into ICICLE's practitioner
+  community.
+key_contributions:
+  - Co-chairs the CCC SIG at IEEE ICICLE, focusing on curriculum alignment and credential frameworks for LE practitioners
+  - Brings MIT-grounded research perspectives to ICICLE's competency framework development
+  - Contributes to defining curriculum standards for learning engineering programs
+  - Works to align academic LE training programs with professional credential requirements
+key_works:
+  - "ICICLE Body of Knowledge — CCC chapter contributions"
+  - "IEEE ICICLE CCC SIG working papers and competency frameworks"
+primary_topic: T16
+secondary_topics:
+  - T03
+  - T00
+url: https://icicle.ieee.org
+notes: ICICLE community lead. CCC SIG.

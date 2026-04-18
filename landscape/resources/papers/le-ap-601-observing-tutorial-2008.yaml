@@ -1,0 +1,19 @@
+resource_id: LE-AP-601
+content_type: AP
+status: seed
+title: "Observing Tutorial Dialogues Collaboratively: Insights About Human Tutoring Effectiveness From Vicarious Learning"
+authors: []
+year: 2008
+venue: Cognitive Science
+doi: "10.1080/03640210701863396"
+tier: contemporary
+citation_count_approx: 281
+cross_seed_score: 2
+openalex_id: "W2167800343"
+significance: >
+  Published in Cognitive Science; addresses peer tutor, tutor, constructive.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T01

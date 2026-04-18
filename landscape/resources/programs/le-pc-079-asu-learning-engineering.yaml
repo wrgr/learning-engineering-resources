@@ -1,0 +1,13 @@
+resource_id: LE-PC-079
+content_type: PC
+status: APPROVED
+name: "ASU Learning Engineering Institute & Graduate Certificate"
+url: "https://learningengineering.asu.edu/"
+primary_topic: T13
+secondary_topics:
+  - T06
+  - T15
+description: >
+  Graduate certificate and research network fusing human systems engineering,
+  design, and evidence to improve educational systems; connects students with
+  Learning Engineering Research Network partners.

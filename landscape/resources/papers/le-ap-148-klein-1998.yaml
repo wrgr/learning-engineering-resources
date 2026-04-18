@@ -1,0 +1,19 @@
+resource_id: LE-AP-148
+content_type: AP
+title: "Sources of Power: How People Make Decisions"
+authors:
+  - Gary Klein
+year: 1998
+venue: "MIT Press"
+tier: foundational
+citation_count_approx: 4200
+significance: >
+  Presented the Recognition-Primed Decision (RPD) model based on naturalistic observations of
+  expert decision-making under uncertainty — experts recognize situation patterns and mentally
+  simulate options rather than comparing alternatives analytically. Foundational for LE design
+  of decision-making training, scenario-based simulations, and expertise development programs
+  in high-stakes domains.
+primary_topic: T04
+secondary_topics:
+  - T11
+  - T02

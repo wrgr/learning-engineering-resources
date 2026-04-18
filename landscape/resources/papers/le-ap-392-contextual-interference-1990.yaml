@@ -1,0 +1,18 @@
+resource_id: LE-AP-392
+content_type: AP
+status: seed
+title: "Contextual interference: Contributions of practice"
+authors: []
+year: 1990
+venue: Acta Psychologica
+doi: "10.1016/0001-6918(90)90076-r"
+tier: contemporary
+citation_count_approx: 184
+cross_seed_score: 2
+openalex_id: "W1998213518"
+significance: >
+  Published in Acta Psychologica; addresses interference (communication),
+  psychology, task (project management). Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

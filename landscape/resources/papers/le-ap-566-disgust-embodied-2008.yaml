@@ -1,0 +1,20 @@
+resource_id: LE-AP-566
+content_type: AP
+status: seed
+title: "Disgust as Embodied Moral Judgment"
+authors: []
+year: 2008
+venue: Personality and Social Psychology Bulletin
+doi: "10.1177/0146167208317771"
+tier: highly_cited
+citation_count_approx: 1342
+cross_seed_score: 2
+openalex_id: "W2143363557"
+significance: >
+  Published in Personality and Social Psychology Bulletin; addresses disgust,
+  psychology, sadness. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T08
+secondary_topics:
+  - T01

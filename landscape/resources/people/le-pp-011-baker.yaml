@@ -1,0 +1,30 @@
+resource_id: LE-PP-011
+content_type: PP
+status: APPROVED
+name: Ryan S. J. d. Baker
+affiliation: University of Pennsylvania, Graduate School of Education
+years: "active 2000s–present"
+era: contemporary
+role: EDM pioneer; director of Penn Center for Learning Analytics; high-leverage LE policy voice
+description: >
+  Pioneer in educational data mining and learning analytics. Directs the Penn Center for
+  Learning Analytics. Co-author of High-Leverage Opportunities for Learning Engineering (2021),
+  the field's most-cited contemporary policy document. Editor of the Journal of Educational
+  Data Mining. Known for work on detecting gaming-the-system and off-task behavior in ITS.
+key_contributions:
+  - Codified Educational Data Mining as a formal discipline with Baker & Yacef 2009 (1,500+ citations)
+  - Developed methods for detecting gaming-the-system, off-task behavior, and boredom in ITS telemetry
+  - Directed production of 'High-Leverage Opportunities for Learning Engineering' (2021), the field's most cited contemporary policy document
+  - Directs the Penn Center for Learning Analytics, a major hub for LE research at scale
+  - Editor of the Journal of Educational Data Mining
+key_works:
+  - "The State of Educational Data Mining in 2009 (with Yacef, JEDM, 2009)"
+  - "High-Leverage Opportunities for Learning Engineering (with Boser & Shelley, 2021)"
+  - "Stupid Tutoring Systems, Intelligent Humans (IJAIED, 2016)"
+primary_topic: T04
+secondary_topics:
+  - T06
+  - T07
+  - T17
+url: https://learninganalytics.upenn.edu
+notes: Key policy hub figure. Seed T04 and T17.

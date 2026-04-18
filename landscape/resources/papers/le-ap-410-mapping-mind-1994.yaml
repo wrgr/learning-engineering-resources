@@ -1,0 +1,18 @@
+resource_id: LE-AP-410
+content_type: AP
+status: seed
+title: "Mapping the Mind: Domain Specificity In Cognition And Culture"
+authors: []
+year: 1994
+venue: Unknown Venue
+doi: "10.1017/cbo9780511752902"
+tier: highly_cited
+citation_count_approx: 1372
+cross_seed_score: 2
+openalex_id: "W2013160169"
+significance: >
+  Published in Unknown Venue; addresses cognitive science, cognition,
+  psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

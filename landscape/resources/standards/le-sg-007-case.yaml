@@ -1,0 +1,17 @@
+resource_id: LE-SG-007
+content_type: SG
+status: APPROVED
+name: "IMS Global CASE (Competency and Academic Standards Exchange)"
+type: standard
+affiliation_or_venue: "1EdTech (formerly IMS Global)"
+url: "https://www.1edtech.org/standards/case"
+primary_topic: T05
+secondary_topics:
+  - T11
+  - T16
+description: >
+  Technical standard for expressing and exchanging competency frameworks,
+  learning outcomes, and academic standards in machine-readable form. Enables
+  interoperable knowledge representation across learning platforms — the
+  infrastructure layer for competency-based knowledge models.
+notes: ""

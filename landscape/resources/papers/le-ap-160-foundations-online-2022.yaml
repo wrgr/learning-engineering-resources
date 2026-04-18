@@ -1,0 +1,21 @@
+resource_id: LE-AP-160
+content_type: AP
+status: seed
+title: "Foundations of online learning: Challenges and opportunities"
+authors: []
+year: 2022
+venue: Educational Psychologist
+doi: "10.1080/00461520.2022.2090364"
+tier: contemporary
+citation_count_approx: 223
+cross_seed_score: 5
+openalex_id: "W4285086207"
+significance: >
+  Published in Educational Psychologist; addresses experiential learning,
+  learning sciences, educational technology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T14
+secondary_topics:
+  - T16
+  - T01

@@ -1,0 +1,21 @@
+resource_id: LE-AP-201
+content_type: AP
+status: seed
+title: "The State of Educational Data Mining in 2009: A Review and Future Visions"
+authors: []
+year: 2009
+venue: Zenodo (CERN European Organization for Nuclear Research)
+doi: "10.5281/zenodo.3554658"
+tier: highly_cited
+citation_count_approx: 1301
+cross_seed_score: 3
+openalex_id: "W1539947443"
+significance: >
+  Published in Zenodo (CERN European Organization for Nuclear Research);
+  addresses categorization, data science, educational data mining. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T09
+secondary_topics:
+  - T11
+  - T01

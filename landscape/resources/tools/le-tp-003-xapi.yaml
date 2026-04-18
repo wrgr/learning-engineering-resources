@@ -1,0 +1,17 @@
+resource_id: LE-TP-003
+content_type: TP
+status: APPROVED
+name: "xAPI / Tin Can API"
+type: standard
+affiliation_or_venue: "ADL Initiative"
+url: "https://xapi.com"
+primary_topic: T11
+secondary_topics:
+  - T09
+  - T00
+description: >
+  Standard for tracking and communicating learning activity data across
+  platforms, devices, and contexts. Foundation for interoperable Learning Record
+  Stores (LRS). Key infrastructure standard enabling federated learning
+  telemetry pipelines for LE analytics.
+notes: ""

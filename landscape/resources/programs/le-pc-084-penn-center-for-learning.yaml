@@ -1,0 +1,14 @@
+resource_id: LE-PC-084
+content_type: PC
+status: APPROVED
+name: "Penn Center for Learning Analytics (UPenn GSE)"
+url: "https://learninganalytics.upenn.edu/"
+primary_topic: T04
+secondary_topics:
+  - T06
+  - T07
+description: >
+  GSE hub for learning analytics and AI in education research, including work
+  that explicitly intersects learning engineering, educational data mining, and
+  design of data-informed learning systems. Related graduate offerings include
+  the online M.S. in Learning Analytics and Artificial Intelligence.

@@ -1,0 +1,18 @@
+resource_id: LE-AP-384
+content_type: AP
+status: seed
+title: "A review of recent advances in learner and skill modeling in intelligent learning environments"
+authors: []
+year: 2011
+venue: User Modeling and User-Adapted Interaction
+doi: "10.1007/s11257-011-9106-8"
+tier: contemporary
+citation_count_approx: 432
+cross_seed_score: 2
+openalex_id: "W1987626674"
+significance: >
+  Published in User Modeling and User-Adapted Interaction; addresses computer
+  science, key (lock), cognition. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

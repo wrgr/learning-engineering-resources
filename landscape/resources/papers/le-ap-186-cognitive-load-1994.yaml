@@ -1,0 +1,20 @@
+resource_id: LE-AP-186
+content_type: AP
+status: seed
+title: "Cognitive load theory, learning difficulty, and instructional design"
+authors: []
+year: 1994
+venue: Learning and Instruction
+doi: "10.1016/0959-4752(94)90003-5"
+tier: highly_cited
+citation_count_approx: 3567
+cross_seed_score: 4
+openalex_id: "W2137576942"
+significance: >
+  Published in Learning and Instruction; addresses interactivity, cognitive
+  load, schema (genetic algorithms). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T04
+secondary_topics:
+  - T01

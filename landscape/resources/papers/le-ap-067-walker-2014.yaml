@@ -1,0 +1,24 @@
+resource_id: LE-AP-067
+content_type: AP
+title: "Designing Learning Environments to Foster Productive and Collaborative Discourse"
+authors:
+  - Erin Walker
+  - Amy Ogan
+year: 2016
+venue: International Journal of Artificial Intelligence in Education
+volume: "26"
+issue: "1"
+pages: "fit"
+doi: "10.1007/s40593-015-0064-9"
+tier: contemporary
+citation_count_approx: 90
+significance: >
+  Examined design principles for AI-supported collaborative discourse that fosters
+  productive argumentation and knowledge co-construction. Identified key features of
+  learning environment design — role assignment, discourse scaffolds, adaptive prompts —
+  that promote academically productive talk. Relevant to LE design of online discussion
+  platforms and AI-mediated collaborative learning tools.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T12

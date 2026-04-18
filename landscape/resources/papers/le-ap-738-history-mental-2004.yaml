@@ -1,0 +1,17 @@
+resource_id: LE-AP-738
+content_type: AP
+status: seed
+title: "“The History of Mental Models"
+authors: []
+year: 2004
+venue: Unknown Venue
+doi: "10.4324/9780203506936"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Johnson-Laird, PN. “The History of Mental Models.” In Psychology of Reasoning:
+  Theoretical and Historical Perspectives, ...
+primary_topic: T01

@@ -1,0 +1,20 @@
+resource_id: LE-GL-007
+content_type: GL
+status: APPROVED
+title: "Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, and Beyond"
+authors:
+  - "Jim Goodell"
+  - "Janet Kolodner"
+year: 2023
+publisher: "Taylor & Francis / Routledge"
+url: "https://www.routledge.com/Learning-Engineering-Toolkit-Evidence-Based-Practices-from-the-Learning/Goodell-Kolodner/p/book/9781032205007"
+type: book
+primary_topic: T03
+secondary_topics:
+  - T00
+  - T04
+significance: >
+  The field's primary practitioner handbook. Frames LE as a verb — an iterative, evidence-based
+  problem-solving process — not a technology set or a job title. Covers lean-agile methods, HCI
+  design, data instrumentation, motivation modeling, and predictive analytics. Technology-agnostic:
+  principles apply equally to AI-driven software and low-tech interventions.

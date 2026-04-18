@@ -1,0 +1,18 @@
+resource_id: LE-AP-513
+content_type: AP
+status: seed
+title: "Chunking models of expertise: implications for education"
+authors: []
+year: 2005
+venue: Applied Cognitive Psychology
+doi: "10.1002/acp.1110"
+tier: contemporary
+citation_count_approx: 187
+cross_seed_score: 2
+openalex_id: "W2117211119"
+significance: >
+  Published in Applied Cognitive Psychology; addresses chunking (psychology),
+  perception, psychology. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

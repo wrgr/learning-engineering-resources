@@ -1,0 +1,18 @@
+resource_id: LE-GL-011
+content_type: GL
+status: APPROVED
+title: "7 Things You Should Know About Learning Engineering"
+authors:
+  - "EDUCAUSE Learning Initiative"
+year: 2018
+publisher: "EDUCAUSE"
+url: "https://library.educause.edu/resources/2018/4/7-things-you-should-know-about-learning-engineering"
+type: brief
+primary_topic: T00
+secondary_topics:
+  - T03
+significance: >
+  Widely circulated practitioner-oriented brief in the canonical EDUCAUSE '7 Things' series,
+  introduced LE to a broad institutional technology audience including CIOs, provosts, and
+  instructional technology directors. Accelerated LE vocabulary adoption in non-research
+  higher education contexts.

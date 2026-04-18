@@ -1,0 +1,18 @@
+resource_id: LE-AP-616
+content_type: AP
+status: seed
+title: "Democracia e Cidadania na Escola: Do Discurso à Prática"
+authors: []
+year: 2008
+venue: Múltiplas Leituras
+doi: "10.15603/1982-8993/ml.v1n2p47-66"
+tier: contemporary
+citation_count_approx: 52
+cross_seed_score: 2
+openalex_id: "W2373189977"
+significance: >
+  Published in Múltiplas Leituras; addresses citizenship, democracy, context
+  (archaeology). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

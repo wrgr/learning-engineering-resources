@@ -1,0 +1,18 @@
+resource_id: LE-AP-540
+content_type: AP
+status: seed
+title: "Multiple forms of dynamic representation"
+authors: []
+year: 2004
+venue: Learning and Instruction
+doi: "10.1016/j.learninstruc.2004.06.002"
+tier: contemporary
+citation_count_approx: 285
+cross_seed_score: 2
+openalex_id: "W2132426951"
+significance: >
+  Published in Learning and Instruction; addresses representation (politics),
+  computer science, range (aeronautics). Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

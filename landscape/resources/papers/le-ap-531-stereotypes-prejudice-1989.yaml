@@ -1,0 +1,18 @@
+resource_id: LE-AP-531
+content_type: AP
+status: seed
+title: "Stereotypes and prejudice: Their automatic and controlled components."
+authors: []
+year: 1989
+venue: Journal of Personality and Social Psychology
+doi: "10.1037/0022-3514.56.1.5"
+tier: foundational
+citation_count_approx: 5381
+cross_seed_score: 2
+openalex_id: "W2127629438"
+significance: >
+  Published in Journal of Personality and Social Psychology; addresses prejudice
+  (legal term), psychology, social psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

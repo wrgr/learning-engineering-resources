@@ -1,0 +1,24 @@
+resource_id: LE-JO-006
+content_type: JO
+status: APPROVED
+name: "Journal of Learning Engineering (JoLE)"
+type: journal
+affiliation_or_venue: "IEEE ICICLE"
+url: "https://jole.ieee.org"
+primary_topic: T00
+secondary_topics:
+  - T03
+  - T16
+description: >
+  The only journal specifically dedicated to learning engineering as a named
+  field. Diamond Open Access — no article processing charges for authors or
+  readers. Community-driven by ICICLE; provides the 'Learning Engineering
+  Primer' to align multidisciplinary terminology across contributing disciplines.
+
+  JoLE is the primary publication venue for work that explicitly frames itself
+  within the LE paradigm — engineering rigor applied to learning system design,
+  measurement, and iteration. Because the journal is young and the field is
+  emerging, it requires venue-based discovery rather than citation-network
+  search; curators and practitioners should monitor it directly rather than
+  relying on index coverage.
+notes: "Diamond open access; no APCs. The field's own journal — essential monitoring for LE-specific literature."

@@ -1,0 +1,24 @@
+resource_id: LE-AP-107
+content_type: AP
+title: "STEM lab and mixed reality: Two design heuristics for immersive experiences"
+authors:
+  - Mina C. Johnson-Glenberg
+  - Gabriella Bartolomea
+  - Evgenia Kalina
+year: 2020
+venue: British Journal of Educational Technology
+volume: "51"
+issue: "6"
+pages: "2028-2046"
+doi: "10.1111/bjet.12944"
+tier: contemporary
+citation_count_approx: 145
+significance: >
+  Proposed and validated two heuristics for designing mixed-reality STEM labs — embodied
+  congruence (physical actions match concept structure) and agentive interaction (learners cause
+  learning-relevant events). Provides empirically grounded design guidance for LE practitioners
+  developing XR-based science curricula.
+primary_topic: T08
+secondary_topics:
+  - T12
+  - T10

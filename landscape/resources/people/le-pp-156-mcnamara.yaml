@@ -1,0 +1,31 @@
+resource_id: LE-PP-156
+content_type: PP
+status: APPROVED
+name: Danielle S. McNamara
+affiliation: "University of Southern California (formerly Arizona State University)"
+years: "1960–present"
+era: contemporary
+role: Reading and writing ITS researcher; Coh-Metrix and iSTART developer
+description: >
+  Created iSTART (Interactive Strategy Training for Active Reading and Thinking) and
+  co-developed Coh-Metrix — the most widely used computational tool for analyzing textual
+  cohesion, readability, and discourse structure. Co-led Writing Pal — the first ITS for
+  writing strategy instruction. Most-cited ASU learning engineering researcher; moved to
+  USC circa 2018.
+key_contributions:
+  - Created iSTART (Interactive Strategy Training for Active Reading and Thinking) — an ITS for reading comprehension strategy instruction
+  - Co-developed Coh-Metrix — the most widely used computational tool for analyzing textual cohesion, readability, and discourse structure
+  - Co-led Writing Pal — the first ITS for writing strategy instruction with automated essay scoring feedback
+  - Developed a comprehensive model of reading comprehension integrating memory, inference, and strategy components
+  - Most-cited ASU learning engineering researcher; moved to USC ~2018
+key_works:
+  - "iSTART: Interactive strategy training for active reading and thinking (JEP Applied, 2004)"
+  - "Coh-Metrix: Analysis of text on cohesion and language (Behavior Research Methods, 2004)"
+  - "Automated Evaluation of Text and Discourse with Coh-Metrix (Cambridge UP, 2014)"
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T04
+  - T12
+url: https://dornsife.usc.edu/danielle-mcnamara/
+notes: iSTART and Coh-Metrix. Writing Pal ITS. Text analytics for education.

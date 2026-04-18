@@ -1,0 +1,18 @@
+resource_id: LE-AP-370
+content_type: AP
+status: seed
+title: "Cue recognition and cue elaboration in learning from examples."
+authors: []
+year: 1996
+venue: Proceedings of the National Academy of Sciences
+doi: "10.1073/pnas.93.3.1346"
+tier: contemporary
+citation_count_approx: 25
+cross_seed_score: 2
+openalex_id: "W1969658372"
+significance: >
+  Published in Proceedings of the National Academy of Sciences; addresses
+  elaboration, action (physics), mathematics education. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

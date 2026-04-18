@@ -1,0 +1,19 @@
+resource_id: LE-AP-187
+content_type: AP
+status: seed
+title: "Rules of the Mind"
+authors: []
+year: 1993
+venue: Medical Entomology and Zoology
+tier: highly_cited
+citation_count_approx: 1901
+cross_seed_score: 4
+openalex_id: "W2162792036"
+significance: >
+  Published in Medical Entomology and Zoology; addresses lisp, tutor,
+  representation (politics). Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T01

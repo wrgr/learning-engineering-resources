@@ -1,0 +1,18 @@
+resource_id: LE-AP-227
+content_type: AP
+status: seed
+title: "Modeling and understanding students' off-task behavior in intelligent tutoring systems"
+authors: []
+year: 2007
+venue: Unknown Venue
+doi: "10.1145/1240624.1240785"
+tier: contemporary
+citation_count_approx: 231
+cross_seed_score: 3
+openalex_id: "W2060045074"
+significance: >
+  Published in Unknown Venue; addresses task (project management), computer
+  science, intelligent tutoring system. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T06

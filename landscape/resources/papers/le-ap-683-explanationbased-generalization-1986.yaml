@@ -1,0 +1,18 @@
+resource_id: LE-AP-683
+content_type: AP
+status: seed
+title: "Explanation-based generalization: A unifying view"
+authors: []
+year: 1986
+venue: Machine Learning
+doi: "10.1007/bf00116250"
+tier: contemporary
+citation_count_approx: 718
+cross_seed_score: 2
+openalex_id: "W4248308907"
+significance: >
+  Published in Machine Learning; addresses generalization, computer science,
+  perspective (graphical). Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

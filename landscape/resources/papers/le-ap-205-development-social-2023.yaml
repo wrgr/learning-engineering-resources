@@ -1,0 +1,18 @@
+resource_id: LE-AP-205
+content_type: AP
+status: seed
+title: "The Development of Social Knowledge"
+authors: []
+year: 2023
+venue: Unknown Venue
+doi: "10.1108/979-8-88730-256-0"
+tier: contemporary
+citation_count_approx: 323
+cross_seed_score: 3
+openalex_id: "W163121798"
+significance: >
+  Published in Unknown Venue; addresses social knowledge, knowledge management,
+  computer science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

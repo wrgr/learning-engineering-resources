@@ -1,0 +1,18 @@
+resource_id: LE-AP-412
+content_type: AP
+status: seed
+title: "To Provide or Protect: Motivational Bases of Political Liberalism and Conservatism"
+authors: []
+year: 2009
+venue: Psychological Inquiry
+doi: "10.1080/10478400903028581"
+tier: contemporary
+citation_count_approx: 217
+cross_seed_score: 2
+openalex_id: "W2013814551"
+significance: >
+  Published in Psychological Inquiry; addresses conservatism, politics,
+  liberalism. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-245
+content_type: AP
+status: seed
+title: "Mind Perception Is the Essence of Morality"
+authors: []
+year: 2012
+venue: Psychological Inquiry
+doi: "10.1080/1047840x.2012.651387"
+tier: highly_cited
+citation_count_approx: 983
+cross_seed_score: 3
+openalex_id: "W2108616861"
+significance: >
+  Published in Psychological Inquiry; addresses morality, psychology, moral
+  agency. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

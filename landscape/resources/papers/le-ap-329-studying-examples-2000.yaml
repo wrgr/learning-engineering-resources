@@ -1,0 +1,17 @@
+resource_id: LE-AP-329
+content_type: AP
+status: seed
+title: "From Studying Examples to Solving Problem: Fading Worked-Out Solution Steps Helps Learning"
+authors: []
+year: 2000
+venue: eScholarship (California Digital Library)
+tier: contemporary
+citation_count_approx: 51
+cross_seed_score: 2
+openalex_id: "W1562975070"
+significance: >
+  Published in eScholarship (California Digital Library); addresses fading,
+  computer science, mathematical problem. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-320
+content_type: AP
+status: seed
+title: "Handbook of Complementary Methods in Education Research"
+authors: []
+year: 2012
+venue: Unknown Venue
+doi: "10.4324/9780203874769"
+tier: highly_cited
+citation_count_approx: 2030
+cross_seed_score: 2
+openalex_id: "W1526703352"
+significance: >
+  Published in Unknown Venue; addresses mathematics education, computer science,
+  psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

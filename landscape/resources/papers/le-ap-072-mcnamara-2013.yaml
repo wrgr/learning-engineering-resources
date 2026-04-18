@@ -1,0 +1,22 @@
+resource_id: LE-AP-072
+content_type: AP
+title: "Automated Evaluation of Text and Discourse with Coh-Metrix"
+authors:
+  - Danielle S. McNamara
+  - Arthur C. Graesser
+  - Philip M. McCarthy
+  - Zhiqiang Cai
+year: 2014
+venue: "MIT Press"
+tier: contemporary
+citation_count_approx: 740
+significance: >
+  Described Coh-Metrix, a computational tool that analyzes text cohesion, readability,
+  and discourse structure using over 100 linguistic indices. Enables automated matching
+  of text complexity to learner level and evaluation of student-generated text for
+  coherence. Widely used in LE research for automated text analysis, readability
+  assessment, and natural language generation evaluation.
+primary_topic: T07
+secondary_topics:
+  - T01
+  - T09

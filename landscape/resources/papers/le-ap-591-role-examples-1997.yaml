@@ -1,0 +1,19 @@
+resource_id: LE-AP-591
+content_type: AP
+status: seed
+title: "The role of examples and rules in the acquisition of a cognitive skill."
+authors: []
+year: 1997
+venue: Journal of Experimental Psychology Learning Memory and Cognition
+doi: "10.1037/0278-7393.23.4.932"
+tier: contemporary
+citation_count_approx: 239
+cross_seed_score: 2
+openalex_id: "W2160534505"
+significance: >
+  Published in Journal of Experimental Psychology Learning Memory and Cognition;
+  addresses set (abstract data type), dreyfus model of skill acquisition,
+  computer science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

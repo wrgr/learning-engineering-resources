@@ -1,0 +1,18 @@
+resource_id: LE-AP-593
+content_type: AP
+status: seed
+title: "Social dominance orientation: A personality variable predicting social and political attitudes."
+authors: []
+year: 1994
+venue: Journal of Personality and Social Psychology
+doi: "10.1037/0022-3514.67.4.741"
+tier: highly_cited
+citation_count_approx: 4729
+cross_seed_score: 2
+openalex_id: "W2162831287"
+significance: >
+  Published in Journal of Personality and Social Psychology; addresses social
+  dominance orientation, psychology, social psychology. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

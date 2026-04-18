@@ -1,0 +1,18 @@
+resource_id: LE-GL-014
+content_type: GL
+status: APPROVED
+title: "How People Learn: Brain, Mind, Experience, and School (Expanded Edition)"
+authors:
+  - "National Academies of Sciences, Engineering, and Medicine"
+year: 2000
+publisher: "National Academy Press"
+url: "https://www.nap.edu/catalog/9853"
+type: report
+primary_topic: T01
+secondary_topics:
+  - T03
+significance: >
+  The National Academies synthesis of cognitive science, neuroscience, and educational research
+  that established how people learn. Free online. Widely cited as the most authoritative accessible
+  synthesis of learning science. Essential T01 foundation layer and often the starting point for
+  practitioners new to learning engineering.

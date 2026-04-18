@@ -1,0 +1,18 @@
+resource_id: LE-AP-451
+content_type: AP
+status: seed
+title: "Worked Examples and Tutored Problem Solving: Redundant or Synergistic Forms of Support?"
+authors: []
+year: 2009
+venue: Topics in Cognitive Science
+doi: "10.1111/j.1756-8765.2008.01011.x"
+tier: contemporary
+citation_count_approx: 68
+cross_seed_score: 2
+openalex_id: "W2054487443"
+significance: >
+  Published in Topics in Cognitive Science; addresses computer science,
+  psychology, cognitive science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

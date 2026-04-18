@@ -1,0 +1,18 @@
+resource_id: LE-AP-685
+content_type: AP
+status: seed
+title: "The organization of behavior."
+authors: []
+year: 1950
+venue: Journal of Consulting Psychology
+doi: "10.1037/h0049612"
+tier: foundational
+citation_count_approx: 6956
+cross_seed_score: 2
+openalex_id: "W4251731575"
+significance: >
+  Published in Journal of Consulting Psychology; addresses psychology, cognitive
+  psychology, social psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

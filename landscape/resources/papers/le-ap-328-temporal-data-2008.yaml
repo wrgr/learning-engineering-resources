@@ -1,0 +1,18 @@
+resource_id: LE-AP-328
+content_type: AP
+status: seed
+title: "Temporal Data Mining for Educational Applications"
+authors: []
+year: 2008
+venue: Lecture notes in computer science
+doi: "10.1007/978-3-540-89197-0_10"
+tier: contemporary
+citation_count_approx: 31
+cross_seed_score: 2
+openalex_id: "W1559417428"
+significance: >
+  Published in Lecture notes in computer science; addresses computer science,
+  unobservable, variety (cybernetics). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

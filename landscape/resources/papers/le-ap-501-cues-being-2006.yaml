@@ -1,0 +1,18 @@
+resource_id: LE-AP-501
+content_type: AP
+status: seed
+title: "Cues of being watched enhance cooperation in a real-world setting"
+authors: []
+year: 2006
+venue: Biology Letters
+doi: "10.1098/rsbl.2006.0509"
+tier: highly_cited
+citation_count_approx: 1296
+cross_seed_score: 2
+openalex_id: "W2103958511"
+significance: >
+  Published in Biology Letters; addresses honesty, biology, control
+  (management). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

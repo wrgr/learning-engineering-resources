@@ -1,0 +1,26 @@
+resource_id: LE-AP-108
+content_type: AP
+title: "Intelligent Tutoring Systems with Conversational Dialogue"
+authors:
+  - Arthur C. Graesser
+  - Kurt VanLehn
+  - Carolyn Rosé
+  - Pamela Jordan
+  - Derek Harter
+year: 2001
+venue: AI Magazine
+volume: "22"
+issue: "4"
+pages: "39-51"
+doi: "10.1609/aimag.v22i4.1591"
+tier: highly_cited
+citation_count_approx: 780
+significance: >
+  Surveyed conversational ITS systems (AutoTutor, Why2-Atlas, CIRCSIM-Tutor) and identified
+  common dialogue strategies — expectation failure, Socratic questioning, anchored feedback —
+  that produce learning gains in text-based tutoring. Established the design vocabulary for
+  conversational tutoring that underpins modern LLM-based tutoring systems.
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T01

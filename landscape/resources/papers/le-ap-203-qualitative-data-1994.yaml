@@ -1,0 +1,18 @@
+resource_id: LE-AP-203
+content_type: AP
+status: seed
+title: "Qualitative Data Analysis: An Expanded Sourcebook"
+authors: []
+year: 1994
+venue: Journal of Environmental Psychology
+doi: "10.1016/s0272-4944(05)80231-2"
+tier: foundational
+citation_count_approx: 45613
+cross_seed_score: 3
+openalex_id: "W1556808170"
+significance: >
+  Published in Journal of Environmental Psychology; addresses qualitative
+  analysis, qualitative research, psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,20 @@
+resource_id: LE-AP-054
+content_type: AP
+title: "Ten Steps to Complex Learning: A Systematic Approach to Four-Component Instructional Design"
+authors:
+  - Jeroen J. G. van Merriënboer
+  - Paul A. Kirschner
+year: 2007
+venue: "Lawrence Erlbaum Associates"
+tier: highly_cited
+citation_count_approx: 3600
+significance: >
+  Presented the Four-Component Instructional Design (4C/ID) model for designing complex
+  skill training: learning tasks, supportive information, procedural information, and
+  part-task practice. The model provides an integrated framework for whole-task practice
+  design that prevents fragmentation of complex skills, directly applicable to LE system
+  design for professional training, technical skills, and competency-based curricula.
+primary_topic: T03
+secondary_topics:
+  - T12
+  - T02

@@ -1,0 +1,18 @@
+resource_id: LE-AP-158
+content_type: AP
+status: seed
+title: "Design-Based Research: Putting a Stake in the Ground"
+authors: []
+year: 2004
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1301_1"
+tier: highly_cited
+citation_count_approx: 2533
+cross_seed_score: 5
+openalex_id: "W2104279103"
+significance: >
+  Published in Journal of the Learning Sciences; addresses educational research,
+  management science, sociology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

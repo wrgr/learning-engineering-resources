@@ -1,0 +1,18 @@
+resource_id: LE-AP-165
+content_type: AP
+status: seed
+title: "Scientific Research in Education"
+authors: []
+year: 2002
+venue: National Academies Press eBooks
+doi: "10.17226/10236"
+tier: highly_cited
+citation_count_approx: 1736
+cross_seed_score: 4
+openalex_id: "W1594874760"
+significance: >
+  Published in National Academies Press eBooks; addresses psychology,
+  mathematics education. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

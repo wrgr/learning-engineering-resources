@@ -1,0 +1,25 @@
+resource_id: LE-AP-052
+content_type: AP
+title: "Conjecture Mapping: An Approach to Systematic Educational Design Research"
+authors:
+  - William A. Sandoval
+  - Philip Bell
+year: 2004
+venue: Journal of the Learning Sciences
+volume: "13"
+issue: "4"
+pages: "481–492"
+doi: "10.1207/s15327809jls1304_4"
+tier: highly_cited
+citation_count_approx: 1200
+significance: >
+  Introduced conjecture mapping as a methodological framework for design-based research,
+  requiring explicit articulation of theoretical conjectures, designed features,
+  mediating processes, and outcomes. Provides LE researchers with a systematic approach
+  for designing iterative interventions that build theoretical knowledge alongside
+  practical improvements — directly applicable to LE system development and the
+  continuous improvement cycle in LEBOK KA10.
+primary_topic: T17
+secondary_topics:
+  - T15
+  - T10

@@ -1,0 +1,18 @@
+resource_id: LE-AP-487
+content_type: AP
+status: seed
+title: "Learning from Worked‐Out Examples: A Study on Individual Differences"
+authors: []
+year: 1997
+venue: Cognitive Science
+doi: "10.1207/s15516709cog2101_1"
+tier: contemporary
+citation_count_approx: 655
+cross_seed_score: 2
+openalex_id: "W2084895013"
+significance: >
+  Published in Cognitive Science; addresses explication, psychology, task
+  (project management). Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

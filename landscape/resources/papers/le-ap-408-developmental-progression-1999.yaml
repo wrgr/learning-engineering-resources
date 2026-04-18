@@ -1,0 +1,18 @@
+resource_id: LE-AP-408
+content_type: AP
+status: seed
+title: "The developmental progression from implicit to explicit knowledge: A computational approach"
+authors: []
+year: 1999
+venue: Behavioral and Brain Sciences
+doi: "10.1017/s0140525x99222182"
+tier: contemporary
+citation_count_approx: 8
+cross_seed_score: 2
+openalex_id: "W2012770494"
+significance: >
+  Published in Behavioral and Brain Sciences; addresses computer science,
+  computational model, cognitive science. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

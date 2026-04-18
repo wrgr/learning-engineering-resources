@@ -1,0 +1,18 @@
+resource_id: LE-AP-413
+content_type: AP
+status: seed
+title: "The Role of Central Conceptual Structures in the Development of Children's Thought"
+authors: []
+year: 1996
+venue: Monographs of the Society for Research in Child Development
+doi: "10.2307/1166077"
+tier: contemporary
+citation_count_approx: 480
+cross_seed_score: 2
+openalex_id: "W2014366154"
+significance: >
+  Published in Monographs of the Society for Research in Child Development;
+  addresses psychology, developmental psychology, childhood development.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

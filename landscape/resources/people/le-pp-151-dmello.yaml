@@ -1,0 +1,30 @@
+resource_id: LE-PP-151
+content_type: PP
+status: APPROVED
+name: Sidney K. D'Mello
+affiliation: "University of Colorado Boulder, Institute of Cognitive Science"
+years: "1980–present"
+era: contemporary
+role: Affective computing researcher; emotion detection in intelligent tutoring
+description: >
+  Demonstrated that confusion, when productively resolved, benefits deep learning in ITS
+  contexts. Developed multimodal sensors (eye tracking, posture, facial expression) for
+  real-time affect detection during learning. Mapped the dynamics of affective states
+  (boredom, confusion, frustration, flow) during complex learning tasks.
+key_contributions:
+  - Demonstrated that confusion, when productively resolved, is beneficial for deep learning in ITS contexts
+  - Developed multimodal sensors (eye tracking, posture, facial expression) for real-time affect detection during learning
+  - Showed that AutoTutor's affective-aware branching improves learning outcomes over non-affective versions
+  - Mapped the dynamics of affective states (boredom, confusion, frustration, flow) during complex learning tasks
+  - Applied gaze-based modeling to study reading comprehension in literary text contexts
+key_works:
+  - "Confusion is beneficial for learning (Learning and Instruction, 2014)"
+  - "Dynamics of affective states during complex learning (Learning and Instruction, 2012)"
+  - "AutoTutor improves deep learning of computer literacy (AIED, 2007)"
+primary_topic: T04
+secondary_topics:
+  - T01
+  - T06
+  - T02
+url: https://www.colorado.edu/ics/sidney-dmello
+notes: Affective computing in ITS. Confusion and learning. Multimodal sensing.

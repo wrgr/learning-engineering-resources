@@ -1,0 +1,23 @@
+resource_id: LE-AP-117
+content_type: AP
+title: "Multimodal Semi-Automated Affect Detection from Conversational Cues, Gross Body Language, and Facial Features"
+authors:
+  - Sidney D'Mello
+  - Art Graesser
+year: 2010
+venue: User Modeling and User-Adapted Interaction
+volume: "20"
+issue: "2"
+pages: "147-187"
+doi: "10.1007/s11257-010-9074-4"
+tier: highly_cited
+citation_count_approx: 420
+significance: >
+  Extended affect detection to multimodal signals — conversation, posture, and facial expressions
+  — achieving higher accuracy than single-modality classifiers. Informs LE system design for
+  multimodal learner modeling and the ethical use of biometric signals in adaptive learning
+  environments.
+primary_topic: T04
+secondary_topics:
+  - T07
+  - T09

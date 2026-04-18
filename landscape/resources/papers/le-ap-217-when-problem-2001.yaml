@@ -1,0 +1,18 @@
+resource_id: LE-AP-217
+content_type: AP
+status: seed
+title: "When problem solving is superior to studying worked examples."
+authors: []
+year: 2001
+venue: Journal of Educational Psychology
+doi: "10.1037/0022-0663.93.3.579"
+tier: contemporary
+citation_count_approx: 525
+cross_seed_score: 3
+openalex_id: "W2007377366"
+significance: >
+  Published in Journal of Educational Psychology; addresses psychology,
+  mathematics education, cognitive psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,13 @@
+resource_id: LE-PC-075
+content_type: PC
+status: APPROVED
+name: "Learning Engineering Fellowship (CMU OLI)"
+url: "https://oli.cmu.edu/learning-engineering/training/"
+primary_topic: T13
+secondary_topics:
+  - T03
+  - T06
+description: >
+  Nine-week intensive for educators and designers to apply learning science and
+  data-informed methods to real educational products and contexts; part of OLI
+  professional learning.
