@@ -20,7 +20,10 @@
       "The Sciences of the Artificial (1969)"
     ],
     "primary_topic": "T00",
-    "secondary_topics": ["T01", "T06"],
+    "secondary_topics": [
+      "T01",
+      "T06"
+    ],
     "url": "https://www.cmu.edu/simon/"
   },
   {
@@ -44,7 +47,10 @@
       "Abstract planning and perceptual chunks (with Koedinger, Cognitive Science, 1990)"
     ],
     "primary_topic": "T06",
-    "secondary_topics": ["T01", "T00"],
+    "secondary_topics": [
+      "T01",
+      "T00"
+    ],
     "url": "https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/anderson-john.html"
   },
   {
@@ -67,7 +73,9 @@
       "Unified Theories of Cognition (1990)"
     ],
     "primary_topic": "T01",
-    "secondary_topics": ["T06"],
+    "secondary_topics": [
+      "T06"
+    ],
     "url": "https://en.wikipedia.org/wiki/Allen_Newell"
   },
   {
@@ -90,7 +98,10 @@
       "Cognitive Load Theory (with Ayres & Kalyuga, Springer 2011)"
     ],
     "primary_topic": "T01",
-    "secondary_topics": ["T12", "T03"],
+    "secondary_topics": [
+      "T12",
+      "T03"
+    ],
     "url": "https://www.unsw.edu.au/staff/john-sweller"
   },
   {
@@ -114,7 +125,11 @@
       "Learning Engineering for Online Education (contributor, 2019)"
     ],
     "primary_topic": "T00",
-    "secondary_topics": ["T06", "T01", "T04"],
+    "secondary_topics": [
+      "T06",
+      "T01",
+      "T04"
+    ],
     "url": "https://pact.cs.cmu.edu/koedinger.html"
   },
   {
@@ -136,7 +151,10 @@
       "Guided Discovery in a Community of Learners (1994)"
     ],
     "primary_topic": "T17",
-    "secondary_topics": ["T03", "T01"],
+    "secondary_topics": [
+      "T03",
+      "T01"
+    ],
     "url": "https://en.wikipedia.org/wiki/Ann_Brown_(psychologist)"
   },
   {
@@ -158,7 +176,10 @@
       "Knowledge Building: Theory, Pedagogy, and Technology (2006)"
     ],
     "primary_topic": "T06",
-    "secondary_topics": ["T01", "T17"],
+    "secondary_topics": [
+      "T01",
+      "T17"
+    ],
     "url": "https://ikit.org/marlene-scardamalia/"
   },
   {
@@ -182,7 +203,11 @@
       "Stupid Tutoring Systems, Intelligent Humans (IJAIED, 2016)"
     ],
     "primary_topic": "T04",
-    "secondary_topics": ["T06", "T07", "T17"],
+    "secondary_topics": [
+      "T06",
+      "T07",
+      "T17"
+    ],
     "url": "https://www.upenn.edu/faculty/ryan-baker"
   },
   {
@@ -206,7 +231,10 @@
       "A Transformation to Learning Engineering (Simon Initiative, 2016)"
     ],
     "primary_topic": "T00",
-    "secondary_topics": ["T03", "T07"],
+    "secondary_topics": [
+      "T03",
+      "T07"
+    ],
     "url": "https://learningforge.com"
   },
   {
@@ -230,7 +258,10 @@
       "Scaling Up Success: Lessons from Technology-Based Educational Improvement (2006)"
     ],
     "primary_topic": "T08",
-    "secondary_topics": ["T00", "T07"],
+    "secondary_topics": [
+      "T00",
+      "T07"
+    ],
     "url": "https://www.gse.harvard.edu/directory/faculty/chris-dede"
   },
   {
@@ -253,7 +284,10 @@
       "The Doer Effect: Replicating Findings that Doing Causes Learning (EDM, 2018)"
     ],
     "primary_topic": "T06",
-    "secondary_topics": ["T04", "T17"],
+    "secondary_topics": [
+      "T04",
+      "T17"
+    ],
     "url": "https://www.wpi.edu/people/faculty/nth"
   },
   {
@@ -276,7 +310,10 @@
       "Generalizable Learning Engineering Adoption Maturity Model (with Blake-Plock et al., 2024/2025)"
     ],
     "primary_topic": "T16",
-    "secondary_topics": ["T03", "T11"],
+    "secondary_topics": [
+      "T03",
+      "T11"
+    ],
     "url": "https://qip.com"
   },
   {
@@ -297,7 +334,10 @@
       "Online Education: A Catalyst for Higher Education Reforms (with Sarma & Lippel, MIT OEPI, 2016)"
     ],
     "primary_topic": "T00",
-    "secondary_topics": ["T11", "T03"],
+    "secondary_topics": [
+      "T11",
+      "T03"
+    ],
     "url": "https://willcox.oden.utexas.edu"
   },
   {
@@ -320,7 +360,10 @@
       "Generalizable Learning Engineering Adoption Maturity Model (with Blake-Plock et al., 2024/2025)"
     ],
     "primary_topic": "T08",
-    "secondary_topics": ["T02", "T06"],
+    "secondary_topics": [
+      "T02",
+      "T06"
+    ],
     "url": "https://scottycraig.com"
   },
   {
@@ -342,7 +385,537 @@
       "Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge (User Modeling and User-Adapted Interaction, 1994)"
     ],
     "primary_topic": "T06",
-    "secondary_topics": ["T04", "T01"],
+    "secondary_topics": [
+      "T04",
+      "T01"
+    ],
     "url": "https://www.hcii.cmu.edu/people/albert-corbett"
+  },
+  {
+    "resource_id": "LE-LS-PP-016",
+    "content_type": "PP",
+    "name": "Vincent Aleven",
+    "affiliation": "Carnegie Mellon University, HCII",
+    "years": "1965–present",
+    "era": "contemporary",
+    "role": "ITS researcher; pioneer of example-tracing tutors and help-seeking scaffolding",
+    "key_contributions": [
+      "Developed Example-Tracing Tutors — a new ITS paradigm requiring no cognitive model, built by demonstrating solution paths",
+      "Led research on the assistance dilemma: when to give vs. withhold help to maximize learning",
+      "Demonstrated metacognitive scaffolding in ITS can improve help-seeking behavior, not just domain knowledge",
+      "Co-developed Lynnette and other deployed math tutors at CMU HCII",
+      "Extended Cognitive Tutor methodology to collaborative and peer-learning contexts"
+    ],
+    "key_works": [
+      "An effective metacognitive strategy: learning by doing and explaining with a Cognitive Tutor (Cognitive Science, 2002)",
+      "Exploring the assistance dilemma in experiments with Cognitive Tutors (Educ Psychology Review, 2007)",
+      "A new paradigm for intelligent tutoring systems: Example-Tracing Tutors (IJAIED, 2009)"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T03",
+      "T01",
+      "T09"
+    ],
+    "url": "https://www.hcii.cmu.edu/people/vincent-aleven"
+  },
+  {
+    "resource_id": "LE-LS-PP-017",
+    "content_type": "PP",
+    "name": "Carolyn Rosé",
+    "affiliation": "Carnegie Mellon University, HCII / Language Technologies Institute",
+    "years": "1970–present",
+    "era": "contemporary",
+    "role": "NLP researcher; pioneer of computational analysis of collaborative learning discourse",
+    "key_contributions": [
+      "Applied NLP to analyze and scaffold collaborative learning conversations in real time",
+      "Developed BASILICA architecture for conversational agents that support collaborative learning",
+      "Showed that automated discourse analysis can detect productive vs. unproductive collaboration patterns",
+      "Led development of the Bazaar collaborative learning platform within the OpenSimon toolkit",
+      "Bridged computational linguistics and CSCL, founding a distinct NLP-for-learning subfield"
+    ],
+    "key_works": [
+      "Analyzing collaborative learning processes automatically (IJAIED, 2008)",
+      "Supportive technologies for collaborative learning in ill-structured domains (CSCL, 2008)",
+      "Linguistic correlates of conversational uptake in collaborative learning discussions (IJAIED, 2013)"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T01",
+      "T09"
+    ],
+    "url": "https://www.cs.cmu.edu/~cprose/"
+  },
+  {
+    "resource_id": "LE-LS-PP-018",
+    "content_type": "PP",
+    "name": "Jack Mostow",
+    "affiliation": "Carnegie Mellon University, Robotics Institute (emeritus)",
+    "years": "1950–present",
+    "era": "contemporary",
+    "role": "Pioneer of AI-powered reading tutors; data-driven ITS evaluation methods",
+    "key_contributions": [
+      "Created Project LISTEN — the first ITS that listens to children read aloud and provides real-time corrective feedback",
+      "Demonstrated that automated speech recognition can detect oral reading errors with sufficient accuracy for tutoring",
+      "Developed data-driven methods for evaluating ITS effectiveness using log data from deployed systems",
+      "Contributed tactics for mining, mapping, and modeling data from intelligent tutors",
+      "Applied learning engineering principles to literacy acquisition in elementary school settings"
+    ],
+    "key_works": [
+      "Listening to children read aloud (Project LISTEN, 1999)",
+      "Some useful tactics to modify, map and mine data from intelligent tutors (Natural Language Engineering, 2006)",
+      "Data-driven approaches to evaluating and improving reading tutors (AIED, 2007)"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T04",
+      "T01"
+    ],
+    "url": "https://www.cs.cmu.edu/~mostow/"
+  },
+  {
+    "resource_id": "LE-LS-PP-019",
+    "content_type": "PP",
+    "name": "Rod Roscoe",
+    "affiliation": "Arizona State University, Learning Engineering Institute",
+    "years": "1980–present",
+    "era": "contemporary",
+    "role": "Writing ITS researcher; human factors in automated writing feedback",
+    "key_contributions": [
+      "Co-led the Writing Pal ITS — a game-based writing tutor with automated essay scoring and strategy training",
+      "Investigated usability and metacognitive dimensions of writing intelligent tutoring systems",
+      "Demonstrated that automated feedback can improve student revision behavior if appropriately scaffolded",
+      "Studied how learners interact with and trust automated writing feedback systems",
+      "Connected human-computer interaction principles to writing instruction at scale"
+    ],
+    "key_works": [
+      "Writing Pal intelligent tutoring system: usability testing and observations (Computers in Human Behavior, 2014)",
+      "Assessing and supporting learners' metacognitive awareness of writing (Metacognition and Learning, 2011)",
+      "Automated feedback and student revisions (JEDM, 2017)"
+    ],
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T06",
+      "T03",
+      "T12"
+    ],
+    "url": "https://learningengineering.asu.edu/"
+  },
+  {
+    "resource_id": "LE-LS-PP-020",
+    "content_type": "PP",
+    "name": "Robert K. Atkinson",
+    "affiliation": "Arizona State University",
+    "years": "1965–present",
+    "era": "contemporary",
+    "role": "Instructional design researcher; worked examples and pedagogical agents",
+    "key_contributions": [
+      "Demonstrated that optimized sequencing of worked examples using animated pedagogical agents improves learning",
+      "Synthesized evidence on transitioning learners from example study to independent problem solving",
+      "Showed that interactive worked examples encourage more effective processing than static presentations",
+      "Applied cognitive load theory principles to the design of example-based instruction",
+      "Investigated how the guidance fading effect operates across different instructional formats"
+    ],
+    "key_works": [
+      "Optimizing learning from examples using animated pedagogical agents (JEP Applied, 2002)",
+      "Transitioning from studying examples to solving problems (JEP Applied, 2003)",
+      "Interactive example-based learning environments (Educ Psychology Review, 2007)"
+    ],
+    "primary_topic": "T12",
+    "secondary_topics": [
+      "T01",
+      "T02",
+      "T06"
+    ],
+    "url": "https://education.asu.edu/"
+  },
+  {
+    "resource_id": "LE-LS-PP-021",
+    "content_type": "PP",
+    "name": "Mina C. Johnson-Glenberg",
+    "affiliation": "Arizona State University, Embodied Games Lab",
+    "years": "1965–present",
+    "era": "contemporary",
+    "role": "XR and embodied learning researcher; mixed reality STEM education",
+    "key_contributions": [
+      "Demonstrated that embodied interaction in mixed reality environments improves STEM concept learning",
+      "Developed the Embodied Games Lab at ASU focused on XR for science and engineering education",
+      "Showed that whole-body interaction (powering up / slowing down) encodes physics concepts more durably than screen-based instruction",
+      "Contributed design guidelines for immersive learning environments based on embodied cognition theory",
+      "Positioned XR as a rigorous learning engineering domain with measurable outcome metrics"
+    ],
+    "key_works": [
+      "Embodied science and mixed reality: how gesture and motion capture affect physics education (JLS, 2014)",
+      "Grand challenges in immersive learning environments and XR (Frontiers in Education, 2018)",
+      "Powering up and slowing down: Technology and embodied STEM learning (J of Science Ed and Technology, 2016)"
+    ],
+    "primary_topic": "T08",
+    "secondary_topics": [
+      "T01",
+      "T02"
+    ],
+    "url": "https://embodied-games.com/"
+  },
+  {
+    "resource_id": "LE-LS-PP-022",
+    "content_type": "PP",
+    "name": "Arthur C. Graesser",
+    "affiliation": "University of Memphis, Institute for Intelligent Systems",
+    "years": "1948–present",
+    "era": "contemporary",
+    "role": "AutoTutor developer; discourse analysis and comprehension in ITS",
+    "key_contributions": [
+      "Created AutoTutor — an ITS that conducts socratic dialogue in natural language, covering physics, computer literacy, and other domains",
+      "Showed that AutoTutor produces deep learning gains comparable to expert human tutors in one-on-one sessions",
+      "Developed Coh-Metrix — a computational tool for analyzing the cohesion and readability of educational texts",
+      "Demonstrated that conversational tutoring dialogues support deeper conceptual understanding than worked-example ITS",
+      "Co-founded the discourse-based approach to ITS that influenced conversational AI tutors"
+    ],
+    "key_works": [
+      "AutoTutor: A tutor with dialogue in natural language (IEEE TLT, 2005)",
+      "Intelligent tutoring systems: past, present, and future (Handbook of Research on Educ Comms and Tech, 2004)",
+      "Collaborative tutoring discourse (Cognition and Instruction, 1995)"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T01",
+      "T09"
+    ],
+    "url": "https://www.memphis.edu/iis/people/graesser.php"
+  },
+  {
+    "resource_id": "LE-LS-PP-023",
+    "content_type": "PP",
+    "name": "Philip I. Pavlik Jr.",
+    "affiliation": "University of Memphis, Institute for Intelligent Systems",
+    "years": "1970–present",
+    "era": "contemporary",
+    "role": "Cognitive modeling researcher; spacing and retrieval practice optimization in ITS",
+    "key_contributions": [
+      "Developed Performance Factors Analysis (PFA) — a student model accounting for both practice and forgetting",
+      "Derived an activation-based model of the spacing effect and its application to vocabulary learning",
+      "Created algorithms for computing optimal practice schedules based on forgetting curve parameters",
+      "Contributed to Learning Factors Analysis (LFA) for data-driven discovery of knowledge components",
+      "Applied cognitive models of memory decay to personalized practice scheduling in ITS platforms"
+    ],
+    "key_works": [
+      "Performance factors analysis: A new alternative to knowledge tracing (AIED, 2009)",
+      "Practice and forgetting effects on vocabulary memory (Cognitive Science, 2005)",
+      "Using a model to compute the optimal schedule of practice (JEP Applied, 2007)"
+    ],
+    "primary_topic": "T01",
+    "secondary_topics": [
+      "T06",
+      "T04"
+    ],
+    "url": "https://www.memphis.edu/iis/people/pavlik.php"
+  },
+  {
+    "resource_id": "LE-LS-PP-024",
+    "content_type": "PP",
+    "name": "Ashok K. Goel",
+    "affiliation": "Georgia Institute of Technology, School of Interactive Computing",
+    "years": "1960–present",
+    "era": "contemporary",
+    "role": "AI educator; creator of Jill Watson AI teaching assistant",
+    "key_contributions": [
+      "Created Jill Watson — one of the first AI teaching assistants deployed at scale in a university course, handling 40,000+ student questions",
+      "Demonstrated that AI TAs can operate at near-human accuracy without students detecting they are AI",
+      "Applied case-based reasoning and knowledge graphs to educational question-answering at scale",
+      "Led AI4K12 initiative developing national guidelines for K–12 AI literacy education",
+      "Showed that AI-augmented instruction frees human TAs for higher-order mentoring"
+    ],
+    "key_works": [
+      "Jill Watson: A virtual teaching assistant for online education (ICLS, 2016)",
+      "Thinking critically about virtual teaching assistance for online education (AI Matters, 2016)",
+      "AI4K12: Developing national guidelines for K-12 artificial intelligence education (AAAI, 2023)"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T02"
+    ],
+    "url": "https://faculty.cc.gatech.edu/~ashokgoel/"
+  },
+  {
+    "resource_id": "LE-LS-PP-025",
+    "content_type": "PP",
+    "name": "Sidney K. D'Mello",
+    "affiliation": "University of Colorado Boulder, Institute of Cognitive Science",
+    "years": "1980–present",
+    "era": "contemporary",
+    "role": "Affective computing researcher; emotion detection in intelligent tutoring",
+    "key_contributions": [
+      "Demonstrated that confusion, when productively resolved, is beneficial for deep learning in ITS contexts",
+      "Developed multimodal sensors (eye tracking, posture, facial expression) for real-time affect detection during learning",
+      "Showed that AutoTutor's affective-aware branching improves learning outcomes over non-affective versions",
+      "Mapped the dynamics of affective states (boredom, confusion, frustration, flow) during complex learning tasks",
+      "Applied gaze-based modeling to study reading comprehension in literary text contexts"
+    ],
+    "key_works": [
+      "Confusion is beneficial for learning (Learning and Instruction, 2014)",
+      "Dynamics of affective states during complex learning (Learning and Instruction, 2012)",
+      "AutoTutor improves deep learning of computer literacy (AIED, 2007)"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T01",
+      "T06",
+      "T02"
+    ],
+    "url": "https://www.colorado.edu/ics/sidney-dmello"
+  },
+  {
+    "resource_id": "LE-LS-PP-026",
+    "content_type": "PP",
+    "name": "Justin Reich",
+    "affiliation": "MIT Teaching Systems Lab",
+    "years": "1977–present",
+    "era": "contemporary",
+    "role": "EdTech researcher; critic of MOOC hype; evidence-based online learning advocate",
+    "key_contributions": [
+      "Authored Failure to Disrupt — the most rigorous critique of MOOC platforms' failure to improve educational equity despite scale",
+      "Demonstrated empirically that MOOCs disproportionately benefit already-advantaged learners, contradicting disruption narratives",
+      "Documented the MOOC pivot: how platforms shifted from open access toward credentialed professional learning",
+      "Advocated for evidence-based online learning design grounded in learning sciences rather than technology novelty",
+      "Leads MIT Teaching Systems Lab, studying how teacher learning and practice change with educational technology"
+    ],
+    "key_works": [
+      "Failure to Disrupt: Why Technology Alone Can't Transform Education (MIT Press, 2020)",
+      "Rebooting MOOC research (Science, 2015)",
+      "The MOOC pivot (Science, 2019)"
+    ],
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T15",
+      "T11"
+    ],
+    "url": "https://teachingsystemslab.org/"
+  },
+  {
+    "resource_id": "LE-LS-PP-027",
+    "content_type": "PP",
+    "name": "Bruce M. McLaren",
+    "affiliation": "Carnegie Mellon University, HCII",
+    "years": "1960–present",
+    "era": "contemporary",
+    "role": "ITS researcher; learning games and worked-example sequencing in mathematics",
+    "key_contributions": [
+      "Designed Decimal Point — a math game for decimal numbers shown to produce learning gains over conventional tutoring software",
+      "Showed that computer games can promote mathematics learning more effectively than conventional ITS in controlled trials",
+      "Investigated optimal sequencing of worked examples and tutored problem solving, challenging assumptions about when each helps",
+      "Developed adaptive worked-example and ITS hybrid approaches for fraction and decimal learning",
+      "Contributed foundational research on example-tracing tutors at CMU HCII alongside Vincent Aleven"
+    ],
+    "key_works": [
+      "A computer game promotes mathematics learning more than a conventional approach (IJAIED, 2017)",
+      "Decimal Point: Designing and evaluating a math game for decimal numbers (ITS, 2014)",
+      "Worked examples and intelligent tutoring in fraction learning (ITS, 2016)"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T01",
+      "T04",
+      "T03"
+    ],
+    "url": "https://www.hcii.cmu.edu/people/bruce-mclaren"
+  },
+  {
+    "resource_id": "LE-LS-PP-028",
+    "content_type": "PP",
+    "name": "Ken Holstein",
+    "affiliation": "Carnegie Mellon University, HCII",
+    "years": "1988–present",
+    "era": "contemporary",
+    "role": "Human-AI complementarity researcher; equity in adaptive learning; real-time teacher orchestration",
+    "key_contributions": [
+      "Developed real-time multimodal classroom systems giving teachers live student-struggle signals during ITS sessions",
+      "Demonstrated that teacher-AI complementarity — not replacement — yields better outcomes than either alone",
+      "Co-designed orchestration tools with teachers through participatory design, making teacher agency central to LE systems",
+      "Published the most-cited work on equity and fairness in AI-driven educational systems",
+      "Leads the new wave of learning engineering that foregrounds human oversight, equity, and participatory design"
+    ],
+    "key_works": [
+      "Improving at-scale ITS: how multimodal AI enables real-time precision (CHI, 2018)",
+      "Co-designing a real-time classroom orchestration tool to support teacher-AI complementarity (CHI, 2019)",
+      "Equity and AI in education: will AIEd amplify or alleviate inequities? (chapter, 2021)"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T07",
+      "T14",
+      "T02"
+    ],
+    "url": "https://www.hcii.cmu.edu/people/ken-holstein"
+  },
+  {
+    "resource_id": "LE-LS-PP-029",
+    "content_type": "PP",
+    "name": "Erin Walker",
+    "affiliation": "Arizona State University (formerly Carnegie Mellon University, HCII)",
+    "years": "1980–present",
+    "era": "contemporary",
+    "role": "ITS and peer-tutoring researcher; collaborative learning scaffolding",
+    "key_contributions": [
+      "Developed ITS scaffolding systems that support peer tutoring in computer science, bridging collaborative and adaptive learning",
+      "Showed that intelligent support for peer tutoring outperforms unscaffolded peer tutoring and approaches one-on-one ITS",
+      "Investigated how students learn from overhearing dialogues in virtual tutoring sessions",
+      "Applied conversational scaffolding to CSCL contexts using dialogue-based ITS agents",
+      "Bridges CMU HCII cognitive tutor lineage with ASU's human systems and collaborative learning traditions"
+    ],
+    "key_works": [
+      "Adaptive intelligent support to improve peer tutoring in CS (AIED, 2011)",
+      "Designing for problem solving: ITS scaffolding for peer tutoring (CSCL, 2014)",
+      "Overhearing dialogues and monologues in virtual tutoring sessions (Cognitive Science, 2009)"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T01",
+      "T09",
+      "T03"
+    ],
+    "url": "https://learningengineering.asu.edu/"
+  },
+  {
+    "resource_id": "LE-LS-PP-030",
+    "content_type": "PP",
+    "name": "Danielle S. McNamara",
+    "affiliation": "University of Southern California (formerly Arizona State University)",
+    "years": "1960–present",
+    "era": "contemporary",
+    "role": "Reading and writing ITS researcher; Coh-Metrix and iSTART developer",
+    "key_contributions": [
+      "Created iSTART (Interactive Strategy Training for Active Reading and Thinking) — an ITS for reading comprehension strategy instruction",
+      "Co-developed Coh-Metrix — the most widely used computational tool for analyzing textual cohesion, readability, and discourse structure",
+      "Co-led Writing Pal — the first ITS for writing strategy instruction with automated essay scoring feedback",
+      "Developed a comprehensive model of reading comprehension integrating memory, inference, and strategy components",
+      "Most-cited ASU learning engineering researcher; moved to USC ~2018"
+    ],
+    "key_works": [
+      "iSTART: Interactive strategy training for active reading and thinking (JEP Applied, 2004)",
+      "Coh-Metrix: Analysis of text on cohesion and language (Behavior Research Methods, 2004)",
+      "Automated Evaluation of Text and Discourse with Coh-Metrix (Cambridge UP, 2014)"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T01",
+      "T04",
+      "T12"
+    ],
+    "url": "https://dornsife.usc.edu/danielle-mcnamara/"
+  },
+  {
+    "resource_id": "LE-LS-PP-031",
+    "content_type": "PP",
+    "name": "Janet L. Kolodner",
+    "affiliation": "Georgia Institute of Technology (emeritus)",
+    "years": "1950–present",
+    "era": "founding",
+    "role": "Case-based reasoning pioneer; Learning by Design framework developer; co-author of LE Toolkit",
+    "key_contributions": [
+      "Created the case-based reasoning (CBR) paradigm — a model of learning from experience that informs how ITS should structure analogical transfer",
+      "Developed the Learning by Design (LBD) framework — project-based learning grounded in design challenges, influencing LE process methodology",
+      "Co-edited the Learning Engineering Toolkit with Jim Goodell, the field's primary practitioner handbook",
+      "Showed that problem-based learning combined with case-based reasoning produces deeper science understanding in middle school",
+      "Intellectual parent of the LE process methodology: iterative, evidence-based, user-centered design of learning systems"
+    ],
+    "key_works": [
+      "Case-Based Reasoning (Morgan Kaufmann, 1993)",
+      "Problem-based learning meets case-based reasoning in the middle-school science classroom (JLS, 2003)",
+      "Learning by Design: Creating opportunities for learning in after-school programs (Instructional Science, 2003)"
+    ],
+    "primary_topic": "T03",
+    "secondary_topics": [
+      "T12",
+      "T17",
+      "T01"
+    ],
+    "url": "https://www.cc.gatech.edu/~jlk/"
+  },
+  {
+    "resource_id": "LE-LS-PP-032",
+    "content_type": "PP",
+    "name": "Daniel L. Schwartz",
+    "affiliation": "Stanford Graduate School of Education",
+    "years": "1963–present",
+    "era": "contemporary",
+    "role": "Learning scientist; inventing-before-learning and productive failure paradigm developer",
+    "key_contributions": [
+      "Developed the 'time for telling' principle: learners benefit more from instruction after attempting to generate solutions themselves",
+      "Coined 'inventing to prepare for future learning' — showing that generative struggle creates representations that support deeper subsequent learning",
+      "Showed that practice with contrasting cases produces better transfer than problem-solving practice alone",
+      "Established the productive failure literature demonstrating that effortful incorrect attempts precede better understanding than direct instruction",
+      "Co-authored The ABCs of How We Learn — a synthesis of 26 learning mechanisms bridging science and instructional design"
+    ],
+    "key_works": [
+      "A time for telling (Cognition and Instruction, 1998)",
+      "Inventing to prepare for future learning (Cognition and Instruction, 2004)",
+      "The ABCs of How We Learn (Norton, 2016)"
+    ],
+    "primary_topic": "T01",
+    "secondary_topics": [
+      "T03",
+      "T12",
+      "T17"
+    ],
+    "url": "https://ed.stanford.edu/faculty/danls"
+  },
+  {
+    "resource_id": "LE-LS-PP-033",
+    "content_type": "PP",
+    "name": "Paul A. Kirschner",
+    "affiliation": "Open University of the Netherlands",
+    "years": "1950–present",
+    "era": "contemporary",
+    "role": "CLT applied to collaboration; co-author of 'Why Minimal Guidance Fails'",
+    "key_contributions": [
+      "Co-authored 'Why Minimal Guidance During Instruction Does Not Work' — the most-cited critique of discovery and problem-based learning (6,800+ citations)",
+      "Extended Cognitive Load Theory to collaborative learning, showing that collaboration can increase or decrease load depending on design",
+      "Co-authored How Learning Happens with Carl Hendrick — a practitioner guide to 28 seminal educational psychology works",
+      "Challenged widespread ed-tech myths (learning styles, digital natives, multitasking) with rigorous empirical evidence",
+      "Co-authored the 4C/ID model with van Merriënboer, a widely used framework for complex-skills instructional design"
+    ],
+    "key_works": [
+      "Why Minimal Guidance During Instruction Does Not Work (with Sweller & Clark, Educ Psychologist, 2006)",
+      "A cognitive load approach to collaborative learning (Educ Psychology Review, 2009)",
+      "How Learning Happens: Seminal Works in Educational Psychology (with Hendrick, Routledge, 2020)"
+    ],
+    "primary_topic": "T01",
+    "secondary_topics": [
+      "T02",
+      "T12",
+      "T15"
+    ],
+    "url": "https://www.paulkirschner.nl/"
+  },
+  {
+    "resource_id": "LE-LS-PP-034",
+    "content_type": "PP",
+    "name": "Dragan Gašević",
+    "affiliation": "Monash University",
+    "years": "1972–present",
+    "era": "contemporary",
+    "role": "Learning analytics field-builder; LAK conference co-founder; process mining in CSCL",
+    "key_contributions": [
+      "Co-founded the Learning Analytics and Knowledge (LAK) conference and the Society for Learning Analytics Research (SoLAR)",
+      "Established the principle that 'learning analytics should not promote one-size-fits-all' — foundational for equity-aware LE system design",
+      "Applied process mining techniques to collaborative learning data, revealing learning strategy patterns invisible to aggregate statistics",
+      "Demonstrated that analytics without theory produce misleading conclusions about learning",
+      "Critical voice ensuring LE analytics systems remain grounded in learning science, not just data science"
+    ],
+    "key_works": [
+      "Let's not forget: learning analytics are about learning (TechTrends, 2015)",
+      "Learning analytics should not promote one size fits all (Internet and Higher Education, 2017)",
+      "Effects of the use of analytics in individualized student support (Computers & Education, 2016)"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T11",
+      "T17",
+      "T15"
+    ],
+    "url": "https://www.monash.edu/education/staff/dragan-gasevic"
   }
 ]
