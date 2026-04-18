@@ -1,0 +1,32 @@
+resource_id: LE-PP-160
+content_type: PP
+source: curated
+status: APPROVED
+name: "Dragan Gašević"
+affiliation: Monash University
+years: "1972–present"
+era: contemporary
+role: Learning analytics field-builder; LAK conference co-founder; process mining in CSCL
+description: >
+  Co-founded the Learning Analytics and Knowledge (LAK) conference and the Society for
+  Learning Analytics Research (SoLAR). Established the principle that 'learning analytics
+  should not promote one-size-fits-all' — foundational for equity-aware LE system design.
+  Applied process mining to collaborative learning data, revealing strategy patterns
+  invisible to aggregate statistics.
+key_contributions:
+  - Co-founded the Learning Analytics and Knowledge (LAK) conference and the Society for Learning Analytics Research (SoLAR)
+  - Established the principle that 'learning analytics should not promote one-size-fits-all' — foundational for equity-aware LE system design
+  - Applied process mining techniques to collaborative learning data, revealing learning strategy patterns invisible to aggregate statistics
+  - Demonstrated that analytics without theory produce misleading conclusions about learning
+  - Critical voice ensuring LE analytics systems remain grounded in learning science, not just data science
+key_works:
+  - "Let's not forget: learning analytics are about learning (TechTrends, 2015)"
+  - "Learning analytics should not promote one size fits all (Internet and Higher Education, 2017)"
+  - "Effects of the use of analytics in individualized student support (Computers & Education, 2016)"
+primary_topic: T04
+secondary_topics:
+  - T11
+  - T17
+  - T15
+url: https://www.monash.edu/education/staff/dragan-gasevic
+notes: LAK and SoLAR co-founder. Analytics must serve learning theory.

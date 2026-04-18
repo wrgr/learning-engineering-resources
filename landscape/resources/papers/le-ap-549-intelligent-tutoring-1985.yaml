@@ -1,0 +1,18 @@
+resource_id: LE-AP-549
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Intelligent Tutoring Systems"
+authors: []
+year: 1985
+venue: Science
+doi: "10.1126/science.228.4698.456"
+tier: highly_cited
+citation_count_approx: 3109
+cross_seed_score: 2
+openalex_id: "W2136208491"
+significance: >
+  Published in Science; addresses lisp, computer science, mathematical proof.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

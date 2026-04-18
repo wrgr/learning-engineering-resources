@@ -1,0 +1,121 @@
+[
+  {
+    "resource_id": "LE-JO-001",
+    "content_type": "JO",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Journal of the Learning Sciences",
+    "type": "journal",
+    "affiliation_or_venue": "Taylor & Francis / ISLS",
+    "url": "https://www.tandfonline.com/journals/hlns20",
+    "primary_topic": "T17",
+    "secondary_topics": [
+      "T01",
+      "T03"
+    ],
+    "description": "Founded 1991; the multidisciplinary anchor journal for theoretical models, epistemology, and design-based research in the learning sciences. Home of Ann Brown's 'Design Experiments' (1992, 2,800+ citations) and Scardamalia & Bereiter's knowledge-building paper (1994). Sets the methodological standard for design-based research in education.\nPublishes the socio-cognitive and humanistic tradition within learning engineering — essential for grounding algorithmic approaches in rich theories of how people learn in context. JLS is the venue where learning engineering practitioners find the theoretical warrant for their design decisions and the strongest empirical challenges to purely technocentric approaches.\n",
+    "notes": "Founded 1991; published by Taylor & Francis on behalf of ISLS. Ann Brown's 'Design Experiments' (1992) is the most-cited methodological paper in the LE canon."
+  },
+  {
+    "resource_id": "LE-JO-002",
+    "content_type": "JO",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Journal of Educational Data Mining (JEDM)",
+    "type": "journal",
+    "affiliation_or_venue": "International Educational Data Mining Society (IEDMS)",
+    "url": "https://jedm.educationaldatamining.org/",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T06",
+      "T17"
+    ],
+    "description": "Open-access journal dedicated to algorithms and methodologies for analyzing educational data: knowledge tracing, automated feature engineering, predictive student modeling, and behavioral analysis. Baker & Yacef's founding codification of the EDM field (2009) was published here, establishing the taxonomy of methods that still organizes the community.\nPremier venue for computational learning engineering methods. Diamond open access — no fees for authors or readers. For LE practitioners developing or evaluating data-driven components, JEDM provides the most rigorous algorithmic benchmarks and the broadest survey of available methods.\n",
+    "notes": "Diamond open access. Baker & Yacef (2009) 'The State of Educational Data Mining' is the field-defining survey paper."
+  },
+  {
+    "resource_id": "LE-JO-003",
+    "content_type": "JO",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "IEEE Transactions on Learning Technologies",
+    "type": "journal",
+    "affiliation_or_venue": "IEEE Computer Society",
+    "url": "https://www.computer.org/csdl/journal/lt",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T11"
+    ],
+    "description": "Covers technical design and architecture of learning systems: adaptive algorithms, NLP conversational agents, multimodal telemetry (eye tracking, EEG, galvanic skin response), and large-scale platform engineering. Requires substantive technical innovation in computer science alongside pedagogical validity — not purely educational research and not purely CS research.\nKey venue for AI-in-education engineering papers. IEEE TLT is where learning engineering practitioners find the most rigorous technical treatments of system architecture, with enough pedagogical grounding to distinguish educational effectiveness from mere technological novelty.\n",
+    "notes": "Requires both technical CS innovation and pedagogical validity; sister publication to IJAIED."
+  },
+  {
+    "resource_id": "LE-JO-004",
+    "content_type": "JO",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Journal of Learning Analytics (JLA)",
+    "type": "journal",
+    "affiliation_or_venue": "Society for Learning Analytics Research (SoLAR)",
+    "url": "https://learning-analytics.info/index.php/JLA",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T14",
+      "T17"
+    ],
+    "description": "Official publication of SoLAR. Covers the socio-technical implications of educational data: dashboard design, algorithmic ethics, data privacy, human-in-the-loop architectures, and equity in analytics deployment. Publishes empirical evaluations of analytics interventions alongside conceptual and critical scholarship.\nComplements JEDM's algorithmic focus with practice implications and ethical framing. For LE practitioners deploying analytics in institutional contexts, JLA provides the strongest guidance on implementation, adoption, and the institutional and ethical conditions under which analytics actually improves learning outcomes.\n",
+    "notes": "Open access; official publication of SoLAR. Complements JEDM — LA vs. EDM distinction is a key field boundary."
+  },
+  {
+    "resource_id": "LE-JO-005",
+    "content_type": "JO",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "International Journal of Artificial Intelligence in Education (IJAIED)",
+    "type": "journal",
+    "affiliation_or_venue": "Springer / International AIED Society",
+    "url": "https://link.springer.com/journal/40593",
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T04"
+    ],
+    "description": "Premier venue for intelligent tutoring systems, generative AI in education, deep cognitive modeling, and rigorous evaluation of AI versus human tutoring. Covers algorithmic accuracy evaluations, human factors studies, and pedagogical agent design. The home journal for rigorous AIED research between conference cycles.\nIJAIED publishes extended versions of AIED conference papers and independent journal submissions, providing the most comprehensive coverage of the theory-to-system pipeline in AI-enhanced learning. For LE practitioners working with LLMs, knowledge tracers, or pedagogical agents, IJAIED is the primary source for validated system architectures and evaluation frameworks.\n",
+    "notes": "Published by Springer; official journal of the International AIED Society. Companion to the annual AIED conference."
+  },
+  {
+    "resource_id": "LE-JO-006",
+    "content_type": "JO",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Journal of Learning Engineering (JoLE)",
+    "type": "journal",
+    "affiliation_or_venue": "IEEE ICICLE",
+    "url": "https://jole.ieee.org",
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T03",
+      "T16"
+    ],
+    "description": "The only journal specifically dedicated to learning engineering as a named field. Diamond Open Access — no article processing charges for authors or readers. Community-driven by ICICLE; provides the 'Learning Engineering Primer' to align multidisciplinary terminology across contributing disciplines.\nJoLE is the primary publication venue for work that explicitly frames itself within the LE paradigm — engineering rigor applied to learning system design, measurement, and iteration. Because the journal is young and the field is emerging, it requires venue-based discovery rather than citation-network search; curators and practitioners should monitor it directly rather than relying on index coverage.\n",
+    "notes": "Diamond open access; no APCs. The field's own journal — essential monitoring for LE-specific literature."
+  },
+  {
+    "resource_id": "LE-JO-007",
+    "content_type": "JO",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "International Journal of STEM Education",
+    "type": "journal",
+    "affiliation_or_venue": "Springer Open",
+    "url": "https://stemeducationjournal.springeropen.com/",
+    "primary_topic": "T13",
+    "secondary_topics": [
+      "T01",
+      "T15"
+    ],
+    "description": "Discipline-based education research (DBER) covering problem-based learning, flipped classrooms, educational robotics, and STEM learning outcomes at scale. Published by Springer Open. Bridges disciplinary content expertise with empirical learning research, providing evidence for domain-specific instructional strategies in science, technology, engineering, and mathematics.\nCritical venue for LE researchers designing domain-specific systems in STEM contexts. IJSTE papers provide the empirical base for content-specific design decisions — what works in undergraduate physics is not always what works in K-12 coding education — and offer validated instruments and outcome measures that LE practitioners can adapt.\n",
+    "notes": "Springer Open; covers discipline-based education research (DBER). Key for domain-specific LE design in STEM."
+  }
+]

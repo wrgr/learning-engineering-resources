@@ -1,0 +1,18 @@
+resource_id: LE-AP-358
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Moral Foundations and Heterogeneity in Ideological Preferences"
+authors: []
+year: 2012
+venue: Political Psychology
+doi: "10.1111/j.1467-9221.2012.00922.x"
+tier: contemporary
+citation_count_approx: 167
+cross_seed_score: 2
+openalex_id: "W1900296189"
+significance: >
+  Published in Political Psychology; addresses ideology, morality, harm.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

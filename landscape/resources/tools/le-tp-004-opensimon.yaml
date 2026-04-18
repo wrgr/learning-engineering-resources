@@ -1,0 +1,20 @@
+resource_id: LE-TP-004
+content_type: TP
+source: curated
+status: APPROVED
+name: "OpenSimon Toolkit (CMU Simon Initiative)"
+type: toolkit
+affiliation_or_venue: "Carnegie Mellon University, The Simon Initiative"
+url: "https://www.cmu.edu/simon/open-simon/"
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T11
+description: >
+  Flagship open infrastructure for LE research globally. Comprises DataShop
+  (data repository), LearnSphere (analytics infrastructure), CTAT (cognitive
+  tutor authoring tools), OLI (courseware), DiscourseDB (NLP for learning),
+  LightSide (automated text coding), and Bazaar (intelligent collaborative
+  chatbot). Enables researchers to build, test, and study LE systems without
+  proprietary infrastructure.
+notes: ""

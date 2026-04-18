@@ -1,0 +1,19 @@
+resource_id: LE-GL-004
+content_type: GL
+source: curated
+status: APPROVED
+title: "Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations"
+authors:
+  - "U.S. Department of Education, Office of Educational Technology"
+year: 2023
+publisher: "U.S. Department of Education"
+url: "https://www2.ed.gov/documents/ai-report/ai-report.pdf"
+type: policy
+primary_topic: T14
+secondary_topics:
+  - T07
+  - T09
+significance: >
+  First major federal policy document addressing AI in education with explicit civil-rights framing.
+  Documented algorithmic bias in e-proctoring systems and mandated algorithmic fairness and data
+  representation requirements. Sets the ethical and legal floor for LE practice in the US.

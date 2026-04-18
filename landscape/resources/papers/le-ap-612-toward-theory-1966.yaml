@@ -1,0 +1,18 @@
+resource_id: LE-AP-612
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Toward a Theory of Instruction"
+authors: []
+year: 1966
+venue: Psychosomatic Medicine
+doi: "10.1097/00006842-196611000-00010"
+tier: highly_cited
+citation_count_approx: 2961
+cross_seed_score: 2
+openalex_id: "W2320084995"
+significance: >
+  Published in Psychosomatic Medicine; addresses psychology. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

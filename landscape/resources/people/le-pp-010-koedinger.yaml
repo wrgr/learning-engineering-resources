@@ -1,0 +1,32 @@
+resource_id: LE-PP-010
+content_type: PP
+source: curated
+status: APPROVED
+name: Kenneth R. Koedinger
+affiliation: Carnegie Mellon University, HCII
+years: "active 1988–present"
+era: expansion
+role: Co-originator of learning engineering as a named field; Cognitive Tutor pioneer; DataShop founder
+description: >
+  Co-originator of learning engineering as a field. Creator of Cognitive Tutor and Carnegie
+  Learning, deployed in thousands of schools. Founded DataShop (now LearnSphere), the world's
+  largest open repository of educational log data. Coined the modern formulation of learning
+  engineering as an applied, data-driven discipline. Past chair of the EDM community and
+  co-director of LearnLab at CMU.
+key_contributions:
+  - Led development of Cognitive Tutors deployed in thousands of schools; co-founded Carnegie Learning Inc.
+  - Founded Pittsburgh Science of Learning Center (PSLC) and DataShop — world's largest open repository of educational log data
+  - Developed the Assistment methodology linking formative assessment to intelligent hints
+  - Coined the term 'learning engineering' in its modern formulation as an applied, data-driven discipline
+  - Directed LearnLab, CMU's in-vivo experimentation platform for LE research
+key_works:
+  - "Abstract planning and perceptual chunks (with Anderson, Cognitive Science, 1990)"
+  - "Intelligent tutoring goes to school in the big city (IJAIED, 1997)"
+  - "Learning Engineering for Online Education (contributor, 2019)"
+primary_topic: T00
+secondary_topics:
+  - T06
+  - T01
+  - T04
+url: https://pact.cs.cmu.edu/koedinger.html
+notes: Must-include anchor person. Seed multiple topics.

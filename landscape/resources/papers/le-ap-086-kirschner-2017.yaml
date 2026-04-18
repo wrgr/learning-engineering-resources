@@ -1,0 +1,24 @@
+resource_id: LE-AP-086
+content_type: AP
+source: curated
+title: "Stop Propagating the Learning Styles Myth"
+authors:
+  - Paul A. Kirschner
+  - Jeroen J. G. van Merriënboer
+year: 2013
+venue: Computers & Education
+volume: "67"
+pages: "135–142"
+doi: "10.1016/j.compedu.2013.07.010"
+tier: highly_cited
+citation_count_approx: 880
+significance: >
+  Reviewed evidence against learning styles theory (VARK and variants), showing that
+  matching instruction to purported style does not improve learning outcomes and may
+  harm them. Critically important for LE practitioners who must evaluate and push back
+  against persistent pseudoscientific claims in instructional design contexts. Supports
+  evidence-based design principles over learner preference accommodation.
+primary_topic: T04
+secondary_topics:
+  - T16
+  - T15

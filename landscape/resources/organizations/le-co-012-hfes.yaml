@@ -1,0 +1,24 @@
+resource_id: LE-CO-012
+content_type: CO
+source: curated
+status: APPROVED
+name: "Human Factors and Ergonomics Society (HFES)"
+type: academic_society
+affiliation_or_venue: "International"
+url: "https://www.hfes.org/"
+primary_topic: T02
+secondary_topics:
+  - T08
+description: >
+  Professional society for human factors and ergonomics. Publishes the Human
+  Factors journal and organizes the annual HFES conference. The Training Systems
+  technical group directly addresses LE-relevant human factors in instructional
+  systems design, including workload, situation awareness, and performance
+  measurement in training environments.
+
+  Key community for practitioners designing learning systems in complex,
+  safety-critical environments — military, aviation, nuclear, and healthcare.
+  Human factors methods (task analysis, cognitive workload assessment,
+  human-in-the-loop testing) are essential LE tools when learning outcomes
+  must be validated against real operational performance.
+notes: "Training Systems technical group is the most directly LE-relevant subgroup."

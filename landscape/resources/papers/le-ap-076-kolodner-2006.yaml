@@ -1,0 +1,30 @@
+resource_id: LE-AP-076
+content_type: AP
+source: curated
+title: "Problem-Based Learning Meets Case-Based Reasoning in the Middle-School Science Classroom"
+authors:
+  - Janet L. Kolodner
+  - Denia Bailey
+  - Havi Crismond
+  - Barbara Fasse
+  - Jackie Gray
+  - Jennifer Holbrook
+  - Sadhana Puntambekar
+  - Mike Ryan
+year: 2003
+venue: Journal of the Learning Sciences
+volume: "12"
+issue: "4"
+pages: "495–547"
+doi: "10.1207/S15327809JLS1204_2"
+tier: highly_cited
+citation_count_approx: 580
+significance: >
+  Described how case libraries of design projects support science learning by providing
+  analogical models students can adapt. Demonstrated CBR-enhanced project-based learning
+  in middle school science with measurable content gains. Informs LE system design for
+  case-based digital learning environments and adaptive case libraries.
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T01

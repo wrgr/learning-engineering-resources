@@ -1,0 +1,29 @@
+resource_id: LE-PP-092
+content_type: PP
+source: curated
+status: APPROVED
+name: Allen Newell
+affiliation: Carnegie Mellon University
+years: "1927–1992"
+era: founding
+role: Co-creator of SOAR cognitive architecture; pioneer of AI and cognitive science
+description: >
+  Pioneer of artificial intelligence and cognitive science. Co-developed SOAR — a unified
+  theory of cognition — and with Herbert Simon created Logic Theorist (1956) and General
+  Problem Solver (1957), the first AI programs. Established the 'physical symbol system
+  hypothesis', the theoretical bridge between computation and cognition. SOAR's chunking
+  mechanism provided an explicit computational theory of procedural skill acquisition.
+key_contributions:
+  - Co-developed SOAR, a unified theory of cognition modeling problem solving and learning via chunking
+  - With Herbert Simon, created Logic Theorist (1956) and General Problem Solver (1957), the first AI programs
+  - Established the 'physical symbol system hypothesis' — the theoretical bridge between computation and cognition
+  - SOAR's chunking mechanism provided an explicit computational theory of procedural skill acquisition
+key_works:
+  - "Human Problem Solving (with Simon, 1972)"
+  - "SOAR: An Architecture for General Intelligence (with Laird & Rosenbloom, AI 1987)"
+  - "Unified Theories of Cognition (1990)"
+primary_topic: T01
+secondary_topics:
+  - T06
+url: https://en.wikipedia.org/wiki/Allen_Newell
+notes: SOAR and cognitive simulation. Co-founder of AI.

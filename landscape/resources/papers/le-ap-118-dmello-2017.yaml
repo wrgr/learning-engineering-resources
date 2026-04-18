@@ -1,0 +1,23 @@
+resource_id: LE-AP-118
+content_type: AP
+source: curated
+title: "A Selective Meta-Analysis on the Relative Incidence of Discrete Affective States During Learning With Technology"
+authors:
+  - Sidney D'Mello
+year: 2013
+venue: Journal of Educational Psychology
+volume: "105"
+issue: "4"
+pages: "1082-1099"
+doi: "10.1037/a0032674"
+tier: contemporary
+citation_count_approx: 350
+significance: >
+  Meta-analyzed incidence rates of affect during technology-mediated learning across 22 studies,
+  finding that confusion and frustration are surprisingly common while boredom is less prevalent
+  than assumed. Provides LE system designers with empirically grounded priors for affect-adaptive
+  system triggers and the expected distribution of learner emotional states.
+primary_topic: T04
+secondary_topics:
+  - T06
+  - T15

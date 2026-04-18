@@ -1,0 +1,17 @@
+resource_id: LE-AP-618
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning."
+authors: []
+year: 2011
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 674
+cross_seed_score: 2
+openalex_id: "W2463230187"
+significance: >
+  Published in Unknown Venue; addresses humanities, sociology, epistemology.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,29 @@
+resource_id: LE-PP-144
+content_type: PP
+source: curated
+status: APPROVED
+name: Jack Mostow
+affiliation: "Carnegie Mellon University, Robotics Institute (emeritus)"
+years: "1950–present"
+era: contemporary
+role: Pioneer of AI-powered reading tutors; data-driven ITS evaluation methods
+description: >
+  Created Project LISTEN — the first ITS that listens to children read aloud and provides
+  real-time corrective feedback using automated speech recognition. Developed data-driven
+  methods for evaluating ITS effectiveness using log data from deployed systems.
+key_contributions:
+  - Created Project LISTEN — the first ITS that listens to children read aloud and provides real-time corrective feedback
+  - Demonstrated that automated speech recognition can detect oral reading errors with sufficient accuracy for tutoring
+  - Developed data-driven methods for evaluating ITS effectiveness using log data from deployed systems
+  - Contributed tactics for mining, mapping, and modeling data from intelligent tutors
+  - Applied learning engineering principles to literacy acquisition in elementary school settings
+key_works:
+  - "Listening to children read aloud (Project LISTEN, 1999)"
+  - "Some useful tactics to modify, map and mine data from intelligent tutors (Natural Language Engineering, 2006)"
+  - "Data-driven approaches to evaluating and improving reading tutors (AIED, 2007)"
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T01
+url: https://www.cs.cmu.edu/~mostow/
+notes: Project LISTEN. Reading tutors. Data-driven ITS evaluation.

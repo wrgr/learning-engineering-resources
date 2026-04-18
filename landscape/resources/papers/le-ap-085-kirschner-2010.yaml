@@ -1,0 +1,24 @@
+resource_id: LE-AP-085
+content_type: AP
+source: curated
+title: "The Myths of the Digital Native and the Multitasker"
+authors:
+  - Paul A. Kirschner
+  - Pedro De Bruyckere
+year: 2017
+venue: Teaching and Teacher Education
+volume: "67"
+pages: "135–142"
+doi: "10.1016/j.tate.2017.06.001"
+tier: contemporary
+citation_count_approx: 640
+significance: >
+  Systematically debunked the "digital native" hypothesis and multitasking ability using
+  cognitive science evidence. Demonstrated that neither claim has empirical support and
+  that instructional designs premised on these myths are ineffective. Directly relevant
+  to LE practitioners evaluating claims about learner technology fluency and designing
+  instruction that accounts for cognitive limits rather than assumed competencies.
+primary_topic: T04
+secondary_topics:
+  - T01
+  - T16

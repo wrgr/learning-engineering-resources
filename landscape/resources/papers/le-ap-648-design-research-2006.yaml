@@ -1,0 +1,19 @@
+resource_id: LE-AP-648
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Design research from a learning design perspective"
+authors: []
+year: 2006
+venue: Unknown Venue
+doi: "10.4324/9780203088364-12"
+tier: contemporary
+citation_count_approx: 622
+cross_seed_score: 2
+openalex_id: "W2896482604"
+significance: >
+  Published in Unknown Venue; addresses perspective (graphical), computer
+  science, psychology. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,23 @@
+resource_id: LE-AP-140
+content_type: AP
+source: curated
+title: "Evidence Centered Design for Learning and Assessment in the Digital World"
+authors:
+  - John T. Behrens
+  - Robert J. Mislevy
+  - Kristen E. DiCerbo
+  - Roy Levy
+year: 2012
+venue: "Technology-Based Assessments for 21st Century Skills"
+pages: "13-54"
+tier: contemporary
+citation_count_approx: 280
+significance: >
+  Applied Evidence-Centered Design (ECD) to digital assessment contexts, providing a rigorous
+  framework for designing assessments as measurement instruments grounded in explicit evidence
+  models. Directly relevant to LE evaluation design — particularly for game-based and
+  performance assessment where evidence for learning is embedded in interaction data.
+primary_topic: T10
+secondary_topics:
+  - T09
+  - T02

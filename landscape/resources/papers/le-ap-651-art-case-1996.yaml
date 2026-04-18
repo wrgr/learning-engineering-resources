@@ -1,0 +1,19 @@
+resource_id: LE-AP-651
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The art of case study research"
+authors: []
+year: 1996
+venue: Library & Information Science Research
+doi: "10.1016/s0740-8188(96)90053-5"
+tier: foundational
+citation_count_approx: 8256
+cross_seed_score: 2
+openalex_id: "W2936069350"
+significance: >
+  Published in Library & Information Science Research; addresses computer
+  science, multigrid method, exploit. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

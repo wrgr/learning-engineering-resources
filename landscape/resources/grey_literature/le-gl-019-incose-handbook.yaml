@@ -1,0 +1,24 @@
+resource_id: LE-GL-019
+content_type: GL
+source: curated
+status: APPROVED
+title: "INCOSE Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities (4th ed.)"
+authors:
+  - "David Walden"
+  - "Garry Roedler"
+  - "Kevin Forsberg"
+  - "R. Douglas Hamelin"
+  - "Thomas Shortell"
+year: 2015
+publisher: "Wiley (INCOSE)"
+url: "https://www.incose.org/products-and-publications/se-handbook"
+type: book
+primary_topic: T02
+secondary_topics:
+  - T03
+  - T16
+significance: >
+  The authoritative practitioner reference for systems engineering processes and lifecycle
+  management. Provides the SE process framework (requirements, architecture, integration,
+  verification, validation) that learning engineering adapts for learning system development.
+  Essential for LE practitioners with systems engineering backgrounds.

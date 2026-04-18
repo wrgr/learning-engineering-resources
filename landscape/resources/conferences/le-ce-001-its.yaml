@@ -1,0 +1,20 @@
+resource_id: LE-CE-001
+content_type: CE
+source: curated
+status: APPROVED
+name: "International Conference on Intelligent Tutoring Systems (ITS)"
+type: conference
+affiliation_or_venue: "IIS / Springer LNCS"
+frequency: Biennial
+url: "https://iis-international.org/its/"
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T07
+description: >
+  The oldest dedicated ITS/LE conference, founded 1988 in Montreal. Biennial;
+  proceedings published by Springer LNCS. Premier venue for cognitive models,
+  student modeling, adaptive instruction, and feedback algorithm research. ITS
+  and AIED now alternate years, making one or the other the annual flagship
+  AI-in-education conference.
+notes: ""

@@ -1,0 +1,16 @@
+resource_id: LE-PC-088
+content_type: PC
+source: registry_migration
+status: APPROVED
+name: "University of Washington — Learning sciences & design (CoE, HCDE, iSchool)"
+url: "https://education.uw.edu/academics/area/learning-sciences-human-development"
+primary_topic: T01
+secondary_topics:
+  - T03
+  - T06
+description: >
+  Graduate hub in Learning Sciences & Human Development plus related units
+  (e.g., Learning, Epistemology, and Design Lab in HCDE; learning sciences at
+  the Information School) for research on learning, design, and technology in
+  formal and informal settings—UW’s closest cluster to learning engineering even
+  without a single LE degree name.

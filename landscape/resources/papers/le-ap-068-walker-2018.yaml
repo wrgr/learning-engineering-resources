@@ -1,0 +1,21 @@
+resource_id: LE-AP-068
+content_type: AP
+source: curated
+title: "Understanding Narrative-Centered Learning Environments"
+authors:
+  - Erin Walker
+  - James Lester
+year: 2017
+venue: "Adaptive Educational Hypermedia"
+tier: contemporary
+citation_count_approx: 75
+significance: >
+  Reviewed the design space for narrative-centered learning environments (NCLEs),
+  where story-driven contexts provide motivation and meaning for learning activities.
+  Identified design variables — character agency, story branching, narrative-learning
+  integration — and their effects on engagement and learning. Informs LE design for
+  game-based and scenario-based learning systems.
+primary_topic: T06
+secondary_topics:
+  - T08
+  - T04

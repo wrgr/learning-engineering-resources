@@ -1,0 +1,18 @@
+resource_id: LE-AP-642
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction"
+authors: []
+year: 2000
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 4327
+cross_seed_score: 2
+openalex_id: "W2790783572"
+significance: >
+  Published in Unknown Venue; addresses reading (process), psychology,
+  mathematics education. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

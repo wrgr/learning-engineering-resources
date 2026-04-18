@@ -1,0 +1,22 @@
+resource_id: LE-AP-247
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Intelligent Tutoring Goes To School in the Big City"
+authors: []
+year: 2018
+venue: Research Showcase @ Carnegie Mellon University (Carnegie Mellon University)
+doi: "10.1184/r1/6470153"
+tier: highly_cited
+citation_count_approx: 1115
+cross_seed_score: 3
+openalex_id: "W2112564774"
+significance: >
+  Published in Research Showcase @ Carnegie Mellon University (Carnegie Mellon
+  University); addresses curriculum, tutor, mathematics education. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T01

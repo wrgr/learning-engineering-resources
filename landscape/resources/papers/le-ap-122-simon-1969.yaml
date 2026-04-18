@@ -1,0 +1,20 @@
+resource_id: LE-AP-122
+content_type: AP
+source: curated
+title: "The Sciences of the Artificial"
+authors:
+  - Herbert A. Simon
+year: 1996
+venue: MIT Press
+tier: foundational
+citation_count_approx: 12000
+significance: >
+  Established the science of design as a discipline distinct from natural
+  science — design as the transformation of existing conditions into preferred
+  ones. Simon's framework for design as a problem-solving activity is
+  foundational to learning engineering's engineering epistemology,
+  distinguishing LE from descriptive educational research.
+primary_topic: T02
+secondary_topics:
+  - T04
+  - T12

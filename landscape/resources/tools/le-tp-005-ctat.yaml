@@ -1,0 +1,18 @@
+resource_id: LE-TP-005
+content_type: TP
+source: curated
+status: APPROVED
+name: "CTAT — Cognitive Tutor Authoring Tools"
+type: authoring_tool
+affiliation_or_venue: "Carnegie Mellon University / HCII"
+url: "https://github.com/CMUCTAT/CTAT"
+primary_topic: T05
+secondary_topics:
+  - T06
+  - T09
+description: >
+  Authoring environment for building model-tracing and example-tracing cognitive
+  tutors. Authors encode domain knowledge as production rules (model-tracing) or
+  annotated examples (example-tracing). The primary open-source tool for
+  operationalizing expert knowledge into runnable knowledge component models.
+notes: ""

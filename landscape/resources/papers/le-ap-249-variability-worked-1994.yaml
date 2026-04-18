@@ -1,0 +1,22 @@
+resource_id: LE-AP-249
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach."
+authors: []
+year: 1994
+venue: Journal of Educational Psychology
+doi: "10.1037/0022-0663.86.1.122"
+tier: highly_cited
+citation_count_approx: 1113
+cross_seed_score: 3
+openalex_id: "W2116669434"
+significance: >
+  Published in Journal of Educational Psychology; addresses psychology, transfer
+  of training, cognition. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T04
+secondary_topics:
+  - T10
+  - T01

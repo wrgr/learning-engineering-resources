@@ -1,0 +1,19 @@
+resource_id: LE-AP-559
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Equivalence of Learning Paths in Early Science Instruction"
+authors: []
+year: 2004
+venue: Psychological Science
+doi: "10.1111/j.0956-7976.2004.00737.x"
+tier: highly_cited
+citation_count_approx: 901
+cross_seed_score: 2
+openalex_id: "W2139559367"
+significance: >
+  Published in Psychological Science; addresses discovery learning, psychology,
+  equivalence (formal languages). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

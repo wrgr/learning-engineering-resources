@@ -1,0 +1,19 @@
+resource_id: LE-AP-224
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Causal Explanation, Qualitative Research, and Scientific Inquiry in Education"
+authors: []
+year: 2004
+venue: Educational Researcher
+doi: "10.3102/0013189x033002003"
+tier: contemporary
+citation_count_approx: 764
+cross_seed_score: 3
+openalex_id: "W2037302630"
+significance: >
+  Published in Educational Researcher; addresses misrepresentation, criticism,
+  causality (physics). Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

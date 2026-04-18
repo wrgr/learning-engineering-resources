@@ -1,0 +1,25 @@
+resource_id: LE-AP-080
+content_type: AP
+source: curated
+title: "Inventing to Prepare for Future Learning: The Hidden Efficiency of Encouraging Original Student Production in Statistics Instruction"
+authors:
+  - Daniel L. Schwartz
+  - Taylor Martin
+year: 2004
+venue: Cognition and Instruction
+volume: "22"
+issue: "2"
+pages: "129–184"
+doi: "10.1207/s1532690xci2202_1"
+tier: highly_cited
+citation_count_approx: 1600
+significance: >
+  Demonstrated through a series of experiments that having students invent solutions
+  to statistical problems before receiving instruction produced better preparation for
+  future learning — even when invention groups scored lower on immediate transfer tests.
+  Established "invention as preparation" as a robust instructional strategy, providing
+  empirical grounding for exploratory-then-instruction sequences in LE system design.
+primary_topic: T01
+secondary_topics:
+  - T12
+  - T10

@@ -1,0 +1,18 @@
+resource_id: LE-AP-650
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "A Conceptual History of the Achievement Goal Construct."
+authors: []
+year: 2005
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 955
+cross_seed_score: 2
+openalex_id: "W2920253877"
+significance: >
+  Published in Unknown Venue; addresses construct (python library), conceptual
+  history, computer science. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

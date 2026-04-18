@@ -1,0 +1,30 @@
+resource_id: LE-AP-039
+content_type: AP
+source: curated
+title: "AutoTutor: An Intelligent Tutoring System with Mixed-initiative Dialogue"
+authors:
+  - Arthur C. Graesser
+  - Shulan Lu
+  - George Tanner Jackson
+  - Heather Hite Mitchell
+  - Mathew Ventura
+  - Andrew Olney
+  - Max M. Louwerse
+year: 2004
+venue: IEEE Transactions on Education
+volume: "47"
+issue: "2"
+pages: "169–180"
+doi: "10.1109/TE.2004.825076"
+tier: highly_cited
+citation_count_approx: 1100
+significance: >
+  Described AutoTutor's architecture for mixed-initiative conversational tutoring, using
+  latent semantic analysis to assess learner responses and generate Socratic dialogue.
+  Demonstrated learning gains comparable to human tutoring in controlled studies. Established
+  the conversational ITS paradigm that prefigured modern LLM-based tutoring, directly
+  relevant to LE system design for dialogue-based adaptive learning.
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T01

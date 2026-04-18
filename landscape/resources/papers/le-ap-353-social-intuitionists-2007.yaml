@@ -1,0 +1,19 @@
+resource_id: LE-AP-353
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Social Intuitionists Answer Six Questions about Moral Psychology"
+authors: []
+year: 2007
+venue: The MIT Press eBooks
+doi: "10.7551/mitpress/7573.003.0006"
+tier: contemporary
+citation_count_approx: 335
+cross_seed_score: 2
+openalex_id: "W1798903424"
+significance: >
+  Published in The MIT Press eBooks; addresses psychology, sociology,
+  epistemology. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

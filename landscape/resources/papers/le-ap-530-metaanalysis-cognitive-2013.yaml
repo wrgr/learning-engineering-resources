@@ -1,0 +1,21 @@
+resource_id: LE-AP-530
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "A meta-analysis of the cognitive and motivational effects of serious games."
+authors: []
+year: 2013
+venue: Journal of Educational Psychology
+doi: "10.1037/a0031311"
+tier: highly_cited
+citation_count_approx: 1728
+cross_seed_score: 2
+openalex_id: "W2127076710"
+significance: >
+  Published in Journal of Educational Psychology; addresses psychology,
+  cognition, meta-analysis. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T15
+secondary_topics:
+  - T01

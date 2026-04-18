@@ -1,0 +1,19 @@
+resource_id: LE-AP-577
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The case for motivated reasoning."
+authors: []
+year: 1990
+venue: Psychological Bulletin
+doi: "10.1037/0033-2909.108.3.480"
+tier: foundational
+citation_count_approx: 8069
+cross_seed_score: 2
+openalex_id: "W2149893809"
+significance: >
+  Published in Psychological Bulletin; addresses variety (cybernetics),
+  construct (python library), set (abstract data type). Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

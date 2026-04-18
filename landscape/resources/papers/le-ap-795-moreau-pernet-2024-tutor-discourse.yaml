@@ -1,0 +1,23 @@
+resource_id: LE-AP-795
+content_type: AP
+source: curated
+title: "Classifying Tutor Discursive Moves at Scale in Mathematics Classrooms with Large Language Models"
+authors:
+  - Baptiste Moreau-Pernet
+  - Yuan Tian
+  - Steven Sawaya
+  - Peter Foltz
+year: 2024
+venue: "Proceedings of the 11th ACM Conference on Learning @ Scale"
+doi: "10.1145/3657604.3664664"
+tier: contemporary
+citation_count_approx: 9
+significance: >
+  Demonstrates use of LLMs to classify tutor discourse moves at scale in
+  mathematics classrooms, enabling automated analysis of instructional quality
+  across thousands of tutoring sessions. Shows how AI can power LE feedback
+  loops for continuously improving human tutoring quality.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T09

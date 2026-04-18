@@ -1,0 +1,19 @@
+resource_id: LE-AP-584
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Religion, Morality, Evolution"
+authors: []
+year: 2011
+venue: Annual Review of Psychology
+doi: "10.1146/annurev-psych-120710-100334"
+tier: contemporary
+citation_count_approx: 219
+cross_seed_score: 2
+openalex_id: "W2155803047"
+significance: >
+  Published in Annual Review of Psychology; addresses morality, psychology,
+  social psychology. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

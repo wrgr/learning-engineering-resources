@@ -1,0 +1,28 @@
+resource_id: LE-PP-067
+content_type: PP
+source: curated
+status: APPROVED
+name: Rob Nyland
+affiliation: "IEEE ICICLE — Higher Education MIG"
+years: "active 2010s–present"
+era: contemporary
+role: Higher education LE practitioner; ICICLE Higher Education MIG co-chair
+description: >
+  Co-chair of the Higher Education MIG within IEEE ICICLE, alongside Emily Marasco.
+  Practitioner focus on applying LE methods within post-secondary instructional and
+  faculty development contexts.
+key_contributions:
+  - Co-chairs the Higher Education MIG (ICICLE), applying LE principles to university teaching, faculty development, and curriculum design
+  - Contributes practitioner perspectives on LE implementation challenges within higher education institutions
+  - Bridges instructional design and learning engineering approaches in post-secondary contexts
+key_works:
+  - "IEEE ICICLE Higher Education MIG practitioner resources and guidelines"
+  - "LE-AP-792 — The RISE Framework: Analytics for OER Improvement (IRRODL, 2017)"
+  - "LE-AP-793 — Does Class Size Matter? (AJDE, 2019)"
+  - "LE-AP-794 — Piloting Learning Analytics in Online Program (OLJ, 2021)"
+primary_topic: T10
+secondary_topics:
+  - T16
+  - T02
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Higher Education MIG.

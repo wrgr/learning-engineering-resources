@@ -1,0 +1,20 @@
+resource_id: LE-GL-015
+content_type: GL
+source: curated
+status: APPROVED
+title: "The Forgotten Role of the Learning Engineer"
+authors:
+  - "Bror Saxberg"
+year: 2016
+publisher: "The Atlantic"
+url: ""
+type: essay
+primary_topic: T00
+secondary_topics:
+  - T15
+  - T13
+significance: >
+  Canonical entry-point essay calling for the learning engineering profession. Argued that
+  education is the 'last great unapplied science' and that learning engineers — practitioners
+  who apply learning science rigorously to educational products — are urgently needed at scale.
+  Widely cited; often assigned as introductory reading for LE courses and programs.

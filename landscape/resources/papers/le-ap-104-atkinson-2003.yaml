@@ -1,0 +1,25 @@
+resource_id: LE-AP-104
+content_type: AP
+source: curated
+title: "Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps"
+authors:
+  - Robert K. Atkinson
+  - Alexander Renkl
+  - Mary Margaret Merrill
+year: 2003
+venue: Journal of Educational Psychology
+volume: "95"
+issue: "4"
+pages: "774-783"
+doi: "10.1037/0022-0663.95.4.774"
+tier: highly_cited
+citation_count_approx: 740
+significance: >
+  Demonstrated that combining fading (gradually reducing worked-out steps) with
+  self-explanation prompts produces optimal learning during the example-to-problem
+  transition. Provided the empirical basis for adaptive worked-example fading strategies
+  widely used in ITS and LE system design.
+primary_topic: T12
+secondary_topics:
+  - T01
+  - T06

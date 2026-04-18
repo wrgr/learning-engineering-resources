@@ -1,0 +1,24 @@
+resource_id: LE-CO-005
+content_type: CO
+source: curated
+status: APPROVED
+name: "HCII — Human-Computer Interaction Institute, Carnegie Mellon"
+type: research_center
+affiliation_or_venue: "Carnegie Mellon University"
+url: "https://hcii.cmu.edu"
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T03
+description: >
+  Academic home of learning sciences and technologies at CMU. Houses Ken
+  Koedinger, Al Corbett, and the PACT Center. Offers PhD and MS programs
+  integrating HCI, learning sciences, and data science. Co-originator of
+  learning engineering as a named field.
+
+  Home of DataShop, CTAT (Cognitive Tutor Authoring Tools), and the Cognitive
+  Tutor research lineage — among the most replicated bodies of evidence in
+  applied learning science. The HCII is the primary academic source of the
+  methodological and theoretical frameworks that define learning engineering as
+  a discipline.
+notes: "Houses Koedinger, Corbett, and the PACT Center; co-originator of learning engineering as a named discipline."

@@ -1,0 +1,27 @@
+resource_id: LE-AP-053
+content_type: AP
+source: curated
+title: "Assessing the Generalizability of Randomized Trial Results to Target Populations"
+authors:
+  - Elizabeth A. Stuart
+  - Catherine P. Bradshaw
+  - Philip J. Leaf
+year: 2015
+venue: Prevention Science
+volume: "16"
+issue: "3"
+pages: "475–485"
+doi: "10.1007/s11121-014-0513-z"
+tier: contemporary
+citation_count_approx: 280
+significance: >
+  Addressed the generalizability (external validity) problem in randomized educational
+  trials — when RCT results from a specific sample cannot be assumed to transfer to
+  broader populations. Provided statistical methods for estimating treatment effects
+  in target populations using propensity score weighting. Directly relevant to LE
+  evaluation practitioners who must assess whether efficacy evidence from controlled
+  studies applies to their deployment contexts.
+primary_topic: T17
+secondary_topics:
+  - T15
+  - T10

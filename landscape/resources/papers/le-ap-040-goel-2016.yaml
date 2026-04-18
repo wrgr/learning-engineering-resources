@@ -1,0 +1,22 @@
+resource_id: LE-AP-040
+content_type: AP
+source: curated
+title: "Designing a Learning-by-Teaching Agent: An Architecture for Pedagogical Agents"
+authors:
+  - Ashok K. Goel
+  - Lalith Polepeddi
+year: 2016
+venue: Proceedings of the 2016 AAAI Workshop on Symbiotic Cognitive Systems
+tier: contemporary
+citation_count_approx: 920
+significance: >
+  Described the design and deployment of Jill Watson, the AI teaching assistant built
+  on IBM Watson that answered student questions in a graduate online course. Among the
+  first demonstrations that an AI agent could handle ~40% of student forum questions
+  indistinguishably from human TAs. Directly relevant to LE deployment of AI systems
+  in authentic educational contexts and the evaluation of human-AI role allocation in
+  learning environments.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T16

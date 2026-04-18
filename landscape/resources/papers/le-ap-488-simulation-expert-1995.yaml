@@ -1,0 +1,19 @@
+resource_id: LE-AP-488
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Simulation of expert memory using EPAM IV."
+authors: []
+year: 1995
+venue: Psychological Review
+doi: "10.1037/0033-295x.102.2.305"
+tier: contemporary
+citation_count_approx: 120
+cross_seed_score: 2
+openalex_id: "W2085455523"
+significance: >
+  Published in Psychological Review; addresses chunking (psychology), computer
+  science, recall. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T04

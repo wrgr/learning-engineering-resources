@@ -1,0 +1,19 @@
+resource_id: LE-AP-464
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Interaction Analysis: Foundations and Practice"
+authors: []
+year: 1995
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls0401_2"
+tier: highly_cited
+citation_count_approx: 2620
+cross_seed_score: 2
+openalex_id: "W2063790518"
+significance: >
+  Published in Journal of the Learning Sciences; addresses sociology,
+  epistemology, philosophy. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

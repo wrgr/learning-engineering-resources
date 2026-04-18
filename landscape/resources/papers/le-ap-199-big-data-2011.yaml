@@ -1,0 +1,18 @@
+resource_id: LE-AP-199
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Big data: The next frontier for innovation, competition, and productivity"
+authors: []
+year: 2011
+venue: Unknown Venue
+tier: foundational
+citation_count_approx: 5232
+cross_seed_score: 3
+openalex_id: "W1494137514"
+significance: >
+  Published in Unknown Venue; addresses big data, underpinning, competition
+  (biology). Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

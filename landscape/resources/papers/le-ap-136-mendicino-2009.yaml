@@ -1,0 +1,25 @@
+resource_id: LE-AP-136
+content_type: AP
+source: curated
+title: "A Comparison of Traditional Homework to Computer-Supported Homework"
+authors:
+  - Michael Mendicino
+  - Leena Razzaq
+  - Neil T. Heffernan
+year: 2009
+venue: Journal of Research on Technology in Education
+volume: "41"
+issue: "3"
+pages: "331-359"
+doi: "10.1080/15391523.2009.10782514"
+tier: highly_cited
+citation_count_approx: 310
+significance: >
+  RCT comparing traditional paper homework to ASSISTments computer-supported homework,
+  finding significantly greater learning gains with automated feedback. One of the cleaner
+  causal evaluations of ITS homework platforms, providing LE practitioners with direct
+  evidence for the value of immediate formative feedback over delayed teacher grading.
+primary_topic: T10
+secondary_topics:
+  - T06
+  - T15

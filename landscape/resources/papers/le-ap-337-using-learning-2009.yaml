@@ -1,0 +1,21 @@
+resource_id: LE-AP-337
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Using Learning Decomposition and Bootstrapping with Randomization to Compare the Impact of Different Educational Interventions on Learning"
+authors: []
+year: 2009
+venue: Educational Data Mining
+tier: contemporary
+citation_count_approx: 18
+cross_seed_score: 2
+openalex_id: "W1581376112"
+significance: >
+  Published in Educational Data Mining; addresses bootstrapping (finance),
+  computer science, psychological intervention. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T09
+secondary_topics:
+  - T11
+  - T14

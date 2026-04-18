@@ -1,0 +1,27 @@
+resource_id: LE-AP-049
+content_type: AP
+source: curated
+title: "Embodied Science and Mixed Reality: How Gesture and Motion Capture Affect Physics Education"
+authors:
+  - Mina C. Johnson-Glenberg
+  - David A. Birchfield
+  - Lisa Tolentino
+  - Tatyana Koziupa
+year: 2014
+venue: Journal of Educational Psychology
+volume: "106"
+issue: "1"
+pages: "256–275"
+doi: "10.1037/a0034099"
+tier: contemporary
+citation_count_approx: 380
+significance: >
+  Demonstrated that embodied interaction (gesture and motion capture) in mixed-reality
+  science simulations produces stronger learning gains than equivalent content in
+  non-embodied digital formats. Provided empirical support for embodied cognition
+  principles in LE system design, with direct implications for XR/AR-based learning
+  environments and the design of physical interaction as a learning mechanism.
+primary_topic: T08
+secondary_topics:
+  - T06
+  - T01

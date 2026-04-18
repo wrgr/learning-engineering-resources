@@ -1,0 +1,31 @@
+resource_id: LE-PP-093
+content_type: PP
+source: curated
+status: APPROVED
+name: John Sweller
+affiliation: University of New South Wales
+years: "1946–present"
+era: founding
+role: Developer of Cognitive Load Theory
+description: >
+  Educational psychologist who formalized Cognitive Load Theory (CLT), distinguishing
+  intrinsic, extraneous, and germane cognitive load. Established that working memory
+  constraints must drive instructional design decisions. CLT-derived principles (worked
+  examples effect, split-attention effect, redundancy effect) are now standard LE design
+  rules. Provided the scientific justification for explicit, structured instruction over
+  unguided discovery.
+key_contributions:
+  - Formalized Cognitive Load Theory (CLT) distinguishing intrinsic, extraneous, and germane load
+  - Established that working memory constraints must drive instructional design decisions
+  - CLT-derived principles (worked examples effect, split-attention effect, redundancy effect) are now standard LE design rules
+  - Provided the scientific justification for explicit, structured instruction over unguided discovery
+key_works:
+  - "Cognitive load during problem solving: Effects on learning (Cognitive Science, 1988)"
+  - "Cognitive Load Theory, Learning Difficulty, and Instructional Design (Learning and Instruction, 1994)"
+  - "Cognitive Load Theory (with Ayres & Kalyuga, Springer 2011)"
+primary_topic: T01
+secondary_topics:
+  - T12
+  - T03
+url: https://www.unsw.edu.au/staff/john-sweller
+notes: CLT originator. Core T01 and T12 anchor.

@@ -1,0 +1,19 @@
+resource_id: LE-AP-340
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Parallel Distributed Processing: Bridging the gap between human and machine intelligence"
+authors: []
+year: 1990
+venue: Dépôt institutionnel de l'Université libre de Bruxelles (Université Libre de Bruxelles)
+tier: contemporary
+citation_count_approx: 6
+cross_seed_score: 2
+openalex_id: "W1598222101"
+significance: >
+  Published in Dépôt institutionnel de l'Université libre de Bruxelles
+  (Université Libre de Bruxelles); addresses bridging (networking), computer
+  science, artificial intelligence. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

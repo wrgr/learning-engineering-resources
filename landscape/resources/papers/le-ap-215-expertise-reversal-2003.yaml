@@ -1,0 +1,21 @@
+resource_id: LE-AP-215
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Expertise Reversal Effect"
+authors: []
+year: 2003
+venue: Educational Psychologist
+doi: "10.1207/s15326985ep3801_4"
+tier: highly_cited
+citation_count_approx: 1815
+cross_seed_score: 3
+openalex_id: "W2001468118"
+significance: >
+  Published in Educational Psychologist; addresses schema (genetic algorithms),
+  psychology, phenomenon. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T04
+secondary_topics:
+  - T01

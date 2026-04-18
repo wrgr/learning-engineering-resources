@@ -1,0 +1,104 @@
+[
+  {
+    "resource_id": "LE-TP-001",
+    "content_type": "TP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "ASSISTments",
+    "type": "platform",
+    "affiliation_or_venue": "Worcester Polytechnic Institute",
+    "url": "https://www.assistments.org",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T09",
+      "T10"
+    ],
+    "description": "Free intelligent tutoring platform serving 500,000+ students and 20,000+ teachers, primarily for mathematics. Large research base; built-in E-TRIALS functionality enabling randomized controlled experiments at scale in live classrooms. Pioneered teacher-authored hint sequences and demonstrated that formative assessment integrated with intelligent hints produces significant learning gains.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-TP-002",
+    "content_type": "TP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "DataShop / LearnSphere",
+    "type": "repository",
+    "affiliation_or_venue": "Carnegie Mellon University / LearnLab",
+    "url": "https://pslcdatashop.web.cmu.edu",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T06",
+      "T05"
+    ],
+    "description": "World's largest open repository of educational interaction data. Stores student performance logs indexed by knowledge component models from hundreds of studies. The canonical infrastructure for empirical validation of knowledge representations and EDM research. If a KC model predicts student learning curves, it can be validated here.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-TP-003",
+    "content_type": "TP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "xAPI / Tin Can API",
+    "type": "standard",
+    "affiliation_or_venue": "ADL Initiative",
+    "url": "https://xapi.com",
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T09",
+      "T00"
+    ],
+    "description": "Standard for tracking and communicating learning activity data across platforms, devices, and contexts. Foundation for interoperable Learning Record Stores (LRS). Key infrastructure standard enabling federated learning telemetry pipelines for LE analytics.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-TP-004",
+    "content_type": "TP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "OpenSimon Toolkit (CMU Simon Initiative)",
+    "type": "toolkit",
+    "affiliation_or_venue": "Carnegie Mellon University, The Simon Initiative",
+    "url": "https://www.cmu.edu/simon/open-simon/",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T06",
+      "T11"
+    ],
+    "description": "Flagship open infrastructure for LE research globally. Comprises DataShop (data repository), LearnSphere (analytics infrastructure), CTAT (cognitive tutor authoring tools), OLI (courseware), DiscourseDB (NLP for learning), LightSide (automated text coding), and Bazaar (intelligent collaborative chatbot). Enables researchers to build, test, and study LE systems without proprietary infrastructure.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-TP-005",
+    "content_type": "TP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "CTAT — Cognitive Tutor Authoring Tools",
+    "type": "authoring_tool",
+    "affiliation_or_venue": "Carnegie Mellon University / HCII",
+    "url": "https://github.com/CMUCTAT/CTAT",
+    "primary_topic": "T05",
+    "secondary_topics": [
+      "T06",
+      "T09"
+    ],
+    "description": "Authoring environment for building model-tracing and example-tracing cognitive tutors. Authors encode domain knowledge as production rules (model-tracing) or annotated examples (example-tracing). The primary open-source tool for operationalizing expert knowledge into runnable knowledge component models.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-TP-006",
+    "content_type": "TP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "H5P — HTML5 Interactive Content",
+    "type": "platform",
+    "affiliation_or_venue": "Joubel / H5P Group",
+    "url": "https://h5p.org",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T12",
+      "T11"
+    ],
+    "description": "Open-source framework for creating interactive learning content (quizzes, interactive video, branching scenarios, simulations) that runs in any browser and LMS. Widely used in LE for rapid prototyping of formative assessment and interactive instruction. Integration with Moodle, Canvas, Brightspace, and WordPress makes it accessible to practitioners at all technical levels.\n",
+    "notes": ""
+  }
+]

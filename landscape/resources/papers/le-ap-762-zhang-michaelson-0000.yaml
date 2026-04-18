@@ -1,0 +1,20 @@
+resource_id: LE-AP-762
+content_type: AP
+source: book_endnotes
+status: seed
+title: "Zhang, LE Michaelson, S"
+authors: []
+year: 0
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T15
+  topics in learning engineering. Full bibliographic details in citation: Sahni,
+  SD, JR Polanin, Q. Zhang, LE Michaelson, S. Caverly, ML Polese, and J. Yang. A
+  What Works Clearinghouse Rapid Evi...
+primary_topic: T15
+secondary_topics:
+  - T14
+  - T01

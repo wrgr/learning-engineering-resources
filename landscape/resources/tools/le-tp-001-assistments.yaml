@@ -1,0 +1,20 @@
+resource_id: LE-TP-001
+content_type: TP
+source: curated
+status: APPROVED
+name: "ASSISTments"
+type: platform
+affiliation_or_venue: "Worcester Polytechnic Institute"
+url: "https://www.assistments.org"
+primary_topic: T06
+secondary_topics:
+  - T09
+  - T10
+description: >
+  Free intelligent tutoring platform serving 500,000+ students and 20,000+
+  teachers, primarily for mathematics. Large research base; built-in E-TRIALS
+  functionality enabling randomized controlled experiments at scale in live
+  classrooms. Pioneered teacher-authored hint sequences and demonstrated that
+  formative assessment integrated with intelligent hints produces significant
+  learning gains.
+notes: ""

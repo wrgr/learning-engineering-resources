@@ -1,0 +1,19 @@
+resource_id: LE-AP-263
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Developing conceptual understanding and procedural skill in mathematics: An iterative process."
+authors: []
+year: 2001
+venue: Journal of Educational Psychology
+doi: "10.1037/0022-0663.93.2.346"
+tier: highly_cited
+citation_count_approx: 1057
+cross_seed_score: 3
+openalex_id: "W2147763969"
+significance: >
+  Published in Journal of Educational Psychology; addresses process (computing),
+  psychology, mathematics education. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

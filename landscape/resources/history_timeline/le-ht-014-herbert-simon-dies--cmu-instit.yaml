@@ -1,0 +1,13 @@
+resource_id: LE-HT-014
+content_type: HT
+source: curated
+year: 2001
+era: expansion
+event: "Herbert Simon dies; CMU institutionalizes his legacy through the Simon Initiative"
+significance: >
+  Simon's death prompted CMU to formally organize the Simon Initiative, creating
+  an ecosystem around learning engineering that includes LearnLab, OLI,
+  DataShop, and the METALS master's program.
+actors:
+  - "Herbert A. Simon"
+primary_topic: T00

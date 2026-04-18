@@ -1,0 +1,19 @@
+resource_id: LE-GL-017
+content_type: GL
+source: curated
+status: APPROVED
+title: "MIL-STD-1472H: Human Engineering Design Criteria for Military Systems"
+authors:
+  - "U.S. Department of Defense"
+year: 2020
+publisher: "U.S. Department of Defense"
+url: "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36903"
+type: standard
+primary_topic: T02
+secondary_topics:
+  - T10
+significance: >
+  DoD standard specifying human engineering design criteria for military systems, equipment, and
+  facilities. The authoritative source for human factors requirements in defense training systems.
+  Directly applicable to LE practitioners designing or procuring training systems in military
+  and government contexts.

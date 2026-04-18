@@ -1,0 +1,24 @@
+resource_id: LE-AP-071
+content_type: AP
+source: curated
+title: "Reading Comprehension and Discourse"
+authors:
+  - Danielle S. McNamara
+  - Joe Magliano
+year: 2009
+venue: Psychology of Learning and Motivation
+volume: "51"
+pages: "297–384"
+doi: "10.1016/S0079-7421(09)51009-2"
+tier: highly_cited
+citation_count_approx: 890
+significance: >
+  Comprehensive review of cognitive processes underlying text comprehension, covering
+  inference generation, situation model construction, coherence building, and individual
+  differences. Provided the cognitive science foundation for ITS-based reading
+  interventions and NLP-based automated assessment of reading comprehension. Directly
+  relevant to LE systems targeting literacy outcomes.
+primary_topic: T01
+secondary_topics:
+  - T07
+  - T04

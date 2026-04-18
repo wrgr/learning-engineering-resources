@@ -1,0 +1,19 @@
+resource_id: LE-AP-279
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Modeling First: Applying Learning Science to the Teaching of Introductory Statistics"
+authors: []
+year: 2020
+venue: Journal of Statistics and Data Science Education
+doi: "10.1080/10691898.2020.1844106"
+tier: contemporary
+citation_count_approx: 23
+cross_seed_score: 3
+openalex_id: "W3096535713"
+significance: >
+  Published in Journal of Statistics and Data Science Education; addresses
+  computer science, randomness, variation (astronomy). Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

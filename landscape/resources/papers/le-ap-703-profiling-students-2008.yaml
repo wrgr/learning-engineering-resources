@@ -1,0 +1,21 @@
+resource_id: LE-AP-703
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Profiling Students Who Take Online Courses Using Data Mining Methods."
+authors: []
+year: 2008
+venue: Online journal of distance learning administration
+tier: contemporary
+citation_count_approx: 18
+cross_seed_score: 2
+openalex_id: "W69358297"
+significance: >
+  Published in Online journal of distance learning administration; addresses
+  profiling (computer programming), demographics, computer science. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T09
+secondary_topics:
+  - T11
+  - T01

@@ -1,0 +1,19 @@
+resource_id: LE-AP-534
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Social Reasoning in IJO Children and Adolescents in Nigerian Communities"
+authors: []
+year: 1986
+venue: Journal of Cross-Cultural Psychology
+doi: "10.1177/0022002186017003007"
+tier: contemporary
+citation_count_approx: 152
+cross_seed_score: 2
+openalex_id: "W2129398602"
+significance: >
+  Published in Journal of Cross-Cultural Psychology; addresses niger delta,
+  jurisdiction, convention. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

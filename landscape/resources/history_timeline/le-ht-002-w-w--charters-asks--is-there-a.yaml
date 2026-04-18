@@ -1,0 +1,13 @@
+resource_id: LE-HT-002
+content_type: HT
+source: curated
+year: 1945
+era: pre-field
+event: "W.W. Charters asks 'Is There a Field of Educational Engineering?' at Ohio State University"
+significance: >
+  First substantive academic debate over whether curriculum design and
+  instruction could constitute a formal engineering discipline. Established the
+  core question the field would spend decades answering.
+actors:
+  - "W.W. Charters"
+primary_topic: T00

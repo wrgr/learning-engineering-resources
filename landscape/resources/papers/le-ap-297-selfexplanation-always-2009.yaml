@@ -1,0 +1,18 @@
+resource_id: LE-AP-297
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Is Self-Explanation Always Better? The Effects of Adding Self-Explanation Prompts to an English Grammar Tutor"
+authors: []
+year: 2009
+venue: Proceedings of the Annual Meeting of the Cognitive Science Society
+tier: contemporary
+citation_count_approx: 19
+cross_seed_score: 2
+openalex_id: "W14377909"
+significance: >
+  Published in Proceedings of the Annual Meeting of the Cognitive Science
+  Society; addresses tutor, grammar, language acquisition. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T06

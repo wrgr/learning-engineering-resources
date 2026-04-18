@@ -1,0 +1,19 @@
+resource_id: LE-AP-640
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Culture Wars: The Struggle to Define America"
+authors: []
+year: 1992
+venue: Sociological Analysis
+doi: "10.2307/3711713"
+tier: highly_cited
+citation_count_approx: 1069
+cross_seed_score: 2
+openalex_id: "W2770229457"
+significance: >
+  Published in Sociological Analysis; addresses sociology, media studies,
+  classics. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

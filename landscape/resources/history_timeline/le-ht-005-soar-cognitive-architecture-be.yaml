@@ -1,0 +1,19 @@
+resource_id: LE-HT-005
+content_type: HT
+source: curated
+year: 1982
+era: founding
+event: "SOAR cognitive architecture becomes operational (Newell, Laird, Rosenbloom at CMU)"
+significance: >
+  SOAR modeled human problem-solving and learning through 'chunking' — a key
+  mechanism for understanding how procedural knowledge is acquired. Foundational
+  for cognitive modeling in intelligent tutoring systems.
+actors:
+  - "Allen Newell"
+  - "John Laird"
+  - "Paul Rosenbloom"
+references:
+  - "Laird, J. E., Newell, A., & Rosenbloom, P. S. (1987). Soar: An architecture for general intelligence. Artificial Intelligence, 33(1), 1–64."
+primary_topic: T01
+secondary_topics:
+  - T06

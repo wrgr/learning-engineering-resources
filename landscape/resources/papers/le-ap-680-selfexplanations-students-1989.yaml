@@ -1,0 +1,19 @@
+resource_id: LE-AP-680
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Self‐Explanations: How Students Study and Use Examples in Learning to Solve Problems"
+authors: []
+year: 1989
+venue: Cognitive Science
+doi: "10.1207/s15516709cog1302_1"
+tier: highly_cited
+citation_count_approx: 1663
+cross_seed_score: 2
+openalex_id: "W4239816899"
+significance: >
+  Published in Cognitive Science; addresses computer science, action (physics),
+  think aloud protocol. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

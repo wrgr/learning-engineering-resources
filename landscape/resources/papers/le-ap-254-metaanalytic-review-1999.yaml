@@ -1,0 +1,19 @@
+resource_id: LE-AP-254
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "A meta-analytic review of the distribution of practice effect: Now you see it, now you don't."
+authors: []
+year: 1999
+venue: Journal of Applied Psychology
+doi: "10.1037/0021-9010.84.5.795"
+tier: contemporary
+citation_count_approx: 671
+cross_seed_score: 3
+openalex_id: "W2130000957"
+significance: >
+  Published in Journal of Applied Psychology; addresses psychology, applied
+  psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

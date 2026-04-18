@@ -1,0 +1,21 @@
+resource_id: LE-AP-547
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Just the Facts? Introductory Undergraduate Biology Courses Focus on Low-Level Cognitive Skills"
+authors: []
+year: 2010
+venue: CBE—Life Sciences Education
+doi: "10.1187/cbe.10-01-0001"
+tier: contemporary
+citation_count_approx: 277
+cross_seed_score: 2
+openalex_id: "W2134894556"
+significance: >
+  Published in CBE—Life Sciences Education; addresses memorization, cognition,
+  syllabus. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T14
+secondary_topics:
+  - T01

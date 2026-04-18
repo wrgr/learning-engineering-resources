@@ -1,0 +1,23 @@
+resource_id: LE-AP-103
+content_type: AP
+source: curated
+title: "Optimizing learning from examples using animated pedagogical agents"
+authors:
+  - Robert K. Atkinson
+year: 2002
+venue: Journal of Educational Psychology
+volume: "94"
+issue: "2"
+pages: "416-427"
+doi: "10.1037/0022-0663.94.2.416"
+tier: highly_cited
+citation_count_approx: 680
+significance: >
+  Demonstrated that animated pedagogical agents providing worked-example explanations
+  improved geometry problem-solving learning compared to text-only examples. Established
+  conditions under which embodied agents add value to worked-example instruction,
+  informing LE system design for agent-based tutoring and multimedia learning.
+primary_topic: T06
+secondary_topics:
+  - T12
+  - T04

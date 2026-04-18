@@ -1,0 +1,20 @@
+resource_id: LE-AP-019
+content_type: AP
+source: curated
+title: "Instructional-Design Theories and Models, Volume III: Building a Common Knowledge Base"
+authors:
+  - Charles M. Reigeluth
+  - Alison A. Carr-Chellman
+year: 2009
+venue: Routledge
+tier: highly_cited
+citation_count_approx: 1200
+significance: >
+  Synthesized systems thinking approaches to instructional design, arguing that the field
+  must move from prescriptive models to adaptive, learner-centered systems. Directly informed
+  the shift in learning engineering toward data-driven, iterative design processes over
+  fixed instructional models.
+primary_topic: T02
+secondary_topics:
+  - T03
+  - T12

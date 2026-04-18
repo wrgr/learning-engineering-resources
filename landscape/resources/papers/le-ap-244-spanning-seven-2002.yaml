@@ -1,0 +1,19 @@
+resource_id: LE-AP-244
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Spanning seven orders of magnitude: a challenge for cognitive modeling"
+authors: []
+year: 2002
+venue: Cognitive Science
+doi: "10.1207/s15516709cog2601_3"
+tier: contemporary
+citation_count_approx: 176
+cross_seed_score: 3
+openalex_id: "W2108606031"
+significance: >
+  Published in Cognitive Science; addresses bridging (networking), cognition,
+  cognitive psychology. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

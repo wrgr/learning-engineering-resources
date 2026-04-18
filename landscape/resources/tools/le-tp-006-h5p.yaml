@@ -1,0 +1,19 @@
+resource_id: LE-TP-006
+content_type: TP
+source: curated
+status: APPROVED
+name: "H5P — HTML5 Interactive Content"
+type: platform
+affiliation_or_venue: "Joubel / H5P Group"
+url: "https://h5p.org"
+primary_topic: T06
+secondary_topics:
+  - T12
+  - T11
+description: >
+  Open-source framework for creating interactive learning content (quizzes,
+  interactive video, branching scenarios, simulations) that runs in any browser
+  and LMS. Widely used in LE for rapid prototyping of formative assessment and
+  interactive instruction. Integration with Moodle, Canvas, Brightspace, and
+  WordPress makes it accessible to practitioners at all technical levels.
+notes: ""

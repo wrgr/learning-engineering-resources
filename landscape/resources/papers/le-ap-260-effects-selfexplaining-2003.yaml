@@ -1,0 +1,18 @@
+resource_id: LE-AP-260
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The effects of self‐explaining when learning with text or diagrams"
+authors: []
+year: 2003
+venue: Cognitive Science
+doi: "10.1207/s15516709cog2704_5"
+tier: contemporary
+citation_count_approx: 373
+cross_seed_score: 3
+openalex_id: "W2143963523"
+significance: >
+  Published in Cognitive Science; addresses diagram, metacognition, cognition.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

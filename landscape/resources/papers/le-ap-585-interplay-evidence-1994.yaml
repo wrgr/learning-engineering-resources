@@ -1,0 +1,19 @@
+resource_id: LE-AP-585
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Interplay of Evidence and Consequences in the Validation of Performance Assessments"
+authors: []
+year: 1994
+venue: Educational Researcher
+doi: "10.3102/0013189x023002013"
+tier: highly_cited
+citation_count_approx: 1303
+cross_seed_score: 2
+openalex_id: "W2156832302"
+significance: >
+  Published in Educational Researcher; addresses construct (python library),
+  construct validity, psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

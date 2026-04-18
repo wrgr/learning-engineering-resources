@@ -1,0 +1,22 @@
+resource_id: LE-AP-213
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Scaffolding Complex Learning: The Mechanisms of Structuring and Problematizing Student Work"
+authors: []
+year: 2004
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1303_2"
+tier: highly_cited
+citation_count_approx: 995
+cross_seed_score: 3
+openalex_id: "W1999626445"
+significance: >
+  Published in Journal of the Learning Sciences; addresses structuring, work
+  (physics), scaffold. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T01

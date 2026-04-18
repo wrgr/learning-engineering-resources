@@ -1,0 +1,28 @@
+resource_id: LE-PP-099
+content_type: PP
+source: curated
+status: APPROVED
+name: Albert T. Corbett
+affiliation: "Carnegie Mellon University, HCII"
+years: "active 1980s–present"
+era: expansion
+role: Co-developer of Bayesian Knowledge Tracing; ITS architecture pioneer
+description: >
+  Co-developer of Bayesian Knowledge Tracing (BKT), the dominant probabilistic student
+  model in ITS. Co-designed the ACT Programming Tutor and Algebra Cognitive Tutor with
+  Anderson and Koedinger. Known for systematic empirical work on learning curves, error
+  analysis, and mastery criteria in cognitive tutors.
+key_contributions:
+  - Co-developed Bayesian Knowledge Tracing (BKT), the dominant probabilistic student model in ITS
+  - Co-designed the ACT Programming Tutor and Algebra Cognitive Tutor with Anderson and Koedinger
+  - Systematic empirical work on learning curves, error analysis, and mastery criteria in cognitive tutors
+  - Established methods for validating ITS student models against controlled study outcomes
+key_works:
+  - "Intelligent tutoring systems (with Koedinger & Anderson, HCI Handbook, 1997)"
+  - "Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge (User Modeling and User-Adapted Interaction, 1994)"
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T01
+url: https://www.hcii.cmu.edu/people/albert-corbett
+notes: BKT originator. Core ITS student modelling figure.

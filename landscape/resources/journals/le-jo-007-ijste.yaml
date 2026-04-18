@@ -1,0 +1,25 @@
+resource_id: LE-JO-007
+content_type: JO
+source: curated
+status: APPROVED
+name: "International Journal of STEM Education"
+type: journal
+affiliation_or_venue: "Springer Open"
+url: "https://stemeducationjournal.springeropen.com/"
+primary_topic: T13
+secondary_topics:
+  - T01
+  - T15
+description: >
+  Discipline-based education research (DBER) covering problem-based learning,
+  flipped classrooms, educational robotics, and STEM learning outcomes at
+  scale. Published by Springer Open. Bridges disciplinary content expertise
+  with empirical learning research, providing evidence for domain-specific
+  instructional strategies in science, technology, engineering, and mathematics.
+
+  Critical venue for LE researchers designing domain-specific systems in
+  STEM contexts. IJSTE papers provide the empirical base for content-specific
+  design decisions — what works in undergraduate physics is not always what
+  works in K-12 coding education — and offer validated instruments and
+  outcome measures that LE practitioners can adapt.
+notes: "Springer Open; covers discipline-based education research (DBER). Key for domain-specific LE design in STEM."

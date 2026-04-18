@@ -1,0 +1,19 @@
+resource_id: LE-AP-469
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives"
+authors: []
+year: 1999
+venue: Structural Equation Modeling A Multidisciplinary Journal
+doi: "10.1080/10705519909540118"
+tier: foundational
+citation_count_approx: 103210
+cross_seed_score: 2
+openalex_id: "W2071666535"
+significance: >
+  Published in Structural Equation Modeling A Multidisciplinary Journal;
+  addresses cutoff, statistics, mathematics. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

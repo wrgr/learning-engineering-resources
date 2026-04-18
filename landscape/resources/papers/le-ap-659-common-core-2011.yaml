@@ -1,0 +1,18 @@
+resource_id: LE-AP-659
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Common Core State Standards"
+authors: []
+year: 2011
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 866
+cross_seed_score: 2
+openalex_id: "W3142911642"
+significance: >
+  Published in Unknown Venue; addresses core (optical fiber), state (computer
+  science), computer science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

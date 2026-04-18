@@ -1,0 +1,18 @@
+resource_id: LE-AP-228
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Human Problem Solving"
+authors: []
+year: 1972
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 4926
+cross_seed_score: 3
+openalex_id: "W2060642394"
+significance: >
+  Published in Unknown Venue; addresses human body, epistemology, computer
+  science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

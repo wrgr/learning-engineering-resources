@@ -1,0 +1,19 @@
+resource_id: LE-AP-580
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Principles of Artificial Intelligence"
+authors: []
+year: 1982
+venue: Unknown Venue
+doi: "10.1007/978-3-662-09438-9"
+tier: highly_cited
+citation_count_approx: 3351
+cross_seed_score: 2
+openalex_id: "W2152475379"
+significance: >
+  Published in Unknown Venue; addresses computer science, artificial
+  intelligence. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

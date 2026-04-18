@@ -1,0 +1,25 @@
+resource_id: LE-AP-093
+content_type: AP
+source: curated
+title: "A new paradigm for intelligent tutoring systems: Example-tracing tutors"
+authors:
+  - Vincent Aleven
+  - Bruce M. McLaren
+  - Jonathan Sewall
+  - Kenneth R. Koedinger
+year: 2009
+venue: International Journal of Artificial Intelligence in Education
+volume: "19"
+issue: "2"
+pages: "105-154"
+tier: highly_cited
+citation_count_approx: 580
+significance: >
+  Introduced the example-tracing tutoring paradigm and the Cognitive Tutor Authoring Tools
+  (CTAT), allowing non-programmers to build functional ITSs by demonstrating worked example
+  solutions rather than coding production rules. Democratized ITS development and directly
+  enabled broader LE system deployment by reducing authoring barriers.
+primary_topic: T06
+secondary_topics:
+  - T12
+  - T07

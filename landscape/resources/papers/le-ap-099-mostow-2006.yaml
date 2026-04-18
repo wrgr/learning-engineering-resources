@@ -1,0 +1,24 @@
+resource_id: LE-AP-099
+content_type: AP
+source: curated
+title: "Some useful tactics to modify, map and mine data from intelligent tutors"
+authors:
+  - Jack Mostow
+  - Joseph Beck
+year: 2006
+venue: Natural Language Engineering
+volume: "12"
+issue: "2"
+pages: "195-208"
+doi: "10.1017/S1351324906004153"
+tier: contemporary
+citation_count_approx: 190
+significance: >
+  Described data mining methods applied to the fine-grained interaction logs of Project
+  LISTEN, extracting patterns of reading assistance, student error types, and tutor
+  response effectiveness. One of the early demonstrations of EDM applied to
+  spoken-language ITS data, influencing LE analytics methodology for non-text modalities.
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T07

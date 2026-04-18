@@ -1,0 +1,23 @@
+resource_id: LE-CO-004
+content_type: CO
+source: curated
+status: APPROVED
+name: "Penn Center for Learning Analytics"
+type: research_center
+affiliation_or_venue: "University of Pennsylvania"
+url: "https://learninganalytics.upenn.edu"
+primary_topic: T09
+secondary_topics:
+  - T17
+  - T06
+description: >
+  Research center at the University of Pennsylvania directing educational data
+  mining and learning engineering policy work, led by Ryan Baker. Produced the
+  influential 'High-Leverage Opportunities for Learning Engineering' report (2021),
+  which mapped priority areas for the field.
+
+  Baker serves as editor of the Journal of Educational Data Mining and is a primary
+  organizer of the EDM conference. The center bridges computational EDM methods
+  with applied learning engineering, making it a key node in the national LE
+  policy conversation.
+notes: "Ryan Baker, PI; produced 'High-Leverage Opportunities for Learning Engineering' (2021)."

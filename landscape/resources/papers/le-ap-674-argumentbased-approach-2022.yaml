@@ -1,0 +1,19 @@
+resource_id: LE-AP-674
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Argument-Based Approach to Validity"
+authors: []
+year: 2022
+venue: The SAGE Encyclopedia of Research Design
+doi: "10.4135/9781071812082.n28"
+tier: contemporary
+citation_count_approx: 557
+cross_seed_score: 2
+openalex_id: "W4213193087"
+significance: >
+  Published in The SAGE Encyclopedia of Research Design; addresses argument
+  (complex analysis), epistemology, psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

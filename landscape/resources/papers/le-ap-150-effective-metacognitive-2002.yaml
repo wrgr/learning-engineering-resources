@@ -1,0 +1,20 @@
+resource_id: LE-AP-150
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "An effective metacognitive strategy: learning by doing and explaining with a computer-based Cognitive Tutor"
+authors: []
+year: 2002
+venue: Cognitive Science
+doi: "10.1016/s0364-0213(02)00061-7"
+tier: contemporary
+citation_count_approx: 728
+cross_seed_score: 8
+openalex_id: "W2104882621"
+significance: >
+  Published in Cognitive Science; addresses tutor, metacognition, cognition.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T01

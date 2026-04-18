@@ -1,0 +1,19 @@
+resource_id: LE-AP-656
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The role of mixed methods in conducting design-based research"
+authors: []
+year: 2020
+venue: Educational Psychologist
+doi: "10.1080/00461520.2020.1794871"
+tier: contemporary
+citation_count_approx: 37
+cross_seed_score: 2
+openalex_id: "W3049236931"
+significance: >
+  Published in Educational Psychologist; addresses reflexivity, sociocultural
+  evolution, trace (psycholinguistics). Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

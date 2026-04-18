@@ -1,0 +1,19 @@
+resource_id: LE-AP-293
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Routledge International Handbook of Participatory Design"
+authors: []
+year: 2012
+venue: Unknown Venue
+doi: "10.4324/9780203108543"
+tier: highly_cited
+citation_count_approx: 1537
+cross_seed_score: 2
+openalex_id: "W1274426204"
+significance: >
+  Published in Unknown Venue; addresses participatory design, citizen
+  journalism, sociology. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

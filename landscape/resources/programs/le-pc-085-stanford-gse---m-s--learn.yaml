@@ -1,0 +1,15 @@
+resource_id: LE-PC-085
+content_type: PC
+source: registry_migration
+status: APPROVED
+name: "Stanford GSE — M.S. Learning Design and Technology (LDT)"
+url: "https://gse-ldt.stanford.edu/"
+primary_topic: T03
+secondary_topics:
+  - T06
+  - T01
+description: >
+  Residential master’s focused on designing and evaluating technology-enhanced
+  learning environments using learning sciences, design methods, and empirical
+  study—one of the clearest Stanford pathways aligned with learning engineering
+  practice (even when the degree title says LDT, not LE).

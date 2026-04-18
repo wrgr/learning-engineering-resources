@@ -1,0 +1,18 @@
+resource_id: LE-AP-629
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Worked Examples and Tutored Problem Solving:Redundant or Synergistic Forms of Support?"
+authors: []
+year: 2018
+venue: Figshare
+doi: "10.1184/r1/6470690"
+tier: contemporary
+citation_count_approx: 12
+cross_seed_score: 2
+openalex_id: "W2587446836"
+significance: >
+  Published in Figshare; addresses cognition, cognitive science, psychology.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

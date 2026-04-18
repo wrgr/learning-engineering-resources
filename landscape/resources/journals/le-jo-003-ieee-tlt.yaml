@@ -1,0 +1,24 @@
+resource_id: LE-JO-003
+content_type: JO
+source: curated
+status: APPROVED
+name: "IEEE Transactions on Learning Technologies"
+type: journal
+affiliation_or_venue: "IEEE Computer Society"
+url: "https://www.computer.org/csdl/journal/lt"
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T11
+description: >
+  Covers technical design and architecture of learning systems: adaptive
+  algorithms, NLP conversational agents, multimodal telemetry (eye tracking,
+  EEG, galvanic skin response), and large-scale platform engineering. Requires
+  substantive technical innovation in computer science alongside pedagogical
+  validity — not purely educational research and not purely CS research.
+
+  Key venue for AI-in-education engineering papers. IEEE TLT is where learning
+  engineering practitioners find the most rigorous technical treatments of
+  system architecture, with enough pedagogical grounding to distinguish
+  educational effectiveness from mere technological novelty.
+notes: "Requires both technical CS innovation and pedagogical validity; sister publication to IJAIED."

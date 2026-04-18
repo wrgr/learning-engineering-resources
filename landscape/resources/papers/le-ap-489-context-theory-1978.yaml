@@ -1,0 +1,19 @@
+resource_id: LE-AP-489
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Context theory of classification learning."
+authors: []
+year: 1978
+venue: Psychological Review
+doi: "10.1037/0033-295x.85.3.207"
+tier: highly_cited
+citation_count_approx: 2985
+cross_seed_score: 2
+openalex_id: "W2086618114"
+significance: >
+  Published in Psychological Review; addresses context (archaeology),
+  psychology, artificial intelligence. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

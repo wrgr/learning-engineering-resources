@@ -1,0 +1,18 @@
+resource_id: LE-AP-351
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Integrating Rules and Connectionism for Robust Commonsense Reasoning"
+authors: []
+year: 1994
+venue: Medical Entomology and Zoology
+tier: contemporary
+citation_count_approx: 154
+cross_seed_score: 2
+openalex_id: "W1758863888"
+significance: >
+  Published in Medical Entomology and Zoology; addresses commonsense reasoning,
+  connectionism, causality (physics). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

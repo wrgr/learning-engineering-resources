@@ -1,0 +1,25 @@
+resource_id: LE-PP-063
+content_type: PP
+source: curated
+status: APPROVED
+name: "Li (Lee) Liang"
+affiliation: "IEEE ICICLE — Students and Grads SIG"
+years: "active 2010s–present"
+era: contemporary
+role: Emerging LE professional; ICICLE Students and Grads SIG co-chair
+description: >
+  Co-chair of the Students and Grads SIG within IEEE ICICLE, supporting emerging learning
+  engineering professionals through mentorship, community events, and career development
+  resources.
+key_contributions:
+  - Co-chairs the Students and Grads SIG (ICICLE), supporting emerging LE professionals across academic and industry pathways
+  - Contributes to building the professional infrastructure that helps students transition into learning engineering careers
+  - Develops SIG programming and networking opportunities within the ICICLE community
+key_works:
+  - "IEEE ICICLE Students and Grads SIG community resources and programming"
+  - "LE-AP-798 — Validity Issues and Ethics Concerns of AI-Assisted Assessment (2024)"
+primary_topic: T16
+secondary_topics:
+  - T00
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Students and Grads SIG.

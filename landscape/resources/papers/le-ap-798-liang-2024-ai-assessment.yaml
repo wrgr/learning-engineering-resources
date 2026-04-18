@@ -1,0 +1,19 @@
+resource_id: LE-AP-798
+content_type: AP
+source: curated
+title: "Validity Issues and Ethics Concerns of AI-Assisted Assessment"
+authors:
+  - Li (Lee) Liang
+year: 2024
+venue: "Introduction to AI and Ethics in Higher Education (book chapter)"
+tier: contemporary
+citation_count_approx: 3
+significance: >
+  Examines validity and ethical issues arising from AI-assisted assessment
+  systems, covering fairness, bias, transparency, and accountability. Relevant
+  to LE practitioners deploying automated scoring and adaptive assessment, where
+  ethical deployment standards and validity evidence requirements intersect.
+primary_topic: T05
+secondary_topics:
+  - T09
+  - T11

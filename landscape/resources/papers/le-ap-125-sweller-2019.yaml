@@ -1,0 +1,26 @@
+resource_id: LE-AP-125
+content_type: AP
+source: curated
+title: "Cognitive Architecture and Instructional Design: 20 Years Later"
+authors:
+  - John Sweller
+  - Jeroen J. G. van Merriënboer
+  - Fred Paas
+year: 2019
+venue: Educational Psychology Review
+volume: "31"
+issue: "2"
+pages: "261-292"
+doi: "10.1007/s10648-019-09465-5"
+tier: contemporary
+citation_count_approx: 740
+significance: >
+  Updated Cognitive Load Theory with advances in evolutionary psychology and
+  long-term memory theory, refining predictions about instructional design for
+  complex tasks. Directly relevant to LE system design for adaptive difficulty,
+  element interactivity management, and the expertise reversal effect in
+  intelligent tutoring.
+primary_topic: T04
+secondary_topics:
+  - T12
+  - T06

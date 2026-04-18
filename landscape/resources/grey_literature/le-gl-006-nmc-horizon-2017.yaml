@@ -1,0 +1,25 @@
+resource_id: LE-GL-006
+content_type: GL
+source: curated
+status: APPROVED
+title: "NMC Horizon Report: 2017 Higher Education Edition"
+authors:
+  - "Samantha Adams Becker"
+  - "Malcolm Cummins"
+  - "Annie Davis"
+  - "Alex Freeman"
+  - "Caroline Hall Giesinger"
+  - "Venkatesh Ananthanarayanan"
+year: 2017
+publisher: "The New Media Consortium / EDUCAUSE"
+url: "https://library.educause.edu/resources/2017/2/2017-horizon-report"
+type: report
+primary_topic: T00
+secondary_topics:
+  - T06
+  - T11
+significance: >
+  Identified adaptive learning technologies and data-driven personalization as short-term adoption
+  trends in higher education. Forecast the long-term restructuring of degrees around competency
+  measurement. Part of the annual Horizon series that documented LE's gradual integration into
+  mainstream institutional practice.

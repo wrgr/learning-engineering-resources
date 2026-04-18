@@ -1,0 +1,19 @@
+resource_id: LE-AP-627
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Educational Technology"
+authors: []
+year: 1995
+venue: Journal of Research on Computing in Education
+doi: "10.1080/08886504.1995.10782139"
+tier: highly_cited
+citation_count_approx: 1272
+cross_seed_score: 2
+openalex_id: "W2564114053"
+significance: >
+  Published in Journal of Research on Computing in Education; addresses computer
+  science, mathematics education, psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,20 @@
+resource_id: LE-AP-077
+content_type: AP
+source: curated
+title: "The Roles of Stories in Collaborative Learning"
+authors:
+  - Janet L. Kolodner
+year: 2007
+venue: "Proceedings of the 2007 Workshop on Narrative Learning Environments"
+tier: contemporary
+citation_count_approx: 120
+significance: >
+  Examined how shared case stories function as collaborative learning artifacts —
+  providing common referents for discussion, enabling analogical transfer, and
+  scaffolding group sense-making. Directly relevant to LE design of collaborative
+  platforms that use narrative or case-based contexts to anchor group learning
+  activities and stimulate productive discourse.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T03

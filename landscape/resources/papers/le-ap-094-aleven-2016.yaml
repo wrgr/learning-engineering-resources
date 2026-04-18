@@ -1,0 +1,23 @@
+resource_id: LE-AP-094
+content_type: AP
+source: curated
+title: "Instruction Based on Adaptive Learning Technologies"
+authors:
+  - Vincent Aleven
+  - Elizabeth A. McLaughlin
+  - Rhys A. Glenn
+  - Kenneth R. Koedinger
+year: 2016
+venue: Handbook of Research on Learning and Instruction
+pages: "522-560"
+tier: contemporary
+citation_count_approx: 310
+significance: >
+  Comprehensive handbook chapter synthesizing research on adaptive learning technologies,
+  covering knowledge component models, student models, pedagogical decision-making, and
+  evaluation methodology. The most authoritative recent synthesis of ITS design principles
+  for LE practitioners and researchers.
+primary_topic: T06
+secondary_topics:
+  - T12
+  - T10

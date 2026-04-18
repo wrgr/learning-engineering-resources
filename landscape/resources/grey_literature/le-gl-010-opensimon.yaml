@@ -1,0 +1,19 @@
+resource_id: LE-GL-010
+content_type: GL
+source: curated
+status: APPROVED
+title: "OpenSimon Toolkit"
+authors:
+  - "Carnegie Mellon University, The Simon Initiative"
+year: 2015
+publisher: "Carnegie Mellon University"
+url: "https://www.cmu.edu/simon/open-simon/"
+type: toolkit
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T11
+significance: >
+  Flagship open infrastructure for LE research globally. Comprises DataShop, LearnSphere, CTAT,
+  OLI, DiscourseDB, LightSide, Bazaar, Mathtutor, ChemCollective, and Echo. Enables researchers
+  worldwide to build, test, and study LE systems without proprietary infrastructure.

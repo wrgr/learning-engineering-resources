@@ -1,0 +1,32 @@
+resource_id: LE-PP-083
+content_type: PP
+source: curated
+status: APPROVED
+name: Scotty D. Craig
+affiliation: Arizona State University
+years: "active 2000s–present"
+era: contemporary
+role: Human factors researcher; virtual humans and pedagogical agents specialist
+description: >
+  Professor and leader in ASU Learning Engineering Institute initiatives. Systematically
+  investigates design principles for virtual humans and pedagogical agents in learning
+  environments. Demonstrated that vocal quality, aesthetic design, and agent persona
+  significantly affect learner cognitive load and outcomes. Co-authored the Learning
+  Engineering Adoption Maturity Model. Bridges human factors engineering with
+  instructional technology research.
+key_contributions:
+  - Systematically investigated design principles for virtual humans and pedagogical agents in learning environments
+  - Demonstrated that vocal quality, aesthetic design, and agent persona significantly affect learner cognitive load and outcomes
+  - Co-authored the Learning Engineering Adoption Maturity Model with ICICLE colleagues
+  - Bridges human factors engineering with instructional technology research at ASU
+  - Active contributor to LE practitioner community through ICICLE and graduate training
+key_works:
+  - "Design principles for virtual humans in educational technology environments (with Schroeder, 2018)"
+  - "The voice quality of pedagogical agent impacts learning and agent perceptions (with Siegle, JCAL, 2024)"
+  - "Generalizable Learning Engineering Adoption Maturity Model (with Blake-Plock et al., 2024/2025)"
+primary_topic: T08
+secondary_topics:
+  - T02
+  - T06
+url: https://scottycraig.com
+notes: ASU LEI. Pedagogical agents / virtual humans. LEAMM co-author.

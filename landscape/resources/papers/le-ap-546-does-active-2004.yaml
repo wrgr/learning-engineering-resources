@@ -1,0 +1,21 @@
+resource_id: LE-AP-546
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Does Active Learning Work? A Review of the Research"
+authors: []
+year: 2004
+venue: Journal of Engineering Education
+doi: "10.1002/j.2168-9830.2004.tb00809.x"
+tier: foundational
+citation_count_approx: 6847
+cross_seed_score: 2
+openalex_id: "W2134512579"
+significance: >
+  Published in Journal of Engineering Education; addresses active learning
+  (machine learning), core (optical fiber), work (physics). Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T14
+secondary_topics:
+  - T01

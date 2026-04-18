@@ -1,0 +1,22 @@
+resource_id: LE-AP-579
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Mining the student assessment data: Lessons drawn from a small scale case study"
+authors: []
+year: 2008
+venue: TU/e Research Portal
+doi: "10.1007/bf00395341"
+tier: contemporary
+citation_count_approx: 51
+cross_seed_score: 2
+openalex_id: "W2151041132"
+significance: >
+  Published in TU/e Research Portal; addresses computer science, cluster
+  analysis, data science. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T09
+secondary_topics:
+  - T11
+  - T01

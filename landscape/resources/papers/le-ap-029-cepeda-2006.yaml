@@ -1,0 +1,29 @@
+resource_id: LE-AP-029
+content_type: AP
+source: curated
+title: "Distributed practice in verbal recall tasks: A review and quantitative synthesis"
+authors:
+  - Nicholas J. Cepeda
+  - Harold Pashler
+  - Edward Vul
+  - John T. Wixted
+  - Doug Rohrer
+year: 2006
+venue: Psychological Bulletin
+volume: "132"
+issue: "3"
+pages: "354–380"
+doi: "10.1037/0033-2909.132.3.354"
+tier: foundational
+citation_count_approx: 2400
+significance: >
+  Quantitative meta-analysis of 254 studies demonstrating that distributed (spaced)
+  practice produces superior long-term retention compared to massed practice. Established
+  the optimal spacing function for study intervals and provided the empirical foundation
+  for spaced repetition algorithms in LE systems. The most comprehensive quantitative
+  treatment of the spacing effect, informing adaptive scheduling in intelligent tutoring
+  and learning management systems.
+primary_topic: T01
+secondary_topics:
+  - T12
+  - T06

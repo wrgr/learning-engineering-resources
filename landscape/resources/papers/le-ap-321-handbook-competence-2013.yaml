@@ -1,0 +1,18 @@
+resource_id: LE-AP-321
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Handbook of Competence and Motivation"
+authors: []
+year: 2013
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 4686
+cross_seed_score: 2
+openalex_id: "W1529024143"
+significance: >
+  Published in Unknown Venue; addresses psychology, competence (human
+  resources), need for achievement. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

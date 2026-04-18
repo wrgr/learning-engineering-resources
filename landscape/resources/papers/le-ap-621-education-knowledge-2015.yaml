@@ -1,0 +1,19 @@
+resource_id: LE-AP-621
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Education for the Knowledge Age: Design-Centered Models of Teaching and Instruction"
+authors: []
+year: 2015
+venue: Unknown Venue
+doi: "10.4324/9780203874790.ch30"
+tier: contemporary
+citation_count_approx: 132
+cross_seed_score: 2
+openalex_id: "W2499850977"
+significance: >
+  Published in Unknown Venue; addresses mathematics education, computer science,
+  psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

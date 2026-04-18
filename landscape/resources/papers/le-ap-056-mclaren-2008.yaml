@@ -1,0 +1,23 @@
+resource_id: LE-AP-056
+content_type: AP
+source: curated
+title: "Worked Examples and Tutored Problem Solving: Redundant or Synergistic Forms of Support?"
+authors:
+  - Bruce M. McLaren
+  - Sung-Joo Lim
+  - Kenneth R. Koedinger
+year: 2008
+venue: "Proceedings of the 30th Annual Conference of the Cognitive Science Society"
+pages: "1799–1804"
+tier: contemporary
+citation_count_approx: 180
+significance: >
+  Compared the learning effects of worked examples alone, tutored problem solving alone,
+  and their combination in chemistry. Found that interleaving worked examples with
+  tutored practice outperformed either alone — but only at optimal ratios. Informed
+  adaptive system design for blending example study with practice and contributed to
+  the "example-tracing" tutoring model used in Cognitive Tutors.
+primary_topic: T06
+secondary_topics:
+  - T12
+  - T01

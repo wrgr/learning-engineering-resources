@@ -1,0 +1,25 @@
+resource_id: LE-AP-046
+content_type: AP
+source: curated
+title: "Giving Help and Praise in Project LISTEN's Reading Tutor — Which Contributes More to Learning?"
+authors:
+  - Jack Mostow
+  - Gregory Aist
+year: 2001
+venue: Journal of Educational Computing Research
+volume: "25"
+issue: "4"
+pages: "403–426"
+doi: "10.2190/WH3G-FY9B-T3VL-LGRM"
+tier: highly_cited
+citation_count_approx: 480
+significance: >
+  Analyzed the differential impact of tutor help and praise in Project LISTEN's automated
+  reading tutor, using controlled experiments to disentangle intervention effects on oral
+  reading fluency. Demonstrated that targeted help (not just encouragement) drives measurable
+  gains. Methodologically significant for LE evaluation design — particularly for isolating
+  component effects in complex ITS interventions.
+primary_topic: T06
+secondary_topics:
+  - T10
+  - T15

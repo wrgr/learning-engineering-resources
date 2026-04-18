@@ -1,0 +1,20 @@
+resource_id: LE-AP-016
+content_type: AP
+source: curated
+title: "Human Systems Integration in the System Development Process: A New Look"
+authors:
+  - Michael T. O'Brien
+  - Harold R. Booher
+year: 2004
+venue: "National Academies Press"
+tier: highly_cited
+citation_count_approx: 420
+significance: >
+  Established the human systems integration (HSI) framework for engineering sociotechnical
+  systems. Directly applicable to LE as a discipline that must engineer both the
+  technological and human components of learning systems. Grounds LE design in systems
+  engineering methodology.
+primary_topic: T02
+secondary_topics:
+  - T09
+  - T12

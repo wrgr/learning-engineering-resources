@@ -1,0 +1,19 @@
+resource_id: LE-HT-015
+content_type: HT
+source: curated
+year: 2009
+era: expansion
+event: "Baker & Yacef codify Educational Data Mining as a discipline (JEDM)"
+significance: >
+  Distinguished EDM from learning analytics and positioned it as a distinct
+  scientific field with its own methods, journals, and conferences. Over 1,500
+  citations. Catalyzed the formation of the International Educational Data
+  Mining Society and the JEDM journal.
+actors:
+  - "Ryan S. J. d. Baker"
+  - "Kalina Yacef"
+references:
+  - "Baker, R. S. J. d., & Yacef, K. (2009). The State of Educational Data Mining in 2009: A Review and Future Visions. Journal of Educational Data Mining, 1(1), 3–17."
+primary_topic: T04
+secondary_topics:
+  - T17

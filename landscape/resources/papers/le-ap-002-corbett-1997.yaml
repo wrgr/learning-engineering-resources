@@ -1,0 +1,22 @@
+resource_id: LE-AP-002
+content_type: AP
+source: curated
+title: Intelligent tutoring systems
+authors:
+  - Albert T. Corbett
+  - Kenneth R. Koedinger
+  - John R. Anderson
+year: 1997
+venue: Handbook of Human-Computer Interaction
+volume: 2nd ed.
+pages: "849–874"
+tier: foundational
+citation_count_approx: 1200
+significance: >
+  Documented the full architecture of Bayesian Knowledge Tracing and the Cognitive Tutor
+  student model. The chapter that operationalized real-time student modeling and served as
+  the blueprint for adaptive learning software for the next two decades.
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T01

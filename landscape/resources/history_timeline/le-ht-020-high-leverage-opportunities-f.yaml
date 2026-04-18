@@ -1,0 +1,21 @@
+resource_id: LE-HT-020
+content_type: HT
+source: curated
+year: 2021
+era: contemporary
+event: "'High-Leverage Opportunities for Learning Engineering' report published (Baker, Boser, Shelley)"
+significance: >
+  Drew on a 2020 convening of 100+ academics and practitioners to define ten
+  strategic priorities across 'Better LE Infrastructure,' 'Supporting Human
+  Processes,' and 'Better Learning Technologies.' One of the most cited
+  contemporary LE policy documents.
+actors:
+  - "Ryan S. Baker"
+  - "Ulrich Boser"
+  - "Allison Shelley"
+references:
+  - "Baker, R. S., Boser, U., & Shelley, A. (2021). High-Leverage Opportunities for Learning Engineering. Penn Center for Learning Analytics."
+primary_topic: T00
+secondary_topics:
+  - T04
+  - T14

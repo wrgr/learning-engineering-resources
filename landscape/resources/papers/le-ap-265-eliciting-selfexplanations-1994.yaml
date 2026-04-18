@@ -1,0 +1,18 @@
+resource_id: LE-AP-265
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Eliciting self-explanations improves understanding,"
+authors: []
+year: 1994
+venue: Cognitive Science
+doi: "10.1016/0364-0213(94)90016-7"
+tier: highly_cited
+citation_count_approx: 2111
+cross_seed_score: 3
+openalex_id: "W2158241055"
+significance: >
+  Published in Cognitive Science; addresses psychology, cognitive psychology.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

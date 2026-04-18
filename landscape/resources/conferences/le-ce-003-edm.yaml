@@ -1,0 +1,19 @@
+resource_id: LE-CE-003
+content_type: CE
+source: curated
+status: APPROVED
+name: "International Conference on Educational Data Mining (EDM)"
+type: conference
+affiliation_or_venue: "IEDMS"
+frequency: Annual
+url: "https://educationaldatamining.org/conferences/"
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T17
+description: >
+  Algorithmic and computational approaches to educational data: knowledge
+  tracing, early warning systems, automated feature engineering, student behavior
+  modeling. One of three major computational LE conference series (with LAK and
+  AIED).
+notes: ""

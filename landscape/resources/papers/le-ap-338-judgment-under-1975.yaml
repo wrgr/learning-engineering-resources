@@ -1,0 +1,19 @@
+resource_id: LE-AP-338
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Judgment under Uncertainty: Heuristics and Biases"
+authors: []
+year: 1975
+venue: Unknown Venue
+doi: "10.1007/978-94-010-1834-0_8"
+tier: foundational
+citation_count_approx: 23084
+cross_seed_score: 2
+openalex_id: "W158727920"
+significance: >
+  Published in Unknown Venue; addresses representativeness heuristic,
+  heuristics, class (philosophy). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

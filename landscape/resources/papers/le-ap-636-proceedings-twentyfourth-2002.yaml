@@ -1,0 +1,18 @@
+resource_id: LE-AP-636
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Proceedings of the Twenty-Fourth Annual Conference of the Cognitive Science Society"
+authors: []
+year: 2002
+venue: Conference Cognitive Science
+tier: contemporary
+citation_count_approx: 191
+cross_seed_score: 2
+openalex_id: "W2742227015"
+significance: >
+  Published in Conference Cognitive Science; addresses computer science, library
+  science, engineering ethics. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

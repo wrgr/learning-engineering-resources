@@ -1,0 +1,19 @@
+resource_id: LE-AP-506
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The critical role of retrieval practice in long-term retention"
+authors: []
+year: 2010
+venue: Trends in Cognitive Sciences
+doi: "10.1016/j.tics.2010.09.003"
+tier: highly_cited
+citation_count_approx: 1718
+cross_seed_score: 2
+openalex_id: "W2111804672"
+significance: >
+  Published in Trends in Cognitive Sciences; addresses mnemonic, psychology,
+  term (time). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

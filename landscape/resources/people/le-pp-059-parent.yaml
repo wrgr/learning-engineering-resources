@@ -1,0 +1,27 @@
+resource_id: LE-PP-059
+content_type: PP
+source: curated
+status: APPROVED
+name: Amy Parent
+affiliation: "Salience Learning; IEEE ICICLE — Design for Learning SIG"
+years: "active 2010s–present"
+era: contemporary
+role: LE design practitioner; ICICLE Design for Learning SIG co-chair
+description: >
+  Co-chair of the Design for Learning SIG (IEEE ICICLE). Industry practitioner from
+  Salience Learning, bridging corporate L&D and academic HCD frameworks within the
+  learning engineering field.
+key_contributions:
+  - Co-chairs the Design for Learning SIG (ICICLE), advancing human-centered design as a core LE competency
+  - Brings corporate L&D practitioner perspective from Salience Learning to ICICLE's design frameworks
+  - Connects academic HCD methods with real-world instructional design constraints and organizational contexts
+  - Contributes to ICICLE BoK guidance on user research and learner-centered design processes
+key_works:
+  - "ICICLE Body of Knowledge — Design for Learning chapter contributions"
+  - "IEEE ICICLE Design for Learning SIG practitioner resources"
+primary_topic: T03
+secondary_topics:
+  - T02
+  - T16
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Design for Learning SIG. Corporate L&D practitioner.

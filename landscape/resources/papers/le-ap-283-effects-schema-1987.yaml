@@ -1,0 +1,21 @@
+resource_id: LE-AP-283
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Effects of schema acquisition and rule automation on mathematical problem-solving transfer."
+authors: []
+year: 1987
+venue: Journal of Educational Psychology
+doi: "10.1037//0022-0663.79.4.347"
+tier: contemporary
+citation_count_approx: 484
+cross_seed_score: 3
+openalex_id: "W4231434309"
+significance: >
+  Published in Journal of Educational Psychology; addresses schema (genetic
+  algorithms), psychology, transfer of training. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T04
+secondary_topics:
+  - T10

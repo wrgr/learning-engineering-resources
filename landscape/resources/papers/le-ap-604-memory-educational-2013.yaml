@@ -1,0 +1,19 @@
+resource_id: LE-AP-604
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Memory in Educational Settings"
+authors: []
+year: 2013
+venue: Oxford University Press eBooks
+doi: "10.1093/oxfordhb/9780195376746.013.0020"
+tier: contemporary
+citation_count_approx: 8
+cross_seed_score: 2
+openalex_id: "W2170980207"
+significance: >
+  Published in Oxford University Press eBooks; addresses computer science, task
+  (project management), meaning (existential). Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

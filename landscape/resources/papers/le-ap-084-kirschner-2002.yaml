@@ -1,0 +1,21 @@
+resource_id: LE-AP-084
+content_type: AP
+source: curated
+title: "Can We Support CSCL? Educational, Social and Technological Affordances for Learning"
+authors:
+  - Paul A. Kirschner
+year: 2002
+venue: "Three Worlds of CSCL: Can We Support CSCL?"
+tier: highly_cited
+citation_count_approx: 920
+significance: >
+  Examined educational, social, and technological affordances that enable or constrain
+  computer-supported collaborative learning. Introduced the concept of "shared
+  epistemic agency" in CSCL environments and identified design principles for
+  technology that genuinely supports knowledge co-construction rather than
+  incidental co-presence. Foundational for LE design of collaborative digital
+  learning environments.
+primary_topic: T07
+secondary_topics:
+  - T12
+  - T02

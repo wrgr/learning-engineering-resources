@@ -1,0 +1,19 @@
+resource_id: LE-AP-594
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Does discovery-based instruction enhance learning?"
+authors: []
+year: 2010
+venue: Journal of Educational Psychology
+doi: "10.1037/a0021017"
+tier: highly_cited
+citation_count_approx: 1303
+cross_seed_score: 2
+openalex_id: "W2163721389"
+significance: >
+  Published in Journal of Educational Psychology; addresses discovery learning,
+  psychology, false discovery rate. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

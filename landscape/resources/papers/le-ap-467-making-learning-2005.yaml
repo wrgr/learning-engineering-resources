@@ -1,0 +1,22 @@
+resource_id: LE-AP-467
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Making learning fun: Quest Atlantis, a game without guns"
+authors: []
+year: 2005
+venue: Educational Technology Research and Development
+doi: "10.1007/bf02504859"
+tier: highly_cited
+citation_count_approx: 950
+cross_seed_score: 2
+openalex_id: "W2070810369"
+significance: >
+  Published in Educational Technology Research and Development; addresses
+  expansive, educational technology, entertainment. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T02
+secondary_topics:
+  - T16
+  - T01

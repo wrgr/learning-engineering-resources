@@ -1,0 +1,21 @@
+resource_id: LE-AP-481
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Artificial Intelligence in the Classroom: The Impact of a Computer-Based Tutor on Teachers and Students"
+authors: []
+year: 1990
+venue: Social Science Computer Review
+doi: "10.1177/089443939000800104"
+tier: contemporary
+citation_count_approx: 64
+cross_seed_score: 2
+openalex_id: "W2078475126"
+significance: >
+  Published in Social Science Computer Review; addresses tutor, embarrassment,
+  grading (engineering). Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T01

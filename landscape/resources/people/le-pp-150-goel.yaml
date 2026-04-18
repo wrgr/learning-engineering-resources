@@ -1,0 +1,30 @@
+resource_id: LE-PP-150
+content_type: PP
+source: curated
+status: APPROVED
+name: Ashok K. Goel
+affiliation: "Georgia Institute of Technology, School of Interactive Computing"
+years: "1960–present"
+era: contemporary
+role: AI educator; creator of Jill Watson AI teaching assistant
+description: >
+  Created Jill Watson — one of the first AI teaching assistants deployed at scale in a
+  university course, handling 40,000+ student questions with near-human accuracy. Applied
+  case-based reasoning to educational question-answering. Led the AI4K12 initiative
+  developing national guidelines for K-12 AI literacy education.
+key_contributions:
+  - Created Jill Watson — one of the first AI teaching assistants deployed at scale in a university course, handling 40,000+ student questions
+  - Demonstrated that AI TAs can operate at near-human accuracy without students detecting they are AI
+  - Applied case-based reasoning and knowledge graphs to educational question-answering at scale
+  - Led AI4K12 initiative developing national guidelines for K–12 AI literacy education
+  - Showed that AI-augmented instruction frees human TAs for higher-order mentoring
+key_works:
+  - "Jill Watson: A virtual teaching assistant for online education (ICLS, 2016)"
+  - "Thinking critically about virtual teaching assistance for online education (AI Matters, 2016)"
+  - "AI4K12: Developing national guidelines for K-12 artificial intelligence education (AAAI, 2023)"
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T02
+url: https://faculty.cc.gatech.edu/~ashokgoel/
+notes: Jill Watson AI TA. AI4K12. Case-based reasoning in education.

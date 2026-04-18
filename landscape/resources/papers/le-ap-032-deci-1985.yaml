@@ -1,0 +1,22 @@
+resource_id: LE-AP-032
+content_type: AP
+source: curated
+title: "Intrinsic Motivation and Self-Determination in Human Behavior"
+authors:
+  - Edward L. Deci
+  - Richard M. Ryan
+year: 1985
+venue: "Plenum Press"
+tier: foundational
+citation_count_approx: 9000
+significance: >
+  Introduced Self-Determination Theory (SDT), positing that human motivation depends
+  on satisfying three basic psychological needs: autonomy, competence, and relatedness.
+  SDT became the dominant framework for understanding learner motivation in educational
+  contexts, directly informing LE system design for engagement, persistence, and
+  voluntary learning — particularly in gamification, choice architecture, and
+  social learning features. Among the most cited works in psychology.
+primary_topic: T01
+secondary_topics:
+  - T04
+  - T09

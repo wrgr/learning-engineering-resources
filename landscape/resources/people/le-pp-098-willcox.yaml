@@ -1,0 +1,28 @@
+resource_id: LE-PP-098
+content_type: PP
+source: curated
+status: APPROVED
+name: Karen Willcox
+affiliation: "University of Texas at Austin, Oden Institute"
+years: "active 2000s–present"
+era: contemporary
+role: MIT OEPI lead; LE in higher education advocate; computational science-to-education bridge
+description: >
+  Led MIT's Online Education Policy Initiative (OEPI), producing the 2016 catalyst report
+  that re-introduced 'learning engineer' to higher education discourse. Argued that MOOCs
+  and digital scale require a new professional class with learning science and engineering
+  expertise. Connected learning engineering to computational science methodologies from
+  aerospace engineering. Now at UT Austin's Oden Institute for Computational Engineering.
+key_contributions:
+  - Led MIT's Online Education Policy Initiative (OEPI), producing the 2016 catalyst report that re-introduced 'learning engineer' to higher education discourse
+  - Argued that MOOCs and digital scale require a new professional class with learning science + engineering expertise
+  - Connected learning engineering to computational science methodologies from aerospace engineering
+  - Helped establish MIT's residential + online hybrid model as a learning engineering showcase
+key_works:
+  - "Online Education: A Catalyst for Higher Education Reforms (with Sarma & Lippel, MIT OEPI, 2016)"
+primary_topic: T00
+secondary_topics:
+  - T11
+  - T03
+url: https://willcox.oden.utexas.edu
+notes: MIT OEPI lead. Re-introduced 'learning engineer' term to higher ed.

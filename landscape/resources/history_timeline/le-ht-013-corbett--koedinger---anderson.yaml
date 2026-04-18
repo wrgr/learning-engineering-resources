@@ -1,0 +1,19 @@
+resource_id: LE-HT-013
+content_type: HT
+source: curated
+year: 1997
+era: expansion
+event: "Corbett, Koedinger & Anderson publish Bayesian Knowledge Tracing architecture in HCI Handbook"
+significance: >
+  Operationalized real-time student modeling: BKT uses a hidden Markov model to
+  track the probability that a student has learned each knowledge component.
+  Became the dominant algorithm in ITS student models and is still widely used.
+actors:
+  - "Albert T. Corbett"
+  - "Kenneth R. Koedinger"
+  - "John R. Anderson"
+references:
+  - "Corbett, A. T., Koedinger, K. R., & Anderson, J. R. (1997). Intelligent tutoring systems. In Handbook of Human-Computer Interaction (pp. 849–874). Elsevier."
+primary_topic: T06
+secondary_topics:
+  - T04

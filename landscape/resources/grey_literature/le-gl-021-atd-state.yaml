@@ -1,0 +1,21 @@
+resource_id: LE-GL-021
+content_type: GL
+source: curated
+status: APPROVED
+title: "State of the Industry Report"
+authors:
+  - "Association for Talent Development (ATD)"
+year: 2023
+publisher: "Association for Talent Development"
+url: "https://www.td.org/research-reports"
+type: report
+primary_topic: T10
+secondary_topics:
+  - T11
+  - T15
+significance: >
+  Annual survey of corporate training investment, delivery modalities, and effectiveness
+  measurement across hundreds of organizations. Provides LE practitioners with benchmarks for
+  training hours, costs, technology adoption, and evaluation maturity. The most widely cited
+  industry data on the state of organizational learning and development.
+notes: "Annual series"

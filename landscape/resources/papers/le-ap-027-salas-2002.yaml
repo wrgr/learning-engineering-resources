@@ -1,0 +1,26 @@
+resource_id: LE-AP-027
+content_type: AP
+source: curated
+title: "Is there a 'Big Five' in teamwork?"
+authors:
+  - Eduardo Salas
+  - Dana E. Sims
+  - C. Shawn Burke
+year: 2005
+venue: Small Group Research
+volume: "36"
+issue: "5"
+pages: "555–599"
+doi: "10.1177/1046496405277134"
+tier: highly_cited
+citation_count_approx: 2800
+significance: >
+  Identified the five core components of effective teamwork — team leadership, mutual
+  performance monitoring, backup behavior, adaptability, and team orientation — supported
+  by shared mental models, mutual trust, and closed-loop communication. Provides a
+  validated framework for designing and evaluating team-based LE systems, particularly
+  in professional and healthcare training contexts.
+primary_topic: T10
+secondary_topics:
+  - T04
+  - T15

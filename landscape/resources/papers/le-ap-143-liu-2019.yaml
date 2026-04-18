@@ -1,0 +1,20 @@
+resource_id: LE-AP-143
+content_type: AP
+source: curated
+title: "Engineering Education at Scale: Designing Adaptive STEM Curricula with Embedded Assessment"
+authors:
+  - John Liu
+  - Anant Agarwal
+year: 2019
+venue: "IEEE Frontiers in Education Conference Proceedings"
+tier: contemporary
+citation_count_approx: 95
+significance: >
+  Described the MIT LEAP framework for designing adaptive STEM curricula that embed formative
+  assessment within online problem sets, enabling continuous knowledge-component modeling
+  across large student populations. Provides an engineering-discipline perspective on the LE
+  design-measure-improve cycle applied to workforce-relevant technical education at scale.
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T12

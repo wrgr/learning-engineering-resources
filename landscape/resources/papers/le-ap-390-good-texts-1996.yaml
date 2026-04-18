@@ -1,0 +1,19 @@
+resource_id: LE-AP-390
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Are Good Texts Always Better? Interactions of Text Coherence, Background Knowledge, and Levels of Understanding in Learning From Text"
+authors: []
+year: 1996
+venue: Cognition and Instruction
+doi: "10.1207/s1532690xci1401_1"
+tier: highly_cited
+citation_count_approx: 1339
+cross_seed_score: 2
+openalex_id: "W1996650435"
+significance: >
+  Published in Cognition and Instruction; addresses comprehension, reading
+  comprehension, coherence (philosophical gambling strategy). Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

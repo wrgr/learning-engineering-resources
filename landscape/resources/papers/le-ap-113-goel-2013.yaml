@@ -1,0 +1,23 @@
+resource_id: LE-AP-113
+content_type: AP
+source: curated
+title: "Vitruvius: A Case-Based Advisor for Biomimetic Design"
+authors:
+  - Ashok Goel
+  - David Joyner
+  - Cindy Paige
+  - Spencer Simons
+  - Jason Strickler
+  - Swaroop Vattam
+year: 2013
+venue: Proceedings of the ICCBR Workshop on Case-Based Reasoning in Design and Creative Processes
+tier: contemporary
+citation_count_approx: 140
+significance: >
+  Described Vitruvius, an AI design advisor that uses biological case analogies to support
+  engineering design. Demonstrates case-based reasoning as an LE system paradigm for complex
+  ill-structured domains, informing design of AI tutors for creative and design-oriented learning.
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T07

@@ -1,0 +1,21 @@
+resource_id: LE-AP-255
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions"
+authors: []
+year: 2005
+venue: Educational Psychology Review
+doi: "10.1007/s10648-005-3951-0"
+tier: highly_cited
+citation_count_approx: 2073
+cross_seed_score: 3
+openalex_id: "W2131057562"
+significance: >
+  Published in Educational Psychology Review; addresses cognitive load,
+  educational psychology, cognition. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T04
+secondary_topics:
+  - T01

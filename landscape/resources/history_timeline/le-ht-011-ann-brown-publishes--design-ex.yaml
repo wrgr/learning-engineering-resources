@@ -1,0 +1,18 @@
+resource_id: LE-HT-011
+content_type: HT
+source: curated
+year: 1992
+era: expansion
+event: "Ann Brown publishes 'Design Experiments' in Journal of the Learning Sciences"
+significance: >
+  Established design-based research as the methodological framework for testing
+  engineered learning interventions in authentic classroom settings. Over 2,800
+  citations; most influential paper in JLS history. Became the basis for how
+  learning engineers validate systems in the wild.
+actors:
+  - "Ann L. Brown"
+references:
+  - "Brown, A. L. (1992). Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings. Journal of the Learning Sciences, 2(2), 141–178."
+primary_topic: T17
+secondary_topics:
+  - T03

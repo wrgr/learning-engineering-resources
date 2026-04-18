@@ -1,0 +1,18 @@
+resource_id: LE-AP-766
+content_type: AP
+source: book_endnotes
+status: seed
+title: "“Social-Cognitive Barriers to Ethical Authorship"
+authors: []
+year: 2015
+venue: Unknown Venue
+doi: "10.3389/fpsyg.2015.00877"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Schoenherr, Jordan Richard. “Social-Cognitive Barriers to Ethical Authorship.”
+  Frontiers in Psychology 6 (2015): 877. ht...
+primary_topic: T01

@@ -1,0 +1,24 @@
+resource_id: LE-AP-073
+content_type: AP
+source: curated
+title: "Natural Language Processing in Service of Reading Comprehension"
+authors:
+  - Danielle S. McNamara
+  - Scott A. Crossley
+year: 2015
+venue: "Journal of Learning Analytics"
+volume: "2"
+issue: "3"
+pages: "119–141"
+doi: "10.18608/jla.2015.23.7"
+tier: contemporary
+citation_count_approx: 310
+significance: >
+  Applied NLP techniques to assess and scaffold reading comprehension in intelligent
+  tutoring systems, showing that automated text feature analysis can predict
+  comprehension difficulty and guide adaptive text selection. Bridges NLP/learning
+  analytics and LE system design for adaptive reading and text-based learning.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T09

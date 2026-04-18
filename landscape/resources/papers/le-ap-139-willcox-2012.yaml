@@ -1,0 +1,22 @@
+resource_id: LE-AP-139
+content_type: AP
+source: curated
+title: "Online Education: A Catalyst for Higher Education Reforms"
+authors:
+  - Karen E. Willcox
+  - Sanjay Sarma
+  - Philip H. Lippel
+year: 2016
+venue: MIT Faculty Report
+tier: contemporary
+citation_count_approx: 280
+significance: >
+  MIT faculty report analyzing how online education (MITx, edX, OCW) can catalyze broader
+  institutional reform in pedagogy, credentialing, and global access. Provides LE practitioners
+  with an institutional perspective on technology-driven educational transformation, including
+  evidence on hybrid learning effectiveness and the challenges of sustaining online learning
+  initiatives at research universities.
+primary_topic: T10
+secondary_topics:
+  - T16
+  - T15

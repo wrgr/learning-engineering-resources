@@ -1,0 +1,19 @@
+resource_id: LE-AP-646
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "What Do We Teach When We Teach the Learning Sciences? A Document Analysis of 75 Graduate Programs"
+authors: []
+year: 2018
+venue: Journal of the Learning Sciences
+doi: "10.1080/10508406.2018.1440353"
+tier: contemporary
+citation_count_approx: 87
+cross_seed_score: 2
+openalex_id: "W2810115174"
+significance: >
+  Published in Journal of the Learning Sciences; addresses dialog box,
+  discipline, metacognition. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-AP-609
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Organization of Behavior"
+authors: []
+year: 2005
+venue: Psychology Press eBooks
+doi: "10.4324/9781410612403"
+tier: foundational
+citation_count_approx: 8465
+cross_seed_score: 2
+openalex_id: "W22297218"
+significance: >
+  Published in Psychology Press eBooks; addresses psychology, business. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

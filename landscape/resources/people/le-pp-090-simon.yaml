@@ -1,0 +1,32 @@
+resource_id: LE-PP-090
+content_type: PP
+source: curated
+status: APPROVED
+name: Herbert A. Simon
+affiliation: Carnegie Mellon University
+years: "1916–2001"
+era: founding
+role: Originator of the 'learning engineer' concept; Nobel laureate
+description: >
+  Nobel laureate in Economics (1978) who coined the term 'learning engineer' in his 1967
+  Educational Record essay 'The Job of a College President'. Argued that teaching is a
+  domain of expertise separate from subject-matter knowledge, requiring its own scientific
+  grounding. Co-developed ACT cognitive theory with John Anderson, providing the scientific
+  basis for cognitive tutors. His broader work on bounded rationality, problem solving, and
+  cognitive simulation laid the intellectual foundation for ITS.
+key_contributions:
+  - Coined the term 'learning engineer' in the 1967 Educational Record essay 'The Job of a College President'
+  - Argued that teaching is a domain of expertise separate from subject-matter knowledge, requiring its own scientific grounding
+  - Championed evidence-based instruction over discovery learning when discovery imposes excessive cognitive cost
+  - Co-developed ACT cognitive theory with John Anderson, providing the scientific basis for cognitive tutors
+  - His broader work on bounded rationality, problem solving, and cognitive simulation laid the intellectual foundation for ITS
+key_works:
+  - "The Job of a College President (Educational Record, 1967)"
+  - "Human Problem Solving (with Newell, 1972)"
+  - "The Sciences of the Artificial (1969)"
+primary_topic: T00
+secondary_topics:
+  - T01
+  - T06
+url: https://www.cmu.edu/simon/
+notes: Field originator. Coined 'learning engineer'. Anchor for T00 and founding era.

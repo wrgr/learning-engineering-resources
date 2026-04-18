@@ -1,0 +1,19 @@
+resource_id: LE-AP-211
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Pragmatic reasoning schemas"
+authors: []
+year: 1985
+venue: Cognitive Psychology
+doi: "10.1016/0010-0285(85)90014-3"
+tier: highly_cited
+citation_count_approx: 1467
+cross_seed_score: 3
+openalex_id: "W1989930562"
+significance: >
+  Published in Cognitive Psychology; addresses permission, schema (genetic
+  algorithms), inference. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T04

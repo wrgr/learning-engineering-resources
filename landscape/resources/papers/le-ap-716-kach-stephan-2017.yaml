@@ -1,0 +1,18 @@
+resource_id: LE-AP-716
+content_type: AP
+source: book_endnotes
+status: seed
+title: "Kach, and Stephan M"
+authors: []
+year: 2017
+venue: Unknown Venue
+doi: "10.1177/1094428116641191"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation: Busse,
+  Christian, Andrew P. Kach, and Stephan M. Wagner. “Boundary Conditions: What
+  They Are, How to Explore Them, Why W...
+primary_topic: T01

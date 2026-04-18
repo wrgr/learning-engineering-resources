@@ -1,0 +1,19 @@
+resource_id: LE-AP-517
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Teaching the /r/–/l/ discrimination to Japanese adults: behavioral and neural aspects"
+authors: []
+year: 2002
+venue: Physiology & Behavior
+doi: "10.1016/s0031-9384(02)00916-2"
+tier: contemporary
+citation_count_approx: 127
+cross_seed_score: 2
+openalex_id: "W2118340088"
+significance: >
+  Published in Physiology & Behavior; addresses psychology, contrast (vision),
+  neuroimaging. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,27 @@
+resource_id: LE-AP-042
+content_type: AP
+source: curated
+title: "Cognitive Architecture and Instructional Design"
+authors:
+  - John Sweller
+  - Jeroen J. G. van Merriënboer
+  - Fred G. W. C. Paas
+year: 1998
+venue: Educational Psychology Review
+volume: "10"
+issue: "3"
+pages: "251–296"
+doi: "10.1023/A:1022193728205"
+tier: foundational
+citation_count_approx: 5500
+significance: >
+  Presented a comprehensive formulation of Cognitive Load Theory (CLT) integrating
+  intrinsic, extraneous, and germane cognitive load with human cognitive architecture.
+  Derived specific instructional design prescriptions — worked examples, split-attention
+  effect, redundancy effect, expertise reversal — that became standard in multimedia
+  learning and ITS design. Essential theoretical foundation for LE decisions about
+  interface design, instructional sequencing, and adaptive difficulty.
+primary_topic: T04
+secondary_topics:
+  - T12
+  - T01

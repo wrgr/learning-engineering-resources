@@ -1,0 +1,19 @@
+resource_id: LE-AP-561
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Mapping the Connections between Politics and Morality: The Multiple Sociopolitical Orientations Involved in Moral Intuition"
+authors: []
+year: 2013
+venue: Political Psychology
+doi: "10.1111/pops.12006"
+tier: contemporary
+citation_count_approx: 200
+cross_seed_score: 2
+openalex_id: "W2140352254"
+significance: >
+  Published in Political Psychology; addresses morality, social psychology,
+  biology and political orientation. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

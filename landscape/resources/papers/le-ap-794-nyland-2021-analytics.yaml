@@ -1,0 +1,26 @@
+resource_id: LE-AP-794
+content_type: AP
+source: curated
+title: "Piloting Learning Analytics in a Multidisciplinary Online Program"
+authors:
+  - Rob Nyland
+  - Bea Croft
+  - Eunbae Jung
+year: 2021
+venue: "Online Learning"
+volume: "25"
+issue: "2"
+pages: "324-349"
+doi: "10.24059/olj.v25i2.2221"
+tier: contemporary
+citation_count_approx: 28
+significance: >
+  Reports a pilot deployment of learning analytics dashboards across a
+  multidisciplinary online program, examining adoption challenges, faculty
+  readiness, and impact on instructional decisions. Illustrates the
+  implementation realities of deploying LE analytics infrastructure in existing
+  institutional contexts.
+primary_topic: T09
+secondary_topics:
+  - T14
+  - T16

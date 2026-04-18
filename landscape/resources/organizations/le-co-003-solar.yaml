@@ -1,0 +1,22 @@
+resource_id: LE-CO-003
+content_type: CO
+source: curated
+status: APPROVED
+name: "Society for Learning Analytics Research (SoLAR)"
+type: academic_society
+affiliation_or_venue: "International"
+url: "https://www.solaresearch.org/"
+primary_topic: T09
+secondary_topics:
+  - T14
+  - T17
+description: >
+  International academic society promoting learning analytics research, practice,
+  and policy. Organizes the annual LAK (Learning Analytics and Knowledge) conference
+  and the Learning Analytics Summer Institute (LASI). Publishes the Journal of
+  Learning Analytics. Founded 2011 alongside the first LAK conference.
+
+  Emphasizes practice-oriented, ethical analytics distinct from pure EDM, with
+  strong attention to equity, transparency, and the socio-technical implications
+  of deploying analytics in educational contexts.
+notes: "Founded 2011; organizes LAK conference and LASI; publishes Journal of Learning Analytics."

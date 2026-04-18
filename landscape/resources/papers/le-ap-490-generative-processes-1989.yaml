@@ -1,0 +1,19 @@
+resource_id: LE-AP-490
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Generative Processes of Comprehension"
+authors: []
+year: 1989
+venue: Educational Psychologist
+doi: "10.1207/s15326985ep2404_2"
+tier: highly_cited
+citation_count_approx: 921
+cross_seed_score: 2
+openalex_id: "W2089636244"
+significance: >
+  Published in Educational Psychologist; addresses comprehension, generative
+  grammar, psychology. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

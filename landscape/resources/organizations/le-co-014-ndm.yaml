@@ -1,0 +1,23 @@
+resource_id: LE-CO-014
+content_type: CO
+source: curated
+status: APPROVED
+name: "Naturalistic Decision Making Association (NDM)"
+type: academic_society
+affiliation_or_venue: "International"
+url: "https://www.naturalisticdecisionmaking.org/"
+primary_topic: T09
+secondary_topics:
+  - T02
+description: >
+  Research community studying expert decision-making under realistic, complex
+  conditions. NDM methods — critical decision method (CDM), cognitive task
+  analysis (CTA), recognition-primed decision modeling — are the primary toolkit
+  for eliciting tacit expert knowledge in high-stakes training domains.
+
+  Key source of needs analysis methods for learning engineering in professional
+  training contexts: military, healthcare, aviation, firefighting, and
+  emergency management. When LE practitioners must translate expert performance
+  into instructional objectives, NDM methods provide the validated approach for
+  surfacing knowledge that experts cannot articulate unprompted.
+notes: "NDM methods (CDM, CTA) are the standard toolkit for expert knowledge elicitation in high-stakes LE contexts."

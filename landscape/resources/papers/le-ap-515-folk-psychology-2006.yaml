@@ -1,0 +1,19 @@
+resource_id: LE-AP-515
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The folk psychology of souls"
+authors: []
+year: 2006
+venue: Behavioral and Brain Sciences
+doi: "10.1017/s0140525x06009101"
+tier: contemporary
+citation_count_approx: 448
+cross_seed_score: 2
+openalex_id: "W2117463924"
+significance: >
+  Published in Behavioral and Brain Sciences; addresses psychology,
+  epistemology, afterlife. Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

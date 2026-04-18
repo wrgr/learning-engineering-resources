@@ -1,0 +1,21 @@
+resource_id: LE-AP-047
+content_type: AP
+source: curated
+title: "Failure to Disrupt: Why Technology Alone Can't Transform Education"
+authors:
+  - Justin Reich
+year: 2020
+venue: MIT Press
+tier: contemporary
+citation_count_approx: 620
+significance: >
+  A rigorous empirical account of why ed-tech interventions — MOOCs, adaptive learning,
+  gamification — repeatedly fail to close achievement gaps or scale equitably despite
+  massive investment. Reich's analysis of hundreds of deployments shows that technology
+  amplifies existing inequalities unless deliberate design and institutional support
+  account for learner context. Essential reading for LE practitioners evaluating
+  technology-based interventions and setting realistic outcome expectations.
+primary_topic: T10
+secondary_topics:
+  - T15
+  - T16

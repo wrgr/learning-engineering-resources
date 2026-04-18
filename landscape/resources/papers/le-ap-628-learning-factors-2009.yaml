@@ -1,0 +1,18 @@
+resource_id: LE-AP-628
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Learning Factors Transfer Analysis: Using Learning Curve Analysis to Automatically Generate Domain Models"
+authors: []
+year: 2009
+venue: Educational Data Mining
+tier: contemporary
+citation_count_approx: 63
+cross_seed_score: 2
+openalex_id: "W2579624057"
+significance: >
+  Published in Educational Data Mining; addresses pairwise comparison, computer
+  science, domain (mathematical analysis). Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

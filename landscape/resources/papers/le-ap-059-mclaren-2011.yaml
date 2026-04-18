@@ -1,0 +1,20 @@
+resource_id: LE-AP-059
+content_type: AP
+source: curated
+title: "Intelligent Tutoring Systems: Structure, Applications and Challenges"
+authors:
+  - Bruce M. McLaren
+year: 2011
+venue: "Proceedings of the International Joint Conference on Artificial Intelligence (Workshop)"
+tier: contemporary
+citation_count_approx: 140
+significance: >
+  Survey of ITS architectures, instructional approaches, and evaluation challenges,
+  providing a systems-level view of intelligent tutoring from a leading practitioner.
+  Covers knowledge component modeling, student modeling, instructional decisions,
+  and interface design — useful as an orientation to the ITS design space for LE
+  system developers and researchers.
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T09

@@ -1,0 +1,19 @@
+resource_id: LE-AP-708
+content_type: AP
+source: book_endnotes
+status: seed
+title: "“MindTheGapp™ Between Standards and Practice of Mobile Learning Experience Design"
+authors: []
+year: 2015
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T14
+  topics in learning engineering. Full bibliographic details in citation:
+  Benedek, András. “MindTheGapp™ Between Standards and Practice of Mobile
+  Learning Experience Design.” International Journ...
+primary_topic: T14
+secondary_topics:
+  - T01

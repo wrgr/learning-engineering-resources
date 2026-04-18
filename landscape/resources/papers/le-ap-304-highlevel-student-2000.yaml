@@ -1,0 +1,19 @@
+resource_id: LE-AP-304
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "High-Level Student Modeling with Machine Learning"
+authors: []
+year: 2000
+venue: Lecture notes in computer science
+doi: "10.1007/3-540-45108-0_62"
+tier: contemporary
+citation_count_approx: 118
+cross_seed_score: 2
+openalex_id: "W1490094820"
+significance: >
+  Published in Lecture notes in computer science; addresses tutor, computer
+  science, granularity. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T06

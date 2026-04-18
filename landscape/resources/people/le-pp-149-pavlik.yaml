@@ -1,0 +1,30 @@
+resource_id: LE-PP-149
+content_type: PP
+source: curated
+status: APPROVED
+name: Philip I. Pavlik Jr.
+affiliation: "University of Memphis, Institute for Intelligent Systems"
+years: "1970–present"
+era: contemporary
+role: Cognitive modeling researcher; spacing and retrieval practice optimization in ITS
+description: >
+  Developed Performance Factors Analysis (PFA) — a student model accounting for both
+  practice and forgetting. Derived an activation-based model of the spacing effect and
+  created algorithms for optimal practice scheduling. Contributed to Learning Factors
+  Analysis (LFA) for data-driven discovery of knowledge components.
+key_contributions:
+  - Developed Performance Factors Analysis (PFA) — a student model accounting for both practice and forgetting
+  - Derived an activation-based model of the spacing effect and its application to vocabulary learning
+  - Created algorithms for computing optimal practice schedules based on forgetting curve parameters
+  - Contributed to Learning Factors Analysis (LFA) for data-driven discovery of knowledge components
+  - Applied cognitive models of memory decay to personalized practice scheduling in ITS platforms
+key_works:
+  - "Performance factors analysis: A new alternative to knowledge tracing (AIED, 2009)"
+  - "Practice and forgetting effects on vocabulary memory (Cognitive Science, 2005)"
+  - "Using a model to compute the optimal schedule of practice (JEP Applied, 2007)"
+primary_topic: T01
+secondary_topics:
+  - T06
+  - T04
+url: https://www.memphis.edu/iis/people/pavlik.php
+notes: PFA student model. Spacing and forgetting curves. LFA.

@@ -1,0 +1,19 @@
+resource_id: LE-AP-633
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Bayesian knowledge tracing, logistic models, and beyond: an overview of learner modeling techniques"
+authors: []
+year: 2017
+venue: User Modeling and User-Adapted Interaction
+doi: "10.1007/s11257-017-9193-2"
+tier: contemporary
+citation_count_approx: 221
+cross_seed_score: 2
+openalex_id: "W2615786590"
+significance: >
+  Published in User Modeling and User-Adapted Interaction; addresses computer
+  science, tracing, context (archaeology). Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

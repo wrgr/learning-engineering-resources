@@ -1,0 +1,19 @@
+resource_id: LE-AP-306
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Participatory Design"
+authors: []
+year: 2017
+venue: Unknown Venue
+doi: "10.1201/9780203744338"
+tier: highly_cited
+citation_count_approx: 1495
+cross_seed_score: 2
+openalex_id: "W1491504725"
+significance: >
+  Published in Unknown Venue; addresses citizen journalism, participatory
+  design, action (physics). Quality-filtered from OpenAlex cross-seed expansion
+  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-HT-010
+content_type: HT
+source: curated
+year: 1990
+era: founding
+event: "Koedinger & Anderson map cognitive expertise into computational production rules (Cognitive Science)"
+significance: >
+  Bridged cognitive psychology and AI by showing how expert geometry knowledge
+  could be encoded as production rules usable in an ITS. Established the
+  methodology for building the first generation of Cognitive Tutors.
+actors:
+  - "Kenneth R. Koedinger"
+  - "John R. Anderson"
+references:
+  - "Koedinger, K. R., & Anderson, J. R. (1990). Abstract planning and perceptual chunks: Elements of expertise in geometry. Cognitive Science, 14(4), 511–550."
+primary_topic: T06
+secondary_topics:
+  - T01

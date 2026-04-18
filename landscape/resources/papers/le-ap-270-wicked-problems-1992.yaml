@@ -1,0 +1,19 @@
+resource_id: LE-AP-270
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Wicked Problems in Design Thinking"
+authors: []
+year: 1992
+venue: Design Issues
+doi: "10.2307/1511637"
+tier: highly_cited
+citation_count_approx: 3401
+cross_seed_score: 3
+openalex_id: "W2291288208"
+significance: >
+  Published in Design Issues; addresses computer science, management science,
+  engineering ethics. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

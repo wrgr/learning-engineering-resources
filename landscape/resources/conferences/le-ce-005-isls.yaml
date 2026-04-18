@@ -1,0 +1,19 @@
+resource_id: LE-CE-005
+content_type: CE
+source: curated
+status: APPROVED
+name: "International Society of the Learning Sciences Annual Meeting (ISLS/ICLS)"
+type: conference
+affiliation_or_venue: "ISLS"
+frequency: Annual
+url: "https://www.isls.org/"
+primary_topic: T17
+secondary_topics:
+  - T01
+  - T03
+description: >
+  Design-based research, socio-cultural learning theory, collaborative learning,
+  epistemology of learning environments. Balances computational rigor with
+  qualitative and humanistic perspectives. Provides the socio-cultural
+  counterbalance to EDM/LAK's algorithmic orientation.
+notes: ""

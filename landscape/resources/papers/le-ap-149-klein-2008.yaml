@@ -1,0 +1,23 @@
+resource_id: LE-AP-149
+content_type: AP
+source: curated
+title: "Naturalistic Decision Making"
+authors:
+  - Gary Klein
+year: 2008
+venue: "Human Factors"
+volume: "50"
+issue: "3"
+pages: "456-460"
+doi: "10.1518/001872008X288385"
+tier: highly_cited
+citation_count_approx: 870
+significance: >
+  Reviewed two decades of naturalistic decision making (NDM) research, demonstrating that
+  expert decision-making in realistic conditions differs fundamentally from laboratory models.
+  Directly informs LE training design for professions requiring expert judgment under
+  uncertainty, including scenario fidelity requirements and transfer assessment approaches.
+primary_topic: T04
+secondary_topics:
+  - T11
+  - T10

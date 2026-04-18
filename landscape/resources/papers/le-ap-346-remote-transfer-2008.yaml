@@ -1,0 +1,19 @@
+resource_id: LE-AP-346
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Remote Transfer of Scientific-Reasoning and Problem-Solving Strategies in Children"
+authors: []
+year: 2008
+venue: Advances in child development and behavior
+doi: "10.1016/s0065-2407(08)00010-4"
+tier: contemporary
+citation_count_approx: 48
+cross_seed_score: 2
+openalex_id: "W1633170972"
+significance: >
+  Published in Advances in child development and behavior; addresses scientific
+  reasoning, context (archaeology), bridge (graph theory). Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

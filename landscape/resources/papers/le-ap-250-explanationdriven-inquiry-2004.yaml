@@ -1,0 +1,21 @@
+resource_id: LE-AP-250
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Explanation‐driven inquiry: Integrating conceptual and epistemic scaffolds for scientific inquiry"
+authors: []
+year: 2004
+venue: Science Education
+doi: "10.1002/sce.10130"
+tier: contemporary
+citation_count_approx: 701
+cross_seed_score: 3
+openalex_id: "W2122423127"
+significance: >
+  Published in Science Education; addresses curriculum, science education,
+  conceptual change. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T01

@@ -1,0 +1,19 @@
+resource_id: LE-AP-208
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "From Example Study to Problem Solving: Smooth Transitions Help Learning"
+authors: []
+year: 2002
+venue: The Journal of Experimental Education
+doi: "10.1080/00220970209599510"
+tier: contemporary
+citation_count_approx: 304
+cross_seed_score: 3
+openalex_id: "W1963697479"
+significance: >
+  Published in The Journal of Experimental Education; addresses computer
+  science, fading, field (mathematics). Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

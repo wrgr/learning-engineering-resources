@@ -1,0 +1,20 @@
+resource_id: LE-GL-016
+content_type: GL
+source: curated
+status: APPROVED
+title: "ICICLE Body of Knowledge (BoK) — current draft"
+authors:
+  - "IEEE ICICLE"
+year: 2024
+publisher: "IEEE ICICLE"
+url: "https://sagroups.ieee.org/icicle/"
+type: framework
+primary_topic: T00
+secondary_topics:
+  - T16
+  - T15
+significance: >
+  The field's emerging canonical definition document. Defines competency areas, vocabulary, and
+  practice standards for learning engineering. Provides the official LEBOK framework that this
+  corpus is organized to support. Version tracking required — update when new versions released.
+notes: "BoK version tracking required."

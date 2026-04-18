@@ -1,0 +1,20 @@
+resource_id: LE-AP-763
+content_type: AP
+source: book_endnotes
+status: seed
+title: "Keith, ed"
+authors: []
+year: 2014
+venue: Unknown Venue
+doi: "10.1017/cbo9781139519526"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T14
+  topics in learning engineering. Full bibliographic details in citation:
+  Sawyer, R. Keith, ed. 2014. The Cambridge Handbook of the Learning Sciences.
+  Cambridge University Press, 23. https://doi...
+primary_topic: T14
+secondary_topics:
+  - T01

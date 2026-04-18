@@ -1,0 +1,29 @@
+resource_id: LE-PP-095
+content_type: PP
+source: curated
+status: APPROVED
+name: Marlene Scardamalia
+affiliation: "University of Toronto, OISE"
+years: "active 1970s–present"
+era: expansion
+role: Pioneer of knowledge-building communities and CSCL
+description: >
+  Pioneer of knowledge-building communities and computer-supported collaborative learning.
+  Co-developed Knowledge Forum (formerly CSILE), the first networked collaborative
+  knowledge-building environment. With Bereiter, theorized the distinction between
+  'knowledge telling' and 'knowledge transforming' in writing and learning. Knowledge-building
+  pedagogy influenced the design of modern collaborative learning systems and MOOCs.
+key_contributions:
+  - Co-developed Knowledge Forum (formerly CSILE), the first networked collaborative knowledge-building environment
+  - With Bereiter, theorized the distinction between 'knowledge telling' and 'knowledge transforming' in writing and learning
+  - Established socio-cognitive frameworks for collaborative platforms that emphasize collective knowledge construction
+  - Knowledge-building pedagogy influenced the design of modern collaborative learning systems and MOOCs
+key_works:
+  - "Computer Support for Knowledge-Building Communities (with Bereiter, JLS, 1994)"
+  - "Knowledge Building: Theory, Pedagogy, and Technology (2006)"
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T17
+url: https://ikit.org/marlene-scardamalia/
+notes: Knowledge Forum / CSILE. CSCL pioneer.

@@ -1,0 +1,24 @@
+resource_id: LE-JO-002
+content_type: JO
+source: curated
+status: APPROVED
+name: "Journal of Educational Data Mining (JEDM)"
+type: journal
+affiliation_or_venue: "International Educational Data Mining Society (IEDMS)"
+url: "https://jedm.educationaldatamining.org/"
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T17
+description: >
+  Open-access journal dedicated to algorithms and methodologies for analyzing
+  educational data: knowledge tracing, automated feature engineering, predictive
+  student modeling, and behavioral analysis. Baker & Yacef's founding
+  codification of the EDM field (2009) was published here, establishing the
+  taxonomy of methods that still organizes the community.
+
+  Premier venue for computational learning engineering methods. Diamond open
+  access — no fees for authors or readers. For LE practitioners developing or
+  evaluating data-driven components, JEDM provides the most rigorous algorithmic
+  benchmarks and the broadest survey of available methods.
+notes: "Diamond open access. Baker & Yacef (2009) 'The State of Educational Data Mining' is the field-defining survey paper."

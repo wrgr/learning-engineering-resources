@@ -1,0 +1,31 @@
+resource_id: LE-PP-158
+content_type: PP
+source: curated
+status: APPROVED
+name: Daniel L. Schwartz
+affiliation: Stanford Graduate School of Education
+years: "1963–present"
+era: contemporary
+role: Learning scientist; inventing-before-learning and productive failure paradigm developer
+description: >
+  Developed the 'time for telling' principle and 'inventing to prepare for future learning'
+  — showing that generative struggle creates representations that support deeper subsequent
+  learning. Established the productive failure literature demonstrating that effortful
+  incorrect attempts precede better understanding than direct instruction.
+key_contributions:
+  - Developed the 'time for telling' principle: learners benefit more from instruction after attempting to generate solutions themselves
+  - Coined 'inventing to prepare for future learning' — showing that generative struggle creates representations that support deeper subsequent learning
+  - Showed that practice with contrasting cases produces better transfer than problem-solving practice alone
+  - Established the productive failure literature demonstrating that effortful incorrect attempts precede better understanding than direct instruction
+  - Co-authored The ABCs of How We Learn — a synthesis of 26 learning mechanisms bridging science and instructional design
+key_works:
+  - "A time for telling (Cognition and Instruction, 1998)"
+  - "Inventing to prepare for future learning (Cognition and Instruction, 2004)"
+  - "The ABCs of How We Learn (Norton, 2016)"
+primary_topic: T01
+secondary_topics:
+  - T03
+  - T12
+  - T17
+url: https://ed.stanford.edu/faculty/danls
+notes: Time for telling / productive failure. Inventing-before-learning.

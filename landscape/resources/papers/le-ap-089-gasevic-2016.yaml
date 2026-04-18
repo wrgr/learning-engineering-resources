@@ -1,0 +1,26 @@
+resource_id: LE-AP-089
+content_type: AP
+source: curated
+title: "Effects of Flipped Classroom Instruction on Learning and Cognitive Load in High School Science"
+authors:
+  - Dragan Gašević
+  - Vitomir Kovanović
+  - Srećko Joksimović
+  - George Siemens
+year: 2014
+venue: Computers in Human Behavior
+volume: "45"
+pages: "452–461"
+doi: "10.1016/j.chb.2014.08.002"
+tier: contemporary
+citation_count_approx: 420
+significance: >
+  Applied learning analytics to examine the relationship between MOOC learner behavior
+  patterns (temporal regularity, resource access sequences) and learning outcomes,
+  finding that regularity of study and active engagement with formative assessments
+  predicted performance. Demonstrates the LE use case of behavioral analytics for
+  predicting at-risk learners and guiding adaptive interventions at scale.
+primary_topic: T09
+secondary_topics:
+  - T10
+  - T06

@@ -1,0 +1,31 @@
+resource_id: LE-PP-140
+content_type: PP
+source: curated
+status: APPROVED
+name: Robert R. Hoffman
+affiliation: "Institute for Human and Machine Cognition (IHMC), Pensacola FL"
+years: "active 1970s–present"
+era: contemporary
+role: Cognitive task analysis pioneer; expertise and proficiency researcher; knowledge elicitation methodologist
+description: >
+  Pioneer of cognitive task analysis and knowledge elicitation methodology at IHMC.
+  Co-authored the field-defining practitioner guide Working Minds (MIT Press, 2006) with
+  Gary Klein and Beth Crandall. Developed proficiency scale frameworks extending the
+  Dreyfus model for training design. Active IEEE ICICLE contributor who brought human
+  factors expertise research tradition to the LE field.
+key_contributions:
+  - Developed the Critical Decision Method (CDM) for eliciting expert knowledge in naturalistic settings
+  - Co-authored Working Minds — the field-defining practitioner guide to cognitive task analysis for training design
+  - Applied proficiency scale frameworks (extended Dreyfus model) to learning engineering and training system design
+  - With Klein, established naturalistic decision-making as a substrate for evidence-based training design
+  - Active ICICLE contributor who brought human factors and expertise research traditions to the LE community
+key_works:
+  - "Crandall, Klein & Hoffman — Working Minds: A Practitioner's Guide to Cognitive Task Analysis (MIT Press, 2006)"
+  - "Hoffman, Ward et al. — Accelerated Learning: Training for High Proficiency in a Complex World (APA, 2014)"
+  - "Hoffman & Militello — Perspectives on Cognitive Task Analysis (CRC Press, 2008)"
+primary_topic: T02
+secondary_topics:
+  - T01
+  - T09
+url: https://ihmc.us/groups/rhoffman/
+notes: IHMC. CTA and expertise research. ICICLE community figure.

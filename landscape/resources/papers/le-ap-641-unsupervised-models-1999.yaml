@@ -1,0 +1,20 @@
+resource_id: LE-AP-641
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Unsupervised Models for Named Entity Classification"
+authors: []
+year: 1999
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 817
+cross_seed_score: 2
+openalex_id: "W2785349534"
+significance: >
+  Published in Unknown Venue; addresses computer science, classifier (uml),
+  boosting (machine learning). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T14
+secondary_topics:
+  - T01

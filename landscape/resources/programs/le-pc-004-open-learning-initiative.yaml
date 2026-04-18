@@ -1,0 +1,14 @@
+resource_id: LE-PC-004
+content_type: PC
+source: registry_migration
+status: APPROVED
+name: "Open Learning Initiative (OLI)"
+url: "https://oli.cmu.edu"
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T04
+description: >
+  Flagship CMU learning-engineering R&D: course development, instructional
+  training, consulting, and platforms (including Torus) for evidence-based,
+  continuously improving digital learning tied to the Simon Initiative.

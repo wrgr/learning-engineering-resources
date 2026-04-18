@@ -1,0 +1,17 @@
+resource_id: LE-AP-617
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Big Three"
+authors: []
+year: 2007
+venue: 北京周报(英文版)
+tier: contemporary
+citation_count_approx: 79
+cross_seed_score: 2
+openalex_id: "W2382433082"
+significance: >
+  Published in 北京周报(英文版); addresses computer science. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

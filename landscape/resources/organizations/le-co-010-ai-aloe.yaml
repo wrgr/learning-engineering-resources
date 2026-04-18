@@ -1,0 +1,24 @@
+resource_id: LE-CO-010
+content_type: CO
+source: curated
+status: APPROVED
+name: "National AI Institute for Adult Learning and Online Education (AI-ALOE)"
+type: research_center
+affiliation_or_venue: "Georgia Institute of Technology"
+url: "https://aialoe.org/"
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T13
+description: >
+  NSF-funded National AI Institute headquartered at Georgia Tech, developing AI
+  theories and systems for adult online learning, intelligent tutors, and
+  workforce upskilling. Consortium includes Georgia Tech, Vanderbilt, Harvard,
+  and other partners. Pursues both foundational AI research and applied system
+  development for real-world adult learners.
+
+  Primary Georgia Tech anchor for AI×learning engineering at scale. AI-ALOE
+  represents one of the largest federal investments in AI-driven learning
+  engineering, with particular focus on underserved adult learners and the
+  intersection of workforce development with adaptive educational technology.
+notes: "NSF National AI Institute; Georgia Tech-led consortium; focus on adult online learning and workforce upskilling."

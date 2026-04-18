@@ -1,0 +1,26 @@
+resource_id: LE-AP-013
+content_type: AP
+source: curated
+title: Generalizable Learning Engineering Adoption Maturity Model
+authors:
+  - Shawn Blake-Plock
+  - Scotty D. Craig
+  - Emily Czerwinski
+  - Jim Goodell
+  - Jason Lis
+  - Katherine McEldoon
+  - Kristopher Owens
+  - Julian Stodd
+  - Steven Schatz
+year: 2025
+venue: Journal of Learning Engineering (preprint/proceedings)
+tier: contemporary
+significance: >
+  Defines a multi-level organizational capability model for assessing and advancing an
+  institution's LE practice. Provides a structured framework for moving from ad-hoc
+  instructional design toward systematic, data-driven learning engineering — the field's
+  primary tool for organizational self-assessment.
+primary_topic: T16
+secondary_topics:
+  - T03
+  - T15

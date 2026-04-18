@@ -1,0 +1,18 @@
+resource_id: LE-AP-726
+content_type: AP
+source: book_endnotes
+status: seed
+title: "Taking Science to School: Learning and Teaching Science in Grades K-8"
+authors: []
+year: 2007
+venue: Unknown Venue
+doi: "10.17226/11625"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Duschl, Richard A. Taking Science to School: Learning and Teaching Science in
+  Grades K-8. Washington, DC: The National A...
+primary_topic: T01

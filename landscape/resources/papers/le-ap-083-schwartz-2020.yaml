@@ -1,0 +1,22 @@
+resource_id: LE-AP-083
+content_type: AP
+source: curated
+title: "The ABC of How We Learn: 26 Scientifically Proven Approaches, How They Work, and When to Use Them"
+authors:
+  - Daniel L. Schwartz
+  - Jessica M. Tsang
+  - Kristen P. Blair
+year: 2016
+venue: "Norton"
+tier: contemporary
+citation_count_approx: 350
+significance: >
+  Accessible practitioner synthesis of 26 empirically supported learning approaches,
+  each with implementation guidance and evidence summaries. Bridges the research-practice
+  gap for LE instructional designers who need actionable summaries of the learning
+  science literature. Widely used in LE practitioner training and professional
+  development contexts.
+primary_topic: T15
+secondary_topics:
+  - T01
+  - T12

@@ -1,0 +1,31 @@
+resource_id: LE-PP-155
+content_type: PP
+source: curated
+status: APPROVED
+name: Erin Walker
+affiliation: "Arizona State University (formerly Carnegie Mellon University, HCII)"
+years: "1980–present"
+era: contemporary
+role: ITS and peer-tutoring researcher; collaborative learning scaffolding
+description: >
+  Developed ITS scaffolding systems that support peer tutoring in computer science,
+  bridging collaborative and adaptive learning. Showed intelligent support for peer
+  tutoring outperforms unscaffolded peer tutoring and approaches one-on-one ITS.
+  Bridges CMU HCII cognitive tutor lineage with ASU's collaborative learning traditions.
+key_contributions:
+  - Developed ITS scaffolding systems that support peer tutoring in computer science, bridging collaborative and adaptive learning
+  - Showed that intelligent support for peer tutoring outperforms unscaffolded peer tutoring and approaches one-on-one ITS
+  - Investigated how students learn from overhearing dialogues in virtual tutoring sessions
+  - Applied conversational scaffolding to CSCL contexts using dialogue-based ITS agents
+  - Bridges CMU HCII cognitive tutor lineage with ASU's human systems and collaborative learning traditions
+key_works:
+  - "Adaptive intelligent support to improve peer tutoring in CS (AIED, 2011)"
+  - "Designing for problem solving: ITS scaffolding for peer tutoring (CSCL, 2014)"
+  - "Overhearing dialogues and monologues in virtual tutoring sessions (Cognitive Science, 2009)"
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T09
+  - T03
+url: https://learningengineering.asu.edu/
+notes: Peer tutoring ITS. CMU-to-ASU bridge. Collaborative learning scaffolding.

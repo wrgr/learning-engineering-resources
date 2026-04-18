@@ -1,0 +1,24 @@
+resource_id: LE-AP-789
+content_type: AP
+source: curated
+title: "Senior International Officers: Essential Roles and Responsibilities"
+authors:
+  - Adesola Ogundimu
+year: 2020
+venue: "Journal of International Students"
+volume: "10"
+issue: "3"
+pages: "790-793"
+doi: "10.32674/jis.v10i3.2496"
+tier: contemporary
+citation_count_approx: 5
+significance: >
+  Examines the institutional support roles needed to serve international
+  students in higher education settings, with implications for equity and
+  inclusion in learning design. Relevant to LE globalisation and localisation —
+  designing learning experiences that serve diverse international learner
+  populations.
+primary_topic: T14
+secondary_topics:
+  - T00
+  - T03

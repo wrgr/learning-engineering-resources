@@ -1,0 +1,24 @@
+resource_id: LE-AP-098
+content_type: AP
+source: curated
+title: "A Prototype Reading Coach that Listens"
+authors:
+  - Jack Mostow
+  - Steven Roth
+  - Alexander G. Hauptmann
+  - Matthew Kane
+year: 1994
+venue: Proceedings of the Twelfth National Conference on Artificial Intelligence (AAAI-94)
+volume: "1"
+pages: "785-792"
+tier: foundational
+citation_count_approx: 310
+significance: >
+  Described the original prototype of Project LISTEN's automated reading tutor that used
+  speech recognition to listen to children read aloud and provide real-time corrective
+  feedback. The first system to apply automated speech recognition to reading instruction
+  at scale, establishing the paradigm for listening-based literacy ITS.
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T01

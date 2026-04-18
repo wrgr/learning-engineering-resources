@@ -1,0 +1,19 @@
+resource_id: LE-AP-543
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The modularity of thought and the epidemiology of representations"
+authors: []
+year: 1994
+venue: Cambridge University Press eBooks
+doi: "10.1017/cbo9780511752902.003"
+tier: contemporary
+citation_count_approx: 682
+cross_seed_score: 2
+openalex_id: "W2133659079"
+significance: >
+  Published in Cambridge University Press eBooks; addresses modularity
+  (biology), perception, cognitive science. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

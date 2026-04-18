@@ -1,0 +1,20 @@
+resource_id: LE-GL-023
+content_type: GL
+source: curated
+status: APPROVED
+title: "What Works Clearinghouse Handbook (v5.0)"
+authors:
+  - "Institute of Education Sciences (IES), U.S. Department of Education"
+year: 2022
+publisher: "U.S. Department of Education / IES"
+url: "https://ies.ed.gov/ncee/wwc/handbooks"
+type: framework
+primary_topic: T15
+secondary_topics:
+  - T10
+  - T17
+significance: >
+  The authoritative evidence standards framework for evaluating education research. Specifies the
+  criteria an intervention study must meet to be considered high-quality evidence (randomized
+  design, statistical power, attrition standards). Sets the evidentiary bar that LE evaluation
+  must meet to influence policy and procurement decisions.

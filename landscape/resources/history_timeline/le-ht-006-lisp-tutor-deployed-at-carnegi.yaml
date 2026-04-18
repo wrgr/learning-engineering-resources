@@ -1,0 +1,18 @@
+resource_id: LE-HT-006
+content_type: HT
+source: curated
+year: 1983
+era: founding
+event: "LISP Tutor deployed at Carnegie Mellon — first empirically validated intelligent tutoring system"
+significance: >
+  Demonstrated that a computer tutor based on cognitive models (ACT theory)
+  could produce measurable learning gains. Proof of concept for the entire ITS
+  paradigm and direct antecedent of Cognitive Tutor.
+actors:
+  - "John R. Anderson"
+  - "Albert T. Corbett"
+references:
+  - "Anderson, J. R., Boyle, C. F., & Reiser, B. J. (1985). Intelligent tutoring systems. Science, 228(4698), 456–462."
+primary_topic: T06
+secondary_topics:
+  - T01

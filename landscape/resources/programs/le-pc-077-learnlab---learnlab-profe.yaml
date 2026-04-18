@@ -1,0 +1,14 @@
+resource_id: LE-PC-077
+content_type: PC
+source: registry_migration
+status: APPROVED
+name: "LearnLab & LearnLab professional programs (CMU / network)"
+url: "https://learnlab.org/"
+primary_topic: T06
+secondary_topics:
+  - T04
+  - T03
+description: >
+  Research network and professional offerings (e.g., data analysis and modeling
+  workshops, summer school) connecting cognitive science, LearnSphere/DataShop,
+  and course improvement for formal and informal educators.

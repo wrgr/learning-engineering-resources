@@ -1,0 +1,21 @@
+resource_id: LE-GL-002
+content_type: GL
+source: curated
+status: APPROVED
+title: "Online Education: A Catalyst for Higher Education Reforms"
+authors:
+  - "Karen Willcox"
+  - "Sanjay Sarma"
+  - "Philip Lippel"
+year: 2016
+publisher: "MIT Online Education Policy Initiative (OEPI)"
+url: "https://oepi.mit.edu/files/2016/09/MIT-Online-Education-Policy-Initiative-September-2016.pdf"
+type: report
+primary_topic: T00
+secondary_topics:
+  - T11
+  - T03
+significance: >
+  Re-introduced 'learning engineer' to higher education discourse at the moment MOOCs reached
+  58M+ global students. Recommended universities create dedicated learning engineering roles.
+  Widely cited as the document that triggered the modern LE movement in higher education institutions.

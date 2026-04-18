@@ -1,0 +1,21 @@
+resource_id: LE-AP-405
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "A Scaffolding Design Framework for Software to Support Science Inquiry"
+authors: []
+year: 2004
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1303_4"
+tier: highly_cited
+citation_count_approx: 993
+cross_seed_score: 2
+openalex_id: "W2009816677"
+significance: >
+  Published in Journal of the Learning Sciences; addresses heuristics, computer
+  science, scaffold. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T03

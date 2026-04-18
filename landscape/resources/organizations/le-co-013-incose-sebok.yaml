@@ -1,0 +1,24 @@
+resource_id: LE-CO-013
+content_type: CO
+source: curated
+status: APPROVED
+name: "INCOSE Systems Engineering Body of Knowledge (SEBoK)"
+type: academic_society
+affiliation_or_venue: "INCOSE — International Council on Systems Engineering"
+url: "https://sebokwiki.org/"
+primary_topic: T02
+secondary_topics:
+  - T03
+  - T16
+description: >
+  Open wiki-based body of knowledge for systems engineering, maintained by
+  INCOSE. Includes the Human Systems Integration knowledge area. Covers SE
+  process frameworks: requirements engineering, architecture, integration,
+  verification and validation, and lifecycle management.
+
+  The SE process framework that SEBoK codifies is the engineering process
+  backbone that learning engineering adapts for learning system development.
+  Understanding SE fundamentals — especially requirements traceability and
+  V&V — is essential for LE practitioners working at the boundary of
+  instructional design and systems engineering.
+notes: "Open wiki; Human Systems Integration knowledge area is most directly LE-relevant."

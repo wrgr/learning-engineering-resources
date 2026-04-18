@@ -1,0 +1,19 @@
+resource_id: LE-AP-236
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The four elementary forms of sociality: Framework for a unified theory of social relations."
+authors: []
+year: 1992
+venue: Psychological Review
+doi: "10.1037/0033-295x.99.4.689"
+tier: highly_cited
+citation_count_approx: 2401
+cross_seed_score: 3
+openalex_id: "W2084496451"
+significance: >
+  Published in Psychological Review; addresses sociality, comprehension,
+  cognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

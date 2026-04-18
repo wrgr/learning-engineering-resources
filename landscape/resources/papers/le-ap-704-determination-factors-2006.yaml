@@ -1,0 +1,19 @@
+resource_id: LE-AP-704
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Determination of factors influencing the achievement of the first-year university students using data mining methods"
+authors: []
+year: 2006
+venue: Digital Access to Libraries (Université catholique de Louvain (UCL), l'Université de Namur (UNamur) and the Université Saint-Louis (USL-B))
+tier: contemporary
+citation_count_approx: 113
+cross_seed_score: 2
+openalex_id: "W747585077"
+significance: >
+  Published in Digital Access to Libraries (Université catholique de Louvain
+  (UCL), l'Université de Namur (UNamur) and the Université Saint-Louis (USL-B));
+  addresses mathematics education, academic achievement, computer science.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

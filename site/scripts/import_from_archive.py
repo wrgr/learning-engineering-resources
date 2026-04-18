@@ -1,10 +1,15 @@
-"""One-shot seeder: read archive registries and emit MDX stubs into site content collections.
+"""One-shot seeder: read landscape registries and emit MDX stubs into site content collections.
 
-Maps archive records into the five practice sections (process, methods, tools, evidence,
+Maps landscape records into the five practice sections (process, methods, tools, evidence,
 community) based on content_type and primary_topic. Idempotent — skips files that already
-exist so human edits survive re-runs. Run from the repo root:
+exist so human edits survive re-runs.
 
-    python3 site/scripts/import_from_archive.py
+Data flow:
+  landscape/resources/**/*.yaml  →  scripts/build_registry.py
+                                 →  site/src/data/programs_people_registry.json  (PROGRAMS_REG)
+
+Run from the repo root:
+    python3 scripts/build_registry.py && python3 site/scripts/import_from_archive.py
 """
 
 from __future__ import annotations
@@ -19,7 +24,8 @@ SITE = ROOT / "site"
 CONTENT = SITE / "src" / "content"
 
 ICICLE_REG = ARCHIVE / "corpus" / "tables" / "icicle_resources_registry.json"
-PROGRAMS_REG = ARCHIVE / "corpus" / "tables" / "programs_people_registry.json"
+# Canonical source: built from landscape/resources/**/*.yaml via scripts/build_registry.py
+PROGRAMS_REG = SITE / "src" / "data" / "programs_people_registry.json"
 PAPERS = ARCHIVE / "corpus" / "academic_papers.jsonl"
 PEOPLE = ROOT / "titlesearch" / "data" / "people.json"
 

@@ -1,0 +1,19 @@
+resource_id: LE-AP-693
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "What video games have to teach us about learning and literacy"
+authors: []
+year: 2003
+venue: Computers in entertainment
+doi: "10.1145/950566.950595"
+tier: foundational
+citation_count_approx: 5432
+cross_seed_score: 2
+openalex_id: "W4292952947"
+significance: >
+  Published in Computers in entertainment; addresses dilemma, face (sociological
+  concept), process (computing). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

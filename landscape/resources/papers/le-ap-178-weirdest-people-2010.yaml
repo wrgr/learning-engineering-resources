@@ -1,0 +1,19 @@
+resource_id: LE-AP-178
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The weirdest people in the world?"
+authors: []
+year: 2010
+venue: Behavioral and Brain Sciences
+doi: "10.1017/s0140525x0999152x"
+tier: foundational
+citation_count_approx: 11737
+cross_seed_score: 4
+openalex_id: "W2085876742"
+significance: >
+  Published in Behavioral and Brain Sciences; addresses categorization,
+  psychology, variation (astronomy). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

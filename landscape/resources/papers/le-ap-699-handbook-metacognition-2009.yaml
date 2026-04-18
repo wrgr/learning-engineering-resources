@@ -1,0 +1,19 @@
+resource_id: LE-AP-699
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Handbook of Metacognition in Education"
+authors: []
+year: 2009
+venue: Unknown Venue
+doi: "10.4324/9780203876428"
+tier: highly_cited
+citation_count_approx: 1471
+cross_seed_score: 2
+openalex_id: "W595197191"
+significance: >
+  Published in Unknown Venue; addresses metacognition, psychology, mathematics
+  education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

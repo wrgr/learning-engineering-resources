@@ -1,0 +1,19 @@
+resource_id: LE-AP-174
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Structure‐Mapping: A Theoretical Framework for Analogy*"
+authors: []
+year: 1983
+venue: Cognitive Science
+doi: "10.1207/s15516709cog0702_3"
+tier: foundational
+citation_count_approx: 5056
+cross_seed_score: 4
+openalex_id: "W2026161499"
+significance: >
+  Published in Cognitive Science; addresses analogy, domain theory, computer
+  science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

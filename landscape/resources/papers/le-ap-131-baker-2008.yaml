@@ -1,0 +1,23 @@
+resource_id: LE-AP-131
+content_type: AP
+source: curated
+title: "More Accurate Student Modeling through Contextual Estimation of Slip and Guess Probabilities in Bayesian Knowledge Tracing"
+authors:
+  - Ryan S. J. d. Baker
+  - Albert T. Corbett
+  - Vincent Aleven
+year: 2008
+venue: Proceedings of the 9th International Conference on Intelligent Tutoring Systems (ITS 2008)
+pages: "406-415"
+doi: "10.1007/978-3-540-69132-7_44"
+tier: highly_cited
+citation_count_approx: 580
+significance: >
+  Improved Bayesian Knowledge Tracing accuracy by estimating slip and guess probabilities
+  per knowledge component and context rather than using global constants. Directly improved
+  adaptive mastery assessment in deployed ITS and is the standard reference for contextual
+  BKT parameter estimation in LE systems.
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T04

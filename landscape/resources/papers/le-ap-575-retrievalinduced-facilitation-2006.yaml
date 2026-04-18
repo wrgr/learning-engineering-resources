@@ -1,0 +1,19 @@
+resource_id: LE-AP-575
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Retrieval-induced facilitation: Initially nontested material can benefit from prior testing of related material."
+authors: []
+year: 2006
+venue: Journal of Experimental Psychology General
+doi: "10.1037/0096-3445.135.4.553"
+tier: contemporary
+citation_count_approx: 372
+cross_seed_score: 2
+openalex_id: "W2148354545"
+significance: >
+  Published in Journal of Experimental Psychology General; addresses
+  facilitation, recall, psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

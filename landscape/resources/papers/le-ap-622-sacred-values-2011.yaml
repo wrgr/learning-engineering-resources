@@ -1,0 +1,19 @@
+resource_id: LE-AP-622
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Sacred values and evil adversaries: A moral foundations approach."
+authors: []
+year: 2011
+venue: American Psychological Association eBooks
+doi: "10.1037/13091-001"
+tier: contemporary
+citation_count_approx: 258
+cross_seed_score: 2
+openalex_id: "W2503201262"
+significance: >
+  Published in American Psychological Association eBooks; addresses
+  environmental ethics, philosophy, epistemology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

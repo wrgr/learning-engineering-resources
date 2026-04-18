@@ -1,0 +1,22 @@
+resource_id: LE-AP-142
+content_type: AP
+source: curated
+title: "Visualizing Patterns of Student Engagement and Performance in MOOCs"
+authors:
+  - John Liu
+  - Lori Breslow
+  - Jonathan Rubin
+year: 2017
+venue: "Proceedings of the 7th International Learning Analytics and Knowledge Conference"
+pages: "241-250"
+tier: contemporary
+citation_count_approx: 150
+significance: >
+  Applied learning analytics to characterize how different student engagement patterns in MIT
+  MOOCs relate to performance outcomes, using clickstream and video-interaction data at scale.
+  Demonstrates the MIT LEAP approach of combining systems engineering methods with educational
+  data mining to inform evidence-based redesign of large-enrollment digital courses.
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T10

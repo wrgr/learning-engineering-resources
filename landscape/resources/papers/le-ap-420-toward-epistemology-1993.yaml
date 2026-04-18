@@ -1,0 +1,18 @@
+resource_id: LE-AP-420
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Toward an epistemology of physics"
+authors: []
+year: 1993
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 1276
+cross_seed_score: 2
+openalex_id: "W2023330715"
+significance: >
+  Published in Unknown Venue; addresses epistemology, mathematics education,
+  science education. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

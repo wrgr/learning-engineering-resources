@@ -1,0 +1,19 @@
+resource_id: LE-AP-678
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Conservatism"
+authors: []
+year: 1997
+venue: Princeton University Press eBooks
+doi: "10.1515/9780691213118"
+tier: contemporary
+citation_count_approx: 150
+cross_seed_score: 2
+openalex_id: "W4238884957"
+significance: >
+  Published in Princeton University Press eBooks; addresses conservatism,
+  psychology, political science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

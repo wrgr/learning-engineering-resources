@@ -1,0 +1,21 @@
+resource_id: LE-AP-064
+content_type: AP
+source: curated
+title: "Equity and Artificial Intelligence in Education: Will 'AIEd' Amplify or Alleviate Inequities in Education?"
+authors:
+  - Kenneth Holstein
+  - Shivang Gupta
+year: 2021
+venue: "Proceedings of the 2021 AAAI Workshop on AI for Education"
+tier: contemporary
+citation_count_approx: 145
+significance: >
+  Critically examined the equity implications of AI in education, analyzing how AI
+  systems can perpetuate or amplify existing disparities through biased training data,
+  proxy measures, and inequitable deployment contexts. Provides an equity-centered
+  framework for LE practitioners evaluating AI-mediated learning systems, directly
+  relevant to responsible LE system design and evaluation (LEBOK KA12).
+primary_topic: T09
+secondary_topics:
+  - T16
+  - T10

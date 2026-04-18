@@ -1,0 +1,25 @@
+resource_id: LE-AP-079
+content_type: AP
+source: curated
+title: "Rethinking Transfer: A Simple Proposal with Multiple Implications"
+authors:
+  - Daniel L. Schwartz
+  - John D. Bransford
+  - David Sears
+year: 2005
+venue: "Review of Research in Education"
+volume: "29"
+pages: "219–232"
+doi: "10.3102/0091732X029001219"
+tier: highly_cited
+citation_count_approx: 1300
+significance: >
+  Proposed a two-dimensional framework for assessing transfer — efficiency on routine
+  tasks versus preparation for future learning (PFL) — challenging single-metric
+  evaluation. Argued that standard transfer tests miss the crucial outcome of being
+  ready to learn new material efficiently. Directly influenced LE evaluation design
+  and the concept of "transfer-appropriate processing" in LE system assessments.
+primary_topic: T01
+secondary_topics:
+  - T10
+  - T12

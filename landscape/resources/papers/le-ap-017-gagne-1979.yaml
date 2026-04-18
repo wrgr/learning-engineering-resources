@@ -1,0 +1,22 @@
+resource_id: LE-AP-017
+content_type: AP
+source: curated
+title: Principles of Instructional Design
+authors:
+  - Robert M. Gagné
+  - Leslie J. Briggs
+year: 1979
+venue: "Holt, Rinehart and Winston"
+edition: 2nd ed.
+tier: foundational
+citation_count_approx: 8500
+significance: >
+  The foundational text systematizing instructional design as an engineering discipline.
+  Gagné's nine events of instruction and taxonomy of learning outcomes remain standard
+  scaffolding for LE system design. Established the principle that instructional sequences
+  must be derived from analysis of the target learning outcomes, not from subject-matter
+  structure alone.
+primary_topic: T02
+secondary_topics:
+  - T12
+  - T03

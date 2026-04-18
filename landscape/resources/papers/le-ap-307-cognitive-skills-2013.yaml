@@ -1,0 +1,19 @@
+resource_id: LE-AP-307
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Cognitive Skills and Their Acquisition"
+authors: []
+year: 2013
+venue: Psychology Press eBooks
+doi: "10.4324/9780203728178"
+tier: highly_cited
+citation_count_approx: 2937
+cross_seed_score: 2
+openalex_id: "W1492518088"
+significance: >
+  Published in Psychology Press eBooks; addresses cognition, psychology,
+  computer science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

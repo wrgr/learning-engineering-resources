@@ -1,0 +1,21 @@
+resource_id: LE-AP-044
+content_type: AP
+source: curated
+title: "e-Learning by Design"
+authors:
+  - William Horton
+year: 2011
+venue: "Pfeiffer / Wiley"
+tier: highly_cited
+citation_count_approx: 2800
+significance: >
+  Comprehensive practitioner guide synthesizing learning theories and instructional
+  design principles into concrete patterns for digital learning design: absorb, do,
+  and connect activity types; assessment design; multimedia integration; and social
+  learning structures. One of the most widely used references for e-learning
+  practitioners, directly relevant to LE KA5 (Instructional Strategy Design) and
+  KA6 (Learning Experience Design) curriculum and professional development.
+primary_topic: T15
+secondary_topics:
+  - T12
+  - T06

@@ -1,0 +1,18 @@
+resource_id: LE-AP-782
+content_type: AP
+source: book_endnotes
+status: seed
+title: "“Principles of Anti-Discriminatory Design"
+authors: []
+year: 2016
+venue: Proceedings of the 2016 IEEE International Symposium on Ethics in Engineering
+doi: "10.1109/ethics.2016.7560055"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Wittkower, Dylan E. “Principles of Anti-Discriminatory Design.” In Proceedings
+  of the 2016 IEEE International Symposium ...
+primary_topic: T01

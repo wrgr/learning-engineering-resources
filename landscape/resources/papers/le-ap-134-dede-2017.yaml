@@ -1,0 +1,23 @@
+resource_id: LE-AP-134
+content_type: AP
+source: curated
+title: "Introduction: Virtual, Augmented, and Mixed Realities in Education"
+authors:
+  - Chris Dede
+  - John Jacobson
+  - Joan Richards
+year: 2017
+venue: "Virtual, Augmented, and Mixed Realities in Education"
+pages: "1-17"
+doi: "10.1007/978-981-10-5490-7_1"
+tier: contemporary
+citation_count_approx: 420
+significance: >
+  Synthesized the state of the field for VR/AR/MR in education, distinguishing immersion
+  levels and learning affordances, and identifying design principles for effective deployment.
+  Provides LE practitioners with a taxonomy and evidence base for choosing among XR modalities
+  based on learning goals and constraints.
+primary_topic: T08
+secondary_topics:
+  - T12
+  - T16

@@ -1,0 +1,31 @@
+resource_id: LE-AP-075
+content_type: AP
+source: curated
+title: "Facilitating the Learning of Design Practices: Lessons Learned from an Inquiry into Science Education"
+authors:
+  - Janet L. Kolodner
+  - Paul J. Camp
+  - David Crismond
+  - Barbara Fasse
+  - Jackie Gray
+  - Jennifer Holbrook
+  - Sadhana Puntambekar
+  - Mike Ryan
+year: 2003
+venue: Journal of the Learning Sciences
+volume: "12"
+issue: "4"
+pages: "459–492"
+doi: "10.1207/S15327809JLS1204_1"
+tier: highly_cited
+citation_count_approx: 750
+significance: >
+  Reported outcomes and design principles from Learning by Design (LBD), a
+  project-based science curriculum that uses design challenges to motivate inquiry
+  and content learning. Demonstrated that design-challenge framing improves science
+  content knowledge and design process skills. Foundational for LE systems using
+  challenge-based learning and project-based approaches.
+primary_topic: T03
+secondary_topics:
+  - T12
+  - T01

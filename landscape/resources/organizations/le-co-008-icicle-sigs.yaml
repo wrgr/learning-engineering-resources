@@ -1,0 +1,25 @@
+resource_id: LE-CO-008
+content_type: CO
+source: curated
+status: APPROVED
+name: "IEEE ICICLE SIGs & MIGs"
+type: consortium
+affiliation_or_venue: "IEEE ICICLE"
+url: "https://sagroups.ieee.org/icicle/sigs/"
+primary_topic: T16
+secondary_topics:
+  - T00
+  - T15
+description: >
+  Official listing of IEEE ICICLE Special Interest Groups (SIGs) and Market
+  Interest Groups (MIGs), including chairs, meeting cadence, and subscription
+  information. Active groups span: Competencies/Credentials/Curriculum SIG,
+  Design for Learning SIG, Tools SIG, Higher Education MIG, Government/Military
+  MIG, pK-12 MIG, Workforce MIG, and Globalisation/Localisation SIG.
+
+  Open participation — the primary roster of active community leaders in
+  learning engineering practice. SIGs and MIGs are the working layer where
+  ICICLE standards, frameworks, and white papers are actually drafted; joining
+  a SIG is the most direct path to participating in the field's institutional
+  development.
+notes: "Open participation; primary community organizing layer for LE standards and practice work."

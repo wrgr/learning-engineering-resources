@@ -1,0 +1,23 @@
+resource_id: LE-AP-095
+content_type: AP
+source: curated
+title: "Technology Support for Discussion Based Learning: From Computer Supported Collaborative Learning to the Future of Massive Open Online Courses"
+authors:
+  - Carolyn Penstein Rosé
+  - Oliver Ferschke
+year: 2016
+venue: International Journal of AI in Education
+volume: "26"
+issue: "2"
+pages: "660-678"
+doi: "10.1007/s40593-016-0107-y"
+tier: contemporary
+citation_count_approx: 220
+significance: >
+  Traced the evolution from CSCL tools to MOOC discussion platforms, identifying how AI can
+  scale formative support for collaborative discourse. Provides LE practitioners with a
+  design framework for AI-facilitated discussion in large-scale online learning environments.
+primary_topic: T07
+secondary_topics:
+  - T09
+  - T06

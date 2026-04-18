@@ -1,0 +1,146 @@
+[
+  {
+    "resource_id": "LE-CE-001",
+    "content_type": "CE",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "International Conference on Intelligent Tutoring Systems (ITS)",
+    "type": "conference",
+    "affiliation_or_venue": "IIS / Springer LNCS",
+    "frequency": "Biennial",
+    "url": "https://iis-international.org/its/",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T04",
+      "T07"
+    ],
+    "description": "The oldest dedicated ITS/LE conference, founded 1988 in Montreal. Biennial; proceedings published by Springer LNCS. Premier venue for cognitive models, student modeling, adaptive instruction, and feedback algorithm research. ITS and AIED now alternate years, making one or the other the annual flagship AI-in-education conference.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-CE-002",
+    "content_type": "CE",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "International Conference on Learning Analytics and Knowledge (LAK)",
+    "type": "conference",
+    "affiliation_or_venue": "SoLAR",
+    "frequency": "Annual",
+    "url": "https://www.solaresearch.org/events/lak/",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T14",
+      "T17"
+    ],
+    "description": "Practice-oriented learning analytics, ethical deployment, dashboard design, predictive modeling, algorithmic fairness. Community-building for the SoLAR network. Emphasizes socio-technical context of analytics; complements EDM's algorithmic focus.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-CE-003",
+    "content_type": "CE",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "International Conference on Educational Data Mining (EDM)",
+    "type": "conference",
+    "affiliation_or_venue": "IEDMS",
+    "frequency": "Annual",
+    "url": "https://educationaldatamining.org/conferences/",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T06",
+      "T17"
+    ],
+    "description": "Algorithmic and computational approaches to educational data: knowledge tracing, early warning systems, automated feature engineering, student behavior modeling. One of three major computational LE conference series (with LAK and AIED).\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-CE-004",
+    "content_type": "CE",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "International Conference on Artificial Intelligence in Education (AIED)",
+    "type": "conference",
+    "affiliation_or_venue": "IAIED",
+    "frequency": "Annual",
+    "url": "https://aied.org",
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T04"
+    ],
+    "description": "AI-driven educational systems: generative AI tutors, NLP for learning, deep knowledge tracing, conversational agents, human-AI interaction in education. Largest first-authorship from China — highlights globally distributed LE research ecosystem.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-CE-005",
+    "content_type": "CE",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "International Society of the Learning Sciences Annual Meeting (ISLS/ICLS)",
+    "type": "conference",
+    "affiliation_or_venue": "ISLS",
+    "frequency": "Annual",
+    "url": "https://www.isls.org/",
+    "primary_topic": "T17",
+    "secondary_topics": [
+      "T01",
+      "T03"
+    ],
+    "description": "Design-based research, socio-cultural learning theory, collaborative learning, epistemology of learning environments. Balances computational rigor with qualitative and humanistic perspectives. Provides the socio-cultural counterbalance to EDM/LAK's algorithmic orientation.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-CE-006",
+    "content_type": "CE",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Learning @ Scale (L@S)",
+    "type": "conference",
+    "affiliation_or_venue": "ACM",
+    "frequency": "Annual",
+    "url": "https://learningatscale.acm.org/",
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T09",
+      "T07"
+    ],
+    "description": "Technical and pedagogical research on large-scale digital learning: MOOCs, online education platforms, at-scale experimentation, A/B testing in learning contexts. ACM-sponsored; focuses on the intersection of scale and learning quality. Home of 'doer effect' and A/B experimentation papers.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-CE-007",
+    "content_type": "CE",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "IEEE ICICLE Annual Meeting",
+    "type": "conference",
+    "affiliation_or_venue": "IEEE ICICLE",
+    "frequency": "Annual",
+    "url": "https://sagroups.ieee.org/icicle/",
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T16",
+      "T15"
+    ],
+    "description": "Annual community gathering for the IEEE learning engineering community. Standards, BoK, and credentialing discussions. Field-defining community event for LE professionals.\n",
+    "notes": ""
+  },
+  {
+    "resource_id": "LE-CE-008",
+    "content_type": "CE",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "ACM CHI Conference on Human Factors in Computing Systems",
+    "type": "conference",
+    "affiliation_or_venue": "ACM SIGCHI",
+    "frequency": "Annual",
+    "url": "https://chi.acm.org/",
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T02",
+      "T09"
+    ],
+    "description": "Premier venue for human-computer interaction research. Increasingly hosts learning engineering research at the intersection of AI, educational technology, and human-centered design — including significant work on AI-augmented teachers, fairness in educational AI, and learning dashboard design.\n",
+    "notes": ""
+  }
+]

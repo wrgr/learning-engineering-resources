@@ -1,0 +1,22 @@
+resource_id: LE-AP-112
+content_type: AP
+source: curated
+title: "Apprentice Learner Architecture: Closing the Loop Between Learning Theory and Educational Data"
+authors:
+  - Christopher J. MacLellan
+  - Ran Liu
+  - Kenneth R. Koedinger
+year: 2016
+venue: Proceedings of the 9th International Conference on Educational Data Mining
+pages: "151-158"
+tier: contemporary
+citation_count_approx: 115
+significance: >
+  Introduced the Apprentice Learner Architecture, a framework for using cognitive learning
+  models as generative student simulators to test and refine ITS instructional policies
+  offline. Advances LE research methodology by enabling simulation-based evaluation of
+  adaptive learning algorithms before costly classroom deployment.
+primary_topic: T09
+secondary_topics:
+  - T04
+  - T06

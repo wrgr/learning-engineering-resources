@@ -1,0 +1,29 @@
+resource_id: LE-PP-066
+content_type: PP
+source: curated
+status: APPROVED
+name: Emily Marasco
+affiliation: "University of Calgary; IEEE ICICLE — Higher Education MIG"
+years: "active 2010s–present"
+era: contemporary
+role: Engineering education researcher; ICICLE Higher Education MIG co-chair
+description: >
+  Co-chair of the Higher Education MIG within IEEE ICICLE, applying LE methods to
+  university teaching and curriculum design. University of Calgary researcher bridging
+  engineering education pedagogy with learning engineering practice.
+key_contributions:
+  - Co-chairs the Higher Education MIG (ICICLE), adapting LE principles for post-secondary teaching contexts
+  - Conducts research on technology-enhanced learning in higher education engineering programs at U Calgary
+  - Bridges engineering education pedagogy and LE practice within the ICICLE community
+  - Contributes frameworks for LE implementation in research-intensive university settings
+key_works:
+  - "ICICLE Body of Knowledge — Higher Education MIG contributions"
+  - "Engineering education technology-enhanced learning research (University of Calgary)"
+  - "LE-AP-790 — Flipping the Foundation: Flipped Classroom Study (ASEE, 2017)"
+  - "LE-AP-791 — Collaborative Autoethnographic Study of Flipped Classroom (ASEE, 2019)"
+primary_topic: T10
+secondary_topics:
+  - T02
+  - T16
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Higher Education MIG. Engineering education researcher.

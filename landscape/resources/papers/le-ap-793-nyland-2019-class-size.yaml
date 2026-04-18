@@ -1,0 +1,28 @@
+resource_id: LE-AP-793
+content_type: AP
+source: curated
+title: "Does Class Size Matter? An Exploration into Faculty Perceptions of Teaching High-Enrollment Online Courses"
+authors:
+  - Rob Nyland
+  - Patrick R. Lowenthal
+  - Eunbae Jung
+  - Joanna C. Dunlap
+  - Jered Kepka
+year: 2019
+venue: "American Journal of Distance Education"
+volume: "33"
+issue: "3"
+pages: "152-168"
+doi: "10.1080/08923647.2019.1610262"
+tier: contemporary
+citation_count_approx: 42
+significance: >
+  Qualitative study of faculty perceptions of teaching large online courses,
+  identifying key challenges around personalization, feedback, and learning
+  quality at scale. Informs LE system design for high-enrollment online contexts
+  where automated and adaptive tools must compensate for reduced instructor
+  bandwidth.
+primary_topic: T14
+secondary_topics:
+  - T09
+  - T07

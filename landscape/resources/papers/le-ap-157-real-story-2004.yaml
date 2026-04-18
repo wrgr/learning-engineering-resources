@@ -1,0 +1,19 @@
+resource_id: LE-AP-157
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Real Story Behind Story Problems: Effects of Representations on Quantitative Reasoning"
+authors: []
+year: 2004
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1302_1"
+tier: contemporary
+citation_count_approx: 425
+cross_seed_score: 5
+openalex_id: "W1993868776"
+significance: >
+  Published in Journal of the Learning Sciences; addresses situated,
+  representation (politics), affect (linguistics). Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

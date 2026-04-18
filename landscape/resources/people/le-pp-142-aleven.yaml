@@ -1,0 +1,31 @@
+resource_id: LE-PP-142
+content_type: PP
+source: curated
+status: APPROVED
+name: Vincent Aleven
+affiliation: "Carnegie Mellon University, HCII"
+years: "1965–present"
+era: contemporary
+role: ITS researcher; pioneer of example-tracing tutors and help-seeking scaffolding
+description: >
+  CMU HCII researcher who developed Example-Tracing Tutors — a new ITS paradigm requiring
+  no cognitive model, built by demonstrating solution paths. Led research on the assistance
+  dilemma (when to give vs. withhold help) and metacognitive scaffolding in ITS. Co-developed
+  deployed math tutors including Lynnette.
+key_contributions:
+  - Developed Example-Tracing Tutors — a new ITS paradigm requiring no cognitive model, built by demonstrating solution paths
+  - Led research on the assistance dilemma: when to give vs. withhold help to maximize learning
+  - Demonstrated metacognitive scaffolding in ITS can improve help-seeking behavior, not just domain knowledge
+  - Co-developed Lynnette and other deployed math tutors at CMU HCII
+  - Extended Cognitive Tutor methodology to collaborative and peer-learning contexts
+key_works:
+  - "An effective metacognitive strategy: learning by doing and explaining with a Cognitive Tutor (Cognitive Science, 2002)"
+  - "Exploring the assistance dilemma in experiments with Cognitive Tutors (Educ Psychology Review, 2007)"
+  - "A new paradigm for intelligent tutoring systems: Example-Tracing Tutors (IJAIED, 2009)"
+primary_topic: T06
+secondary_topics:
+  - T03
+  - T01
+  - T09
+url: https://www.hcii.cmu.edu/people/vincent-aleven
+notes: Example-Tracing Tutors. Assistance dilemma research.

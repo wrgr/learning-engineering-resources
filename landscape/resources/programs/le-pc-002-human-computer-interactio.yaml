@@ -1,0 +1,13 @@
+resource_id: LE-PC-002
+content_type: PC
+source: registry_migration
+status: APPROVED
+name: "Human-Computer Interaction Institute — CMU"
+url: "https://hcii.cmu.edu"
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T03
+description: >
+  Home of Ken Koedinger and Cognitive Tutor / LearnLab. One of the premier
+  academic homes for LE research globally. PhD and MS programs.

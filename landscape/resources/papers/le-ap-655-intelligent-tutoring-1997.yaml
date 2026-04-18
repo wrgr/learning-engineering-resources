@@ -1,0 +1,21 @@
+resource_id: LE-AP-655
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Intelligent Tutoring Systems"
+authors: []
+year: 1997
+venue: Elsevier eBooks
+doi: "10.1016/b978-044481862-1.50103-5"
+tier: contemporary
+citation_count_approx: 148
+cross_seed_score: 2
+openalex_id: "W3021942713"
+significance: >
+  Published in Elsevier eBooks; addresses tutor, computer science, field
+  (mathematics). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T01

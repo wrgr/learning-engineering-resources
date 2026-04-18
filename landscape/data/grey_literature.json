@@ -1,149 +1,527 @@
 [
   {
-    "resource_id": "LE-LS-GL-001",
+    "resource_id": "LE-GL-001",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "The Job of a College President",
-    "authors": ["Herbert A. Simon"],
+    "authors": [
+      "Herbert A. Simon"
+    ],
     "year": 1967,
     "publisher": "Educational Record (American Council on Education)",
-    "volume": "48",
-    "issue": "1",
-    "pages": "68–78",
     "url": "http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33692",
     "type": "essay",
-    "significance": "The founding document of learning engineering. Simon coined the term 'learning engineer' and made the case that teaching effectiveness is a distinct, learnable expertise grounded in cognitive science — not a byproduct of subject-matter expertise. The philosophical foundation for everything that followed.",
     "primary_topic": "T00",
-    "secondary_topics": ["T03", "T12"]
+    "secondary_topics": [
+      "T03",
+      "T12"
+    ],
+    "significance": "The founding document of learning engineering. Simon coined the term 'learning engineer' and argued that teaching effectiveness is a domain of expertise distinct from subject-matter knowledge, requiring its own scientific foundation in cognitive science. The philosophical and historical origin of everything in the field.\n"
   },
   {
-    "resource_id": "LE-LS-GL-002",
+    "resource_id": "LE-GL-002",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "Online Education: A Catalyst for Higher Education Reforms",
-    "authors": ["Karen Willcox", "Sanjay Sarma", "Philip Lippel"],
+    "authors": [
+      "Karen Willcox",
+      "Sanjay Sarma",
+      "Philip Lippel"
+    ],
     "year": 2016,
-    "publisher": "MIT Online Education Policy Initiative (MIT OEPI)",
+    "publisher": "MIT Online Education Policy Initiative (OEPI)",
     "url": "https://oepi.mit.edu/files/2016/09/MIT-Online-Education-Policy-Initiative-September-2016.pdf",
     "type": "report",
-    "significance": "Re-injected 'learning engineer' into higher education discourse at the moment MOOCs reached 58M+ global students. Recommended universities create dedicated learning engineering roles. Catalyzed institutional adoption of LE language and practices across US higher education. Widely cited as the document that triggered the modern LE movement.",
     "primary_topic": "T00",
-    "secondary_topics": ["T11", "T03"]
+    "secondary_topics": [
+      "T11",
+      "T03"
+    ],
+    "significance": "Re-introduced 'learning engineer' to higher education discourse at the moment MOOCs reached 58M+ global students. Recommended universities create dedicated learning engineering roles. Widely cited as the document that triggered the modern LE movement in higher education institutions.\n"
   },
   {
-    "resource_id": "LE-LS-GL-003",
+    "resource_id": "LE-GL-003",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "High-Leverage Opportunities for Learning Engineering",
-    "authors": ["Ryan S. Baker", "Ulrich Boser", "Allison Shelley"],
+    "authors": [
+      "Ryan S. Baker",
+      "Ulrich Boser",
+      "Allison Shelley"
+    ],
     "year": 2021,
     "publisher": "University of Pennsylvania Center for Learning Analytics",
     "url": "https://repository.upenn.edu/handle/20.500.14332/6388",
     "type": "report",
-    "significance": "Synthesized a 2020 convening of 100+ academics, policymakers, and practitioners to define ten strategic priorities for the field in three domains: Better LE Infrastructure (shared R&D architectures, A/B testing at scale, reusable algorithmic components), Supporting Human Processes (teacher dashboards, predictive advising), and Better Learning Technologies (algorithmic equity, complex-skills measurement). The field's most comprehensive contemporary roadmap.",
     "primary_topic": "T00",
-    "secondary_topics": ["T04", "T14", "T07"]
+    "secondary_topics": [
+      "T09",
+      "T14"
+    ],
+    "significance": "Synthesized a 2020 convening of 100+ academics, policymakers, and practitioners to define ten strategic priorities in three domains: Better LE Infrastructure, Supporting Human Processes, and Better Learning Technologies. The field's most comprehensive contemporary roadmap and primary policy document framing LE's current agenda.\n"
   },
   {
-    "resource_id": "LE-LS-GL-004",
+    "resource_id": "LE-GL-004",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations",
-    "authors": ["U.S. Department of Education, Office of Educational Technology"],
+    "authors": [
+      "U.S. Department of Education, Office of Educational Technology"
+    ],
     "year": 2023,
     "publisher": "U.S. Department of Education",
     "url": "https://www2.ed.gov/documents/ai-report/ai-report.pdf",
     "type": "policy",
-    "significance": "First major federal policy document addressing AI in education with explicit civil-rights framing. Documented algorithmic bias in e-proctoring systems (facial recognition failures for darker-skinned, transgender, and neurodivergent students). Mandated algorithmic fairness and data representation requirements that now set the ethical floor for learning engineering practice.",
     "primary_topic": "T14",
-    "secondary_topics": ["T07", "T04"]
+    "secondary_topics": [
+      "T07",
+      "T09"
+    ],
+    "significance": "First major federal policy document addressing AI in education with explicit civil-rights framing. Documented algorithmic bias in e-proctoring systems and mandated algorithmic fairness and data representation requirements. Sets the ethical and legal floor for LE practice in the US.\n"
   },
   {
-    "resource_id": "LE-LS-GL-005",
+    "resource_id": "LE-GL-005",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "EDUCAUSE Horizon Report: Teaching and Learning Edition",
-    "authors": ["EDUCAUSE"],
+    "authors": [
+      "EDUCAUSE"
+    ],
     "year": 2017,
     "publisher": "EDUCAUSE",
     "url": "https://library.educause.edu/resources/2017/2/2017-horizon-report",
     "type": "report",
-    "series_note": "Annual series 2017–present. The 2017–2019 editions forecast AI, adaptive learning, and modularized degrees; 2020–2024 editions track realization of those forecasts and add algorithmic ethics, data privacy, and AI equity themes. EDUCAUSE explicitly cites the Simon Initiative as a model for LE ecosystems.",
-    "significance": "The annual predictive literature for edtech adoption across global higher education. Tracks short-, mid-, and long-term adoption horizons. Documents the gradual mainstreaming of LE concepts (analytics, adaptive systems, AI tutors) from forecast to widespread adoption across the 2017–2024 arc.",
     "primary_topic": "T00",
-    "secondary_topics": ["T07", "T04", "T11"]
+    "secondary_topics": [
+      "T07",
+      "T11"
+    ],
+    "significance": "The annual predictive literature for edtech adoption across global higher education. Tracks short-, mid-, and long-term adoption horizons. Documents the gradual mainstreaming of LE concepts (analytics, adaptive systems, AI tutors) from forecast to widespread adoption across the 2017–2024 arc.\n",
+    "notes": "Annual series 2017–present"
   },
   {
-    "resource_id": "LE-LS-GL-006",
+    "resource_id": "LE-GL-006",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "NMC Horizon Report: 2017 Higher Education Edition",
-    "authors": ["Samantha Adams Becker", "Malcolm Cummins", "Annie Davis", "Alex Freeman", "Caroline Hall Giesinger", "Venkatesh Ananthanarayanan"],
+    "authors": [
+      "Samantha Adams Becker",
+      "Malcolm Cummins",
+      "Annie Davis",
+      "Alex Freeman",
+      "Caroline Hall Giesinger",
+      "Venkatesh Ananthanarayanan"
+    ],
     "year": 2017,
     "publisher": "The New Media Consortium / EDUCAUSE",
     "url": "https://library.educause.edu/resources/2017/2/2017-horizon-report",
     "type": "report",
-    "significance": "Identified adaptive learning technologies and data-driven personalization as short-term adoption trends in higher education. Forecast the long-term restructuring of degrees around competency measurement. Part of the annual Horizon series that documented the field's gradual integration into mainstream institutional practice.",
     "primary_topic": "T00",
-    "secondary_topics": ["T06", "T11"]
+    "secondary_topics": [
+      "T06",
+      "T11"
+    ],
+    "significance": "Identified adaptive learning technologies and data-driven personalization as short-term adoption trends in higher education. Forecast the long-term restructuring of degrees around competency measurement. Part of the annual Horizon series that documented LE's gradual integration into mainstream institutional practice.\n"
   },
   {
-    "resource_id": "LE-LS-GL-007",
+    "resource_id": "LE-GL-007",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, and Beyond",
-    "authors": ["Jim Goodell", "Janet Kolodner"],
+    "authors": [
+      "Jim Goodell",
+      "Janet Kolodner"
+    ],
     "year": 2023,
     "publisher": "Taylor & Francis / Routledge",
     "url": "https://www.routledge.com/Learning-Engineering-Toolkit-Evidence-Based-Practices-from-the-Learning/Goodell-Kolodner/p/book/9781032205007",
     "type": "book",
-    "significance": "The field's primary practitioner handbook. Frames LE as a verb — an iterative, evidence-based problem-solving process — not a technology set or a job title. Covers lean-agile methods, HCI design, data instrumentation, motivation modeling, and predictive analytics. Explicitly technology-agnostic: the principles apply equally to AI-driven software and low-tech interventions.",
     "primary_topic": "T03",
-    "secondary_topics": ["T00", "T04", "T12"]
+    "secondary_topics": [
+      "T00",
+      "T04"
+    ],
+    "significance": "The field's primary practitioner handbook. Frames LE as a verb — an iterative, evidence-based problem-solving process — not a technology set or a job title. Covers lean-agile methods, HCI design, data instrumentation, motivation modeling, and predictive analytics. Technology-agnostic: principles apply equally to AI-driven software and low-tech interventions.\n"
   },
   {
-    "resource_id": "LE-LS-GL-008",
+    "resource_id": "LE-GL-008",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "Learning Engineering for Online Education: Theoretical Contexts and Design-Based Examples",
-    "authors": ["Chris Dede", "John Richards", "Bror Saxberg"],
+    "authors": [
+      "Chris Dede",
+      "John Richards",
+      "Bror Saxberg"
+    ],
     "year": 2019,
     "publisher": "Routledge",
     "url": "https://www.routledge.com/Learning-Engineering-for-Online-Education-Theoretical-Contexts-and-Design-Based/Dede-Richards-Saxberg/p/book/9780815394426",
     "type": "book",
-    "significance": "First book-length treatment of learning engineering applied to digital and distributed contexts. Saxberg's formulation — LE as applying learning science at 'massive, affordable, data-rich scale' — became widely adopted. Documents how online architectures enable continuous telemetry that peer-reviewed journals document years later.",
     "primary_topic": "T00",
-    "secondary_topics": ["T03", "T11", "T04"]
+    "secondary_topics": [
+      "T03",
+      "T11"
+    ],
+    "significance": "First book-length treatment of learning engineering applied to digital and distributed contexts. Saxberg's formulation — LE as applying learning science at 'massive, affordable, data-rich scale' — became widely adopted. Documents how online architectures enable continuous telemetry that peer-reviewed journals document years later.\n"
   },
   {
-    "resource_id": "LE-LS-GL-009",
+    "resource_id": "LE-GL-009",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "Learning Engineering Adoption Maturity Model (LEAMM)",
-    "authors": ["Shawn Blake-Plock", "Scotty D. Craig", "Emily Czerwinski", "Jim Goodell", "Jason Lis", "Katherine McEldoon", "Kristopher Owens", "Julian Stodd", "Steven Schatz"],
+    "authors": [
+      "Shawn Blake-Plock",
+      "Scotty D. Craig",
+      "Emily Czerwinski",
+      "Jim Goodell",
+      "Jason Lis",
+      "Katherine McEldoon",
+      "Kristopher Owens",
+      "Julian Stodd",
+      "Steven Schatz"
+    ],
     "year": 2025,
     "publisher": "IEEE ICICLE",
     "url": "https://icicle.ieee.org",
     "type": "framework",
-    "significance": "Organizational capability matrix allowing enterprises to measure fidelity of their LE adoption across human-centered design, learning science integration, and data-driven iteration dimensions. Provides a structured pathway from ad-hoc instructional design to mature learning engineering practice. The field's primary organizational self-assessment tool.",
     "primary_topic": "T16",
-    "secondary_topics": ["T03", "T15"]
+    "secondary_topics": [
+      "T03",
+      "T15"
+    ],
+    "significance": "Organizational capability matrix allowing enterprises to assess and advance their LE practice across human-centered design, learning science integration, and data-driven iteration dimensions. Provides a structured pathway from ad-hoc instructional design toward mature learning engineering practice. The field's primary organizational self-assessment tool.\n"
   },
   {
-    "resource_id": "LE-LS-GL-010",
+    "resource_id": "LE-GL-010",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "OpenSimon Toolkit",
-    "authors": ["Carnegie Mellon University, The Simon Initiative"],
+    "authors": [
+      "Carnegie Mellon University, The Simon Initiative"
+    ],
     "year": 2015,
     "publisher": "Carnegie Mellon University",
     "url": "https://www.cmu.edu/simon/open-simon/",
     "type": "toolkit",
-    "significance": "A hybrid of grey literature, open-source software repository, and methodological guide comprising: DataShop (educational data repository), LearnSphere (world's largest open learning analytics infrastructure), CTAT (cognitive tutor authoring tools), OLI (Open Learning Initiative courseware), DiscourseDB, LightSide, Bazaar, Mathtutor, ChemCollective, and Echo. The flagship open infrastructure for learning engineering research globally.",
-    "primary_topic": "T04",
-    "secondary_topics": ["T06", "T11", "T17"]
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T06",
+      "T11"
+    ],
+    "significance": "Flagship open infrastructure for LE research globally. Comprises DataShop, LearnSphere, CTAT, OLI, DiscourseDB, LightSide, Bazaar, Mathtutor, ChemCollective, and Echo. Enables researchers worldwide to build, test, and study LE systems without proprietary infrastructure.\n"
   },
   {
-    "resource_id": "LE-LS-GL-011",
+    "resource_id": "LE-GL-011",
     "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
     "title": "7 Things You Should Know About Learning Engineering",
-    "authors": ["EDUCAUSE Learning Initiative"],
+    "authors": [
+      "EDUCAUSE Learning Initiative"
+    ],
     "year": 2018,
     "publisher": "EDUCAUSE",
     "url": "https://library.educause.edu/resources/2018/4/7-things-you-should-know-about-learning-engineering",
     "type": "brief",
-    "significance": "Widely circulated practitioner-oriented brief that introduced LE to a broad institutional technology audience. Part of the canonical EDUCAUSE '7 Things' series consumed by CIOs, provosts, and instructional technology directors. Accelerated LE vocabulary adoption in non-research higher education contexts.",
     "primary_topic": "T00",
-    "secondary_topics": ["T03"]
+    "secondary_topics": [
+      "T03"
+    ],
+    "significance": "Widely circulated practitioner-oriented brief in the canonical EDUCAUSE '7 Things' series, introduced LE to a broad institutional technology audience including CIOs, provosts, and instructional technology directors. Accelerated LE vocabulary adoption in non-research higher education contexts.\n"
+  },
+  {
+    "resource_id": "LE-GL-012",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "Learning Engineering (IEEE Press)",
+    "authors": [
+      "Jim Goodell",
+      "Janet Kolodner"
+    ],
+    "year": 2022,
+    "publisher": "IEEE Press / Wiley",
+    "url": "",
+    "type": "book",
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T01",
+      "T03"
+    ],
+    "significance": "The canonical textbook of the learning engineering field. Two-part structure covering LE foundations and practice. End notes are a primary seed source for corpus expansion — over 200 references spanning cognitive science, instructional design, analytics, and systems engineering. IEEE Press, 2022. Required reading for any LE practitioner or researcher.\n",
+    "notes": "PRIMARY seed document. Harvest all chapter end notes for corpus expansion."
+  },
+  {
+    "resource_id": "LE-GL-013",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "IEEE ICICLE Resources Page",
+    "authors": [
+      "IEEE ICICLE"
+    ],
+    "year": 2024,
+    "publisher": "IEEE ICICLE",
+    "url": "https://sagroups.ieee.org/icicle/resources/",
+    "type": "report",
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T16"
+    ],
+    "significance": "Curated resource list maintained by the IEEE ICICLE community. Includes papers, tools, programs, and community resources. The most authoritative practitioner-curated collection of LE resources, updated continuously as the field evolves.\n"
+  },
+  {
+    "resource_id": "LE-GL-014",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "How People Learn: Brain, Mind, Experience, and School (Expanded Edition)",
+    "authors": [
+      "National Academies of Sciences, Engineering, and Medicine"
+    ],
+    "year": 2000,
+    "publisher": "National Academy Press",
+    "url": "https://www.nap.edu/catalog/9853",
+    "type": "report",
+    "primary_topic": "T01",
+    "secondary_topics": [
+      "T03"
+    ],
+    "significance": "The National Academies synthesis of cognitive science, neuroscience, and educational research that established how people learn. Free online. Widely cited as the most authoritative accessible synthesis of learning science. Essential T01 foundation layer and often the starting point for practitioners new to learning engineering.\n"
+  },
+  {
+    "resource_id": "LE-GL-015",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "The Forgotten Role of the Learning Engineer",
+    "authors": [
+      "Bror Saxberg"
+    ],
+    "year": 2016,
+    "publisher": "The Atlantic",
+    "url": "",
+    "type": "essay",
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T15",
+      "T13"
+    ],
+    "significance": "Canonical entry-point essay calling for the learning engineering profession. Argued that education is the 'last great unapplied science' and that learning engineers — practitioners who apply learning science rigorously to educational products — are urgently needed at scale. Widely cited; often assigned as introductory reading for LE courses and programs.\n"
+  },
+  {
+    "resource_id": "LE-GL-016",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "ICICLE Body of Knowledge (BoK) — current draft",
+    "authors": [
+      "IEEE ICICLE"
+    ],
+    "year": 2024,
+    "publisher": "IEEE ICICLE",
+    "url": "https://sagroups.ieee.org/icicle/",
+    "type": "framework",
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T16",
+      "T15"
+    ],
+    "significance": "The field's emerging canonical definition document. Defines competency areas, vocabulary, and practice standards for learning engineering. Provides the official LEBOK framework that this corpus is organized to support. Version tracking required — update when new versions released.\n",
+    "notes": "BoK version tracking required."
+  },
+  {
+    "resource_id": "LE-GL-017",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "MIL-STD-1472H: Human Engineering Design Criteria for Military Systems",
+    "authors": [
+      "U.S. Department of Defense"
+    ],
+    "year": 2020,
+    "publisher": "U.S. Department of Defense",
+    "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=36903",
+    "type": "standard",
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T10"
+    ],
+    "significance": "DoD standard specifying human engineering design criteria for military systems, equipment, and facilities. The authoritative source for human factors requirements in defense training systems. Directly applicable to LE practitioners designing or procuring training systems in military and government contexts.\n"
+  },
+  {
+    "resource_id": "LE-GL-018",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "NASA Human Systems Integration Practitioner's Guide",
+    "authors": [
+      "NASA"
+    ],
+    "year": 2015,
+    "publisher": "NASA",
+    "url": "https://www.nasa.gov/",
+    "type": "report",
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T10",
+      "T08"
+    ],
+    "significance": "NASA's operational guide to implementing HSI across the systems engineering lifecycle. Demonstrates how human-centered analysis (task analysis, workload, error analysis) integrates with traditional SE milestones. Applicable to complex LE system development in high-consequence environments.\n"
+  },
+  {
+    "resource_id": "LE-GL-019",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "INCOSE Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities (4th ed.)",
+    "authors": [
+      "David Walden",
+      "Garry Roedler",
+      "Kevin Forsberg",
+      "R. Douglas Hamelin",
+      "Thomas Shortell"
+    ],
+    "year": 2015,
+    "publisher": "Wiley (INCOSE)",
+    "url": "https://www.incose.org/products-and-publications/se-handbook",
+    "type": "book",
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T03",
+      "T16"
+    ],
+    "significance": "The authoritative practitioner reference for systems engineering processes and lifecycle management. Provides the SE process framework (requirements, architecture, integration, verification, validation) that learning engineering adapts for learning system development. Essential for LE practitioners with systems engineering backgrounds.\n"
+  },
+  {
+    "resource_id": "LE-GL-020",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "DoD Instruction 1322.26: Development, Management, and Delivery of Distributed Learning",
+    "authors": [
+      "U.S. Department of Defense"
+    ],
+    "year": 2013,
+    "publisher": "U.S. Department of Defense",
+    "url": "https://www.esd.whs.mil/DD/Issuances/dodi/",
+    "type": "standard",
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T10",
+      "T16"
+    ],
+    "significance": "DoD policy governing the design, management, and delivery of distributed (technology-based) learning for military training. Mandates ADDIE-based instructional systems design, learning objective taxonomies, and evaluation standards. The governance framework for LE deployment across the largest single training system in the world.\n"
+  },
+  {
+    "resource_id": "LE-GL-021",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "State of the Industry Report",
+    "authors": [
+      "Association for Talent Development (ATD)"
+    ],
+    "year": 2023,
+    "publisher": "Association for Talent Development",
+    "url": "https://www.td.org/research-reports",
+    "type": "report",
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T11",
+      "T15"
+    ],
+    "significance": "Annual survey of corporate training investment, delivery modalities, and effectiveness measurement across hundreds of organizations. Provides LE practitioners with benchmarks for training hours, costs, technology adoption, and evaluation maturity. The most widely cited industry data on the state of organizational learning and development.\n",
+    "notes": "Annual series"
+  },
+  {
+    "resource_id": "LE-GL-022",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "AC 120-51E: Crew Resource Management Training",
+    "authors": [
+      "Federal Aviation Administration"
+    ],
+    "year": 2004,
+    "publisher": "FAA",
+    "url": "https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22879",
+    "type": "standard",
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T02",
+      "T16"
+    ],
+    "significance": "FAA advisory circular defining standards for Crew Resource Management (CRM) training programs. CRM training is one of the most rigorous evidence-based training programs ever deployed at scale — a landmark case study in applying learning science to high-stakes professional training. Directly relevant to LE practitioners in aviation, healthcare simulation, and safety-critical training domains.\n"
+  },
+  {
+    "resource_id": "LE-GL-023",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "What Works Clearinghouse Handbook (v5.0)",
+    "authors": [
+      "Institute of Education Sciences (IES), U.S. Department of Education"
+    ],
+    "year": 2022,
+    "publisher": "U.S. Department of Education / IES",
+    "url": "https://ies.ed.gov/ncee/wwc/handbooks",
+    "type": "framework",
+    "primary_topic": "T15",
+    "secondary_topics": [
+      "T10",
+      "T17"
+    ],
+    "significance": "The authoritative evidence standards framework for evaluating education research. Specifies the criteria an intervention study must meet to be considered high-quality evidence (randomized design, statistical power, attrition standards). Sets the evidentiary bar that LE evaluation must meet to influence policy and procurement decisions.\n"
+  },
+  {
+    "resource_id": "LE-GL-024",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "Human Systems Integration in the System Development Process: A New Look",
+    "authors": [
+      "National Research Council"
+    ],
+    "year": 2007,
+    "publisher": "National Academies Press",
+    "url": "https://doi.org/10.17226/11893",
+    "type": "report",
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T03",
+      "T16"
+    ],
+    "significance": "National Academies report synthesizing research on integrating human factors into the system development process. Provides the HSI framework (human factors engineering, manpower, personnel, training, safety) that LE borrows when treating learning as a human-system performance problem. Foundational for LE practitioners working in defense and complex system contexts.\n"
+  },
+  {
+    "resource_id": "LE-GL-025",
+    "content_type": "GL",
+    "source": "curated",
+    "status": "APPROVED",
+    "title": "Siemens Pathway to Learning Engineering",
+    "authors": [
+      "Siemens Digital Industries Software"
+    ],
+    "year": 2022,
+    "publisher": "Siemens Academic Programs",
+    "url": "https://www.siemens.com/us/en/company/academic/pathway-to-learning-engineering.html",
+    "type": "report",
+    "primary_topic": "T13",
+    "secondary_topics": [
+      "T08",
+      "T12"
+    ],
+    "significance": "Cloud-based, project-based STEM curriculum and educator professional development introducing engineering design and industry tools for secondary classrooms. Industry-sponsored LE pathway demonstrating how corporate partnerships can fund learning engineering curriculum at scale. Complements university LE pathways.\n"
   }
 ]

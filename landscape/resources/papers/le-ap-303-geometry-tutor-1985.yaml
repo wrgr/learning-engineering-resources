@@ -1,0 +1,18 @@
+resource_id: LE-AP-303
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The geometry tutor"
+authors: []
+year: 1985
+venue: International Joint Conference on Artificial Intelligence
+tier: contemporary
+citation_count_approx: 250
+cross_seed_score: 2
+openalex_id: "W1488133941"
+significance: >
+  Published in International Joint Conference on Artificial Intelligence;
+  addresses tutor, mathematical proof, interface (matter). Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T06

@@ -1,0 +1,18 @@
+resource_id: LE-AP-342
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Processes Involved in Designing Software."
+authors: []
+year: 1980
+venue: Defense Technical Information Center (DTIC)
+tier: contemporary
+citation_count_approx: 369
+cross_seed_score: 2
+openalex_id: "W1607666861"
+significance: >
+  Published in Defense Technical Information Center (DTIC); addresses computer
+  science, schema (genetic algorithms), software engineering. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T04

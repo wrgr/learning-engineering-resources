@@ -1,0 +1,15 @@
+resource_id: LE-PC-076
+content_type: PC
+source: registry_migration
+status: APPROVED
+name: "MIT Learning Engineering and Practice (LEAP) Group"
+url: "https://leapgroup.mit.edu/"
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T08
+  - T13
+description: >
+  Research group applying systems and design methods to STEM and workforce
+  learning; emphasizes AI, simulation, XR, haptics, MOOCs, and curriculum at
+  scale.

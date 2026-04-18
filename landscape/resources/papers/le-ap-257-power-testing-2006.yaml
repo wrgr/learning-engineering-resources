@@ -1,0 +1,21 @@
+resource_id: LE-AP-257
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Power of Testing Memory: Basic Research and Implications for Educational Practice"
+authors: []
+year: 2006
+venue: Perspectives on Psychological Science
+doi: "10.1111/j.1745-6916.2006.00012.x"
+tier: highly_cited
+citation_count_approx: 2017
+cross_seed_score: 3
+openalex_id: "W2133705455"
+significance: >
+  Published in Perspectives on Psychological Science; addresses formative
+  assessment, cognitive psychology, cognitive test. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T06
+secondary_topics:
+  - T01

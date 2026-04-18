@@ -1,0 +1,19 @@
+resource_id: LE-AP-586
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Self-Regulated Learning: Beliefs, Techniques, and Illusions"
+authors: []
+year: 2012
+venue: Annual Review of Psychology
+doi: "10.1146/annurev-psych-113011-143823"
+tier: highly_cited
+citation_count_approx: 1371
+cross_seed_score: 2
+openalex_id: "W2157565254"
+significance: >
+  Published in Annual Review of Psychology; addresses psychology, metacognition,
+  cognitive psychology. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

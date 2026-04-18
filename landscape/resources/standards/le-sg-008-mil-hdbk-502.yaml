@@ -1,0 +1,18 @@
+resource_id: LE-SG-008
+content_type: SG
+source: curated
+status: APPROVED
+name: "MIL-HDBK-502A: Acquisition of Training"
+type: standard
+affiliation_or_venue: "U.S. Department of Defense"
+url: "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=213913"
+primary_topic: T10
+secondary_topics:
+  - T02
+  - T16
+description: >
+  DoD handbook specifying acquisition processes for training systems, including
+  task analysis, learning objective specification, instructional media selection,
+  and evaluation criteria. Directly applicable to large-scale training system
+  procurement and LE deployment in defense contexts.
+notes: ""

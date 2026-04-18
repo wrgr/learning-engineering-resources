@@ -1,0 +1,26 @@
+resource_id: LE-AP-007
+content_type: AP
+source: curated
+title: Improving students' help-seeking skills using metacognitive feedback in an intelligent tutoring system
+authors:
+  - Ido Roll
+  - Vincent Aleven
+  - Bruce M. McLaren
+  - Kenneth R. Koedinger
+year: 2011
+venue: Learning and Instruction
+volume: "21"
+issue: "2"
+pages: "267–280"
+doi: "10.1016/j.learninstruc.2010.07.004"
+tier: highly_cited
+citation_count_approx: 600
+significance: >
+  Demonstrated that LE methods can be applied beyond domain knowledge to model and improve
+  learner metacognition and self-regulation. Proved that intelligent tutors can engineer
+  help-seeking behavior, not just subject-matter proficiency — broadening the scope of
+  what LE can target.
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T03

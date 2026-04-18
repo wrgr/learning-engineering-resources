@@ -1,0 +1,20 @@
+resource_id: LE-GL-025
+content_type: GL
+source: curated
+status: APPROVED
+title: "Siemens Pathway to Learning Engineering"
+authors:
+  - "Siemens Digital Industries Software"
+year: 2022
+publisher: "Siemens Academic Programs"
+url: "https://www.siemens.com/us/en/company/academic/pathway-to-learning-engineering.html"
+type: report
+primary_topic: T13
+secondary_topics:
+  - T08
+  - T12
+significance: >
+  Cloud-based, project-based STEM curriculum and educator professional development introducing
+  engineering design and industry tools for secondary classrooms. Industry-sponsored LE pathway
+  demonstrating how corporate partnerships can fund learning engineering curriculum at scale.
+  Complements university LE pathways.

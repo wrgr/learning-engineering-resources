@@ -1,0 +1,19 @@
+resource_id: LE-AP-239
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Chapter 3: Rethinking Transfer: A Simple Proposal With Multiple Implications"
+authors: []
+year: 1999
+venue: Review of Research in Education
+doi: "10.3102/0091732x024001061"
+tier: highly_cited
+citation_count_approx: 865
+cross_seed_score: 3
+openalex_id: "W2095371090"
+significance: >
+  Published in Review of Research in Education; addresses simple (philosophy),
+  mathematics education, psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

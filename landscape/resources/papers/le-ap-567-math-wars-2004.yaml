@@ -1,0 +1,21 @@
+resource_id: LE-AP-567
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Math Wars"
+authors: []
+year: 2004
+venue: Educational Policy
+doi: "10.1177/0895904803260042"
+tier: contemporary
+citation_count_approx: 497
+cross_seed_score: 2
+openalex_id: "W2144208367"
+significance: >
+  Published in Educational Policy; addresses curriculum, excellence, reform
+  mathematics. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T01

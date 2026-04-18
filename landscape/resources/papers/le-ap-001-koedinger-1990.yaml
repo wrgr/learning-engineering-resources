@@ -1,0 +1,23 @@
+resource_id: LE-AP-001
+content_type: AP
+source: curated
+title: "Abstract planning and perceptual chunks: Elements of expertise in geometry"
+authors:
+  - Kenneth R. Koedinger
+  - John R. Anderson
+year: 1990
+venue: Cognitive Science
+volume: "14"
+issue: "4"
+pages: "511–550"
+doi: "10.1207/s15516709cog1404_2"
+tier: foundational
+citation_count_approx: 650
+significance: >
+  Foundational paper mapping human cognitive processes into computational production rules.
+  Established the methodology for encoding domain expertise into ITS knowledge components —
+  the direct basis for Cognitive Tutor and all subsequent production-rule ITS.
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T09

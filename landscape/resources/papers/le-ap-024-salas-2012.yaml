@@ -1,0 +1,27 @@
+resource_id: LE-AP-024
+content_type: AP
+source: curated
+title: "The Science of Training and Development in Organizations: What Matters in Practice"
+authors:
+  - Eduardo Salas
+  - Scott I. Tannenbaum
+  - Kurt Kraiger
+  - Kimberly A. Smith-Jentsch
+year: 2012
+venue: Psychological Science in the Public Interest
+volume: "13"
+issue: "2"
+pages: "74–101"
+doi: "10.1177/1529100612436661"
+tier: highly_cited
+citation_count_approx: 3800
+significance: >
+  Synthesized decades of organizational training research into actionable principles for
+  training system design. Covers needs analysis, learning objectives, instructional methods,
+  transfer climate, and evaluation — mapping directly to LE process phases. The most
+  rigorous recent synthesis of what works in large-scale training, bridging I/O psychology
+  and learning engineering practice.
+primary_topic: T10
+secondary_topics:
+  - T02
+  - T15

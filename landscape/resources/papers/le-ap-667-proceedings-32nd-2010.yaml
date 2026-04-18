@@ -1,0 +1,18 @@
+resource_id: LE-AP-667
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Proceedings of the 32nd Annual Conference of the Cognitive Science Society"
+authors: []
+year: 2010
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 300
+cross_seed_score: 2
+openalex_id: "W367043469"
+significance: >
+  Published in Unknown Venue; addresses political science, engineering ethics,
+  engineering. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

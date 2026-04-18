@@ -1,0 +1,20 @@
+resource_id: LE-AP-734
+content_type: AP
+source: book_endnotes
+status: seed
+title: "Elizabeth Owen"
+authors: []
+year: 2014
+venue: Unknown Venue
+doi: "10.1504/ijlt.2014.064489"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T08
+  topics in learning engineering. Full bibliographic details in citation:
+  Halverson, Richard, and V. Elizabeth Owen. “Game-Based Assessment: An
+  Integrated Model for Capturing Evidence of Learnin...
+primary_topic: T08
+secondary_topics:
+  - T01

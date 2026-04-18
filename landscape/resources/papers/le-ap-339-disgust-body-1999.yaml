@@ -1,0 +1,19 @@
+resource_id: LE-AP-339
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Disgust: The Body and Soul Emotion"
+authors: []
+year: 1999
+venue: Unknown Venue
+doi: "10.1002/0470013494.ch21"
+tier: contemporary
+citation_count_approx: 276
+cross_seed_score: 2
+openalex_id: "W1596702707"
+significance: >
+  Published in Unknown Venue; addresses disgust, psychology, cognitive
+  psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

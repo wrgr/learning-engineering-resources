@@ -1,0 +1,18 @@
+resource_id: LE-AP-729
+content_type: AP
+source: book_endnotes
+status: seed
+title: "Kahn, Alan Borning, and Alina Huldtgren"
+authors: []
+year: 2013
+venue: Unknown Venue
+doi: "10.1007/978-94-007-7844-3_4"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Friedman, Batya, Peter H. Kahn, Alan Borning, and Alina Huldtgren. “Value
+  Sensitive Design and Information Systems.” In ...
+primary_topic: T01

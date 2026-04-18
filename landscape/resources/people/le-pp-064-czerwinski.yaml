@@ -1,0 +1,27 @@
+resource_id: LE-PP-064
+content_type: PP
+source: curated
+status: APPROVED
+name: Erin Czerwinski
+affiliation: "Carnegie Mellon University; IEEE ICICLE — Tools SIG"
+years: "active 2010s–present"
+era: contemporary
+role: LE tools researcher; ICICLE Tools SIG co-chair
+description: >
+  Co-chair of the Tools SIG within IEEE ICICLE, curating and evaluating learning engineering
+  tools and technology stacks. CMU affiliation connects research-grade LE tools (OpenSimon,
+  DataShop/LearnSphere) with ICICLE's practitioner community.
+key_contributions:
+  - Co-chairs the Tools SIG (ICICLE), maintaining curated guidance on tools supporting the LE workflow
+  - Bridges CMU's research-grade LE tooling (OpenSimon, LearnSphere) with broader practitioner communities
+  - Contributes frameworks for tool evaluation, selection, and integration in learning engineering projects
+  - Connects software engineering and educational technology perspectives within ICICLE's tools guidance
+key_works:
+  - "ICICLE Body of Knowledge — Tools chapter contributions"
+  - "IEEE ICICLE Tools SIG practitioner guidance"
+primary_topic: T11
+secondary_topics:
+  - T06
+  - T16
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Tools SIG. CMU connection.

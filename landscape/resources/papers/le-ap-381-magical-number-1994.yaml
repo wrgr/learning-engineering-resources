@@ -1,0 +1,19 @@
+resource_id: LE-AP-381
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The magical number seven, plus or minus two: Some limits on our capacity for processing information."
+authors: []
+year: 1994
+venue: Psychological Review
+doi: "10.1037/0033-295x.101.2.343"
+tier: foundational
+citation_count_approx: 17296
+cross_seed_score: 2
+openalex_id: "W1984314602"
+significance: >
+  Published in Psychological Review; addresses information processing,
+  psychology, computer science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

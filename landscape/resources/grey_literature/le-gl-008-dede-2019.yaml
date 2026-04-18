@@ -1,0 +1,22 @@
+resource_id: LE-GL-008
+content_type: GL
+source: curated
+status: APPROVED
+title: "Learning Engineering for Online Education: Theoretical Contexts and Design-Based Examples"
+authors:
+  - "Chris Dede"
+  - "John Richards"
+  - "Bror Saxberg"
+year: 2019
+publisher: "Routledge"
+url: "https://www.routledge.com/Learning-Engineering-for-Online-Education-Theoretical-Contexts-and-Design-Based/Dede-Richards-Saxberg/p/book/9780815394426"
+type: book
+primary_topic: T00
+secondary_topics:
+  - T03
+  - T11
+significance: >
+  First book-length treatment of learning engineering applied to digital and distributed contexts.
+  Saxberg's formulation — LE as applying learning science at 'massive, affordable, data-rich scale'
+  — became widely adopted. Documents how online architectures enable continuous telemetry that
+  peer-reviewed journals document years later.

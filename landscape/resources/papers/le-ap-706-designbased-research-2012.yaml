@@ -1,0 +1,20 @@
+resource_id: LE-AP-706
+content_type: AP
+source: book_endnotes
+status: seed
+title: "“Design-Based Research: A Decade of Progress in Education Research?” Educational Researcher 41, no"
+authors: []
+year: 2012
+venue: Unknown Venue
+doi: "10.3102/0013189x11428813"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T17
+  topics in learning engineering. Full bibliographic details in citation:
+  Anderson, Terry and Julie Shattuck. “Design-Based Research: A Decade of
+  Progress in Education Research?” Educational Res...
+primary_topic: T17
+secondary_topics:
+  - T01

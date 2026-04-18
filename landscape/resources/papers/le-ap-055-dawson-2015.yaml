@@ -1,0 +1,23 @@
+resource_id: LE-AP-055
+content_type: AP
+source: curated
+title: "Design-Based Research: Current State and Prospects for the Future"
+authors:
+  - Kara Dawson
+  - Albert D. Ritzhaupt
+year: 2015
+venue: "Handbook of Research on Educational Communications and Technology"
+pages: "169–180"
+doi: "10.1007/978-1-4614-3185-5_14"
+tier: contemporary
+citation_count_approx: 320
+significance: >
+  Overview of design-based research methodology in educational technology, covering
+  theoretical foundations, iterative design cycles, and dual outcomes (practical
+  solutions + theoretical knowledge). Provides LE practitioners with an accessible
+  introduction to DBR as a methodology for system development and evaluation, linking
+  it to the continuous improvement mandate of learning engineering practice.
+primary_topic: T03
+secondary_topics:
+  - T17
+  - T15

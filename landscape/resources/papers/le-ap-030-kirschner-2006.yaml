@@ -1,0 +1,28 @@
+resource_id: LE-AP-030
+content_type: AP
+source: curated
+title: "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching"
+authors:
+  - Paul A. Kirschner
+  - John Sweller
+  - Richard E. Clark
+year: 2006
+venue: Educational Psychologist
+volume: "41"
+issue: "2"
+pages: "75–86"
+doi: "10.1207/s15326985ep4102_1"
+tier: foundational
+citation_count_approx: 6800
+significance: >
+  Argued from cognitive load theory and empirical evidence that minimally guided
+  instructional approaches (discovery learning, inquiry-based, pure problem-based)
+  are less effective than explicit instruction, particularly for novice learners.
+  Ignited one of educational psychology's most productive debates and directly
+  influenced LE instructional design principles around scaffolding, worked examples,
+  and the novice-expert continuum. Understanding this debate is prerequisite to
+  principled instructional design decisions in LE systems.
+primary_topic: T01
+secondary_topics:
+  - T04
+  - T12

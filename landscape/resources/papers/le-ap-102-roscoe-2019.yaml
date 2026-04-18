@@ -1,0 +1,24 @@
+resource_id: LE-AP-102
+content_type: AP
+source: curated
+title: "Automated detection of essay revising patterns: Applications for intelligent writing feedback"
+authors:
+  - Rod D. Roscoe
+  - Erica L. Snow
+  - Laura K. Allen
+  - Danielle S. McNamara
+year: 2017
+venue: Technology, Instruction, Cognition and Learning
+volume: "10"
+pages: "59-79"
+tier: contemporary
+citation_count_approx: 145
+significance: >
+  Developed automated methods for detecting and classifying revision strategies in
+  student essays, enabling intelligent feedback systems to target specific revision
+  behaviors. Demonstrates the LE use case of NLP-driven formative feedback in writing
+  domains and informs design of automated writing evaluation systems.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T09

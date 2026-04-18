@@ -1,0 +1,19 @@
+resource_id: LE-AP-115
+content_type: AP
+source: curated
+title: "AI-Powered Learning: Making Education Accessible, Affordable, and Achievable"
+authors:
+  - Ashok Goel
+year: 2019
+venue: White paper, Georgia Institute of Technology
+tier: contemporary
+citation_count_approx: 180
+significance: >
+  Synthesized lessons from deploying multiple AI learning systems at Georgia Tech — Jill Watson,
+  CS1301 AI tutor, CS7637 analytics — into a framework for scalable, accessible AI-powered
+  education. Directly relevant to LE practitioners designing institution-level AI deployment
+  strategies and evaluating AI-augmented pedagogy at scale.
+primary_topic: T07
+secondary_topics:
+  - T16
+  - T10

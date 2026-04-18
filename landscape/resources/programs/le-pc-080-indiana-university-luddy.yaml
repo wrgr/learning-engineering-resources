@@ -1,0 +1,15 @@
+resource_id: LE-PC-080
+content_type: PC
+source: registry_migration
+status: APPROVED
+name: "Indiana University Luddy — ISE & human-centered computing"
+url: "https://luddy.indiana.edu/"
+primary_topic: T06
+secondary_topics:
+  - T01
+  - T07
+description: >
+  Large informatics and engineering school where Intelligent Systems
+  Engineering, human-centered computing, and data-driven design converge—common
+  feeder disciplines for learning engineering careers even where the phrase is
+  not a standalone degree title.

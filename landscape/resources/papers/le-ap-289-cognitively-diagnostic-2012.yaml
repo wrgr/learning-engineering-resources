@@ -1,0 +1,18 @@
+resource_id: LE-AP-289
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Cognitively Diagnostic Assessment"
+authors: []
+year: 2012
+venue: Unknown Venue
+doi: "10.4324/9780203052969"
+tier: contemporary
+citation_count_approx: 489
+cross_seed_score: 3
+openalex_id: "W568024311"
+significance: >
+  Published in Unknown Venue; addresses psychology. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,18 @@
+resource_id: LE-SG-003
+content_type: SG
+source: curated
+status: APPROVED
+name: "IEEE P2247.1 & P2247.2: Adaptive Instructional Systems (AIS)"
+type: standard
+affiliation_or_venue: "IEEE LTSC"
+url: "https://standards.ieee.org/project/2247_1.html"
+primary_topic: T06
+secondary_topics:
+  - T11
+  - T16
+description: >
+  Classifies components, parameters, and interoperability protocols for adaptive
+  instructional systems. Engineering blueprints for building systems that
+  dynamically adjust instruction based on real-time learner state. The most
+  directly LE-relevant IEEE standard family.
+notes: ""

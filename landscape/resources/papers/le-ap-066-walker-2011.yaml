@@ -1,0 +1,22 @@
+resource_id: LE-AP-066
+content_type: AP
+source: curated
+title: "Using Intelligent Tutoring Systems to Support Collaborative Learning"
+authors:
+  - Erin Walker
+  - Nikol Rummel
+  - Kenneth R. Koedinger
+year: 2011
+venue: "Proceedings of the International Conference on Computer Supported Collaborative Learning"
+tier: contemporary
+citation_count_approx: 140
+significance: >
+  Synthesized research at the intersection of intelligent tutoring and collaborative
+  learning, identifying when and how AI support enhances versus disrupts productive
+  collaboration. Provides LE designers with a framework for calibrating AI intervention
+  thresholds in peer-learning contexts to maintain collaborative dynamics while
+  preventing unproductive struggle.
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T09

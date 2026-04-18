@@ -1,0 +1,19 @@
+resource_id: LE-AP-480
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Designing Social Infrastructure: Critical Issues in Creating Learning Environments With Technology"
+authors: []
+year: 2006
+venue: Journal of the Learning Sciences
+doi: "10.1207/s15327809jls1503_1"
+tier: contemporary
+citation_count_approx: 233
+cross_seed_score: 2
+openalex_id: "W2077775807"
+significance: >
+  Published in Journal of the Learning Sciences; addresses cyberspace, dimension
+  (graph theory), process (computing). Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

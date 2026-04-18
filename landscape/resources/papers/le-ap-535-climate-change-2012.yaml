@@ -1,0 +1,19 @@
+resource_id: LE-AP-535
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Climate change and moral judgement"
+authors: []
+year: 2012
+venue: Nature Climate Change
+doi: "10.1038/nclimate1378"
+tier: contemporary
+citation_count_approx: 535
+cross_seed_score: 2
+openalex_id: "W2130250310"
+significance: >
+  Published in Nature Climate Change; addresses judgement, climate change, moral
+  disengagement. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T09

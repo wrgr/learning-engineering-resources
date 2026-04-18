@@ -1,0 +1,19 @@
+resource_id: LE-AP-155
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Detecting Student Misuse of Intelligent Tutoring Systems"
+authors: []
+year: 2004
+venue: Lecture notes in computer science
+doi: "10.1007/978-3-540-30139-4_50"
+tier: contemporary
+citation_count_approx: 341
+cross_seed_score: 5
+openalex_id: "W1589525026"
+significance: >
+  Published in Lecture notes in computer science; addresses computer science,
+  multimedia, human–computer interaction. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T06

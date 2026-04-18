@@ -1,0 +1,25 @@
+resource_id: LE-JO-005
+content_type: JO
+source: curated
+status: APPROVED
+name: "International Journal of Artificial Intelligence in Education (IJAIED)"
+type: journal
+affiliation_or_venue: "Springer / International AIED Society"
+url: "https://link.springer.com/journal/40593"
+primary_topic: T07
+secondary_topics:
+  - T06
+  - T04
+description: >
+  Premier venue for intelligent tutoring systems, generative AI in education,
+  deep cognitive modeling, and rigorous evaluation of AI versus human tutoring.
+  Covers algorithmic accuracy evaluations, human factors studies, and
+  pedagogical agent design. The home journal for rigorous AIED research
+  between conference cycles.
+
+  IJAIED publishes extended versions of AIED conference papers and independent
+  journal submissions, providing the most comprehensive coverage of the
+  theory-to-system pipeline in AI-enhanced learning. For LE practitioners
+  working with LLMs, knowledge tracers, or pedagogical agents, IJAIED is
+  the primary source for validated system architectures and evaluation frameworks.
+notes: "Published by Springer; official journal of the International AIED Society. Companion to the annual AIED conference."

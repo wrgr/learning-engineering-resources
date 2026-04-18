@@ -1,0 +1,23 @@
+resource_id: LE-AP-003
+content_type: AP
+source: curated
+title: "Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings"
+authors:
+  - Ann L. Brown
+year: 1992
+venue: Journal of the Learning Sciences
+volume: "2"
+issue: "2"
+pages: "141–178"
+doi: "10.1207/s15327809jls0202_2"
+tier: foundational
+citation_count_approx: 2800
+significance: >
+  The most-cited paper in JLS history. Established design-based research as the canonical
+  methodology for testing engineered learning interventions in authentic classroom settings.
+  Defined the epistemological standards that learning engineering uses when validating
+  systems in the wild.
+primary_topic: T17
+secondary_topics:
+  - T03
+  - T15

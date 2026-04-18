@@ -1,0 +1,22 @@
+resource_id: LE-AP-439
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Collaborative knowledge building using the Design Principles Database"
+authors: []
+year: 2006
+venue: International Journal of Computer-Supported Collaborative Learning
+doi: "10.1007/s11412-006-8993-x"
+tier: contemporary
+citation_count_approx: 160
+cross_seed_score: 2
+openalex_id: "W2044584285"
+significance: >
+  Published in International Journal of Computer-Supported Collaborative
+  Learning; addresses computer science, publication, collaborative design.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T07
+secondary_topics:
+  - T17
+  - T01

@@ -1,0 +1,23 @@
+resource_id: LE-AP-031
+content_type: AP
+source: curated
+title: "How People Learn: Brain, Mind, Experience, and School"
+authors:
+  - John D. Bransford
+  - Ann L. Brown
+  - Rodney R. Cocking
+year: 2000
+venue: "National Academy Press"
+tier: foundational
+citation_count_approx: 15000
+significance: >
+  The National Academies synthesis of cognitive science, neuroscience, and educational
+  research that established how people learn: prior knowledge activation, deep conceptual
+  understanding over facts, metacognitive monitoring, and transfer-ready knowledge
+  structures. One of the most cited education texts of the modern era, directly
+  informing the theoretical foundations of learning engineering and the design of
+  LE systems that support durable, transferable learning.
+primary_topic: T01
+secondary_topics:
+  - T04
+  - T12

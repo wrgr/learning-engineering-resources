@@ -1,0 +1,16 @@
+resource_id: LE-SG-001
+content_type: SG
+source: curated
+status: APPROVED
+name: "IEEE 1484.1-2003: Learning Technology Systems Architecture (LTSA)"
+type: standard
+affiliation_or_venue: "IEEE LTSC"
+url: "https://standards.ieee.org/ieee/1484.1/1655/"
+primary_topic: T11
+secondary_topics:
+  - T16
+description: >
+  Defines the high-level system components and communication protocols required
+  for interoperable learning technology platforms. Foundational systems
+  architecture standard for the field. Sponsoring body: IEEE LTSC.
+notes: ""

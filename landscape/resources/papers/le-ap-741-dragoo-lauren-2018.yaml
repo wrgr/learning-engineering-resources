@@ -1,0 +1,21 @@
+resource_id: LE-AP-741
+content_type: AP
+source: book_endnotes
+status: seed
+title: "Dragoo, Lauren Yeagle, Randa L"
+authors: []
+year: 2018
+venue: Unknown Venue
+doi: "10.15394/jaaer.2018.1752"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T06
+  topics in learning engineering. Full bibliographic details in citation: Kang,
+  Ziho, Mattlyn R. Dragoo, Lauren Yeagle, Randa L. Shehab, Han Yuan, Lei Ding,
+  and Stephen G. West. “Adaptive Learni...
+primary_topic: T06
+secondary_topics:
+  - T14
+  - T01

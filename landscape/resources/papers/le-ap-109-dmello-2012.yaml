@@ -1,0 +1,24 @@
+resource_id: LE-AP-109
+content_type: AP
+source: curated
+title: "Dynamics of Affective States During Complex Learning"
+authors:
+  - Sidney D'Mello
+  - Arthur C. Graesser
+year: 2012
+venue: Learning and Instruction
+volume: "22"
+issue: "2"
+pages: "145-157"
+doi: "10.1016/j.learninstruc.2011.10.001"
+tier: highly_cited
+citation_count_approx: 740
+significance: >
+  Mapped the temporal flow of learner affect during complex learning tasks, showing that cycles
+  of confusion, frustration, and re-engagement are characteristic of productive deep learning.
+  Provides the empirical foundation for affect-aware tutoring systems that respond to
+  emotional-cognitive states, informing LE system design for engagement monitoring.
+primary_topic: T04
+secondary_topics:
+  - T06
+  - T01

@@ -1,0 +1,19 @@
+resource_id: LE-CE-006
+content_type: CE
+source: curated
+status: APPROVED
+name: "Learning @ Scale (L@S)"
+type: conference
+affiliation_or_venue: "ACM"
+frequency: Annual
+url: "https://learningatscale.acm.org/"
+primary_topic: T11
+secondary_topics:
+  - T09
+  - T07
+description: >
+  Technical and pedagogical research on large-scale digital learning: MOOCs,
+  online education platforms, at-scale experimentation, A/B testing in learning
+  contexts. ACM-sponsored; focuses on the intersection of scale and learning
+  quality. Home of 'doer effect' and A/B experimentation papers.
+notes: ""

@@ -1,0 +1,22 @@
+resource_id: LE-AP-542
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "What Happens When Teachers Design Educational Technology? The Development of Technological Pedagogical Content Knowledge"
+authors: []
+year: 2005
+venue: Journal of Educational Computing Research
+doi: "10.2190/0ew7-01wb-bkhl-qdyv"
+tier: highly_cited
+citation_count_approx: 1412
+cross_seed_score: 2
+openalex_id: "W2132687596"
+significance: >
+  Published in Journal of Educational Computing Research; addresses
+  instructional design, function (biology), educational technology. Quality-
+  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T16
+  - T01

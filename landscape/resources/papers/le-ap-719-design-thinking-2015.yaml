@@ -1,0 +1,18 @@
+resource_id: LE-AP-719
+content_type: AP
+source: book_endnotes
+status: seed
+title: "“Design Thinking Methods and Tools for Innovation"
+authors: []
+year: 2015
+venue: Proceedings of the Fourth International Conference on Design
+doi: "10.1007/978-3-319-20886-2_2"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T07
+  topics in learning engineering. Full bibliographic details in citation:
+  Chasanidou, Dimitra, Andrea Alessandro Gasparini, and Eunji Lee. “Design
+  Thinking Methods and Tools for Innovation.” In ...
+primary_topic: T07

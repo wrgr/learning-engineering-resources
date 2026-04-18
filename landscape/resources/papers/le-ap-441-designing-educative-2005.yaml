@@ -1,0 +1,21 @@
+resource_id: LE-AP-441
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Designing Educative Curriculum Materials to Promote Teacher Learning"
+authors: []
+year: 2005
+venue: Educational Researcher
+doi: "10.3102/0013189x034003003"
+tier: highly_cited
+citation_count_approx: 1124
+cross_seed_score: 2
+openalex_id: "W2046099063"
+significance: >
+  Published in Educational Researcher; addresses curriculum, heuristics,
+  mathematics education. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T01

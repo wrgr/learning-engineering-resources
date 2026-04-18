@@ -1,0 +1,18 @@
+resource_id: LE-AP-767
+content_type: AP
+source: book_endnotes
+status: seed
+title: "“Moral Economies and Codes of Conduct: The Social Organization of Canadian Experimental Psychology"
+authors: []
+year: 2019
+venue: Unknown Venue
+doi: "10.7202/1065958ar"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Schoenherr, Jordan. “Moral Economies and Codes of Conduct: The Social
+  Organization of Canadian Experimental Psychology.”...
+primary_topic: T01

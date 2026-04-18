@@ -1,0 +1,25 @@
+resource_id: LE-AP-048
+content_type: AP
+source: curated
+title: "Writing Pal: Feasibility of an Intelligent Writing Strategy Tutor and Automated Feedback in the High School Classroom"
+authors:
+  - Rod D. Roscoe
+  - Danielle S. McNamara
+year: 2013
+venue: Journal of Educational Psychology
+volume: "105"
+issue: "4"
+pages: "1010–1025"
+doi: "10.1037/a0032340"
+tier: contemporary
+citation_count_approx: 340
+significance: >
+  Evaluated Writing Pal, an ITS for college-level writing that combines strategy
+  instruction, game-based practice, and automated essay scoring. RCT results showed
+  significant writing quality gains for students receiving strategy instruction with
+  automated feedback. Demonstrates LE evaluation methodology for complex writing-domain
+  systems and the importance of combining automated assessment with deliberate practice.
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T10

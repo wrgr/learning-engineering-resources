@@ -1,0 +1,19 @@
+resource_id: LE-AP-154
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Educational Design Research"
+authors: []
+year: 2013
+venue: Unknown Venue
+doi: "10.1007/978-1-4614-3185-5_11"
+tier: highly_cited
+citation_count_approx: 1158
+cross_seed_score: 5
+openalex_id: "W1551403135"
+significance: >
+  Published in Unknown Venue; addresses field (mathematics), engineering ethics,
+  educational research. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

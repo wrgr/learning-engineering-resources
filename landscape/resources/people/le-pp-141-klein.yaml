@@ -1,0 +1,31 @@
+resource_id: LE-PP-141
+content_type: PP
+source: curated
+status: APPROVED
+name: Gary Klein
+affiliation: "MacroCognition LLC (formerly Klein Associates)"
+years: "active 1970s–present"
+era: contemporary
+role: Naturalistic decision-making pioneer; Recognition-Primed Decision model creator
+description: >
+  Creator of the Recognition-Primed Decision (RPD) model and Critical Decision Method.
+  Founder of the naturalistic decision-making (NDM) field, which informs how experts are
+  trained in high-stakes environments. Author of Sources of Power (MIT Press, 1998), widely
+  read by LE practitioners for insight into expertise-based training design. Connects
+  expertise science directly to instructional design for high-stakes professional contexts.
+key_contributions:
+  - Created the Recognition-Primed Decision (RPD) model — the most influential descriptive model of expert decision-making under uncertainty
+  - Co-founded the naturalistic decision-making (NDM) field, which informs training design in military, medical, and safety-critical contexts
+  - Developed the Critical Decision Method for knowledge elicitation and training system design
+  - Author of Sources of Power — widely read by LE practitioners as a foundational text on expertise-based training
+  - Connects cognitive science of expertise directly to instructional design for high-stakes professional contexts
+key_works:
+  - "Sources of Power: How People Make Decisions (MIT Press, 1998)"
+  - "Seeing What Others Don't: The Remarkable Ways We Gain Insights (PublicAffairs, 2013)"
+  - "Working Minds: A Practitioner's Guide to Cognitive Task Analysis (with Crandall & Hoffman, MIT Press, 2006)"
+primary_topic: T09
+secondary_topics:
+  - T02
+  - T01
+url: https://macrocognition.com
+notes: NDM and RPD. Expertise-based training. Sources of Power.

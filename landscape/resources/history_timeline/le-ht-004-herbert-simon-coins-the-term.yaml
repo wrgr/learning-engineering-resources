@@ -1,0 +1,18 @@
+resource_id: LE-HT-004
+content_type: HT
+source: curated
+year: 1967
+era: founding
+event: "Herbert Simon coins the term 'learning engineer' in 'The Job of a College President'"
+significance: >
+  The founding document of the field. Simon argued that content expertise does
+  not equal expertise in facilitating learning, and proposed dedicated
+  professionals — learning engineers — to design evidence-based learning
+  experiences. Published in Educational Record, 48(1), 68–78.
+actors:
+  - "Herbert A. Simon"
+references:
+  - "Simon, H. A. (1967). The Job of a College President. Educational Record, 48(1), 68–78."
+primary_topic: T00
+secondary_topics:
+  - T03

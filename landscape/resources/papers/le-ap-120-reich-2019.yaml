@@ -1,0 +1,24 @@
+resource_id: LE-AP-120
+content_type: AP
+source: curated
+title: "The MOOC Pivot"
+authors:
+  - Justin Reich
+  - José A. Ruipérez-Valiente
+year: 2019
+venue: Science
+volume: "363"
+issue: "6423"
+pages: "130-131"
+doi: "10.1126/science.aav7958"
+tier: contemporary
+citation_count_approx: 480
+significance: >
+  Reported on the trajectory of MOOCs a decade after their peak hype, documenting the shift from
+  open mass education toward credentialed corporate training. Provides LE practitioners with an
+  evidence-based account of ed-tech adoption cycles and the gap between technological potential
+  and equitable educational impact.
+primary_topic: T10
+secondary_topics:
+  - T16
+  - T15

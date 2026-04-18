@@ -1,0 +1,24 @@
+resource_id: LE-AP-135
+content_type: AP
+source: curated
+title: "The ASSISTments Ecosystem: Building a Platform That Brings Scientists and Teachers Together for Minimally Invasive Research on Human Learning and Teaching"
+authors:
+  - Neil T. Heffernan
+  - Cristina Lindquist Heffernan
+year: 2014
+venue: International Journal of Artificial Intelligence in Education
+volume: "24"
+issue: "4"
+pages: "470-497"
+doi: "10.1007/s40593-014-0024-x"
+tier: highly_cited
+citation_count_approx: 620
+significance: >
+  Described the ASSISTments platform as an ecosystem enabling "minimally invasive" embedded
+  RCTs in authentic homework assignments, dramatically reducing barriers to classroom-based
+  learning science research. Established ASSISTments as a model for LE infrastructure that
+  simultaneously delivers instruction and generates rigorous causal evidence.
+primary_topic: T06
+secondary_topics:
+  - T10
+  - T17

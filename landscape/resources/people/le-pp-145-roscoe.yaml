@@ -1,0 +1,31 @@
+resource_id: LE-PP-145
+content_type: PP
+source: curated
+status: APPROVED
+name: Rod Roscoe
+affiliation: "Arizona State University, Learning Engineering Institute"
+years: "1980–present"
+era: contemporary
+role: Writing ITS researcher; human factors in automated writing feedback
+description: >
+  ASU Learning Engineering Institute researcher who co-led the Writing Pal ITS — a
+  game-based writing tutor with automated essay scoring and strategy training. Investigated
+  usability and metacognitive dimensions of writing intelligent tutoring systems and how
+  learners interact with and trust automated feedback.
+key_contributions:
+  - Co-led the Writing Pal ITS — a game-based writing tutor with automated essay scoring and strategy training
+  - Investigated usability and metacognitive dimensions of writing intelligent tutoring systems
+  - Demonstrated that automated feedback can improve student revision behavior if appropriately scaffolded
+  - Studied how learners interact with and trust automated writing feedback systems
+  - Connected human-computer interaction principles to writing instruction at scale
+key_works:
+  - "Writing Pal intelligent tutoring system: usability testing and observations (Computers in Human Behavior, 2014)"
+  - "Assessing and supporting learners' metacognitive awareness of writing (Metacognition and Learning, 2011)"
+  - "Automated feedback and student revisions (JEDM, 2017)"
+primary_topic: T02
+secondary_topics:
+  - T06
+  - T03
+  - T12
+url: https://learningengineering.asu.edu/
+notes: Writing Pal ITS. ASU Learning Engineering Institute.

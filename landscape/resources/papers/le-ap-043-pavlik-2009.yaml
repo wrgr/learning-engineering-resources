@@ -1,0 +1,24 @@
+resource_id: LE-AP-043
+content_type: AP
+source: curated
+title: "Performance Factors Analysis — A New Alternative to Knowledge Tracing"
+authors:
+  - Philip I. Pavlik Jr.
+  - Hao Cen
+  - Kenneth R. Koedinger
+year: 2009
+venue: "Proceedings of the 14th International Conference on Artificial Intelligence in Education"
+pages: "531–538"
+tier: highly_cited
+citation_count_approx: 650
+significance: >
+  Introduced Performance Factors Analysis (PFA), a knowledge tracing alternative that
+  models the effect of prior successes and failures on skill acquisition separately,
+  outperforming Bayesian Knowledge Tracing on several datasets. Significantly influenced
+  the design of adaptive practice systems and knowledge component modeling in learning
+  analytics. Foundational for LE systems using data-driven mastery models and
+  adaptive problem sequencing.
+primary_topic: T04
+secondary_topics:
+  - T06
+  - T09

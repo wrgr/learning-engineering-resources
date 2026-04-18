@@ -1,0 +1,23 @@
+resource_id: LE-AP-008
+content_type: AP
+source: curated
+title: "Cognitive load during problem solving: Effects on learning"
+authors:
+  - John Sweller
+year: 1988
+venue: Cognitive Science
+volume: "12"
+issue: "2"
+pages: "257–285"
+doi: "10.1207/s15516709cog1202_4"
+tier: foundational
+citation_count_approx: 4000
+significance: >
+  The founding paper of Cognitive Load Theory. Established that working memory limitations
+  impose hard constraints on instruction design. CLT-derived principles (worked examples,
+  split-attention, redundancy) are among the most widely replicated findings in educational
+  psychology and are standard design rules in learning engineering.
+primary_topic: T01
+secondary_topics:
+  - T12
+  - T03

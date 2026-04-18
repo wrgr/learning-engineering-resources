@@ -1,0 +1,20 @@
+resource_id: LE-AP-021
+content_type: AP
+source: curated
+title: "The Social Engagement of Social Science: A Tavistock Anthology, Vol. II — The Socio-Technical Perspective"
+authors:
+  - Eric Trist
+  - Hugh Murray
+year: 1993
+venue: University of Pennsylvania Press
+tier: highly_cited
+citation_count_approx: 3400
+significance: >
+  Foundational text of sociotechnical systems theory. Established that optimizing either
+  the social or technical subsystem in isolation produces suboptimal outcomes — a principle
+  directly governing LE system design. Learning engineering's treatment of technology,
+  pedagogy, and human factors as jointly-optimized systems derives from this lineage.
+primary_topic: T02
+secondary_topics:
+  - T09
+  - T11

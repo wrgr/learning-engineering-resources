@@ -1,0 +1,19 @@
+resource_id: LE-AP-564
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Proscriptive versus prescriptive morality: Two faces of moral regulation."
+authors: []
+year: 2009
+venue: Journal of Personality and Social Psychology
+doi: "10.1037/a0013779"
+tier: contemporary
+citation_count_approx: 427
+cross_seed_score: 2
+openalex_id: "W2140694938"
+significance: >
+  Published in Journal of Personality and Social Psychology; addresses morality,
+  duty, blame. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

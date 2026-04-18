@@ -1,0 +1,18 @@
+resource_id: LE-AP-443
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Combining labeled and unlabeled data with co-training"
+authors: []
+year: 1998
+venue: Unknown Venue
+doi: "10.1145/279943.279962"
+tier: foundational
+citation_count_approx: 5585
+cross_seed_score: 2
+openalex_id: "W2048679005"
+significance: >
+  Published in Unknown Venue; addresses citation, eleventh, computer science.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

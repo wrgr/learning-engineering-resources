@@ -1,0 +1,25 @@
+resource_id: LE-PP-071
+content_type: PP
+source: curated
+status: APPROVED
+name: John Ellis
+affiliation: "Dartmouth College; IEEE ICICLE — pK-12 MIG"
+years: "active 2010s–present"
+era: contemporary
+role: K-12 LE researcher; ICICLE pK-12 MIG co-chair
+description: >
+  Co-chair of the pK-12 MIG within IEEE ICICLE. Dartmouth College affiliation connects
+  computing and technology resources to K-12 learning engineering applications.
+key_contributions:
+  - Co-chairs the pK-12 MIG (ICICLE), contributing research-grounded perspectives on LE for K-12 contexts
+  - Connects Dartmouth's computing and research resources to K-12 educational technology and LE practice
+  - Contributes to ICICLE's pK-12 frameworks and practitioner resources
+  - Bridges higher education research with K-12 instructional technology implementation
+key_works:
+  - "IEEE ICICLE pK-12 MIG practitioner resources"
+primary_topic: T10
+secondary_topics:
+  - T03
+  - T16
+url: https://icicle.ieee.org
+notes: ICICLE community lead. pK-12 MIG. Dartmouth affiliation.

@@ -1,0 +1,22 @@
+resource_id: LE-AP-082
+content_type: AP
+source: curated
+title: "The Productive Agency in Learning"
+authors:
+  - Daniel L. Schwartz
+  - Jessica M. Tsang
+  - Kristen P. Blair
+year: 2016
+venue: "MIT Press"
+tier: contemporary
+citation_count_approx: 480
+significance: >
+  Synthesized research on productive agency — the idea that learners who generate,
+  explore, and invent (rather than passively receive instruction) develop more robust
+  and transferable knowledge. Integrated findings from invention tasks, desirable
+  difficulties, and productive failure into an accessible framework for instructional
+  designers. Directly relevant to LE system design for generative and agentic learning.
+primary_topic: T01
+secondary_topics:
+  - T12
+  - T04

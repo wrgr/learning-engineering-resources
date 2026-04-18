@@ -1,0 +1,18 @@
+resource_id: LE-AP-713
+content_type: AP
+source: book_endnotes
+status: seed
+title: "“Engineering Learning at Kaplan University"
+authors: []
+year: 2016
+venue: Unknown Venue
+doi: "10.18665/sr.284711"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation: Brown,
+  Jessie and Martin Kurzweil. “Engineering Learning at Kaplan University.”
+  Ithaka S+R. Last modified October 6, 201...
+primary_topic: T01

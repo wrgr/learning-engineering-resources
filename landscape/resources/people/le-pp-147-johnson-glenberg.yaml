@@ -1,0 +1,30 @@
+resource_id: LE-PP-147
+content_type: PP
+source: curated
+status: APPROVED
+name: Mina C. Johnson-Glenberg
+affiliation: "Arizona State University, Embodied Games Lab"
+years: "1965–present"
+era: contemporary
+role: XR and embodied learning researcher; mixed reality STEM education
+description: >
+  Directs the Embodied Games Lab at ASU. Demonstrated that embodied interaction in mixed
+  reality environments improves STEM concept learning. Developed design guidelines for
+  immersive learning environments based on embodied cognition theory. Positioned XR as
+  a rigorous LE domain with measurable outcome metrics.
+key_contributions:
+  - Demonstrated that embodied interaction in mixed reality environments improves STEM concept learning
+  - Developed the Embodied Games Lab at ASU focused on XR for science and engineering education
+  - Showed that whole-body interaction encodes physics concepts more durably than screen-based instruction
+  - Contributed design guidelines for immersive learning environments based on embodied cognition theory
+  - Positioned XR as a rigorous learning engineering domain with measurable outcome metrics
+key_works:
+  - "Embodied science and mixed reality: how gesture and motion capture affect physics education (JLS, 2014)"
+  - "Grand challenges in immersive learning environments and XR (Frontiers in Education, 2018)"
+  - "Powering up and slowing down: Technology and embodied STEM learning (J of Science Ed and Technology, 2016)"
+primary_topic: T08
+secondary_topics:
+  - T01
+  - T02
+url: https://embodied-games.com/
+notes: Embodied Games Lab. XR for STEM. Embodied cognition in learning.

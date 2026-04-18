@@ -1,0 +1,21 @@
+resource_id: LE-AP-578
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Active‐Constructive‐Interactive: A Conceptual Framework for Differentiating Learning Activities"
+authors: []
+year: 2009
+venue: Topics in Cognitive Science
+doi: "10.1111/j.1756-8765.2008.01005.x"
+tier: highly_cited
+citation_count_approx: 1492
+cross_seed_score: 2
+openalex_id: "W2150794602"
+significance: >
+  Published in Topics in Cognitive Science; addresses constructive, active
+  learning (machine learning), cognitive science. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+primary_topic: T14
+secondary_topics:
+  - T01

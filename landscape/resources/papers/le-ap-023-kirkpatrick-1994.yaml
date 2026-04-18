@@ -1,0 +1,19 @@
+resource_id: LE-AP-023
+content_type: AP
+source: curated
+title: "Evaluating Training Programs: The Four Levels"
+authors:
+  - Donald L. Kirkpatrick
+year: 1994
+venue: "Berrett-Koehler Publishers"
+tier: foundational
+citation_count_approx: 12000
+significance: >
+  Established the four-level evaluation model (reaction, learning, behavior, results) that
+  became the dominant framework for assessing training effectiveness worldwide. LE evaluation
+  frameworks are largely built on or in response to Kirkpatrick — understanding it is
+  prerequisite to LEBOK KA10 (Evaluation and Continuous Improvement).
+primary_topic: T10
+secondary_topics:
+  - T15
+  - T02

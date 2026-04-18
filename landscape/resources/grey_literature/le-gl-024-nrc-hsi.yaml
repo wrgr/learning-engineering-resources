@@ -1,0 +1,20 @@
+resource_id: LE-GL-024
+content_type: GL
+source: curated
+status: APPROVED
+title: "Human Systems Integration in the System Development Process: A New Look"
+authors:
+  - "National Research Council"
+year: 2007
+publisher: "National Academies Press"
+url: "https://doi.org/10.17226/11893"
+type: report
+primary_topic: T02
+secondary_topics:
+  - T03
+  - T16
+significance: >
+  National Academies report synthesizing research on integrating human factors into the system
+  development process. Provides the HSI framework (human factors engineering, manpower, personnel,
+  training, safety) that LE borrows when treating learning as a human-system performance problem.
+  Foundational for LE practitioners working in defense and complex system contexts.

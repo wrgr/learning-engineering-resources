@@ -1,0 +1,21 @@
+resource_id: LE-AP-397
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "AutoTutor: A simulation of a human tutor"
+authors: []
+year: 1999
+venue: Cognitive Systems Research
+doi: "10.1016/s1389-0417(99)00005-4"
+tier: contemporary
+citation_count_approx: 386
+cross_seed_score: 2
+openalex_id: "W2004429519"
+significance: >
+  Published in Cognitive Systems Research; addresses dialog box, tutor, computer
+  science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
+  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T06
+secondary_topics:
+  - T03

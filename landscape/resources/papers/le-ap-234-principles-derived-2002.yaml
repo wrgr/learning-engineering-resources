@@ -1,0 +1,19 @@
+resource_id: LE-AP-234
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Principles derived from the study of simple skills do not generalize to complex skill learning"
+authors: []
+year: 2002
+venue: Psychonomic Bulletin & Review
+doi: "10.3758/bf03196276"
+tier: highly_cited
+citation_count_approx: 814
+cross_seed_score: 3
+openalex_id: "W2083133776"
+significance: >
+  Published in Psychonomic Bulletin & Review; addresses psychology,
+  generalizability theory, motor skill. Quality-filtered from OpenAlex cross-
+  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01

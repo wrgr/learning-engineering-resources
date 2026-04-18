@@ -1,0 +1,18 @@
+resource_id: LE-AP-235
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Pasteur's Quadrant: Basic Science and Technological Innovation"
+authors: []
+year: 2005
+venue: Academe
+doi: "10.2307/40253438"
+tier: highly_cited
+citation_count_approx: 2108
+cross_seed_score: 3
+openalex_id: "W2083820551"
+significance: >
+  Published in Academe; addresses quadrant (abdomen), economics, medicine.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
+  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T01

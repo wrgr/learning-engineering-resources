@@ -1,0 +1,26 @@
+resource_id: LE-PP-072
+content_type: PP
+source: curated
+status: APPROVED
+name: John Costa
+affiliation: "Repubit; IEEE ICICLE — Workforce MIG"
+years: "active 2010s–present"
+era: contemporary
+role: Workforce LE practitioner; ICICLE Workforce MIG co-chair
+description: >
+  Co-chair of the Workforce MIG within IEEE ICICLE, advancing LE methods in corporate
+  L&D, workforce development, and professional upskilling contexts. Repubit connection
+  brings startup technology perspectives to workforce LE discussions.
+key_contributions:
+  - Co-chairs the Workforce MIG (ICICLE), advancing LE methods in corporate learning and workforce development
+  - Connects technology startup context (Repubit) with evidence-based workforce learning practices
+  - Applies LE principles to corporate training design, credentialing, and professional upskilling
+  - Contributes practitioner frameworks to ICICLE's BoK on workforce and organizational learning contexts
+key_works:
+  - "IEEE ICICLE Workforce MIG practitioner resources and frameworks"
+primary_topic: T10
+secondary_topics:
+  - T16
+  - T03
+url: https://icicle.ieee.org
+notes: ICICLE community lead. Workforce MIG. Corporate L&D.

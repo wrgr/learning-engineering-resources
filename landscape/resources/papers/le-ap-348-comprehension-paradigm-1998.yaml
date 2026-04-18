@@ -1,0 +1,18 @@
+resource_id: LE-AP-348
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Comprehension: A Paradigm for Cognition"
+authors: []
+year: 1998
+venue: Unknown Venue
+tier: highly_cited
+citation_count_approx: 4772
+cross_seed_score: 2
+openalex_id: "W1674947250"
+significance: >
+  Published in Unknown Venue; addresses comprehension, cognition, index
+  (typography). Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,19 @@
+resource_id: LE-AP-474
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Sociocultural approaches to learning and development: A Vygotskian framework"
+authors: []
+year: 1996
+venue: Educational Psychologist
+doi: "10.1080/00461520.1996.9653266"
+tier: highly_cited
+citation_count_approx: 1098
+cross_seed_score: 2
+openalex_id: "W2074757189"
+significance: >
+  Published in Educational Psychologist; addresses sociocultural evolution,
+  psychology, semiotics. Quality-filtered from OpenAlex cross-seed expansion of
+  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

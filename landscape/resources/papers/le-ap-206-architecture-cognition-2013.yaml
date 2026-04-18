@@ -1,0 +1,19 @@
+resource_id: LE-AP-206
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Architecture of Cognition"
+authors: []
+year: 2013
+venue: Psychology Press eBooks
+doi: "10.4324/9781315799438"
+tier: foundational
+citation_count_approx: 6798
+cross_seed_score: 3
+openalex_id: "W1708874574"
+significance: >
+  Published in Psychology Press eBooks; addresses architecture, cognition,
+  cognitive science. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+primary_topic: T01

@@ -1,0 +1,22 @@
+resource_id: LE-AP-533
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "Research–practice interactions as reported in recent design studies: still promising, still hazy"
+authors: []
+year: 2012
+venue: Educational Technology Research and Development
+doi: "10.1007/s11423-012-9261-6"
+tier: contemporary
+citation_count_approx: 47
+cross_seed_score: 2
+openalex_id: "W2129312345"
+significance: >
+  Published in Educational Technology Research and Development; addresses
+  instructional design, curriculum, research design. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+primary_topic: T03
+secondary_topics:
+  - T16
+  - T01

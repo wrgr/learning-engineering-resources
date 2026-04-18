@@ -1,0 +1,18 @@
+resource_id: LE-CE-007
+content_type: CE
+source: curated
+status: APPROVED
+name: "IEEE ICICLE Annual Meeting"
+type: conference
+affiliation_or_venue: "IEEE ICICLE"
+frequency: Annual
+url: "https://sagroups.ieee.org/icicle/"
+primary_topic: T00
+secondary_topics:
+  - T16
+  - T15
+description: >
+  Annual community gathering for the IEEE learning engineering community.
+  Standards, BoK, and credentialing discussions. Field-defining community event
+  for LE professionals.
+notes: ""

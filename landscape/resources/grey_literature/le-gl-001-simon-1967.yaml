@@ -1,0 +1,20 @@
+resource_id: LE-GL-001
+content_type: GL
+source: curated
+status: APPROVED
+title: "The Job of a College President"
+authors:
+  - "Herbert A. Simon"
+year: 1967
+publisher: "Educational Record (American Council on Education)"
+url: "http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33692"
+type: essay
+primary_topic: T00
+secondary_topics:
+  - T03
+  - T12
+significance: >
+  The founding document of learning engineering. Simon coined the term 'learning engineer'
+  and argued that teaching effectiveness is a domain of expertise distinct from subject-matter
+  knowledge, requiring its own scientific foundation in cognitive science. The philosophical
+  and historical origin of everything in the field.

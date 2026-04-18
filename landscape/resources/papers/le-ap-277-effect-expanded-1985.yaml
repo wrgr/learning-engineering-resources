@@ -1,0 +1,18 @@
+resource_id: LE-AP-277
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The effect of expanded versus massed practice on the retention of multiplication facts and spelling lists."
+authors: []
+year: 1985
+venue: Unknown Venue
+tier: contemporary
+citation_count_approx: 113
+cross_seed_score: 3
+openalex_id: "W2912828701"
+significance: >
+  Published in Unknown Venue; addresses multiplication (music), spelling,
+  arithmetic. Quality-filtered from OpenAlex cross-seed expansion of the Goodell
+  & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+primary_topic: T01

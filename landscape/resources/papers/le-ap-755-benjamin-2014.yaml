@@ -1,0 +1,18 @@
+resource_id: LE-AP-755
+content_type: AP
+source: book_endnotes
+status: seed
+title: ", Benjamin N"
+authors: []
+year: 2014
+venue: Unknown Venue
+doi: "10.1007/s40614-014-0006-1"
+tier: contemporary
+citation_count_approx: 0
+openalex_id: ""
+significance: >
+  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
+  topics in learning engineering. Full bibliographic details in citation:
+  Morford, Zachary H., Benjamin N. Witts, Kenneth J. Killingsworth & Mark P.
+  Alavosius. “Gamification: The Intersection Be...
+primary_topic: T01

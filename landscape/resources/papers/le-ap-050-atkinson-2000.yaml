@@ -1,0 +1,27 @@
+resource_id: LE-AP-050
+content_type: AP
+source: curated
+title: "Learning from Examples: Instructional Principles from the Worked Examples Research"
+authors:
+  - Robert K. Atkinson
+  - Sharon J. Derry
+  - Alexander Renkl
+  - Donald Wortham
+year: 2000
+venue: Review of Educational Research
+volume: "70"
+issue: "2"
+pages: "181–214"
+doi: "10.3102/00346543070002181"
+tier: highly_cited
+citation_count_approx: 2600
+significance: >
+  Comprehensive review of worked example research synthesizing instructional principles
+  for optimizing example-based learning: completion problems, self-explanation prompts,
+  example variability, and fading strategies. Directly informs LE system design for
+  tutoring systems that use worked examples as primary instructional content, including
+  adaptive fading strategies as learners progress from novice to expert.
+primary_topic: T12
+secondary_topics:
+  - T01
+  - T06

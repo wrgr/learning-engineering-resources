@@ -1,0 +1,19 @@
+resource_id: LE-AP-268
+content_type: AP
+source: openalex_expansion
+status: seed
+title: "The Evolution of Reciprocal Altruism"
+authors: []
+year: 1971
+venue: The Quarterly Review of Biology
+doi: "10.1086/406755"
+tier: foundational
+citation_count_approx: 10988
+cross_seed_score: 3
+openalex_id: "W2167030552"
+significance: >
+  Published in The Quarterly Review of Biology; addresses altruism (biology),
+  social psychology, psychology. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+primary_topic: T01
