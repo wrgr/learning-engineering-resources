@@ -1,0 +1,24 @@
+resource_id: LE-AP-792
+content_type: AP
+source: curated
+title: "The RISE Framework: Using Learning Analytics to Automatically Identify Open Educational Resources for Continuous Improvement"
+authors:
+  - Rob Nyland
+  - Robert Bodily
+  - David Wiley
+year: 2017
+venue: "International Review of Research in Open and Distributed Learning"
+volume: "18"
+issue: "2"
+tier: contemporary
+citation_count_approx: 55
+significance: >
+  Proposes the RISE (Resource Inspection, Selection, and Enhancement) framework
+  for using learning analytics to automatically flag open educational resources
+  needing improvement. Demonstrates how data signals from learner interactions
+  can drive continuous evidence-based revision of OER materials, a core LE
+  feedback loop.
+primary_topic: T09
+secondary_topics:
+  - T14
+  - T16

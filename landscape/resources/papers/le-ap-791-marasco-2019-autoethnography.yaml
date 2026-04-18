@@ -1,0 +1,24 @@
+resource_id: LE-AP-791
+content_type: AP
+source: curated
+title: "Collaborative Autoethnographic Study of a Large-Scale Flipped Classroom Implementation with Multiple Instructors"
+authors:
+  - Emily Marasco
+  - Ryan Paul
+  - Mohammad Moshirpour
+  - Laleh Behjat
+  - Elise Croft
+year: 2019
+venue: "ASEE Annual Conference and Exposition Proceedings"
+doi: "10.18260/1-2--32516"
+tier: contemporary
+citation_count_approx: 22
+significance: >
+  Qualitative study examining instructor experiences coordinating a large-scale
+  flipped classroom across multiple instructors. Uses collaborative
+  autoethnography to surface coordination challenges, equity concerns, and
+  design lessons for scaling evidence-based pedagogy in engineering education.
+primary_topic: T14
+secondary_topics:
+  - T17
+  - T03

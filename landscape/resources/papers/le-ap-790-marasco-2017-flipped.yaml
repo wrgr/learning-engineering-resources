@@ -1,0 +1,23 @@
+resource_id: LE-AP-790
+content_type: AP
+source: curated
+title: "Flipping the Foundation: A Multi-Year Flipped Classroom Study for a Large-Scale Introductory Programming Course"
+authors:
+  - Emily Marasco
+  - Mohammad Moshirpour
+  - Mehdi Moussavi
+year: 2017
+venue: "ASEE Annual Conference and Exposition Proceedings"
+doi: "10.18260/1-2--28372"
+tier: contemporary
+citation_count_approx: 45
+significance: >
+  Multi-year learning engineering case study of a flipped classroom
+  implementation in a large-enrollment introductory programming course.
+  Demonstrates iterative, evidence-based design improvement over multiple
+  semesters, directly illustrating the LE process of measurement-driven redesign
+  at scale.
+primary_topic: T14
+secondary_topics:
+  - T01
+  - T06

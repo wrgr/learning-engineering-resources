@@ -1,0 +1,26 @@
+resource_id: LE-AP-797
+content_type: AP
+source: curated
+title: "Learning to Love LLMs for Answer Interpretation: Chain-of-Thought Prompting and the AMMORE Dataset"
+authors:
+  - Baptiste Moreau-Pernet
+  - Ole Henkel
+  - Hunter Horne-Robinson
+  - Michael Dyshel
+year: 2025
+venue: "Journal of Learning Analytics"
+volume: "12"
+issue: "1"
+pages: "50-64"
+doi: "10.18608/jla.2025.8621"
+tier: contemporary
+citation_count_approx: 4
+significance: >
+  Investigates chain-of-thought prompting strategies for using LLMs to interpret
+  and score open-ended student responses, releasing the AMMORE dataset for
+  benchmarking. Advances automated formative assessment at scale, enabling
+  richer evidence signals for adaptive learning systems.
+primary_topic: T09
+secondary_topics:
+  - T06
+  - T11
