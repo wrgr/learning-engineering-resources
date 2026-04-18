@@ -1,5 +1,6 @@
 resource_id: LE-PP-090
 content_type: PP
+source: curated
 status: APPROVED
 name: Herbert A. Simon
 affiliation: Carnegie Mellon University

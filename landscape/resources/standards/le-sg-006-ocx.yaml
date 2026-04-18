@@ -1,5 +1,6 @@
 resource_id: LE-SG-006
 content_type: SG
+source: curated
 status: APPROVED
 name: "Open Context Exchange (OCX)"
 type: standard

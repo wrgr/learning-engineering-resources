@@ -1,5 +1,6 @@
 resource_id: LE-GL-011
 content_type: GL
+source: curated
 status: APPROVED
 title: "7 Things You Should Know About Learning Engineering"
 authors:

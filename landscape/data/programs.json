@@ -2,6 +2,7 @@
   {
     "resource_id": "LE-PC-001",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "LENS @ JHU — Learning Engineering for Next-Generation Systems",
     "url": "[internal]",
@@ -16,6 +17,7 @@
   {
     "resource_id": "LE-PC-002",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "Human-Computer Interaction Institute — CMU",
     "url": "https://hcii.cmu.edu",
@@ -29,6 +31,7 @@
   {
     "resource_id": "LE-PC-003",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "Learning Engineering Virtual Institute (LEVI)",
     "url": "https://learning-engineering-virtual-institute.org/",
@@ -43,6 +46,7 @@
   {
     "resource_id": "LE-PC-004",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "Open Learning Initiative (OLI)",
     "url": "https://oli.cmu.edu",
@@ -56,6 +60,7 @@
   {
     "resource_id": "LE-PC-074",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "METALS / MS in Learning Engineering (Carnegie Mellon)",
     "url": "https://metals.hcii.cmu.edu/",
@@ -70,6 +75,7 @@
   {
     "resource_id": "LE-PC-075",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "Learning Engineering Fellowship (CMU OLI)",
     "url": "https://oli.cmu.edu/learning-engineering/training/",
@@ -83,6 +89,7 @@
   {
     "resource_id": "LE-PC-076",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "MIT Learning Engineering and Practice (LEAP) Group",
     "url": "https://leapgroup.mit.edu/",
@@ -97,6 +104,7 @@
   {
     "resource_id": "LE-PC-077",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "LearnLab & LearnLab professional programs (CMU / network)",
     "url": "https://learnlab.org/",
@@ -110,6 +118,7 @@
   {
     "resource_id": "LE-PC-079",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "ASU Learning Engineering Institute & Graduate Certificate",
     "url": "https://learningengineering.asu.edu/",
@@ -123,6 +132,7 @@
   {
     "resource_id": "LE-PC-080",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "Indiana University Luddy — ISE & human-centered computing",
     "url": "https://luddy.indiana.edu/",
@@ -136,6 +146,7 @@
   {
     "resource_id": "LE-PC-084",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "Penn Center for Learning Analytics (UPenn GSE)",
     "url": "https://learninganalytics.upenn.edu/",
@@ -149,6 +160,7 @@
   {
     "resource_id": "LE-PC-085",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "Stanford GSE — M.S. Learning Design and Technology (LDT)",
     "url": "https://gse-ldt.stanford.edu/",
@@ -162,6 +174,7 @@
   {
     "resource_id": "LE-PC-088",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "University of Washington — Learning sciences & design (CoE, HCDE, iSchool)",
     "url": "https://education.uw.edu/academics/area/learning-sciences-human-development",
@@ -175,6 +188,7 @@
   {
     "resource_id": "LE-PC-089",
     "content_type": "PC",
+    "source": "registry_migration",
     "status": "APPROVED",
     "name": "Purdue School of Engineering Education (ENE)",
     "url": "https://engineering.purdue.edu/ENE/Academics/Graduate",

@@ -1,5 +1,6 @@
 resource_id: LE-AP-085
 content_type: AP
+source: curated
 title: "The Myths of the Digital Native and the Multitasker"
 authors:
   - Paul A. Kirschner

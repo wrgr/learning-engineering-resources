@@ -1,5 +1,6 @@
 resource_id: LE-AP-668
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Explaining Self-Explaining: A Contrast between Content and Generation"
 authors: []

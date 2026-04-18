@@ -2,6 +2,7 @@
   {
     "resource_id": "LE-GL-001",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "The Job of a College President",
     "authors": [
@@ -21,6 +22,7 @@
   {
     "resource_id": "LE-GL-002",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "Online Education: A Catalyst for Higher Education Reforms",
     "authors": [
@@ -42,6 +44,7 @@
   {
     "resource_id": "LE-GL-003",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "High-Leverage Opportunities for Learning Engineering",
     "authors": [
@@ -63,6 +66,7 @@
   {
     "resource_id": "LE-GL-004",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations",
     "authors": [
@@ -82,6 +86,7 @@
   {
     "resource_id": "LE-GL-005",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "EDUCAUSE Horizon Report: Teaching and Learning Edition",
     "authors": [
@@ -102,6 +107,7 @@
   {
     "resource_id": "LE-GL-006",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "NMC Horizon Report: 2017 Higher Education Edition",
     "authors": [
@@ -126,6 +132,7 @@
   {
     "resource_id": "LE-GL-007",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, and Beyond",
     "authors": [
@@ -146,6 +153,7 @@
   {
     "resource_id": "LE-GL-008",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "Learning Engineering for Online Education: Theoretical Contexts and Design-Based Examples",
     "authors": [
@@ -167,6 +175,7 @@
   {
     "resource_id": "LE-GL-009",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "Learning Engineering Adoption Maturity Model (LEAMM)",
     "authors": [
@@ -194,6 +203,7 @@
   {
     "resource_id": "LE-GL-010",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "OpenSimon Toolkit",
     "authors": [
@@ -213,6 +223,7 @@
   {
     "resource_id": "LE-GL-011",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "7 Things You Should Know About Learning Engineering",
     "authors": [
@@ -231,6 +242,7 @@
   {
     "resource_id": "LE-GL-012",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "Learning Engineering (IEEE Press)",
     "authors": [
@@ -252,6 +264,7 @@
   {
     "resource_id": "LE-GL-013",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "IEEE ICICLE Resources Page",
     "authors": [
@@ -270,6 +283,7 @@
   {
     "resource_id": "LE-GL-014",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "How People Learn: Brain, Mind, Experience, and School (Expanded Edition)",
     "authors": [
@@ -288,6 +302,7 @@
   {
     "resource_id": "LE-GL-015",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "The Forgotten Role of the Learning Engineer",
     "authors": [
@@ -307,6 +322,7 @@
   {
     "resource_id": "LE-GL-016",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "ICICLE Body of Knowledge (BoK) — current draft",
     "authors": [
@@ -327,6 +343,7 @@
   {
     "resource_id": "LE-GL-017",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "MIL-STD-1472H: Human Engineering Design Criteria for Military Systems",
     "authors": [
@@ -345,6 +362,7 @@
   {
     "resource_id": "LE-GL-018",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "NASA Human Systems Integration Practitioner's Guide",
     "authors": [
@@ -364,6 +382,7 @@
   {
     "resource_id": "LE-GL-019",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "INCOSE Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities (4th ed.)",
     "authors": [
@@ -387,6 +406,7 @@
   {
     "resource_id": "LE-GL-020",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "DoD Instruction 1322.26: Development, Management, and Delivery of Distributed Learning",
     "authors": [
@@ -406,6 +426,7 @@
   {
     "resource_id": "LE-GL-021",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "State of the Industry Report",
     "authors": [
@@ -426,6 +447,7 @@
   {
     "resource_id": "LE-GL-022",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "AC 120-51E: Crew Resource Management Training",
     "authors": [
@@ -445,6 +467,7 @@
   {
     "resource_id": "LE-GL-023",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "What Works Clearinghouse Handbook (v5.0)",
     "authors": [
@@ -464,6 +487,7 @@
   {
     "resource_id": "LE-GL-024",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "Human Systems Integration in the System Development Process: A New Look",
     "authors": [
@@ -483,6 +507,7 @@
   {
     "resource_id": "LE-GL-025",
     "content_type": "GL",
+    "source": "curated",
     "status": "APPROVED",
     "title": "Siemens Pathway to Learning Engineering",
     "authors": [

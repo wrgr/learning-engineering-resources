@@ -1,5 +1,6 @@
 resource_id: LE-AP-333
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Data Mining: Practical Machine Learning Tools and Techniques"
 authors: []

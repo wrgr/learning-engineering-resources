@@ -1,5 +1,6 @@
 resource_id: LE-AP-350
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "An Open Repository and analysis tools for fine-grained, longitudinal learner data."
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-677
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Generalizing solution procedures learned from examples."
 authors: []

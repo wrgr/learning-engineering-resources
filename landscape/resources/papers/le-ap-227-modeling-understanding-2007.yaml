@@ -1,5 +1,6 @@
 resource_id: LE-AP-227
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Modeling and understanding students' off-task behavior in intelligent tutoring systems"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-PP-059
 content_type: PP
+source: curated
 status: APPROVED
 name: Amy Parent
 affiliation: "Salience Learning; IEEE ICICLE — Design for Learning SIG"

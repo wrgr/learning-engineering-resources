@@ -1,5 +1,6 @@
 resource_id: LE-SG-003
 content_type: SG
+source: curated
 status: APPROVED
 name: "IEEE P2247.1 & P2247.2: Adaptive Instructional Systems (AIS)"
 type: standard

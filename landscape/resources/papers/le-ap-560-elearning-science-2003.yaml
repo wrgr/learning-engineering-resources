@@ -1,5 +1,6 @@
 resource_id: LE-AP-560
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "e‐Learning and the Science of Instruction"
 authors: []

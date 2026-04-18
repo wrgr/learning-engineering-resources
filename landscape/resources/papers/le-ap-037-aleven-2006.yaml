@@ -1,5 +1,6 @@
 resource_id: LE-AP-037
 content_type: AP
+source: curated
 title: "Toward Meta-cognitive Tutoring: A Model of Help Seeking with a Cognitive Tutor"
 authors:
   - Vincent Aleven

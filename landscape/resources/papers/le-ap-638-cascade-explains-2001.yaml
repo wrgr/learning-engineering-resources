@@ -1,5 +1,6 @@
 resource_id: LE-AP-638
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Cascade Explains and Informs the Utility of Fading Examples to Problems"
 authors: []

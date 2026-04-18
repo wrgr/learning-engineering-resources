@@ -1,5 +1,6 @@
 resource_id: LE-AP-433
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "An approach to the psychology of instruction."
 authors: []

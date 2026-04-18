@@ -1,5 +1,6 @@
 resource_id: LE-SG-002
 content_type: SG
+source: curated
 status: APPROVED
 name: "IEEE 9274 Family (xAPI / Experience API)"
 type: standard

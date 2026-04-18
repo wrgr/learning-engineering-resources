@@ -1,5 +1,6 @@
 resource_id: LE-PP-141
 content_type: PP
+source: curated
 status: APPROVED
 name: Gary Klein
 affiliation: "MacroCognition LLC (formerly Klein Associates)"

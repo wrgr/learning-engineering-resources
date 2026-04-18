@@ -1,5 +1,6 @@
 resource_id: LE-AP-326
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "International Perspectives on the Design of Technology-supported Learning Environments"
 authors: []

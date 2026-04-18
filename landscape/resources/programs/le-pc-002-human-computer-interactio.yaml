@@ -1,5 +1,6 @@
 resource_id: LE-PC-002
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "Human-Computer Interaction Institute — CMU"
 url: "https://hcii.cmu.edu"

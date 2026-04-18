@@ -1,5 +1,6 @@
 resource_id: LE-AP-450
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Toward a theory of the universal content and structure of values: Extensions and cross-cultural replications."
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-PC-089
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "Purdue School of Engineering Education (ENE)"
 url: "https://engineering.purdue.edu/ENE/Academics/Graduate"

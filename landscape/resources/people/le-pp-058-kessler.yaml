@@ -1,5 +1,6 @@
 resource_id: LE-PP-058
 content_type: PP
+source: curated
 status: APPROVED
 name: Aaron Kessler
 affiliation: "MIT; IEEE ICICLE — Design for Learning SIG"

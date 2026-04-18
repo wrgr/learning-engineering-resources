@@ -1,5 +1,6 @@
 resource_id: LE-AP-004
 content_type: AP
+source: curated
 title: Computer Support for Knowledge-Building Communities
 authors:
   - Marlene Scardamalia

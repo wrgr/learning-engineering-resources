@@ -1,5 +1,6 @@
 resource_id: LE-SG-005
 content_type: SG
+source: curated
 status: APPROVED
 name: "IEEE 1484.12.1-2002 & P2881: Learning Object Metadata"
 type: standard

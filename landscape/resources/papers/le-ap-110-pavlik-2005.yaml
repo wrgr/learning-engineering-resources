@@ -1,5 +1,6 @@
 resource_id: LE-AP-110
 content_type: AP
+source: curated
 title: "Practice and Forgetting Effects on Vocabulary Memory: An Activation-Based Model of the Spacing Effect"
 authors:
   - Philip I. Pavlik

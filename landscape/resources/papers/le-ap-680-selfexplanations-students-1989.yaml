@@ -1,5 +1,6 @@
 resource_id: LE-AP-680
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Self‐Explanations: How Students Study and Use Examples in Learning to Solve Problems"
 authors: []

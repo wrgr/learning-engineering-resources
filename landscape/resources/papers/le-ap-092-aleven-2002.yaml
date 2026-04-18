@@ -1,5 +1,6 @@
 resource_id: LE-AP-092
 content_type: AP
+source: curated
 title: "An effective metacognitive strategy: Learning by doing and explaining with a computer-based cognitive tutor"
 authors:
   - Vincent Aleven

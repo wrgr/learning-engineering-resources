@@ -1,5 +1,6 @@
 resource_id: LE-AP-400
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Above and Below Left–Right: Ideological Narratives and Moral Foundations"
 authors: []

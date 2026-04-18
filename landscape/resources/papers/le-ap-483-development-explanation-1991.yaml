@@ -1,5 +1,6 @@
 resource_id: LE-AP-483
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Development of explanation: Incremental and fundamental change in children's physics knowledge"
 authors: []

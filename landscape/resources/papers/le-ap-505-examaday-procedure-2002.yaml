@@ -1,5 +1,6 @@
 resource_id: LE-AP-505
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Exam-A-Day Procedure Improves Performance in Psychology Classes"
 authors: []

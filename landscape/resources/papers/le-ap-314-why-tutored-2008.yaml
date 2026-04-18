@@ -1,5 +1,6 @@
 resource_id: LE-AP-314
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Why Tutored Problem Solving May be Better Than Example Study: Theoretical Implications from a Simulated-Student Study"
 authors: []

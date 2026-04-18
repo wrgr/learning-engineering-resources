@@ -1,5 +1,6 @@
 resource_id: LE-AP-501
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Cues of being watched enhance cooperation in a real-world setting"
 authors: []

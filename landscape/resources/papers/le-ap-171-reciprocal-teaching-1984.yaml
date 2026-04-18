@@ -1,5 +1,6 @@
 resource_id: LE-AP-171
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Reciprocal Teaching of Comprehension-Fostering and Comprehension-Monitoring Activities"
 authors: []

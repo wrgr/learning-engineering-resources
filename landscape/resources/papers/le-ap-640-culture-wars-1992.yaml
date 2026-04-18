@@ -1,5 +1,6 @@
 resource_id: LE-AP-640
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Culture Wars: The Struggle to Define America"
 authors: []

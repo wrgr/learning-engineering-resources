@@ -1,5 +1,6 @@
 resource_id: LE-PC-079
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "ASU Learning Engineering Institute & Graduate Certificate"
 url: "https://learningengineering.asu.edu/"

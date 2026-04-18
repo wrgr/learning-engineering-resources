@@ -1,5 +1,6 @@
 resource_id: LE-AP-191
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains"
 authors: []

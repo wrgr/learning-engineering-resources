@@ -1,5 +1,6 @@
 resource_id: LE-AP-481
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Artificial Intelligence in the Classroom: The Impact of a Computer-Based Tutor on Teachers and Students"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-646
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "What Do We Teach When We Teach the Learning Sciences? A Document Analysis of 75 Graduate Programs"
 authors: []

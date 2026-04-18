@@ -1,5 +1,6 @@
 resource_id: LE-AP-071
 content_type: AP
+source: curated
 title: "Reading Comprehension and Discourse"
 authors:
   - Danielle S. McNamara

@@ -1,5 +1,6 @@
 resource_id: LE-AP-065
 content_type: AP
+source: curated
 title: "Adaptive Intelligent Support to Improve Peer Tutoring in Computer Science"
 authors:
   - Erin Walker

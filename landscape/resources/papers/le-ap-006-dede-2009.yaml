@@ -1,5 +1,6 @@
 resource_id: LE-AP-006
 content_type: AP
+source: curated
 title: Immersive interfaces for engagement and learning
 authors:
   - Chris Dede

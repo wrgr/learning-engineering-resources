@@ -1,5 +1,6 @@
 resource_id: LE-AP-476
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Teachers and Machines: The Classroom Use of Technology since 1920"
 authors: []

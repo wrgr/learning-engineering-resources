@@ -1,5 +1,6 @@
 resource_id: LE-AP-601
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Observing Tutorial Dialogues Collaboratively: Insights About Human Tutoring Effectiveness From Vicarious Learning"
 authors: []

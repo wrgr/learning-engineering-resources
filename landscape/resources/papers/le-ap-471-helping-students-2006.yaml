@@ -1,5 +1,6 @@
 resource_id: LE-AP-471
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Helping Students Understand Challenging Topics in Science Through Ontology Training"
 authors: []

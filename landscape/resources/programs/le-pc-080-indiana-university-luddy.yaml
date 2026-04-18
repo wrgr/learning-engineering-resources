@@ -1,5 +1,6 @@
 resource_id: LE-PC-080
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "Indiana University Luddy — ISE & human-centered computing"
 url: "https://luddy.indiana.edu/"

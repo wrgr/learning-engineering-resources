@@ -1,5 +1,6 @@
 resource_id: LE-AP-703
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Profiling Students Who Take Online Courses Using Data Mining Methods."
 authors: []

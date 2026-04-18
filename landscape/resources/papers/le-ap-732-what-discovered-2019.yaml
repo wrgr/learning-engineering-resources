@@ -1,5 +1,6 @@
 resource_id: LE-AP-732
 content_type: AP
+source: book_endnotes
 status: seed
 title: "“What We Discovered at the Roots of Learning Engineering"
 authors: []

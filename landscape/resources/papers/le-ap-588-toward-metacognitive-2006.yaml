@@ -1,5 +1,6 @@
 resource_id: LE-AP-588
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Toward Meta-cognitive Tutoring: A Model of Help Seeking with a Cognitive Tutor"
 authors: []

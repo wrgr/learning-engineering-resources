@@ -1,5 +1,6 @@
 resource_id: LE-AP-635
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "In Vivo Experiments on Whether Supporting Metacognition in Intelligent Tutoring Systems Yields Robust Learning"
 authors: []

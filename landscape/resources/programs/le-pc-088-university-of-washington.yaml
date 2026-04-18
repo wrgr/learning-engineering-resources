@@ -1,5 +1,6 @@
 resource_id: LE-PC-088
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "University of Washington — Learning sciences & design (CoE, HCDE, iSchool)"
 url: "https://education.uw.edu/academics/area/learning-sciences-human-development"

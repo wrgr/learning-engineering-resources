@@ -1,5 +1,6 @@
 resource_id: LE-AP-130
 content_type: AP
+source: curated
 title: "Off-Task Behavior in the Cognitive Tutor Classroom: When Students 'Game the System'"
 authors:
   - Ryan S. J. d. Baker

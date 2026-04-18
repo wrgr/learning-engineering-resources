@@ -1,5 +1,6 @@
 resource_id: LE-AP-001
 content_type: AP
+source: curated
 title: "Abstract planning and perceptual chunks: Elements of expertise in geometry"
 authors:
   - Kenneth R. Koedinger

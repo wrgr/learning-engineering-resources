@@ -1,5 +1,6 @@
 resource_id: LE-AP-587
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The origins of intelligence in children."
 authors: []

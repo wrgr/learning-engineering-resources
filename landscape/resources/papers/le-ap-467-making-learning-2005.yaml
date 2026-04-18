@@ -1,5 +1,6 @@
 resource_id: LE-AP-467
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Making learning fun: Quest Atlantis, a game without guns"
 authors: []

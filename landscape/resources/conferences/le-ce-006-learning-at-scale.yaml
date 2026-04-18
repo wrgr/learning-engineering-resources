@@ -1,5 +1,6 @@
 resource_id: LE-CE-006
 content_type: CE
+source: curated
 status: APPROVED
 name: "Learning @ Scale (L@S)"
 type: conference

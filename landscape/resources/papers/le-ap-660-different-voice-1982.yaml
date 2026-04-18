@@ -1,5 +1,6 @@
 resource_id: LE-AP-660
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "In A Different Voice: Psychological Theory And Women's Development"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-144
 content_type: AP
+source: curated
 title: "An Approach to Knowledge Component / Skill Modeling in Online Courses"
 authors:
   - Norman Bier

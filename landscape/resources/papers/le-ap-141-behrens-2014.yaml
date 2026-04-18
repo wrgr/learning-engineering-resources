@@ -1,5 +1,6 @@
 resource_id: LE-AP-141
 content_type: AP
+source: curated
 title: "Impacts of the Digital Ocean on Education"
 authors:
   - Kristen E. DiCerbo

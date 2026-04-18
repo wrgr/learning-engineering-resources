@@ -1,5 +1,6 @@
 resource_id: LE-AP-625
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The role of argumentation and explanation in conceptual change: Indications from protocol analyses of peer-to-peer dialogue"
 authors: []

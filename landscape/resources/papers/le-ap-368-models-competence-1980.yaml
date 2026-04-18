@@ -1,5 +1,6 @@
 resource_id: LE-AP-368
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Models of Competence in Solving Physics Problems*"
 authors: []

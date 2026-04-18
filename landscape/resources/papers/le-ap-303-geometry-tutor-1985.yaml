@@ -1,5 +1,6 @@
 resource_id: LE-AP-303
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The geometry tutor"
 authors: []

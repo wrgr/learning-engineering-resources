@@ -1,5 +1,6 @@
 resource_id: LE-AP-388
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Rethinking Transfer: A Simple Proposal with Multiple Implications"
 authors: []

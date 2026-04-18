@@ -1,5 +1,6 @@
 resource_id: LE-AP-178
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The weirdest people in the world?"
 authors: []

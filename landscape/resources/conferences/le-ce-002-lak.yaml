@@ -1,5 +1,6 @@
 resource_id: LE-CE-002
 content_type: CE
+source: curated
 status: APPROVED
 name: "International Conference on Learning Analytics and Knowledge (LAK)"
 type: conference

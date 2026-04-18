@@ -1,5 +1,6 @@
 resource_id: LE-AP-221
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Transfer of Scientific Principles Using Concrete and Idealized Simulations"
 authors: []

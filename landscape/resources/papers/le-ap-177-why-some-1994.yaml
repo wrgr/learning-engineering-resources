@@ -1,5 +1,6 @@
 resource_id: LE-AP-177
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Why Some Material Is Difficult to Learn"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-644
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies"
 authors: []

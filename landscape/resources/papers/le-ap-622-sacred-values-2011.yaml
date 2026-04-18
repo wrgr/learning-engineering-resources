@@ -1,5 +1,6 @@
 resource_id: LE-AP-622
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Sacred values and evil adversaries: A moral foundations approach."
 authors: []

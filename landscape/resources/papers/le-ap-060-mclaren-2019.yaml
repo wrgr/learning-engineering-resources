@@ -1,5 +1,6 @@
 resource_id: LE-AP-060
 content_type: AP
+source: curated
 title: "Digital game versus textbook practice leads to better retention and transfer of mathematics in 3rd grade"
 authors:
   - Bruce M. McLaren

@@ -1,5 +1,6 @@
 resource_id: LE-AP-126
 content_type: AP
+source: curated
 title: "Diagnostic Models for Procedural Bugs in Basic Mathematical Skills"
 authors:
   - John Seely Brown

@@ -1,5 +1,6 @@
 resource_id: LE-AP-399
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Argumentation and Explanation in Conceptual Change: Indications From Protocol Analyses of Peer‐to‐Peer Dialog"
 authors: []

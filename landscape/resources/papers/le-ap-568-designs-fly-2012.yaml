@@ -1,5 +1,6 @@
 resource_id: LE-AP-568
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Designs that fly: what the history of aeronautics tells us about the future of design-based research in education"
 authors: []

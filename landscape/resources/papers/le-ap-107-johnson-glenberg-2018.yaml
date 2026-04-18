@@ -1,5 +1,6 @@
 resource_id: LE-AP-107
 content_type: AP
+source: curated
 title: "STEM lab and mixed reality: Two design heuristics for immersive experiences"
 authors:
   - Mina C. Johnson-Glenberg

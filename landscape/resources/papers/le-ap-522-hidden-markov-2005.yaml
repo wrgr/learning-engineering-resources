@@ -1,5 +1,6 @@
 resource_id: LE-AP-522
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Hidden Markov Model Based Characterization of Content Access Patterns in an e-Learning Environment"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-561
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Mapping the Connections between Politics and Morality: The Multiple Sociopolitical Orientations Involved in Moral Intuition"
 authors: []

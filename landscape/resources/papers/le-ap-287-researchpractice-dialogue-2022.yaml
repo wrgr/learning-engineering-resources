@@ -1,5 +1,6 @@
 resource_id: LE-AP-287
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Research–Practice Dialogue in Second Language Learning and Teaching: Past, Present, and Future"
 authors: []

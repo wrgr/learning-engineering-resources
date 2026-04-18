@@ -1,5 +1,6 @@
 resource_id: LE-AP-555
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Advancing Development of Intercultural Competence through Supporting Predictions in Narrative Video"
 authors: []

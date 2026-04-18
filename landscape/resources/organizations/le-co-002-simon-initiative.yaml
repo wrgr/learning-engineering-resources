@@ -1,5 +1,6 @@
 resource_id: LE-CO-002
 content_type: CO
+source: curated
 status: APPROVED
 name: "The Simon Initiative"
 type: research_center

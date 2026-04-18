@@ -1,5 +1,6 @@
 resource_id: LE-JO-005
 content_type: JO
+source: curated
 status: APPROVED
 name: "International Journal of Artificial Intelligence in Education (IJAIED)"
 type: journal

@@ -1,5 +1,6 @@
 resource_id: LE-TP-006
 content_type: TP
+source: curated
 status: APPROVED
 name: "H5P — HTML5 Interactive Content"
 type: platform

@@ -1,5 +1,6 @@
 resource_id: LE-AP-042
 content_type: AP
+source: curated
 title: "Cognitive Architecture and Instructional Design"
 authors:
   - John Sweller

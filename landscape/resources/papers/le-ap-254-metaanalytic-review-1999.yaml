@@ -1,5 +1,6 @@
 resource_id: LE-AP-254
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "A meta-analytic review of the distribution of practice effect: Now you see it, now you don't."
 authors: []

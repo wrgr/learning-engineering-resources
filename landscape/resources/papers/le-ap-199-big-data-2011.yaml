@@ -1,5 +1,6 @@
 resource_id: LE-AP-199
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Big data: The next frontier for innovation, competition, and productivity"
 authors: []

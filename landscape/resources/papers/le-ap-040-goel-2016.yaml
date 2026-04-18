@@ -1,5 +1,6 @@
 resource_id: LE-AP-040
 content_type: AP
+source: curated
 title: "Designing a Learning-by-Teaching Agent: An Architecture for Pedagogical Agents"
 authors:
   - Ashok K. Goel

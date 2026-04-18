@@ -1,5 +1,6 @@
 resource_id: LE-AP-087
 content_type: AP
+source: curated
 title: "Ontology-Based Learning Object Adaptation"
 authors:
   - Dragan Gašević

@@ -1,5 +1,6 @@
 resource_id: LE-AP-581
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Economics Language and Assumptions: How Theories can Become Self-Fulfilling"
 authors: []

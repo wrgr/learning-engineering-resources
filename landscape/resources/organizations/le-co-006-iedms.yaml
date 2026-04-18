@@ -1,5 +1,6 @@
 resource_id: LE-CO-006
 content_type: CO
+source: curated
 status: APPROVED
 name: "International Educational Data Mining Society (IEDMS)"
 type: academic_society

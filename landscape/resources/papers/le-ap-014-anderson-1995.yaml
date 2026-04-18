@@ -1,5 +1,6 @@
 resource_id: LE-AP-014
 content_type: AP
+source: curated
 title: "Cognitive Tutors: Lessons Learned"
 authors:
   - John R. Anderson

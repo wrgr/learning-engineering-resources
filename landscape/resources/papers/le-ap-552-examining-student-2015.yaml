@@ -1,5 +1,6 @@
 resource_id: LE-AP-552
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Examining student work for evidence of teacher uptake of educative curriculum materials"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-542
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "What Happens When Teachers Design Educational Technology? The Development of Technological Pedagogical Content Knowledge"
 authors: []

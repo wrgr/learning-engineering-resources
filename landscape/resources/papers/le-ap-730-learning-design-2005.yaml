@@ -1,5 +1,6 @@
 resource_id: LE-AP-730
 content_type: AP
+source: book_endnotes
 status: seed
 title: "“Learning by Design: Good Video Games as Learning Machines"
 authors: []

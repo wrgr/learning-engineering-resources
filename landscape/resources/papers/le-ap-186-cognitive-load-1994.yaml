@@ -1,5 +1,6 @@
 resource_id: LE-AP-186
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Cognitive load theory, learning difficulty, and instructional design"
 authors: []

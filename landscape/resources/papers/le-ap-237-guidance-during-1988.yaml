@@ -1,5 +1,6 @@
 resource_id: LE-AP-237
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Guidance during mathematical problem solving."
 authors: []

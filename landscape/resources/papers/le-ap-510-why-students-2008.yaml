@@ -1,5 +1,6 @@
 resource_id: LE-AP-510
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Why Students Engage in “Gaming the System” Behavior in Interactive Learning Environments"
 authors: []

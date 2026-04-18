@@ -1,5 +1,6 @@
 resource_id: LE-PP-099
 content_type: PP
+source: curated
 status: APPROVED
 name: Albert T. Corbett
 affiliation: "Carnegie Mellon University, HCII"

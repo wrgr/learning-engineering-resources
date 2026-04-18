@@ -1,5 +1,6 @@
 resource_id: LE-AP-704
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Determination of factors influencing the achievement of the first-year university students using data mining methods"
 authors: []

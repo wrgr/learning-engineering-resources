@@ -1,5 +1,6 @@
 resource_id: LE-AP-012
 content_type: AP
+source: curated
 title: "The doer effect at scale: Investigating correlation and causation across seven courses"
 authors:
   - Rachel Van Campenhout

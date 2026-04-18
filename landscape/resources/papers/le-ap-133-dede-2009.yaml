@@ -1,5 +1,6 @@
 resource_id: LE-AP-133
 content_type: AP
+source: curated
 title: "Immersive Interfaces for Engagement and Learning"
 authors:
   - Chris Dede

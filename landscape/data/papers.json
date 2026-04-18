@@ -2,6 +2,7 @@
   {
     "resource_id": "LE-AP-001",
     "content_type": "AP",
+    "source": "curated",
     "title": "Abstract planning and perceptual chunks: Elements of expertise in geometry",
     "authors": [
       "Kenneth R. Koedinger",
@@ -25,6 +26,7 @@
   {
     "resource_id": "LE-AP-002",
     "content_type": "AP",
+    "source": "curated",
     "title": "Intelligent tutoring systems",
     "authors": [
       "Albert T. Corbett",
@@ -47,6 +49,7 @@
   {
     "resource_id": "LE-AP-003",
     "content_type": "AP",
+    "source": "curated",
     "title": "Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings",
     "authors": [
       "Ann L. Brown"
@@ -69,6 +72,7 @@
   {
     "resource_id": "LE-AP-004",
     "content_type": "AP",
+    "source": "curated",
     "title": "Computer Support for Knowledge-Building Communities",
     "authors": [
       "Marlene Scardamalia",
@@ -92,6 +96,7 @@
   {
     "resource_id": "LE-AP-005",
     "content_type": "AP",
+    "source": "curated",
     "title": "The State of Educational Data Mining in 2009: A Review and Future Visions",
     "authors": [
       "Ryan S. J. d. Baker",
@@ -115,6 +120,7 @@
   {
     "resource_id": "LE-AP-006",
     "content_type": "AP",
+    "source": "curated",
     "title": "Immersive interfaces for engagement and learning",
     "authors": [
       "Chris Dede"
@@ -137,6 +143,7 @@
   {
     "resource_id": "LE-AP-007",
     "content_type": "AP",
+    "source": "curated",
     "title": "Improving students' help-seeking skills using metacognitive feedback in an intelligent tutoring system",
     "authors": [
       "Ido Roll",
@@ -162,6 +169,7 @@
   {
     "resource_id": "LE-AP-008",
     "content_type": "AP",
+    "source": "curated",
     "title": "Cognitive load during problem solving: Effects on learning",
     "authors": [
       "John Sweller"
@@ -184,6 +192,7 @@
   {
     "resource_id": "LE-AP-009",
     "content_type": "AP",
+    "source": "curated",
     "title": "Design principles for virtual humans in educational technology environments",
     "authors": [
       "Scotty D. Craig",
@@ -206,6 +215,7 @@
   {
     "resource_id": "LE-AP-010",
     "content_type": "AP",
+    "source": "curated",
     "title": "The voice quality of pedagogical agent impacts learning and agent perceptions",
     "authors": [
       "Ryan F. Siegle",
@@ -229,6 +239,7 @@
   {
     "resource_id": "LE-AP-011",
     "content_type": "AP",
+    "source": "curated",
     "title": "Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge",
     "authors": [
       "Albert T. Corbett",
@@ -252,6 +263,7 @@
   {
     "resource_id": "LE-AP-012",
     "content_type": "AP",
+    "source": "curated",
     "title": "The doer effect at scale: Investigating correlation and causation across seven courses",
     "authors": [
       "Rachel Van Campenhout",
@@ -273,6 +285,7 @@
   {
     "resource_id": "LE-AP-013",
     "content_type": "AP",
+    "source": "curated",
     "title": "Generalizable Learning Engineering Adoption Maturity Model",
     "authors": [
       "Shawn Blake-Plock",
@@ -298,6 +311,7 @@
   {
     "resource_id": "LE-AP-014",
     "content_type": "AP",
+    "source": "curated",
     "title": "Cognitive Tutors: Lessons Learned",
     "authors": [
       "John R. Anderson",
@@ -323,6 +337,7 @@
   {
     "resource_id": "LE-AP-015",
     "content_type": "AP",
+    "source": "curated",
     "title": "SOAR: An Architecture for General Intelligence",
     "authors": [
       "John E. Laird",
@@ -346,6 +361,7 @@
   {
     "resource_id": "LE-AP-016",
     "content_type": "AP",
+    "source": "curated",
     "title": "Human Systems Integration in the System Development Process: A New Look",
     "authors": [
       "Michael T. O'Brien",
@@ -365,6 +381,7 @@
   {
     "resource_id": "LE-AP-017",
     "content_type": "AP",
+    "source": "curated",
     "title": "Principles of Instructional Design",
     "authors": [
       "Robert M. Gagné",
@@ -385,6 +402,7 @@
   {
     "resource_id": "LE-AP-018",
     "content_type": "AP",
+    "source": "curated",
     "title": "Instructional Design for Distributed Learning",
     "authors": [
       "Michael T. O'Brien",
@@ -404,6 +422,7 @@
   {
     "resource_id": "LE-AP-019",
     "content_type": "AP",
+    "source": "curated",
     "title": "Instructional-Design Theories and Models, Volume III: Building a Common Knowledge Base",
     "authors": [
       "Charles M. Reigeluth",
@@ -423,6 +442,7 @@
   {
     "resource_id": "LE-AP-020",
     "content_type": "AP",
+    "source": "curated",
     "title": "Instructional Design: The ADDIE Approach",
     "authors": [
       "Robert Maribe Branch"
@@ -441,6 +461,7 @@
   {
     "resource_id": "LE-AP-021",
     "content_type": "AP",
+    "source": "curated",
     "title": "The Social Engagement of Social Science: A Tavistock Anthology, Vol. II — The Socio-Technical Perspective",
     "authors": [
       "Eric Trist",
@@ -460,6 +481,7 @@
   {
     "resource_id": "LE-AP-022",
     "content_type": "AP",
+    "source": "curated",
     "title": "Effectiveness of computer-based instruction: An updated analysis",
     "authors": [
       "James A. Kulik",
@@ -483,6 +505,7 @@
   {
     "resource_id": "LE-AP-023",
     "content_type": "AP",
+    "source": "curated",
     "title": "Evaluating Training Programs: The Four Levels",
     "authors": [
       "Donald L. Kirkpatrick"
@@ -501,6 +524,7 @@
   {
     "resource_id": "LE-AP-024",
     "content_type": "AP",
+    "source": "curated",
     "title": "The Science of Training and Development in Organizations: What Matters in Practice",
     "authors": [
       "Eduardo Salas",
@@ -526,6 +550,7 @@
   {
     "resource_id": "LE-AP-025",
     "content_type": "AP",
+    "source": "curated",
     "title": "Features and uses of high-fidelity medical simulations that lead to effective learning: a BEME systematic review",
     "authors": [
       "S. Barry Issenberg",
@@ -552,6 +577,7 @@
   {
     "resource_id": "LE-AP-026",
     "content_type": "AP",
+    "source": "curated",
     "title": "Transfer of training: A review and directions for future research",
     "authors": [
       "Timothy T. Baldwin",
@@ -575,6 +601,7 @@
   {
     "resource_id": "LE-AP-027",
     "content_type": "AP",
+    "source": "curated",
     "title": "Is there a 'Big Five' in teamwork?",
     "authors": [
       "Eduardo Salas",
@@ -599,6 +626,7 @@
   {
     "resource_id": "LE-AP-028",
     "content_type": "AP",
+    "source": "curated",
     "title": "Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention",
     "authors": [
       "Henry L. Roediger III",
@@ -622,6 +650,7 @@
   {
     "resource_id": "LE-AP-029",
     "content_type": "AP",
+    "source": "curated",
     "title": "Distributed practice in verbal recall tasks: A review and quantitative synthesis",
     "authors": [
       "Nicholas J. Cepeda",
@@ -648,6 +677,7 @@
   {
     "resource_id": "LE-AP-030",
     "content_type": "AP",
+    "source": "curated",
     "title": "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching",
     "authors": [
       "Paul A. Kirschner",
@@ -672,6 +702,7 @@
   {
     "resource_id": "LE-AP-031",
     "content_type": "AP",
+    "source": "curated",
     "title": "How People Learn: Brain, Mind, Experience, and School",
     "authors": [
       "John D. Bransford",
@@ -692,6 +723,7 @@
   {
     "resource_id": "LE-AP-032",
     "content_type": "AP",
+    "source": "curated",
     "title": "Intrinsic Motivation and Self-Determination in Human Behavior",
     "authors": [
       "Edward L. Deci",
@@ -711,6 +743,7 @@
   {
     "resource_id": "LE-AP-033",
     "content_type": "AP",
+    "source": "curated",
     "title": "Productive Failure in Mathematical Problem Solving",
     "authors": [
       "Manu Kapur"
@@ -733,6 +766,7 @@
   {
     "resource_id": "LE-AP-034",
     "content_type": "AP",
+    "source": "curated",
     "title": "Understanding by Design",
     "authors": [
       "Grant Wiggins",
@@ -752,6 +786,7 @@
   {
     "resource_id": "LE-AP-035",
     "content_type": "AP",
+    "source": "curated",
     "title": "First Principles of Instruction",
     "authors": [
       "M. David Merrill"
@@ -774,6 +809,7 @@
   {
     "resource_id": "LE-AP-036",
     "content_type": "AP",
+    "source": "curated",
     "title": "Multimedia Learning",
     "authors": [
       "Richard E. Mayer"
@@ -792,6 +828,7 @@
   {
     "resource_id": "LE-AP-037",
     "content_type": "AP",
+    "source": "curated",
     "title": "Toward Meta-cognitive Tutoring: A Model of Help Seeking with a Cognitive Tutor",
     "authors": [
       "Vincent Aleven",
@@ -816,6 +853,7 @@
   {
     "resource_id": "LE-AP-038",
     "content_type": "AP",
+    "source": "curated",
     "title": "Analyzing Collaborative Learning Processes Automatically: Exploiting the Advances of Computational Linguistics in Computer-Supported Collaborative Learning",
     "authors": [
       "Carolyn Penstein Rosé",
@@ -844,6 +882,7 @@
   {
     "resource_id": "LE-AP-039",
     "content_type": "AP",
+    "source": "curated",
     "title": "AutoTutor: An Intelligent Tutoring System with Mixed-initiative Dialogue",
     "authors": [
       "Arthur C. Graesser",
@@ -872,6 +911,7 @@
   {
     "resource_id": "LE-AP-040",
     "content_type": "AP",
+    "source": "curated",
     "title": "Designing a Learning-by-Teaching Agent: An Architecture for Pedagogical Agents",
     "authors": [
       "Ashok K. Goel",
@@ -891,6 +931,7 @@
   {
     "resource_id": "LE-AP-041",
     "content_type": "AP",
+    "source": "curated",
     "title": "Confusion Can Be Beneficial for Learning",
     "authors": [
       "Sidney D'Mello",
@@ -915,6 +956,7 @@
   {
     "resource_id": "LE-AP-042",
     "content_type": "AP",
+    "source": "curated",
     "title": "Cognitive Architecture and Instructional Design",
     "authors": [
       "John Sweller",
@@ -939,6 +981,7 @@
   {
     "resource_id": "LE-AP-043",
     "content_type": "AP",
+    "source": "curated",
     "title": "Performance Factors Analysis — A New Alternative to Knowledge Tracing",
     "authors": [
       "Philip I. Pavlik Jr.",
@@ -960,6 +1003,7 @@
   {
     "resource_id": "LE-AP-044",
     "content_type": "AP",
+    "source": "curated",
     "title": "e-Learning by Design",
     "authors": [
       "William Horton"
@@ -978,6 +1022,7 @@
   {
     "resource_id": "LE-AP-045",
     "content_type": "AP",
+    "source": "curated",
     "title": "Evidence-Based Education Policies: Transforming Educational Practice and Research",
     "authors": [
       "Robert E. Slavin"
@@ -1000,6 +1045,7 @@
   {
     "resource_id": "LE-AP-046",
     "content_type": "AP",
+    "source": "curated",
     "title": "Giving Help and Praise in Project LISTEN's Reading Tutor — Which Contributes More to Learning?",
     "authors": [
       "Jack Mostow",
@@ -1023,6 +1069,7 @@
   {
     "resource_id": "LE-AP-047",
     "content_type": "AP",
+    "source": "curated",
     "title": "Failure to Disrupt: Why Technology Alone Can't Transform Education",
     "authors": [
       "Justin Reich"
@@ -1041,6 +1088,7 @@
   {
     "resource_id": "LE-AP-048",
     "content_type": "AP",
+    "source": "curated",
     "title": "Writing Pal: Feasibility of an Intelligent Writing Strategy Tutor and Automated Feedback in the High School Classroom",
     "authors": [
       "Rod D. Roscoe",
@@ -1064,6 +1112,7 @@
   {
     "resource_id": "LE-AP-049",
     "content_type": "AP",
+    "source": "curated",
     "title": "Embodied Science and Mixed Reality: How Gesture and Motion Capture Affect Physics Education",
     "authors": [
       "Mina C. Johnson-Glenberg",
@@ -1089,6 +1138,7 @@
   {
     "resource_id": "LE-AP-050",
     "content_type": "AP",
+    "source": "curated",
     "title": "Learning from Examples: Instructional Principles from the Worked Examples Research",
     "authors": [
       "Robert K. Atkinson",
@@ -1114,6 +1164,7 @@
   {
     "resource_id": "LE-AP-051",
     "content_type": "AP",
+    "source": "curated",
     "title": "Collaborative Dialogue Patterns in Naturalistic One-to-One Tutoring",
     "authors": [
       "Arthur C. Graesser",
@@ -1138,6 +1189,7 @@
   {
     "resource_id": "LE-AP-052",
     "content_type": "AP",
+    "source": "curated",
     "title": "Conjecture Mapping: An Approach to Systematic Educational Design Research",
     "authors": [
       "William A. Sandoval",
@@ -1161,6 +1213,7 @@
   {
     "resource_id": "LE-AP-053",
     "content_type": "AP",
+    "source": "curated",
     "title": "Assessing the Generalizability of Randomized Trial Results to Target Populations",
     "authors": [
       "Elizabeth A. Stuart",
@@ -1185,6 +1238,7 @@
   {
     "resource_id": "LE-AP-054",
     "content_type": "AP",
+    "source": "curated",
     "title": "Ten Steps to Complex Learning: A Systematic Approach to Four-Component Instructional Design",
     "authors": [
       "Jeroen J. G. van Merriënboer",
@@ -1204,6 +1258,7 @@
   {
     "resource_id": "LE-AP-055",
     "content_type": "AP",
+    "source": "curated",
     "title": "Design-Based Research: Current State and Prospects for the Future",
     "authors": [
       "Kara Dawson",
@@ -1225,6 +1280,7 @@
   {
     "resource_id": "LE-AP-056",
     "content_type": "AP",
+    "source": "curated",
     "title": "Worked Examples and Tutored Problem Solving: Redundant or Synergistic Forms of Support?",
     "authors": [
       "Bruce M. McLaren",
@@ -1246,6 +1302,7 @@
   {
     "resource_id": "LE-AP-057",
     "content_type": "AP",
+    "source": "curated",
     "title": "A Computer-Based Game that Promotes Mathematics Learning More than a Conventional Approach",
     "authors": [
       "Bruce M. McLaren",
@@ -1271,6 +1328,7 @@
   {
     "resource_id": "LE-AP-058",
     "content_type": "AP",
+    "source": "curated",
     "title": "Feedback During Web-Based Homework: The Role of Hints",
     "authors": [
       "Bruce M. McLaren",
@@ -1292,6 +1350,7 @@
   {
     "resource_id": "LE-AP-059",
     "content_type": "AP",
+    "source": "curated",
     "title": "Intelligent Tutoring Systems: Structure, Applications and Challenges",
     "authors": [
       "Bruce M. McLaren"
@@ -1310,6 +1369,7 @@
   {
     "resource_id": "LE-AP-060",
     "content_type": "AP",
+    "source": "curated",
     "title": "Digital game versus textbook practice leads to better retention and transfer of mathematics in 3rd grade",
     "authors": [
       "Bruce M. McLaren",
@@ -1333,6 +1393,7 @@
   {
     "resource_id": "LE-AP-061",
     "content_type": "AP",
+    "source": "curated",
     "title": "The Classroom as a Dashboard: Co-designing Wearable Cognitive Augmentation for K-12 Teachers",
     "authors": [
       "Kenneth Holstein",
@@ -1355,6 +1416,7 @@
   {
     "resource_id": "LE-AP-062",
     "content_type": "AP",
+    "source": "curated",
     "title": "Co-designing a Real-Time Classroom Orchestration Tool to Support Teacher-AI Complementarity",
     "authors": [
       "Kenneth Holstein",
@@ -1378,6 +1440,7 @@
   {
     "resource_id": "LE-AP-063",
     "content_type": "AP",
+    "source": "curated",
     "title": "Designing for Complementarity: Teacher and Student Needs for Orchestration Support in AI-Enhanced Classrooms",
     "authors": [
       "Kenneth Holstein",
@@ -1401,6 +1464,7 @@
   {
     "resource_id": "LE-AP-064",
     "content_type": "AP",
+    "source": "curated",
     "title": "Equity and Artificial Intelligence in Education: Will 'AIEd' Amplify or Alleviate Inequities in Education?",
     "authors": [
       "Kenneth Holstein",
@@ -1420,6 +1484,7 @@
   {
     "resource_id": "LE-AP-065",
     "content_type": "AP",
+    "source": "curated",
     "title": "Adaptive Intelligent Support to Improve Peer Tutoring in Computer Science",
     "authors": [
       "Erin Walker",
@@ -1444,6 +1509,7 @@
   {
     "resource_id": "LE-AP-066",
     "content_type": "AP",
+    "source": "curated",
     "title": "Using Intelligent Tutoring Systems to Support Collaborative Learning",
     "authors": [
       "Erin Walker",
@@ -1464,6 +1530,7 @@
   {
     "resource_id": "LE-AP-067",
     "content_type": "AP",
+    "source": "curated",
     "title": "Designing Learning Environments to Foster Productive and Collaborative Discourse",
     "authors": [
       "Erin Walker",
@@ -1487,6 +1554,7 @@
   {
     "resource_id": "LE-AP-068",
     "content_type": "AP",
+    "source": "curated",
     "title": "Understanding Narrative-Centered Learning Environments",
     "authors": [
       "Erin Walker",
@@ -1506,6 +1574,7 @@
   {
     "resource_id": "LE-AP-069",
     "content_type": "AP",
+    "source": "curated",
     "title": "Scaffolding Deep Comprehension Strategies Through Point&Query, AutoSummarize, and iSTART",
     "authors": [
       "Danielle S. McNamara",
@@ -1530,6 +1599,7 @@
   {
     "resource_id": "LE-AP-070",
     "content_type": "AP",
+    "source": "curated",
     "title": "Self-Explanation Training and Comprehension",
     "authors": [
       "Danielle S. McNamara"
@@ -1548,6 +1618,7 @@
   {
     "resource_id": "LE-AP-071",
     "content_type": "AP",
+    "source": "curated",
     "title": "Reading Comprehension and Discourse",
     "authors": [
       "Danielle S. McNamara",
@@ -1570,6 +1641,7 @@
   {
     "resource_id": "LE-AP-072",
     "content_type": "AP",
+    "source": "curated",
     "title": "Automated Evaluation of Text and Discourse with Coh-Metrix",
     "authors": [
       "Danielle S. McNamara",
@@ -1591,6 +1663,7 @@
   {
     "resource_id": "LE-AP-073",
     "content_type": "AP",
+    "source": "curated",
     "title": "Natural Language Processing in Service of Reading Comprehension",
     "authors": [
       "Danielle S. McNamara",
@@ -1614,6 +1687,7 @@
   {
     "resource_id": "LE-AP-074",
     "content_type": "AP",
+    "source": "curated",
     "title": "Case-Based Reasoning",
     "authors": [
       "Janet L. Kolodner"
@@ -1632,6 +1706,7 @@
   {
     "resource_id": "LE-AP-075",
     "content_type": "AP",
+    "source": "curated",
     "title": "Facilitating the Learning of Design Practices: Lessons Learned from an Inquiry into Science Education",
     "authors": [
       "Janet L. Kolodner",
@@ -1661,6 +1736,7 @@
   {
     "resource_id": "LE-AP-076",
     "content_type": "AP",
+    "source": "curated",
     "title": "Problem-Based Learning Meets Case-Based Reasoning in the Middle-School Science Classroom",
     "authors": [
       "Janet L. Kolodner",
@@ -1690,6 +1766,7 @@
   {
     "resource_id": "LE-AP-077",
     "content_type": "AP",
+    "source": "curated",
     "title": "The Roles of Stories in Collaborative Learning",
     "authors": [
       "Janet L. Kolodner"
@@ -1708,6 +1785,7 @@
   {
     "resource_id": "LE-AP-079",
     "content_type": "AP",
+    "source": "curated",
     "title": "Rethinking Transfer: A Simple Proposal with Multiple Implications",
     "authors": [
       "Daniel L. Schwartz",
@@ -1731,6 +1809,7 @@
   {
     "resource_id": "LE-AP-080",
     "content_type": "AP",
+    "source": "curated",
     "title": "Inventing to Prepare for Future Learning: The Hidden Efficiency of Encouraging Original Student Production in Statistics Instruction",
     "authors": [
       "Daniel L. Schwartz",
@@ -1754,6 +1833,7 @@
   {
     "resource_id": "LE-AP-081",
     "content_type": "AP",
+    "source": "curated",
     "title": "A Time for Telling",
     "authors": [
       "Daniel L. Schwartz",
@@ -1777,6 +1857,7 @@
   {
     "resource_id": "LE-AP-082",
     "content_type": "AP",
+    "source": "curated",
     "title": "The Productive Agency in Learning",
     "authors": [
       "Daniel L. Schwartz",
@@ -1797,6 +1878,7 @@
   {
     "resource_id": "LE-AP-083",
     "content_type": "AP",
+    "source": "curated",
     "title": "The ABC of How We Learn: 26 Scientifically Proven Approaches, How They Work, and When to Use Them",
     "authors": [
       "Daniel L. Schwartz",
@@ -1817,6 +1899,7 @@
   {
     "resource_id": "LE-AP-084",
     "content_type": "AP",
+    "source": "curated",
     "title": "Can We Support CSCL? Educational, Social and Technological Affordances for Learning",
     "authors": [
       "Paul A. Kirschner"
@@ -1835,6 +1918,7 @@
   {
     "resource_id": "LE-AP-085",
     "content_type": "AP",
+    "source": "curated",
     "title": "The Myths of the Digital Native and the Multitasker",
     "authors": [
       "Paul A. Kirschner",
@@ -1857,6 +1941,7 @@
   {
     "resource_id": "LE-AP-086",
     "content_type": "AP",
+    "source": "curated",
     "title": "Stop Propagating the Learning Styles Myth",
     "authors": [
       "Paul A. Kirschner",
@@ -1879,6 +1964,7 @@
   {
     "resource_id": "LE-AP-087",
     "content_type": "AP",
+    "source": "curated",
     "title": "Ontology-Based Learning Object Adaptation",
     "authors": [
       "Dragan Gašević",
@@ -1899,6 +1985,7 @@
   {
     "resource_id": "LE-AP-088",
     "content_type": "AP",
+    "source": "curated",
     "title": "Let's Not Forget: Learning Analytics Are about Learning",
     "authors": [
       "Dragan Gašević",
@@ -1923,6 +2010,7 @@
   {
     "resource_id": "LE-AP-089",
     "content_type": "AP",
+    "source": "curated",
     "title": "Effects of Flipped Classroom Instruction on Learning and Cognitive Load in High School Science",
     "authors": [
       "Dragan Gašević",
@@ -1947,6 +2035,7 @@
   {
     "resource_id": "LE-AP-090",
     "content_type": "AP",
+    "source": "curated",
     "title": "Learning analytics should not promote one size fits all: The effects of instructional conditions in predicting academic success",
     "authors": [
       "Dragan Gašević",
@@ -1971,6 +2060,7 @@
   {
     "resource_id": "LE-AP-091",
     "content_type": "AP",
+    "source": "curated",
     "title": "SENS: Network analytics to combine social and cognitive perspectives of collaborative learning",
     "authors": [
       "Dragan Gašević",
@@ -1995,6 +2085,7 @@
   {
     "resource_id": "LE-AP-092",
     "content_type": "AP",
+    "source": "curated",
     "title": "An effective metacognitive strategy: Learning by doing and explaining with a computer-based cognitive tutor",
     "authors": [
       "Vincent Aleven",
@@ -2018,6 +2109,7 @@
   {
     "resource_id": "LE-AP-093",
     "content_type": "AP",
+    "source": "curated",
     "title": "A new paradigm for intelligent tutoring systems: Example-tracing tutors",
     "authors": [
       "Vincent Aleven",
@@ -2042,6 +2134,7 @@
   {
     "resource_id": "LE-AP-094",
     "content_type": "AP",
+    "source": "curated",
     "title": "Instruction Based on Adaptive Learning Technologies",
     "authors": [
       "Vincent Aleven",
@@ -2064,6 +2157,7 @@
   {
     "resource_id": "LE-AP-095",
     "content_type": "AP",
+    "source": "curated",
     "title": "Technology Support for Discussion Based Learning: From Computer Supported Collaborative Learning to the Future of Massive Open Online Courses",
     "authors": [
       "Carolyn Penstein Rosé",
@@ -2087,6 +2181,7 @@
   {
     "resource_id": "LE-AP-096",
     "content_type": "AP",
+    "source": "curated",
     "title": "Towards an agile approach to adapting dynamic collaboration support to student needs",
     "authors": [
       "David Adamson",
@@ -2112,6 +2207,7 @@
   {
     "resource_id": "LE-AP-097",
     "content_type": "AP",
+    "source": "curated",
     "title": "Explanatory learner models: Why machine learning (alone) is not the answer",
     "authors": [
       "Carolyn Penstein Rosé",
@@ -2137,6 +2233,7 @@
   {
     "resource_id": "LE-AP-098",
     "content_type": "AP",
+    "source": "curated",
     "title": "A Prototype Reading Coach that Listens",
     "authors": [
       "Jack Mostow",
@@ -2160,6 +2257,7 @@
   {
     "resource_id": "LE-AP-099",
     "content_type": "AP",
+    "source": "curated",
     "title": "Some useful tactics to modify, map and mine data from intelligent tutors",
     "authors": [
       "Jack Mostow",
@@ -2183,6 +2281,7 @@
   {
     "resource_id": "LE-AP-100",
     "content_type": "AP",
+    "source": "curated",
     "title": "Understanding Tutor Learning: Knowledge-Building and Knowledge-Telling in Peer Tutors' Explanations and Questions",
     "authors": [
       "Rod D. Roscoe",
@@ -2206,6 +2305,7 @@
   {
     "resource_id": "LE-AP-101",
     "content_type": "AP",
+    "source": "curated",
     "title": "The Writing Pal intelligent tutoring system: Usability testing and developer decisions",
     "authors": [
       "Rod D. Roscoe",
@@ -2231,6 +2331,7 @@
   {
     "resource_id": "LE-AP-102",
     "content_type": "AP",
+    "source": "curated",
     "title": "Automated detection of essay revising patterns: Applications for intelligent writing feedback",
     "authors": [
       "Rod D. Roscoe",
@@ -2254,6 +2355,7 @@
   {
     "resource_id": "LE-AP-103",
     "content_type": "AP",
+    "source": "curated",
     "title": "Optimizing learning from examples using animated pedagogical agents",
     "authors": [
       "Robert K. Atkinson"
@@ -2276,6 +2378,7 @@
   {
     "resource_id": "LE-AP-104",
     "content_type": "AP",
+    "source": "curated",
     "title": "Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps",
     "authors": [
       "Robert K. Atkinson",
@@ -2300,6 +2403,7 @@
   {
     "resource_id": "LE-AP-105",
     "content_type": "AP",
+    "source": "curated",
     "title": "Structuring the Transition From Example Study to Problem Solving in Cognitive Skill Acquisition: A Cognitive Load Perspective",
     "authors": [
       "Alexander Renkl",
@@ -2323,6 +2427,7 @@
   {
     "resource_id": "LE-AP-106",
     "content_type": "AP",
+    "source": "curated",
     "title": "Immersive VR and Education: Embodied Design Principles That Include Gesture and Hand Controls",
     "authors": [
       "Mina C. Johnson-Glenberg"
@@ -2344,6 +2449,7 @@
   {
     "resource_id": "LE-AP-107",
     "content_type": "AP",
+    "source": "curated",
     "title": "STEM lab and mixed reality: Two design heuristics for immersive experiences",
     "authors": [
       "Mina C. Johnson-Glenberg",
@@ -2368,6 +2474,7 @@
   {
     "resource_id": "LE-AP-108",
     "content_type": "AP",
+    "source": "curated",
     "title": "Intelligent Tutoring Systems with Conversational Dialogue",
     "authors": [
       "Arthur C. Graesser",
@@ -2394,6 +2501,7 @@
   {
     "resource_id": "LE-AP-109",
     "content_type": "AP",
+    "source": "curated",
     "title": "Dynamics of Affective States During Complex Learning",
     "authors": [
       "Sidney D'Mello",
@@ -2417,6 +2525,7 @@
   {
     "resource_id": "LE-AP-110",
     "content_type": "AP",
+    "source": "curated",
     "title": "Practice and Forgetting Effects on Vocabulary Memory: An Activation-Based Model of the Spacing Effect",
     "authors": [
       "Philip I. Pavlik",
@@ -2440,6 +2549,7 @@
   {
     "resource_id": "LE-AP-111",
     "content_type": "AP",
+    "source": "curated",
     "title": "Automaticity in Learning: ACT-R Parameters as Indices of Learning",
     "authors": [
       "Philip I. Pavlik",
@@ -2461,6 +2571,7 @@
   {
     "resource_id": "LE-AP-112",
     "content_type": "AP",
+    "source": "curated",
     "title": "Apprentice Learner Architecture: Closing the Loop Between Learning Theory and Educational Data",
     "authors": [
       "Christopher J. MacLellan",
@@ -2482,6 +2593,7 @@
   {
     "resource_id": "LE-AP-113",
     "content_type": "AP",
+    "source": "curated",
     "title": "Vitruvius: A Case-Based Advisor for Biomimetic Design",
     "authors": [
       "Ashok Goel",
@@ -2505,6 +2617,7 @@
   {
     "resource_id": "LE-AP-114",
     "content_type": "AP",
+    "source": "curated",
     "title": "Jill Watson: A Virtual Teaching Assistant for Online Education",
     "authors": [
       "Ashok Goel",
@@ -2524,6 +2637,7 @@
   {
     "resource_id": "LE-AP-115",
     "content_type": "AP",
+    "source": "curated",
     "title": "AI-Powered Learning: Making Education Accessible, Affordable, and Achievable",
     "authors": [
       "Ashok Goel"
@@ -2542,6 +2656,7 @@
   {
     "resource_id": "LE-AP-116",
     "content_type": "AP",
+    "source": "curated",
     "title": "Automatic detection of learner's affect from conversational cues",
     "authors": [
       "Sidney D'Mello",
@@ -2568,6 +2683,7 @@
   {
     "resource_id": "LE-AP-117",
     "content_type": "AP",
+    "source": "curated",
     "title": "Multimodal Semi-Automated Affect Detection from Conversational Cues, Gross Body Language, and Facial Features",
     "authors": [
       "Sidney D'Mello",
@@ -2591,6 +2707,7 @@
   {
     "resource_id": "LE-AP-118",
     "content_type": "AP",
+    "source": "curated",
     "title": "A Selective Meta-Analysis on the Relative Incidence of Discrete Affective States During Learning With Technology",
     "authors": [
       "Sidney D'Mello"
@@ -2613,6 +2730,7 @@
   {
     "resource_id": "LE-AP-119",
     "content_type": "AP",
+    "source": "curated",
     "title": "Rebooting MOOC Research",
     "authors": [
       "Justin Reich"
@@ -2635,6 +2753,7 @@
   {
     "resource_id": "LE-AP-120",
     "content_type": "AP",
+    "source": "curated",
     "title": "The MOOC Pivot",
     "authors": [
       "Justin Reich",
@@ -2658,6 +2777,7 @@
   {
     "resource_id": "LE-AP-121",
     "content_type": "AP",
+    "source": "curated",
     "title": "Perception in chess",
     "authors": [
       "William G. Chase",
@@ -2681,6 +2801,7 @@
   {
     "resource_id": "LE-AP-122",
     "content_type": "AP",
+    "source": "curated",
     "title": "The Sciences of the Artificial",
     "authors": [
       "Herbert A. Simon"
@@ -2699,6 +2820,7 @@
   {
     "resource_id": "LE-AP-123",
     "content_type": "AP",
+    "source": "curated",
     "title": "Human Problem Solving",
     "authors": [
       "Allen Newell",
@@ -2718,6 +2840,7 @@
   {
     "resource_id": "LE-AP-124",
     "content_type": "AP",
+    "source": "curated",
     "title": "Cognitive Load During Problem Solving: Effects on Learning",
     "authors": [
       "John Sweller"
@@ -2740,6 +2863,7 @@
   {
     "resource_id": "LE-AP-125",
     "content_type": "AP",
+    "source": "curated",
     "title": "Cognitive Architecture and Instructional Design: 20 Years Later",
     "authors": [
       "John Sweller",
@@ -2764,6 +2888,7 @@
   {
     "resource_id": "LE-AP-126",
     "content_type": "AP",
+    "source": "curated",
     "title": "Diagnostic Models for Procedural Bugs in Basic Mathematical Skills",
     "authors": [
       "John Seely Brown",
@@ -2787,6 +2912,7 @@
   {
     "resource_id": "LE-AP-127",
     "content_type": "AP",
+    "source": "curated",
     "title": "Situated Cognition and the Culture of Learning",
     "authors": [
       "John Seely Brown",
@@ -2811,6 +2937,7 @@
   {
     "resource_id": "LE-AP-128",
     "content_type": "AP",
+    "source": "curated",
     "title": "Computer Support for Knowledge-Building Communities",
     "authors": [
       "Marlene Scardamalia",
@@ -2834,6 +2961,7 @@
   {
     "resource_id": "LE-AP-129",
     "content_type": "AP",
+    "source": "curated",
     "title": "Knowledge Building",
     "authors": [
       "Carl Bereiter",
@@ -2854,6 +2982,7 @@
   {
     "resource_id": "LE-AP-130",
     "content_type": "AP",
+    "source": "curated",
     "title": "Off-Task Behavior in the Cognitive Tutor Classroom: When Students 'Game the System'",
     "authors": [
       "Ryan S. J. d. Baker",
@@ -2877,6 +3006,7 @@
   {
     "resource_id": "LE-AP-131",
     "content_type": "AP",
+    "source": "curated",
     "title": "More Accurate Student Modeling through Contextual Estimation of Slip and Guess Probabilities in Bayesian Knowledge Tracing",
     "authors": [
       "Ryan S. J. d. Baker",
@@ -2899,6 +3029,7 @@
   {
     "resource_id": "LE-AP-132",
     "content_type": "AP",
+    "source": "curated",
     "title": "Educational Data Mining and Learning Analytics",
     "authors": [
       "Ryan S. J. d. Baker",
@@ -2920,6 +3051,7 @@
   {
     "resource_id": "LE-AP-133",
     "content_type": "AP",
+    "source": "curated",
     "title": "Immersive Interfaces for Engagement and Learning",
     "authors": [
       "Chris Dede"
@@ -2942,6 +3074,7 @@
   {
     "resource_id": "LE-AP-134",
     "content_type": "AP",
+    "source": "curated",
     "title": "Introduction: Virtual, Augmented, and Mixed Realities in Education",
     "authors": [
       "Chris Dede",
@@ -2964,6 +3097,7 @@
   {
     "resource_id": "LE-AP-135",
     "content_type": "AP",
+    "source": "curated",
     "title": "The ASSISTments Ecosystem: Building a Platform That Brings Scientists and Teachers Together for Minimally Invasive Research on Human Learning and Teaching",
     "authors": [
       "Neil T. Heffernan",
@@ -2987,6 +3121,7 @@
   {
     "resource_id": "LE-AP-136",
     "content_type": "AP",
+    "source": "curated",
     "title": "A Comparison of Traditional Homework to Computer-Supported Homework",
     "authors": [
       "Michael Mendicino",
@@ -3011,6 +3146,7 @@
   {
     "resource_id": "LE-AP-137",
     "content_type": "AP",
+    "source": "curated",
     "title": "Addressing the Assessment Challenge with an Online System That Tutors as It Assesses",
     "authors": [
       "Mingyu Feng",
@@ -3035,6 +3171,7 @@
   {
     "resource_id": "LE-AP-139",
     "content_type": "AP",
+    "source": "curated",
     "title": "Online Education: A Catalyst for Higher Education Reforms",
     "authors": [
       "Karen E. Willcox",
@@ -3055,6 +3192,7 @@
   {
     "resource_id": "LE-AP-140",
     "content_type": "AP",
+    "source": "curated",
     "title": "Evidence Centered Design for Learning and Assessment in the Digital World",
     "authors": [
       "John T. Behrens",
@@ -3077,6 +3215,7 @@
   {
     "resource_id": "LE-AP-141",
     "content_type": "AP",
+    "source": "curated",
     "title": "Impacts of the Digital Ocean on Education",
     "authors": [
       "Kristen E. DiCerbo",
@@ -3096,6 +3235,7 @@
   {
     "resource_id": "LE-AP-142",
     "content_type": "AP",
+    "source": "curated",
     "title": "Visualizing Patterns of Student Engagement and Performance in MOOCs",
     "authors": [
       "John Liu",
@@ -3117,6 +3257,7 @@
   {
     "resource_id": "LE-AP-143",
     "content_type": "AP",
+    "source": "curated",
     "title": "Engineering Education at Scale: Designing Adaptive STEM Curricula with Embedded Assessment",
     "authors": [
       "John Liu",
@@ -3136,6 +3277,7 @@
   {
     "resource_id": "LE-AP-144",
     "content_type": "AP",
+    "source": "curated",
     "title": "An Approach to Knowledge Component / Skill Modeling in Online Courses",
     "authors": [
       "Norman Bier",
@@ -3159,6 +3301,7 @@
   {
     "resource_id": "LE-AP-145",
     "content_type": "AP",
+    "source": "curated",
     "title": "The Future of Data-Enriched Assessment",
     "authors": [
       "Candace Thille",
@@ -3185,6 +3328,7 @@
   {
     "resource_id": "LE-AP-146",
     "content_type": "AP",
+    "source": "curated",
     "title": "Use of the Critical Decision Method to Elicit Expert Knowledge: A Case Study in the Methodology of Cognitive Task Analysis",
     "authors": [
       "Robert R. Hoffman",
@@ -3209,6 +3353,7 @@
   {
     "resource_id": "LE-AP-147",
     "content_type": "AP",
+    "source": "curated",
     "title": "Accelerated Expertise: Training for High Proficiency in a Complex World",
     "authors": [
       "Robert R. Hoffman",
@@ -3232,6 +3377,7 @@
   {
     "resource_id": "LE-AP-148",
     "content_type": "AP",
+    "source": "curated",
     "title": "Sources of Power: How People Make Decisions",
     "authors": [
       "Gary Klein"
@@ -3250,6 +3396,7 @@
   {
     "resource_id": "LE-AP-149",
     "content_type": "AP",
+    "source": "curated",
     "title": "Naturalistic Decision Making",
     "authors": [
       "Gary Klein"
@@ -3272,6 +3419,7 @@
   {
     "resource_id": "LE-AP-150",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "An effective metacognitive strategy: learning by doing and explaining with a computer-based Cognitive Tutor",
     "authors": [],
@@ -3291,6 +3439,7 @@
   {
     "resource_id": "LE-AP-151",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Self-Regulation of Learning and Performance",
     "authors": [],
@@ -3308,6 +3457,7 @@
   {
     "resource_id": "LE-AP-152",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design Research: Theoretical and Methodological Issues",
     "authors": [],
@@ -3325,6 +3475,7 @@
   {
     "resource_id": "LE-AP-153",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Exploring the Assistance Dilemma in Experiments with Cognitive Tutors",
     "authors": [],
@@ -3344,6 +3495,7 @@
   {
     "resource_id": "LE-AP-154",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational Design Research",
     "authors": [],
@@ -3361,6 +3513,7 @@
   {
     "resource_id": "LE-AP-155",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Detecting Student Misuse of Intelligent Tutoring Systems",
     "authors": [],
@@ -3378,6 +3531,7 @@
   {
     "resource_id": "LE-AP-156",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Data mining and education",
     "authors": [],
@@ -3397,6 +3551,7 @@
   {
     "resource_id": "LE-AP-157",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Real Story Behind Story Problems: Effects of Representations on Quantitative Reasoning",
     "authors": [],
@@ -3414,6 +3569,7 @@
   {
     "resource_id": "LE-AP-158",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design-Based Research: Putting a Stake in the Ground",
     "authors": [],
@@ -3431,6 +3587,7 @@
   {
     "resource_id": "LE-AP-159",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Situated Learning: Legitimate Peripheral Participation.",
     "authors": [],
@@ -3448,6 +3605,7 @@
   {
     "resource_id": "LE-AP-160",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Foundations of online learning: Challenges and opportunities",
     "authors": [],
@@ -3468,6 +3626,7 @@
   {
     "resource_id": "LE-AP-161",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Advances in Instructional Psychology",
     "authors": [],
@@ -3485,6 +3644,7 @@
   {
     "resource_id": "LE-AP-162",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational Data Mining and Learning Analytics",
     "authors": [],
@@ -3505,6 +3665,7 @@
   {
     "resource_id": "LE-AP-163",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Building intelligent interactive tutors student-centered strategies for revolutionizing e-learning",
     "authors": [],
@@ -3521,6 +3682,7 @@
   {
     "resource_id": "LE-AP-164",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Educational Data Mining",
     "authors": [],
@@ -3538,6 +3700,7 @@
   {
     "resource_id": "LE-AP-165",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Scientific Research in Education",
     "authors": [],
@@ -3555,6 +3718,7 @@
   {
     "resource_id": "LE-AP-166",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward a Design Science of Education",
     "authors": [],
@@ -3574,6 +3738,7 @@
   {
     "resource_id": "LE-AP-167",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Knowing, Learning, and Instruction",
     "authors": [],
@@ -3591,6 +3756,7 @@
   {
     "resource_id": "LE-AP-168",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "How people learn: Brain, mind, experience, and school.",
     "authors": [],
@@ -3610,6 +3776,7 @@
   {
     "resource_id": "LE-AP-169",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Evolution of Design Studies as Methodology",
     "authors": [],
@@ -3627,6 +3794,7 @@
   {
     "resource_id": "LE-AP-170",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive Tutor: Applied research in mathematics education",
     "authors": [],
@@ -3647,6 +3815,7 @@
   {
     "resource_id": "LE-AP-171",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Reciprocal Teaching of Comprehension-Fostering and Comprehension-Monitoring Activities",
     "authors": [],
@@ -3664,6 +3833,7 @@
   {
     "resource_id": "LE-AP-172",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Pasteur's Quadrant: Basic science and technological innovation",
     "authors": [],
@@ -3681,6 +3851,7 @@
   {
     "resource_id": "LE-AP-173",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Moral psychology is relationship regulation: Moral motives for unity, hierarchy, equality, and proportionality.",
     "authors": [],
@@ -3700,6 +3871,7 @@
   {
     "resource_id": "LE-AP-174",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Structure‐Mapping: A Theoretical Framework for Analogy*",
     "authors": [],
@@ -3717,6 +3889,7 @@
   {
     "resource_id": "LE-AP-175",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Ontological Innovation and the Role of Theory in Design Experiments",
     "authors": [],
@@ -3734,6 +3907,7 @@
   {
     "resource_id": "LE-AP-176",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra",
     "authors": [],
@@ -3751,6 +3925,7 @@
   {
     "resource_id": "LE-AP-177",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Why Some Material Is Difficult to Learn",
     "authors": [],
@@ -3770,6 +3945,7 @@
   {
     "resource_id": "LE-AP-178",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The weirdest people in the world?",
     "authors": [],
@@ -3787,6 +3963,7 @@
   {
     "resource_id": "LE-AP-179",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Unified theories of cognition",
     "authors": [],
@@ -3804,6 +3981,7 @@
   {
     "resource_id": "LE-AP-180",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Locus of feedback control in computer-based tutoring",
     "authors": [],
@@ -3821,6 +3999,7 @@
   {
     "resource_id": "LE-AP-181",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "What to do about educational research's credibility gaps?",
     "authors": [],
@@ -3838,6 +4017,7 @@
   {
     "resource_id": "LE-AP-182",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge",
     "authors": [],
@@ -3855,6 +4035,7 @@
   {
     "resource_id": "LE-AP-183",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Conducting Educational Design Research",
     "authors": [],
@@ -3872,6 +4053,7 @@
   {
     "resource_id": "LE-AP-184",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design Experiments in Educational Research",
     "authors": [],
@@ -3889,6 +4071,7 @@
   {
     "resource_id": "LE-AP-185",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Mind in Society: The Development of Higher Psychological Processes",
     "authors": [],
@@ -3905,6 +4088,7 @@
   {
     "resource_id": "LE-AP-186",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive load theory, learning difficulty, and instructional design",
     "authors": [],
@@ -3924,6 +4108,7 @@
   {
     "resource_id": "LE-AP-187",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Rules of the Mind",
     "authors": [],
@@ -3942,6 +4127,7 @@
   {
     "resource_id": "LE-AP-188",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Human Problem Solving.",
     "authors": [],
@@ -3959,6 +4145,7 @@
   {
     "resource_id": "LE-AP-189",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Seven Affordances of Computer-Supported Collaborative Learning: How to Support Collaborative Learning? How Can Technologies Help?",
     "authors": [],
@@ -3979,6 +4166,7 @@
   {
     "resource_id": "LE-AP-190",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive Apprenticeship: Teaching the Crafts of Reading, Writing, and Mathematics",
     "authors": [],
@@ -3996,6 +4184,7 @@
   {
     "resource_id": "LE-AP-191",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains",
     "authors": [],
@@ -4013,6 +4202,7 @@
   {
     "resource_id": "LE-AP-192",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A Data Repository for the EDM Community: The PSLC DataShop",
     "authors": [],
@@ -4030,6 +4220,7 @@
   {
     "resource_id": "LE-AP-193",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design-based research: What it is and why it matters to studying online learning",
     "authors": [],
@@ -4049,6 +4240,7 @@
   {
     "resource_id": "LE-AP-194",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Unified Theories of Cognition",
     "authors": [],
@@ -4066,6 +4258,7 @@
   {
     "resource_id": "LE-AP-195",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Implications of the ACT-R Learning Theory: No Magic Bullets",
     "authors": [],
@@ -4083,6 +4276,7 @@
   {
     "resource_id": "LE-AP-196",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Review of research in education",
     "authors": [],
@@ -4102,6 +4296,7 @@
   {
     "resource_id": "LE-AP-197",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Seeing language learning inside the math: Cognitive analysis yields transfer",
     "authors": [],
@@ -4118,6 +4313,7 @@
   {
     "resource_id": "LE-AP-198",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Quasi-Experimentation: Design & Analysis Issues for Field Settings",
     "authors": [],
@@ -4134,6 +4330,7 @@
   {
     "resource_id": "LE-AP-199",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Big data: The next frontier for innovation, competition, and productivity",
     "authors": [],
@@ -4150,6 +4347,7 @@
   {
     "resource_id": "LE-AP-200",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook Of Design Research Methods In Education: Innovations In Science, Technology, Engineering, And Mathematics Learning And Teaching",
     "authors": [],
@@ -4166,6 +4364,7 @@
   {
     "resource_id": "LE-AP-201",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The State of Educational Data Mining in 2009: A Review and Future Visions",
     "authors": [],
@@ -4186,6 +4385,7 @@
   {
     "resource_id": "LE-AP-202",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings of the 6th international conference on Learning sciences",
     "authors": [],
@@ -4202,6 +4402,7 @@
   {
     "resource_id": "LE-AP-203",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Qualitative Data Analysis: An Expanded Sourcebook",
     "authors": [],
@@ -4219,6 +4420,7 @@
   {
     "resource_id": "LE-AP-204",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Advantage of Abstract Examples in Learning Math",
     "authors": [],
@@ -4236,6 +4438,7 @@
   {
     "resource_id": "LE-AP-205",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Development of Social Knowledge",
     "authors": [],
@@ -4253,6 +4456,7 @@
   {
     "resource_id": "LE-AP-206",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Architecture of Cognition",
     "authors": [],
@@ -4270,6 +4474,7 @@
   {
     "resource_id": "LE-AP-207",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Behavior of Tutoring Systems",
     "authors": [],
@@ -4287,6 +4492,7 @@
   {
     "resource_id": "LE-AP-208",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "From Example Study to Problem Solving: Smooth Transitions Help Learning",
     "authors": [],
@@ -4304,6 +4510,7 @@
   {
     "resource_id": "LE-AP-209",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "AutoTutor and affective autotutor",
     "authors": [],
@@ -4321,6 +4528,7 @@
   {
     "resource_id": "LE-AP-210",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design Research: What We Learn When We Engage in Design",
     "authors": [],
@@ -4338,6 +4546,7 @@
   {
     "resource_id": "LE-AP-211",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Pragmatic reasoning schemas",
     "authors": [],
@@ -4355,6 +4564,7 @@
   {
     "resource_id": "LE-AP-212",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Schema induction and analogical transfer",
     "authors": [],
@@ -4372,6 +4582,7 @@
   {
     "resource_id": "LE-AP-213",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Scaffolding Complex Learning: The Mechanisms of Structuring and Problematizing Student Work",
     "authors": [],
@@ -4392,6 +4603,7 @@
   {
     "resource_id": "LE-AP-214",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Rule-Learning Events in the Acquisition of a Complex Skill: An Evaluation of Cascade",
     "authors": [],
@@ -4409,6 +4621,7 @@
   {
     "resource_id": "LE-AP-215",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Expertise Reversal Effect",
     "authors": [],
@@ -4428,6 +4641,7 @@
   {
     "resource_id": "LE-AP-216",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Creating a Framework for Research on Systemic Technology Innovations",
     "authors": [],
@@ -4445,6 +4659,7 @@
   {
     "resource_id": "LE-AP-217",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "When problem solving is superior to studying worked examples.",
     "authors": [],
@@ -4462,6 +4677,7 @@
   {
     "resource_id": "LE-AP-218",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Dilemmas in a general theory of planning",
     "authors": [],
@@ -4479,6 +4695,7 @@
   {
     "resource_id": "LE-AP-219",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive modeling and intelligent tutoring",
     "authors": [],
@@ -4498,6 +4715,7 @@
   {
     "resource_id": "LE-AP-220",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Instructional Complexity and the Science to Constrain It",
     "authors": [],
@@ -4515,6 +4733,7 @@
   {
     "resource_id": "LE-AP-221",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Transfer of Scientific Principles Using Concrete and Idealized Simulations",
     "authors": [],
@@ -4532,6 +4751,7 @@
   {
     "resource_id": "LE-AP-222",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational data mining: A survey from 1995 to 2005",
     "authors": [],
@@ -4552,6 +4772,7 @@
   {
     "resource_id": "LE-AP-223",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The situativity of knowing, learning, and research.",
     "authors": [],
@@ -4569,6 +4790,7 @@
   {
     "resource_id": "LE-AP-224",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Causal Explanation, Qualitative Research, and Scientific Inquiry in Education",
     "authors": [],
@@ -4586,6 +4808,7 @@
   {
     "resource_id": "LE-AP-225",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Categorization and Representation of Physics Problems by Experts and Novices*",
     "authors": [],
@@ -4603,6 +4826,7 @@
   {
     "resource_id": "LE-AP-226",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The worked-example effect: Not an artefact of lousy control conditions",
     "authors": [],
@@ -4622,6 +4846,7 @@
   {
     "resource_id": "LE-AP-227",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Modeling and understanding students' off-task behavior in intelligent tutoring systems",
     "authors": [],
@@ -4639,6 +4864,7 @@
   {
     "resource_id": "LE-AP-228",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Human Problem Solving",
     "authors": [],
@@ -4655,6 +4881,7 @@
   {
     "resource_id": "LE-AP-229",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "On the Theoretical Breadth of Design-Based Research in Education",
     "authors": [],
@@ -4672,6 +4899,7 @@
   {
     "resource_id": "LE-AP-230",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Illustrating Principled Design: The Early Evolution of a Cognitive Tutor for Algebra Symbolization",
     "authors": [],
@@ -4692,6 +4920,7 @@
   {
     "resource_id": "LE-AP-231",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Measuring Knowledge to Optimize Cognitive Load Factors During Instruction.",
     "authors": [],
@@ -4711,6 +4940,7 @@
   {
     "resource_id": "LE-AP-232",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning analytics and educational data mining",
     "authors": [],
@@ -4731,6 +4961,7 @@
   {
     "resource_id": "LE-AP-233",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Training strategies for attaining transfer of problem-solving skill in statistics: A cognitive-load approach.",
     "authors": [],
@@ -4751,6 +4982,7 @@
   {
     "resource_id": "LE-AP-234",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Principles derived from the study of simple skills do not generalize to complex skill learning",
     "authors": [],
@@ -4768,6 +5000,7 @@
   {
     "resource_id": "LE-AP-235",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Pasteur's Quadrant: Basic Science and Technological Innovation",
     "authors": [],
@@ -4785,6 +5018,7 @@
   {
     "resource_id": "LE-AP-236",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The four elementary forms of sociality: Framework for a unified theory of social relations.",
     "authors": [],
@@ -4802,6 +5036,7 @@
   {
     "resource_id": "LE-AP-237",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Guidance during mathematical problem solving.",
     "authors": [],
@@ -4819,6 +5054,7 @@
   {
     "resource_id": "LE-AP-238",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "When and where do we apply what we learn?: A taxonomy for far transfer.",
     "authors": [],
@@ -4836,6 +5072,7 @@
   {
     "resource_id": "LE-AP-239",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Chapter 3: Rethinking Transfer: A Simple Proposal With Multiple Implications",
     "authors": [],
@@ -4853,6 +5090,7 @@
   {
     "resource_id": "LE-AP-240",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The effects of overlearning and distributed practise on the retention of mathematics knowledge",
     "authors": [],
@@ -4870,6 +5108,7 @@
   {
     "resource_id": "LE-AP-241",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of socialization: theory and research",
     "authors": [],
@@ -4887,6 +5126,7 @@
   {
     "resource_id": "LE-AP-242",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "All Other Things Being Equal: Acquisition and Transfer of the Control of Variables Strategy",
     "authors": [],
@@ -4904,6 +5144,7 @@
   {
     "resource_id": "LE-AP-243",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Knowledge‐Learning‐Instruction Framework: Bridging the Science‐Practice Chasm to Enhance Robust Student Learning",
     "authors": [],
@@ -4921,6 +5162,7 @@
   {
     "resource_id": "LE-AP-244",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Spanning seven orders of magnitude: a challenge for cognitive modeling",
     "authors": [],
@@ -4938,6 +5180,7 @@
   {
     "resource_id": "LE-AP-245",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Mind Perception Is the Essence of Morality",
     "authors": [],
@@ -4955,6 +5198,7 @@
   {
     "resource_id": "LE-AP-246",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Religion and morality.",
     "authors": [],
@@ -4972,6 +5216,7 @@
   {
     "resource_id": "LE-AP-247",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Intelligent Tutoring Goes To School in the Big City",
     "authors": [],
@@ -4992,6 +5237,7 @@
   {
     "resource_id": "LE-AP-248",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "COGNITIVE SKILL ACQUISITION",
     "authors": [],
@@ -5009,6 +5255,7 @@
   {
     "resource_id": "LE-AP-249",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach.",
     "authors": [],
@@ -5029,6 +5276,7 @@
   {
     "resource_id": "LE-AP-250",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Explanation‐driven inquiry: Integrating conceptual and epistemic scaffolds for scientific inquiry",
     "authors": [],
@@ -5048,6 +5296,7 @@
   {
     "resource_id": "LE-AP-251",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Self-explanations: How students study and use examples in learning to solve problems",
     "authors": [],
@@ -5065,6 +5314,7 @@
   {
     "resource_id": "LE-AP-252",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Human-Machine Student Model Discovery and Improvement Using DataShop",
     "authors": [],
@@ -5082,6 +5332,7 @@
   {
     "resource_id": "LE-AP-253",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Religiousness as a Cultural Adaptation of Basic Traits: A Five-Factor Model Perspective",
     "authors": [],
@@ -5099,6 +5350,7 @@
   {
     "resource_id": "LE-AP-254",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A meta-analytic review of the distribution of practice effect: Now you see it, now you don't.",
     "authors": [],
@@ -5116,6 +5368,7 @@
   {
     "resource_id": "LE-AP-255",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions",
     "authors": [],
@@ -5135,6 +5388,7 @@
   {
     "resource_id": "LE-AP-256",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Research through design as a method for interaction design research in HCI",
     "authors": [],
@@ -5152,6 +5406,7 @@
   {
     "resource_id": "LE-AP-257",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Power of Testing Memory: Basic Research and Implications for Educational Practice",
     "authors": [],
@@ -5171,6 +5426,7 @@
   {
     "resource_id": "LE-AP-258",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "New Conceptualizations of Practice: Common Principles in Three Paradigms Suggest New Concepts for Training",
     "authors": [],
@@ -5188,6 +5444,7 @@
   {
     "resource_id": "LE-AP-259",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning from Worked-Out Examples: The Effects of Example Variability and Elicited Self-Explanations",
     "authors": [],
@@ -5205,6 +5462,7 @@
   {
     "resource_id": "LE-AP-260",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The effects of self‐explaining when learning with text or diagrams",
     "authors": [],
@@ -5222,6 +5480,7 @@
   {
     "resource_id": "LE-AP-261",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Redirecting learners' attention during training: effects on cognitive load, transfer test performance and training efficiency",
     "authors": [],
@@ -5242,6 +5501,7 @@
   {
     "resource_id": "LE-AP-262",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Structuring Effective Worked Examples",
     "authors": [],
@@ -5259,6 +5519,7 @@
   {
     "resource_id": "LE-AP-263",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Developing conceptual understanding and procedural skill in mathematics: An iterative process.",
     "authors": [],
@@ -5276,6 +5537,7 @@
   {
     "resource_id": "LE-AP-264",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Tracing the development of teacher knowledge in a design seminar: Integrating content, pedagogy and technology",
     "authors": [],
@@ -5293,6 +5555,7 @@
   {
     "resource_id": "LE-AP-265",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Eliciting self-explanations improves understanding,",
     "authors": [],
@@ -5310,6 +5573,7 @@
   {
     "resource_id": "LE-AP-266",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "On the Science of Education Design Studies",
     "authors": [],
@@ -5327,6 +5591,7 @@
   {
     "resource_id": "LE-AP-267",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Beyond Beliefs: Religions Bind Individuals Into Moral Communities",
     "authors": [],
@@ -5344,6 +5609,7 @@
   {
     "resource_id": "LE-AP-268",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Evolution of Reciprocal Altruism",
     "authors": [],
@@ -5361,6 +5627,7 @@
   {
     "resource_id": "LE-AP-269",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Theme Issue: The Role of Design in Educational Research",
     "authors": [],
@@ -5378,6 +5645,7 @@
   {
     "resource_id": "LE-AP-270",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Wicked Problems in Design Thinking",
     "authors": [],
@@ -5395,6 +5663,7 @@
   {
     "resource_id": "LE-AP-271",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Relational categories as a bridge between cognitive and educational research.",
     "authors": [],
@@ -5412,6 +5681,7 @@
   {
     "resource_id": "LE-AP-272",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "What To Do About Educational Research’s Credibility Gaps?",
     "authors": [],
@@ -5429,6 +5699,7 @@
   {
     "resource_id": "LE-AP-273",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "19 The Moral Mind",
     "authors": [],
@@ -5446,6 +5717,7 @@
   {
     "resource_id": "LE-AP-274",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Reflective Practitioner: How Professionals Think in Action",
     "authors": [],
@@ -5463,6 +5735,7 @@
   {
     "resource_id": "LE-AP-275",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The logic of design research",
     "authors": [],
@@ -5480,6 +5753,7 @@
   {
     "resource_id": "LE-AP-276",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings for the Annual Meeting of the Cognitive Science Society",
     "authors": [],
@@ -5496,6 +5770,7 @@
   {
     "resource_id": "LE-AP-277",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The effect of expanded versus massed practice on the retention of multiplication facts and spelling lists.",
     "authors": [],
@@ -5512,6 +5787,7 @@
   {
     "resource_id": "LE-AP-278",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design-Based Research",
     "authors": [],
@@ -5531,6 +5807,7 @@
   {
     "resource_id": "LE-AP-279",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Modeling First: Applying Learning Science to the Teaching of Introductory Statistics",
     "authors": [],
@@ -5548,6 +5825,7 @@
   {
     "resource_id": "LE-AP-280",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Research on Educational Communications and Technology",
     "authors": [],
@@ -5565,6 +5843,7 @@
   {
     "resource_id": "LE-AP-281",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Taxonomy of Educational Objectives",
     "authors": [],
@@ -5582,6 +5861,7 @@
   {
     "resource_id": "LE-AP-282",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Jasper Series as an Example of Anchored Instruction: Theory, Program Description, and Assessment Data",
     "authors": [],
@@ -5599,6 +5879,7 @@
   {
     "resource_id": "LE-AP-283",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Effects of schema acquisition and rule automation on mathematical problem-solving transfer.",
     "authors": [],
@@ -5618,6 +5899,7 @@
   {
     "resource_id": "LE-AP-284",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Eliciting Self‐Explanations Improves Understanding",
     "authors": [],
@@ -5635,6 +5917,7 @@
   {
     "resource_id": "LE-AP-285",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Situated Learning",
     "authors": [],
@@ -5652,6 +5935,7 @@
   {
     "resource_id": "LE-AP-286",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design-Based Research: An Emerging Paradigm for Educational Inquiry",
     "authors": [],
@@ -5669,6 +5953,7 @@
   {
     "resource_id": "LE-AP-287",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Research–Practice Dialogue in Second Language Learning and Teaching: Past, Present, and Future",
     "authors": [],
@@ -5686,6 +5971,7 @@
   {
     "resource_id": "LE-AP-288",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The motivated use of moral principles",
     "authors": [],
@@ -5703,6 +5989,7 @@
   {
     "resource_id": "LE-AP-289",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitively Diagnostic Assessment",
     "authors": [],
@@ -5720,6 +6007,7 @@
   {
     "resource_id": "LE-AP-290",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Data Mining Algorithms to Classify Students",
     "authors": [],
@@ -5736,6 +6024,7 @@
   {
     "resource_id": "LE-AP-291",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Instrumentation and Innovation in Design Experiments: Taking the Turn Towards Efficiency",
     "authors": [],
@@ -5753,6 +6042,7 @@
   {
     "resource_id": "LE-AP-292",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Q-matrix Method: Mining Student Response Data for Knowledge",
     "authors": [],
@@ -5769,6 +6059,7 @@
   {
     "resource_id": "LE-AP-293",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Routledge International Handbook of Participatory Design",
     "authors": [],
@@ -5786,6 +6077,7 @@
   {
     "resource_id": "LE-AP-294",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Should There Be a Three-Strikes Rule Against Pure Discovery Learning?",
     "authors": [],
@@ -5803,6 +6095,7 @@
   {
     "resource_id": "LE-AP-295",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Design of Self-explanation Prompts: The Fit Hypothesis",
     "authors": [],
@@ -5819,6 +6112,7 @@
   {
     "resource_id": "LE-AP-296",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Using Cognitive Models to Guide Instructional Design: The Case of Fraction Division",
     "authors": [],
@@ -5837,6 +6131,7 @@
   {
     "resource_id": "LE-AP-297",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Is Self-Explanation Always Better? The Effects of Adding Self-Explanation Prompts to an English Grammar Tutor",
     "authors": [],
@@ -5853,6 +6148,7 @@
   {
     "resource_id": "LE-AP-298",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Composition Effect in Symbolizing: The Role of Symbol Production vs. Text Comprehension",
     "authors": [],
@@ -5869,6 +6165,7 @@
   {
     "resource_id": "LE-AP-299",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Web Usage Mining for a Better Web-Based Learning Environment",
     "authors": [],
@@ -5886,6 +6183,7 @@
   {
     "resource_id": "LE-AP-300",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Mental Representations: A Dual Coding Approach",
     "authors": [],
@@ -5903,6 +6201,7 @@
   {
     "resource_id": "LE-AP-301",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Potentials of Educational Data Mining for Researching Metacognition, Motivation and Self-Regulated Learning",
     "authors": [],
@@ -5923,6 +6222,7 @@
   {
     "resource_id": "LE-AP-302",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Issues in education research: problems and possibilities",
     "authors": [],
@@ -5940,6 +6240,7 @@
   {
     "resource_id": "LE-AP-303",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The geometry tutor",
     "authors": [],
@@ -5956,6 +6257,7 @@
   {
     "resource_id": "LE-AP-304",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "High-Level Student Modeling with Machine Learning",
     "authors": [],
@@ -5973,6 +6275,7 @@
   {
     "resource_id": "LE-AP-305",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A New Paradigm for Intelligent Tutoring Systems: Example-Tracing Tutors",
     "authors": [],
@@ -5990,6 +6293,7 @@
   {
     "resource_id": "LE-AP-306",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Participatory Design",
     "authors": [],
@@ -6007,6 +6311,7 @@
   {
     "resource_id": "LE-AP-307",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive Skills and Their Acquisition",
     "authors": [],
@@ -6024,6 +6329,7 @@
   {
     "resource_id": "LE-AP-308",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Emergence of morality in young children",
     "authors": [],
@@ -6041,6 +6347,7 @@
   {
     "resource_id": "LE-AP-309",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Effective Use of Intelligent Software in High School Math Classrooms",
     "authors": [],
@@ -6058,6 +6365,7 @@
   {
     "resource_id": "LE-AP-310",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Preventing Reading Difficulties in Young Children",
     "authors": [],
@@ -6075,6 +6383,7 @@
   {
     "resource_id": "LE-AP-311",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Secret Lives of Liberals and Conservatives: Personality Profiles, Interaction Styles, and the Things They Leave Behind",
     "authors": [],
@@ -6092,6 +6401,7 @@
   {
     "resource_id": "LE-AP-312",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Is Over Practice Necessary? --Improving Learning Efficiency with the Cognitive Tutor through Educational Data Mining",
     "authors": [],
@@ -6111,6 +6421,7 @@
   {
     "resource_id": "LE-AP-313",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive Computer Tutors: Solving the Two-Sigma Problem",
     "authors": [],
@@ -6130,6 +6441,7 @@
   {
     "resource_id": "LE-AP-314",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Why Tutored Problem Solving May be Better Than Example Study: Theoretical Implications from a Simulated-Student Study",
     "authors": [],
@@ -6150,6 +6462,7 @@
   {
     "resource_id": "LE-AP-315",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational Data Mining: a Case Study",
     "authors": [],
@@ -6169,6 +6482,7 @@
   {
     "resource_id": "LE-AP-316",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cultural Historical Activity Theory and the Expansion of Opportunities for Learning After School",
     "authors": [],
@@ -6186,6 +6500,7 @@
   {
     "resource_id": "LE-AP-317",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Predicting Students Drop Out: A Case Study",
     "authors": [],
@@ -6205,6 +6520,7 @@
   {
     "resource_id": "LE-AP-318",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Facilitating the Transition from Empirical Arguments to Proof",
     "authors": [],
@@ -6222,6 +6538,7 @@
   {
     "resource_id": "LE-AP-319",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive task analysis",
     "authors": [],
@@ -6239,6 +6556,7 @@
   {
     "resource_id": "LE-AP-320",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Complementary Methods in Education Research",
     "authors": [],
@@ -6256,6 +6574,7 @@
   {
     "resource_id": "LE-AP-321",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Competence and Motivation",
     "authors": [],
@@ -6272,6 +6591,7 @@
   {
     "resource_id": "LE-AP-322",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Using Bayesian Networks to Manage Uncertainty in Student Modeling",
     "authors": [],
@@ -6289,6 +6609,7 @@
   {
     "resource_id": "LE-AP-323",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Towards the design of more effective advisors for learning-by-doing systems",
     "authors": [],
@@ -6306,6 +6627,7 @@
   {
     "resource_id": "LE-AP-324",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Controlled and automatic human information processing: I",
     "authors": [],
@@ -6322,6 +6644,7 @@
   {
     "resource_id": "LE-AP-325",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Smart Recommendation for an Evolving E-Learning System: Architecture and Experiment",
     "authors": [],
@@ -6338,6 +6661,7 @@
   {
     "resource_id": "LE-AP-326",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "International Perspectives on the Design of Technology-supported Learning Environments",
     "authors": [],
@@ -6355,6 +6679,7 @@
   {
     "resource_id": "LE-AP-327",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning for Life in the 21st Century",
     "authors": [],
@@ -6372,6 +6697,7 @@
   {
     "resource_id": "LE-AP-328",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Temporal Data Mining for Educational Applications",
     "authors": [],
@@ -6389,6 +6715,7 @@
   {
     "resource_id": "LE-AP-329",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "From Studying Examples to Solving Problem: Fading Worked-Out Solution Steps Helps Learning",
     "authors": [],
@@ -6405,6 +6732,7 @@
   {
     "resource_id": "LE-AP-330",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "When Getting Something Good is Bad: Even Three‐year‐olds React to Inequality",
     "authors": [],
@@ -6422,6 +6750,7 @@
   {
     "resource_id": "LE-AP-331",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Oxford Companion to Consciousness",
     "authors": [],
@@ -6439,6 +6768,7 @@
   {
     "resource_id": "LE-AP-332",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Active + Semi-supervised Learning = Robust Multi-View Learning",
     "authors": [],
@@ -6455,6 +6785,7 @@
   {
     "resource_id": "LE-AP-333",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Data Mining: Practical Machine Learning Tools and Techniques",
     "authors": [],
@@ -6474,6 +6805,7 @@
   {
     "resource_id": "LE-AP-334",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Does Self-Discipline impact students' knowledge and learning?",
     "authors": [],
@@ -6492,6 +6824,7 @@
   {
     "resource_id": "LE-AP-335",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "General Principles for an Intelligent Tutoring Architecture.",
     "authors": [],
@@ -6509,6 +6842,7 @@
   {
     "resource_id": "LE-AP-336",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Chapter 10 Motivated Moral Reasoning",
     "authors": "[]",
@@ -6528,6 +6862,7 @@
   {
     "resource_id": "LE-AP-337",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Using Learning Decomposition and Bootstrapping with Randomization to Compare the Impact of Different Educational Interventions on Learning",
     "authors": [],
@@ -6547,6 +6882,7 @@
   {
     "resource_id": "LE-AP-338",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Judgment under Uncertainty: Heuristics and Biases",
     "authors": [],
@@ -6564,6 +6900,7 @@
   {
     "resource_id": "LE-AP-339",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Disgust: The Body and Soul Emotion",
     "authors": [],
@@ -6581,6 +6918,7 @@
   {
     "resource_id": "LE-AP-340",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Parallel Distributed Processing: Bridging the gap between human and machine intelligence",
     "authors": [],
@@ -6597,6 +6935,7 @@
   {
     "resource_id": "LE-AP-341",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Hierarchy in the Forest",
     "authors": [],
@@ -6614,6 +6953,7 @@
   {
     "resource_id": "LE-AP-342",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Processes Involved in Designing Software.",
     "authors": [],
@@ -6630,6 +6970,7 @@
   {
     "resource_id": "LE-AP-343",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The transfer of cognitive skill",
     "authors": [],
@@ -6647,6 +6988,7 @@
   {
     "resource_id": "LE-AP-344",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Culture and moral development",
     "authors": [],
@@ -6664,6 +7006,7 @@
   {
     "resource_id": "LE-AP-345",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The “Compleat” Design Experiment: From Soup to Nuts",
     "authors": [],
@@ -6681,6 +7024,7 @@
   {
     "resource_id": "LE-AP-346",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Remote Transfer of Scientific-Reasoning and Problem-Solving Strategies in Children",
     "authors": [],
@@ -6698,6 +7042,7 @@
   {
     "resource_id": "LE-AP-347",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Research on Educational Communications and Technology",
     "authors": [],
@@ -6715,6 +7060,7 @@
   {
     "resource_id": "LE-AP-348",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Comprehension: A Paradigm for Cognition",
     "authors": [],
@@ -6731,6 +7077,7 @@
   {
     "resource_id": "LE-AP-349",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Atomic Components of Thought",
     "authors": [],
@@ -6748,6 +7095,7 @@
   {
     "resource_id": "LE-AP-350",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "An Open Repository and analysis tools for fine-grained, longitudinal learner data.",
     "authors": [],
@@ -6764,6 +7112,7 @@
   {
     "resource_id": "LE-AP-351",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Integrating Rules and Connectionism for Robust Commonsense Reasoning",
     "authors": [],
@@ -6780,6 +7129,7 @@
   {
     "resource_id": "LE-AP-352",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Cambridge Handbook of the Learning Sciences",
     "authors": [],
@@ -6797,6 +7147,7 @@
   {
     "resource_id": "LE-AP-353",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Social Intuitionists Answer Six Questions about Moral Psychology",
     "authors": [],
@@ -6814,6 +7165,7 @@
   {
     "resource_id": "LE-AP-354",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The impact of spurious correlations on students' problem-solving",
     "authors": [],
@@ -6830,6 +7182,7 @@
   {
     "resource_id": "LE-AP-355",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Descartes' baby: how the science of child development explains what makes us human",
     "authors": [],
@@ -6847,6 +7200,7 @@
   {
     "resource_id": "LE-AP-356",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "THE MIND'S EYE IN CHESS",
     "authors": [],
@@ -6864,6 +7218,7 @@
   {
     "resource_id": "LE-AP-357",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive Tutors",
     "authors": [],
@@ -6883,6 +7238,7 @@
   {
     "resource_id": "LE-AP-358",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Moral Foundations and Heterogeneity in Ideological Preferences",
     "authors": [],
@@ -6900,6 +7256,7 @@
   {
     "resource_id": "LE-AP-359",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Faster Teaching by POMDP Planning",
     "authors": [],
@@ -6917,6 +7274,7 @@
   {
     "resource_id": "LE-AP-360",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Ten Benefits of Testing and Their Applications to Educational Practice",
     "authors": "[]",
@@ -6934,6 +7292,7 @@
   {
     "resource_id": "LE-AP-361",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The happiness hypothesis: Finding modern truth in ancient wisdom.",
     "authors": [],
@@ -6950,6 +7309,7 @@
   {
     "resource_id": "LE-AP-362",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Implicit and Explicit Learning of Orthographic Structure and Function of a New Writing System",
     "authors": [],
@@ -6967,6 +7327,7 @@
   {
     "resource_id": "LE-AP-363",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Construct validity in psychological tests.",
     "authors": [],
@@ -6984,6 +7345,7 @@
   {
     "resource_id": "LE-AP-364",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Developing Learning Theory by Refining Conjectures Embodied in Educational Designs",
     "authors": [],
@@ -7003,6 +7365,7 @@
   {
     "resource_id": "LE-AP-365",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Knowing what you don't know makes failure productive",
     "authors": [],
@@ -7020,6 +7383,7 @@
   {
     "resource_id": "LE-AP-366",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "On the social psychology of the psychological experiment: With particular reference to demand characteristics and their implications.",
     "authors": [],
@@ -7037,6 +7401,7 @@
   {
     "resource_id": "LE-AP-367",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Reading both high-coherence and low-coherence texts: Effects of text sequence and prior knowledge.",
     "authors": [],
@@ -7054,6 +7419,7 @@
   {
     "resource_id": "LE-AP-368",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Models of Competence in Solving Physics Problems*",
     "authors": [],
@@ -7071,6 +7437,7 @@
   {
     "resource_id": "LE-AP-369",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Hypothesis behavior by humans during discrimination learning.",
     "authors": [],
@@ -7088,6 +7455,7 @@
   {
     "resource_id": "LE-AP-370",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cue recognition and cue elaboration in learning from examples.",
     "authors": [],
@@ -7105,6 +7473,7 @@
   {
     "resource_id": "LE-AP-371",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The end of the end of ideology.",
     "authors": [],
@@ -7122,6 +7491,7 @@
   {
     "resource_id": "LE-AP-372",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations.",
     "authors": [],
@@ -7139,6 +7509,7 @@
   {
     "resource_id": "LE-AP-373",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Automated, Unobtrusive, Action-by-Action Assessment of Self-Regulation During Learning With an Intelligent Tutoring System",
     "authors": [],
@@ -7156,6 +7527,7 @@
   {
     "resource_id": "LE-AP-374",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Classification of learning outcomes: evidence from the computer games literature",
     "authors": [],
@@ -7173,6 +7545,7 @@
   {
     "resource_id": "LE-AP-375",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Psychology Of Intelligence",
     "authors": [],
@@ -7190,6 +7563,7 @@
   {
     "resource_id": "LE-AP-376",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Conducting Video Research in the Learning Sciences: Guidance on Selection, Analysis, Technology, and Ethics",
     "authors": [],
@@ -7207,6 +7581,7 @@
   {
     "resource_id": "LE-AP-377",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Atomic Components of Thought",
     "authors": [],
@@ -7224,6 +7599,7 @@
   {
     "resource_id": "LE-AP-378",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "How Should Reading be Taught?",
     "authors": [],
@@ -7241,6 +7617,7 @@
   {
     "resource_id": "LE-AP-379",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "What Video Games Have to Teach Us about Learning and Literacy",
     "authors": [],
@@ -7258,6 +7635,7 @@
   {
     "resource_id": "LE-AP-380",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Relation of cue to consequence in avoidance learning",
     "authors": [],
@@ -7275,6 +7653,7 @@
   {
     "resource_id": "LE-AP-381",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The magical number seven, plus or minus two: Some limits on our capacity for processing information.",
     "authors": [],
@@ -7292,6 +7671,7 @@
   {
     "resource_id": "LE-AP-382",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Using SAS/IntrNet for Evaluating Web‐based Courses",
     "authors": [],
@@ -7309,6 +7689,7 @@
   {
     "resource_id": "LE-AP-383",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A symbolic-connectionist theory of relational inference and generalization.",
     "authors": [],
@@ -7326,6 +7707,7 @@
   {
     "resource_id": "LE-AP-384",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A review of recent advances in learner and skill modeling in intelligent learning environments",
     "authors": [],
@@ -7343,6 +7725,7 @@
   {
     "resource_id": "LE-AP-385",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A Model of the Self-Explanation Effect",
     "authors": [],
@@ -7360,6 +7743,7 @@
   {
     "resource_id": "LE-AP-386",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Divergent effects of activating thoughts of God on self-regulation.",
     "authors": [],
@@ -7377,6 +7761,7 @@
   {
     "resource_id": "LE-AP-387",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Environmental Detectives—the development of an augmented reality platform for environmental simulations",
     "authors": [],
@@ -7394,6 +7779,7 @@
   {
     "resource_id": "LE-AP-388",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Rethinking Transfer: A Simple Proposal with Multiple Implications",
     "authors": [],
@@ -7411,6 +7797,7 @@
   {
     "resource_id": "LE-AP-389",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Applying an Activity Theory Lens to Designing Instruction for Learning About the Structure, Behavior, and Function of a Honeybee System",
     "authors": [],
@@ -7428,6 +7815,7 @@
   {
     "resource_id": "LE-AP-390",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Are Good Texts Always Better? Interactions of Text Coherence, Background Knowledge, and Levels of Understanding in Learning From Text",
     "authors": [],
@@ -7445,6 +7833,7 @@
   {
     "resource_id": "LE-AP-391",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Development of expertise in mathematical problem solving.",
     "authors": [],
@@ -7462,6 +7851,7 @@
   {
     "resource_id": "LE-AP-392",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Contextual interference: Contributions of practice",
     "authors": [],
@@ -7479,6 +7869,7 @@
   {
     "resource_id": "LE-AP-393",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A theory of implicit and explicit knowledge",
     "authors": [],
@@ -7496,6 +7887,7 @@
   {
     "resource_id": "LE-AP-394",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Studies in retention.",
     "authors": [],
@@ -7513,6 +7905,7 @@
   {
     "resource_id": "LE-AP-395",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "1: Mastery Learning",
     "authors": [],
@@ -7530,6 +7923,7 @@
   {
     "resource_id": "LE-AP-396",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Understanding Libertarian Morality: The Psychological Dispositions of Self-Identified Libertarians",
     "authors": [],
@@ -7547,6 +7941,7 @@
   {
     "resource_id": "LE-AP-397",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "AutoTutor: A simulation of a human tutor",
     "authors": [],
@@ -7566,6 +7961,7 @@
   {
     "resource_id": "LE-AP-398",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Constructing Extended Inquiry Projects: Curriculum Materials for Science Education Reform",
     "authors": [],
@@ -7585,6 +7981,7 @@
   {
     "resource_id": "LE-AP-399",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Argumentation and Explanation in Conceptual Change: Indications From Protocol Analyses of Peer‐to‐Peer Dialog",
     "authors": [],
@@ -7602,6 +7999,7 @@
   {
     "resource_id": "LE-AP-400",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Above and Below Left–Right: Ideological Narratives and Moral Foundations",
     "authors": [],
@@ -7619,6 +8017,7 @@
   {
     "resource_id": "LE-AP-401",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational Data Mining: A Review of the State of the Art",
     "authors": [],
@@ -7639,6 +8038,7 @@
   {
     "resource_id": "LE-AP-402",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists",
     "authors": [],
@@ -7656,6 +8056,7 @@
   {
     "resource_id": "LE-AP-403",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Reasoning about dead agents reveals possible adaptive trends",
     "authors": [],
@@ -7673,6 +8074,7 @@
   {
     "resource_id": "LE-AP-404",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Phobias and preparedness",
     "authors": [],
@@ -7690,6 +8092,7 @@
   {
     "resource_id": "LE-AP-405",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A Scaffolding Design Framework for Software to Support Science Inquiry",
     "authors": [],
@@ -7709,6 +8112,7 @@
   {
     "resource_id": "LE-AP-406",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive Load Theory: New Conceptualizations, Specifications, and Integrated Research Perspectives",
     "authors": [],
@@ -7728,6 +8132,7 @@
   {
     "resource_id": "LE-AP-407",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Does religious belief promote prosociality? A critical examination.",
     "authors": [],
@@ -7745,6 +8150,7 @@
   {
     "resource_id": "LE-AP-408",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The developmental progression from implicit to explicit knowledge: A computational approach",
     "authors": [],
@@ -7762,6 +8168,7 @@
   {
     "resource_id": "LE-AP-409",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Controlled and automatic human information processing: I. Detection, search, and attention.",
     "authors": [],
@@ -7779,6 +8186,7 @@
   {
     "resource_id": "LE-AP-410",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Mapping the Mind: Domain Specificity In Cognition And Culture",
     "authors": [],
@@ -7796,6 +8204,7 @@
   {
     "resource_id": "LE-AP-411",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Sexing day-old chicks: A case study and expert systems analysis of a difficult perceptual-learning task.",
     "authors": [],
@@ -7813,6 +8222,7 @@
   {
     "resource_id": "LE-AP-412",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "To Provide or Protect: Motivational Bases of Political Liberalism and Conservatism",
     "authors": [],
@@ -7830,6 +8240,7 @@
   {
     "resource_id": "LE-AP-413",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Role of Central Conceptual Structures in the Development of Children's Thought",
     "authors": [],
@@ -7847,6 +8258,7 @@
   {
     "resource_id": "LE-AP-414",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Instructional Design Consequences of an Analogy between Evolution by Natural Selection and Human Cognitive Architecture",
     "authors": [],
@@ -7866,6 +8278,7 @@
   {
     "resource_id": "LE-AP-415",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Creating Usable Innovations in Systemic Reform: Scaling Up Technology-Embedded Project-Based Science in Urban Schools",
     "authors": [],
@@ -7883,6 +8296,7 @@
   {
     "resource_id": "LE-AP-416",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Deliberative Discourse Idealized and Realized: Accountable Talk in the Classroom and in Civic Life",
     "authors": [],
@@ -7900,6 +8314,7 @@
   {
     "resource_id": "LE-AP-417",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "International perspectives on the design of technology-supported learning environments",
     "authors": [],
@@ -7920,6 +8335,7 @@
   {
     "resource_id": "LE-AP-418",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Reconstructing Context: Negotiating the Tension Between Exogenous and Endogenous Educational Design",
     "authors": [],
@@ -7937,6 +8353,7 @@
   {
     "resource_id": "LE-AP-419",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Conjecture Mapping: An Approach to Systematic Educational Design Research",
     "authors": [],
@@ -7954,6 +8371,7 @@
   {
     "resource_id": "LE-AP-420",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward an epistemology of physics",
     "authors": [],
@@ -7970,6 +8388,7 @@
   {
     "resource_id": "LE-AP-421",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Constructing arguments from multiple sources: Tasks that promote understanding and not just memory for text.",
     "authors": [],
@@ -7987,6 +8406,7 @@
   {
     "resource_id": "LE-AP-422",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Chunking in recall of symbolic drawings",
     "authors": [],
@@ -8004,6 +8424,7 @@
   {
     "resource_id": "LE-AP-423",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Role of examples in how students learn to categorize statistics word problems.",
     "authors": [],
@@ -8021,6 +8442,7 @@
   {
     "resource_id": "LE-AP-424",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design-based research and technology-enhanced learning environments",
     "authors": [],
@@ -8041,6 +8463,7 @@
   {
     "resource_id": "LE-AP-425",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "ThinkerTools: Causal Models, Conceptual Change, and Science Education",
     "authors": [],
@@ -8058,6 +8481,7 @@
   {
     "resource_id": "LE-AP-426",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Validity of psychological assessment: Validation of inferences from persons' responses and performances as scientific inquiry into score meaning.",
     "authors": [],
@@ -8075,6 +8499,7 @@
   {
     "resource_id": "LE-AP-427",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Overcoming Memory Limitations in Rule Learning",
     "authors": [],
@@ -8092,6 +8517,7 @@
   {
     "resource_id": "LE-AP-428",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Family metaphors and moral intuitions: How conservatives and liberals narrate their lives.",
     "authors": [],
@@ -8109,6 +8535,7 @@
   {
     "resource_id": "LE-AP-429",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learner Experience and Efficiency of Instructional Guidance",
     "authors": [],
@@ -8126,6 +8553,7 @@
   {
     "resource_id": "LE-AP-430",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The effects of monological and dialogical argumentation on concept learning in evolutionary theory.",
     "authors": [],
@@ -8143,6 +8571,7 @@
   {
     "resource_id": "LE-AP-431",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Skill Acquisition and the LISP Tutor",
     "authors": [],
@@ -8162,6 +8591,7 @@
   {
     "resource_id": "LE-AP-432",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "If Design-Based Research is the Answer, What is the Question? A Commentary on Collins, Joseph, and Bielaczyc; diSessa and Cobb; and Fishman, Marx, Blumenthal, Krajcik, and Soloway in the JLS Special Issue on Design-Based Research",
     "authors": [],
@@ -8179,6 +8609,7 @@
   {
     "resource_id": "LE-AP-433",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "An approach to the psychology of instruction.",
     "authors": [],
@@ -8196,6 +8627,7 @@
   {
     "resource_id": "LE-AP-434",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "SERT: Self-Explanation Reading Training",
     "authors": [],
@@ -8213,6 +8645,7 @@
   {
     "resource_id": "LE-AP-435",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning from performance errors.",
     "authors": [],
@@ -8232,6 +8665,7 @@
   {
     "resource_id": "LE-AP-436",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The impact of guidance during problem-solving prior to instruction on students’ inventions and learning outcomes",
     "authors": [],
@@ -8249,6 +8683,7 @@
   {
     "resource_id": "LE-AP-437",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Chapter 5: Computers and Education: A Cultural Constructivist Perspective",
     "authors": [],
@@ -8266,6 +8701,7 @@
   {
     "resource_id": "LE-AP-438",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Nobody's watching?",
     "authors": [],
@@ -8283,6 +8719,7 @@
   {
     "resource_id": "LE-AP-439",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Collaborative knowledge building using the Design Principles Database",
     "authors": [],
@@ -8303,6 +8740,7 @@
   {
     "resource_id": "LE-AP-440",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Industrial and Organizational Psychology.",
     "authors": [],
@@ -8320,6 +8758,7 @@
   {
     "resource_id": "LE-AP-441",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Designing Educative Curriculum Materials to Promote Teacher Learning",
     "authors": [],
@@ -8339,6 +8778,7 @@
   {
     "resource_id": "LE-AP-442",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The mangle of practice : time, agency, and science",
     "authors": [],
@@ -8356,6 +8796,7 @@
   {
     "resource_id": "LE-AP-443",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Combining labeled and unlabeled data with co-training",
     "authors": [],
@@ -8373,6 +8814,7 @@
   {
     "resource_id": "LE-AP-444",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Perceptions of social dangers, moral foundations, and political orientation",
     "authors": [],
@@ -8390,6 +8832,7 @@
   {
     "resource_id": "LE-AP-445",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The situation with respect to the spacing of repetitions and memory",
     "authors": [],
@@ -8407,6 +8850,7 @@
   {
     "resource_id": "LE-AP-446",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Improving Educational Research:Toward a More Useful, More Influential, and Better-Funded Enterprise",
     "authors": [],
@@ -8424,6 +8868,7 @@
   {
     "resource_id": "LE-AP-447",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Using worked examples as an instructional support in the algebra classroom.",
     "authors": [],
@@ -8441,6 +8886,7 @@
   {
     "resource_id": "LE-AP-448",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design Research in Education: Yes, but is it Methodological?",
     "authors": [],
@@ -8458,6 +8904,7 @@
   {
     "resource_id": "LE-AP-449",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Teaching to the Test…or Testing to Teach: Exams Requiring Higher Order Thinking Skills Encourage Greater Conceptual Understanding",
     "authors": [],
@@ -8475,6 +8922,7 @@
   {
     "resource_id": "LE-AP-450",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward a theory of the universal content and structure of values: Extensions and cross-cultural replications.",
     "authors": [],
@@ -8492,6 +8940,7 @@
   {
     "resource_id": "LE-AP-451",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Worked Examples and Tutored Problem Solving: Redundant or Synergistic Forms of Support?",
     "authors": [],
@@ -8509,6 +8958,7 @@
   {
     "resource_id": "LE-AP-452",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Modeling by shortest data description",
     "authors": [],
@@ -8526,6 +8976,7 @@
   {
     "resource_id": "LE-AP-453",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Development of Social Knowledge. Morality and Convention",
     "authors": [],
@@ -8543,6 +8994,7 @@
   {
     "resource_id": "LE-AP-454",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "'From Jerusalem to Jericho': A study of situational and dispositional variables in helping behavior.",
     "authors": [],
@@ -8560,6 +9012,7 @@
   {
     "resource_id": "LE-AP-455",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Effects of Massed and Distributed Practice on the Learning and Retention of Second-Language Vocabulary",
     "authors": [],
@@ -8577,6 +9030,7 @@
   {
     "resource_id": "LE-AP-456",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Optimizing the learning of a second-language vocabulary.",
     "authors": [],
@@ -8594,6 +9048,7 @@
   {
     "resource_id": "LE-AP-457",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Computers and Education: A Cultural Constructivist Perspective",
     "authors": [],
@@ -8611,6 +9066,7 @@
   {
     "resource_id": "LE-AP-458",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Understanding and describing mathematical knowledge for teaching: knowledge about proof for engaging students in the activity of proving",
     "authors": [],
@@ -8628,6 +9084,7 @@
   {
     "resource_id": "LE-AP-459",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Emerging Forms of Formative Intervention Research in Education",
     "authors": [],
@@ -8645,6 +9102,7 @@
   {
     "resource_id": "LE-AP-460",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The neurobiology of adaptive learning in reading: A contrast of different training conditions",
     "authors": [],
@@ -8662,6 +9120,7 @@
   {
     "resource_id": "LE-AP-461",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Beyond the two disciplines of scientific psychology.",
     "authors": [],
@@ -8679,6 +9138,7 @@
   {
     "resource_id": "LE-AP-462",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Evolution of Cooperation",
     "authors": [],
@@ -8696,6 +9156,7 @@
   {
     "resource_id": "LE-AP-463",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Moral Complexity",
     "authors": [],
@@ -8713,6 +9174,7 @@
   {
     "resource_id": "LE-AP-464",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Interaction Analysis: Foundations and Practice",
     "authors": [],
@@ -8730,6 +9192,7 @@
   {
     "resource_id": "LE-AP-465",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Enacting Project-Based Science",
     "authors": [],
@@ -8749,6 +9212,7 @@
   {
     "resource_id": "LE-AP-466",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Origin and Evolution of Religious Prosociality",
     "authors": [],
@@ -8766,6 +9230,7 @@
   {
     "resource_id": "LE-AP-467",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Making learning fun: Quest Atlantis, a game without guns",
     "authors": [],
@@ -8786,6 +9251,7 @@
   {
     "resource_id": "LE-AP-468",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive Scientists Prefer Theories and Testable Principles With Teeth",
     "authors": [],
@@ -8803,6 +9269,7 @@
   {
     "resource_id": "LE-AP-469",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives",
     "authors": [],
@@ -8820,6 +9287,7 @@
   {
     "resource_id": "LE-AP-470",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Better to be frustrated than bored: The incidence, persistence, and impact of learners’ cognitive–affective states during interactions with three different computer-based learning environments",
     "authors": [],
@@ -8837,6 +9305,7 @@
   {
     "resource_id": "LE-AP-471",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Helping Students Understand Challenging Topics in Science Through Ontology Training",
     "authors": [],
@@ -8854,6 +9323,7 @@
   {
     "resource_id": "LE-AP-472",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward an instance theory of automatization.",
     "authors": [],
@@ -8871,6 +9341,7 @@
   {
     "resource_id": "LE-AP-473",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Mining students’ behavior in web-based learning programs",
     "authors": [],
@@ -8888,6 +9359,7 @@
   {
     "resource_id": "LE-AP-474",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Sociocultural approaches to learning and development: A Vygotskian framework",
     "authors": [],
@@ -8905,6 +9377,7 @@
   {
     "resource_id": "LE-AP-475",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Promoting Transfer: Effects of Self-Explanation and Direct Instruction",
     "authors": [],
@@ -8924,6 +9397,7 @@
   {
     "resource_id": "LE-AP-476",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Teachers and Machines: The Classroom Use of Technology since 1920",
     "authors": [],
@@ -8941,6 +9415,7 @@
   {
     "resource_id": "LE-AP-477",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A Collaborative Model for Helping Middle Grade Science Teachers Learn Project-Based Instruction",
     "authors": [],
@@ -8960,6 +9435,7 @@
   {
     "resource_id": "LE-AP-478",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Personal religious orientation and prejudice.",
     "authors": [],
@@ -8977,6 +9453,7 @@
   {
     "resource_id": "LE-AP-479",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design research: A socially responsible approach to instructional technology research in higher education",
     "authors": [],
@@ -8994,6 +9471,7 @@
   {
     "resource_id": "LE-AP-480",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Designing Social Infrastructure: Critical Issues in Creating Learning Environments With Technology",
     "authors": [],
@@ -9011,6 +9489,7 @@
   {
     "resource_id": "LE-AP-481",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Artificial Intelligence in the Classroom: The Impact of a Computer-Based Tutor on Teachers and Students",
     "authors": [],
@@ -9030,6 +9509,7 @@
   {
     "resource_id": "LE-AP-482",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Culture wars: American moral divisions across the adult lifespan",
     "authors": [],
@@ -9047,6 +9527,7 @@
   {
     "resource_id": "LE-AP-483",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Development of explanation: Incremental and fundamental change in children's physics knowledge",
     "authors": [],
@@ -9064,6 +9545,7 @@
   {
     "resource_id": "LE-AP-484",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Understanding Complex Systems: Some Core Challenges",
     "authors": [],
@@ -9081,6 +9563,7 @@
   {
     "resource_id": "LE-AP-485",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Text generation and recall by high-knowledge and low-knowledge individuals",
     "authors": [],
@@ -9098,6 +9581,7 @@
   {
     "resource_id": "LE-AP-486",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Improvements to elementary children's epistemic understanding from sustained argumentation",
     "authors": [],
@@ -9115,6 +9599,7 @@
   {
     "resource_id": "LE-AP-487",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning from Worked‐Out Examples: A Study on Individual Differences",
     "authors": [],
@@ -9132,6 +9617,7 @@
   {
     "resource_id": "LE-AP-488",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Simulation of expert memory using EPAM IV.",
     "authors": [],
@@ -9149,6 +9635,7 @@
   {
     "resource_id": "LE-AP-489",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Context theory of classification learning.",
     "authors": [],
@@ -9166,6 +9653,7 @@
   {
     "resource_id": "LE-AP-490",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Generative Processes of Comprehension",
     "authors": [],
@@ -9183,6 +9671,7 @@
   {
     "resource_id": "LE-AP-491",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Scaffolding Deep Comprehension Strategies Through Point&amp;Query, AutoTutor, and iSTART",
     "authors": [],
@@ -9200,6 +9689,7 @@
   {
     "resource_id": "LE-AP-492",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The evolution of prestige: freely conferred deference as a mechanism for enhancing the benefits of cultural transmission",
     "authors": [],
@@ -9217,6 +9707,7 @@
   {
     "resource_id": "LE-AP-493",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Why and How to Learn Why: Analysis‐based Generalization of Procedures",
     "authors": [],
@@ -9234,6 +9725,7 @@
   {
     "resource_id": "LE-AP-494",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "CaMeRa: A Computational Model of Multiple Representations",
     "authors": [],
@@ -9251,6 +9743,7 @@
   {
     "resource_id": "LE-AP-495",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Adaptive Character of Thought",
     "authors": [],
@@ -9268,6 +9761,7 @@
   {
     "resource_id": "LE-AP-496",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Experimental and Quasi-Experimental Designs for Research",
     "authors": [],
@@ -9284,6 +9778,7 @@
   {
     "resource_id": "LE-AP-497",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Mapping the moral domain.",
     "authors": [],
@@ -9301,6 +9796,7 @@
   {
     "resource_id": "LE-AP-498",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "How to Gain Eleven IQ Points in Ten Minutes: Thinking Aloud Improves Raven's Matrices Performance in Older Adults",
     "authors": [],
@@ -9318,6 +9814,7 @@
   {
     "resource_id": "LE-AP-499",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Building a recommender agent for e-learning systems",
     "authors": [],
@@ -9335,6 +9832,7 @@
   {
     "resource_id": "LE-AP-500",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Opinion Mining in e-Learning System",
     "authors": [],
@@ -9352,6 +9850,7 @@
   {
     "resource_id": "LE-AP-501",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cues of being watched enhance cooperation in a real-world setting",
     "authors": [],
@@ -9369,6 +9868,7 @@
   {
     "resource_id": "LE-AP-502",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Expertise, models of learning and computer-based tutoring",
     "authors": [],
@@ -9386,6 +9886,7 @@
   {
     "resource_id": "LE-AP-503",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Role of Design in Research: The Integrative Learning Design Framework",
     "authors": [],
@@ -9405,6 +9906,7 @@
   {
     "resource_id": "LE-AP-504",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Affect, culture, and morality, or is it wrong to eat your dog?",
     "authors": [],
@@ -9422,6 +9924,7 @@
   {
     "resource_id": "LE-AP-505",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Exam-A-Day Procedure Improves Performance in Psychology Classes",
     "authors": [],
@@ -9439,6 +9942,7 @@
   {
     "resource_id": "LE-AP-506",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The critical role of retrieval practice in long-term retention",
     "authors": [],
@@ -9456,6 +9960,7 @@
   {
     "resource_id": "LE-AP-507",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The essential elements of team‐based learning",
     "authors": [],
@@ -9473,6 +9978,7 @@
   {
     "resource_id": "LE-AP-508",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Conditions of Learning and Theory of Instruction",
     "authors": [],
@@ -9489,6 +9995,7 @@
   {
     "resource_id": "LE-AP-509",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Effectiveness of Cognitive Tutor Algebra I at Scale",
     "authors": [],
@@ -9508,6 +10015,7 @@
   {
     "resource_id": "LE-AP-510",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Why Students Engage in “Gaming the System” Behavior in Interactive Learning Environments",
     "authors": [],
@@ -9527,6 +10035,7 @@
   {
     "resource_id": "LE-AP-511",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward a Theory of Instruction",
     "authors": [],
@@ -9543,6 +10052,7 @@
   {
     "resource_id": "LE-AP-512",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "When and how often should worked examples be given to students? New results and a summary of the current state of research",
     "authors": [],
@@ -9559,6 +10069,7 @@
   {
     "resource_id": "LE-AP-513",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Chunking models of expertise: implications for education",
     "authors": [],
@@ -9576,6 +10087,7 @@
   {
     "resource_id": "LE-AP-514",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Intuitive ethics: how innately prepared intuitions generate culturally variable virtues",
     "authors": [],
@@ -9593,6 +10105,7 @@
   {
     "resource_id": "LE-AP-515",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The folk psychology of souls",
     "authors": [],
@@ -9610,6 +10123,7 @@
   {
     "resource_id": "LE-AP-516",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Predicting the dative alternation",
     "authors": [],
@@ -9626,6 +10140,7 @@
   {
     "resource_id": "LE-AP-517",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Teaching the /r/–/l/ discrimination to Japanese adults: behavioral and neural aspects",
     "authors": [],
@@ -9643,6 +10158,7 @@
   {
     "resource_id": "LE-AP-518",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A solution to the mysteries of morality.",
     "authors": [],
@@ -9660,6 +10176,7 @@
   {
     "resource_id": "LE-AP-519",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Liberals and conservatives rely on different sets of moral foundations.",
     "authors": [],
@@ -9677,6 +10194,7 @@
   {
     "resource_id": "LE-AP-520",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Science of Training: A Decade of Progress",
     "authors": [],
@@ -9694,6 +10212,7 @@
   {
     "resource_id": "LE-AP-521",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "On Knowing: Essays for the Left Hand",
     "authors": [],
@@ -9711,6 +10230,7 @@
   {
     "resource_id": "LE-AP-522",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Hidden Markov Model Based Characterization of Content Access Patterns in an e-Learning Environment",
     "authors": [],
@@ -9728,6 +10248,7 @@
   {
     "resource_id": "LE-AP-523",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning from human tutoring",
     "authors": [],
@@ -9747,6 +10268,7 @@
   {
     "resource_id": "LE-AP-524",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Principles of Religious Prosociality: A Review and Reformulation",
     "authors": [],
@@ -9764,6 +10286,7 @@
   {
     "resource_id": "LE-AP-525",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Help Seeking and Help Design in Interactive Learning Environments",
     "authors": [],
@@ -9781,6 +10304,7 @@
   {
     "resource_id": "LE-AP-526",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "“Economic man” in cross-cultural perspective: Behavioral experiments in 15 small-scale societies",
     "authors": [],
@@ -9798,6 +10322,7 @@
   {
     "resource_id": "LE-AP-527",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Generalizing solution procedures learned from examples.",
     "authors": [],
@@ -9815,6 +10340,7 @@
   {
     "resource_id": "LE-AP-528",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Improving Students’ Learning With Effective Learning Techniques",
     "authors": [],
@@ -9834,6 +10360,7 @@
   {
     "resource_id": "LE-AP-529",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Good Natured: The Origins of Right and Wrong in Humans and Other Animals",
     "authors": [],
@@ -9850,6 +10377,7 @@
   {
     "resource_id": "LE-AP-530",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A meta-analysis of the cognitive and motivational effects of serious games.",
     "authors": [],
@@ -9869,6 +10397,7 @@
   {
     "resource_id": "LE-AP-531",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Stereotypes and prejudice: Their automatic and controlled components.",
     "authors": [],
@@ -9886,6 +10415,7 @@
   {
     "resource_id": "LE-AP-532",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Political Ideology: Its Structure, Functions, and Elective Affinities",
     "authors": [],
@@ -9903,6 +10433,7 @@
   {
     "resource_id": "LE-AP-533",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Research–practice interactions as reported in recent design studies: still promising, still hazy",
     "authors": [],
@@ -9923,6 +10454,7 @@
   {
     "resource_id": "LE-AP-534",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Social Reasoning in IJO Children and Adolescents in Nigerian Communities",
     "authors": [],
@@ -9940,6 +10472,7 @@
   {
     "resource_id": "LE-AP-535",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Climate change and moral judgement",
     "authors": [],
@@ -9957,6 +10490,7 @@
   {
     "resource_id": "LE-AP-536",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Exploring Cognitive Difference in instructional outcomes using Text mining technology",
     "authors": [],
@@ -9974,6 +10508,7 @@
   {
     "resource_id": "LE-AP-537",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "CHAPTER 15 Planet of the Durkheimians, Where Community, Authority, and Sacredness Are Foundations of Morality",
     "authors": [],
@@ -9991,6 +10526,7 @@
   {
     "resource_id": "LE-AP-538",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Dual Space Search During Scientific Reasoning",
     "authors": [],
@@ -10008,6 +10544,7 @@
   {
     "resource_id": "LE-AP-539",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Disgust and the moralization of purity.",
     "authors": [],
@@ -10025,6 +10562,7 @@
   {
     "resource_id": "LE-AP-540",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Multiple forms of dynamic representation",
     "authors": [],
@@ -10042,6 +10580,7 @@
   {
     "resource_id": "LE-AP-541",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Sexual Morality: The Cultures and Emotions of Conservatives and Liberals<sup>1</sup>",
     "authors": [],
@@ -10059,6 +10598,7 @@
   {
     "resource_id": "LE-AP-542",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "What Happens When Teachers Design Educational Technology? The Development of Technological Pedagogical Content Knowledge",
     "authors": [],
@@ -10079,6 +10619,7 @@
   {
     "resource_id": "LE-AP-543",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The modularity of thought and the epidemiology of representations",
     "authors": [],
@@ -10096,6 +10637,7 @@
   {
     "resource_id": "LE-AP-544",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning artificial grammars with competitive chunking.",
     "authors": [],
@@ -10113,6 +10655,7 @@
   {
     "resource_id": "LE-AP-545",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward a Universal Law of Generalization for Psychological Science",
     "authors": [],
@@ -10130,6 +10673,7 @@
   {
     "resource_id": "LE-AP-546",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Does Active Learning Work? A Review of the Research",
     "authors": [],
@@ -10149,6 +10693,7 @@
   {
     "resource_id": "LE-AP-547",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Just the Facts? Introductory Undergraduate Biology Courses Focus on Low-Level Cognitive Skills",
     "authors": [],
@@ -10168,6 +10713,7 @@
   {
     "resource_id": "LE-AP-548",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "When and Why Does Mastery Learning Work: Instructional Experiments with ACT-R “SimStudents”",
     "authors": [],
@@ -10188,6 +10734,7 @@
   {
     "resource_id": "LE-AP-549",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Intelligent Tutoring Systems",
     "authors": [],
@@ -10205,6 +10752,7 @@
   {
     "resource_id": "LE-AP-550",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "An Integrated Theory of the Mind.",
     "authors": [],
@@ -10222,6 +10770,7 @@
   {
     "resource_id": "LE-AP-551",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Fluency Training in the ESL Classroom: An Experimental Study of Fluency Development and Proceduralization",
     "authors": [],
@@ -10239,6 +10788,7 @@
   {
     "resource_id": "LE-AP-552",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Examining student work for evidence of teacher uptake of educative curriculum materials",
     "authors": [],
@@ -10258,6 +10808,7 @@
   {
     "resource_id": "LE-AP-553",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The role of deliberate practice in the acquisition of expert performance.",
     "authors": [],
@@ -10275,6 +10826,7 @@
   {
     "resource_id": "LE-AP-554",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Tracing the threads: How five moral concerns (especially Purity) help explain culture war attitudes",
     "authors": [],
@@ -10292,6 +10844,7 @@
   {
     "resource_id": "LE-AP-555",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Advancing Development of Intercultural Competence through Supporting Predictions in Narrative Video",
     "authors": [],
@@ -10309,6 +10862,7 @@
   {
     "resource_id": "LE-AP-556",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Are All Types of Morality Compromised in Psychopathy?",
     "authors": [],
@@ -10326,6 +10880,7 @@
   {
     "resource_id": "LE-AP-557",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The political left rolls with the good and the political right confronts the bad: connecting physiology and cognition to preferences",
     "authors": [],
@@ -10343,6 +10898,7 @@
   {
     "resource_id": "LE-AP-558",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Clustering and Sequential Pattern Mining of Online Collaborative Learning Data",
     "authors": [],
@@ -10360,6 +10916,7 @@
   {
     "resource_id": "LE-AP-559",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Equivalence of Learning Paths in Early Science Instruction",
     "authors": [],
@@ -10377,6 +10934,7 @@
   {
     "resource_id": "LE-AP-560",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "e‐Learning and the Science of Instruction",
     "authors": [],
@@ -10394,6 +10952,7 @@
   {
     "resource_id": "LE-AP-561",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Mapping the Connections between Politics and Morality: The Multiple Sociopolitical Orientations Involved in Moral Intuition",
     "authors": [],
@@ -10411,6 +10970,7 @@
   {
     "resource_id": "LE-AP-562",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Those Who Understand: Knowledge Growth in Teaching",
     "authors": [],
@@ -10428,6 +10988,7 @@
   {
     "resource_id": "LE-AP-563",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Animations need narrations: An experimental test of a dual-coding hypothesis.",
     "authors": [],
@@ -10445,6 +11006,7 @@
   {
     "resource_id": "LE-AP-564",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proscriptive versus prescriptive morality: Two faces of moral regulation.",
     "authors": [],
@@ -10462,6 +11024,7 @@
   {
     "resource_id": "LE-AP-565",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Conservatives are more easily disgusted than liberals",
     "authors": [],
@@ -10479,6 +11042,7 @@
   {
     "resource_id": "LE-AP-566",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Disgust as Embodied Moral Judgment",
     "authors": [],
@@ -10498,6 +11062,7 @@
   {
     "resource_id": "LE-AP-567",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Math Wars",
     "authors": [],
@@ -10517,6 +11082,7 @@
   {
     "resource_id": "LE-AP-568",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Designs that fly: what the history of aeronautics tells us about the future of design-based research in education",
     "authors": [],
@@ -10534,6 +11100,7 @@
   {
     "resource_id": "LE-AP-569",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Psychometricians’ Beliefs About Learning",
     "authors": [],
@@ -10553,6 +11120,7 @@
   {
     "resource_id": "LE-AP-570",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The psychology of meta-ethics: Exploring objectivism",
     "authors": [],
@@ -10570,6 +11138,7 @@
   {
     "resource_id": "LE-AP-571",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Discovery of Grounded Theory; Strategies for Qualitative Research",
     "authors": [],
@@ -10587,6 +11156,7 @@
   {
     "resource_id": "LE-AP-572",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Development of left occipitotemporal systems for skilled reading in children after a phonologically- based intervention",
     "authors": [],
@@ -10604,6 +11174,7 @@
   {
     "resource_id": "LE-AP-573",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Systematic Review of Design-Based Research Progress",
     "authors": [],
@@ -10621,6 +11192,7 @@
   {
     "resource_id": "LE-AP-574",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "How Fading Worked Solution Steps Works – A Cognitive Load Perspective",
     "authors": [],
@@ -10640,6 +11212,7 @@
   {
     "resource_id": "LE-AP-575",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Retrieval-induced facilitation: Initially nontested material can benefit from prior testing of related material.",
     "authors": [],
@@ -10657,6 +11230,7 @@
   {
     "resource_id": "LE-AP-576",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "In Defense of Moral Realism: Reply to Gabennesch",
     "authors": [],
@@ -10674,6 +11248,7 @@
   {
     "resource_id": "LE-AP-577",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The case for motivated reasoning.",
     "authors": [],
@@ -10691,6 +11266,7 @@
   {
     "resource_id": "LE-AP-578",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Active‐Constructive‐Interactive: A Conceptual Framework for Differentiating Learning Activities",
     "authors": [],
@@ -10710,6 +11286,7 @@
   {
     "resource_id": "LE-AP-579",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Mining the student assessment data: Lessons drawn from a small scale case study",
     "authors": [],
@@ -10730,6 +11307,7 @@
   {
     "resource_id": "LE-AP-580",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Principles of Artificial Intelligence",
     "authors": [],
@@ -10747,6 +11325,7 @@
   {
     "resource_id": "LE-AP-581",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Economics Language and Assumptions: How Theories can Become Self-Fulfilling",
     "authors": [],
@@ -10764,6 +11343,7 @@
   {
     "resource_id": "LE-AP-582",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Compassionate Liberals and Polite Conservatives: Associations of Agreeableness With Political Ideology and Moral Values",
     "authors": [],
@@ -10781,6 +11361,7 @@
   {
     "resource_id": "LE-AP-583",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Reviving Inert Knowledge: Analogical Abstraction Supports Relational Retrieval of Past Events",
     "authors": [],
@@ -10798,6 +11379,7 @@
   {
     "resource_id": "LE-AP-584",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Religion, Morality, Evolution",
     "authors": [],
@@ -10815,6 +11397,7 @@
   {
     "resource_id": "LE-AP-585",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Interplay of Evidence and Consequences in the Validation of Performance Assessments",
     "authors": [],
@@ -10832,6 +11415,7 @@
   {
     "resource_id": "LE-AP-586",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Self-Regulated Learning: Beliefs, Techniques, and Illusions",
     "authors": [],
@@ -10849,6 +11433,7 @@
   {
     "resource_id": "LE-AP-587",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The origins of intelligence in children.",
     "authors": [],
@@ -10866,6 +11451,7 @@
   {
     "resource_id": "LE-AP-588",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward Meta-cognitive Tutoring: A Model of Help Seeking with a Cognitive Tutor",
     "authors": [],
@@ -10885,6 +11471,7 @@
   {
     "resource_id": "LE-AP-589",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Are Needs to Manage Uncertainty and Threat Associated With Political Conservatism or Ideological Extremity?",
     "authors": [],
@@ -10902,6 +11489,7 @@
   {
     "resource_id": "LE-AP-590",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Understanding and applying the dynamics of test practice and study practice",
     "authors": [],
@@ -10919,6 +11507,7 @@
   {
     "resource_id": "LE-AP-591",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The role of examples and rules in the acquisition of a cognitive skill.",
     "authors": [],
@@ -10936,6 +11525,7 @@
   {
     "resource_id": "LE-AP-592",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "In pursuit of knowledge: Comparing self-explanations, concepts, and procedures as pedagogical tools",
     "authors": [],
@@ -10953,6 +11543,7 @@
   {
     "resource_id": "LE-AP-593",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Social dominance orientation: A personality variable predicting social and political attitudes.",
     "authors": [],
@@ -10970,6 +11561,7 @@
   {
     "resource_id": "LE-AP-594",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Does discovery-based instruction enhance learning?",
     "authors": [],
@@ -10987,6 +11579,7 @@
   {
     "resource_id": "LE-AP-595",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Political conservatism as motivated social cognition.",
     "authors": [],
@@ -11004,6 +11597,7 @@
   {
     "resource_id": "LE-AP-596",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Inferring Student Learning Behaviour from Website Interactions: A Usage Analysis",
     "authors": [],
@@ -11023,6 +11617,7 @@
   {
     "resource_id": "LE-AP-597",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Rapid dynamic assessment of expertise to improve the efficiency of adaptive e-learning",
     "authors": [],
@@ -11043,6 +11638,7 @@
   {
     "resource_id": "LE-AP-598",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cognitive foundations of interpretation",
     "authors": [],
@@ -11059,6 +11655,7 @@
   {
     "resource_id": "LE-AP-599",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A case of different intentions concerning intentionality",
     "authors": [],
@@ -11076,6 +11673,7 @@
   {
     "resource_id": "LE-AP-600",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Moral Divisions within Countries between Orthodoxy and Progressivism: India and the United States",
     "authors": [],
@@ -11093,6 +11691,7 @@
   {
     "resource_id": "LE-AP-601",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Observing Tutorial Dialogues Collaboratively: Insights About Human Tutoring Effectiveness From Vicarious Learning",
     "authors": [],
@@ -11112,6 +11711,7 @@
   {
     "resource_id": "LE-AP-602",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Spacing Effects in Learning",
     "authors": [],
@@ -11129,6 +11729,7 @@
   {
     "resource_id": "LE-AP-603",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Dissecting the Neural Mechanisms Mediating Empathy",
     "authors": [],
@@ -11146,6 +11747,7 @@
   {
     "resource_id": "LE-AP-604",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Memory in Educational Settings",
     "authors": [],
@@ -11163,6 +11765,7 @@
   {
     "resource_id": "LE-AP-605",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Evaluating and improving adaptive educational systems with learning curves",
     "authors": [],
@@ -11183,6 +11786,7 @@
   {
     "resource_id": "LE-AP-606",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Trade‐Offs Between Grounded and Abstract Representations: Evidence From Algebra Problem Solving",
     "authors": [],
@@ -11200,6 +11804,7 @@
   {
     "resource_id": "LE-AP-607",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Explanation-Based Generalization: A Unifying View",
     "authors": [],
@@ -11217,6 +11822,7 @@
   {
     "resource_id": "LE-AP-608",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Conjecture mapping to optimize the educational design research process",
     "authors": [],
@@ -11234,6 +11840,7 @@
   {
     "resource_id": "LE-AP-609",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Organization of Behavior",
     "authors": [],
@@ -11251,6 +11858,7 @@
   {
     "resource_id": "LE-AP-610",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Psychology of Learning and Motivation: Advances in Research and Theory",
     "authors": "[]",
@@ -11270,6 +11878,7 @@
   {
     "resource_id": "LE-AP-611",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Growing the Learning Sciences: Brand or Big Tent? Implications for Graduate Education",
     "authors": [],
@@ -11287,6 +11896,7 @@
   {
     "resource_id": "LE-AP-612",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward a Theory of Instruction",
     "authors": [],
@@ -11304,6 +11914,7 @@
   {
     "resource_id": "LE-AP-613",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Taxonomy of Educational Objectives. Handbook I: Cognitive Domain",
     "authors": [],
@@ -11321,6 +11932,7 @@
   {
     "resource_id": "LE-AP-614",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Multimedia Learning",
     "authors": "[]",
@@ -11340,6 +11952,7 @@
   {
     "resource_id": "LE-AP-615",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Usability Engineering",
     "authors": [],
@@ -11356,6 +11969,7 @@
   {
     "resource_id": "LE-AP-616",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Democracia e Cidadania na Escola: Do Discurso à Prática",
     "authors": [],
@@ -11373,6 +11987,7 @@
   {
     "resource_id": "LE-AP-617",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Big Three",
     "authors": [],
@@ -11389,6 +12004,7 @@
   {
     "resource_id": "LE-AP-618",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning.",
     "authors": [],
@@ -11405,6 +12021,7 @@
   {
     "resource_id": "LE-AP-619",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Organizing for Teacher Agency in Curricular Co-Design",
     "authors": [],
@@ -11422,6 +12039,7 @@
   {
     "resource_id": "LE-AP-620",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Social Design Experiments: Toward Equity by Design",
     "authors": [],
@@ -11439,6 +12057,7 @@
   {
     "resource_id": "LE-AP-621",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Education for the Knowledge Age: Design-Centered Models of Teaching and Instruction",
     "authors": [],
@@ -11456,6 +12075,7 @@
   {
     "resource_id": "LE-AP-622",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Sacred values and evil adversaries: A moral foundations approach.",
     "authors": [],
@@ -11473,6 +12093,7 @@
   {
     "resource_id": "LE-AP-623",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational Design Research in the 21st Century",
     "authors": [],
@@ -11490,6 +12111,7 @@
   {
     "resource_id": "LE-AP-624",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Design Research Methods in Education",
     "authors": [],
@@ -11507,6 +12129,7 @@
   {
     "resource_id": "LE-AP-625",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The role of argumentation and explanation in conceptual change: Indications from protocol analyses of peer-to-peer dialogue",
     "authors": [],
@@ -11523,6 +12146,7 @@
   {
     "resource_id": "LE-AP-626",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Peak: Secrets From the New Science of Expertise",
     "authors": [],
@@ -11540,6 +12164,7 @@
   {
     "resource_id": "LE-AP-627",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational Technology",
     "authors": [],
@@ -11557,6 +12182,7 @@
   {
     "resource_id": "LE-AP-628",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning Factors Transfer Analysis: Using Learning Curve Analysis to Automatically Generate Domain Models",
     "authors": [],
@@ -11573,6 +12199,7 @@
   {
     "resource_id": "LE-AP-629",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Worked Examples and Tutored Problem Solving:Redundant or Synergistic Forms of Support?",
     "authors": [],
@@ -11590,6 +12217,7 @@
   {
     "resource_id": "LE-AP-630",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings of the 31st Annual Conference of the Cognitive Science Society.",
     "authors": [],
@@ -11606,6 +12234,7 @@
   {
     "resource_id": "LE-AP-631",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings of the 23rd annual conference of the cognitive science society",
     "authors": [],
@@ -11622,6 +12251,7 @@
   {
     "resource_id": "LE-AP-632",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings of the Twenty-Third Annual Conference of the Cognitive Science Society",
     "authors": [],
@@ -11638,6 +12268,7 @@
   {
     "resource_id": "LE-AP-633",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Bayesian knowledge tracing, logistic models, and beyond: an overview of learner modeling techniques",
     "authors": [],
@@ -11655,6 +12286,7 @@
   {
     "resource_id": "LE-AP-634",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings of the 32nd Annual Conference of the Cognitive Science Society",
     "authors": [],
@@ -11671,6 +12303,7 @@
   {
     "resource_id": "LE-AP-635",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "In Vivo Experiments on Whether Supporting Metacognition in Intelligent Tutoring Systems Yields Robust Learning",
     "authors": [],
@@ -11690,6 +12323,7 @@
   {
     "resource_id": "LE-AP-636",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings of the Twenty-Fourth Annual Conference of the Cognitive Science Society",
     "authors": [],
@@ -11706,6 +12340,7 @@
   {
     "resource_id": "LE-AP-637",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Thinking, Fast and Slow",
     "authors": [],
@@ -11722,6 +12357,7 @@
   {
     "resource_id": "LE-AP-638",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Cascade Explains and Informs the Utility of Fading Examples to Problems",
     "authors": [],
@@ -11738,6 +12374,7 @@
   {
     "resource_id": "LE-AP-639",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Why Example Fading Works: A Qualitative Analysis Using Cascade",
     "authors": [],
@@ -11755,6 +12392,7 @@
   {
     "resource_id": "LE-AP-640",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Culture Wars: The Struggle to Define America",
     "authors": [],
@@ -11772,6 +12410,7 @@
   {
     "resource_id": "LE-AP-641",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Unsupervised Models for Named Entity Classification",
     "authors": [],
@@ -11790,6 +12429,7 @@
   {
     "resource_id": "LE-AP-642",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction",
     "authors": [],
@@ -11806,6 +12446,7 @@
   {
     "resource_id": "LE-AP-643",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Mapping morality with a compass: Testing the theory of ‘morality-as-cooperation’ with a new questionnaire",
     "authors": [],
@@ -11823,6 +12464,7 @@
   {
     "resource_id": "LE-AP-644",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies",
     "authors": [],
@@ -11840,6 +12482,7 @@
   {
     "resource_id": "LE-AP-645",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Aims of Education (1929)",
     "authors": [],
@@ -11857,6 +12500,7 @@
   {
     "resource_id": "LE-AP-646",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "What Do We Teach When We Teach the Learning Sciences? A Document Analysis of 75 Graduate Programs",
     "authors": [],
@@ -11874,6 +12518,7 @@
   {
     "resource_id": "LE-AP-647",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Oxford companion to consciousness",
     "authors": [],
@@ -11891,6 +12536,7 @@
   {
     "resource_id": "LE-AP-648",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design research from a learning design perspective",
     "authors": [],
@@ -11908,6 +12554,7 @@
   {
     "resource_id": "LE-AP-649",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Multitask learning",
     "authors": [],
@@ -11926,6 +12573,7 @@
   {
     "resource_id": "LE-AP-650",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A Conceptual History of the Achievement Goal Construct.",
     "authors": [],
@@ -11942,6 +12590,7 @@
   {
     "resource_id": "LE-AP-651",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The art of case study research",
     "authors": [],
@@ -11959,6 +12608,7 @@
   {
     "resource_id": "LE-AP-652",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Expert Brain",
     "authors": [],
@@ -11976,6 +12626,7 @@
   {
     "resource_id": "LE-AP-653",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward productive design studies",
     "authors": [],
@@ -11993,6 +12644,7 @@
   {
     "resource_id": "LE-AP-654",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Using radicals in teaching Chinese characters to second language learners",
     "authors": [],
@@ -12009,6 +12661,7 @@
   {
     "resource_id": "LE-AP-655",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Intelligent Tutoring Systems",
     "authors": [],
@@ -12028,6 +12681,7 @@
   {
     "resource_id": "LE-AP-656",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The role of mixed methods in conducting design-based research",
     "authors": [],
@@ -12045,6 +12699,7 @@
   {
     "resource_id": "LE-AP-657",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The Moral Stereotypes of Liberals and Conservatives: Exaggeration of Differences across the Political Spectrum",
     "authors": [],
@@ -12062,6 +12717,7 @@
   {
     "resource_id": "LE-AP-658",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Designing Adaptive Collaboration Structures for Advancing the Community’s Knowledge",
     "authors": [],
@@ -12079,6 +12735,7 @@
   {
     "resource_id": "LE-AP-659",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Common Core State Standards",
     "authors": [],
@@ -12095,6 +12752,7 @@
   {
     "resource_id": "LE-AP-660",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "In A Different Voice: Psychological Theory And Women's Development",
     "authors": [],
@@ -12111,6 +12769,7 @@
   {
     "resource_id": "LE-AP-661",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Communicating in the Classroom",
     "authors": [],
@@ -12127,6 +12786,7 @@
   {
     "resource_id": "LE-AP-662",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings of the 29th Annual Conference of the Cognitive Science Society",
     "authors": [],
@@ -12143,6 +12803,7 @@
   {
     "resource_id": "LE-AP-663",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Educational Psychology",
     "authors": [],
@@ -12160,6 +12821,7 @@
   {
     "resource_id": "LE-AP-664",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "In a Different Voice: Psychological Theory and Women's Development.",
     "authors": [],
@@ -12177,6 +12839,7 @@
   {
     "resource_id": "LE-AP-665",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning and Teaching Styles in Engineering Education.",
     "authors": [],
@@ -12193,6 +12856,7 @@
   {
     "resource_id": "LE-AP-666",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Probabilistic Logics and the Synthesis of Reliable Organisms From Unreliable Components",
     "authors": [],
@@ -12210,6 +12874,7 @@
   {
     "resource_id": "LE-AP-667",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings of the 32nd Annual Conference of the Cognitive Science Society",
     "authors": [],
@@ -12226,6 +12891,7 @@
   {
     "resource_id": "LE-AP-668",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Explaining Self-Explaining: A Contrast between Content and Generation",
     "authors": [],
@@ -12243,6 +12909,7 @@
   {
     "resource_id": "LE-AP-669",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Proceedings of the 30th Annual Conference of the Cognitive Science Society.",
     "authors": [],
@@ -12259,6 +12926,7 @@
   {
     "resource_id": "LE-AP-670",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Design in Educational Technology",
     "authors": [],
@@ -12276,6 +12944,7 @@
   {
     "resource_id": "LE-AP-671",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design Research for Sustained Innovation",
     "authors": [],
@@ -12293,6 +12962,7 @@
   {
     "resource_id": "LE-AP-672",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "‘Who Is My Research for?’: Researcher Perceptions of the Research–Practice Relationship",
     "authors": [],
@@ -12310,6 +12980,7 @@
   {
     "resource_id": "LE-AP-673",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Good Natured",
     "authors": [],
@@ -12327,6 +12998,7 @@
   {
     "resource_id": "LE-AP-674",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Argument-Based Approach to Validity",
     "authors": [],
@@ -12344,6 +13016,7 @@
   {
     "resource_id": "LE-AP-675",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Hierarchy in the Forest The Evolution of Egalitarian Behavior",
     "authors": [],
@@ -12361,6 +13034,7 @@
   {
     "resource_id": "LE-AP-676",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Development of expertise in mathematical problem solving.",
     "authors": [],
@@ -12378,6 +13052,7 @@
   {
     "resource_id": "LE-AP-677",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Generalizing solution procedures learned from examples.",
     "authors": [],
@@ -12395,6 +13070,7 @@
   {
     "resource_id": "LE-AP-678",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Conservatism",
     "authors": [],
@@ -12412,6 +13088,7 @@
   {
     "resource_id": "LE-AP-679",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Toward an Epistemology of Physics",
     "authors": [],
@@ -12429,6 +13106,7 @@
   {
     "resource_id": "LE-AP-680",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Self‐Explanations: How Students Study and Use Examples in Learning to Solve Problems",
     "authors": [],
@@ -12446,6 +13124,7 @@
   {
     "resource_id": "LE-AP-681",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational Design Research",
     "authors": [],
@@ -12463,6 +13142,7 @@
   {
     "resource_id": "LE-AP-682",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge",
     "authors": [],
@@ -12482,6 +13162,7 @@
   {
     "resource_id": "LE-AP-683",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Explanation-based generalization: A unifying view",
     "authors": [],
@@ -12499,6 +13180,7 @@
   {
     "resource_id": "LE-AP-684",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Morality",
     "authors": [],
@@ -12516,6 +13198,7 @@
   {
     "resource_id": "LE-AP-685",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The organization of behavior.",
     "authors": [],
@@ -12533,6 +13216,7 @@
   {
     "resource_id": "LE-AP-686",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational Data Mining and Learning Analytics",
     "authors": [],
@@ -12552,6 +13236,7 @@
   {
     "resource_id": "LE-AP-687",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "In Defense of Moral Realism: Reply to Gabennesch",
     "authors": [],
@@ -12569,6 +13254,7 @@
   {
     "resource_id": "LE-AP-688",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Affect, culture, and morality, or is it wrong to eat your dog?",
     "authors": [],
@@ -12586,6 +13272,7 @@
   {
     "resource_id": "LE-AP-689",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Computational Explorations in Cognitive Neuroscience",
     "authors": [],
@@ -12603,6 +13290,7 @@
   {
     "resource_id": "LE-AP-690",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Making insights from educational psychology and educational technology research more useful for practice",
     "authors": [],
@@ -12620,6 +13308,7 @@
   {
     "resource_id": "LE-AP-691",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Moral Foundations Theory",
     "authors": [],
@@ -12637,6 +13326,7 @@
   {
     "resource_id": "LE-AP-692",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations.",
     "authors": [],
@@ -12654,6 +13344,7 @@
   {
     "resource_id": "LE-AP-693",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "What video games have to teach us about learning and literacy",
     "authors": [],
@@ -12671,6 +13362,7 @@
   {
     "resource_id": "LE-AP-694",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Harvard business review",
     "authors": [],
@@ -12688,6 +13380,7 @@
   {
     "resource_id": "LE-AP-695",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Educational psychologist",
     "authors": [],
@@ -12705,6 +13398,7 @@
   {
     "resource_id": "LE-AP-696",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "At a Loss From Words: Verbal Overshadowing of Perceptual Memories",
     "authors": "[]",
@@ -12722,6 +13416,7 @@
   {
     "resource_id": "LE-AP-697",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "A Cognitive Task Analysis of Using Pictures To Support Pre-Algebraic Reasoning",
     "authors": [],
@@ -12739,6 +13434,7 @@
   {
     "resource_id": "LE-AP-698",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Design Research on Learning and Thinking in Educational Settings",
     "authors": [],
@@ -12756,6 +13452,7 @@
   {
     "resource_id": "LE-AP-699",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Handbook of Metacognition in Education",
     "authors": [],
@@ -12773,6 +13470,7 @@
   {
     "resource_id": "LE-AP-700",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Learning and Motivation in the Classroom",
     "authors": [],
@@ -12790,6 +13488,7 @@
   {
     "resource_id": "LE-AP-701",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Culture wars: the struggle to define America",
     "authors": [],
@@ -12807,6 +13506,7 @@
   {
     "resource_id": "LE-AP-702",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Theory of Instruction: Principles and Applications",
     "authors": [],
@@ -12823,6 +13523,7 @@
   {
     "resource_id": "LE-AP-703",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Profiling Students Who Take Online Courses Using Data Mining Methods.",
     "authors": [],
@@ -12842,6 +13543,7 @@
   {
     "resource_id": "LE-AP-704",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Determination of factors influencing the achievement of the first-year university students using data mining methods",
     "authors": [],
@@ -12858,6 +13560,7 @@
   {
     "resource_id": "LE-AP-705",
     "content_type": "AP",
+    "source": "openalex_expansion",
     "status": "seed",
     "title": "Key Misconceptions in Algebraic Problem Solving",
     "authors": [],
@@ -12874,6 +13577,7 @@
   {
     "resource_id": "LE-AP-706",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Design-Based Research: A Decade of Progress in Education Research?” Educational Researcher 41, no",
     "authors": [],
@@ -12892,6 +13596,7 @@
   {
     "resource_id": "LE-AP-707",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Designing intelligent tutors that adapt to when students game the system",
     "authors": [],
@@ -12909,6 +13614,7 @@
   {
     "resource_id": "LE-AP-708",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“MindTheGapp™ Between Standards and Practice of Mobile Learning Experience Design",
     "authors": [],
@@ -12926,6 +13632,7 @@
   {
     "resource_id": "LE-AP-709",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Math Readiness: Early Identification of Preschool Children Least Ready to Benefit from Formal Math Instruction in School",
     "authors": [],
@@ -12942,6 +13649,7 @@
   {
     "resource_id": "LE-AP-710",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“The User as a Personality",
     "authors": [],
@@ -12957,6 +13665,7 @@
   {
     "resource_id": "LE-AP-711",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": ", and Jennifer McGovern Narkevicius",
     "authors": [],
@@ -12973,6 +13682,7 @@
   {
     "resource_id": "LE-AP-712",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": ", Ann L",
     "authors": [],
@@ -12991,6 +13701,7 @@
   {
     "resource_id": "LE-AP-713",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Engineering Learning at Kaplan University",
     "authors": [],
@@ -13007,6 +13718,7 @@
   {
     "resource_id": "LE-AP-714",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Design Thinking",
     "authors": [],
@@ -13022,6 +13734,7 @@
   {
     "resource_id": "LE-AP-715",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Adaptive and Intelligent Web-based Educational Systems",
     "authors": [],
@@ -13039,6 +13752,7 @@
   {
     "resource_id": "LE-AP-716",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Kach, and Stephan M",
     "authors": [],
@@ -13055,6 +13769,7 @@
   {
     "resource_id": "LE-AP-717",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Tales from the Dark Side: Privacy Dark Strategies and Privacy Dark Patterns",
     "authors": [],
@@ -13071,6 +13786,7 @@
   {
     "resource_id": "LE-AP-718",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“A Proposal for a Policy on the Ethical Care and Use of Cadavers and Their Tissues",
     "authors": [],
@@ -13087,6 +13803,7 @@
   {
     "resource_id": "LE-AP-719",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Design Thinking Methods and Tools for Innovation",
     "authors": [],
@@ -13103,6 +13820,7 @@
   {
     "resource_id": "LE-AP-720",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Farnsworth, Lasana T",
     "authors": [],
@@ -13119,6 +13837,7 @@
   {
     "resource_id": "LE-AP-721",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice",
     "authors": [],
@@ -13134,6 +13853,7 @@
   {
     "resource_id": "LE-AP-722",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "See: https://designjustice",
     "authors": [],
@@ -13150,6 +13870,7 @@
   {
     "resource_id": "LE-AP-723",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "interaction-design",
     "authors": [],
@@ -13165,6 +13886,7 @@
   {
     "resource_id": "LE-AP-724",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Design-Based Research: A Methodological Toolkit for Engineering Change",
     "authors": [],
@@ -13184,6 +13906,7 @@
   {
     "resource_id": "LE-AP-725",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Fraser, Arthur L",
     "authors": [],
@@ -13200,6 +13923,7 @@
   {
     "resource_id": "LE-AP-726",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Taking Science to School: Learning and Teaching Science in Grades K-8",
     "authors": [],
@@ -13216,6 +13940,7 @@
   {
     "resource_id": "LE-AP-727",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": ", Melissa Roderick, Elaine Allensworth, Jenny Nagaoka, Tasha Seneca Keyes, David W",
     "authors": [],
@@ -13233,6 +13958,7 @@
   {
     "resource_id": "LE-AP-728",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "D",
     "authors": [],
@@ -13251,6 +13977,7 @@
   {
     "resource_id": "LE-AP-729",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Kahn, Alan Borning, and Alina Huldtgren",
     "authors": [],
@@ -13267,6 +13994,7 @@
   {
     "resource_id": "LE-AP-730",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Learning by Design: Good Video Games as Learning Machines",
     "authors": [],
@@ -13285,6 +14013,7 @@
   {
     "resource_id": "LE-AP-731",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Learning Sciences: Concepts for Learning Engineering",
     "authors": [],
@@ -13300,6 +14029,7 @@
   {
     "resource_id": "LE-AP-732",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“What We Discovered at the Roots of Learning Engineering",
     "authors": [],
@@ -13315,6 +14045,7 @@
   {
     "resource_id": "LE-AP-733",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“When Morality Opposes Justice: Conservatives Have Moral Intuitions that Liberals May Not Recognize",
     "authors": [],
@@ -13331,6 +14062,7 @@
   {
     "resource_id": "LE-AP-734",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Elizabeth Owen",
     "authors": [],
@@ -13349,6 +14081,7 @@
   {
     "resource_id": "LE-AP-735",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“After Action Review (AAR) Process: Nano Tools for Leaders",
     "authors": [],
@@ -13364,6 +14097,7 @@
   {
     "resource_id": "LE-AP-736",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Human-Centered Design for Global Health Equity",
     "authors": [],
@@ -13380,6 +14114,7 @@
   {
     "resource_id": "LE-AP-737",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "and Anne S",
     "authors": [],
@@ -13396,6 +14131,7 @@
   {
     "resource_id": "LE-AP-738",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“The History of Mental Models",
     "authors": [],
@@ -13412,6 +14148,7 @@
   {
     "resource_id": "LE-AP-739",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "For Business Ethics, 1st ed",
     "authors": [],
@@ -13428,6 +14165,7 @@
   {
     "resource_id": "LE-AP-740",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“The Friendly Orange Glow: The Untold Story of the PLATO System and the Dawn of Cyberculture",
     "authors": [],
@@ -13444,6 +14182,7 @@
   {
     "resource_id": "LE-AP-741",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Dragoo, Lauren Yeagle, Randa L",
     "authors": [],
@@ -13463,6 +14202,7 @@
   {
     "resource_id": "LE-AP-742",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": ", and Dennis K",
     "authors": [],
@@ -13478,6 +14218,7 @@
   {
     "resource_id": "LE-AP-743",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Exploring How Teachers Support Students’ Mathematical Learning in Computer-Directed Learning Environments",
     "authors": [],
@@ -13494,6 +14235,7 @@
   {
     "resource_id": "LE-AP-744",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": ", Elizabeth A",
     "authors": [],
@@ -13513,6 +14255,7 @@
   {
     "resource_id": "LE-AP-745",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“The Journal of the Learning Sciences: Effecting Changes in Education",
     "authors": [],
@@ -13531,6 +14274,7 @@
   {
     "resource_id": "LE-AP-746",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Chad",
     "authors": [],
@@ -13547,6 +14291,7 @@
   {
     "resource_id": "LE-AP-747",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "” SH!FT",
     "authors": [],
@@ -13565,6 +14310,7 @@
   {
     "resource_id": "LE-AP-748",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Samuels, and Lee Ross",
     "authors": [],
@@ -13581,6 +14327,7 @@
   {
     "resource_id": "LE-AP-749",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Lessons from Adult Education: Identifying and Exploring Emerging Ethical Issues in Technologically Enhanced Performance",
     "authors": [],
@@ -13597,6 +14344,7 @@
   {
     "resource_id": "LE-AP-750",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "and Judith E",
     "authors": [],
@@ -13613,6 +14361,7 @@
   {
     "resource_id": "LE-AP-751",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“The Dishonesty of Honest People: A Theory of SelfConcept Maintenance",
     "authors": [],
@@ -13629,6 +14378,7 @@
   {
     "resource_id": "LE-AP-752",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“The Situation with Respect to the Spacing of Repetitions and Memory",
     "authors": [],
@@ -13644,6 +14394,7 @@
   {
     "resource_id": "LE-AP-753",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“A Behavioral Perspective on College Teaching",
     "authors": [],
@@ -13660,6 +14411,7 @@
   {
     "resource_id": "LE-AP-754",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "and James B",
     "authors": [],
@@ -13678,6 +14430,7 @@
   {
     "resource_id": "LE-AP-755",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": ", Benjamin N",
     "authors": [],
@@ -13694,6 +14447,7 @@
   {
     "resource_id": "LE-AP-756",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "and Eric van Dijk",
     "authors": [],
@@ -13710,6 +14464,7 @@
   {
     "resource_id": "LE-AP-757",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "How People Learn II: Learners, Contexts, and Cultures",
     "authors": [],
@@ -13728,6 +14483,7 @@
   {
     "resource_id": "LE-AP-758",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Teaching User Interface Design Based on Usability Engineering",
     "authors": [],
@@ -13744,6 +14500,7 @@
   {
     "resource_id": "LE-AP-759",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Testing Stereotype Threat: Does Anxiety Explain Race and Sex Differences in Achievement?” Contemporary Educational Psychology 26, no",
     "authors": [],
@@ -13760,6 +14517,7 @@
   {
     "resource_id": "LE-AP-760",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Symphony: A Case Study in Extending Learner-Centered Design Through Process Space Analysis",
     "authors": [],
@@ -13778,6 +14536,7 @@
   {
     "resource_id": "LE-AP-761",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Using Cognitive Load Theory to Improve Logical Reasoning for the LSAT",
     "authors": [],
@@ -13795,6 +14554,7 @@
   {
     "resource_id": "LE-AP-762",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Zhang, LE Michaelson, S",
     "authors": [],
@@ -13813,6 +14573,7 @@
   {
     "resource_id": "LE-AP-763",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Keith, ed",
     "authors": [],
@@ -13831,6 +14592,7 @@
   {
     "resource_id": "LE-AP-764",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Executing the Change to Learning Engineering at Scale",
     "authors": [],
@@ -13847,6 +14609,7 @@
   {
     "resource_id": "LE-AP-765",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Designing Ethical Agency for Adaptive Instructional Systems: The FATE of Learning and Assessment",
     "authors": [],
@@ -13865,6 +14628,7 @@
   {
     "resource_id": "LE-AP-766",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Social-Cognitive Barriers to Ethical Authorship",
     "authors": [],
@@ -13881,6 +14645,7 @@
   {
     "resource_id": "LE-AP-767",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Moral Economies and Codes of Conduct: The Social Organization of Canadian Experimental Psychology",
     "authors": [],
@@ -13897,6 +14662,7 @@
   {
     "resource_id": "LE-AP-768",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Reflective Design",
     "authors": "[]",
@@ -13913,6 +14679,7 @@
   {
     "resource_id": "LE-AP-769",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "2016",
     "authors": [],
@@ -13930,6 +14697,7 @@
   {
     "resource_id": "LE-AP-770",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Rodriguez",
     "authors": [],
@@ -13945,6 +14713,7 @@
   {
     "resource_id": "LE-AP-771",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "and Ara Norenzayan",
     "authors": [],
@@ -13961,6 +14730,7 @@
   {
     "resource_id": "LE-AP-772",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“A Case of FMEA Implementation in the Educational Sector and Integration with CRM and QFD Concepts",
     "authors": [],
@@ -13976,6 +14746,7 @@
   {
     "resource_id": "LE-AP-773",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Cake or Broccoli? Recency Biases Children’s Verbal Responses",
     "authors": [],
@@ -13992,6 +14763,7 @@
   {
     "resource_id": "LE-AP-774",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Enhancing Human Learning via Spaced Repetition Optimization",
     "authors": [],
@@ -14008,6 +14780,7 @@
   {
     "resource_id": "LE-AP-775",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“The New New Product Development Game",
     "authors": [],
@@ -14023,6 +14796,7 @@
   {
     "resource_id": "LE-AP-776",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Accelerating Early Math Learning with Research-Based Personalized Learning Games: A Cluster Randomized Controlled Trial",
     "authors": [],
@@ -14041,6 +14815,7 @@
   {
     "resource_id": "LE-AP-777",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "The design processes these firms were using were quite different from standard product design, focusing primarily on designing experiences for consumers in addition to products themselves",
     "authors": [],
@@ -14057,6 +14832,7 @@
   {
     "resource_id": "LE-AP-778",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "Pervan, Stephen J",
     "authors": [],
@@ -14073,6 +14849,7 @@
   {
     "resource_id": "LE-AP-779",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Failure Modes and Effects Analysis (FMEA)",
     "authors": [],
@@ -14088,6 +14865,7 @@
   {
     "resource_id": "LE-AP-780",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Money Priming Can Change People’s Thoughts, Feelings, Motivations, and Behaviors: An Update on 10 Years of Experiments",
     "authors": [],
@@ -14104,6 +14882,7 @@
   {
     "resource_id": "LE-AP-781",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Disaffordances and Dysaffordances in Code",
     "authors": [],
@@ -14119,6 +14898,7 @@
   {
     "resource_id": "LE-AP-782",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": "“Principles of Anti-Discriminatory Design",
     "authors": [],
@@ -14135,6 +14915,7 @@
   {
     "resource_id": "LE-AP-783",
     "content_type": "AP",
+    "source": "book_endnotes",
     "status": "seed",
     "title": ", and Robert L",
     "authors": [],

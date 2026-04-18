@@ -2,6 +2,7 @@
   {
     "resource_id": "LE-CO-001",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "IEEE ICICLE — Industry Consortium on Learning Engineering",
     "type": "consortium",
@@ -18,6 +19,7 @@
   {
     "resource_id": "LE-CO-002",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "The Simon Initiative",
     "type": "research_center",
@@ -34,6 +36,7 @@
   {
     "resource_id": "LE-CO-003",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "Society for Learning Analytics Research (SoLAR)",
     "type": "academic_society",
@@ -50,6 +53,7 @@
   {
     "resource_id": "LE-CO-004",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "Penn Center for Learning Analytics",
     "type": "research_center",
@@ -66,6 +70,7 @@
   {
     "resource_id": "LE-CO-005",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "HCII — Human-Computer Interaction Institute, Carnegie Mellon",
     "type": "research_center",
@@ -82,6 +87,7 @@
   {
     "resource_id": "LE-CO-006",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "International Educational Data Mining Society (IEDMS)",
     "type": "academic_society",
@@ -98,6 +104,7 @@
   {
     "resource_id": "LE-CO-007",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "Learning Sciences Research Institute, UIC",
     "type": "research_center",
@@ -113,6 +120,7 @@
   {
     "resource_id": "LE-CO-008",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "IEEE ICICLE SIGs & MIGs",
     "type": "consortium",
@@ -129,6 +137,7 @@
   {
     "resource_id": "LE-CO-009",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "LIVE Learning Innovation Incubator — Vanderbilt Peabody",
     "type": "research_center",
@@ -145,6 +154,7 @@
   {
     "resource_id": "LE-CO-010",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "National AI Institute for Adult Learning and Online Education (AI-ALOE)",
     "type": "research_center",
@@ -161,6 +171,7 @@
   {
     "resource_id": "LE-CO-011",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "International Society for the Learning Sciences (ISLS)",
     "type": "academic_society",
@@ -177,6 +188,7 @@
   {
     "resource_id": "LE-CO-012",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "Human Factors and Ergonomics Society (HFES)",
     "type": "academic_society",
@@ -192,6 +204,7 @@
   {
     "resource_id": "LE-CO-013",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "INCOSE Systems Engineering Body of Knowledge (SEBoK)",
     "type": "academic_society",
@@ -208,6 +221,7 @@
   {
     "resource_id": "LE-CO-014",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "Naturalistic Decision Making Association (NDM)",
     "type": "academic_society",
@@ -223,6 +237,7 @@
   {
     "resource_id": "LE-CO-015",
     "content_type": "CO",
+    "source": "curated",
     "status": "APPROVED",
     "name": "Credential Engine / CTDL",
     "type": "institute",

@@ -1,5 +1,6 @@
 resource_id: LE-AP-184
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Design Experiments in Educational Research"
 authors: []

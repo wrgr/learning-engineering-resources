@@ -1,5 +1,6 @@
 resource_id: LE-AP-499
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Building a recommender agent for e-learning systems"
 authors: []

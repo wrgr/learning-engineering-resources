@@ -1,5 +1,6 @@
 resource_id: LE-PP-071
 content_type: PP
+source: curated
 status: APPROVED
 name: John Ellis
 affiliation: "Dartmouth College; IEEE ICICLE — pK-12 MIG"

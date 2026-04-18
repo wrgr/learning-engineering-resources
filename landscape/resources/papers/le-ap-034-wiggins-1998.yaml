@@ -1,5 +1,6 @@
 resource_id: LE-AP-034
 content_type: AP
+source: curated
 title: "Understanding by Design"
 authors:
   - Grant Wiggins

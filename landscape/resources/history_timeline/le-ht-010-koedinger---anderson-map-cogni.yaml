@@ -1,5 +1,6 @@
 resource_id: LE-HT-010
 content_type: HT
+source: curated
 year: 1990
 era: founding
 event: "Koedinger & Anderson map cognitive expertise into computational production rules (Cognitive Science)"

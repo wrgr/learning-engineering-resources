@@ -1,5 +1,6 @@
 resource_id: LE-AP-382
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Using SAS/IntrNet for Evaluating Web‐based Courses"
 authors: []

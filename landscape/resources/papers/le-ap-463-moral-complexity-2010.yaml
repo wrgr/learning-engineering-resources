@@ -1,5 +1,6 @@
 resource_id: LE-AP-463
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Moral Complexity"
 authors: []

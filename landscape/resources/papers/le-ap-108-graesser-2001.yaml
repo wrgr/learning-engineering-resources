@@ -1,5 +1,6 @@
 resource_id: LE-AP-108
 content_type: AP
+source: curated
 title: "Intelligent Tutoring Systems with Conversational Dialogue"
 authors:
   - Arthur C. Graesser

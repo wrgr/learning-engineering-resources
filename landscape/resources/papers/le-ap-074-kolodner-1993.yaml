@@ -1,5 +1,6 @@
 resource_id: LE-AP-074
 content_type: AP
+source: curated
 title: "Case-Based Reasoning"
 authors:
   - Janet L. Kolodner

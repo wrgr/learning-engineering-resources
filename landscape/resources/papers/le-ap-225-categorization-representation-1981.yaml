@@ -1,5 +1,6 @@
 resource_id: LE-AP-225
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Categorization and Representation of Physics Problems by Experts and Novices*"
 authors: []

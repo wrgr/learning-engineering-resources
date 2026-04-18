@@ -1,5 +1,6 @@
 resource_id: LE-AP-053
 content_type: AP
+source: curated
 title: "Assessing the Generalizability of Randomized Trial Results to Target Populations"
 authors:
   - Elizabeth A. Stuart

@@ -1,5 +1,6 @@
 resource_id: LE-AP-532
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Political Ideology: Its Structure, Functions, and Elective Affinities"
 authors: []

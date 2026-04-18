@@ -1,5 +1,6 @@
 resource_id: LE-AP-028
 content_type: AP
+source: curated
 title: "Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention"
 authors:
   - Henry L. Roediger III

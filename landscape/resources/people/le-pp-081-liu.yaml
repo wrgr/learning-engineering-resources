@@ -1,5 +1,6 @@
 resource_id: LE-PP-081
 content_type: PP
+source: curated
 status: APPROVED
 name: John Liu
 affiliation: "MIT, Mechanical Engineering / MIT LEAP Group"

@@ -1,5 +1,6 @@
 resource_id: LE-AP-586
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Self-Regulated Learning: Beliefs, Techniques, and Illusions"
 authors: []

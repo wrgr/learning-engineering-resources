@@ -1,5 +1,6 @@
 resource_id: LE-AP-551
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Fluency Training in the ESL Classroom: An Experimental Study of Fluency Development and Proceduralization"
 authors: []

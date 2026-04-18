@@ -1,5 +1,6 @@
 resource_id: LE-AP-408
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The developmental progression from implicit to explicit knowledge: A computational approach"
 authors: []

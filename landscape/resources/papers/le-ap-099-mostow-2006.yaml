@@ -1,5 +1,6 @@
 resource_id: LE-AP-099
 content_type: AP
+source: curated
 title: "Some useful tactics to modify, map and mine data from intelligent tutors"
 authors:
   - Jack Mostow

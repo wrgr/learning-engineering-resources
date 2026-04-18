@@ -1,5 +1,6 @@
 resource_id: LE-AP-475
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Promoting Transfer: Effects of Self-Explanation and Direct Instruction"
 authors: []

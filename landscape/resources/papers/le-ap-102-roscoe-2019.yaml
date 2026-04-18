@@ -1,5 +1,6 @@
 resource_id: LE-AP-102
 content_type: AP
+source: curated
 title: "Automated detection of essay revising patterns: Applications for intelligent writing feedback"
 authors:
   - Rod D. Roscoe

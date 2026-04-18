@@ -1,5 +1,6 @@
 resource_id: LE-AP-524
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Principles of Religious Prosociality: A Review and Reformulation"
 authors: []

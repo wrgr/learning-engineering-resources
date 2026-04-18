@@ -1,5 +1,6 @@
 resource_id: LE-AP-764
 content_type: AP
+source: book_endnotes
 status: seed
 title: "“Executing the Change to Learning Engineering at Scale"
 authors: []

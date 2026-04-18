@@ -1,5 +1,6 @@
 resource_id: LE-AP-296
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Using Cognitive Models to Guide Instructional Design: The Case of Fraction Division"
 authors: []

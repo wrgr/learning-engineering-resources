@@ -1,5 +1,6 @@
 resource_id: LE-PP-142
 content_type: PP
+source: curated
 status: APPROVED
 name: Vincent Aleven
 affiliation: "Carnegie Mellon University, HCII"

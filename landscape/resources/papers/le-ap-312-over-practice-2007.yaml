@@ -1,5 +1,6 @@
 resource_id: LE-AP-312
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Is Over Practice Necessary? --Improving Learning Efficiency with the Cognitive Tutor through Educational Data Mining"
 authors: []

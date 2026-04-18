@@ -1,5 +1,6 @@
 resource_id: LE-AP-473
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Mining students’ behavior in web-based learning programs"
 authors: []

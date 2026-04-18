@@ -1,5 +1,6 @@
 resource_id: LE-AP-325
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Smart Recommendation for an Evolving E-Learning System: Architecture and Experiment"
 authors: []

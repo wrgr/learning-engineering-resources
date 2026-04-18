@@ -1,5 +1,6 @@
 resource_id: LE-AP-002
 content_type: AP
+source: curated
 title: Intelligent tutoring systems
 authors:
   - Albert T. Corbett

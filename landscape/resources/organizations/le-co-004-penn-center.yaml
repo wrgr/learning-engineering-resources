@@ -1,5 +1,6 @@
 resource_id: LE-CO-004
 content_type: CO
+source: curated
 status: APPROVED
 name: "Penn Center for Learning Analytics"
 type: research_center

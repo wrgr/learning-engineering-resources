@@ -1,5 +1,6 @@
 resource_id: LE-PC-077
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "LearnLab & LearnLab professional programs (CMU / network)"
 url: "https://learnlab.org/"

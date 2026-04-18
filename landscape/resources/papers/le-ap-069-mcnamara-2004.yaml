@@ -1,5 +1,6 @@
 resource_id: LE-AP-069
 content_type: AP
+source: curated
 title: "Scaffolding Deep Comprehension Strategies Through Point&Query, AutoSummarize, and iSTART"
 authors:
   - Danielle S. McNamara

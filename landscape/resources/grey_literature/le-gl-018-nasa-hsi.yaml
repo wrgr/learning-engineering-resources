@@ -1,5 +1,6 @@
 resource_id: LE-GL-018
 content_type: GL
+source: curated
 status: APPROVED
 title: "NASA Human Systems Integration Practitioner's Guide"
 authors:

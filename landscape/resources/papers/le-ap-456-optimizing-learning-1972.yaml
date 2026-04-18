@@ -1,5 +1,6 @@
 resource_id: LE-AP-456
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Optimizing the learning of a second-language vocabulary."
 authors: []

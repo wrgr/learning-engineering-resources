@@ -1,5 +1,6 @@
 resource_id: LE-PP-154
 content_type: PP
+source: curated
 status: APPROVED
 name: Ken Holstein
 affiliation: "Carnegie Mellon University, HCII"

@@ -1,5 +1,6 @@
 resource_id: LE-AP-416
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Deliberative Discourse Idealized and Realized: Accountable Talk in the Classroom and in Civic Life"
 authors: []

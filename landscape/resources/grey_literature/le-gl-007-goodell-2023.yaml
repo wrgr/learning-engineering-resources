@@ -1,5 +1,6 @@
 resource_id: LE-GL-007
 content_type: GL
+source: curated
 status: APPROVED
 title: "Learning Engineering Toolkit: Evidence-Based Practices from the Learning Sciences, Instructional Design, and Beyond"
 authors:

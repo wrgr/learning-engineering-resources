@@ -1,5 +1,6 @@
 resource_id: LE-AP-169
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Evolution of Design Studies as Methodology"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-GL-005
 content_type: GL
+source: curated
 status: APPROVED
 title: "EDUCAUSE Horizon Report: Teaching and Learning Edition"
 authors:

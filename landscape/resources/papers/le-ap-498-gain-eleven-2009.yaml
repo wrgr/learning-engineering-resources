@@ -1,5 +1,6 @@
 resource_id: LE-AP-498
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "How to Gain Eleven IQ Points in Ten Minutes: Thinking Aloud Improves Raven's Matrices Performance in Older Adults"
 authors: []

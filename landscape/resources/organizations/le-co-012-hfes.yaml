@@ -1,5 +1,6 @@
 resource_id: LE-CO-012
 content_type: CO
+source: curated
 status: APPROVED
 name: "Human Factors and Ergonomics Society (HFES)"
 type: academic_society

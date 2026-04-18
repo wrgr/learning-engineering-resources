@@ -1,5 +1,6 @@
 resource_id: LE-AP-222
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Educational data mining: A survey from 1995 to 2005"
 authors: []

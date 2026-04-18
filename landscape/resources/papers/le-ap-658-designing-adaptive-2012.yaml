@@ -1,5 +1,6 @@
 resource_id: LE-AP-658
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Designing Adaptive Collaboration Structures for Advancing the Community’s Knowledge"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-458
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Understanding and describing mathematical knowledge for teaching: knowledge about proof for engaging students in the activity of proving"
 authors: []

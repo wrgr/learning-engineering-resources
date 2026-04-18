@@ -1,5 +1,6 @@
 resource_id: LE-AP-010
 content_type: AP
+source: curated
 title: The voice quality of pedagogical agent impacts learning and agent perceptions
 authors:
   - Ryan F. Siegle

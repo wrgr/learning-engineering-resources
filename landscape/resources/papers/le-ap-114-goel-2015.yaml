@@ -1,5 +1,6 @@
 resource_id: LE-AP-114
 content_type: AP
+source: curated
 title: "Jill Watson: A Virtual Teaching Assistant for Online Education"
 authors:
   - Ashok Goel

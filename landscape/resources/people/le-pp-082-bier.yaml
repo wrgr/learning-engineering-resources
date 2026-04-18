@@ -1,5 +1,6 @@
 resource_id: LE-PP-082
 content_type: PP
+source: curated
 status: APPROVED
 name: Norman Bier
 affiliation: "Carnegie Mellon University — Open Learning Initiative"

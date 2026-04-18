@@ -1,5 +1,6 @@
 resource_id: LE-AP-231
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Measuring Knowledge to Optimize Cognitive Load Factors During Instruction."
 authors: []

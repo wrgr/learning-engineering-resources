@@ -1,5 +1,6 @@
 resource_id: LE-AP-264
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Tracing the development of teacher knowledge in a design seminar: Integrating content, pedagogy and technology"
 authors: []

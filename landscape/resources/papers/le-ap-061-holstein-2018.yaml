@@ -1,5 +1,6 @@
 resource_id: LE-AP-061
 content_type: AP
+source: curated
 title: "The Classroom as a Dashboard: Co-designing Wearable Cognitive Augmentation for K-12 Teachers"
 authors:
   - Kenneth Holstein

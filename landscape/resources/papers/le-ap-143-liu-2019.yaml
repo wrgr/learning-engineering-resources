@@ -1,5 +1,6 @@
 resource_id: LE-AP-143
 content_type: AP
+source: curated
 title: "Engineering Education at Scale: Designing Adaptive STEM Curricula with Embedded Assessment"
 authors:
   - John Liu

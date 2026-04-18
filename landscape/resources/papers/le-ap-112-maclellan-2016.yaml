@@ -1,5 +1,6 @@
 resource_id: LE-AP-112
 content_type: AP
+source: curated
 title: "Apprentice Learner Architecture: Closing the Loop Between Learning Theory and Educational Data"
 authors:
   - Christopher J. MacLellan

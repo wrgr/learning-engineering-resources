@@ -1,5 +1,6 @@
 resource_id: LE-AP-244
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Spanning seven orders of magnitude: a challenge for cognitive modeling"
 authors: []

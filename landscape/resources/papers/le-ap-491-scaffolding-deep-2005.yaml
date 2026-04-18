@@ -1,5 +1,6 @@
 resource_id: LE-AP-491
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Scaffolding Deep Comprehension Strategies Through Point&amp;Query, AutoTutor, and iSTART"
 authors: []

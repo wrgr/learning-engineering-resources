@@ -1,5 +1,6 @@
 resource_id: LE-CE-007
 content_type: CE
+source: curated
 status: APPROVED
 name: "IEEE ICICLE Annual Meeting"
 type: conference

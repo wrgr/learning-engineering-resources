@@ -1,5 +1,6 @@
 resource_id: LE-AP-300
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Mental Representations: A Dual Coding Approach"
 authors: []

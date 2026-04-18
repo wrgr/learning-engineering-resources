@@ -1,5 +1,6 @@
 resource_id: LE-HT-005
 content_type: HT
+source: curated
 year: 1982
 era: founding
 event: "SOAR cognitive architecture becomes operational (Newell, Laird, Rosenbloom at CMU)"

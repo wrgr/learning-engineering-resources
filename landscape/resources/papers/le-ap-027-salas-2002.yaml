@@ -1,5 +1,6 @@
 resource_id: LE-AP-027
 content_type: AP
+source: curated
 title: "Is there a 'Big Five' in teamwork?"
 authors:
   - Eduardo Salas

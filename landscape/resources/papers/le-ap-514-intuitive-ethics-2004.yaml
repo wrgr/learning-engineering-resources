@@ -1,5 +1,6 @@
 resource_id: LE-AP-514
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Intuitive ethics: how innately prepared intuitions generate culturally variable virtues"
 authors: []

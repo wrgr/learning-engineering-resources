@@ -1,5 +1,6 @@
 resource_id: LE-AP-288
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The motivated use of moral principles"
 authors: []

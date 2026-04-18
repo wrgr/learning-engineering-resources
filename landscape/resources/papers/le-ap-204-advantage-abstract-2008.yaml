@@ -1,5 +1,6 @@
 resource_id: LE-AP-204
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Advantage of Abstract Examples in Learning Math"
 authors: []

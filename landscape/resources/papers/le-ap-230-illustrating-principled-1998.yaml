@@ -1,5 +1,6 @@
 resource_id: LE-AP-230
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Illustrating Principled Design: The Early Evolution of a Cognitive Tutor for Algebra Symbolization"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-179
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Unified theories of cognition"
 authors: []

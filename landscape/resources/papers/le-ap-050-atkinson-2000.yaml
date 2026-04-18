@@ -1,5 +1,6 @@
 resource_id: LE-AP-050
 content_type: AP
+source: curated
 title: "Learning from Examples: Instructional Principles from the Worked Examples Research"
 authors:
   - Robert K. Atkinson

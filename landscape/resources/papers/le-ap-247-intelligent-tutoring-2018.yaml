@@ -1,5 +1,6 @@
 resource_id: LE-AP-247
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Intelligent Tutoring Goes To School in the Big City"
 authors: []

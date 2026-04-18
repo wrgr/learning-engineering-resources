@@ -1,5 +1,6 @@
 resource_id: LE-AP-651
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The art of case study research"
 authors: []

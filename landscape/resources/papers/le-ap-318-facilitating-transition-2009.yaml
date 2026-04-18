@@ -1,5 +1,6 @@
 resource_id: LE-AP-318
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Facilitating the Transition from Empirical Arguments to Proof"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-557
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The political left rolls with the good and the political right confronts the bad: connecting physiology and cognition to preferences"
 authors: []

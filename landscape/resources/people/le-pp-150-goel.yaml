@@ -1,5 +1,6 @@
 resource_id: LE-PP-150
 content_type: PP
+source: curated
 status: APPROVED
 name: Ashok K. Goel
 affiliation: "Georgia Institute of Technology, School of Interactive Computing"

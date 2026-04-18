@@ -1,5 +1,6 @@
 resource_id: LE-JO-007
 content_type: JO
+source: curated
 status: APPROVED
 name: "International Journal of STEM Education"
 type: journal

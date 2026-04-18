@@ -1,5 +1,6 @@
 resource_id: LE-AP-129
 content_type: AP
+source: curated
 title: "Knowledge Building"
 authors:
   - Carl Bereiter

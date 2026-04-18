@@ -1,5 +1,6 @@
 resource_id: LE-AP-645
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Aims of Education (1929)"
 authors: []

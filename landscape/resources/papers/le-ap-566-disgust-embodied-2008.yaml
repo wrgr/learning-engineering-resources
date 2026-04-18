@@ -1,5 +1,6 @@
 resource_id: LE-AP-566
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Disgust as Embodied Moral Judgment"
 authors: []

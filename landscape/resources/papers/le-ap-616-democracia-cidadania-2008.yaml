@@ -1,5 +1,6 @@
 resource_id: LE-AP-616
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Democracia e Cidadania na Escola: Do Discurso à Prática"
 authors: []

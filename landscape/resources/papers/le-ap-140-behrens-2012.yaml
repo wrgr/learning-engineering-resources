@@ -1,5 +1,6 @@
 resource_id: LE-AP-140
 content_type: AP
+source: curated
 title: "Evidence Centered Design for Learning and Assessment in the Digital World"
 authors:
   - John T. Behrens

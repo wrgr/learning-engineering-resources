@@ -1,5 +1,6 @@
 resource_id: LE-AP-613
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Taxonomy of Educational Objectives. Handbook I: Cognitive Domain"
 authors: []

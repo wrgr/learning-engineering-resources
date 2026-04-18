@@ -1,5 +1,6 @@
 resource_id: LE-PP-014
 content_type: PP
+source: curated
 status: APPROVED
 name: John Behrens
 affiliation: "Pearson; formerly ETS and CRESST"

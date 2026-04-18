@@ -1,5 +1,6 @@
 resource_id: LE-AP-111
 content_type: AP
+source: curated
 title: "Automaticity in Learning: ACT-R Parameters as Indices of Learning"
 authors:
   - Philip I. Pavlik

@@ -1,5 +1,6 @@
 resource_id: LE-AP-134
 content_type: AP
+source: curated
 title: "Introduction: Virtual, Augmented, and Mixed Realities in Education"
 authors:
   - Chris Dede

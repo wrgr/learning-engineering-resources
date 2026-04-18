@@ -1,5 +1,6 @@
 resource_id: LE-AP-468
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Cognitive Scientists Prefer Theories and Testable Principles With Teeth"
 authors: []

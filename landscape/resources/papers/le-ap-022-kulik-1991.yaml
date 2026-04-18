@@ -1,5 +1,6 @@
 resource_id: LE-AP-022
 content_type: AP
+source: curated
 title: Effectiveness of computer-based instruction: An updated analysis
 authors:
   - James A. Kulik

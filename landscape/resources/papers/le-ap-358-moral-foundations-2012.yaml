@@ -1,5 +1,6 @@
 resource_id: LE-AP-358
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Moral Foundations and Heterogeneity in Ideological Preferences"
 authors: []

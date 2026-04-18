@@ -1,5 +1,6 @@
 resource_id: LE-GL-020
 content_type: GL
+source: curated
 status: APPROVED
 title: "DoD Instruction 1322.26: Development, Management, and Delivery of Distributed Learning"
 authors:

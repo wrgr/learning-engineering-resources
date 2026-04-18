@@ -1,5 +1,6 @@
 resource_id: LE-AP-412
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "To Provide or Protect: Motivational Bases of Political Liberalism and Conservatism"
 authors: []

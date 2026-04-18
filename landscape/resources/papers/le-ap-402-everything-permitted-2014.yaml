@@ -1,5 +1,6 @@
 resource_id: LE-AP-402
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists"
 authors: []

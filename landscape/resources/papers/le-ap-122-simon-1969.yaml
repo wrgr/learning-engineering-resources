@@ -1,5 +1,6 @@
 resource_id: LE-AP-122
 content_type: AP
+source: curated
 title: "The Sciences of the Artificial"
 authors:
   - Herbert A. Simon

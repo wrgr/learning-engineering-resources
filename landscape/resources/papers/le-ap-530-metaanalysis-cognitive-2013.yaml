@@ -1,5 +1,6 @@
 resource_id: LE-AP-530
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "A meta-analysis of the cognitive and motivational effects of serious games."
 authors: []

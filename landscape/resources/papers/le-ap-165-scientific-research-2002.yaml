@@ -1,5 +1,6 @@
 resource_id: LE-AP-165
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Scientific Research in Education"
 authors: []

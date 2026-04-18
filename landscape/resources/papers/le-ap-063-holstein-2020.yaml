@@ -1,5 +1,6 @@
 resource_id: LE-AP-063
 content_type: AP
+source: curated
 title: "Designing for Complementarity: Teacher and Student Needs for Orchestration Support in AI-Enhanced Classrooms"
 authors:
   - Kenneth Holstein

@@ -1,5 +1,6 @@
 resource_id: LE-AP-150
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "An effective metacognitive strategy: learning by doing and explaining with a computer-based Cognitive Tutor"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-525
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Help Seeking and Help Design in Interactive Learning Environments"
 authors: []

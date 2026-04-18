@@ -1,5 +1,6 @@
 resource_id: LE-AP-214
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Rule-Learning Events in the Acquisition of a Complex Skill: An Evaluation of Cascade"
 authors: []

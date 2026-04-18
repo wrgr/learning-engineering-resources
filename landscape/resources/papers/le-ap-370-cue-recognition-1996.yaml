@@ -1,5 +1,6 @@
 resource_id: LE-AP-370
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Cue recognition and cue elaboration in learning from examples."
 authors: []

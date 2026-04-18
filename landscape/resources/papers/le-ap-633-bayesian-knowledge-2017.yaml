@@ -1,5 +1,6 @@
 resource_id: LE-AP-633
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Bayesian knowledge tracing, logistic models, and beyond: an overview of learner modeling techniques"
 authors: []

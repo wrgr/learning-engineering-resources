@@ -1,5 +1,6 @@
 resource_id: LE-AP-243
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Knowledge‐Learning‐Instruction Framework: Bridging the Science‐Practice Chasm to Enhance Robust Student Learning"
 authors: []

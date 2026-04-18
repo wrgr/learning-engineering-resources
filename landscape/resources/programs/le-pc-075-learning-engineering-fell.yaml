@@ -1,5 +1,6 @@
 resource_id: LE-PC-075
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "Learning Engineering Fellowship (CMU OLI)"
 url: "https://oli.cmu.edu/learning-engineering/training/"

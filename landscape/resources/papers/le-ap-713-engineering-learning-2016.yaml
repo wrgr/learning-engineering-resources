@@ -1,5 +1,6 @@
 resource_id: LE-AP-713
 content_type: AP
+source: book_endnotes
 status: seed
 title: "“Engineering Learning at Kaplan University"
 authors: []

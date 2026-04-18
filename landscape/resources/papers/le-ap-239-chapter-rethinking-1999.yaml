@@ -1,5 +1,6 @@
 resource_id: LE-AP-239
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Chapter 3: Rethinking Transfer: A Simple Proposal With Multiple Implications"
 authors: []

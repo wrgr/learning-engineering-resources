@@ -1,5 +1,6 @@
 resource_id: LE-AP-023
 content_type: AP
+source: curated
 title: "Evaluating Training Programs: The Four Levels"
 authors:
   - Donald L. Kirkpatrick

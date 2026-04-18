@@ -1,5 +1,6 @@
 resource_id: LE-AP-005
 content_type: AP
+source: curated
 title: "The State of Educational Data Mining in 2009: A Review and Future Visions"
 authors:
   - Ryan S. J. d. Baker

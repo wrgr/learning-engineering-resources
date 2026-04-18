@@ -1,5 +1,6 @@
 resource_id: LE-AP-618
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning."
 authors: []

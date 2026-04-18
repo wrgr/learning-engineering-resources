@@ -1,5 +1,6 @@
 resource_id: LE-AP-621
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Education for the Knowledge Age: Design-Centered Models of Teaching and Instruction"
 authors: []

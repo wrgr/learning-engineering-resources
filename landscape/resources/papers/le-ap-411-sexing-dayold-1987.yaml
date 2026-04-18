@@ -1,5 +1,6 @@
 resource_id: LE-AP-411
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Sexing day-old chicks: A case study and expert systems analysis of a difficult perceptual-learning task."
 authors: []

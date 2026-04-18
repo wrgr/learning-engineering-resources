@@ -1,5 +1,6 @@
 resource_id: LE-AP-250
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Explanation‐driven inquiry: Integrating conceptual and epistemic scaffolds for scientific inquiry"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-033
 content_type: AP
+source: curated
 title: "Productive Failure in Mathematical Problem Solving"
 authors:
   - Manu Kapur

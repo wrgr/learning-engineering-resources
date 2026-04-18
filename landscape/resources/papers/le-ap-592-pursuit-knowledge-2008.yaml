@@ -1,5 +1,6 @@
 resource_id: LE-AP-592
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "In pursuit of knowledge: Comparing self-explanations, concepts, and procedures as pedagogical tools"
 authors: []

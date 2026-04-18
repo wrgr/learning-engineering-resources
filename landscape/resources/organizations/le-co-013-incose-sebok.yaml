@@ -1,5 +1,6 @@
 resource_id: LE-CO-013
 content_type: CO
+source: curated
 status: APPROVED
 name: "INCOSE Systems Engineering Body of Knowledge (SEBoK)"
 type: academic_society

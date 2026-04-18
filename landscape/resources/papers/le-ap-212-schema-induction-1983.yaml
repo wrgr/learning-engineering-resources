@@ -1,5 +1,6 @@
 resource_id: LE-AP-212
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Schema induction and analogical transfer"
 authors: []

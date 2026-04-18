@@ -1,5 +1,6 @@
 resource_id: LE-GL-003
 content_type: GL
+source: curated
 status: APPROVED
 title: "High-Leverage Opportunities for Learning Engineering"
 authors:

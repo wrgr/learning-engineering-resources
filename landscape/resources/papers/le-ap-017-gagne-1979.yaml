@@ -1,5 +1,6 @@
 resource_id: LE-AP-017
 content_type: AP
+source: curated
 title: Principles of Instructional Design
 authors:
   - Robert M. Gagné

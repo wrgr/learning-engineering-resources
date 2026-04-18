@@ -1,5 +1,6 @@
 resource_id: LE-CO-010
 content_type: CO
+source: curated
 status: APPROVED
 name: "National AI Institute for Adult Learning and Online Education (AI-ALOE)"
 type: research_center

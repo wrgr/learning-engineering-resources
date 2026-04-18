@@ -1,5 +1,6 @@
 resource_id: LE-AP-059
 content_type: AP
+source: curated
 title: "Intelligent Tutoring Systems: Structure, Applications and Challenges"
 authors:
   - Bruce M. McLaren

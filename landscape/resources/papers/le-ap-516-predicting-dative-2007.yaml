@@ -1,5 +1,6 @@
 resource_id: LE-AP-516
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Predicting the dative alternation"
 authors: []

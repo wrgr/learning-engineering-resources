@@ -1,5 +1,6 @@
 resource_id: LE-AP-657
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Moral Stereotypes of Liberals and Conservatives: Exaggeration of Differences across the Political Spectrum"
 authors: []

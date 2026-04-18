@@ -1,5 +1,6 @@
 resource_id: LE-AP-064
 content_type: AP
+source: curated
 title: "Equity and Artificial Intelligence in Education: Will 'AIEd' Amplify or Alleviate Inequities in Education?"
 authors:
   - Kenneth Holstein

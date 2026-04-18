@@ -1,5 +1,6 @@
 resource_id: LE-AP-424
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Design-based research and technology-enhanced learning environments"
 authors: []

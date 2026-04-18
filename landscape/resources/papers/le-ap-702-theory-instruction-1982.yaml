@@ -1,5 +1,6 @@
 resource_id: LE-AP-702
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Theory of Instruction: Principles and Applications"
 authors: []

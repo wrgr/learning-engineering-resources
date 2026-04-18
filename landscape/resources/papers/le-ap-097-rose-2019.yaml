@@ -1,5 +1,6 @@
 resource_id: LE-AP-097
 content_type: AP
+source: curated
 title: "Explanatory learner models: Why machine learning (alone) is not the answer"
 authors:
   - Carolyn Penstein Rosé

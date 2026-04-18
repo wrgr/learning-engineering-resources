@@ -1,5 +1,6 @@
 resource_id: LE-AP-291
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Instrumentation and Innovation in Design Experiments: Taking the Turn Towards Efficiency"
 authors: []

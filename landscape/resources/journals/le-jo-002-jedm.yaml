@@ -1,5 +1,6 @@
 resource_id: LE-JO-002
 content_type: JO
+source: curated
 status: APPROVED
 name: "Journal of Educational Data Mining (JEDM)"
 type: journal

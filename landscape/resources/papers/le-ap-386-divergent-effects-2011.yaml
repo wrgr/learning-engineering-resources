@@ -1,5 +1,6 @@
 resource_id: LE-AP-386
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Divergent effects of activating thoughts of God on self-regulation."
 authors: []

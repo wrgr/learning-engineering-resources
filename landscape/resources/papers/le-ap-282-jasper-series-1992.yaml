@@ -1,5 +1,6 @@
 resource_id: LE-AP-282
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Jasper Series as an Example of Anchored Instruction: Theory, Program Description, and Assessment Data"
 authors: []

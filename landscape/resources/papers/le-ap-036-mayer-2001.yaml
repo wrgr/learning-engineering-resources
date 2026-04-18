@@ -1,5 +1,6 @@
 resource_id: LE-AP-036
 content_type: AP
+source: curated
 title: "Multimedia Learning"
 authors:
   - Richard E. Mayer

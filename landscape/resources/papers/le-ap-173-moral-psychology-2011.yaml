@@ -1,5 +1,6 @@
 resource_id: LE-AP-173
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Moral psychology is relationship regulation: Moral motives for unity, hierarchy, equality, and proportionality."
 authors: []

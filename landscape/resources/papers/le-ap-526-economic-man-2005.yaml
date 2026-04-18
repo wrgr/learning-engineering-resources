@@ -1,5 +1,6 @@
 resource_id: LE-AP-526
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "“Economic man” in cross-cultural perspective: Behavioral experiments in 15 small-scale societies"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-692
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations."
 authors: []

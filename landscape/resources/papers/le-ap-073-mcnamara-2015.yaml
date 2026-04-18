@@ -1,5 +1,6 @@
 resource_id: LE-AP-073
 content_type: AP
+source: curated
 title: "Natural Language Processing in Service of Reading Comprehension"
 authors:
   - Danielle S. McNamara

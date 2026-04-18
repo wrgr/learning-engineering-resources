@@ -1,5 +1,6 @@
 resource_id: LE-AP-234
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Principles derived from the study of simple skills do not generalize to complex skill learning"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-086
 content_type: AP
+source: curated
 title: "Stop Propagating the Learning Styles Myth"
 authors:
   - Paul A. Kirschner

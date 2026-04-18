@@ -1,5 +1,6 @@
 resource_id: LE-AP-441
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Designing Educative Curriculum Materials to Promote Teacher Learning"
 authors: []

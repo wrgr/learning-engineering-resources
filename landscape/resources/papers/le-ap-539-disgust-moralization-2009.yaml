@@ -1,5 +1,6 @@
 resource_id: LE-AP-539
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Disgust and the moralization of purity."
 authors: []

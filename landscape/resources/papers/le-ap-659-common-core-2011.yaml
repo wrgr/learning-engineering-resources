@@ -1,5 +1,6 @@
 resource_id: LE-AP-659
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Common Core State Standards"
 authors: []

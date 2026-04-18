@@ -2,6 +2,7 @@
   {
     "resource_id": "LE-HT-001",
     "content_type": "HT",
+    "source": "curated",
     "year": 1912,
     "era": "pre-field",
     "event": "Munroe proposes applying engineering principles to educational efficiency",
@@ -15,6 +16,7 @@
   {
     "resource_id": "LE-HT-002",
     "content_type": "HT",
+    "source": "curated",
     "year": 1945,
     "era": "pre-field",
     "event": "W.W. Charters asks 'Is There a Field of Educational Engineering?' at Ohio State University",
@@ -28,6 +30,7 @@
   {
     "resource_id": "LE-HT-003",
     "content_type": "HT",
+    "source": "curated",
     "year": 1956,
     "era": "pre-field",
     "event": "Bloom's Taxonomy of Educational Objectives published",
@@ -46,6 +49,7 @@
   {
     "resource_id": "LE-HT-004",
     "content_type": "HT",
+    "source": "curated",
     "year": 1967,
     "era": "founding",
     "event": "Herbert Simon coins the term 'learning engineer' in 'The Job of a College President'",
@@ -64,6 +68,7 @@
   {
     "resource_id": "LE-HT-005",
     "content_type": "HT",
+    "source": "curated",
     "year": 1982,
     "era": "founding",
     "event": "SOAR cognitive architecture becomes operational (Newell, Laird, Rosenbloom at CMU)",
@@ -84,6 +89,7 @@
   {
     "resource_id": "LE-HT-006",
     "content_type": "HT",
+    "source": "curated",
     "year": 1983,
     "era": "founding",
     "event": "LISP Tutor deployed at Carnegie Mellon — first empirically validated intelligent tutoring system",
@@ -103,6 +109,7 @@
   {
     "resource_id": "LE-HT-007",
     "content_type": "HT",
+    "source": "curated",
     "year": 1985,
     "era": "founding",
     "event": "ACT-R (Adaptive Control of Thought—Rational) theory formalized by John Anderson",
@@ -121,6 +128,7 @@
   {
     "resource_id": "LE-HT-008",
     "content_type": "HT",
+    "source": "curated",
     "year": 1988,
     "era": "founding",
     "event": "First International Conference on Intelligent Tutoring Systems held in Montreal",
@@ -133,6 +141,7 @@
   {
     "resource_id": "LE-HT-009",
     "content_type": "HT",
+    "source": "curated",
     "year": 1988,
     "era": "founding",
     "event": "John Sweller publishes foundational paper on Cognitive Load Theory",
@@ -151,6 +160,7 @@
   {
     "resource_id": "LE-HT-010",
     "content_type": "HT",
+    "source": "curated",
     "year": 1990,
     "era": "founding",
     "event": "Koedinger & Anderson map cognitive expertise into computational production rules (Cognitive Science)",
@@ -170,6 +180,7 @@
   {
     "resource_id": "LE-HT-011",
     "content_type": "HT",
+    "source": "curated",
     "year": 1992,
     "era": "expansion",
     "event": "Ann Brown publishes 'Design Experiments' in Journal of the Learning Sciences",
@@ -188,6 +199,7 @@
   {
     "resource_id": "LE-HT-012",
     "content_type": "HT",
+    "source": "curated",
     "year": 1994,
     "era": "expansion",
     "event": "Scardamalia & Bereiter publish 'Computer Support for Knowledge-Building Communities' in JLS",
@@ -207,6 +219,7 @@
   {
     "resource_id": "LE-HT-013",
     "content_type": "HT",
+    "source": "curated",
     "year": 1997,
     "era": "expansion",
     "event": "Corbett, Koedinger & Anderson publish Bayesian Knowledge Tracing architecture in HCI Handbook",
@@ -227,6 +240,7 @@
   {
     "resource_id": "LE-HT-014",
     "content_type": "HT",
+    "source": "curated",
     "year": 2001,
     "era": "expansion",
     "event": "Herbert Simon dies; CMU institutionalizes his legacy through the Simon Initiative",
@@ -240,6 +254,7 @@
   {
     "resource_id": "LE-HT-015",
     "content_type": "HT",
+    "source": "curated",
     "year": 2009,
     "era": "expansion",
     "event": "Baker & Yacef codify Educational Data Mining as a discipline (JEDM)",
@@ -259,6 +274,7 @@
   {
     "resource_id": "LE-HT-016",
     "content_type": "HT",
+    "source": "curated",
     "year": 2011,
     "era": "expansion",
     "event": "First Learning Analytics and Knowledge (LAK) conference; Society for Learning Analytics Research (SoLAR) founded",
@@ -271,6 +287,7 @@
   {
     "resource_id": "LE-HT-017",
     "content_type": "HT",
+    "source": "curated",
     "year": 2016,
     "era": "contemporary",
     "event": "MIT OEPI publishes 'Online Education: A Catalyst for Higher Education Reforms'",
@@ -291,6 +308,7 @@
   {
     "resource_id": "LE-HT-018",
     "content_type": "HT",
+    "source": "curated",
     "year": 2017,
     "era": "contemporary",
     "event": "IEEE ICICLE (Industry Consortium on Learning Engineering) chartered under IEEE LTSC",
@@ -303,6 +321,7 @@
   {
     "resource_id": "LE-HT-019",
     "content_type": "HT",
+    "source": "curated",
     "year": 2019,
     "era": "contemporary",
     "event": "Learning Engineering for Online Education published (Dede, Richards, Saxberg, eds.)",
@@ -323,6 +342,7 @@
   {
     "resource_id": "LE-HT-020",
     "content_type": "HT",
+    "source": "curated",
     "year": 2021,
     "era": "contemporary",
     "event": "'High-Leverage Opportunities for Learning Engineering' report published (Baker, Boser, Shelley)",
@@ -344,6 +364,7 @@
   {
     "resource_id": "LE-HT-021",
     "content_type": "HT",
+    "source": "curated",
     "year": 2023,
     "era": "contemporary",
     "event": "U.S. Dept. of Education releases 'Artificial Intelligence and the Future of Teaching and Learning'",
@@ -362,6 +383,7 @@
   {
     "resource_id": "LE-HT-022",
     "content_type": "HT",
+    "source": "book_endnotes",
     "year": 2023,
     "era": "contemporary",
     "event": "Learning Engineering Toolkit published (Goodell & Kolodner, eds., Taylor & Francis)",

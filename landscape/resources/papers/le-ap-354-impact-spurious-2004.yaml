@@ -1,5 +1,6 @@
 resource_id: LE-AP-354
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The impact of spurious correlations on students' problem-solving"
 authors: []

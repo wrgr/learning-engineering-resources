@@ -1,5 +1,6 @@
 resource_id: LE-AP-135
 content_type: AP
+source: curated
 title: "The ASSISTments Ecosystem: Building a Platform That Brings Scientists and Teachers Together for Minimally Invasive Research on Human Learning and Teaching"
 authors:
   - Neil T. Heffernan

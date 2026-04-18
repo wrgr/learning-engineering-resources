@@ -1,5 +1,6 @@
 resource_id: LE-AP-611
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Growing the Learning Sciences: Brand or Big Tent? Implications for Graduate Education"
 authors: []

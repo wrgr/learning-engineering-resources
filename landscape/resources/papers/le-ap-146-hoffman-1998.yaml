@@ -1,5 +1,6 @@
 resource_id: LE-AP-146
 content_type: AP
+source: curated
 title: "Use of the Critical Decision Method to Elicit Expert Knowledge: A Case Study in the Methodology of Cognitive Task Analysis"
 authors:
   - Robert R. Hoffman

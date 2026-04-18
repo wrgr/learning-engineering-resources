@@ -1,5 +1,6 @@
 resource_id: LE-AP-582
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Compassionate Liberals and Polite Conservatives: Associations of Agreeableness With Political Ideology and Moral Values"
 authors: []

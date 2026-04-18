@@ -1,5 +1,6 @@
 resource_id: LE-AP-715
 content_type: AP
+source: book_endnotes
 status: seed
 title: "“Adaptive and Intelligent Web-based Educational Systems"
 authors: []

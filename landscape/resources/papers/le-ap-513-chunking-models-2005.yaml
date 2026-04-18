@@ -1,5 +1,6 @@
 resource_id: LE-AP-513
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Chunking models of expertise: implications for education"
 authors: []

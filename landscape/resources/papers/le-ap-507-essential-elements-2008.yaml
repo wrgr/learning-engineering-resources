@@ -1,5 +1,6 @@
 resource_id: LE-AP-507
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The essential elements of team‐based learning"
 authors: []

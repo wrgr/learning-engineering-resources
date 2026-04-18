@@ -1,5 +1,6 @@
 resource_id: LE-AP-161
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Advances in Instructional Psychology"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-486
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Improvements to elementary children's epistemic understanding from sustained argumentation"
 authors: []

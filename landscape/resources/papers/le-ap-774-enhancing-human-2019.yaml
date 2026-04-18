@@ -1,5 +1,6 @@
 resource_id: LE-AP-774
 content_type: AP
+source: book_endnotes
 status: seed
 title: "“Enhancing Human Learning via Spaced Repetition Optimization"
 authors: []

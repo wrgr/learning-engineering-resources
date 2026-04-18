@@ -1,5 +1,6 @@
 resource_id: LE-PC-074
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "METALS / MS in Learning Engineering (Carnegie Mellon)"
 url: "https://metals.hcii.cmu.edu/"

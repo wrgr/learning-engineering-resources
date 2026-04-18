@@ -1,5 +1,6 @@
 resource_id: LE-AP-529
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Good Natured: The Origins of Right and Wrong in Humans and Other Animals"
 authors: []

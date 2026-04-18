@@ -1,5 +1,6 @@
 resource_id: LE-AP-031
 content_type: AP
+source: curated
 title: "How People Learn: Brain, Mind, Experience, and School"
 authors:
   - John D. Bransford

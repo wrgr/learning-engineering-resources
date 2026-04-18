@@ -1,5 +1,6 @@
 resource_id: LE-AP-256
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Research through design as a method for interaction design research in HCI"
 authors: []

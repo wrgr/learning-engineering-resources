@@ -1,5 +1,6 @@
 resource_id: LE-AP-039
 content_type: AP
+source: curated
 title: "AutoTutor: An Intelligent Tutoring System with Mixed-initiative Dialogue"
 authors:
   - Arthur C. Graesser

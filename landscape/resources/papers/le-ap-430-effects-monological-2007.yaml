@@ -1,5 +1,6 @@
 resource_id: LE-AP-430
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The effects of monological and dialogical argumentation on concept learning in evolutionary theory."
 authors: []

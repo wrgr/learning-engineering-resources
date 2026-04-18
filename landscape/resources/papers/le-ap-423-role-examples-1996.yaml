@@ -1,5 +1,6 @@
 resource_id: LE-AP-423
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Role of examples in how students learn to categorize statistics word problems."
 authors: []

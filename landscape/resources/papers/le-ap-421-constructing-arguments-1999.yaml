@@ -1,5 +1,6 @@
 resource_id: LE-AP-421
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Constructing arguments from multiple sources: Tasks that promote understanding and not just memory for text."
 authors: []

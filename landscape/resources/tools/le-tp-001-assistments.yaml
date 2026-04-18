@@ -1,5 +1,6 @@
 resource_id: LE-TP-001
 content_type: TP
+source: curated
 status: APPROVED
 name: "ASSISTments"
 type: platform

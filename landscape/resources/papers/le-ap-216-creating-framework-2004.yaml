@@ -1,5 +1,6 @@
 resource_id: LE-AP-216
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Creating a Framework for Research on Systemic Technology Innovations"
 authors: []

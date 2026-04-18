@@ -1,5 +1,6 @@
 resource_id: LE-JO-001
 content_type: JO
+source: curated
 status: APPROVED
 name: "Journal of the Learning Sciences"
 type: journal

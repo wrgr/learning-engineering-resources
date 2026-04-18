@@ -1,5 +1,6 @@
 resource_id: LE-AP-120
 content_type: AP
+source: curated
 title: "The MOOC Pivot"
 authors:
   - Justin Reich

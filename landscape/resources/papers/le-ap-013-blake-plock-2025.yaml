@@ -1,5 +1,6 @@
 resource_id: LE-AP-013
 content_type: AP
+source: curated
 title: Generalizable Learning Engineering Adoption Maturity Model
 authors:
   - Shawn Blake-Plock

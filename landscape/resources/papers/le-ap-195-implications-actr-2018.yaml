@@ -1,5 +1,6 @@
 resource_id: LE-AP-195
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Implications of the ACT-R Learning Theory: No Magic Bullets"
 authors: []

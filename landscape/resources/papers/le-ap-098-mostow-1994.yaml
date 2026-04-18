@@ -1,5 +1,6 @@
 resource_id: LE-AP-098
 content_type: AP
+source: curated
 title: "A Prototype Reading Coach that Listens"
 authors:
   - Jack Mostow

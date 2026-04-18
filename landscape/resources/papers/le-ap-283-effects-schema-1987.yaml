@@ -1,5 +1,6 @@
 resource_id: LE-AP-283
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Effects of schema acquisition and rule automation on mathematical problem-solving transfer."
 authors: []

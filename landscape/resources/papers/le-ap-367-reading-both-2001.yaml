@@ -1,5 +1,6 @@
 resource_id: LE-AP-367
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Reading both high-coherence and low-coherence texts: Effects of text sequence and prior knowledge."
 authors: []

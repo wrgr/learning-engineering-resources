@@ -1,5 +1,6 @@
 resource_id: LE-AP-493
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Why and How to Learn Why: Analysis‐based Generalization of Procedures"
 authors: []

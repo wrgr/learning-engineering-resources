@@ -1,5 +1,6 @@
 resource_id: LE-CO-014
 content_type: CO
+source: curated
 status: APPROVED
 name: "Naturalistic Decision Making Association (NDM)"
 type: academic_society

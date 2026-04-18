@@ -1,5 +1,6 @@
 resource_id: LE-AP-009
 content_type: AP
+source: curated
 title: Design principles for virtual humans in educational technology environments
 authors:
   - Scotty D. Craig

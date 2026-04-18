@@ -1,5 +1,6 @@
 resource_id: LE-CO-007
 content_type: CO
+source: curated
 status: APPROVED
 name: "Learning Sciences Research Institute, UIC"
 type: research_center

@@ -1,5 +1,6 @@
 resource_id: LE-AP-272
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "What To Do About Educational Research’s Credibility Gaps?"
 authors: []

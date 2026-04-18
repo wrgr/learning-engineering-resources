@@ -1,5 +1,6 @@
 resource_id: LE-AP-556
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Are All Types of Morality Compromised in Psychopathy?"
 authors: []

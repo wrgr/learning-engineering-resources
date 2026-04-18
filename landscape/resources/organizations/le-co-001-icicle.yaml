@@ -1,5 +1,6 @@
 resource_id: LE-CO-001
 content_type: CO
+source: curated
 status: APPROVED
 name: "IEEE ICICLE — Industry Consortium on Learning Engineering"
 type: consortium

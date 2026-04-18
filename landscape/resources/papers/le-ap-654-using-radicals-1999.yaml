@@ -1,5 +1,6 @@
 resource_id: LE-AP-654
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Using radicals in teaching Chinese characters to second language learners"
 authors: []

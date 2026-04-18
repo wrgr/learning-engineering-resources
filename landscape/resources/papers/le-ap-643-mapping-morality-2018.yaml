@@ -1,5 +1,6 @@
 resource_id: LE-AP-643
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Mapping morality with a compass: Testing the theory of ‘morality-as-cooperation’ with a new questionnaire"
 authors: []

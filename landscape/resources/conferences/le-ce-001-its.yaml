@@ -1,5 +1,6 @@
 resource_id: LE-CE-001
 content_type: CE
+source: curated
 status: APPROVED
 name: "International Conference on Intelligent Tutoring Systems (ITS)"
 type: conference

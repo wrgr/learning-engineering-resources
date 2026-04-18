@@ -1,5 +1,6 @@
 resource_id: LE-AP-185
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Mind in Society: The Development of Higher Psychological Processes"
 authors: []

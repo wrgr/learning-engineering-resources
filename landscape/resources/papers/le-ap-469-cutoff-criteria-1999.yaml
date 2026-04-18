@@ -1,5 +1,6 @@
 resource_id: LE-AP-469
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives"
 authors: []

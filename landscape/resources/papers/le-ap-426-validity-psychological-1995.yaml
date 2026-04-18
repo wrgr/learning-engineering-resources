@@ -1,5 +1,6 @@
 resource_id: LE-AP-426
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Validity of psychological assessment: Validation of inferences from persons' responses and performances as scientific inquiry into score meaning."
 authors: []

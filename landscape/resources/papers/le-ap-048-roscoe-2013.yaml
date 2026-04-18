@@ -1,5 +1,6 @@
 resource_id: LE-AP-048
 content_type: AP
+source: curated
 title: "Writing Pal: Feasibility of an Intelligent Writing Strategy Tutor and Automated Feedback in the High School Classroom"
 authors:
   - Rod D. Roscoe

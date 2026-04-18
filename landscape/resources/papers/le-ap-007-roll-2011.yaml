@@ -1,5 +1,6 @@
 resource_id: LE-AP-007
 content_type: AP
+source: curated
 title: Improving students' help-seeking skills using metacognitive feedback in an intelligent tutoring system
 authors:
   - Ido Roll

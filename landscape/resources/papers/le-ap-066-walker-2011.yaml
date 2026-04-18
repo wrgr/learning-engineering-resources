@@ -1,5 +1,6 @@
 resource_id: LE-AP-066
 content_type: AP
+source: curated
 title: "Using Intelligent Tutoring Systems to Support Collaborative Learning"
 authors:
   - Erin Walker

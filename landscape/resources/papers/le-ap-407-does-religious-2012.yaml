@@ -1,5 +1,6 @@
 resource_id: LE-AP-407
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Does religious belief promote prosociality? A critical examination."
 authors: []

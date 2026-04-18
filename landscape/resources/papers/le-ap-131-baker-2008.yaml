@@ -1,5 +1,6 @@
 resource_id: LE-AP-131
 content_type: AP
+source: curated
 title: "More Accurate Student Modeling through Contextual Estimation of Slip and Guess Probabilities in Bayesian Knowledge Tracing"
 authors:
   - Ryan S. J. d. Baker

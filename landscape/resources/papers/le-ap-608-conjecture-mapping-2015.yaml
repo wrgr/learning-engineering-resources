@@ -1,5 +1,6 @@
 resource_id: LE-AP-608
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Conjecture mapping to optimize the educational design research process"
 authors: []

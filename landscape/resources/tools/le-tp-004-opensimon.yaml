@@ -1,5 +1,6 @@
 resource_id: LE-TP-004
 content_type: TP
+source: curated
 status: APPROVED
 name: "OpenSimon Toolkit (CMU Simon Initiative)"
 type: toolkit

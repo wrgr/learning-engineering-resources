@@ -1,5 +1,6 @@
 resource_id: LE-AP-606
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Trade‐Offs Between Grounded and Abstract Representations: Evidence From Algebra Problem Solving"
 authors: []

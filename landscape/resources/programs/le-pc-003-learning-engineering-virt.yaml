@@ -1,5 +1,6 @@
 resource_id: LE-PC-003
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "Learning Engineering Virtual Institute (LEVI)"
 url: "https://learning-engineering-virtual-institute.org/"

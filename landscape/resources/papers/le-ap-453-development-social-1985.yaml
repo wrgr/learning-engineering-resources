@@ -1,5 +1,6 @@
 resource_id: LE-AP-453
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Development of Social Knowledge. Morality and Convention"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-070
 content_type: AP
+source: curated
 title: "Self-Explanation Training and Comprehension"
 authors:
   - Danielle S. McNamara

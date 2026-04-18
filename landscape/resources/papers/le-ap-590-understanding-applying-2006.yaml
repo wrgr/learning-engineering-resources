@@ -1,5 +1,6 @@
 resource_id: LE-AP-590
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Understanding and applying the dynamics of test practice and study practice"
 authors: []

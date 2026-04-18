@@ -1,5 +1,6 @@
 resource_id: LE-AP-345
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The “Compleat” Design Experiment: From Soup to Nuts"
 authors: []

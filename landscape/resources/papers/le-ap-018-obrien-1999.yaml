@@ -1,5 +1,6 @@
 resource_id: LE-AP-018
 content_type: AP
+source: curated
 title: Instructional Design for Distributed Learning
 authors:
   - Michael T. O'Brien

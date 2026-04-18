@@ -1,5 +1,6 @@
 resource_id: LE-AP-409
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Controlled and automatic human information processing: I. Detection, search, and attention."
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-062
 content_type: AP
+source: curated
 title: "Co-designing a Real-Time Classroom Orchestration Tool to Support Teacher-AI Complementarity"
 authors:
   - Kenneth Holstein

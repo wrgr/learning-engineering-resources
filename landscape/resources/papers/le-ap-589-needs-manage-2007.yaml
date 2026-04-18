@@ -1,5 +1,6 @@
 resource_id: LE-AP-589
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Are Needs to Manage Uncertainty and Threat Associated With Political Conservatism or Ideological Extremity?"
 authors: []

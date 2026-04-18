@@ -1,5 +1,6 @@
 resource_id: LE-AP-509
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Effectiveness of Cognitive Tutor Algebra I at Scale"
 authors: []

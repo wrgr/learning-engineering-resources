@@ -1,5 +1,6 @@
 resource_id: LE-AP-032
 content_type: AP
+source: curated
 title: "Intrinsic Motivation and Self-Determination in Human Behavior"
 authors:
   - Edward L. Deci

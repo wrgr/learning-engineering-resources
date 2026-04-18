@@ -1,5 +1,6 @@
 resource_id: LE-AP-598
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Cognitive foundations of interpretation"
 authors: []

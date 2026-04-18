@@ -1,5 +1,6 @@
 resource_id: LE-PC-076
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "MIT Learning Engineering and Practice (LEAP) Group"
 url: "https://leapgroup.mit.edu/"

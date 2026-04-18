@@ -1,5 +1,6 @@
 resource_id: LE-AP-691
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Moral Foundations Theory"
 authors: []

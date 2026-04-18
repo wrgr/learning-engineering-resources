@@ -1,5 +1,6 @@
 resource_id: LE-AP-025
 content_type: AP
+source: curated
 title: "Features and uses of high-fidelity medical simulations that lead to effective learning: a BEME systematic review"
 authors:
   - S. Barry Issenberg

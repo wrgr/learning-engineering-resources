@@ -1,5 +1,6 @@
 resource_id: LE-AP-381
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The magical number seven, plus or minus two: Some limits on our capacity for processing information."
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-SG-001
 content_type: SG
+source: curated
 status: APPROVED
 name: "IEEE 1484.1-2003: Learning Technology Systems Architecture (LTSA)"
 type: standard

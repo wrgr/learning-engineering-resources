@@ -1,5 +1,6 @@
 resource_id: LE-HT-013
 content_type: HT
+source: curated
 year: 1997
 era: expansion
 event: "Corbett, Koedinger & Anderson publish Bayesian Knowledge Tracing architecture in HCI Handbook"

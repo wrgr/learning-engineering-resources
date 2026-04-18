@@ -1,5 +1,6 @@
 resource_id: LE-AP-723
 content_type: AP
+source: book_endnotes
 status: seed
 title: "interaction-design"
 authors: []

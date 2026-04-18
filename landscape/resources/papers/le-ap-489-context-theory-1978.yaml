@@ -1,5 +1,6 @@
 resource_id: LE-AP-489
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Context theory of classification learning."
 authors: []

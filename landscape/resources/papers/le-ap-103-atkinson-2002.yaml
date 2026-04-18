@@ -1,5 +1,6 @@
 resource_id: LE-AP-103
 content_type: AP
+source: curated
 title: "Optimizing learning from examples using animated pedagogical agents"
 authors:
   - Robert K. Atkinson

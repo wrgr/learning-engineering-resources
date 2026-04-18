@@ -1,5 +1,6 @@
 resource_id: LE-AP-541
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Sexual Morality: The Cultures and Emotions of Conservatives and Liberals<sup>1</sup>"
 authors: []

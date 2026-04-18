@@ -1,5 +1,6 @@
 resource_id: LE-AP-149
 content_type: AP
+source: curated
 title: "Naturalistic Decision Making"
 authors:
   - Gary Klein

@@ -1,5 +1,6 @@
 resource_id: LE-AP-564
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Proscriptive versus prescriptive morality: Two faces of moral regulation."
 authors: []

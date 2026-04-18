@@ -1,5 +1,6 @@
 resource_id: LE-AP-236
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The four elementary forms of sociality: Framework for a unified theory of social relations."
 authors: []

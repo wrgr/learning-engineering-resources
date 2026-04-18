@@ -1,5 +1,6 @@
 resource_id: LE-PP-093
 content_type: PP
+source: curated
 status: APPROVED
 name: John Sweller
 affiliation: University of New South Wales

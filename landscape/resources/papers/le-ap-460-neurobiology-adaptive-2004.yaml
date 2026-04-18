@@ -1,5 +1,6 @@
 resource_id: LE-AP-460
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The neurobiology of adaptive learning in reading: A contrast of different training conditions"
 authors: []

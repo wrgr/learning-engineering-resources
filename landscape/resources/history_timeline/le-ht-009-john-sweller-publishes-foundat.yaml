@@ -1,5 +1,6 @@
 resource_id: LE-HT-009
 content_type: HT
+source: curated
 year: 1988
 era: founding
 event: "John Sweller publishes foundational paper on Cognitive Load Theory"

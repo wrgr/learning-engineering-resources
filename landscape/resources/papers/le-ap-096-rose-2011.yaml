@@ -1,5 +1,6 @@
 resource_id: LE-AP-096
 content_type: AP
+source: curated
 title: "Towards an agile approach to adapting dynamic collaboration support to student needs"
 authors:
   - David Adamson

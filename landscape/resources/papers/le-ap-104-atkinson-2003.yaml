@@ -1,5 +1,6 @@
 resource_id: LE-AP-104
 content_type: AP
+source: curated
 title: "Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps"
 authors:
   - Robert K. Atkinson

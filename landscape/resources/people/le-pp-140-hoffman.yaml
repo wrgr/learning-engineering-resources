@@ -1,5 +1,6 @@
 resource_id: LE-PP-140
 content_type: PP
+source: curated
 status: APPROVED
 name: Robert R. Hoffman
 affiliation: "Institute for Human and Machine Cognition (IHMC), Pensacola FL"

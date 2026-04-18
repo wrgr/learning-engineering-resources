@@ -1,5 +1,6 @@
 resource_id: LE-AP-470
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Better to be frustrated than bored: The incidence, persistence, and impact of learners’ cognitive–affective states during interactions with three different computer-based learning environments"
 authors: []

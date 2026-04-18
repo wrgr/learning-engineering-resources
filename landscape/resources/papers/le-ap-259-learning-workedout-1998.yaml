@@ -1,5 +1,6 @@
 resource_id: LE-AP-259
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Learning from Worked-Out Examples: The Effects of Example Variability and Elicited Self-Explanations"
 authors: []

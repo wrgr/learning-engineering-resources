@@ -1,5 +1,6 @@
 resource_id: LE-AP-297
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Is Self-Explanation Always Better? The Effects of Adding Self-Explanation Prompts to an English Grammar Tutor"
 authors: []

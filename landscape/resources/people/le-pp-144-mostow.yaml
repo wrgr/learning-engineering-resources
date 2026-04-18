@@ -1,5 +1,6 @@
 resource_id: LE-PP-144
 content_type: PP
+source: curated
 status: APPROVED
 name: Jack Mostow
 affiliation: "Carnegie Mellon University, Robotics Institute (emeritus)"

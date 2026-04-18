@@ -1,5 +1,6 @@
 resource_id: LE-AP-155
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Detecting Student Misuse of Intelligent Tutoring Systems"
 authors: []

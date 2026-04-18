@@ -1,5 +1,6 @@
 resource_id: LE-CE-008
 content_type: CE
+source: curated
 status: APPROVED
 name: "ACM CHI Conference on Human Factors in Computing Systems"
 type: conference

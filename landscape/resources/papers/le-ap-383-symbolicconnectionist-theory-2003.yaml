@@ -1,5 +1,6 @@
 resource_id: LE-AP-383
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "A symbolic-connectionist theory of relational inference and generalization."
 authors: []

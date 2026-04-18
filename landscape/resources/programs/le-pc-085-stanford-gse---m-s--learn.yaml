@@ -1,5 +1,6 @@
 resource_id: LE-PC-085
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "Stanford GSE — M.S. Learning Design and Technology (LDT)"
 url: "https://gse-ldt.stanford.edu/"

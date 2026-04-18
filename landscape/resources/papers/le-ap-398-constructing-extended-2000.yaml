@@ -1,5 +1,6 @@
 resource_id: LE-AP-398
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Constructing Extended Inquiry Projects: Curriculum Materials for Science Education Reform"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-305
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "A New Paradigm for Intelligent Tutoring Systems: Example-Tracing Tutors"
 authors: []

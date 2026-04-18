@@ -1,5 +1,6 @@
 resource_id: LE-AP-373
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Automated, Unobtrusive, Action-by-Action Assessment of Self-Regulation During Learning With an Intelligent Tutoring System"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-724
 content_type: AP
+source: book_endnotes
 status: seed
 title: "“Design-Based Research: A Methodological Toolkit for Engineering Change"
 authors: []

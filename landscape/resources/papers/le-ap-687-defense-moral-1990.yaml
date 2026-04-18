@@ -1,5 +1,6 @@
 resource_id: LE-AP-687
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "In Defense of Moral Realism: Reply to Gabennesch"
 authors: []

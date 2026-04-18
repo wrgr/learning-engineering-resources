@@ -1,5 +1,6 @@
 resource_id: LE-AP-038
 content_type: AP
+source: curated
 title: "Analyzing Collaborative Learning Processes Automatically: Exploiting the Advances of Computational Linguistics in Computer-Supported Collaborative Learning"
 authors:
   - Carolyn Penstein Rosé

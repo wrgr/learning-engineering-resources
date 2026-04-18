@@ -1,5 +1,6 @@
 resource_id: LE-AP-189
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Seven Affordances of Computer-Supported Collaborative Learning: How to Support Collaborative Learning? How Can Technologies Help?"
 authors: []

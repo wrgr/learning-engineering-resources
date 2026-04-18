@@ -1,5 +1,6 @@
 resource_id: LE-AP-213
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Scaffolding Complex Learning: The Mechanisms of Structuring and Problematizing Student Work"
 authors: []

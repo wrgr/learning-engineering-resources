@@ -1,5 +1,6 @@
 resource_id: LE-AP-091
 content_type: AP
+source: curated
 title: "SENS: Network analytics to combine social and cognitive perspectives of collaborative learning"
 authors:
   - Dragan Gašević

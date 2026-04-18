@@ -1,5 +1,6 @@
 resource_id: LE-PP-065
 content_type: PP
+source: curated
 status: APPROVED
 name: Baptiste Moreau-Pernet
 affiliation: "IEEE ICICLE — Tools SIG"

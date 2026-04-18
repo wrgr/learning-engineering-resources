@@ -1,5 +1,6 @@
 resource_id: LE-AP-364
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Developing Learning Theory by Refining Conjectures Embodied in Educational Designs"
 authors: []

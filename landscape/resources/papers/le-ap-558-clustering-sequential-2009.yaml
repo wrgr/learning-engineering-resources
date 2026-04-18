@@ -1,5 +1,6 @@
 resource_id: LE-AP-558
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Clustering and Sequential Pattern Mining of Online Collaborative Learning Data"
 authors: []

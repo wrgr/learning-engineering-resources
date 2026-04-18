@@ -1,5 +1,6 @@
 resource_id: LE-AP-198
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Quasi-Experimentation: Design & Analysis Issues for Field Settings"
 authors: []

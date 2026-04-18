@@ -1,5 +1,6 @@
 resource_id: LE-AP-084
 content_type: AP
+source: curated
 title: "Can We Support CSCL? Educational, Social and Technological Affordances for Learning"
 authors:
   - Paul A. Kirschner

@@ -1,5 +1,6 @@
 resource_id: LE-AP-121
 content_type: AP
+source: curated
 title: "Perception in chess"
 authors:
   - William G. Chase

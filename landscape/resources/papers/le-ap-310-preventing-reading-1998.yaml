@@ -1,5 +1,6 @@
 resource_id: LE-AP-310
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Preventing Reading Difficulties in Young Children"
 authors: []

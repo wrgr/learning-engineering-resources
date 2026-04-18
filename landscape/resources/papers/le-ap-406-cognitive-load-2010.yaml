@@ -1,5 +1,6 @@
 resource_id: LE-AP-406
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Cognitive Load Theory: New Conceptualizations, Specifications, and Integrated Research Perspectives"
 authors: []

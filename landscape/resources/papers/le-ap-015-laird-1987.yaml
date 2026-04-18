@@ -1,5 +1,6 @@
 resource_id: LE-AP-015
 content_type: AP
+source: curated
 title: "SOAR: An Architecture for General Intelligence"
 authors:
   - John E. Laird

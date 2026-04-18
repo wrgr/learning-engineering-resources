@@ -1,5 +1,6 @@
 resource_id: LE-AP-335
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "General Principles for an Intelligent Tutoring Architecture."
 authors: []

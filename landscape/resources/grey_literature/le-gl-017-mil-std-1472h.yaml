@@ -1,5 +1,6 @@
 resource_id: LE-GL-017
 content_type: GL
+source: curated
 status: APPROVED
 title: "MIL-STD-1472H: Human Engineering Design Criteria for Military Systems"
 authors:

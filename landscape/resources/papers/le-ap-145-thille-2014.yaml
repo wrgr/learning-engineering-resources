@@ -1,5 +1,6 @@
 resource_id: LE-AP-145
 content_type: AP
+source: curated
 title: "The Future of Data-Enriched Assessment"
 authors:
   - Candace Thille

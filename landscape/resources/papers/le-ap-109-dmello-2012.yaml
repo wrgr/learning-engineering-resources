@@ -1,5 +1,6 @@
 resource_id: LE-AP-109
 content_type: AP
+source: curated
 title: "Dynamics of Affective States During Complex Learning"
 authors:
   - Sidney D'Mello

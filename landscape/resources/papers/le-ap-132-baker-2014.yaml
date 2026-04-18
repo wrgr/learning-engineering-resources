@@ -1,5 +1,6 @@
 resource_id: LE-AP-132
 content_type: AP
+source: curated
 title: "Educational Data Mining and Learning Analytics"
 authors:
   - Ryan S. J. d. Baker

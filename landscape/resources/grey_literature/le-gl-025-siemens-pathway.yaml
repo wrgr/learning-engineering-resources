@@ -1,5 +1,6 @@
 resource_id: LE-GL-025
 content_type: GL
+source: curated
 status: APPROVED
 title: "Siemens Pathway to Learning Engineering"
 authors:

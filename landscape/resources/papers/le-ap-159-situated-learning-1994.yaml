@@ -1,5 +1,6 @@
 resource_id: LE-AP-159
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Situated Learning: Legitimate Peripheral Participation."
 authors: []

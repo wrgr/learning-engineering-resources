@@ -1,5 +1,6 @@
 resource_id: LE-AP-650
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "A Conceptual History of the Achievement Goal Construct."
 authors: []

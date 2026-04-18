@@ -1,5 +1,6 @@
 resource_id: LE-AP-369
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Hypothesis behavior by humans during discrimination learning."
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-119
 content_type: AP
+source: curated
 title: "Rebooting MOOC Research"
 authors:
   - Justin Reich

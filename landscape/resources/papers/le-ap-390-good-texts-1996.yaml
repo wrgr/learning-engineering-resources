@@ -1,5 +1,6 @@
 resource_id: LE-AP-390
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Are Good Texts Always Better? Interactions of Text Coherence, Background Knowledge, and Levels of Understanding in Learning From Text"
 authors: []

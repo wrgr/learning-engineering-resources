@@ -1,5 +1,6 @@
 resource_id: LE-AP-252
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Human-Machine Student Model Discovery and Improvement Using DataShop"
 authors: []

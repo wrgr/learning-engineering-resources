@@ -1,5 +1,6 @@
 resource_id: LE-AP-233
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Training strategies for attaining transfer of problem-solving skill in statistics: A cognitive-load approach."
 authors: []

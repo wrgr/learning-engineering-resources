@@ -1,5 +1,6 @@
 resource_id: LE-AP-414
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Instructional Design Consequences of an Analogy between Evolution by Natural Selection and Human Cognitive Architecture"
 authors: []

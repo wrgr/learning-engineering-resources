@@ -1,5 +1,6 @@
 resource_id: LE-AP-210
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Design Research: What We Learn When We Engage in Design"
 authors: []

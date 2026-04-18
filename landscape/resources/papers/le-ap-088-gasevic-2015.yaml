@@ -1,5 +1,6 @@
 resource_id: LE-AP-088
 content_type: AP
+source: curated
 title: "Let's Not Forget: Learning Analytics Are about Learning"
 authors:
   - Dragan Gašević

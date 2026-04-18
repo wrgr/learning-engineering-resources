@@ -1,5 +1,6 @@
 resource_id: LE-AP-082
 content_type: AP
+source: curated
 title: "The Productive Agency in Learning"
 authors:
   - Daniel L. Schwartz

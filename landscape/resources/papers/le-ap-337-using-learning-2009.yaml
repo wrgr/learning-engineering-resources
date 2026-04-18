@@ -1,5 +1,6 @@
 resource_id: LE-AP-337
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Using Learning Decomposition and Bootstrapping with Randomization to Compare the Impact of Different Educational Interventions on Learning"
 authors: []

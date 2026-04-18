@@ -1,5 +1,6 @@
 resource_id: LE-AP-049
 content_type: AP
+source: curated
 title: "Embodied Science and Mixed Reality: How Gesture and Motion Capture Affect Physics Education"
 authors:
   - Mina C. Johnson-Glenberg

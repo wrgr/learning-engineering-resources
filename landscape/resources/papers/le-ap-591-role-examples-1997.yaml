@@ -1,5 +1,6 @@
 resource_id: LE-AP-591
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The role of examples and rules in the acquisition of a cognitive skill."
 authors: []

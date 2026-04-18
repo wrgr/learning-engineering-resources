@@ -1,5 +1,6 @@
 resource_id: LE-AP-117
 content_type: AP
+source: curated
 title: "Multimodal Semi-Automated Affect Detection from Conversational Cues, Gross Body Language, and Facial Features"
 authors:
   - Sidney D'Mello

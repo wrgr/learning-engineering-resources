@@ -1,5 +1,6 @@
 resource_id: LE-AP-123
 content_type: AP
+source: curated
 title: "Human Problem Solving"
 authors:
   - Allen Newell

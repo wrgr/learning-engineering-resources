@@ -1,5 +1,6 @@
 resource_id: LE-AP-238
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "When and where do we apply what we learn?: A taxonomy for far transfer."
 authors: []

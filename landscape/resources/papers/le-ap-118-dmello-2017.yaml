@@ -1,5 +1,6 @@
 resource_id: LE-AP-118
 content_type: AP
+source: curated
 title: "A Selective Meta-Analysis on the Relative Incidence of Discrete Affective States During Learning With Technology"
 authors:
   - Sidney D'Mello

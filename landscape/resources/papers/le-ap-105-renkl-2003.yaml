@@ -1,5 +1,6 @@
 resource_id: LE-AP-105
 content_type: AP
+source: curated
 title: "Structuring the Transition From Example Study to Problem Solving in Cognitive Skill Acquisition: A Cognitive Load Perspective"
 authors:
   - Alexander Renkl

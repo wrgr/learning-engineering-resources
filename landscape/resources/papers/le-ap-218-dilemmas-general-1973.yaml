@@ -1,5 +1,6 @@
 resource_id: LE-AP-218
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Dilemmas in a general theory of planning"
 authors: []

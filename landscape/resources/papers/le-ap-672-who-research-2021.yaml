@@ -1,5 +1,6 @@
 resource_id: LE-AP-672
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "‘Who Is My Research for?’: Researcher Perceptions of the Research–Practice Relationship"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-GL-009
 content_type: GL
+source: curated
 status: APPROVED
 title: "Learning Engineering Adoption Maturity Model (LEAMM)"
 authors:

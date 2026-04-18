@@ -1,5 +1,6 @@
 resource_id: LE-AP-418
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Reconstructing Context: Negotiating the Tension Between Exogenous and Endogenous Educational Design"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-500
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Opinion Mining in e-Learning System"
 authors: []

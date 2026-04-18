@@ -1,5 +1,6 @@
 resource_id: LE-AP-008
 content_type: AP
+source: curated
 title: "Cognitive load during problem solving: Effects on learning"
 authors:
   - John Sweller

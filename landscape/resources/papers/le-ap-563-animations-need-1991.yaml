@@ -1,5 +1,6 @@
 resource_id: LE-AP-563
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Animations need narrations: An experimental test of a dual-coding hypothesis."
 authors: []

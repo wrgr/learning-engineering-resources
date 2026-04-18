@@ -1,5 +1,6 @@
 resource_id: LE-GL-008
 content_type: GL
+source: curated
 status: APPROVED
 title: "Learning Engineering for Online Education: Theoretical Contexts and Design-Based Examples"
 authors:

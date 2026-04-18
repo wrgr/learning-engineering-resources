@@ -1,5 +1,6 @@
 resource_id: LE-AP-125
 content_type: AP
+source: curated
 title: "Cognitive Architecture and Instructional Design: 20 Years Later"
 authors:
   - John Sweller

@@ -1,5 +1,6 @@
 resource_id: LE-AP-602
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Spacing Effects in Learning"
 authors: []

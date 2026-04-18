@@ -1,5 +1,6 @@
 resource_id: LE-AP-043
 content_type: AP
+source: curated
 title: "Performance Factors Analysis — A New Alternative to Knowledge Tracing"
 authors:
   - Philip I. Pavlik Jr.

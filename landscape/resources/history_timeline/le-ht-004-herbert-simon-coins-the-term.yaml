@@ -1,5 +1,6 @@
 resource_id: LE-HT-004
 content_type: HT
+source: curated
 year: 1967
 era: founding
 event: "Herbert Simon coins the term 'learning engineer' in 'The Job of a College President'"

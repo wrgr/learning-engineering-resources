@@ -1,5 +1,6 @@
 resource_id: LE-AP-116
 content_type: AP
+source: curated
 title: "Automatic detection of learner's affect from conversational cues"
 authors:
   - Sidney D'Mello

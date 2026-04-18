@@ -1,5 +1,6 @@
 resource_id: LE-AP-577
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The case for motivated reasoning."
 authors: []

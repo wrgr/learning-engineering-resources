@@ -1,5 +1,6 @@
 resource_id: LE-AP-572
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Development of left occipitotemporal systems for skilled reading in children after a phonologically- based intervention"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-020
 content_type: AP
+source: curated
 title: "Instructional Design: The ADDIE Approach"
 authors:
   - Robert Maribe Branch

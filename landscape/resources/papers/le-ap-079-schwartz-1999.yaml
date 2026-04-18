@@ -1,5 +1,6 @@
 resource_id: LE-AP-079
 content_type: AP
+source: curated
 title: "Rethinking Transfer: A Simple Proposal with Multiple Implications"
 authors:
   - Daniel L. Schwartz

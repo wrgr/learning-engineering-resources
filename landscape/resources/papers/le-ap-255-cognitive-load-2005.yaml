@@ -1,5 +1,6 @@
 resource_id: LE-AP-255
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions"
 authors: []

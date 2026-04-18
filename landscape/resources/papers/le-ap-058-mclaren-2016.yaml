@@ -1,5 +1,6 @@
 resource_id: LE-AP-058
 content_type: AP
+source: curated
 title: "Feedback During Web-Based Homework: The Role of Hints"
 authors:
   - Bruce M. McLaren

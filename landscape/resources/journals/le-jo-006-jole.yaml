@@ -1,5 +1,6 @@
 resource_id: LE-JO-006
 content_type: JO
+source: curated
 status: APPROVED
 name: "Journal of Learning Engineering (JoLE)"
 type: journal

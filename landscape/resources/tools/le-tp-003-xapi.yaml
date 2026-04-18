@@ -1,5 +1,6 @@
 resource_id: LE-TP-003
 content_type: TP
+source: curated
 status: APPROVED
 name: "xAPI / Tin Can API"
 type: standard

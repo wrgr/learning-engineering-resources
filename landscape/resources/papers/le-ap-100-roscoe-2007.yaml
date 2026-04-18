@@ -1,5 +1,6 @@
 resource_id: LE-AP-100
 content_type: AP
+source: curated
 title: "Understanding Tutor Learning: Knowledge-Building and Knowledge-Telling in Peer Tutors' Explanations and Questions"
 authors:
   - Rod D. Roscoe

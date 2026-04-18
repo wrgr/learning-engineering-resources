@@ -1,5 +1,6 @@
 resource_id: LE-AP-584
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Religion, Morality, Evolution"
 authors: []

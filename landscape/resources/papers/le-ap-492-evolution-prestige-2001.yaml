@@ -1,5 +1,6 @@
 resource_id: LE-AP-492
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The evolution of prestige: freely conferred deference as a mechanism for enhancing the benefits of cultural transmission"
 authors: []

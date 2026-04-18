@@ -1,5 +1,6 @@
 resource_id: LE-AP-579
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Mining the student assessment data: Lessons drawn from a small scale case study"
 authors: []

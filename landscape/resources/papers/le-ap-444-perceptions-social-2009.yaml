@@ -1,5 +1,6 @@
 resource_id: LE-AP-444
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Perceptions of social dangers, moral foundations, and political orientation"
 authors: []

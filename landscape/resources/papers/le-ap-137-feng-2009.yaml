@@ -1,5 +1,6 @@
 resource_id: LE-AP-137
 content_type: AP
+source: curated
 title: "Addressing the Assessment Challenge with an Online System That Tutors as It Assesses"
 authors:
   - Mingyu Feng

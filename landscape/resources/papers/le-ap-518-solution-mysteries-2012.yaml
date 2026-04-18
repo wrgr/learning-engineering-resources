@@ -1,5 +1,6 @@
 resource_id: LE-AP-518
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "A solution to the mysteries of morality."
 authors: []

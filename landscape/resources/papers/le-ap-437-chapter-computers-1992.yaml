@@ -1,5 +1,6 @@
 resource_id: LE-AP-437
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Chapter 5: Computers and Education: A Cultural Constructivist Perspective"
 authors: []

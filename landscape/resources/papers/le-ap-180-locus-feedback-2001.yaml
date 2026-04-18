@@ -1,5 +1,6 @@
 resource_id: LE-AP-180
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Locus of feedback control in computer-based tutoring"
 authors: []

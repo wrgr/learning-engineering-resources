@@ -1,5 +1,6 @@
 resource_id: LE-AP-536
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Exploring Cognitive Difference in instructional outcomes using Text mining technology"
 authors: []

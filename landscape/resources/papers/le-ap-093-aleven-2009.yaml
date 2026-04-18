@@ -1,5 +1,6 @@
 resource_id: LE-AP-093
 content_type: AP
+source: curated
 title: "A new paradigm for intelligent tutoring systems: Example-tracing tutors"
 authors:
   - Vincent Aleven

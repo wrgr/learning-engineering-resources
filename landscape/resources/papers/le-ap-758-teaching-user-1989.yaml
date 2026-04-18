@@ -1,5 +1,6 @@
 resource_id: LE-AP-758
 content_type: AP
+source: book_endnotes
 status: seed
 title: "“Teaching User Interface Design Based on Usability Engineering"
 authors: []

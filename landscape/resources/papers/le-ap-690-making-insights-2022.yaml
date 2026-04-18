@@ -1,5 +1,6 @@
 resource_id: LE-AP-690
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Making insights from educational psychology and educational technology research more useful for practice"
 authors: []

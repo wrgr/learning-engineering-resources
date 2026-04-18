@@ -1,5 +1,6 @@
 resource_id: LE-AP-142
 content_type: AP
+source: curated
 title: "Visualizing Patterns of Student Engagement and Performance in MOOCs"
 authors:
   - John Liu

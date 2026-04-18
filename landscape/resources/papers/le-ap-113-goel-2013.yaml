@@ -1,5 +1,6 @@
 resource_id: LE-AP-113
 content_type: AP
+source: curated
 title: "Vitruvius: A Case-Based Advisor for Biomimetic Design"
 authors:
   - Ashok Goel

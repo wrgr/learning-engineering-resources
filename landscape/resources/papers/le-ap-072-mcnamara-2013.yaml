@@ -1,5 +1,6 @@
 resource_id: LE-AP-072
 content_type: AP
+source: curated
 title: "Automated Evaluation of Text and Discourse with Coh-Metrix"
 authors:
   - Danielle S. McNamara

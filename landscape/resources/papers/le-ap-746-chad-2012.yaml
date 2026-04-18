@@ -1,5 +1,6 @@
 resource_id: LE-AP-746
 content_type: AP
+source: book_endnotes
 status: seed
 title: "Chad"
 authors: []

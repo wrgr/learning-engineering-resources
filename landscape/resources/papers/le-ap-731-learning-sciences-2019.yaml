@@ -1,5 +1,6 @@
 resource_id: LE-AP-731
 content_type: AP
+source: book_endnotes
 status: seed
 title: "“Learning Sciences: Concepts for Learning Engineering"
 authors: []

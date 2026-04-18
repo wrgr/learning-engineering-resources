@@ -1,5 +1,6 @@
 resource_id: LE-AP-209
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "AutoTutor and affective autotutor"
 authors: []

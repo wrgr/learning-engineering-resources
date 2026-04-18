@@ -1,5 +1,6 @@
 resource_id: LE-AP-292
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Q-matrix Method: Mining Student Response Data for Knowledge"
 authors: []

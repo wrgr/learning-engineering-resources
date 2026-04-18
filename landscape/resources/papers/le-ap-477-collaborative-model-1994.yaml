@@ -1,5 +1,6 @@
 resource_id: LE-AP-477
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "A Collaborative Model for Helping Middle Grade Science Teachers Learn Project-Based Instruction"
 authors: []

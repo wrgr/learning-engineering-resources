@@ -1,5 +1,6 @@
 resource_id: LE-AP-346
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Remote Transfer of Scientific-Reasoning and Problem-Solving Strategies in Children"
 authors: []

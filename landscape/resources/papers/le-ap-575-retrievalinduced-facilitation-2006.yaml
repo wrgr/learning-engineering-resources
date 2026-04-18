@@ -1,5 +1,6 @@
 resource_id: LE-AP-575
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Retrieval-induced facilitation: Initially nontested material can benefit from prior testing of related material."
 authors: []

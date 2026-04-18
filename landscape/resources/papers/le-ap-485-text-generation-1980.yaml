@@ -1,5 +1,6 @@
 resource_id: LE-AP-485
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Text generation and recall by high-knowledge and low-knowledge individuals"
 authors: []

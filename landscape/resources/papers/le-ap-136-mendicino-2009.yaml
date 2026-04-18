@@ -1,5 +1,6 @@
 resource_id: LE-AP-136
 content_type: AP
+source: curated
 title: "A Comparison of Traditional Homework to Computer-Supported Homework"
 authors:
   - Michael Mendicino

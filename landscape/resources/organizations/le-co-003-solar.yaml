@@ -1,5 +1,6 @@
 resource_id: LE-CO-003
 content_type: CO
+source: curated
 status: APPROVED
 name: "Society for Learning Analytics Research (SoLAR)"
 type: academic_society

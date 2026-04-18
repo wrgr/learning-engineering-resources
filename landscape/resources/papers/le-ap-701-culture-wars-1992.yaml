@@ -1,5 +1,6 @@
 resource_id: LE-AP-701
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Culture wars: the struggle to define America"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-094
 content_type: AP
+source: curated
 title: "Instruction Based on Adaptive Learning Technologies"
 authors:
   - Vincent Aleven

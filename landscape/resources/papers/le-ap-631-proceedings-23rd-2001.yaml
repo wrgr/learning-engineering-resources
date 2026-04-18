@@ -1,5 +1,6 @@
 resource_id: LE-AP-631
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Proceedings of the 23rd annual conference of the cognitive science society"
 authors: []

@@ -1,5 +1,6 @@
 resource_id: LE-AP-356
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "THE MIND'S EYE IN CHESS"
 authors: []

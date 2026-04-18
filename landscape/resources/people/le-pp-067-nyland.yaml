@@ -1,5 +1,6 @@
 resource_id: LE-PP-067
 content_type: PP
+source: curated
 status: APPROVED
 name: Rob Nyland
 affiliation: "IEEE ICICLE — Higher Education MIG"

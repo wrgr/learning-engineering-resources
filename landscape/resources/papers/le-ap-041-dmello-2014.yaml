@@ -1,5 +1,6 @@
 resource_id: LE-AP-041
 content_type: AP
+source: curated
 title: "Confusion Can Be Beneficial for Learning"
 authors:
   - Sidney D'Mello

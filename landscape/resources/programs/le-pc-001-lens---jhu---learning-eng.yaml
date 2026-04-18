@@ -1,5 +1,6 @@
 resource_id: LE-PC-001
 content_type: PC
+source: registry_migration
 status: APPROVED
 name: "LENS @ JHU — Learning Engineering for Next-Generation Systems"
 url: "[internal]"

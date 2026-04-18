@@ -1,5 +1,6 @@
 resource_id: LE-AP-197
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Seeing language learning inside the math: Cognitive analysis yields transfer"
 authors: []

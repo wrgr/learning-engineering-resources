@@ -1,5 +1,6 @@
 resource_id: LE-AP-051
 content_type: AP
+source: curated
 title: "Collaborative Dialogue Patterns in Naturalistic One-to-One Tutoring"
 authors:
   - Arthur C. Graesser

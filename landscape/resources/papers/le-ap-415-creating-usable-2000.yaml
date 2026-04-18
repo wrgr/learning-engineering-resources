@@ -1,5 +1,6 @@
 resource_id: LE-AP-415
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Creating Usable Innovations in Systemic Reform: Scaling Up Technology-Embedded Project-Based Science in Urban Schools"
 authors: []

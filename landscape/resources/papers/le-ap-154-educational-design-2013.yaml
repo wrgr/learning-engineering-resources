@@ -1,5 +1,6 @@
 resource_id: LE-AP-154
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Educational Design Research"
 authors: []

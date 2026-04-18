@@ -1,5 +1,6 @@
 resource_id: LE-AP-385
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "A Model of the Self-Explanation Effect"
 authors: []

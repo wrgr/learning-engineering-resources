@@ -1,5 +1,6 @@
 resource_id: LE-AP-101
 content_type: AP
+source: curated
 title: "The Writing Pal intelligent tutoring system: Usability testing and developer decisions"
 authors:
   - Rod D. Roscoe

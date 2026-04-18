@@ -1,5 +1,6 @@
 resource_id: LE-AP-443
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Combining labeled and unlabeled data with co-training"
 authors: []

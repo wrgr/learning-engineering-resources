@@ -1,5 +1,6 @@
 resource_id: LE-AP-694
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Harvard business review"
 authors: []

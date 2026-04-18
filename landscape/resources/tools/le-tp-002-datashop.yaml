@@ -1,5 +1,6 @@
 resource_id: LE-TP-002
 content_type: TP
+source: curated
 status: APPROVED
 name: "DataShop / LearnSphere"
 type: repository

@@ -1,5 +1,6 @@
 resource_id: LE-AP-301
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Potentials of Educational Data Mining for Researching Metacognition, Motivation and Self-Regulated Learning"
 authors: []

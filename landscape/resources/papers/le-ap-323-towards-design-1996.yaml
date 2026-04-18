@@ -1,5 +1,6 @@
 resource_id: LE-AP-323
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Towards the design of more effective advisors for learning-by-doing systems"
 authors: []

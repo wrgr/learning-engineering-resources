@@ -1,5 +1,6 @@
 resource_id: LE-AP-362
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "The Implicit and Explicit Learning of Orthographic Structure and Function of a New Writing System"
 authors: []

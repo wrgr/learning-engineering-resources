@@ -1,5 +1,6 @@
 resource_id: LE-AP-440
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Handbook of Industrial and Organizational Psychology."
 authors: []

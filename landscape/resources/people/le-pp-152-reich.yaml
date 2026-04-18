@@ -1,5 +1,6 @@
 resource_id: LE-PP-152
 content_type: PP
+source: curated
 status: APPROVED
 name: Justin Reich
 affiliation: MIT Teaching Systems Lab

@@ -1,5 +1,6 @@
 resource_id: LE-AP-671
 content_type: AP
+source: openalex_expansion
 status: seed
 title: "Design Research for Sustained Innovation"
 authors: []
