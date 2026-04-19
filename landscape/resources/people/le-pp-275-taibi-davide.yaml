@@ -1,0 +1,33 @@
+resource_id: LE-PP-275
+content_type: PP
+source: curated
+status: APPROVED
+name: Davide Taibi
+affiliation: Institute for Educational Technology (ITD), CNR, Palermo, Italy
+era: contemporary
+role: EDM 2025 AND L@S 2025 General Chair; semantic LA and EU education data/AI projects
+description: 'Senior Researcher at CNR-ITD, Palermo. General Chair of BOTH EDM 2025 and L@S 2025 (Palermo) — a rare
+  dual-flagship role in a single year. Research on learning analytics, semantic web/linked data, and applications
+  of AI/AR/VR in e-learning; coordinates EU projects on data and AI literacy.
+
+  '
+key_contributions:
+- General Chair, EDM 2025 AND L@S 2025 (both Palermo, Italy, 2025)
+- Hosted two flagship LE conferences in the same year, unusual for the field
+- Coordinates EU Horizon projects on data and AI literacy in education
+- Bridges semantic-web methods with learning analytics via linked-data approaches
+primary_topic: T04
+secondary_topics:
+- T07
+- T11
+url: https://www.itd.cnr.it/istituto/personale/taibi-davide.html
+notes: EDM 2025 + L@S 2025 GC (dual). Semantic LA. EU AI literacy projects.
+key_works:
+- Facilitating Scientometrics in Learning Analytics and Educational Data Mining – the LAK Dataset (Semantic Web,
+  2016)
+- 'Learning to Prompt in the Classroom to Understand AI Limits: A Pilot Study (Lecture notes in computer science,
+  2023)'
+- 'Fostering Analytics on Learning Analytics Research: the LAK Dataset (2013)'
+- A semantic approach to mobile learning analytics (2013)
+- Using linked data in Learning Analytics (DSpace (Open University in the Netherlands), 2014)
+openalex_id: https://openalex.org/A5015403871

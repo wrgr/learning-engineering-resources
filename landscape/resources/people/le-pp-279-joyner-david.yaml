@@ -1,0 +1,32 @@
+resource_id: LE-PP-279
+content_type: PP
+source: curated
+status: APPROVED
+name: David A. Joyner
+affiliation: Georgia Institute of Technology
+era: contemporary
+role: EDM 2024 AND L@S 2024 General Chair; online CS education at scale
+description: 'Executive Director of Online Education & OMSCS at Georgia Tech''s College of Computing. General Chair
+  of BOTH EDM 2024 and L@S 2024 (Atlanta) — a dual-flagship role. Runs OMSCS, one of the largest graduate online
+  programs in the world; research on at-scale online CS education, AI for student support, and equitable access
+  in graduate online programs.
+
+  '
+key_contributions:
+- General Chair, EDM 2024 AND L@S 2024 (both Atlanta, 2024)
+- Executive Director of OMSCS — ~15,000-student online CS master's program at Georgia Tech
+- Pioneered large-scale, equitable graduate online CS education as an evidence base for L@S research
+- Bridges EDM's algorithmic focus with L@S's platform-scale experimentation
+primary_topic: T11
+secondary_topics:
+- T07
+- T04
+url: https://www.cc.gatech.edu/people/david-joyner
+notes: EDM 2024 + L@S 2024 GC (dual). OMSCS director. Online CS at scale.
+key_works:
+- 'Designing and Developing Videos for Online Learning: A Seven-Principle Model (Online Learning, 2019)'
+- Challenges of Online Learning in Nigeria (2020)
+- 'Jill Watson SA: Design and Evaluation of a Virtual Agent to Build Communities Among Online Learners (2020)'
+- Intelligent Evaluation and Feedback in Support of a Credit-Bearing MOOC (Lecture notes in computer science, 2018)
+- Improving Inquiry-Driven Modeling in Science Education through Interaction with Intelligent Tutoring Agents (2015)
+openalex_id: https://openalex.org/A5103136135

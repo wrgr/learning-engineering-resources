@@ -1,0 +1,30 @@
+resource_id: LE-PP-265
+content_type: PP
+source: curated
+status: APPROVED
+name: Geraldine Gray
+affiliation: Technological University Dublin, Ireland
+era: contemporary
+role: LAK 2025 Organizing Committee Lead; predictive analytics for student success
+description: 'Head of School of Informatics & Cybersecurity at TU Dublin. Local Organizing Committee Lead for LAK
+  2025 (Dublin). Applied researcher in data analytics and predictive modeling of student success in higher education.
+
+  '
+key_contributions:
+- Organizing Committee Lead / host chair, LAK 2025 (Dublin, Ireland)
+- Research on early-warning and predictive models for higher-ed student retention
+- Bridges Irish higher-education institutional research with the global LA community
+primary_topic: T04
+secondary_topics:
+- T17
+- T15
+url: https://researchprofiles.tudublin.ie/en/persons/geraldine-gray-2
+notes: LAK 2025 Organizing Lead. Predictive analytics for retention.
+key_works:
+- 'Stakeholders’ insights on learning analytics: Perspectives of students and staff (Computers & Education, 2022)'
+- 'A Practitioner''s Guide to Measurement in Learning Analytics: Decisions, Opportunities, and Challenges (Solar
+  eBooks, 2022)'
+- What Does Methodology Mean for Learning Analytics? (Journal of Learning Analytics, 2018)
+- A Stakeholder Informed Professional Development Framework to Support Engagement with Learning Analytics (2021)
+- 'A LAK of Direction: Misalignment Between the Goals of Learning Analytics and its Research Scholarship (2022)'
+openalex_id: https://openalex.org/A5071615974

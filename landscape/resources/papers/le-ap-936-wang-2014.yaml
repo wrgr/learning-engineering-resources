@@ -1,0 +1,22 @@
+resource_id: LE-AP-936
+content_type: AP
+source: openalex_expansion
+status: seed
+title: A Longitudinal Study on Learner Career Advancement in MOOCs
+authors:
+- Yuan Wang
+- Luc Paquette
+- Ryan S. Baker
+year: 2014
+venue: Journal of Learning Analytics
+doi: 10.18608/jla.2014.13.23
+tier: contemporary
+citation_count_approx: 35
+cross_seed_score: 1
+openalex_id: W1510546604
+significance: Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship
+  (Luc Paquette). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T06
+- T17

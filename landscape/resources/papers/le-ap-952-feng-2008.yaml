@@ -1,0 +1,23 @@
+resource_id: LE-AP-952
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Can an Intelligent Tutoring System Predict Math Proficiency as Well as a Standardized Test
+authors:
+- Mingyu Feng
+- Joseph E. Beck
+- Neil T. Heffernan
+- Kenneth R. Koedinger
+year: 2008
+venue: Unknown Venue
+doi: ''
+tier: contemporary
+citation_count_approx: 29
+cross_seed_score: 1
+openalex_id: W111472886
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Mingyu
+  Feng). OpenAlex-seeded; curation pending.
+primary_topic: T15
+secondary_topics:
+- T04
+- T06

@@ -1,0 +1,21 @@
+resource_id: LE-AP-859
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Intelligent Tutoring Systems: At the Crossroads of Artificial Intelligence and Education'
+authors:
+- Claude Frasson
+- Gilles Gauthier
+year: 1990
+venue: Greenwood Publishing Group Inc. eBooks
+doi: ''
+tier: contemporary
+citation_count_approx: 170
+cross_seed_score: 1
+openalex_id: W1600041364
+significance: Published in Greenwood Publishing Group Inc. eBooks. LE-filtered expansion seeded from conference-chair
+  authorship (Claude Frasson). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T01

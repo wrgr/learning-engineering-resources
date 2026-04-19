@@ -1,0 +1,29 @@
+resource_id: LE-PP-316
+content_type: PP
+source: curated
+status: APPROVED
+name: Philip J. Guo
+affiliation: UC San Diego, Cognitive Science and CSE
+era: contemporary
+role: L@S 2023 Program Co-Chair; HCI for learning programming at scale
+description: 'Professor of Cognitive Science (and CSE) at UC San Diego. Program Co-Chair for L@S 2023. Creator of
+  Python Tutor — one of the most widely used educational tools for visualizing program execution. Research on HCI
+  and scalable tools for learning programming/data science; online learning at scale.
+
+  '
+key_contributions:
+- Program Co-Chair, L@S 2023 (Copenhagen, Denmark)
+- Creator of Python Tutor — ubiquitous educational tool for program-execution visualization
+- Research on HCI-grounded scalable tools for learning programming and data science
+- Frequent L@S and CHI author on online/scale learning interventions
+primary_topic: T11
+secondary_topics:
+- T07
+- T04
+url: https://pg.ucsd.edu/
+notes: L@S 2023 PC. Python Tutor creator. HCI for programming education.
+key_works:
+- Demographic differences in how students navigate through MOOCs (2014)
+- 'Toward a domain-specific visual discussion forum for learning computer programming: An empirical study of a popular
+  MOOC forum (2015)'
+openalex_id: https://openalex.org/A5060695800

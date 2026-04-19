@@ -1,0 +1,24 @@
+resource_id: LE-AP-932
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Epistemic roles of materiality within a collaborative invention project at a secondary school
+authors:
+- Varpu Mehto
+- Sini Riikonen
+- Kai Hakkarainen
+- Kaiju Kangas
+- Pirita Seitamaa‐Hakkarainen
+year: 2020
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.12942
+tier: contemporary
+citation_count_approx: 38
+cross_seed_score: 2
+openalex_id: W3017362221
+significance: Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Pirita Seitamaa-Hakkarainen, Kaiju Kangas). OpenAlex-seeded; curation pending.
+primary_topic: T17
+secondary_topics:
+- T03
+- T01

@@ -1,0 +1,26 @@
+resource_id: LE-AP-987
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Modeling Classroom Discourse: Do Models That Predict Dialogic Instruction Properties Generalize across Populations?.'
+authors:
+- Borhan Samei
+- Andrew M. Olney
+- Sean Kelly
+- Martin Nystrand
+- Sidney K. D’Mello
+- Nathaniel Blanchard
+- Arthur C. Graesser
+year: 2015
+venue: Educational Data Mining
+doi: ''
+tier: contemporary
+citation_count_approx: 15
+cross_seed_score: 1
+openalex_id: W2576799705
+significance: Published in Educational Data Mining. LE-filtered expansion seeded from conference-chair authorship
+  (Andrew M. Olney). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T05

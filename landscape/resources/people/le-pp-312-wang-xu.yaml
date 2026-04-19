@@ -1,0 +1,23 @@
+resource_id: LE-PP-312
+content_type: PP
+source: curated
+status: APPROVED
+name: Xu Wang
+affiliation: "University of Michigan, CSE / School of Information"
+era: contemporary
+role: "L@S 2024 Program Co-Chair; ITS for scalable expertise sharing"
+description: >
+  Assistant Professor at Michigan CSE (with a courtesy appointment at the School of
+  Information). Program Co-Chair for L@S 2024. Directs the Lifelong Learning Lab; research
+  on intelligent tutoring systems for scalable expertise sharing, at the intersection of
+  HCI, learning sciences, and AI.
+key_contributions:
+  - "Program Co-Chair, L@S 2024 (Atlanta, USA)"
+  - Directs the Lifelong Learning Lab at Michigan — HCI + learning sciences + AI
+  - Research on scalable expertise-sharing ITS for professional/lifelong learning
+primary_topic: T06
+secondary_topics:
+  - T07
+  - T10
+url: "https://web.eecs.umich.edu/~xwanghci/"
+notes: "L@S 2024 PC. Expertise-sharing ITS. Lifelong Learning Lab."

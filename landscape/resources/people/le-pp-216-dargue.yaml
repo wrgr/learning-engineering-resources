@@ -1,0 +1,18 @@
+resource_id: LE-PP-216
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Brandt Dargue
+affiliation: Boeing
+era: contemporary
+role: Learning engineer for complex training systems; Boeing.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning engineer for complex
+  training systems; Boeing.
+key_works:
+- Learning Engineering is Engineering (2022)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5010286941
+openalex_id: https://openalex.org/A5010286941
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5010286941; verify on review.

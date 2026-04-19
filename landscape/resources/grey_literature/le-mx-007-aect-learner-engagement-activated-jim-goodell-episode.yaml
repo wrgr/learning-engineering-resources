@@ -1,0 +1,17 @@
+resource_id: LE-MX-007
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: AECT Learner Engagement Activated — Jim Goodell episode
+authors:
+- Jim Goodell (guest)
+- Anne Fensie (host)
+publisher: AECT Learner Engagement Division
+url: https://learnerengagement.podbean.com/e/episode-8-jim-goodell/
+type: podcast
+primary_topic: T00
+secondary_topics: []
+significance: Fensie interviews Goodell in a long-form format — origin story, ICICLE's founding, and the
+  case for LE as an engineering discipline. If you want biographical context on one of the field's anchors,
+  start here.
+year: 2022

@@ -1,0 +1,32 @@
+resource_id: LE-PP-297
+content_type: PP
+source: curated
+status: APPROVED
+name: Zitao (Jerry) Liu
+affiliation: Jinan University, Guangzhou, China
+era: contemporary
+role: AIED 2024 Program Chair; knowledge tracing and at-scale AI tutoring
+description: 'Professor at Jinan University and Director of the Guangdong Institute of Smart Education. Program
+  Chair for AIED 2024. Research on knowledge tracing, educational data mining, and large-scale deployment of AI
+  tutoring — representing industry-scale Chinese AIED practice.
+
+  '
+key_contributions:
+- Program Chair, AIED 2024 (Recife, Brazil)
+- Director of the Guangdong Institute of Smart Education — a large applied AIED center
+- Research on scalable knowledge tracing and AI-tutor deployment in Chinese education
+- Formerly led AIED research at TAL Education's industry research group
+primary_topic: T06
+secondary_topics:
+- T07
+- T11
+url: https://zitaoliu.github.io/
+notes: AIED 2024 PC. Knowledge tracing at scale. China industry AIED.
+key_works:
+- Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations
+  (Proceedings of the AAAI Conference on Artificial Intelligence, 2023)
+- Enhancing Deep Knowledge Tracing with Auxiliary Tasks (2023)
+- Deep Knowledge Tracing with Side Information (Lecture notes in computer science, 2019)
+- 'AI for Education (AI4EDU): Advancing Personalized Education with LLM and Adaptive Learning (2024)'
+- Multimodal Learning for Classroom Activity Detection (2020)
+openalex_id: https://openalex.org/A5014957271

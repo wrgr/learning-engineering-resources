@@ -1,0 +1,12 @@
+resource_id: LE-MX-002
+content_type: CO
+source: mdx_backfill
+status: APPROVED
+name: IEEE Learning Technology Standards Committee (LTSC)
+type: org
+affiliation_or_venue: IEEE
+url: https://sagroups.ieee.org/ltsc/
+primary_topic: T16
+secondary_topics: []
+description: IEEE standards body responsible for learning-technology interoperability standards. The institutional
+  home of xAPI-adjacent work and a natural partner to ICICLE's working groups.

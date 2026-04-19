@@ -1,0 +1,17 @@
+resource_id: LE-IC-010
+content_type: GL
+source: icicle
+status: APPROVED
+title: Examples of Roles & Expertise on an LE Team (ICICLE)
+authors:
+- Examples of Roles
+- Expertise on an LE Team
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T00
+secondary_topics:
+- T03
+significance: 'Google Doc describing the multidisciplinary roles typically needed on a learning engineering
+  team: learning scientists, data analysts, instructional designers, engineers, subject matter experts.'
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

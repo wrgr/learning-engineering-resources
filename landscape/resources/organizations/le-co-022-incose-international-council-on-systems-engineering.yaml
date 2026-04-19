@@ -1,0 +1,12 @@
+resource_id: LE-CO-022
+content_type: CO
+source: landscape_backfill
+status: APPROVED
+name: INCOSE — International Council on Systems Engineering
+type: organization
+affiliation_or_venue: INCOSE
+url: ''
+primary_topic: T02
+secondary_topics:
+- T13
+description: Adjacent-field resource carried forward from landscape curation; enrichment pending.

@@ -1,0 +1,28 @@
+resource_id: LE-AP-935
+content_type: AP
+source: openalex_expansion
+status: seed
+title: LAK of Direction
+authors:
+- Benjamin Motz
+- Yoav Bergner
+- Christopher Brooks
+- Anna Gladden
+- Geraldine Gray
+- Charles Lang
+- Warren Li
+- Fernando Marmolejo‐Ramos
+- Joshua Quick
+year: 2023
+venue: Journal of Learning Analytics
+doi: 10.18608/jla.2023.7913
+tier: contemporary
+citation_count_approx: 35
+cross_seed_score: 1
+openalex_id: W4323657100
+significance: Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship
+  (Geraldine Gray). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T15

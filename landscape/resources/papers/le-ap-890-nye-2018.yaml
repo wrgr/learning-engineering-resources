@@ -1,0 +1,26 @@
+resource_id: LE-AP-890
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'SKOPE-IT (Shareable Knowledge Objects as Portable Intelligent Tutors): overlaying natural language tutoring
+  on an adaptive learning system for mathematics'
+authors:
+- Benjamin D. Nye
+- Philip I. Pavlik
+- Alistair Windsor
+- Andrew M. Olney
+- Mustafa Hajeer
+- Xiangen Hu
+year: 2018
+venue: International Journal of STEM Education
+doi: 10.1186/s40594-018-0109-4
+tier: contemporary
+citation_count_approx: 67
+cross_seed_score: 1
+openalex_id: W2798150561
+significance: Published in International Journal of STEM Education. LE-filtered expansion seeded from conference-chair
+  authorship (Andrew M. Olney). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T05

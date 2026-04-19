@@ -1,0 +1,24 @@
+resource_id: LE-AP-1015
+content_type: AP
+source: openalex_expansion
+status: seed
+title: A Rule-Based System Integrating Case-Based Reasoning for Adaptive User Interfaces in Personalized Educational
+  Software
+authors:
+- Christos Troussas
+- Akrivi Krouska
+- Phivos Mylonas
+- Cleo Sgouropoulou
+year: 2025
+venue: Unknown Venue
+doi: 10.1109/seeda-cecnsm68644.2025.11329850
+tier: contemporary
+citation_count_approx: 0
+cross_seed_score: 1
+openalex_id: W7124919037
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Phivos
+  Mylonas). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T04

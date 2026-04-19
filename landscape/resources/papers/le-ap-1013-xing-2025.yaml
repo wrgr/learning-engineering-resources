@@ -1,0 +1,23 @@
+resource_id: LE-AP-1013
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Playful Computational Thinking Learning in and Beyond Early Childhood Classrooms: Insights from Collaborative
+  Action Research of Two Teacher-Researchers'
+authors:
+- Grace Yaxin Xing
+- Alice Grace Cady
+- X. Christine Wang
+year: 2025
+venue: Education Sciences
+doi: 10.3390/educsci15070840
+tier: contemporary
+citation_count_approx: 2
+cross_seed_score: 1
+openalex_id: W4411961848
+significance: Published in Education Sciences. LE-filtered expansion seeded from conference-chair authorship (X.
+  Christine Wang). OpenAlex-seeded; curation pending.
+primary_topic: T17
+secondary_topics:
+- T03
+- T12

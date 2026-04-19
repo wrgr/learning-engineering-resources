@@ -1,0 +1,902 @@
+[
+  {
+    "id": "LE-AP-402",
+    "file": "le-ap-402-everything-permitted-2014.yaml",
+    "title": "Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists",
+    "venue": "PLoS ONE",
+    "year": 2014,
+    "cites": 155,
+    "concepts_hint": "Published in PLoS ONE; addresses immorality, morality, social psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pen"
+  },
+  {
+    "id": "LE-AP-403",
+    "file": "le-ap-403-reasoning-about-2005.yaml",
+    "title": "Reasoning about dead agents reveals possible adaptive trends",
+    "venue": "Human Nature",
+    "year": 2005,
+    "cites": 181,
+    "concepts_hint": "Published in Human Nature; addresses prosocial behavior, psychology, attribution. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Aut"
+  },
+  {
+    "id": "LE-AP-404",
+    "file": "le-ap-404-phobias-preparedness-1971.yaml",
+    "title": "Phobias and preparedness",
+    "venue": "Behavior Therapy",
+    "year": 1971,
+    "cites": 1610,
+    "concepts_hint": "Published in Behavior Therapy; addresses phobias, psychology, preparedness. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors p"
+  },
+  {
+    "id": "LE-AP-407",
+    "file": "le-ap-407-does-religious-2012.yaml",
+    "title": "Does religious belief promote prosociality? A critical examination.",
+    "venue": "Psychological Bulletin",
+    "year": 2012,
+    "cites": 389,
+    "concepts_hint": "Published in Psychological Bulletin; addresses religiosity, prosocial behavior, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit c"
+  },
+  {
+    "id": "LE-AP-408",
+    "file": "le-ap-408-developmental-progression-1999.yaml",
+    "title": "The developmental progression from implicit to explicit knowledge: A computational approach",
+    "venue": "Behavioral and Brain Sciences",
+    "year": 1999,
+    "cites": 8,
+    "concepts_hint": "Published in Behavioral and Brain Sciences; addresses computer science, computational model, cognitive science. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning "
+  },
+  {
+    "id": "LE-AP-409",
+    "file": "le-ap-409-controlled-automatic-1977.yaml",
+    "title": "Controlled and automatic human information processing: I. Detection, search, and attention.",
+    "venue": "Psychological Review",
+    "year": 1977,
+    "cites": 5724,
+    "concepts_hint": "Published in Psychological Review; addresses information processing, psychology, cognitive psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineerin"
+  },
+  {
+    "id": "LE-AP-410",
+    "file": "le-ap-410-mapping-mind-1994.yaml",
+    "title": "Mapping the Mind: Domain Specificity In Cognition And Culture",
+    "venue": "Unknown Venue",
+    "year": 1994,
+    "cites": 1372,
+    "concepts_hint": "Published in Unknown Venue; addresses cognitive science, cognition, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Autho"
+  },
+  {
+    "id": "LE-AP-411",
+    "file": "le-ap-411-sexing-dayold-1987.yaml",
+    "title": "Sexing day-old chicks: A case study and expert systems analysis of a difficult perceptual-learning task.",
+    "venue": "Journal of Experimental Psychology Learning Memory and Cognition",
+    "year": 1987,
+    "cites": 408,
+    "concepts_hint": "Published in Journal of Experimental Psychology Learning Memory and Cognition; addresses sexing, task (project management), perception. Quality-filtered from OpenAlex cross-seed expansion of the Goode"
+  },
+  {
+    "id": "LE-AP-412",
+    "file": "le-ap-412-provide-protect-2009.yaml",
+    "title": "To Provide or Protect: Motivational Bases of Political Liberalism and Conservatism",
+    "venue": "Psychological Inquiry",
+    "year": 2009,
+    "cites": 217,
+    "concepts_hint": "Published in Psychological Inquiry; addresses conservatism, politics, liberalism. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Aut"
+  },
+  {
+    "id": "LE-AP-413",
+    "file": "le-ap-413-role-central-1996.yaml",
+    "title": "The Role of Central Conceptual Structures in the Development of Children's Thought",
+    "venue": "Monographs of the Society for Research in Child Development",
+    "year": 1996,
+    "cites": 480,
+    "concepts_hint": "Published in Monographs of the Society for Research in Child Development; addresses psychology, developmental psychology, childhood development. Quality-filtered from OpenAlex cross-seed expansion of "
+  },
+  {
+    "id": "LE-AP-415",
+    "file": "le-ap-415-creating-usable-2000.yaml",
+    "title": "Creating Usable Innovations in Systemic Reform: Scaling Up Technology-Embedded Project-Based Science in Urban Schools",
+    "venue": "Educational Psychologist",
+    "year": 2000,
+    "cites": 484,
+    "concepts_hint": "Published in Educational Psychologist; addresses usable, knowledge management, psychological intervention. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engine"
+  },
+  {
+    "id": "LE-AP-418",
+    "file": "le-ap-418-reconstructing-context-2004.yaml",
+    "title": "Reconstructing Context: Negotiating the Tension Between Exogenous and Endogenous Educational Design",
+    "venue": "Educational Psychologist",
+    "year": 2004,
+    "cites": 68,
+    "concepts_hint": "Published in Educational Psychologist; addresses construct (python library), negotiation, context (archaeology). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning "
+  },
+  {
+    "id": "LE-AP-419",
+    "file": "le-ap-419-conjecture-mapping-2013.yaml",
+    "title": "Conjecture Mapping: An Approach to Systematic Educational Design Research",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2013,
+    "cites": 637,
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses confusion, scholarship, conjecture. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit "
+  },
+  {
+    "id": "LE-AP-420",
+    "file": "le-ap-420-toward-epistemology-1993.yaml",
+    "title": "Toward an epistemology of physics",
+    "venue": "Unknown Venue",
+    "year": 1993,
+    "cites": 1276,
+    "concepts_hint": "Published in Unknown Venue; addresses epistemology, mathematics education, science education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit"
+  },
+  {
+    "id": "LE-AP-421",
+    "file": "le-ap-421-constructing-arguments-1999.yaml",
+    "title": "Constructing arguments from multiple sources: Tasks that promote understanding and not just memory for text.",
+    "venue": "Journal of Educational Psychology",
+    "year": 1999,
+    "cites": 468,
+    "concepts_hint": "Published in Journal of Educational Psychology; addresses psychology, cognitive psychology, short-term memory. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning E"
+  },
+  {
+    "id": "LE-AP-422",
+    "file": "le-ap-422-chunking-recall-1979.yaml",
+    "title": "Chunking in recall of symbolic drawings",
+    "venue": "Memory & Cognition",
+    "year": 1979,
+    "cites": 485,
+    "concepts_hint": "Published in Memory & Cognition; addresses chunking (psychology), recall, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus."
+  },
+  {
+    "id": "LE-AP-423",
+    "file": "le-ap-423-role-examples-1996.yaml",
+    "title": "Role of examples in how students learn to categorize statistics word problems.",
+    "venue": "Journal of Educational Psychology",
+    "year": 1996,
+    "cites": 295,
+    "concepts_hint": "Published in Journal of Educational Psychology; addresses psychology, categorization, word (group theory). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engine"
+  },
+  {
+    "id": "LE-AP-425",
+    "file": "le-ap-425-thinkertools-causal-1993.yaml",
+    "title": "ThinkerTools: Causal Models, Conceptual Change, and Science Education",
+    "venue": "Cognition and Instruction",
+    "year": 1993,
+    "cites": 494,
+    "concepts_hint": "Published in Cognition and Instruction; addresses generality, variety (cybernetics), correctness. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-427",
+    "file": "le-ap-427-overcoming-memory-2011.yaml",
+    "title": "Overcoming Memory Limitations in Rule Learning",
+    "venue": "Language Learning and Development",
+    "year": 2011,
+    "cites": 24,
+    "concepts_hint": "Published in Language Learning and Development; addresses computer science, presentation (obstetrics), artificial intelligence. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kol"
+  },
+  {
+    "id": "LE-AP-428",
+    "file": "le-ap-428-family-metaphors-2008.yaml",
+    "title": "Family metaphors and moral intuitions: How conservatives and liberals narrate their lives.",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": 2008,
+    "cites": 301,
+    "concepts_hint": "Published in Journal of Personality and Social Psychology; addresses psychology, morality, social psychology. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning En"
+  },
+  {
+    "id": "LE-AP-429",
+    "file": "le-ap-429-learner-experience-2001.yaml",
+    "title": "Learner Experience and Efficiency of Instructional Guidance",
+    "venue": "Educational Psychology",
+    "year": 2001,
+    "cites": 182,
+    "concepts_hint": "Published in Educational Psychology; addresses task (project management), exploratory research, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engin"
+  },
+  {
+    "id": "LE-AP-430",
+    "file": "le-ap-430-effects-monological-2007.yaml",
+    "title": "The effects of monological and dialogical argumentation on concept learning in evolutionary theory.",
+    "venue": "Journal of Educational Psychology",
+    "year": 2007,
+    "cites": 265,
+    "concepts_hint": "Published in Journal of Educational Psychology; addresses dialogical self, argumentation theory, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engi"
+  },
+  {
+    "id": "LE-AP-432",
+    "file": "le-ap-432-designbased-research-2004.yaml",
+    "title": "If Design-Based Research is the Answer, What is the Question? A Commentary on Collins, Joseph, and Bielaczyc; diSessa and Cobb; and Fishman, Marx, Blumenthal, Krajcik, and Soloway in the JLS Special I",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2004,
+    "cites": 150,
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses cobb, philosophy, epistemology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corp"
+  },
+  {
+    "id": "LE-AP-433",
+    "file": "le-ap-433-approach-psychology-1972.yaml",
+    "title": "An approach to the psychology of instruction.",
+    "venue": "Psychological Bulletin",
+    "year": 1972,
+    "cites": 99,
+    "concepts_hint": "Published in Psychological Bulletin; addresses psychology, cognitive psychology, applied psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering "
+  },
+  {
+    "id": "LE-AP-434",
+    "file": "le-ap-434-sert-selfexplanation-2004.yaml",
+    "title": "SERT: Self-Explanation Reading Training",
+    "venue": "Discourse Processes",
+    "year": 2004,
+    "cites": 508,
+    "concepts_hint": "Published in Discourse Processes; addresses reading comprehension, comprehension, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit"
+  },
+  {
+    "id": "LE-AP-436",
+    "file": "le-ap-436-impact-guidance-2013.yaml",
+    "title": "The impact of guidance during problem-solving prior to instruction on students\u2019 inventions and learning outcomes",
+    "venue": "Instructional Science",
+    "year": 2013,
+    "cites": 136,
+    "concepts_hint": "Published in Instructional Science; addresses educational psychology, discovery learning, analogy. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering To"
+  },
+  {
+    "id": "LE-AP-437",
+    "file": "le-ap-437-chapter-computers-1992.yaml",
+    "title": "Chapter 5: Computers and Education: A Cultural Constructivist Perspective",
+    "venue": "Review of Research in Education",
+    "year": 1992,
+    "cites": 36,
+    "concepts_hint": "Published in Review of Research in Education; addresses perspective (graphical), constructivist teaching methods, sociology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodn"
+  },
+  {
+    "id": "LE-AP-438",
+    "file": "le-ap-438-nobodys-watching-2005.yaml",
+    "title": "Nobody's watching?",
+    "venue": "Evolution and Human Behavior",
+    "year": 2005,
+    "cites": 1061,
+    "concepts_hint": "Published in Evolution and Human Behavior; addresses prosocial behavior, generosity, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Tool"
+  },
+  {
+    "id": "LE-AP-440",
+    "file": "le-ap-440-handbook-industrial-1977.yaml",
+    "title": "Handbook of Industrial and Organizational Psychology.",
+    "venue": "Administrative Science Quarterly",
+    "year": 1977,
+    "cites": 12140,
+    "concepts_hint": "Published in Administrative Science Quarterly; addresses industrial and organizational psychology, organizational behavior, organization development. Quality-filtered from OpenAlex cross-seed expansio"
+  },
+  {
+    "id": "LE-AP-442",
+    "file": "le-ap-442-mangle-practice-1995.yaml",
+    "title": "The mangle of practice : time, agency, and science",
+    "venue": "Unknown Venue",
+    "year": 1995,
+    "cites": 1616,
+    "concepts_hint": "Published in Unknown Venue; addresses agency (philosophy), context (archaeology), epistemology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolk"
+  },
+  {
+    "id": "LE-AP-443",
+    "file": "le-ap-443-combining-labeled-1998.yaml",
+    "title": "Combining labeled and unlabeled data with co-training",
+    "venue": "Unknown Venue",
+    "year": 1998,
+    "cites": 5585,
+    "concepts_hint": "Published in Unknown Venue; addresses citation, eleventh, computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors p"
+  },
+  {
+    "id": "LE-AP-444",
+    "file": "le-ap-444-perceptions-social-2009.yaml",
+    "title": "Perceptions of social dangers, moral foundations, and political orientation",
+    "venue": "Personality and Individual Differences",
+    "year": 2009,
+    "cites": 277,
+    "concepts_hint": "Published in Personality and Individual Differences; addresses conservatism, biology and political orientation, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodne"
+  },
+  {
+    "id": "LE-AP-445",
+    "file": "le-ap-445-situation-respect-1970.yaml",
+    "title": "The situation with respect to the spacing of repetitions and memory",
+    "venue": "Journal of Verbal Learning and Verbal Behavior",
+    "year": 1970,
+    "cites": 525,
+    "concepts_hint": "Published in Journal of Verbal Learning and Verbal Behavior; addresses free recall, recall, cognitive psychology. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learnin"
+  },
+  {
+    "id": "LE-AP-446",
+    "file": "le-ap-446-improving-educational-2003.yaml",
+    "title": "Improving Educational Research:Toward a More Useful, More Influential, and Better-Funded Enterprise",
+    "venue": "Educational Researcher",
+    "year": 2003,
+    "cites": 558,
+    "concepts_hint": "Published in Educational Researcher; addresses educational research, engineering ethics, focus (optics). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineer"
+  },
+  {
+    "id": "LE-AP-447",
+    "file": "le-ap-447-using-worked-1994.yaml",
+    "title": "Using worked examples as an instructional support in the algebra classroom.",
+    "venue": "Journal of Educational Psychology",
+    "year": 1994,
+    "cites": 204,
+    "concepts_hint": "Published in Journal of Educational Psychology; addresses psychology, mathematics education, algebra over a field. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learnin"
+  },
+  {
+    "id": "LE-AP-448",
+    "file": "le-ap-448-design-research-2004.yaml",
+    "title": "Design Research in Education: Yes, but is it Methodological?",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2004,
+    "cites": 310,
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses sympathy, conventionalism, variety (cybernetics). Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning Engin"
+  },
+  {
+    "id": "LE-AP-449",
+    "file": "le-ap-449-teaching-testor-2014.yaml",
+    "title": "Teaching to the Test\u2026or Testing to Teach: Exams Requiring Higher Order Thinking Skills Encourage Greater Conceptual Understanding",
+    "venue": "Educational Psychology Review",
+    "year": 2014,
+    "cites": 307,
+    "concepts_hint": "Published in Educational Psychology Review; addresses bloom's taxonomy, mathematics education, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engine"
+  },
+  {
+    "id": "LE-AP-450",
+    "file": "le-ap-450-toward-theory-1990.yaml",
+    "title": "Toward a theory of the universal content and structure of values: Extensions and cross-cultural replications.",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": 1990,
+    "cites": 2202,
+    "concepts_hint": "Published in Journal of Personality and Social Psychology; addresses psychology, social psychology, content (measure theory). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolod"
+  },
+  {
+    "id": "LE-AP-451",
+    "file": "le-ap-451-worked-examples-2009.yaml",
+    "title": "Worked Examples and Tutored Problem Solving: Redundant or Synergistic Forms of Support?",
+    "venue": "Topics in Cognitive Science",
+    "year": 2009,
+    "cites": 68,
+    "concepts_hint": "Published in Topics in Cognitive Science; addresses computer science, psychology, cognitive science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering "
+  },
+  {
+    "id": "LE-AP-452",
+    "file": "le-ap-452-modeling-shortest-1978.yaml",
+    "title": "Modeling by shortest data description",
+    "venue": "Automatica",
+    "year": 1978,
+    "cites": 5977,
+    "concepts_hint": "Published in Automatica; addresses computer science, mathematics. Quality- filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending Op"
+  },
+  {
+    "id": "LE-AP-453",
+    "file": "le-ap-453-development-social-1985.yaml",
+    "title": "The Development of Social Knowledge. Morality and Convention",
+    "venue": "British Journal of Educational Studies",
+    "year": 1985,
+    "cites": 2689,
+    "concepts_hint": "Published in British Journal of Educational Studies; addresses morality, convention, sociology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolk"
+  },
+  {
+    "id": "LE-AP-454",
+    "file": "le-ap-454-jerusalem-jericho-1973.yaml",
+    "title": "'From Jerusalem to Jericho': A study of situational and dispositional variables in helping behavior.",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": 1973,
+    "cites": 1661,
+    "concepts_hint": "Published in Journal of Personality and Social Psychology; addresses psychology, situational ethics, helping behavior. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Lea"
+  },
+  {
+    "id": "LE-AP-455",
+    "file": "le-ap-455-effects-massed-1981.yaml",
+    "title": "Effects of Massed and Distributed Practice on the Learning and Retention of Second-Language Vocabulary",
+    "venue": "The Journal of Educational Research",
+    "year": 1981,
+    "cites": 242,
+    "concepts_hint": "Published in The Journal of Educational Research; addresses vocabulary, psychology, test (biology). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering T"
+  },
+  {
+    "id": "LE-AP-456",
+    "file": "le-ap-456-optimizing-learning-1972.yaml",
+    "title": "Optimizing the learning of a second-language vocabulary.",
+    "venue": "Journal of Experimental Psychology",
+    "year": 1972,
+    "cites": 207,
+    "concepts_hint": "Published in Journal of Experimental Psychology; addresses psychology, vocabulary, linguistics. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolk"
+  },
+  {
+    "id": "LE-AP-457",
+    "file": "le-ap-457-computers-education-1992.yaml",
+    "title": "Computers and Education: A Cultural Constructivist Perspective",
+    "venue": "Review of Research in Education",
+    "year": 1992,
+    "cites": 82,
+    "concepts_hint": "Published in Review of Research in Education; addresses perspective (graphical), constructivist teaching methods, mathematics education. Quality- filtered from OpenAlex cross-seed expansion of the Goo"
+  },
+  {
+    "id": "LE-AP-458",
+    "file": "le-ap-458-understanding-describing-2008.yaml",
+    "title": "Understanding and describing mathematical knowledge for teaching: knowledge about proof for engaging students in the activity of proving",
+    "venue": "Journal of Mathematics Teacher Education",
+    "year": 2008,
+    "cites": 163,
+    "concepts_hint": "Published in Journal of Mathematics Teacher Education; addresses usable, task (project management), computer science. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Lea"
+  },
+  {
+    "id": "LE-AP-460",
+    "file": "le-ap-460-neurobiology-adaptive-2004.yaml",
+    "title": "The neurobiology of adaptive learning in reading: A contrast of different training conditions",
+    "venue": "Cognitive Affective & Behavioral Neuroscience",
+    "year": 2004,
+    "cites": 136,
+    "concepts_hint": "Published in Cognitive Affective & Behavioral Neuroscience; addresses facilitation, contrast (vision), psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learnin"
+  },
+  {
+    "id": "LE-AP-461",
+    "file": "le-ap-461-beyond-two-1975.yaml",
+    "title": "Beyond the two disciplines of scientific psychology.",
+    "venue": "American Psychologist",
+    "year": 1975,
+    "cites": 2099,
+    "concepts_hint": "Published in American Psychologist; addresses psychology, scientific communication, applied psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineeri"
+  },
+  {
+    "id": "LE-AP-462",
+    "file": "le-ap-462-evolution-cooperation-1981.yaml",
+    "title": "The Evolution of Cooperation",
+    "venue": "Science",
+    "year": 1981,
+    "cites": 20184,
+    "concepts_hint": "Published in Science; addresses reciprocity (cultural anthropology), dilemma, territoriality. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit"
+  },
+  {
+    "id": "LE-AP-464",
+    "file": "le-ap-464-interaction-analysis-1995.yaml",
+    "title": "Interaction Analysis: Foundations and Practice",
+    "venue": "Journal of the Learning Sciences",
+    "year": 1995,
+    "cites": 2620,
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses sociology, epistemology, philosophy. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit"
+  },
+  {
+    "id": "LE-AP-466",
+    "file": "le-ap-466-origin-evolution-2008.yaml",
+    "title": "The Origin and Evolution of Religious Prosociality",
+    "venue": "Science",
+    "year": 2008,
+    "cites": 860,
+    "concepts_hint": "Published in Science; addresses religiosity, prosocial behavior, social psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. A"
+  },
+  {
+    "id": "LE-AP-468",
+    "file": "le-ap-468-cognitive-scientists-2009.yaml",
+    "title": "Cognitive Scientists Prefer Theories and Testable Principles With Teeth",
+    "venue": "Educational Psychologist",
+    "year": 2009,
+    "cites": 10,
+    "concepts_hint": "Published in Educational Psychologist; addresses perspective (graphical), scope (computer science), cognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning En"
+  },
+  {
+    "id": "LE-AP-469",
+    "file": "le-ap-469-cutoff-criteria-1999.yaml",
+    "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives",
+    "venue": "Structural Equation Modeling A Multidisciplinary Journal",
+    "year": 1999,
+    "cites": 103210,
+    "concepts_hint": "Published in Structural Equation Modeling A Multidisciplinary Journal; addresses cutoff, statistics, mathematics. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning"
+  },
+  {
+    "id": "LE-AP-470",
+    "file": "le-ap-470-better-frustrated-2009.yaml",
+    "title": "Better to be frustrated than bored: The incidence, persistence, and impact of learners\u2019 cognitive\u2013affective states during interactions with three different computer-based learning environments",
+    "venue": "International Journal of Human-Computer Studies",
+    "year": 2009,
+    "cites": 909,
+    "concepts_hint": "Published in International Journal of Human-Computer Studies; addresses boredom, surprise, persistence (discontinuity). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Le"
+  },
+  {
+    "id": "LE-AP-471",
+    "file": "le-ap-471-helping-students-2006.yaml",
+    "title": "Helping Students Understand Challenging Topics in Science Through Ontology Training",
+    "venue": "Cognition and Instruction",
+    "year": 2006,
+    "cites": 282,
+    "concepts_hint": "Published in Cognition and Instruction; addresses ontology, conceptual change, science education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-472",
+    "file": "le-ap-472-toward-instance-1988.yaml",
+    "title": "Toward an instance theory of automatization.",
+    "venue": "Psychological Review",
+    "year": 1988,
+    "cites": 3390,
+    "concepts_hint": "Published in Psychological Review; addresses psychology, computer science, cognitive psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Tool"
+  },
+  {
+    "id": "LE-AP-473",
+    "file": "le-ap-473-mining-students-2008.yaml",
+    "title": "Mining students\u2019 behavior in web-based learning programs",
+    "venue": "Expert Systems with Applications",
+    "year": 2008,
+    "cites": 44,
+    "concepts_hint": "Published in Expert Systems with Applications; addresses computer science, cognitive style, field (mathematics). Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning"
+  },
+  {
+    "id": "LE-AP-474",
+    "file": "le-ap-474-sociocultural-approaches-1996.yaml",
+    "title": "Sociocultural approaches to learning and development: A Vygotskian framework",
+    "venue": "Educational Psychologist",
+    "year": 1996,
+    "cites": 1098,
+    "concepts_hint": "Published in Educational Psychologist; addresses sociocultural evolution, psychology, semiotics. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Tool"
+  },
+  {
+    "id": "LE-AP-476",
+    "file": "le-ap-476-teachers-machines-1986.yaml",
+    "title": "Teachers and Machines: The Classroom Use of Technology since 1920",
+    "venue": "History of Education Quarterly",
+    "year": 1986,
+    "cites": 1708,
+    "concepts_hint": "Published in History of Education Quarterly; addresses mathematics education, sociology, pedagogy. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering To"
+  },
+  {
+    "id": "LE-AP-478",
+    "file": "le-ap-478-personal-religious-1967.yaml",
+    "title": "Personal religious orientation and prejudice.",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": 1967,
+    "cites": 4090,
+    "concepts_hint": "Published in Journal of Personality and Social Psychology; addresses psychology, prejudice (legal term), social psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodne"
+  },
+  {
+    "id": "LE-AP-479",
+    "file": "le-ap-479-design-research-2005.yaml",
+    "title": "Design research: A socially responsible approach to instructional technology research in higher education",
+    "venue": "Journal of Computing in Higher Education",
+    "year": 2005,
+    "cites": 464,
+    "concepts_hint": "Published in Journal of Computing in Higher Education; addresses relevance (law), incentive, argument (complex analysis). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner "
+  },
+  {
+    "id": "LE-AP-480",
+    "file": "le-ap-480-designing-social-2006.yaml",
+    "title": "Designing Social Infrastructure: Critical Issues in Creating Learning Environments With Technology",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2006,
+    "cites": 233,
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses cyberspace, dimension (graph theory), process (computing). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learni"
+  },
+  {
+    "id": "LE-AP-482",
+    "file": "le-ap-482-culture-wars-1997.yaml",
+    "title": "Culture wars: American moral divisions across the adult lifespan",
+    "venue": "Journal of Adult Development",
+    "year": 1997,
+    "cites": 67,
+    "concepts_hint": "Published in Journal of Adult Development; addresses morality, divinity, autonomy. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Au"
+  },
+  {
+    "id": "LE-AP-483",
+    "file": "le-ap-483-development-explanation-1991.yaml",
+    "title": "Development of explanation: Incremental and fundamental change in children's physics knowledge",
+    "venue": "Journal of Research in Science Teaching",
+    "year": 1991,
+    "cites": 86,
+    "concepts_hint": "Published in Journal of Research in Science Teaching; addresses causality (physics), context (archaeology), phenomenon. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Le"
+  },
+  {
+    "id": "LE-AP-484",
+    "file": "le-ap-484-understanding-complex-2006.yaml",
+    "title": "Understanding Complex Systems: Some Core Challenges",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2006,
+    "cites": 334,
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses core (optical fiber), computer science, telecommunications. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Lear"
+  },
+  {
+    "id": "LE-AP-485",
+    "file": "le-ap-485-text-generation-1980.yaml",
+    "title": "Text generation and recall by high-knowledge and low-knowledge individuals",
+    "venue": "Journal of Verbal Learning and Verbal Behavior",
+    "year": 1980,
+    "cites": 221,
+    "concepts_hint": "Published in Journal of Verbal Learning and Verbal Behavior; addresses recall, comprehension, text generation. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning En"
+  },
+  {
+    "id": "LE-AP-486",
+    "file": "le-ap-486-improvements-elementary-2012.yaml",
+    "title": "Improvements to elementary children's epistemic understanding from sustained argumentation",
+    "venue": "Science Education",
+    "year": 2012,
+    "cites": 286,
+    "concepts_hint": "Published in Science Education; addresses argumentation theory, articulation (sociology), epistemology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineeri"
+  },
+  {
+    "id": "LE-AP-487",
+    "file": "le-ap-487-learning-workedout-1997.yaml",
+    "title": "Learning from Worked\u2010Out Examples: A Study on Individual Differences",
+    "venue": "Cognitive Science",
+    "year": 1997,
+    "cites": 655,
+    "concepts_hint": "Published in Cognitive Science; addresses explication, psychology, task (project management). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit"
+  },
+  {
+    "id": "LE-AP-489",
+    "file": "le-ap-489-context-theory-1978.yaml",
+    "title": "Context theory of classification learning.",
+    "venue": "Psychological Review",
+    "year": 1978,
+    "cites": 2985,
+    "concepts_hint": "Published in Psychological Review; addresses context (archaeology), psychology, artificial intelligence. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineer"
+  },
+  {
+    "id": "LE-AP-490",
+    "file": "le-ap-490-generative-processes-1989.yaml",
+    "title": "Generative Processes of Comprehension",
+    "venue": "Educational Psychologist",
+    "year": 1989,
+    "cites": 921,
+    "concepts_hint": "Published in Educational Psychologist; addresses comprehension, generative grammar, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolk"
+  },
+  {
+    "id": "LE-AP-491",
+    "file": "le-ap-491-scaffolding-deep-2005.yaml",
+    "title": "Scaffolding Deep Comprehension Strategies Through Point&amp;Query, AutoTutor, and iSTART",
+    "venue": "Educational Psychologist",
+    "year": 2005,
+    "cites": 279,
+    "concepts_hint": "Published in Educational Psychologist; addresses metacognition, reading comprehension, comprehension. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering"
+  },
+  {
+    "id": "LE-AP-492",
+    "file": "le-ap-492-evolution-prestige-2001.yaml",
+    "title": "The evolution of prestige: freely conferred deference as a mechanism for enhancing the benefits of cultural transmission",
+    "venue": "Evolution and Human Behavior",
+    "year": 2001,
+    "cites": 2451,
+    "concepts_hint": "Published in Evolution and Human Behavior; addresses deference, prestige, copying. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Au"
+  },
+  {
+    "id": "LE-AP-493",
+    "file": "le-ap-493-why-learn-1988.yaml",
+    "title": "Why and How to Learn Why: Analysis\u2010based Generalization of Procedures",
+    "venue": "Cognitive Science",
+    "year": 1988,
+    "cites": 100,
+    "concepts_hint": "Published in Cognitive Science; addresses generalization, heuristics, computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpu"
+  },
+  {
+    "id": "LE-AP-494",
+    "file": "le-ap-494-camera-computational-1997.yaml",
+    "title": "CaMeRa: A Computational Model of Multiple Representations",
+    "venue": "Cognitive Science",
+    "year": 1997,
+    "cites": 135,
+    "concepts_hint": "Published in Cognitive Science; addresses computer science, computational model, artificial intelligence. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Enginee"
+  },
+  {
+    "id": "LE-AP-495",
+    "file": "le-ap-495-adaptive-character-1991.yaml",
+    "title": "The Adaptive Character of Thought",
+    "venue": "The American Journal of Psychology",
+    "year": 1991,
+    "cites": 2240,
+    "concepts_hint": "Published in The American Journal of Psychology; addresses psychology, character (mathematics), cognitive psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Lear"
+  },
+  {
+    "id": "LE-AP-496",
+    "file": "le-ap-496-experimental-quasiexperimental-1963.yaml",
+    "title": "Experimental and Quasi-Experimental Designs for Research",
+    "venue": "Medical Entomology and Zoology",
+    "year": 1963,
+    "cites": 15244,
+    "concepts_hint": "Published in Medical Entomology and Zoology; addresses computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pend"
+  },
+  {
+    "id": "LE-AP-497",
+    "file": "le-ap-497-mapping-moral-2011.yaml",
+    "title": "Mapping the moral domain.",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": 2011,
+    "cites": 2548,
+    "concepts_hint": "Published in Journal of Personality and Social Psychology; addresses psychology, social psychology, morality. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning En"
+  },
+  {
+    "id": "LE-AP-498",
+    "file": "le-ap-498-gain-eleven-2009.yaml",
+    "title": "How to Gain Eleven IQ Points in Ten Minutes: Thinking Aloud Improves Raven's Matrices Performance in Older Adults",
+    "venue": "Aging Neuropsychology and Cognition",
+    "year": 2009,
+    "cites": 59,
+    "concepts_hint": "Published in Aging Neuropsychology and Cognition; addresses raven's progressive matrices, think aloud protocol, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodne"
+  },
+  {
+    "id": "LE-AP-499",
+    "file": "le-ap-499-building-recommender-2003.yaml",
+    "title": "Building a recommender agent for e-learning systems",
+    "venue": "Unknown Venue",
+    "year": 2003,
+    "cites": 388,
+    "concepts_hint": "Published in Unknown Venue; addresses recommender system, computer science, world wide web. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit c"
+  },
+  {
+    "id": "LE-AP-500",
+    "file": "le-ap-500-opinion-mining-2007.yaml",
+    "title": "Opinion Mining in e-Learning System",
+    "venue": "2007 IFIP International Conference on Network and Parallel Computing Workshops (NPC 2007)",
+    "year": 2007,
+    "cites": 45,
+    "concepts_hint": "Published in 2007 IFIP International Conference on Network and Parallel Computing Workshops (NPC 2007); addresses sentiment analysis, computer science, conditional random field. Quality-filtered from "
+  },
+  {
+    "id": "LE-AP-501",
+    "file": "le-ap-501-cues-being-2006.yaml",
+    "title": "Cues of being watched enhance cooperation in a real-world setting",
+    "venue": "Biology Letters",
+    "year": 2006,
+    "cites": 1296,
+    "concepts_hint": "Published in Biology Letters; addresses honesty, biology, control (management). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Autho"
+  },
+  {
+    "id": "LE-AP-502",
+    "file": "le-ap-502-expertise-models-1999.yaml",
+    "title": "Expertise, models of learning and computer-based tutoring",
+    "venue": "Computers & Education",
+    "year": 1999,
+    "cites": 34,
+    "concepts_hint": "Published in Computers & Education; addresses computer science, relation (database), process (computing). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Enginee"
+  },
+  {
+    "id": "LE-AP-504",
+    "file": "le-ap-504-affect-culture-1993.yaml",
+    "title": "Affect, culture, and morality, or is it wrong to eat your dog?",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": 1993,
+    "cites": 1124,
+    "concepts_hint": "Published in Journal of Personality and Social Psychology; addresses psychology, social psychology, morality. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning En"
+  },
+  {
+    "id": "LE-AP-505",
+    "file": "le-ap-505-examaday-procedure-2002.yaml",
+    "title": "The Exam-A-Day Procedure Improves Performance in Psychology Classes",
+    "venue": "Teaching of Psychology",
+    "year": 2002,
+    "cites": 232,
+    "concepts_hint": "Published in Teaching of Psychology; addresses psychology, class (philosophy), mathematics education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering"
+  },
+  {
+    "id": "LE-AP-506",
+    "file": "le-ap-506-critical-role-2010.yaml",
+    "title": "The critical role of retrieval practice in long-term retention",
+    "venue": "Trends in Cognitive Sciences",
+    "year": 2010,
+    "cites": 1718,
+    "concepts_hint": "Published in Trends in Cognitive Sciences; addresses mnemonic, psychology, term (time). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpu"
+  },
+  {
+    "id": "LE-AP-507",
+    "file": "le-ap-507-essential-elements-2008.yaml",
+    "title": "The essential elements of team\u2010based learning",
+    "venue": "New Directions for Teaching and Learning",
+    "year": 2008,
+    "cites": 779,
+    "concepts_hint": "Published in New Directions for Teaching and Learning; addresses team-based learning, mathematics education, knowledge management. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & "
+  },
+  {
+    "id": "LE-AP-508",
+    "file": "le-ap-508-conditions-learning-1985.yaml",
+    "title": "The Conditions of Learning and Theory of Instruction",
+    "venue": "Unknown Venue",
+    "year": 1985,
+    "cites": 1612,
+    "concepts_hint": "Published in Unknown Venue; addresses mathematics education, computer science, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit co"
+  },
+  {
+    "id": "LE-AP-511",
+    "file": "le-ap-511-toward-theory-1966.yaml",
+    "title": "Toward a Theory of Instruction",
+    "venue": "Unknown Venue",
+    "year": 1966,
+    "cites": 3944,
+    "concepts_hint": "Published in Unknown Venue; addresses instrumentalism, theme (computing), context (archaeology). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Tool"
+  },
+  {
+    "id": "LE-AP-512",
+    "file": "le-ap-512-when-often-2008.yaml",
+    "title": "When and how often should worked examples be given to students? New results and a summary of the current state of research",
+    "venue": "Unknown Venue",
+    "year": 2008,
+    "cites": 106,
+    "concepts_hint": "Published in Unknown Venue; addresses dilemma, dimension (graph theory), conjunction (astronomy). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-513",
+    "file": "le-ap-513-chunking-models-2005.yaml",
+    "title": "Chunking models of expertise: implications for education",
+    "venue": "Applied Cognitive Psychology",
+    "year": 2005,
+    "cites": 187,
+    "concepts_hint": "Published in Applied Cognitive Psychology; addresses chunking (psychology), perception, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering T"
+  },
+  {
+    "id": "LE-AP-514",
+    "file": "le-ap-514-intuitive-ethics-2004.yaml",
+    "title": "Intuitive ethics: how innately prepared intuitions generate culturally variable virtues",
+    "venue": "Daedalus",
+    "year": 2004,
+    "cites": 1924,
+    "concepts_hint": "Published in Daedalus; addresses epistemology, psychology, philosophy. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pendin"
+  },
+  {
+    "id": "LE-AP-515",
+    "file": "le-ap-515-folk-psychology-2006.yaml",
+    "title": "The folk psychology of souls",
+    "venue": "Behavioral and Brain Sciences",
+    "year": 2006,
+    "cites": 448,
+    "concepts_hint": "Published in Behavioral and Brain Sciences; addresses psychology, epistemology, afterlife. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit co"
+  },
+  {
+    "id": "LE-AP-516",
+    "file": "le-ap-516-predicting-dative-2007.yaml",
+    "title": "Predicting the dative alternation",
+    "venue": "Max Planck Digital Library",
+    "year": 2007,
+    "cites": 492,
+    "concepts_hint": "Published in Max Planck Digital Library; addresses grammaticality, alternation (linguistics), grammar. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineerin"
+  },
+  {
+    "id": "LE-AP-517",
+    "file": "le-ap-517-teaching-discrimination-2002.yaml",
+    "title": "Teaching the /r/\u2013/l/ discrimination to Japanese adults: behavioral and neural aspects",
+    "venue": "Physiology & Behavior",
+    "year": 2002,
+    "cites": 127,
+    "concepts_hint": "Published in Physiology & Behavior; addresses psychology, contrast (vision), neuroimaging. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit co"
+  },
+  {
+    "id": "LE-AP-518",
+    "file": "le-ap-518-solution-mysteries-2012.yaml",
+    "title": "A solution to the mysteries of morality.",
+    "venue": "Psychological Bulletin",
+    "year": 2012,
+    "cites": 294,
+    "concepts_hint": "Published in Psychological Bulletin; addresses variety (cybernetics), exploit, social psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-519",
+    "file": "le-ap-519-liberals-conservatives-2009.yaml",
+    "title": "Liberals and conservatives rely on different sets of moral foundations.",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": 2009,
+    "cites": 4518,
+    "concepts_hint": "Published in Journal of Personality and Social Psychology; addresses psychology, harm, loyalty. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolk"
+  },
+  {
+    "id": "LE-AP-521",
+    "file": "le-ap-521-knowing-essays-1963.yaml",
+    "title": "On Knowing: Essays for the Left Hand",
+    "venue": "British Journal of Educational Studies",
+    "year": 1963,
+    "cites": 759,
+    "concepts_hint": "Published in British Journal of Educational Studies; addresses new left, epistemology, sociology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-522",
+    "file": "le-ap-522-hidden-markov-2005.yaml",
+    "title": "Hidden Markov Model Based Characterization of Content Access Patterns in an e-Learning Environment",
+    "venue": "Unknown Venue",
+    "year": 2005,
+    "cites": 17,
+    "concepts_hint": "Published in Unknown Venue; addresses computer science, profiling (computer programming), personalized learning. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning "
+  },
+  {
+    "id": "LE-AP-524",
+    "file": "le-ap-524-principles-religious-2010.yaml",
+    "title": "Principles of Religious Prosociality: A Review and Reformulation",
+    "venue": "Social and Personality Psychology Compass",
+    "year": 2010,
+    "cites": 188,
+    "concepts_hint": "Published in Social and Personality Psychology Compass; addresses psychology, social psychology, psychoanalysis. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning "
+  },
+  {
+    "id": "LE-AP-525",
+    "file": "le-ap-525-help-seeking-2003.yaml",
+    "title": "Help Seeking and Help Design in Interactive Learning Environments",
+    "venue": "Review of Educational Research",
+    "year": 2003,
+    "cites": 576,
+    "concepts_hint": "Published in Review of Educational Research; addresses psychology, metacognition, cognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit "
+  }
+]

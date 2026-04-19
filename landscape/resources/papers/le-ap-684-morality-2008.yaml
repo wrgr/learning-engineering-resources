@@ -1,19 +1,20 @@
 resource_id: LE-AP-684
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Morality"
+status: non_le
+title: Morality
 authors: []
 year: 2008
 venue: Perspectives on Psychological Science
-doi: "10.1111/j.1745-6916.2008.00063.x"
+doi: 10.1111/j.1745-6916.2008.00063.x
 tier: contemporary
 citation_count_approx: 505
 cross_seed_score: 2
-openalex_id: "W4248863879"
-significance: >
-  Published in Perspectives on Psychological Science; addresses morality, moral
-  psychology, moral reasoning. Quality-filtered from OpenAlex cross-seed
-  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+openalex_id: W4248863879
+significance: 'Published in Perspectives on Psychological Science; addresses morality, moral psychology, moral reasoning.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
   Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

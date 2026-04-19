@@ -1,0 +1,35 @@
+resource_id: LE-PP-290
+content_type: PP
+source: curated
+status: APPROVED
+name: Olga C. Santos
+affiliation: UNED (Universidad Nacional de Educación a Distancia), Spain
+era: contemporary
+role: AIED 2023/2024/2025 General Chair; user modeling and adaptive learning
+description: 'Associate Professor at UNED. General Chair or Co-Chair for AIED three years running (2023, 2024, 2025)
+  — the most continuous GC role in the recent AIED era. Research on user modeling, intelligent tutoring systems,
+  and AI-driven personalized/adaptive learning.
+
+  '
+key_contributions:
+- General Chair or Co-Chair, AIED 2023, 2024, AND 2025 — three consecutive editions
+- Long-term leader of the IAIED community; continuity across changing local hosts
+- Research on user modeling for personalized AI-based learning systems
+- Anchors Spanish UNED's contribution to European AIED research
+primary_topic: T06
+secondary_topics:
+- T07
+- T04
+url: https://portalcientifico.uned.es/investigadores/181587/detalle
+notes: AIED 2023-2025 GC (3 consecutive years). User modeling for adaptive learning.
+key_works:
+- User‐centred design and educational data mining support during the recommendations elicitation process in social
+  online learning environments (Expert Systems, 2013)
+- Physical learning analytics (2018)
+- An open IMS-based user modelling approach for developing adaptive learning management systems (Journal of Interactive
+  Media in Education, 2007)
+- Integration of Educational Specifications and Standards to Support Adaptive Learning Scenarios in ADAPTAPlan (International
+  journal of computer science and applications, 2008)
+- Developing adaptive learning management systems - An open IMS-based user modelling approach (Journal of Interactive
+  Media in Education, 2007)
+openalex_id: https://openalex.org/A5024739711

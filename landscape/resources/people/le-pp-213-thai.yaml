@@ -1,0 +1,23 @@
+resource_id: LE-PP-213
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Khanh-Phuong Thai
+affiliation: Age of Learning
+era: contemporary
+role: Learning engineer and cognitive scientist; VP Learning Science, Age of Learning.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning engineer and cognitive
+  scientist; VP Learning Science, Age of Learning.
+key_works:
+- 'Habits and beliefs that guide self-regulated learning: Do they vary with mindset? (Journal of Applied Research
+  in Memory and Cognition, 2014)'
+- Performance Comparison of an AI-Based Adaptive Learning System in China (2018)
+- 'Accelerating Early Math Learning with Research-Based Personalized Learning Games: A Cluster Randomized Controlled
+  Trial (Journal of Research on Educational Effectiveness, 2021)'
+- A Learning Engineering Model for Learner-Centered Adaptive Systems (Lecture notes in computer science, 2020)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5089774530
+openalex_id: https://openalex.org/A5089774530
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5089774530; verify on review. Cleaned dup/non-LE entries during audit.

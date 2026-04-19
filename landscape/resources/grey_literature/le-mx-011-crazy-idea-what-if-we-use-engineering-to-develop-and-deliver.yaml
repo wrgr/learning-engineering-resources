@@ -1,0 +1,18 @@
+resource_id: LE-MX-011
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: 'Crazy Idea: What If We Use Engineering to Develop and Deliver Engineering Education?'
+authors:
+- Abul Azad
+- Jim Goodell
+publisher: IFEES / GEDC / IUCEE
+url: https://sagroups.ieee.org/icicle/invitation-to-learning-engineering-webinar-series/
+type: webinar
+primary_topic: T10
+secondary_topics:
+- T16
+significance: 'Goodell in conversation with Azad (IFEES) on the provocative inverse of our normal framing:
+  if LE is how we rigorously teach people to engineer, why don''t we use LE to teach engineering itself?
+  A 2025 entry worth watching for the international-engineering-education perspective.'
+year: 2025

@@ -1,0 +1,17 @@
+resource_id: LE-MX-018
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: Learning Engineering in the Age of AI — Kumar Garg
+authors:
+- Kumar Garg
+publisher: Empowering Learners for the Age of AI Conference
+url: https://www.youtube.com/watch?v=HCDis6ELscA
+type: keynote
+primary_topic: T07
+secondary_topics:
+- T15
+significance: 'Garg (Walton-funded LE efforts; formerly OSTP) frames AI-and-LE as an evidence and infrastructure
+  problem, not a pedagogical one. The pitch: the field needs many more studies, faster, to match AI''s
+  pace — and LE is the discipline set up to do that.'
+year: 2022

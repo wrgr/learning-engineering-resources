@@ -1,0 +1,25 @@
+resource_id: LE-AP-912
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'The critical role of trust in adopting AI-powered educational technology for learning: An instrument for
+  measuring student perceptions'
+authors:
+- Tanya Nazaretsky
+- Paola Mejia‐Domenzain
+- Vinitra Swamy
+- Jibril Frej
+- Tanja Käser
+year: 2025
+venue: Computers and Education Artificial Intelligence
+doi: 10.1016/j.caeai.2025.100368
+tier: contemporary
+citation_count_approx: 50
+cross_seed_score: 1
+openalex_id: W4406564110
+significance: Published in Computers and Education Artificial Intelligence. LE-filtered expansion seeded from conference-chair
+  authorship (Tanja Käser). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T04
+- T07

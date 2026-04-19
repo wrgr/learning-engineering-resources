@@ -1,0 +1,31 @@
+resource_id: LE-PP-280
+content_type: PP
+source: curated
+status: APPROVED
+name: Benjamin Paaßen
+affiliation: Bielefeld University, Germany
+era: contemporary
+role: EDM 2024 Program Chair; ML for knowledge tracing and structured educational data
+description: 'Assistant Professor at Bielefeld University. Program Chair for EDM 2024 (Atlanta). Research on machine
+  learning for education, structured-data representation, and knowledge tracing.
+
+  '
+key_contributions:
+- Program Chair, EDM 2024 (Atlanta, USA)
+- Develops ML methods for structured educational data (sequences, trees, graphs)
+- Research on deep knowledge tracing and interpretable student modeling
+primary_topic: T04
+secondary_topics:
+- T06
+- T07
+url: https://bpaassen.gitlab.io/
+notes: EDM 2024 PC. ML for structured educational data. Knowledge tracing.
+key_works:
+- Domain-Independent Proximity Measures in Intelligent Tutoring Systems (PUB – Publications at Bielefeld University
+  (Bielefeld University), 2013)
+- Adaptive structure metrics for automated feedback provision in intelligent tutoring systems (Neurocomputing, 2016)
+- Execution Traces as a Powerful Data Representation for Intelligent Tutoring Systems for Programming (PUB – Publications
+  at Bielefeld University (Bielefeld University), 2016)
+- A Toolbox for Adaptive Sequence Dissimilarity Measures for Intelligent Tutoring Systems (PUB – Publications at
+  Bielefeld University (Bielefeld University), 2015)
+openalex_id: https://openalex.org/A5057832550

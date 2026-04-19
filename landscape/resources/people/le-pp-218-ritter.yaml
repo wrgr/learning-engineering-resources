@@ -1,0 +1,23 @@
+resource_id: LE-PP-218
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Steve Ritter
+affiliation: Carnegie Museum of Natural History
+era: contemporary
+role: Chief Scientist, Carnegie Learning; intelligent tutoring systems researcher.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Chief Scientist, Carnegie Learning;
+  intelligent tutoring systems researcher.
+key_works:
+- Reducing the Knowledge Tracing Space (Educational Data Mining, 2009)
+- Optimal and Worst-Case Performance of Mastery Learning Assessment with Bayesian Knowledge Tracing (Educational
+  Data Mining, 2013)
+- 'MATHia X: The Next Generation Cognitive Tutor (Educational Data Mining, 2016)'
+- 'Cognitive Tutor: Applied research in mathematics education (Psychonomic Bulletin & Review, 2007)'
+- An experimental study of the effects of Cognitive Tutor® Algebra I on student knowledge and attitude (2002)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5015399425
+openalex_id: https://openalex.org/A5015399425
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5015399425; verify on review.

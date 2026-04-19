@@ -1,0 +1,17 @@
+resource_id: LE-IC-033
+content_type: GL
+source: icicle
+status: APPROVED
+title: Data Use Throughout the Learning Engineering Process (ICICLE graphic)
+authors:
+- IEEE ICICLE
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T04
+secondary_topics:
+- T03
+- T15
+significance: Infographic and supporting documentation mapping how different types of data — formative,
+  summative, behavioral, survey — are collected and used at each stage of the LE process.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

@@ -1,0 +1,12 @@
+resource_id: LE-JO-009
+content_type: JO
+source: landscape_backfill
+status: APPROVED
+name: 'Human Factors: The Journal of the Human Factors and Ergonomics Society'
+type: journal
+affiliation_or_venue: Sage
+url: ''
+primary_topic: T09
+secondary_topics:
+- T02
+description: Adjacent-field journal carried forward from landscape curation; enrichment pending.

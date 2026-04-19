@@ -1,0 +1,22 @@
+resource_id: LE-AP-983
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Rules for Learner Modeling and Adaptation Provisioning in an Educational Hypermedia System
+authors:
+- Elvira Popescu
+- Costin Bădică
+- Philippe Trigano
+year: 2007
+venue: Unknown Venue
+doi: 10.1109/synasc.2007.72
+tier: contemporary
+citation_count_approx: 16
+cross_seed_score: 1
+openalex_id: W2093646172
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Elvira
+  Popescu). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T04
+- T03

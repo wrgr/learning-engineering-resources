@@ -1,0 +1,17 @@
+resource_id: LE-IC-020
+content_type: GL
+source: icicle
+status: APPROVED
+title: 'Lee (2023) — Learning Sciences & Learning Engineering: Natural or Artificial Distinction?'
+authors:
+- IEEE ICICLE
+year: 2023
+publisher: Taylor & Francis
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T00
+secondary_topics:
+- T01
+significance: Scholarly article examining the relationship between learning sciences and learning engineering.
+  Argues for integration rather than separation, tracing epistemological differences and convergences.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

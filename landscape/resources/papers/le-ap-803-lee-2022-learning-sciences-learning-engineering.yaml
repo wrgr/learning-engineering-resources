@@ -1,0 +1,16 @@
+resource_id: LE-AP-803
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning sciences and learning engineering: A natural or artificial distinction?"
+authors:
+  - Victor R. Lee
+year: 2022
+venue: "Journal of the Learning Sciences"
+doi: "10.1080/10508406.2022.2100705"
+tier: contemporary
+citation_count_approx: 13
+significance: >
+  “Learning engineering” has gained popularity as a term connected to the work of learning
+  sciences. However, the nature of that connection is not entirely clear.
+primary_topic: T00
+secondary_topics: []

@@ -1,17 +1,19 @@
 resource_id: LE-AP-631
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Proceedings of the 23rd annual conference of the cognitive science society"
+status: non_le
+title: Proceedings of the 23rd annual conference of the cognitive science society
 authors: []
 year: 2001
 venue: Unknown Venue
 tier: contemporary
 citation_count_approx: 342
 cross_seed_score: 2
-openalex_id: "W2606965029"
-significance: >
-  Published in Unknown Venue; addresses political science, computer science.
-  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
-  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+openalex_id: W2606965029
+significance: 'Published in Unknown Venue; addresses political science, computer science. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

@@ -1,0 +1,24 @@
+resource_id: LE-PP-228
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Andrew J. Hampton
+affiliation: University of Memphis
+era: contemporary
+role: Learning sciences researcher; tools for standards.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning sciences researcher;
+  tools for standards.
+key_works:
+- The Need for Personalized Learning and the Potential of Intelligent Tutoring Systems (2020)
+- 'ElectronixTutor: an intelligent tutoring system with multiple learning resources for electronics (International
+  Journal of STEM Education, 2018)'
+- Multiple Agent Designs in Conversational Intelligent Tutoring Systems (Technology Knowledge and Learning, 2019)
+- Mitigating Knowledge Decay from Instruction with Voluntary Use of an Adaptive Learning System (Lecture notes in
+  computer science, 2018)
+- Diagnostic Assessment of Adults' Reading Deficiencies in an Intelligent Tutoring System (2018)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5086531796
+openalex_id: https://openalex.org/A5086531796
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5086531796; verify on review.

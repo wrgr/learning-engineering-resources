@@ -20,6 +20,17 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, Iterable, List, Set, Tuple
 
+
+def _int_env(name: str, default: int) -> int:
+    raw = (os.getenv(name) or "").strip()
+    if not raw:
+        return default
+    try:
+        return int(raw)
+    except ValueError:
+        return default
+
+
 ROOT = Path(__file__).resolve().parents[1]
 CORPUS_DIR = ROOT / "corpus"
 DATA_DIR = ROOT / "data"
@@ -48,6 +59,10 @@ URL_FETCH_SLEEP_SEC = 0.08
 URL_FETCH_MAX_RETRIES = 4
 URL_ABSTRACT_CACHE_PATH = CORPUS_DIR / "cache" / "url_abstract_cache.json"
 URL_PDF_ABSTRACT_CACHE_PATH = CORPUS_DIR / "cache" / "url_pdf_abstract_cache.json"
+FULL_TEXT_CACHE_PATH = CORPUS_DIR / "cache" / "paper_full_text_cache.json"
+FULL_TEXT_CACHE_MAX_CHARS = _int_env("FULL_TEXT_CACHE_MAX_CHARS", 180000)
+FULL_TEXT_CACHE_MAX_PDF_PAGES = _int_env("FULL_TEXT_CACHE_MAX_PDF_PAGES", 0)
+FULL_TEXT_CACHE_MIN_CHARS = _int_env("FULL_TEXT_CACHE_MIN_CHARS", 1200)
 
 
 def load_dotenv_optional(path: Path | None = None) -> None:

@@ -1,0 +1,32 @@
+resource_id: LE-PP-281
+content_type: PP
+source: curated
+status: APPROVED
+name: Carrie Demmans Epp
+affiliation: University of Alberta, Canada
+era: contemporary
+role: EDM 2024 Program Chair; LA for language learners and second-language acquisition
+description: 'Associate Professor at the University of Alberta, where she directs the EdTeKLA (Educational Technology
+  for Knowledge and Language Acquisition) Lab. Program Chair for EDM 2024. Research on learning analytics and adaptive
+  technologies for language learners and second-language acquisition — an under-represented LE population.
+
+  '
+key_contributions:
+- Program Chair, EDM 2024 (Atlanta, USA)
+- Directs EdTeKLA Lab at Alberta; focuses LA/LE on underserved language learner populations
+- Applies mobile and adaptive technologies to support L2 learners' communicative practice
+primary_topic: T04
+secondary_topics:
+- T06
+- T14
+url: https://apps.ualberta.ca/directory/person/demmanse
+notes: EDM 2024 PC. L2 learners. EdTeKLA lab.
+key_works:
+- Evaluating the Effect of Uncertainty Visualisation in Open Learner Models on Students’ Metacognitive Skills (Lecture
+  notes in computer science, 2017)
+- 'ProTutor: Historic Open Learner Models for Pronunciation Tutoring (Lecture notes in computer science, 2011)'
+- Participating by activity or by week in MOOCs (Information and Learning Sciences, 2018)
+- Visualising alignment to support students’ judgment of confidence in open learner models (User Modeling and User-Adapted
+  Interaction, 2020)
+- 'Uncertainty in Open Learner Models: Visualising Inconsistencies in the Underlying Data (2016)'
+openalex_id: https://openalex.org/A5016302791

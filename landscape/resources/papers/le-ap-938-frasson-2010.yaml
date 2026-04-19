@@ -1,0 +1,21 @@
+resource_id: LE-AP-938
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Managing Learner’s Affective States in Intelligent Tutoring Systems
+authors:
+- Claude Frasson
+- Pierre Chalfoun
+year: 2010
+venue: Studies in computational intelligence
+doi: 10.1007/978-3-642-14363-2_17
+tier: contemporary
+citation_count_approx: 34
+cross_seed_score: 1
+openalex_id: W164029134
+significance: Published in Studies in computational intelligence. LE-filtered expansion seeded from conference-chair
+  authorship (Claude Frasson). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T01

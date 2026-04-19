@@ -2,18 +2,20 @@ resource_id: LE-AP-302
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Issues in education research: problems and possibilities"
+title: 'Issues in education research: problems and possibilities'
 authors: []
 year: 2000
 venue: Choice Reviews Online
-doi: "10.5860/choice.37-5227"
+doi: 10.5860/choice.37-5227
 tier: contemporary
 citation_count_approx: 150
 cross_seed_score: 2
-openalex_id: "W1485278651"
-significance: >
-  Published in Choice Reviews Online; addresses sociology, educational research,
-  pedagogy. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
-  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
-  enrichment.
-primary_topic: T01
+openalex_id: W1485278651
+significance: 'Published in Choice Reviews Online; addresses sociology, educational research, pedagogy. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+
+  '
+primary_topic: T17
+secondary_topics:
+- T01

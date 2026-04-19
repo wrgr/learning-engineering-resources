@@ -1,0 +1,32 @@
+resource_id: LE-PP-276
+content_type: PP
+source: curated
+status: APPROVED
+name: Giosuè Lo Bosco
+affiliation: University of Palermo, Italy
+era: contemporary
+role: EDM 2025 General Chair; ML applications to educational data
+description: 'Researcher at the University of Palermo. Co-General Chair of EDM 2025 (Palermo). Applies machine learning
+  and data mining to domain problems including educational data.
+
+  '
+key_contributions:
+- General Chair, EDM 2025 (Palermo, Italy)
+- Applies ML/data-mining methods to educational and biomedical domains
+- Co-hosted EDM 2025 alongside ITD-CNR's L@S 2025, a dual-venue Palermo week
+primary_topic: T04
+secondary_topics:
+- T07
+- T17
+url: https://www.unipa.it/persone/docenti/l/giosue.lobosco
+notes: EDM 2025 GC. ML for educational data.
+key_works:
+- Single-cell trajectories reconstruction, exploration and mapping of omics data with STREAM (Nature Communications,
+  2019)
+- Deep learning models for bacteria taxonomic classification of metagenomic data (BMC Bioinformatics, 2018)
+- 'Human molecular chaperones share with SARS-CoV-2 antigenic epitopes potentially capable of eliciting autoimmunity
+  against endothelial cells: possible role of molecular mimicry in COVID-19 (Cell Stress and Chaperones, 2020)'
+- Deep Learning Architectures for DNA Sequence Classification (Lecture notes in computer science, 2017)
+- Spread of Tomato Brown Rugose Fruit Virus in Sicily and Evaluation of the Spatiotemporal Dispersion in Experimental
+  Conditions (Agronomy, 2020)
+openalex_id: https://openalex.org/A5089392019

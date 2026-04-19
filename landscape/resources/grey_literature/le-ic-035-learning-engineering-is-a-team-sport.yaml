@@ -1,0 +1,18 @@
+resource_id: LE-IC-035
+content_type: GL
+source: icicle
+status: APPROVED
+title: Learning Engineering is a Team Sport (ICICLE presentation, 2024)
+authors:
+- Learning Engineering is a Team Sport
+year: 2024
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T00
+secondary_topics:
+- T03
+significance: ICICLE presentation emphasizing the collaborative, multidisciplinary nature of learning
+  engineering teams. Addresses how different domain experts contribute to LE projects and how to build
+  effective teams.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

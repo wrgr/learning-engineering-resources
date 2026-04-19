@@ -1,0 +1,23 @@
+resource_id: LE-AP-989
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Integrating Enhanced Peer Assessment Features in Moodle Learning Management System
+authors:
+- Gabriel Badea
+- Elvira Popescu
+- Andrea Sterbini
+- Marco Temperini
+year: 2019
+venue: Lecture notes in educational technology
+doi: 10.1007/978-981-13-6908-7_19
+tier: contemporary
+citation_count_approx: 14
+cross_seed_score: 1
+openalex_id: W2922478628
+significance: Published in Lecture notes in educational technology. LE-filtered expansion seeded from conference-chair
+  authorship (Elvira Popescu). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T04
+- T03

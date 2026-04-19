@@ -1,0 +1,22 @@
+resource_id: LE-AP-993
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Facilitating Scientometrics in Learning Analytics and Educational Data Mining – the LAK Dataset
+authors:
+- Stefan Dietze
+- Davide Taibi
+- Mathieu d’Aquin
+year: 2016
+venue: Semantic Web
+doi: 10.3233/sw-150201
+tier: contemporary
+citation_count_approx: 13
+cross_seed_score: 1
+openalex_id: W2239034455
+significance: Published in Semantic Web. LE-filtered expansion seeded from conference-chair authorship (Davide Taibi).
+  OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T07
+- T11

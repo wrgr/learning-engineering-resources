@@ -1,0 +1,16 @@
+resource_id: LE-MX-027
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: 'Data-Informed Course Improvement: The Application of Learning Engineering in the Classroom'
+authors:
+- Anne Fensie
+publisher: ICLS 2023
+url: https://repository.isls.org/bitstream/1/10244/1/ICLS2023_2267-2270.pdf
+type: paper
+primary_topic: T04
+secondary_topics:
+- T03
+significance: Higher-ed classroom case study. Fensie walks through a specific course intervention, what
+  data moved, and what didn't — an honest practitioner paper at a major learning sciences venue.
+year: 2023

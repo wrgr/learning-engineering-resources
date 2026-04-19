@@ -1,19 +1,20 @@
 resource_id: LE-AP-518
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "A solution to the mysteries of morality."
+status: non_le
+title: A solution to the mysteries of morality.
 authors: []
 year: 2012
 venue: Psychological Bulletin
-doi: "10.1037/a0029065"
+doi: 10.1037/a0029065
 tier: contemporary
 citation_count_approx: 294
 cross_seed_score: 2
-openalex_id: "W2119224380"
-significance: >
-  Published in Psychological Bulletin; addresses variety (cybernetics), exploit,
-  social psychology. Quality-filtered from OpenAlex cross-seed expansion of the
-  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
-  OpenAlex enrichment.
+openalex_id: W2119224380
+significance: 'Published in Psychological Bulletin; addresses variety (cybernetics), exploit, social psychology.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

@@ -1,0 +1,31 @@
+resource_id: LE-AP-866
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Gamification suffers from the novelty effect but benefits from the familiarization effect: Findings from
+  a longitudinal study'
+authors:
+- Luiz Rodrigues
+- Filipe Dwan Pereira
+- Armando M. Toda
+- Paula T. Palomino
+- Marcela Pessoa
+- Leandro Silva Galvão de Carvalho
+- David Fernandes
+- Elaine Oliveira
+- Alexandra I. Cristea
+- Seiji Isotani
+year: 2022
+venue: International Journal of Educational Technology in Higher Education
+doi: 10.1186/s41239-021-00314-6
+tier: contemporary
+citation_count_approx: 134
+cross_seed_score: 2
+openalex_id: W4212789950
+significance: Published in International Journal of Educational Technology in Higher Education. LE-filtered expansion
+  seeded from conference-chair authorship (Seiji Isotani, Alexandra I. Cristea). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T14
+- T06

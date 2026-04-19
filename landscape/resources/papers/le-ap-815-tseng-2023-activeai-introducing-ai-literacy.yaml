@@ -1,0 +1,20 @@
+resource_id: LE-AP-815
+content_type: AP
+source: scholar_gap_analysis
+title: "ActiveAI: Introducing AI Literacy for Middle School Learners with Goal-based Scenario Learning"
+authors:
+  - Ying Jui Tseng
+  - Gautam Ganapati Yadav
+year: 2023
+venue: "arXiv (Cornell University)"
+doi: "10.48550/arxiv.2309.12337"
+tier: contemporary
+citation_count_approx: 4
+significance: >
+  The ActiveAI project addresses key challenges in AI education for grades 7-9 students by
+  providing an engaging AI literacy learning experience based on the AI4K12 knowledge
+  framework. Utilizing learning science mechanisms such as goal-based scenarios, immediate
+  feedback, project-based learning, and intelligent agents, the app incorporates a variety
+  of learner inputs like sliders, steppers, and collectors to enhance understanding.
+primary_topic: T03
+secondary_topics: []

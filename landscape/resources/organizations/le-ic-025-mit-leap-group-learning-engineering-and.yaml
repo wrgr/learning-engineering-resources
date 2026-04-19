@@ -1,0 +1,15 @@
+resource_id: LE-IC-025
+content_type: CO
+source: icicle
+status: APPROVED
+name: MIT LEAP Group — Learning Engineering and Practice
+type: organization
+affiliation_or_venue: Massachusetts Institute of Technology
+url: https://leap.mit.edu
+primary_topic: T00
+secondary_topics:
+- T06
+- T07
+description: MIT research group applying learning engineering principles to university-level STEM education.
+  Produces open courseware, edX materials, and research on evidence-based pedagogy at scale.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

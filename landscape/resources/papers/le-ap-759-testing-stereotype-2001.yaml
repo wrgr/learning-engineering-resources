@@ -2,17 +2,20 @@ resource_id: LE-AP-759
 content_type: AP
 source: book_endnotes
 status: seed
-title: "“Testing Stereotype Threat: Does Anxiety Explain Race and Sex Differences in Achievement?” Contemporary Educational Psychology 26, no"
+title: '“Testing Stereotype Threat: Does Anxiety Explain Race and Sex Differences in Achievement?” Contemporary
+  Educational Psychology 26, no'
 authors: []
 year: 2001
 venue: Unknown Venue
-doi: "10.1006/ceps.2000.1052"
+doi: 10.1006/ceps.2000.1052
 tier: contemporary
 citation_count_approx: 0
-openalex_id: ""
-significance: >
-  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
-  topics in learning engineering. Full bibliographic details in citation:
-  Osborne, Jason W. “Testing Stereotype Threat: Does Anxiety Explain Race and
-  Sex Differences in Achievement?” Contemporar...
-primary_topic: T01
+openalex_id: ''
+significance: 'Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering.
+  Full bibliographic details in citation: Osborne, Jason W. “Testing Stereotype Threat: Does Anxiety Explain Race
+  and Sex Differences in Achievement?” Contemporar...
+
+  '
+primary_topic: T14
+secondary_topics:
+- T01

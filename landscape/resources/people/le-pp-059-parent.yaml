@@ -3,25 +3,31 @@ content_type: PP
 source: curated
 status: APPROVED
 name: Amy Parent
-affiliation: "Salience Learning; IEEE ICICLE — Design for Learning SIG"
-years: "active 2010s–present"
+affiliation: Salience Learning; IEEE ICICLE — Design for Learning SIG
+years: active 2010s–present
 era: contemporary
 role: LE design practitioner; ICICLE Design for Learning SIG co-chair
-description: >
-  Co-chair of the Design for Learning SIG (IEEE ICICLE). Industry practitioner from
-  Salience Learning, bridging corporate L&D and academic HCD frameworks within the
-  learning engineering field.
+description: 'Co-chair of the Design for Learning SIG (IEEE ICICLE). Industry practitioner from Salience Learning,
+  bridging corporate L&D and academic HCD frameworks within the learning engineering field.
+
+  '
 key_contributions:
-  - Co-chairs the Design for Learning SIG (ICICLE), advancing human-centered design as a core LE competency
-  - Brings corporate L&D practitioner perspective from Salience Learning to ICICLE's design frameworks
-  - Connects academic HCD methods with real-world instructional design constraints and organizational contexts
-  - Contributes to ICICLE BoK guidance on user research and learner-centered design processes
+- Co-chairs the Design for Learning SIG (ICICLE), advancing human-centered design as a core LE competency
+- Brings corporate L&D practitioner perspective from Salience Learning to ICICLE's design frameworks
+- Connects academic HCD methods with real-world instructional design constraints and organizational contexts
+- Contributes to ICICLE BoK guidance on user research and learner-centered design processes
 key_works:
-  - "ICICLE Body of Knowledge — Design for Learning chapter contributions"
-  - "IEEE ICICLE Design for Learning SIG practitioner resources"
+- ICICLE Body of Knowledge — Design for Learning chapter contributions
+- IEEE ICICLE Design for Learning SIG practitioner resources
+- Hands Back, Hands Forward for Indigenous Storywork as Methodology (2019)
+- Visioning as an Integral Element to Understanding Indigenous Learners’ Transition to University (Canadian Journal
+  of Higher Education, 2017)
+- 'Bending the box : learning from Indigenous students transitioning from high school to university (cIRcle (University
+  of British Columbia), 2014)'
 primary_topic: T03
 secondary_topics:
-  - T02
-  - T16
+- T02
+- T16
 url: https://icicle.ieee.org
 notes: ICICLE community lead. Design for Learning SIG. Corporate L&D practitioner.
+openalex_id: https://openalex.org/A5110490075

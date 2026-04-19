@@ -1,0 +1,25 @@
+resource_id: LE-PP-227
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Jessie Chuang
+affiliation: Classroom Aid
+era: contemporary
+role: Learning standards implementer; Classroom Aid; xAPI and data instrumentation.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning standards implementer;
+  Classroom Aid; xAPI and data instrumentation.
+key_works:
+- A Methodology to Predict Creep Life for Advanced Ceramics Using Continuum Damage Mechanics (1994)
+- Prediction of Multiaxial Creep From Uniaxial Creep Tests (Special publication - Royal Society of Chemistry/Special
+  publication, 1972)
+- Intelligence Augmentation for Educators, Training Professionals, and Learners (Lecture notes in computer science,
+  2021)
+- AN APPROACH TO ESTIMATING LONG-TERM MULTIAXIAL CREEP BEHAVIOR FROM SHORT- TERM UNIAXIAL CREEP RESULTS. Research
+  Report Number 1864-3 (OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information), 1970)
+- Implementation Tools (2022)
+primary_topic: T00
+secondary_topics: []
+url: ''
+openalex_id: https://openalex.org/A5010492136
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex disambiguation was inconclusive
+  — populate key_works manually.

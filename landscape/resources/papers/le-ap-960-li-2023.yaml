@@ -1,0 +1,25 @@
+resource_id: LE-AP-960
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Sim-GAIL: A generative adversarial imitation learning approach of student modelling for intelligent tutoring
+  systems'
+authors:
+- Zhaoxing Li
+- Lei Shi
+- Jindi Wang
+- Alexandra I. Cristea
+- Yunzhan Zhou
+year: 2023
+venue: Neural Computing and Applications
+doi: 10.1007/s00521-023-08989-w
+tier: contemporary
+citation_count_approx: 26
+cross_seed_score: 1
+openalex_id: W4387302167
+significance: Published in Neural Computing and Applications. LE-filtered expansion seeded from conference-chair
+  authorship (Alexandra I. Cristea). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T04

@@ -1,19 +1,20 @@
 resource_id: LE-AP-607
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Explanation-Based Generalization: A Unifying View"
+status: non_le
+title: 'Explanation-Based Generalization: A Unifying View'
 authors: []
 year: 1986
 venue: Machine Learning
-doi: "10.1023/a:1022691120807"
+doi: 10.1023/a:1022691120807
 tier: highly_cited
 citation_count_approx: 1173
 cross_seed_score: 2
-openalex_id: "W2180885055"
-significance: >
-  Published in Machine Learning; addresses generalization, computer science,
-  artificial intelligence. Quality-filtered from OpenAlex cross-seed expansion
-  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
-  OpenAlex enrichment.
+openalex_id: W2180885055
+significance: 'Published in Machine Learning; addresses generalization, computer science, artificial intelligence.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

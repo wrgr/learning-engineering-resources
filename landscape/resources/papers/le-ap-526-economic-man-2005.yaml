@@ -1,19 +1,20 @@
 resource_id: LE-AP-526
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "“Economic man” in cross-cultural perspective: Behavioral experiments in 15 small-scale societies"
+status: non_le
+title: '“Economic man” in cross-cultural perspective: Behavioral experiments in 15 small-scale societies'
 authors: []
 year: 2005
 venue: Behavioral and Brain Sciences
-doi: "10.1017/s0140525x05000142"
+doi: 10.1017/s0140525x05000142
 tier: highly_cited
 citation_count_approx: 1914
 cross_seed_score: 2
-openalex_id: "W2125976408"
-significance: >
-  Published in Behavioral and Brain Sciences; addresses variation (astronomy),
-  ultimatum game, dictator game. Quality-filtered from OpenAlex cross-seed
-  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
-  Authors pending OpenAlex enrichment.
+openalex_id: W2125976408
+significance: 'Published in Behavioral and Brain Sciences; addresses variation (astronomy), ultimatum game, dictator
+  game. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

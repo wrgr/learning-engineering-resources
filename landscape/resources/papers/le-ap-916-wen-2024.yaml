@@ -1,0 +1,27 @@
+resource_id: LE-AP-916
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'AI for Education (AI4EDU): Advancing Personalized Education with LLM and Adaptive Learning'
+authors:
+- Qingsong Wen
+- Joleen Liang
+- Carles Sierra
+- Rose Luckin
+- Richard Jiarui Tong
+- Zitao Liu
+- Peng Cui
+- Jiliang Tang
+year: 2024
+venue: Unknown Venue
+doi: 10.1145/3637528.3671498
+tier: contemporary
+citation_count_approx: 48
+cross_seed_score: 1
+openalex_id: W4401857337
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Zitao (Jerry)
+  Liu). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T11

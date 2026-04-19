@@ -1,0 +1,23 @@
+resource_id: LE-AP-925
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Modelling collaborative problem-solving competence with transparent learning analytics
+authors:
+- Mutlu Cukurova
+- Qi Zhou
+- Daniel Spikol
+- Lorenzo Landolfi
+year: 2020
+venue: Unknown Venue
+doi: 10.1145/3375462.3375484
+tier: contemporary
+citation_count_approx: 44
+cross_seed_score: 1
+openalex_id: W3011830648
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Daniel
+  Spikol). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T08
+- T11

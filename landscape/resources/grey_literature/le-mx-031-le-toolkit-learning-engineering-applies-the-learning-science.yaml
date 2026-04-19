@@ -1,0 +1,17 @@
+resource_id: LE-MX-031
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: LE Toolkit — Learning Engineering Applies the Learning Sciences (open access chapter)
+authors:
+- Jim Goodell
+- Janet Kolodner
+- Aaron Kessler
+publisher: Taylor & Francis Open Access
+url: https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003276579-6/learning-engineering-applies-learning-sciences-jim-goodell-janet-kolodner-aaron-kessler
+type: book
+primary_topic: T01
+secondary_topics:
+- T03
+significance: ''
+year: 2022

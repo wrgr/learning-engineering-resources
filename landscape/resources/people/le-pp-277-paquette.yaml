@@ -1,0 +1,33 @@
+resource_id: LE-PP-277
+content_type: PP
+source: curated
+status: APPROVED
+name: Luc Paquette
+affiliation: University of Illinois at Urbana-Champaign
+era: contemporary
+role: EDM 2025 Program Chair; student behavior detection in online learning
+description: 'Associate Professor in the College of Education at UIUC. Program Chair for EDM 2025. Research on detecting
+  and modeling student behaviors (gaming the system, disengagement, off-task behavior) in online learning systems
+  — a central EDM thread since the early 2010s.
+
+  '
+key_contributions:
+- Program Chair, EDM 2025 (Palermo, Italy)
+- Developed data-driven and knowledge-engineered detectors of gaming-the-system and off-task behavior
+- Contributes to the EDM community's focus on behavioral rather than purely cognitive modeling
+primary_topic: T04
+secondary_topics:
+- T06
+- T17
+url: https://education.illinois.edu/profile/luc-paquette
+notes: EDM 2025 PC. Behavior detection. Gaming-the-system detectors.
+key_works:
+- A Longitudinal Study on Learner Career Advancement in MOOCs (Journal of Learning Analytics, 2014)
+- How Immersive Virtual Environments Foster Self-Regulated Learning (Advances in educational technologies and instructional
+  design book series, 2018)
+- Behavioral predictors of MOOC post-course development (Learning Analytics and Knowledge, 2017)
+- Can Strategic Behaviour Facilitate Confusion Resolution? The Interplay Between Confusion and Metacognitive Strategies
+  in Betty’s Brain (Journal of Learning Analytics, 2021)
+- Identifying Transfer of Inquiry Skills across Physical Science Simulations using Educational Data Mining (International
+  Conference of Learning Sciences, 2014)
+openalex_id: https://openalex.org/A5068205184

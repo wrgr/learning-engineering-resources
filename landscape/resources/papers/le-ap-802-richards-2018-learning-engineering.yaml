@@ -1,0 +1,19 @@
+resource_id: LE-AP-802
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering"
+authors:
+  - John H. Richards
+  - Chris Dede
+  - Bror Saxberg
+year: 2018
+doi: "10.4324/9781351186193-11"
+tier: contemporary
+citation_count_approx: 14
+significance: >
+  213This concluding chapter draws on the examples and evidence from the preceding chapters
+  to propose a model for iterative development platforms and approaches. The Digital
+  Teaching Platform (DTP) model is grounded in learning science and linked with detailed
+  data about the learner, including success measures across multiple time-scales.
+primary_topic: T03
+secondary_topics: []

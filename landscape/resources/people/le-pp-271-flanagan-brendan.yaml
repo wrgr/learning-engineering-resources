@@ -1,0 +1,33 @@
+resource_id: LE-PP-271
+content_type: PP
+source: curated
+status: APPROVED
+name: Brendan Flanagan
+affiliation: Kyoto University, Japan
+era: contemporary
+role: LAK 2024 Program Chair; reading analytics and LA infrastructure
+description: 'Associate Professor at the Academic Center for Computing and Media Studies, Kyoto University. Program
+  Chair for LAK 2024 (Kyoto). Research on e-book log analytics, reading analytics, and LA infrastructure — notably
+  through the BookRoll e-book platform used across Japan.
+
+  '
+key_contributions:
+- Program Chair, LAK 2024 (Kyoto, Japan)
+- Developed reading analytics using BookRoll e-book log data at scale in Japanese K-12 and higher education
+- Builds bridges between Japanese LA research and the international SoLAR community
+primary_topic: T04
+secondary_topics:
+- T11
+- T17
+url: https://www.let.media.kyoto-u.ac.jp/en/member/brendan-flanagan/
+notes: LAK 2024 PC. Reading analytics. BookRoll platform.
+key_works:
+- Assessment of Clinical Performance during Simulated Crises Using Both Technical and Behavioral Ratings (Anesthesiology,
+  1998)
+- The teaching of a structured tool improves the clarity and content of interprofessional clinical communication
+  (BMJ Quality & Safety, 2009)
+- 'Making patient safety the focus: Crisis Resource Management in the undergraduate curriculum (Medical Education,
+  2004)'
+- Prevention of Hypotension After Spinal Anesthesia for Cesarean Section (Anesthesia & Analgesia, 1995)
+- Review of mannequin‐based high‐fidelity simulation in emergency medicine (Emergency Medicine Australasia, 2007)
+openalex_id: https://openalex.org/A5083911055

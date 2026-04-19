@@ -2,18 +2,21 @@ resource_id: LE-AP-382
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Using SAS/IntrNet for Evaluating Web‐based Courses"
+title: Using SAS/IntrNet for Evaluating Web‐based Courses
 authors: []
 year: 1998
 venue: Educational Media International
-doi: "10.1080/0952398980350303"
+doi: 10.1080/0952398980350303
 tier: contemporary
 citation_count_approx: 12
 cross_seed_score: 2
-openalex_id: "W1986086318"
-significance: >
-  Published in Educational Media International; addresses world wide web,
-  computer science, intranet. Quality-filtered from OpenAlex cross-seed
-  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+openalex_id: W1986086318
+significance: 'Published in Educational Media International; addresses world wide web, computer science, intranet.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
   Authors pending OpenAlex enrichment.
-primary_topic: T01
+
+  '
+primary_topic: T04
+secondary_topics:
+- T01
+- T11

@@ -1,19 +1,20 @@
 resource_id: LE-AP-438
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Nobody's watching?"
+status: non_le
+title: Nobody's watching?
 authors: []
 year: 2005
 venue: Evolution and Human Behavior
-doi: "10.1016/j.evolhumbehav.2005.01.002"
+doi: 10.1016/j.evolhumbehav.2005.01.002
 tier: highly_cited
 citation_count_approx: 1061
 cross_seed_score: 2
-openalex_id: "W2044237036"
-significance: >
-  Published in Evolution and Human Behavior; addresses prosocial behavior,
-  generosity, psychology. Quality-filtered from OpenAlex cross-seed expansion of
-  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
-  OpenAlex enrichment.
+openalex_id: W2044237036
+significance: 'Published in Evolution and Human Behavior; addresses prosocial behavior, generosity, psychology.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

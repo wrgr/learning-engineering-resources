@@ -1,0 +1,27 @@
+resource_id: LE-AP-1004
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Exploring Indicators for Collaboration Quality and Its Dimensions in Classroom Settings Using Multimodal
+  Learning Analytics
+authors:
+- Pankaj Chejara
+- Luis P. Prieto
+- Marí­a Jesús Rodríguez-Triana
+- Adolfo Ruiz‐Calleja
+- Reet Kasepalu
+- Irene‐Angelica Chounta
+- Bertrand Schneider
+year: 2023
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-031-42682-7_5
+tier: contemporary
+citation_count_approx: 8
+cross_seed_score: 1
+openalex_id: W4386261900
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Irene-Angelica Chounta). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T03

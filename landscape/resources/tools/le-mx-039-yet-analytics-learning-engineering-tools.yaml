@@ -1,0 +1,14 @@
+resource_id: LE-MX-039
+content_type: TP
+source: mdx_backfill
+status: APPROVED
+name: Yet Analytics — Learning Engineering Tools
+type: platform
+affiliation_or_venue: Yet Analytics
+url: https://www.yetanalytics.com/learningengineering
+primary_topic: T04
+secondary_topics:
+- T11
+description: Commercial learning-engineering platform spanning xAPI data design, instrumentation, and
+  evaluation. One of the few vendors building tools explicitly for the LE workflow rather than generic
+  ed-tech analytics.

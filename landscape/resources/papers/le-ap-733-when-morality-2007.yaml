@@ -1,18 +1,19 @@
 resource_id: LE-AP-733
 content_type: AP
 source: book_endnotes
-status: seed
-title: "“When Morality Opposes Justice: Conservatives Have Moral Intuitions that Liberals May Not Recognize"
+status: non_le
+title: '“When Morality Opposes Justice: Conservatives Have Moral Intuitions that Liberals May Not Recognize'
 authors: []
 year: 2007
 venue: Unknown Venue
-doi: "10.1007/s11211-007-0034-z"
+doi: 10.1007/s11211-007-0034-z
 tier: contemporary
 citation_count_approx: 0
-openalex_id: ""
-significance: >
-  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
-  topics in learning engineering. Full bibliographic details in citation: Haidt,
-  Jonathan and Jesse Graham. “When Morality Opposes Justice: Conservatives Have
-  Moral Intuitions that Liberals May ...
+openalex_id: ''
+significance: 'Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering.
+  Full bibliographic details in citation: Haidt, Jonathan and Jesse Graham. “When Morality Opposes Justice: Conservatives
+  Have Moral Intuitions that Liberals May ...
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

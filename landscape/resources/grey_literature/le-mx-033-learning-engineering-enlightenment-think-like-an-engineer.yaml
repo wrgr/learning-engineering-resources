@@ -1,0 +1,16 @@
+resource_id: LE-MX-033
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: 'Learning Engineering Enlightenment: Think Like an Engineer'
+authors:
+- Ellen Wagner
+publisher: New Learning Frontier
+url: https://newlearningfrontier.com/learning-engineering-enlightenment-think-like-an-engineer/
+type: article
+primary_topic: T00
+secondary_topics: []
+significance: 'Wagner''s 2024 follow-on to her long thread of LE-vs-ID articles. The sharpest version
+  of her argument that the shift isn''t tools, it''s disposition: LEs reason like engineers about uncertainty
+  and evidence.'
+year: 2024

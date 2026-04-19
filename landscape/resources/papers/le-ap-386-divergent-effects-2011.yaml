@@ -1,19 +1,20 @@
 resource_id: LE-AP-386
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Divergent effects of activating thoughts of God on self-regulation."
+status: non_le
+title: Divergent effects of activating thoughts of God on self-regulation.
 authors: []
 year: 2011
 venue: Journal of Personality and Social Psychology
-doi: "10.1037/a0025971"
+doi: 10.1037/a0025971
 tier: contemporary
 citation_count_approx: 179
 cross_seed_score: 2
-openalex_id: "W1992266989"
-significance: >
-  Published in Journal of Personality and Social Psychology; addresses
-  temptation, psychology, social psychology. Quality-filtered from OpenAlex
-  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
-  corpus. Authors pending OpenAlex enrichment.
+openalex_id: W1992266989
+significance: 'Published in Journal of Personality and Social Psychology; addresses temptation, psychology, social
+  psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

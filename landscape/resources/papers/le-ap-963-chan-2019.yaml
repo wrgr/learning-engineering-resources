@@ -1,0 +1,22 @@
+resource_id: LE-AP-963
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Multimodal Learning Analytics in a Laboratory Classroom
+authors:
+- Man Ching Esther Chan
+- Xavier Ochôa
+- David Clarke
+year: 2019
+venue: Intelligent systems reference library
+doi: 10.1007/978-3-030-13743-4_8
+tier: contemporary
+citation_count_approx: 25
+cross_seed_score: 1
+openalex_id: W2941741019
+significance: Published in Intelligent systems reference library. LE-filtered expansion seeded from conference-chair
+  authorship (Xavier Ochoa). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T11
+- T07

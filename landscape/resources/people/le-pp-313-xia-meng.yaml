@@ -1,0 +1,22 @@
+resource_id: LE-PP-313
+content_type: PP
+source: curated
+status: APPROVED
+name: Meng Xia
+affiliation: "Texas A&M University, CSE"
+era: contemporary
+role: "L@S 2024 Program Co-Chair; human-AI interaction and visualization for personalized learning"
+description: >
+  Assistant Professor at TAMU CSE. Program Co-Chair for L@S 2024. Directs the Dream Lab;
+  research on human-AI interaction and data visualization for personalized online learning
+  systems.
+key_contributions:
+  - "Program Co-Chair, L@S 2024 (Atlanta, USA)"
+  - "Directs the Dream Lab at Texas A&M"
+  - Research on visualization and human-AI interaction in personalized online learning
+primary_topic: T07
+secondary_topics:
+  - T04
+  - T11
+url: "https://www.xiameng.org/"
+notes: "L@S 2024 PC. Dream Lab. Visualization for personalized learning."

@@ -1,0 +1,22 @@
+resource_id: LE-AP-821
+content_type: AP
+source: scholar_gap_analysis
+title: "Designing a Student Progress Panel for Formative Practice: A Learning Engineering Process"
+authors:
+  - Rachel Van Campenhout
+  - Michelle Selinger
+  - Bill Jerome
+year: 2023
+venue: "Proceedings."
+doi: "10.22318/icls2023.948456"
+tier: contemporary
+citation_count_approx: 3
+significance: >
+  Providing students with research-based learning tools is a necessary part of developing
+  learning environments, and additionally, the design of those learning features is critical
+  for their success.It is well established that doing practice questions while reading is
+  better for learning-yet how how students monitor and navigate to this formative practice
+  in the learning platform can impact the success of this study tool.In this paper, we
+  address t
+primary_topic: T03
+secondary_topics: []

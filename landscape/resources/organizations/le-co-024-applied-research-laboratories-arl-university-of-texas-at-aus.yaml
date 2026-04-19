@@ -1,0 +1,13 @@
+resource_id: LE-CO-024
+content_type: CO
+source: landscape_backfill
+status: APPROVED
+name: Applied Research Laboratories (ARL) — University of Texas at Austin
+type: research_center
+affiliation_or_venue: University of Texas at Austin
+url: ''
+primary_topic: T09
+secondary_topics:
+- T02
+- T13
+description: Adjacent-field resource carried forward from landscape curation; enrichment pending.

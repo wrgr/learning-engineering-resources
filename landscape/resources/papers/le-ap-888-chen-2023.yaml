@@ -1,0 +1,24 @@
+resource_id: LE-AP-888
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations
+authors:
+- Jiahao Chen
+- Zitao Liu
+- Shuyan Huang
+- Qiongqiong Liu
+- Weiqi Luo
+year: 2023
+venue: Proceedings of the AAAI Conference on Artificial Intelligence
+doi: 10.1609/aaai.v37i12.26661
+tier: contemporary
+citation_count_approx: 71
+cross_seed_score: 1
+openalex_id: W4382318135
+significance: Published in Proceedings of the AAAI Conference on Artificial Intelligence. LE-filtered expansion
+  seeded from conference-chair authorship (Zitao (Jerry) Liu). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T11

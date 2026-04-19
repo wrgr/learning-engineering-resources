@@ -1,0 +1,26 @@
+resource_id: LE-AP-902
+content_type: AP
+source: openalex_expansion
+status: seed
+title: State-of-the-Art and Future Directions of Smart Learning
+authors:
+- Nian‐Shing Chen
+- Kinshuk Kinshuk
+- Ronghuai Huang
+- Elvira Popescu
+- Miloš Kravčík
+- Maiga Chang
+- Yanyan Li
+year: 2015
+venue: Lecture notes in educational technology
+doi: 10.1007/978-981-287-868-7
+tier: contemporary
+citation_count_approx: 55
+cross_seed_score: 1
+openalex_id: W2486435687
+significance: Published in Lecture notes in educational technology. LE-filtered expansion seeded from conference-chair
+  authorship (Elvira Popescu). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T04
+- T03

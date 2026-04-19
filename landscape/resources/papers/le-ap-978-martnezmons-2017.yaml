@@ -1,0 +1,23 @@
+resource_id: LE-AP-978
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Learning Analytics with Google Classroom
+authors:
+- Alejandra Martínez‐Monés
+- Christophe Reffay
+- Javier Hoyos Torío
+- Juan Cristóbal
+year: 2017
+venue: Unknown Venue
+doi: 10.1145/3144826.3145397
+tier: contemporary
+citation_count_approx: 20
+cross_seed_score: 1
+openalex_id: W2768590693
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Alejandra
+  Martínez-Monés). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T03
+- T17

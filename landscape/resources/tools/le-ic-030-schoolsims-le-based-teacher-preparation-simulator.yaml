@@ -1,0 +1,15 @@
+resource_id: LE-IC-030
+content_type: TP
+source: icicle
+status: APPROVED
+name: SchoolSims — LE-Based Teacher Preparation Simulator (2025)
+type: tool
+affiliation_or_venue: SchoolSims
+url: https://schoolsims.com
+primary_topic: T08
+secondary_topics:
+- T09
+- T10
+description: Simulation platform for teacher preparation applying learning engineering principles, cognitive
+  task analysis, and naturalistic decision-making. Uses scenario-based assessment and data-driven iteration.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

@@ -1,0 +1,26 @@
+resource_id: LE-AP-872
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Automated gaze-based mind wandering detection during computerized learning in classrooms
+authors:
+- Stephen Hutt
+- Kristina Krasich
+- Caitlin Mills
+- Nigel Bosch
+- Shelby White
+- James R. Brockmole
+- Sidney K. D’Mello
+year: 2019
+venue: User Modeling and User-Adapted Interaction
+doi: 10.1007/s11257-019-09228-5
+tier: contemporary
+citation_count_approx: 104
+cross_seed_score: 1
+openalex_id: W2947760526
+significance: Published in User Modeling and User-Adapted Interaction. LE-filtered expansion seeded from conference-chair
+  authorship (Caitlin Mills). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T01
+- T07

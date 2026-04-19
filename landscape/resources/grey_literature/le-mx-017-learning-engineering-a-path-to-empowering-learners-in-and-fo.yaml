@@ -1,0 +1,16 @@
+resource_id: LE-MX-017
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: 'Learning Engineering: A path to empowering learners in and for the Age of AI — Panel'
+authors:
+- Unknown
+publisher: Empowering Learners for the Age of AI Conference
+url: https://www.youtube.com/watch?v=H-MbNTt2NRc
+type: video
+primary_topic: T07
+secondary_topics:
+- T00
+significance: Panel response to the McNamara and Garg keynotes above. Worth watching as a trio — the panel
+  is where the rough edges of AI-in-LE show up (evaluation, equity, disciplinary identity).
+year: 2022

@@ -1,0 +1,27 @@
+resource_id: LE-AP-964
+content_type: AP
+source: openalex_expansion
+status: seed
+title: The Effects of Motivational Modeling on Affect in an Intelligent Tutoring System
+authors:
+- Ma. Mercedes T. Rodrigo
+- Genaro Rebolledo‐Mendez
+- Ryan S. Baker
+- Benedict du Boulay
+- Jessica O. Sugay
+- Sheryl Ann L. Lim
+- Ma. Beatriz Espejo-Lahoz
+- Rose Luckin
+year: 2008
+venue: UCL Discovery (University College London)
+doi: ''
+tier: contemporary
+citation_count_approx: 25
+cross_seed_score: 1
+openalex_id: W3048151759
+significance: Published in UCL Discovery (University College London). LE-filtered expansion seeded from conference-chair
+  authorship (Genaro Rebolledo-Méndez). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T01

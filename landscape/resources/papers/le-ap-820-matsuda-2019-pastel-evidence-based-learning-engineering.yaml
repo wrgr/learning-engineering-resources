@@ -1,0 +1,16 @@
+resource_id: LE-AP-820
+content_type: AP
+source: scholar_gap_analysis
+title: "PASTEL: Evidence-based Learning Engineering Method to Create Intelligent Online Textbook at Scale"
+authors:
+  - Noboru Matsuda
+  - Machi Shimmei
+year: 2019
+venue: "iTextbooks@AIED"
+tier: contemporary
+citation_count_approx: 4
+significance: >
+  LE-framed work per Scholar gap analysis (Matsuda & Shimmei PASTEL 'Evidence-based Learning
+  Engineering Method' — LE-framed.).
+primary_topic: T16
+secondary_topics: []

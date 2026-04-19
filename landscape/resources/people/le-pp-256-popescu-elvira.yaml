@@ -1,0 +1,27 @@
+resource_id: LE-PP-256
+content_type: PP
+source: curated
+status: APPROVED
+name: Elvira Popescu
+affiliation: University of Craiova, Romania
+era: contemporary
+role: ITS 2022 Program Co-Chair; adaptive educational systems and CSCL researcher
+description: 'Professor in the Department of Computers and Information Technology at the University of Craiova.
+  Program Co-Chair and LNCS volume editor for ITS 2022. Research focuses on adaptive educational systems, learner
+  modeling, CSCL, and learning analytics in web-based environments.
+
+  '
+key_contributions:
+- Program Co-Chair and Proceedings Co-Editor, ITS 2022 (Bucharest, Romania)
+- Developed adaptive web-based learning environments with learner-style modeling
+- Bridges ITS and CSCL research traditions through analytics on collaborative web-based learning
+primary_topic: T06
+secondary_topics:
+- T04
+- T03
+url: https://dcti.ucv.ro/personal/elvira.popescu/
+notes: ITS 2022 PC Chair. Adaptive learning and CSCL analytics.
+key_works:
+- Rules for Learner Modeling and Adaptation Provisioning in an Educational Hypermedia System (2007)
+- Agent-Based Adaptive Learning Provisioning in a Virtual Organization (Advances in soft computing, 2007)
+openalex_id: https://openalex.org/A5041655293

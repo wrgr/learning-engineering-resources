@@ -1,0 +1,25 @@
+resource_id: LE-AP-856
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'A large-scale implementation of predictive learning analytics in higher education: the teachers’ role and
+  perspective'
+authors:
+- Christothea Herodotou
+- Bart Rienties
+- Avinash Boroowa
+- Zdeněk Zdráhal
+- Martin Hlosta
+year: 2019
+venue: Educational Technology Research and Development
+doi: 10.1007/s11423-019-09685-0
+tier: contemporary
+citation_count_approx: 176
+cross_seed_score: 1
+openalex_id: W2954911846
+significance: Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair
+  authorship (Bart Rienties). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T11
+- T17

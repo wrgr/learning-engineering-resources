@@ -1,0 +1,20 @@
+resource_id: LE-AP-818
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering Uses Data (Part 2): Analytics"
+authors:
+  - Michelle Barrett
+  - Erin Czerwinski
+  - Jim Goodell
+year: 2022
+doi: "10.4324/9781003276579-10"
+tier: contemporary
+citation_count_approx: 4
+significance: >
+  Learning engineering research deals with highly contextualized cases within specific
+  courses or products for specific learner populations. Today, Edmentum serves millions of
+  teachers and students and employs an active learning engineering practice to evaluate the
+  contributions of product features, instructional curriculum and content, and
+  implementation practices to learning outcomes.
+primary_topic: T06
+secondary_topics: []

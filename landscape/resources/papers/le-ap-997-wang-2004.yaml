@@ -1,0 +1,22 @@
+resource_id: LE-AP-997
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Scaffolding Young Children's Reflections With Student-Created PowerPoint Presentations
+authors:
+- X. Christine Wang
+- Yore Kedem
+- Nancy B. Hertzog
+year: 2004
+venue: Journal of Research in Childhood Education
+doi: 10.1080/02568540409595062
+tier: contemporary
+citation_count_approx: 11
+cross_seed_score: 1
+openalex_id: W2131663760
+significance: Published in Journal of Research in Childhood Education. LE-filtered expansion seeded from conference-chair
+  authorship (X. Christine Wang). OpenAlex-seeded; curation pending.
+primary_topic: T17
+secondary_topics:
+- T03
+- T12

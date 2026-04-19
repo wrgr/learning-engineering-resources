@@ -1,0 +1,24 @@
+resource_id: LE-PP-219
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Robert Sottilare
+affiliation: Planar Energy (United States)
+era: contemporary
+role: Chief Scientist, SoarTech; GIFT framework architect for adaptive instruction.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Chief Scientist, SoarTech; GIFT
+  framework architect for adaptive instruction.
+key_works:
+- 'Enhancing Self-Regulated Learning through Metacognitively-Aware Intelligent Tutoring Systems (Boulder, CO: International
+  Society of the Learning Sciences eBooks, 2014)'
+- Fundamentals of Adaptive Intelligent Tutoring Systems for Self-Regulated Learning (2015)
+- Intelligent Tutoring Systems (2018)
+- Passively Classifying Student Mood and Performance within Intelligent Tutors (2012)
+- Multilevel Learner Modeling in Training Environments for Complex Decision Making (IEEE Transactions on Learning
+  Technologies, 2019)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5058234819
+openalex_id: https://openalex.org/A5058234819
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5058234819; verify on review.

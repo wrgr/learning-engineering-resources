@@ -1,0 +1,14 @@
+resource_id: LE-MX-038
+content_type: TP
+source: mdx_backfill
+status: APPROVED
+name: xAPI — Experience API specification
+type: platform
+affiliation_or_venue: IEEE LTSC / ADL
+url: https://xapi.com/
+primary_topic: T11
+secondary_topics:
+- T16
+description: The de facto standard for learning-event instrumentation. Every LE platform conversation
+  eventually comes back to xAPI. Runs through the IEEE LTSC, where much of ICICLE's standards work also
+  happens.

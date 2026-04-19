@@ -1,0 +1,22 @@
+resource_id: LE-AP-849
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Motivation matters: Interactions between achievement goals and agent scaffolding for self-regulated learning
+  within an intelligent tutoring system'
+authors:
+- Melissa Duffy
+- Roger Azevedo
+year: 2015
+venue: Computers in Human Behavior
+doi: 10.1016/j.chb.2015.05.041
+tier: contemporary
+citation_count_approx: 211
+cross_seed_score: 1
+openalex_id: W933409971
+significance: Published in Computers in Human Behavior. LE-filtered expansion seeded from conference-chair authorship
+  (Roger Azevedo). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T01
+- T17

@@ -1,0 +1,14 @@
+resource_id: LE-MX-030
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: LE Toolkit — Introduction (open access chapter)
+authors:
+- Jim Goodell
+publisher: Taylor & Francis Open Access
+url: https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003276579-3/introduction-jim-goodell
+type: book
+primary_topic: T00
+secondary_topics: []
+significance: ''
+year: 2022

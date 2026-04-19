@@ -1,0 +1,28 @@
+resource_id: LE-PP-270
+content_type: PP
+source: curated
+status: APPROVED
+name: Kristen DiCerbo
+affiliation: Khan Academy
+era: contemporary
+role: LAK 2024 General Chair; evidence-centered design and AI-tutor learning data
+description: 'Chief Learning Officer at Khan Academy. General Chair of LAK 2024 (Kyoto). Applied researcher in evidence-centered
+  design, digital assessment, and — most recently — learning data from Khanmigo, Khan Academy''s AI tutor. Brings
+  industry/practitioner voice to flagship LE academic venues.
+
+  '
+key_contributions:
+- General Chair, LAK 2024 (Kyoto, Japan)
+- Chief Learning Officer at Khan Academy; leads learning data strategy for Khanmigo AI tutor
+- Pioneered practitioner applications of evidence-centered design in digital assessment
+- Co-authored key LE papers with John Behrens on learning ecosystems and assessment data
+primary_topic: T15
+secondary_topics:
+- T04
+- T07
+url: https://www.kristendicerbo.com/
+notes: LAK 2024 GC. Khan Academy CLO. Khanmigo learning data.
+key_works:
+- 'Design and Discovery in Educational Assessment: Evidence-Centered Design, Psychometrics, and Educational Data
+  Mining (Zenodo (CERN European Organization for Nuclear Research), 2012)'
+openalex_id: https://openalex.org/A5067432630

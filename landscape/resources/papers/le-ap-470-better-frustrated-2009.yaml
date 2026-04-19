@@ -2,18 +2,22 @@ resource_id: LE-AP-470
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Better to be frustrated than bored: The incidence, persistence, and impact of learners’ cognitive–affective states during interactions with three different computer-based learning environments"
+title: 'Better to be frustrated than bored: The incidence, persistence, and impact of learners’ cognitive–affective
+  states during interactions with three different computer-based learning environments'
 authors: []
 year: 2009
 venue: International Journal of Human-Computer Studies
-doi: "10.1016/j.ijhcs.2009.12.003"
+doi: 10.1016/j.ijhcs.2009.12.003
 tier: highly_cited
 citation_count_approx: 909
 cross_seed_score: 2
-openalex_id: "W2072035149"
-significance: >
-  Published in International Journal of Human-Computer Studies; addresses
-  boredom, surprise, persistence (discontinuity). Quality-filtered from OpenAlex
-  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
-  corpus. Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2072035149
+significance: 'Published in International Journal of Human-Computer Studies; addresses boredom, surprise, persistence
+  (discontinuity). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T04
+secondary_topics:
+- T01
+- T06

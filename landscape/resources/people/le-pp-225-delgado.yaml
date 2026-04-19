@@ -1,0 +1,18 @@
+resource_id: LE-PP-225
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Diana Delgado
+affiliation: Ideaya Biosciences (United States)
+era: contemporary
+role: Motivation and engagement specialist; chapter author on learner motivation tools.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Motivation and engagement specialist;
+  chapter author on learner motivation tools.
+key_works:
+- Increasing engagement in students with autism in inclusion classrooms (Children and Youth Services Review, 2020)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5072801219
+openalex_id: https://openalex.org/A5072801219
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5072801219; verify on review.

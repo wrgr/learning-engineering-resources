@@ -2,18 +2,21 @@ resource_id: LE-AP-229
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "On the Theoretical Breadth of Design-Based Research in Education"
+title: On the Theoretical Breadth of Design-Based Research in Education
 authors: []
 year: 2004
 venue: Educational Psychologist
-doi: "10.1207/s15326985ep3904_6"
+doi: 10.1207/s15326985ep3904_6
 tier: contemporary
 citation_count_approx: 321
 cross_seed_score: 3
-openalex_id: "W2069322390"
-significance: >
-  Published in Educational Psychologist; addresses clarity, epistemology,
-  variety (cybernetics). Quality-filtered from OpenAlex cross-seed expansion of
-  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+openalex_id: W2069322390
+significance: 'Published in Educational Psychologist; addresses clarity, epistemology, variety (cybernetics). Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
   OpenAlex enrichment.
-primary_topic: T01
+
+  '
+primary_topic: T03
+secondary_topics:
+- T01
+- T17

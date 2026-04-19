@@ -1,0 +1,22 @@
+resource_id: LE-AP-879
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Designing and Developing Videos for Online Learning: A Seven-Principle Model'
+authors:
+- Chaohua Ou
+- David Joyner
+- Ashok K. Goel
+year: 2019
+venue: Online Learning
+doi: 10.24059/olj.v23i2.1449
+tier: contemporary
+citation_count_approx: 90
+cross_seed_score: 1
+openalex_id: W2947513188
+significance: Published in Online Learning. LE-filtered expansion seeded from conference-chair authorship (David
+  A. Joyner). OpenAlex-seeded; curation pending.
+primary_topic: T11
+secondary_topics:
+- T07
+- T04

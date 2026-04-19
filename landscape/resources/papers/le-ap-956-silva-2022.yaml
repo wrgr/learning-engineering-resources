@@ -1,0 +1,25 @@
+resource_id: LE-AP-956
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Toward an Institutional Analytics Agenda for Addressing Student Dropout in Higher Education
+authors:
+- Liyanachchi Mahesha Harshani De Silva
+- Irene‐Angelica Chounta
+- Marí­a Jesús Rodríguez-Triana
+- Eric Roldán Roa
+- Anna Gramberg
+- Aune Valk
+year: 2022
+venue: Journal of Learning Analytics
+doi: 10.18608/jla.2022.7507
+tier: contemporary
+citation_count_approx: 28
+cross_seed_score: 1
+openalex_id: W4293919838
+significance: Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship
+  (Irene-Angelica Chounta). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T03

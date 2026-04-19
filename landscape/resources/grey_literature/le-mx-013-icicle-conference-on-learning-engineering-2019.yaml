@@ -1,0 +1,15 @@
+resource_id: LE-MX-013
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: ICICLE Conference on Learning Engineering 2019
+authors:
+- Unknown
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/proceedings/
+type: conference
+primary_topic: T00
+secondary_topics: []
+significance: The inaugural ICICLE conference -- the opening public record of the learning engineering
+  community's annual meeting and the baseline for how the field has evolved since.
+year: 2019

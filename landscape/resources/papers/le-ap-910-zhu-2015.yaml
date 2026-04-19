@@ -1,0 +1,26 @@
+resource_id: LE-AP-910
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Toward a domain-specific visual discussion forum for learning computer programming: An empirical study of
+  a popular MOOC forum'
+authors:
+- Joyce Zhu
+- Jeremy Warner
+- Mitchell Gordon
+- Jeffery White
+- Renan Zanelatto
+- Philip J. Guo
+year: 2015
+venue: Unknown Venue
+doi: 10.1109/vlhcc.2015.7357204
+tier: contemporary
+citation_count_approx: 51
+cross_seed_score: 1
+openalex_id: W2201046534
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Philip
+  J. Guo). OpenAlex-seeded; curation pending.
+primary_topic: T11
+secondary_topics:
+- T07
+- T04

@@ -1,0 +1,20 @@
+resource_id: LE-AP-804
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning engineering: A view on where the field is at, where it’s going, and the research needed."
+authors:
+  - Ryan S. Baker
+  - Ulrich Boser
+  - Erica L. Snow
+year: 2022
+venue: "Technology Mind and Behavior"
+doi: "10.1037/tmb0000058"
+tier: contemporary
+citation_count_approx: 13
+significance: >
+  Although the idea of learning engineering dates back to the 1960s, there has been an
+  explosion of interest in the area in the last decade. This interest has been driven by an
+  expansion in the computational methods available both for scaled data analysis and for
+  much faster experimentation and iteration on student learning experiences.
+primary_topic: T00
+secondary_topics: []

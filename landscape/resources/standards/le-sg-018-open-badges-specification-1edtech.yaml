@@ -1,0 +1,12 @@
+resource_id: LE-SG-018
+content_type: SG
+source: landscape_backfill
+status: APPROVED
+name: Open Badges Specification (1EdTech)
+type: standard
+affiliation_or_venue: 1EdTech
+url: ''
+primary_topic: T05
+secondary_topics:
+- T11
+description: Adjacent-field resource carried forward from landscape curation; enrichment pending.

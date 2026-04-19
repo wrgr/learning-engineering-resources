@@ -1,0 +1,22 @@
+resource_id: LE-AP-992
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Evaluating the Effect of Uncertainty Visualisation in Open Learner Models on Students’ Metacognitive Skills
+authors:
+- Lamiya Al-Shanfari
+- Carrie Demmans Epp
+- Chris Baber
+year: 2017
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-319-61425-0_2
+tier: contemporary
+citation_count_approx: 14
+cross_seed_score: 1
+openalex_id: W2642431224
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Carrie Demmans Epp). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T06
+- T14

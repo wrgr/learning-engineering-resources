@@ -1,0 +1,23 @@
+resource_id: LE-AP-831
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'AutoTutor: An Intelligent Tutoring System With Mixed-Initiative Dialogue'
+authors:
+- Arthur C. Graesser
+- Patrick Chipman
+- Brian C. Haynes
+- Andrew M. Olney
+year: 2005
+venue: IEEE Transactions on Education
+doi: 10.1109/te.2005.856149
+tier: highly_cited
+citation_count_approx: 688
+cross_seed_score: 1
+openalex_id: W2123169053
+significance: Published in IEEE Transactions on Education. LE-filtered expansion seeded from conference-chair authorship
+  (Andrew M. Olney). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T05

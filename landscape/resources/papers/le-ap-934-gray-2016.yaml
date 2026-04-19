@@ -1,0 +1,23 @@
+resource_id: LE-AP-934
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Learning Factor Models of Students at Risk of Failing in the Early Stage of Tertiary Education
+authors:
+- Geraldine Gray
+- Colm McGuinness
+- Philip Owende
+- Markus Hofmann
+year: 2016
+venue: Journal of Learning Analytics
+doi: 10.18608/jla.2016.32.20
+tier: contemporary
+citation_count_approx: 35
+cross_seed_score: 1
+openalex_id: W2519664435
+significance: Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship
+  (Geraldine Gray). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T15

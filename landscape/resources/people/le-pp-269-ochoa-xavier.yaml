@@ -1,0 +1,32 @@
+resource_id: LE-PP-269
+content_type: PP
+source: curated
+status: APPROVED
+name: Xavier Ochoa
+affiliation: NYU Steinhardt, New York University
+era: contemporary
+role: LAK 2025 Program Chair; multimodal learning analytics and scalable LA infrastructure
+description: 'Associate Professor of Learning Analytics at NYU Steinhardt. Program Chair for LAK 2025. Research
+  on multimodal learning analytics and scalable LA infrastructure — integrating video, audio, gesture, and physiological
+  data into analytics pipelines.
+
+  '
+key_contributions:
+- Program Chair, LAK 2025 (Dublin)
+- Co-editor of The Multimodal Learning Analytics Handbook
+- Develops scalable open-source infrastructure for multimodal LA data capture and processing
+- Bridges Latin American LA community with the SoLAR mainstream
+primary_topic: T04
+secondary_topics:
+- T11
+- T07
+url: https://steinhardt.nyu.edu/people/xavier-ochoa
+notes: LAK 2025 PC. Multimodal LA. Scalable infrastructure.
+key_works:
+- Supporting the shift to digital with student-centered learning analytics (Educational Technology Research and
+  Development, 2020)
+- Mapping Learning Analytics initiatives in Latin America (British Journal of Educational Technology, 2020)
+- Multimodal Learning Analytics in a Laboratory Classroom (Intelligent systems reference library, 2019)
+- 'LADA: A learning analytics dashboard for academic advising (Computers in Human Behavior, 2018)'
+- 'Editorial: Augmenting Learning Analytics with Multimodal Sensory Data (Journal of Learning Analytics, 2016)'
+openalex_id: https://openalex.org/A5014320446

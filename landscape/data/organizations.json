@@ -250,5 +250,204 @@
     ],
     "description": "Open-source data standard and registry for describing credentials, competencies, and learning pathways. The Credential Transparency Description Language (CTDL) encodes 1,200+ properties for representing what people know and can do, enabling machine-readable linkages between learning experiences, competencies, and credentials across providers and platforms.\nThe emerging national infrastructure for credential-level knowledge representation in competency-based learning engineering systems. For LE practitioners designing workforce-aligned learning systems, CTDL provides the shared ontology needed to map learning outcomes to job requirements and to stack credentials into coherent pathways at scale.\n",
     "notes": "CTDL is the primary open standard for machine-readable credential and competency representation in the US."
+  },
+  {
+    "resource_id": "LE-CO-020",
+    "content_type": "CO",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "LIVE Learning Innovation Incubator (Vanderbilt Peabody)",
+    "type": "organization",
+    "affiliation_or_venue": "Vanderbilt University — Peabody College",
+    "url": "https://lab.vanderbilt.edu/live/",
+    "primary_topic": "T16",
+    "secondary_topics": [],
+    "description": "Peabody incubator supporting interdisciplinary learning innovation; participates in national AI-for-learning efforts."
+  },
+  {
+    "resource_id": "LE-CO-021",
+    "content_type": "CO",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "ISLS Annual Meeting",
+    "type": "event",
+    "affiliation_or_venue": "International Society of the Learning Sciences",
+    "url": "https://www.isls.org/",
+    "primary_topic": "T17",
+    "secondary_topics": [
+      "T01"
+    ],
+    "description": "Annual conference of the International Society of the Learning Sciences, encompassing ICLS and CSCL communities."
+  },
+  {
+    "resource_id": "LE-CO-022",
+    "content_type": "CO",
+    "source": "landscape_backfill",
+    "status": "APPROVED",
+    "name": "INCOSE — International Council on Systems Engineering",
+    "type": "organization",
+    "affiliation_or_venue": "INCOSE",
+    "url": "",
+    "primary_topic": "T02",
+    "secondary_topics": [
+      "T13"
+    ],
+    "description": "Adjacent-field resource carried forward from landscape curation; enrichment pending."
+  },
+  {
+    "resource_id": "LE-CO-023",
+    "content_type": "CO",
+    "source": "landscape_backfill",
+    "status": "APPROVED",
+    "name": "Credential Engine / CTDL (Credential Transparency Description Language)",
+    "type": "organization",
+    "affiliation_or_venue": "Credential Engine",
+    "url": "",
+    "primary_topic": "T05",
+    "secondary_topics": [
+      "T11",
+      "T16"
+    ],
+    "description": "Adjacent-field resource carried forward from landscape curation; enrichment pending."
+  },
+  {
+    "resource_id": "LE-CO-024",
+    "content_type": "CO",
+    "source": "landscape_backfill",
+    "status": "APPROVED",
+    "name": "Applied Research Laboratories (ARL) — University of Texas at Austin",
+    "type": "research_center",
+    "affiliation_or_venue": "University of Texas at Austin",
+    "url": "",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T02",
+      "T13"
+    ],
+    "description": "Adjacent-field resource carried forward from landscape curation; enrichment pending."
+  },
+  {
+    "resource_id": "LE-IC-024",
+    "content_type": "CO",
+    "source": "icicle",
+    "status": "APPROVED",
+    "name": "OpenSimon Community (CMU Simon Initiative)",
+    "type": "organization",
+    "affiliation_or_venue": "Carnegie Mellon University — Simon Initiative",
+    "url": "https://www.cmu.edu/simon/open-simon/",
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T04",
+      "T05"
+    ],
+    "description": "Open-access community and toolkit collection from CMU's Simon Initiative. Hosts LearnSphere DataShop, OLI course materials, and research infrastructure for learning engineering at scale.",
+    "notes": "Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025"
+  },
+  {
+    "resource_id": "LE-IC-025",
+    "content_type": "CO",
+    "source": "icicle",
+    "status": "APPROVED",
+    "name": "MIT LEAP Group — Learning Engineering and Practice",
+    "type": "organization",
+    "affiliation_or_venue": "Massachusetts Institute of Technology",
+    "url": "https://leap.mit.edu",
+    "primary_topic": "T00",
+    "secondary_topics": [
+      "T06",
+      "T07"
+    ],
+    "description": "MIT research group applying learning engineering principles to university-level STEM education. Produces open courseware, edX materials, and research on evidence-based pedagogy at scale.",
+    "notes": "Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025"
+  },
+  {
+    "resource_id": "LE-IC-026",
+    "content_type": "CO",
+    "source": "icicle",
+    "status": "APPROVED",
+    "name": "Playful Journey Lab / MITili (MIT)",
+    "type": "organization",
+    "affiliation_or_venue": "Massachusetts Institute of Technology",
+    "url": "https://sagroups.ieee.org/icicle/resources/",
+    "primary_topic": "T08",
+    "secondary_topics": [
+      "T07",
+      "T06"
+    ],
+    "description": "MIT lab focused on game-based and playful learning engineering. MITili (MIT Integrated Learning Initiative) applies data-driven, iterative design to immersive and game-based educational experiences.",
+    "notes": "Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025"
+  },
+  {
+    "resource_id": "LE-MX-001",
+    "content_type": "CO",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "Advanced Distributed Learning Initiative (ADL)",
+    "type": "org",
+    "affiliation_or_venue": "U.S. Department of Defense",
+    "url": "https://adlnet.gov/",
+    "primary_topic": "T10",
+    "secondary_topics": [
+      "T16"
+    ],
+    "description": "DoD-funded learning-technology R&D center. Birthplace of SCORM and xAPI. Substantial overlap with the ICICLE Government/Military MIG; they co-sponsor iFEST each year."
+  },
+  {
+    "resource_id": "LE-MX-002",
+    "content_type": "CO",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "IEEE Learning Technology Standards Committee (LTSC)",
+    "type": "org",
+    "affiliation_or_venue": "IEEE",
+    "url": "https://sagroups.ieee.org/ltsc/",
+    "primary_topic": "T16",
+    "secondary_topics": [],
+    "description": "IEEE standards body responsible for learning-technology interoperability standards. The institutional home of xAPI-adjacent work and a natural partner to ICICLE's working groups."
+  },
+  {
+    "resource_id": "LE-MX-003",
+    "content_type": "CO",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "MIT Integrated Learning Initiative (MITili)",
+    "type": "org",
+    "affiliation_or_venue": "MIT",
+    "url": "https://mitili.mit.edu/",
+    "primary_topic": "T01",
+    "secondary_topics": [
+      "T11"
+    ],
+    "description": "MIT-wide initiative bridging learning science research and practice. Funds cross-disciplinary work on how people learn and publishes actionable guidance — a key academic node in the LE ecosystem."
+  },
+  {
+    "resource_id": "LE-MX-004",
+    "content_type": "CO",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "Playful Journey Lab",
+    "type": "org",
+    "affiliation_or_venue": "MIT",
+    "url": "https://playful.mit.edu/",
+    "primary_topic": "T08",
+    "secondary_topics": [
+      "T01"
+    ],
+    "description": "MIT lab building playful assessment tools and game-based learning approaches. Runs the 'Schools of Tomorrow' Learning Engineering Project Blueprint — an example of LE applied to K-12 assessment innovation."
+  },
+  {
+    "resource_id": "LE-MX-005",
+    "content_type": "CO",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "The Learning Agency",
+    "type": "org",
+    "affiliation_or_venue": "Learning Agency / Learning Agency Lab",
+    "url": "https://www.the-learning-agency.com/",
+    "primary_topic": "T15",
+    "secondary_topics": [
+      "T16"
+    ],
+    "description": "Non-profit research and policy shop led by Ulrich Boser, the co-author of 'High-Leverage Opportunities for LE.' Runs several open-data competitions and the Learning Engineering Google Group that ICICLE references."
   }
 ]

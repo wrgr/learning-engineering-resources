@@ -1,0 +1,16 @@
+resource_id: LE-IC-044
+content_type: SG
+source: icicle
+status: APPROVED
+name: 'IEEE 1484.20.2: Recommended Practice for Defining Competencies'
+type: standard
+affiliation_or_venue: IEEE LTSC
+url: https://standards.ieee.org/ieee/1484.20.2/10435/
+primary_topic: T05
+secondary_topics:
+- T16
+- T11
+description: Rigorous data schema for defining human competencies. Supports Integrated Learner Records
+  (ILR) spanning K-12, higher education, workforce, and military environments.
+notes: Critical for competency-based education and credential portability. Underpins the field's move
+  toward skills-based hiring.

@@ -1,0 +1,25 @@
+resource_id: LE-AP-929
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Mapping Learning Analytics initiatives in Latin America
+authors:
+- Cristian Cechinel
+- Xavier Ochôa
+- Henrique Lemos dos Santos
+- João Batista Carvalho Nunes
+- Virgínia Rodés
+- Emanuel Marques Queiroga
+year: 2020
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.12941
+tier: contemporary
+citation_count_approx: 39
+cross_seed_score: 1
+openalex_id: W3018354635
+significance: Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Xavier Ochoa). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T11
+- T07

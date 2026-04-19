@@ -1,0 +1,25 @@
+resource_id: LE-AP-958
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Earliest Predictor of Dropout in MOOCs: A Longitudinal Study of FutureLearn courses'
+authors:
+- Alexandra I. Cristea
+- Ahmed Alamri
+- Mizue Kayama
+- Craig Stewart
+- Mohammad Alshehri
+- Lei Shi
+year: 2018
+venue: Durham Research Online (Durham University)
+doi: ''
+tier: contemporary
+citation_count_approx: 27
+cross_seed_score: 1
+openalex_id: W2895859220
+significance: Published in Durham Research Online (Durham University). LE-filtered expansion seeded from conference-chair
+  authorship (Alexandra I. Cristea). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T04

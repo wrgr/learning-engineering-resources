@@ -1,0 +1,22 @@
+resource_id: LE-AP-1010
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Metacognitive Scaffolding Amplifies the Effect of Learning by Teaching a Teachable Agent
+authors:
+- Noboru Matsuda
+- Vishnu Priya Chandra Sekar
+- Natalie Wall
+year: 2018
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-319-93843-1_23
+tier: contemporary
+citation_count_approx: 5
+cross_seed_score: 1
+openalex_id: W2809530590
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Noboru Matsuda). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T01

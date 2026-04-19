@@ -1,0 +1,24 @@
+resource_id: LE-AP-911
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Are MOOC Learning Analytics Results Trustworthy? With Fake Learners, They Might Not Be!
+authors:
+- Giora Alexandron
+- Lisa Y. Yoo
+- José A. Ruipérez‐Valiente
+- Sunbok Lee
+- David E. Pritchard
+year: 2019
+venue: International Journal of Artificial Intelligence in Education
+doi: 10.1007/s40593-019-00183-1
+tier: contemporary
+citation_count_approx: 50
+cross_seed_score: 1
+openalex_id: W2955287056
+significance: Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion
+  seeded from conference-chair authorship (Giora Alexandron). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T14
+- T11

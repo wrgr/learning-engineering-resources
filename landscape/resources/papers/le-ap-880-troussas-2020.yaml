@@ -1,0 +1,22 @@
+resource_id: LE-AP-880
+content_type: AP
+source: openalex_expansion
+status: seed
+title: A Novel Teaching Strategy Through Adaptive Learning Activities for Computer Programming
+authors:
+- Christos Troussas
+- Akrivi Krouska
+- Cleo Sgouropoulou
+year: 2020
+venue: IEEE Transactions on Education
+doi: 10.1109/te.2020.3012744
+tier: contemporary
+citation_count_approx: 84
+cross_seed_score: 1
+openalex_id: W3056780688
+significance: Published in IEEE Transactions on Education. LE-filtered expansion seeded from conference-chair authorship
+  (Christos Troussas). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T12

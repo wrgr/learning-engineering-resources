@@ -1,0 +1,21 @@
+resource_id: LE-AP-946
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Fostering Analytics on Learning Analytics Research: the LAK Dataset.'
+authors:
+- Davide Taibi
+- Stefan Dietze
+year: 2013
+venue: Unknown Venue
+doi: ''
+tier: contemporary
+citation_count_approx: 31
+cross_seed_score: 1
+openalex_id: W2396739851
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Davide
+  Taibi). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T07
+- T11

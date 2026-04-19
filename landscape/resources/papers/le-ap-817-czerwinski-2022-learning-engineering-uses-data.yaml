@@ -1,0 +1,18 @@
+resource_id: LE-AP-817
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering Uses Data (Part 1): Instrumentation"
+authors:
+  - Erin Czerwinski
+  - Jim Goodell
+  - STEVE RITTER
+year: 2022
+doi: "10.4324/9781003276579-9"
+tier: contemporary
+citation_count_approx: 4
+significance: >
+  Data-informed decision-making is an essential and integral part of learning engineering.
+  Without it, the people may be doing learning design, but they are not doing learning
+  engineering.
+primary_topic: T03
+secondary_topics: []

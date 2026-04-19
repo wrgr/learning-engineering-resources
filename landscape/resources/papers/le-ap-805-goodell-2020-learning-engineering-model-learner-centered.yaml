@@ -1,0 +1,17 @@
+resource_id: LE-AP-805
+content_type: AP
+source: scholar_gap_analysis
+title: "A Learning Engineering Model for Learner-Centered Adaptive Systems"
+authors:
+  - Jim Goodell
+  - Khanh-Phuong Thai
+year: 2020
+venue: "Lecture notes in computer science"
+doi: "10.1007/978-3-030-60128-7_41"
+tier: contemporary
+citation_count_approx: 13
+significance: >
+  LE-framed work per Scholar gap analysis (Goodell & Thai 'A Learning Engineering Model for
+  Learner-Centered Adaptive Systems' — LE-framed.).
+primary_topic: T06
+secondary_topics: []

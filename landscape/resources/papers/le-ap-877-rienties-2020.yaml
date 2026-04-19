@@ -1,0 +1,23 @@
+resource_id: LE-AP-877
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Defining the Boundaries Between Artificial Intelligence in Education, Computer-Supported Collaborative Learning,
+  Educational Data Mining, and Learning Analytics: A Need for Coherence'
+authors:
+- Bart Rienties
+- Henrik Køhler Simonsen
+- Christothea Herodotou
+year: 2020
+venue: Frontiers in Education
+doi: 10.3389/feduc.2020.00128
+tier: contemporary
+citation_count_approx: 94
+cross_seed_score: 1
+openalex_id: W3042988478
+significance: Published in Frontiers in Education. LE-filtered expansion seeded from conference-chair authorship
+  (Bart Rienties). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T11
+- T17

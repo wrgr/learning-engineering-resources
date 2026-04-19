@@ -1,0 +1,17 @@
+resource_id: LE-IC-003
+content_type: GL
+source: icicle
+status: APPROVED
+title: Learning Engineering Case Guide 1.0 (ICICLE)
+authors:
+- Learning Engineering Case Guide 1.0
+publisher: IEEE ICICLE
+url: https://docs.google.com/presentation/d/1vvpSd3lLQ7gijMPME40kY4M9EPLv-Bs7KOjITEXfBXo/
+type: report
+primary_topic: T03
+secondary_topics:
+- T00
+- T15
+significance: 'Google Slides deck walking through real LE case examples. Shows how the LE process is applied
+  in practice: problem formulation, data collection, evidence-based iteration.'
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

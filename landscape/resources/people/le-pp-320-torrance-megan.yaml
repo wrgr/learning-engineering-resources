@@ -1,0 +1,24 @@
+resource_id: LE-PP-320
+content_type: PP
+source: curated
+status: APPROVED
+name: Megan Torrance
+affiliation: "TorranceLearning (CEO & Founder)"
+era: contemporary
+role: ICICLE 2024 Conference Co-Chair; LLAMA agile learning design and xAPI
+description: >
+  CEO and Founder of TorranceLearning, a corporate learning design consultancy. Conference
+  Co-Chair of ICICLE 2024 (Tempe, AZ). Practitioner leader in workplace/corporate learning
+  engineering; creator of the LLAMA agile learning design methodology and a prolific
+  implementer of xAPI in enterprise contexts.
+key_contributions:
+  - "Conference Co-Chair, ICICLE 2024 (Tempe, AZ)"
+  - "Creator of LLAMA — an agile learning design methodology widely adopted in corporate L&D"
+  - Prominent practitioner voice on xAPI implementation in enterprise learning contexts
+  - Brings corporate/workplace LE perspective to the ICICLE community
+primary_topic: T12
+secondary_topics:
+  - T10
+  - T16
+url: "https://www.torrancelearning.com/our-team/"
+notes: ICICLE 2024 Conf Co-Chair. LLAMA methodology. Corporate LE.

@@ -2,18 +2,21 @@ resource_id: LE-AP-275
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "The logic of design research"
+title: The logic of design research
 authors: []
 year: 2017
 venue: Learning Research and Practice
-doi: "10.1080/23735082.2017.1286367"
+doi: 10.1080/23735082.2017.1286367
 tier: contemporary
 citation_count_approx: 111
 cross_seed_score: 3
-openalex_id: "W2588944515"
-significance: >
-  Published in Learning Research and Practice; addresses rigour, craft, computer
-  science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
-  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
-  enrichment.
-primary_topic: T01
+openalex_id: W2588944515
+significance: 'Published in Learning Research and Practice; addresses rigour, craft, computer science. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+
+  '
+primary_topic: T03
+secondary_topics:
+- T01
+- T17

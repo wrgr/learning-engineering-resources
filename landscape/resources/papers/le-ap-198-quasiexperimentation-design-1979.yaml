@@ -2,17 +2,20 @@ resource_id: LE-AP-198
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Quasi-Experimentation: Design & Analysis Issues for Field Settings"
+title: 'Quasi-Experimentation: Design & Analysis Issues for Field Settings'
 authors: []
 year: 1979
 venue: Medical Entomology and Zoology
 tier: foundational
 citation_count_approx: 11377
 cross_seed_score: 3
-openalex_id: "W1491087240"
-significance: >
-  Published in Medical Entomology and Zoology; addresses field (mathematics),
-  computer science, management science. Quality-filtered from OpenAlex cross-
-  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
-  Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W1491087240
+significance: 'Published in Medical Entomology and Zoology; addresses field (mathematics), computer science, management
+  science. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
+  corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T17
+secondary_topics:
+- T01
+- T15

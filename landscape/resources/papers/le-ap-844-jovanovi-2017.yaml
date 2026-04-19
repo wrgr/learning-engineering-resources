@@ -1,0 +1,24 @@
+resource_id: LE-AP-844
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Learning analytics to unveil learning strategies in a flipped classroom
+authors:
+- Jelena Jovanović
+- Dragan Gašević
+- Shane Dawson
+- Abelardo Pardo
+- Negin Mirriahi
+year: 2017
+venue: The Internet and Higher Education
+doi: 10.1016/j.iheduc.2017.02.001
+tier: contemporary
+citation_count_approx: 359
+cross_seed_score: 1
+openalex_id: W2590161963
+significance: Published in The Internet and Higher Education. LE-filtered expansion seeded from conference-chair
+  authorship (Jelena Jovanović). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T01

@@ -1,0 +1,21 @@
+resource_id: LE-AP-949
+content_type: AP
+source: openalex_expansion
+status: seed
+title: A Review of Psychometric Data Analysis and Applications in Modelling of Academic Achievement in Tertiary
+  Education
+authors:
+- Geraldine Gray
+year: 2014
+venue: Journal of Learning Analytics
+doi: 10.18608/jla.2014.11.5
+tier: contemporary
+citation_count_approx: 30
+cross_seed_score: 1
+openalex_id: W1513323582
+significance: Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship
+  (Geraldine Gray). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T15

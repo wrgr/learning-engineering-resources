@@ -1,0 +1,19 @@
+resource_id: LE-MX-009
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: Applying Learning Engineering in a Global Context
+authors:
+- Unknown
+publisher: IEEE ICICLE — Invitation to LE Webinar Series
+url: https://youtu.be/i6Op4EmApFc
+type: webinar
+primary_topic: T13
+secondary_topics:
+- T16
+significance: An Invitation of Learning Engineering held on February 25, 2026, explored how learning engineering
+  is adapted globally in a local context. Hosted by the Globalisation Special Interest Group, Carolina
+  Ali Fojaco, Chief Learning Officer at Project Alianza, provided a deep dive on how they used learning
+  engineering to iterate and scale AnGo, an offline, AI-assisted literacy app to help children in Central
+  America build foundational reading skills.
+year: 2026

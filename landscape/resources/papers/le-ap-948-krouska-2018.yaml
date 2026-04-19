@@ -1,0 +1,22 @@
+resource_id: LE-AP-948
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Computerized Adaptive Assessment Using Accumulative Learning Activities Based on Revised Bloom’s Taxonomy
+authors:
+- Akrivi Krouska
+- Christos Troussas
+- Maria Virvou
+year: 2018
+venue: Smart innovation, systems and technologies
+doi: 10.1007/978-3-319-97679-2_26
+tier: contemporary
+citation_count_approx: 30
+cross_seed_score: 1
+openalex_id: W2885700915
+significance: Published in Smart innovation, systems and technologies. LE-filtered expansion seeded from conference-chair
+  authorship (Christos Troussas). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T12

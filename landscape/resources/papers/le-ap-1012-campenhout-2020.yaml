@@ -1,0 +1,20 @@
+resource_id: LE-AP-1012
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Supporting Metacognitive Learning Strategies Through an Adaptive Application
+authors:
+- Rachel Van Campenhout
+year: 2020
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-030-50788-6_16
+tier: contemporary
+citation_count_approx: 4
+cross_seed_score: 1
+openalex_id: W3041319309
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Rachel Van Campenhout). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T04
+- T14

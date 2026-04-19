@@ -1,0 +1,33 @@
+resource_id: LE-PP-285
+content_type: PP
+source: curated
+status: APPROVED
+name: Mingyu Feng
+affiliation: WestEd, USA
+era: contemporary
+role: EDM 2023 Program Chair; LA and ITS evaluation in K-12 mathematics
+description: 'Senior Research Scientist at WestEd. Program Chair for EDM 2023. Research on learning analytics, intelligent
+  tutoring system evaluation, and K-12 mathematics education — notably large-scale RCTs of ASSISTments and similar
+  systems.
+
+  '
+key_contributions:
+- Program Chair, EDM 2023 (Bengaluru, India)
+- Led large-scale evaluations of ASSISTments and K-12 math ITS deployments
+- Bridges academic EDM research with district-scale impact evaluation at WestEd
+primary_topic: T15
+secondary_topics:
+- T04
+- T06
+url: https://www.wested.org/personnel/mingyu-feng/
+notes: EDM 2023 PC. ASSISTments evaluations. K-12 math RCTs.
+key_works:
+- 'Enhancing Teaching and Learning Through Educational Data Mining and Learning Analytics: An Issue Brief (2012)'
+- 'When adaptive learning is effective learning: comparison of an adaptive learning system to teacher-led instruction
+  (Interactive Learning Environments, 2020)'
+- 'Predicting State Test Scores Better with Intelligent Tutoring Systems: Developing Metrics to Measure Assistance
+  Required (Lecture notes in computer science, 2006)'
+- Proceedings of the 16th International Conference on Educational Data Mining (Zenodo (CERN European Organization
+  for Nuclear Research), 2023)
+- Can an Intelligent Tutoring System Predict Math Proficiency as Well as a Standardized Test (2008)
+openalex_id: https://openalex.org/A5102978065

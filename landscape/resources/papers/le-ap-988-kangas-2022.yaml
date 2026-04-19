@@ -1,0 +1,22 @@
+resource_id: LE-AP-988
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Creative Learning with Technologies in Young Students’ STEAM Education
+authors:
+- Kaiju Kangas
+- Kati Sormunen
+- Tiina Korhonen
+year: 2022
+venue: Lecture notes in educational technology
+doi: 10.1007/978-981-19-0568-1_9
+tier: contemporary
+citation_count_approx: 15
+cross_seed_score: 1
+openalex_id: W4225570409
+significance: Published in Lecture notes in educational technology. LE-filtered expansion seeded from conference-chair
+  authorship (Kaiju Kangas). OpenAlex-seeded; curation pending.
+primary_topic: T17
+secondary_topics:
+- T03
+- T01

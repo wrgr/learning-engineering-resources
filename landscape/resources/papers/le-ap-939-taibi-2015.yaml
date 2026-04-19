@@ -1,0 +1,24 @@
+resource_id: LE-AP-939
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Exploring <scp>TED</scp> talks as linked data for education
+authors:
+- Davide Taibi
+- Saniya Chawla
+- Stefan Dietze
+- Ivana Marenzi
+- Besnik Fetahu
+year: 2015
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.12283
+tier: contemporary
+citation_count_approx: 34
+cross_seed_score: 1
+openalex_id: W1939506379
+significance: Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Davide Taibi). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T07
+- T11

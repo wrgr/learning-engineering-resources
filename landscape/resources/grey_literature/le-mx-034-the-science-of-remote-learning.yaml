@@ -1,0 +1,16 @@
+resource_id: LE-MX-034
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: The Science of Remote Learning
+authors:
+- Jim Goodell and Aaron Kessler (eds.)
+publisher: MIT Open Learning
+url: https://openlearning.mit.edu/sites/default/files/inline-files/TheScienceofRemoteLearning.pdf
+type: report
+primary_topic: T01
+secondary_topics:
+- T11
+significance: Pandemic-era compilation from MIT Open Learning distilling what the learning sciences say
+  about effective remote instruction. Practical, evidence-based, and widely shared during the 2020 pivot.
+year: 2020

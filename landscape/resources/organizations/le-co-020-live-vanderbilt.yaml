@@ -1,0 +1,12 @@
+resource_id: LE-CO-020
+content_type: CO
+source: mdx_backfill
+status: APPROVED
+name: LIVE Learning Innovation Incubator (Vanderbilt Peabody)
+type: organization
+affiliation_or_venue: Vanderbilt University — Peabody College
+url: https://lab.vanderbilt.edu/live/
+primary_topic: T16
+secondary_topics: []
+description: Peabody incubator supporting interdisciplinary learning innovation; participates in national
+  AI-for-learning efforts.

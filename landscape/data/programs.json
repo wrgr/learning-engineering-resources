@@ -198,5 +198,20 @@
       "T03"
     ],
     "description": "First-in-the-nation school of engineering education; graduate offerings include the online M.S. in Engineering Education, Ph.D. in engineering education research, and the stackable Teaching and Learning in Engineering graduate certificate—explicit “learning engineering” language appears in certificate and course titles.\n"
+  },
+  {
+    "resource_id": "LE-PC-200",
+    "content_type": "PC",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "JHU MEd in Learning Design and Technology",
+    "type": "program",
+    "affiliation_or_venue": "Johns Hopkins University — School of Education",
+    "url": "https://education.jhu.edu/academics/med/learning-design-and-technology/",
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T12"
+    ],
+    "description": "Master's degree in Learning Design and Technology at JHU School of Education. Houses the Learning Engineering for Next-Generation Systems (LENS) concentration."
   }
 ]

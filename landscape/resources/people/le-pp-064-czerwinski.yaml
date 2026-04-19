@@ -3,25 +3,32 @@ content_type: PP
 source: curated
 status: APPROVED
 name: Erin Czerwinski
-affiliation: "Carnegie Mellon University; IEEE ICICLE — Tools SIG"
-years: "active 2010s–present"
+affiliation: Carnegie Mellon University; IEEE ICICLE — Tools SIG
+years: active 2010s–present
 era: contemporary
-role: LE tools researcher; ICICLE Tools SIG co-chair
-description: >
-  Co-chair of the Tools SIG within IEEE ICICLE, curating and evaluating learning engineering
-  tools and technology stacks. CMU affiliation connects research-grade LE tools (OpenSimon,
-  DataShop/LearnSphere) with ICICLE's practitioner community.
+role: LE tools researcher; ICICLE Tools SIG co-chair; ICICLE 2023 Conference Chair
+description: 'Co-chair of the Tools SIG within IEEE ICICLE, curating and evaluating learning engineering tools and
+  technology stacks. CMU affiliation connects research-grade LE tools (OpenSimon, DataShop/LearnSphere) with ICICLE''s
+  practitioner community. Chaired the 2023 ICICLE Annual Meeting held at CMU.
+
+  '
 key_contributions:
-  - Co-chairs the Tools SIG (ICICLE), maintaining curated guidance on tools supporting the LE workflow
-  - Bridges CMU's research-grade LE tooling (OpenSimon, LearnSphere) with broader practitioner communities
-  - Contributes frameworks for tool evaluation, selection, and integration in learning engineering projects
-  - Connects software engineering and educational technology perspectives within ICICLE's tools guidance
+- Co-chairs the Tools SIG (ICICLE), maintaining curated guidance on tools supporting the LE workflow
+- Chaired the 2023 IEEE ICICLE Annual Meeting at Carnegie Mellon University
+- Bridges CMU's research-grade LE tooling (OpenSimon, LearnSphere) with broader practitioner communities
+- Contributes frameworks for tool evaluation, selection, and integration in learning engineering projects
+- Connects software engineering and educational technology perspectives within ICICLE's tools guidance
 key_works:
-  - "ICICLE Body of Knowledge — Tools chapter contributions"
-  - "IEEE ICICLE Tools SIG practitioner guidance"
+- ICICLE Body of Knowledge — Tools chapter contributions
+- IEEE ICICLE Tools SIG practitioner guidance
+- 'Learning Engineering Uses Data (Part 2): Analytics (2022)'
+- 'Learning Engineering Uses Data (Part 1): Instrumentation (2022)'
+- Learning Engineering Perspectives for Supporting Educational Systems (Proceedings of the Human Factors and Ergonomics
+  Society Annual Meeting, 2023)
 primary_topic: T11
 secondary_topics:
-  - T06
-  - T16
+- T06
+- T16
 url: https://icicle.ieee.org
-notes: ICICLE community lead. Tools SIG. CMU connection.
+notes: ICICLE community lead. Tools SIG. ICICLE 2023 Conference Chair. CMU connection.
+openalex_id: https://openalex.org/A5076655580

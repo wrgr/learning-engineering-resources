@@ -1,0 +1,21 @@
+resource_id: LE-AP-835
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Scaffolding Self-regulated Learning and Metacognition – Implications for the Design of Computer-based Scaffolds
+authors:
+- Roger Azevedo
+- Allyson F. Hadwin
+year: 2005
+venue: Instructional Science
+doi: 10.1007/s11251-005-1272-9
+tier: highly_cited
+citation_count_approx: 546
+cross_seed_score: 1
+openalex_id: W2114181363
+significance: Published in Instructional Science. LE-filtered expansion seeded from conference-chair authorship
+  (Roger Azevedo). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T01
+- T17

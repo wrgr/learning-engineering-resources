@@ -1,0 +1,20 @@
+resource_id: LE-AP-975
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Learning and design: Why the learning sciences and instructional systems need each other'
+authors:
+- Christopher Hoadley
+year: 2004
+venue: 'Educational technology: The magazine for managers of change in education'
+doi: ''
+tier: contemporary
+citation_count_approx: 22
+cross_seed_score: 1
+openalex_id: W1561794488
+significance: 'Published in Educational technology: The magazine for managers of change in education. LE-filtered
+  expansion seeded from conference-chair authorship (Chris Hoadley). OpenAlex-seeded; curation pending.'
+primary_topic: T17
+secondary_topics:
+- T03
+- T01

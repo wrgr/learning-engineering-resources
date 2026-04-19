@@ -3,18 +3,14 @@
 Reads all YAML files in landscape/resources/<type>/ subdirectories and writes a flat
 JSON array suitable for graph.astro consumption.  This script is the canonical way to
 regenerate the registry; do not hand-edit the output JSON.
+
+Requires PyYAML (see scripts/requirements.txt).
 """
 
 import json
-import re
-import sys
 from pathlib import Path
 
-try:
-    import yaml
-except ImportError:
-    # Minimal YAML parser for our flat record schema (no nested sequences beyond arrays)
-    yaml = None  # type: ignore
+import yaml
 
 REPO_ROOT = Path(__file__).parent.parent
 RESOURCES_DIR = REPO_ROOT / "landscape" / "resources"
@@ -26,93 +22,9 @@ INCLUDE_TYPES = {"people", "organizations", "grey_literature", "programs",
                  "conferences", "tools", "journals", "standards", "history_timeline"}
 
 
-def parse_yaml_simple(text: str) -> dict:
-    """Parse a simple flat YAML record without a full YAML library.
-
-    Handles: scalar strings, quoted strings, block scalars (>), and lists.
-    Stops at the first blank line after a block scalar.
-    """
-    result: dict = {}
-    lines = text.splitlines()
-    i = 0
-
-    def read_block_scalar(indent_ref: int) -> str:
-        """Collect folded block scalar lines until dedent."""
-        nonlocal i
-        parts = []
-        while i < len(lines):
-            line = lines[i]
-            if line.strip() == "":
-                i += 1
-                continue
-            spaces = len(line) - len(line.lstrip())
-            if spaces <= indent_ref and line.strip():
-                break
-            parts.append(line.strip())
-            i += 1
-        return " ".join(parts)
-
-    def read_list(indent_ref: int) -> list:
-        """Collect list items (lines starting with '  - ')."""
-        nonlocal i
-        items = []
-        while i < len(lines):
-            line = lines[i]
-            if line.strip() == "":
-                i += 1
-                continue
-            spaces = len(line) - len(line.lstrip())
-            if spaces < indent_ref:
-                break
-            m = re.match(r"^\s+- (.+)$", line)
-            if m:
-                items.append(m.group(1).strip().strip("\"'"))
-                i += 1
-            else:
-                break
-        return items
-
-    while i < len(lines):
-        line = lines[i]
-        if not line.strip() or line.lstrip().startswith("#"):
-            i += 1
-            continue
-
-        m = re.match(r"^(\w[\w_]*):\s*(.*)", line)
-        if not m:
-            i += 1
-            continue
-
-        key = m.group(1)
-        raw_val = m.group(2).strip()
-        i += 1
-
-        if raw_val == "|" or raw_val == ">":
-            # block scalar: next indented lines
-            result[key] = read_block_scalar(0)
-        elif raw_val == "":
-            # might be a list next
-            if i < len(lines) and re.match(r"^\s+- ", lines[i]):
-                result[key] = read_list(1)
-            else:
-                result[key] = None
-        else:
-            # inline value — strip quotes
-            val = raw_val.strip('"\'')
-            result[key] = val
-
-    return result
-
-
 def load_yaml_record(path: Path) -> dict:
-    """Load a YAML file to a dict, using PyYAML if available."""
-    text = path.read_text(encoding="utf-8")
-    if yaml is not None:
-        try:
-            return yaml.safe_load(text) or {}
-        except Exception:
-            pass
-    return parse_yaml_simple(text)
+    """Load a YAML record file to a dict."""
+    return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
 
 
 def normalise_secondary_topics(raw) -> list[str]:

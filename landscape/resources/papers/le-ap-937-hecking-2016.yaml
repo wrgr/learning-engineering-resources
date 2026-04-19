@@ -1,0 +1,22 @@
+resource_id: LE-AP-937
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Investigating social and semantic user roles in MOOC discussion forums
+authors:
+- Tobias Hecking
+- Irene‐Angelica Chounta
+- H. Ulrich Hoppe
+year: 2016
+venue: Unknown Venue
+doi: 10.1145/2883851.2883924
+tier: contemporary
+citation_count_approx: 35
+cross_seed_score: 1
+openalex_id: W2339404394
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Irene-Angelica
+  Chounta). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T03

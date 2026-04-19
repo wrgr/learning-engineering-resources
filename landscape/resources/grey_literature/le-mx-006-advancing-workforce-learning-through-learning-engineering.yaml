@@ -1,0 +1,18 @@
+resource_id: LE-MX-006
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: Advancing Workforce Learning through Learning Engineering
+authors:
+- Unknown
+publisher: IEEE ICICLE — Invitation to LE Webinar Series
+url: https://www.youtube.com/watch?v=CIMkm7YqJnE
+type: webinar
+primary_topic: T10
+secondary_topics:
+- T16
+significance: On October 23rd, 2025, the ICICLE Workforce Market Interest Group (MIG) led a webinar on
+  Advancing Workforce Learning through Learning Engineering. The MIG co-chairs, DJ Jaeger and John Costa,
+  explored how learning engineering supports workforce transformation through data-informed design, system-level
+  thinking, and evidence-based practices that link learning to performance outcomes.
+year: 2025

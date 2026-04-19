@@ -1,0 +1,24 @@
+resource_id: LE-AP-864
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Design and Discovery in Educational Assessment: Evidence-Centered Design, Psychometrics, and Educational
+  Data Mining'
+authors:
+- Robert J. Mislevy
+- John T. Behrens
+- Kristen E. DiCerbo
+- Roy Levy
+year: 2012
+venue: Zenodo (CERN European Organization for Nuclear Research)
+doi: 10.5281/zenodo.3554641
+tier: contemporary
+citation_count_approx: 136
+cross_seed_score: 1
+openalex_id: W2142733603
+significance: Published in Zenodo (CERN European Organization for Nuclear Research). LE-filtered expansion seeded
+  from conference-chair authorship (Kristen DiCerbo). OpenAlex-seeded; curation pending.
+primary_topic: T15
+secondary_topics:
+- T04
+- T07

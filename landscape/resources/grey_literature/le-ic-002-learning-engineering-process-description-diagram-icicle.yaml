@@ -1,0 +1,17 @@
+resource_id: LE-IC-002
+content_type: GL
+source: icicle
+status: APPROVED
+title: Learning Engineering Process Description & Diagram (ICICLE)
+authors:
+- Learning Engineering Process Description
+- Diagram
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/learning-engineering-process/
+type: report
+primary_topic: T03
+secondary_topics:
+- T00
+significance: Official ICICLE description of the Learning Engineering process, including the iterative
+  cycle diagram showing problem framing, design, measurement, and improvement steps.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

@@ -1,0 +1,26 @@
+resource_id: LE-AP-927
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Multimodal Learning for Classroom Activity Detection
+authors:
+- Hang Li
+- Yu Kang
+- Wenbiao Ding
+- Song Yang
+- Songfan Yang
+- Gale Yan Huang
+- Zitao Liu
+year: 2020
+venue: Unknown Venue
+doi: 10.1109/icassp40776.2020.9054407
+tier: contemporary
+citation_count_approx: 40
+cross_seed_score: 1
+openalex_id: W3015326490
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Zitao (Jerry)
+  Liu). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T11

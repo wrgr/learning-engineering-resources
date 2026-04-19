@@ -2,16 +2,19 @@ resource_id: LE-AP-772
 content_type: AP
 source: book_endnotes
 status: seed
-title: "“A Case of FMEA Implementation in the Educational Sector and Integration with CRM and QFD Concepts"
+title: “A Case of FMEA Implementation in the Educational Sector and Integration with CRM and QFD Concepts
 authors: []
 year: 2008
 venue: Unknown Venue
 tier: contemporary
 citation_count_approx: 0
-openalex_id: ""
-significance: >
-  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
-  topics in learning engineering. Full bibliographic details in citation:
-  Sinthavalai, Runchana and Napisporn Memongkol. “A Case of FMEA Implementation
+openalex_id: ''
+significance: 'Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering.
+  Full bibliographic details in citation: Sinthavalai, Runchana and Napisporn Memongkol. “A Case of FMEA Implementation
   in the Educational Sector and Integration ...
-primary_topic: T01
+
+  '
+primary_topic: T02
+secondary_topics:
+- T01
+- T15

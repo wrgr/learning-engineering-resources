@@ -2,18 +2,21 @@ resource_id: LE-AP-479
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Design research: A socially responsible approach to instructional technology research in higher education"
+title: 'Design research: A socially responsible approach to instructional technology research in higher education'
 authors: []
 year: 2005
 venue: Journal of Computing in Higher Education
-doi: "10.1007/bf02961476"
+doi: 10.1007/bf02961476
 tier: contemporary
 citation_count_approx: 464
 cross_seed_score: 2
-openalex_id: "W2077763589"
-significance: >
-  Published in Journal of Computing in Higher Education; addresses relevance
-  (law), incentive, argument (complex analysis). Quality-filtered from OpenAlex
-  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
-  corpus. Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2077763589
+significance: 'Published in Journal of Computing in Higher Education; addresses relevance (law), incentive, argument
+  (complex analysis). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T03
+secondary_topics:
+- T01
+- T17

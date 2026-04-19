@@ -1,0 +1,27 @@
+resource_id: LE-PP-287
+content_type: PP
+source: curated
+status: APPROVED
+name: Partha P. Talukdar
+affiliation: Google DeepMind / IISc Bangalore
+era: contemporary
+role: EDM 2023 Program Chair; NLP, knowledge graphs, and AI for education
+description: 'Senior Research Scientist at Google DeepMind and faculty at IISc Bangalore. Program Chair for EDM
+  2023. Research on NLP, knowledge graphs, and AI for education — including language models for low-resource Indian
+  languages.
+
+  '
+key_contributions:
+- Program Chair, EDM 2023 (Bengaluru, India)
+- NLP and knowledge-graph researcher bridging industrial AI (DeepMind) and academic EDM
+- Works on language models for low-resource Indian languages with education applications
+primary_topic: T07
+secondary_topics:
+- T04
+- T05
+url: https://parthatalukdar.github.io/
+notes: EDM 2023 PC. Google DeepMind. NLP/KG for education.
+key_works:
+- Proceedings of the 16th International Conference on Educational Data Mining (Zenodo (CERN European Organization
+  for Nuclear Research), 2023)
+openalex_id: https://openalex.org/A5033696194

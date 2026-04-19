@@ -1,0 +1,21 @@
+resource_id: LE-PP-230
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Tanvi Domadia
+affiliation: Carnegie Mellon University
+era: contemporary
+role: Data analytics practitioner; chapter author on data analysis tools.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Data analytics practitioner;
+  chapter author on data analysis tools.
+key_works:
+- Assessing the Quality of Student-Generated Short Answer Questions Using GPT-3 (Lecture notes in computer science,
+  2022)
+- Who Writes Tomorrow’s Learning Activities? Exploring Community College Student Participation in Learnersourcing
+  (Proceedings., 2023)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5028215646
+openalex_id: https://openalex.org/A5028215646
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5028215646; verify on review.

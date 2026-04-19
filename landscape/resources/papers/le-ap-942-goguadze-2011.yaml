@@ -1,0 +1,23 @@
+resource_id: LE-AP-942
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Evaluating a Bayesian Student Model of Decimal Misconceptions.
+authors:
+- George Goguadze
+- Sergey Sosnovsky
+- Seiji Isotani
+- Bruce M. McLaren
+year: 2011
+venue: Educational Data Mining
+doi: ''
+tier: contemporary
+citation_count_approx: 33
+cross_seed_score: 1
+openalex_id: W2397847455
+significance: Published in Educational Data Mining. LE-filtered expansion seeded from conference-chair authorship
+  (Seiji Isotani). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T14

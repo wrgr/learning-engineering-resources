@@ -5,14 +5,14 @@ status: seed
 title: "The Psychology of Learning and Motivation: Advances in Research and Theory"
 authors: []
 year: 2010
-venue: The Psychology of learning and motivation/The psychology of learning and motivation
+venue: The Psychology of learning and motivation/The psychology of learning and motivation
 doi: "10.1016/c2009-0-62209-1"
 tier: foundational
 citation_count_approx: 6041
 cross_seed_score: 2
 openalex_id: "W2232925767"
 significance: >
-  Published in The Psychology of learning and motivation/The psychology of
+  Published in The Psychology of learning and motivation/The psychology of
   learning and motivation; addresses psychology, cognitive science, learning
   theory. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
   Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex

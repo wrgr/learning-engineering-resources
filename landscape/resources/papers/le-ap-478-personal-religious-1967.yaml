@@ -1,19 +1,20 @@
 resource_id: LE-AP-478
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Personal religious orientation and prejudice."
+status: non_le
+title: Personal religious orientation and prejudice.
 authors: []
 year: 1967
 venue: Journal of Personality and Social Psychology
-doi: "10.1037/h0021212"
+doi: 10.1037/h0021212
 tier: highly_cited
 citation_count_approx: 4090
 cross_seed_score: 2
-openalex_id: "W2076304740"
-significance: >
-  Published in Journal of Personality and Social Psychology; addresses
-  psychology, prejudice (legal term), social psychology. Quality-filtered from
-  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
-  Toolkit corpus. Authors pending OpenAlex enrichment.
+openalex_id: W2076304740
+significance: 'Published in Journal of Personality and Social Psychology; addresses psychology, prejudice (legal
+  term), social psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

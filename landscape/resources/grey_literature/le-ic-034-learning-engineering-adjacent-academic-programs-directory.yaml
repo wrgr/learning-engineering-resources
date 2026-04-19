@@ -1,0 +1,17 @@
+resource_id: LE-IC-034
+content_type: GL
+source: icicle
+status: APPROVED
+title: Learning Engineering Adjacent Academic Programs Directory (ICICLE)
+authors:
+- IEEE ICICLE
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T16
+secondary_topics:
+- T00
+significance: Google Doc directory of academic programs adjacent to or incorporating learning engineering,
+  including LE-specific degrees, learning sciences programs, educational technology programs, and HCI
+  programs.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

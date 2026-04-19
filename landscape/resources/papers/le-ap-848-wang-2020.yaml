@@ -1,0 +1,26 @@
+resource_id: LE-AP-848
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'When adaptive learning is effective learning: comparison of an adaptive learning system to teacher-led instruction'
+authors:
+- Shuai Wang
+- Claire Christensen
+- Wei Cui
+- Richard M. Tong
+- Louise Yarnall
+- Linda Shear
+- Mingyu Feng
+year: 2020
+venue: Interactive Learning Environments
+doi: 10.1080/10494820.2020.1808794
+tier: contemporary
+citation_count_approx: 237
+cross_seed_score: 1
+openalex_id: W3081895631
+significance: Published in Interactive Learning Environments. LE-filtered expansion seeded from conference-chair
+  authorship (Mingyu Feng). OpenAlex-seeded; curation pending.
+primary_topic: T15
+secondary_topics:
+- T04
+- T06

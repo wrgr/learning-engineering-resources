@@ -1,0 +1,24 @@
+resource_id: LE-AP-909
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Deep Knowledge Tracing with Side Information
+authors:
+- Zhiwei Wang
+- Xiaoqin Feng
+- Jiliang Tang
+- Gale Yan Huang
+- Zitao Liu
+year: 2019
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-030-23207-8_56
+tier: contemporary
+citation_count_approx: 51
+cross_seed_score: 1
+openalex_id: W2950764014
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Zitao (Jerry) Liu). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T11

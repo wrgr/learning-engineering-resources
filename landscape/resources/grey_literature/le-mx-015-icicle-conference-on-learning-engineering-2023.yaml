@@ -1,0 +1,15 @@
+resource_id: LE-MX-015
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: ICICLE Conference on Learning Engineering 2023
+authors:
+- Unknown
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/2023-icicle-conference-on-learning-engineering/
+type: conference
+primary_topic: T00
+secondary_topics: []
+significance: 2023 edition of the ICICLE annual conference. Program, proceedings, and recorded sessions
+  available.
+year: 2023

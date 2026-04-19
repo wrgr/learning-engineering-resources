@@ -1,0 +1,23 @@
+resource_id: LE-AP-893
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Beyond Knowledge Tracing: Modeling Skill Topologies with Bayesian Networks'
+authors:
+- Tanja Käser
+- Severin Klingler
+- Alexander G. Schwing
+- Markus Groß
+year: 2014
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-319-07221-0_23
+tier: contemporary
+citation_count_approx: 63
+cross_seed_score: 1
+openalex_id: W2108865692
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Tanja Käser). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T04
+- T07

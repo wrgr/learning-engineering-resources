@@ -1,0 +1,17 @@
+resource_id: LE-IC-011
+content_type: GL
+source: icicle
+status: APPROVED
+title: Learning Design Principles Toolkit (McEldoon, ICICLE)
+authors:
+- Learning Design Principles Toolkit
+publisher: IEEE ICICLE / McEldoon
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T03
+secondary_topics:
+- T01
+- T12
+significance: Google Drive toolkit by Katherine McEldoon connecting cognitive science principles to practical
+  learning design decisions. Bridges learning science theory and LE design practice.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

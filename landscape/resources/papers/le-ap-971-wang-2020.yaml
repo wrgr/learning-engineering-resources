@@ -1,0 +1,24 @@
+resource_id: LE-AP-971
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Jill Watson SA: Design and Evaluation of a Virtual Agent to Build Communities Among Online Learners'
+authors:
+- Qiaosi Wang
+- Shan Jing
+- Ida Camacho
+- David Joyner
+- Ashok K. Goel
+year: 2020
+venue: Unknown Venue
+doi: 10.1145/3334480.3382878
+tier: contemporary
+citation_count_approx: 23
+cross_seed_score: 1
+openalex_id: W3032178096
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (David A.
+  Joyner). OpenAlex-seeded; curation pending.
+primary_topic: T11
+secondary_topics:
+- T07
+- T04

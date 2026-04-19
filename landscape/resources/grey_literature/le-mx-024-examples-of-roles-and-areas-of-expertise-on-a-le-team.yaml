@@ -1,0 +1,14 @@
+resource_id: LE-MX-024
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: Examples of Roles and Areas of Expertise on a LE Team
+authors:
+- Unknown
+publisher: IEEE ICICLE
+url: https://docs.google.com/document/d/1TR0OdxNbcAdMpZB_jyOHFYvRoTB7Jh55q5q8A8HGiFY/edit
+type: framework
+primary_topic: T00
+secondary_topics:
+- T16
+significance: ''

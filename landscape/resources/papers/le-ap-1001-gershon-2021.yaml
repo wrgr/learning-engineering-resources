@@ -1,0 +1,23 @@
+resource_id: LE-AP-1001
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Defining and measuring completion and assessment biases with respect to English language and development
+  status: not all MOOCs are equal'
+authors:
+- Sa’ar Karp Gershon
+- José A. Ruipérez‐Valiente
+- Giora Alexandron
+year: 2021
+venue: International Journal of Educational Technology in Higher Education
+doi: 10.1186/s41239-021-00275-w
+tier: contemporary
+citation_count_approx: 9
+cross_seed_score: 1
+openalex_id: W3183684583
+significance: Published in International Journal of Educational Technology in Higher Education. LE-filtered expansion
+  seeded from conference-chair authorship (Giora Alexandron). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T14
+- T11

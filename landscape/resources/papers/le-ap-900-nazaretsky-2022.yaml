@@ -1,0 +1,24 @@
+resource_id: LE-AP-900
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Empowering Teachers with AI: Co-Designing a Learning Analytics Tool for Personalized Instruction in the
+  Science Classroom'
+authors:
+- Tanya Nazaretsky
+- Carmel Bar
+- Michal Walter
+- Giora Alexandron
+year: 2022
+venue: Unknown Venue
+doi: 10.1145/3506860.3506861
+tier: contemporary
+citation_count_approx: 57
+cross_seed_score: 1
+openalex_id: W4220659381
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Giora Alexandron).
+  OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T14
+- T11

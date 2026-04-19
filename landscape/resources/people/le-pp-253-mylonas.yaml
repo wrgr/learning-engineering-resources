@@ -1,0 +1,27 @@
+resource_id: LE-PP-253
+content_type: PP
+source: curated
+status: APPROVED
+name: Phivos Mylonas
+affiliation: Ionian University / University of West Attica, Greece
+era: contemporary
+role: ITS 2023 Program Co-Chair; affective computing and personalization researcher
+description: 'Associate Professor in Informatics, currently at University of West Attica (formerly Ionian University,
+  Corfu). Program Co-Chair for ITS 2023. Research spans knowledge-assisted multimedia analysis, affective computing,
+  and user personalization — applied to adaptive educational systems.
+
+  '
+key_contributions:
+- Program Co-Chair, ITS 2023 (Corfu, Greece)
+- Applies multimedia analysis and affective computing techniques to personalized learning environments
+- Connects Greek ITS research community with the international AIED/ITS venues
+primary_topic: T06
+secondary_topics:
+- T07
+- T04
+url: https://di.ionio.gr/en/faculty-staff/phivos-mylonas/
+notes: ITS 2023 PC Chair. Affective computing for ITS.
+key_works:
+- A Rule-Based System Integrating Case-Based Reasoning for Adaptive User Interfaces in Personalized Educational
+  Software (2025)
+openalex_id: https://openalex.org/A5123451752

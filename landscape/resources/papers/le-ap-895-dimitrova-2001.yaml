@@ -1,0 +1,22 @@
+resource_id: LE-AP-895
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Applying Interactive Open Learner Models to Learning Technical Terminology
+authors:
+- Vania Dimitrova
+- John Self
+- Paul Brna
+year: 2001
+venue: Lecture notes in computer science
+doi: 10.1007/3-540-44566-8_15
+tier: contemporary
+citation_count_approx: 62
+cross_seed_score: 1
+openalex_id: W1784958424
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Vania Dimitrova). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T10

@@ -1,0 +1,18 @@
+resource_id: LE-IC-037
+content_type: GL
+source: icicle
+status: APPROVED
+title: Build a Learning Data Dream Team (Torrance, Lin & Goodell, ATD, 2024)
+authors:
+- Build a Learning Data Dream Team
+year: 2024
+publisher: ATD (Association for Talent Development)
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T04
+secondary_topics:
+- T03
+- T00
+significance: Practitioner article on assembling multidisciplinary teams to leverage learning data effectively.
+  Covers roles (data analyst, learning engineer, instructional designer) and collaborative workflows.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

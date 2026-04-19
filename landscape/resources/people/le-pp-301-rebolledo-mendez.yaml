@@ -1,0 +1,34 @@
+resource_id: LE-PP-301
+content_type: PP
+source: curated
+status: APPROVED
+name: Genaro Rebolledo-Méndez
+affiliation: Universidad Veracruzana, Mexico
+era: contemporary
+role: AIED 2023 Program Chair; affective tutoring and game-based learning
+description: 'Professor at Universidad Veracruzana. Program Co-Chair for AIED 2023. Research on affective/emotion-aware
+  tutoring, learner modeling, and game-based learning — a key link between the Latin American AIED community and
+  the international venue.
+
+  '
+key_contributions:
+- Program Co-Chair, AIED 2023 (Tokyo, Japan)
+- Senior researcher from Latin America in AIED program leadership
+- Research on emotion-aware tutors and engagement in game-based learning
+- Bridges Mexican/Latin American AIED community with international program
+primary_topic: T07
+secondary_topics:
+- T06
+- T01
+url: https://www.uv.mx/personal/gebolledo/
+notes: AIED 2023 PC. Affective tutoring. Latin American AIED.
+key_works:
+- 'Towards Systems That Care: A Conceptual Framework based on Motivation, Metacognition and Affect (International
+  Journal of Artificial Intelligence in Education, 2010)'
+- Collaboration in cognitive tutor use in latin America (2012)
+- Meta-Affective Behaviour within an Intelligent Tutoring System for Mathematics (International Journal of Artificial
+  Intelligence in Education, 2021)
+- The Effects of Motivational Modeling on Affect in an Intelligent Tutoring System (UCL Discovery (University College
+  London), 2008)
+- Designing Adaptive Motivational Scaffolding for a Tutoring System (2011)
+openalex_id: https://openalex.org/A5074022713

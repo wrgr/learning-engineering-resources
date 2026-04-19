@@ -1,0 +1,26 @@
+resource_id: LE-AP-923
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Learning by Teaching SimStudent – An Initial Classroom Baseline Study Comparing with Cognitive Tutor
+authors:
+- Noboru Matsuda
+- Evelyn Yarzebinski
+- Victoria Keiser
+- Rohan Raizada
+- Gabriel J. Stylianides
+- William W. Cohen
+- Kenneth R. Koedinger
+year: 2011
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-642-21869-9_29
+tier: contemporary
+citation_count_approx: 44
+cross_seed_score: 1
+openalex_id: W2186420685
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Noboru Matsuda). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T01

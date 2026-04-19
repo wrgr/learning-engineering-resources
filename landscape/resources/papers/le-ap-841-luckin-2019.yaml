@@ -1,0 +1,21 @@
+resource_id: LE-AP-841
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Designing educational technologies in the age of AI: A learning sciences‐driven approach'
+authors:
+- Rosemary Luckin
+- Mutlu Cukurova
+year: 2019
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.12861
+tier: contemporary
+citation_count_approx: 379
+cross_seed_score: 1
+openalex_id: W2962798420
+significance: Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Mutlu Cukurova). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T14

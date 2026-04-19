@@ -1,0 +1,22 @@
+resource_id: LE-AP-897
+content_type: AP
+source: openalex_expansion
+status: seed
+title: The Effect of Metacognitive Scaffolding for Learning by Teaching a Teachable Agent
+authors:
+- Noboru Matsuda
+- Wenting Weng
+- Natalie Wall
+year: 2020
+venue: International Journal of Artificial Intelligence in Education
+doi: 10.1007/s40593-019-00190-2
+tier: contemporary
+citation_count_approx: 61
+cross_seed_score: 1
+openalex_id: W2999705847
+significance: Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion
+  seeded from conference-chair authorship (Noboru Matsuda). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T01

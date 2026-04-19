@@ -1,0 +1,28 @@
+resource_id: LE-AP-996
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Semi-Automatic Detection of Teacher Questions from Human-Transcripts of Audio in Live Classrooms.
+authors:
+- Nathaniel Blanchard
+- Patrick J. Donnelly
+- Andrew M. Olney
+- Borhan Samei
+- Sean Kelly
+- Xiaoyi Sun
+- Brooke Ward
+- Martin Nystrand
+- Sidney K. D’Mello
+year: 2016
+venue: Educational Data Mining
+doi: ''
+tier: contemporary
+citation_count_approx: 12
+cross_seed_score: 1
+openalex_id: W2578001715
+significance: Published in Educational Data Mining. LE-filtered expansion seeded from conference-chair authorship
+  (Andrew M. Olney). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T05

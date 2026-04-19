@@ -1,0 +1,17 @@
+resource_id: LE-IC-029
+content_type: GL
+source: icicle
+status: APPROVED
+title: Goodell (2019) — Are You Doing Learning Engineering or Instructional Design?
+authors:
+- IEEE ICICLE
+year: 2019
+publisher: Learning Solutions / eLearning Guild
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T00
+secondary_topics:
+- T12
+significance: Practitioner article by Jim Goodell drawing the distinction between instructional design
+  and learning engineering. Emphasizes data use, iteration, and empirical grounding as key differentiators.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

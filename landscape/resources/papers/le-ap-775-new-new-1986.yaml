@@ -1,17 +1,18 @@
 resource_id: LE-AP-775
 content_type: AP
 source: book_endnotes
-status: seed
-title: "“The New New Product Development Game"
+status: non_le
+title: “The New New Product Development Game
 authors: []
 year: 1986
 venue: Unknown Venue
 tier: contemporary
 citation_count_approx: 0
-openalex_id: ""
-significance: >
-  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
-  topics in learning engineering. Full bibliographic details in citation:
-  Takeuchi, Hirotaka and Ikujiro Nonaka. “The New New Product Development Game.”
-  Harvard Business Review 64, no. 1 (1986):...
+openalex_id: ''
+significance: 'Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering.
+  Full bibliographic details in citation: Takeuchi, Hirotaka and Ikujiro Nonaka. “The New New Product Development
+  Game.” Harvard Business Review 64, no. 1 (1986):...
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

@@ -2,16 +2,19 @@ resource_id: LE-AP-781
 content_type: AP
 source: book_endnotes
 status: seed
-title: "“Disaffordances and Dysaffordances in Code"
+title: “Disaffordances and Dysaffordances in Code
 authors: []
 year: 2017
 venue: Unknown Venue
 tier: contemporary
 citation_count_approx: 0
-openalex_id: ""
-significance: >
-  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
-  topics in learning engineering. Full bibliographic details in citation:
-  Wittkower, DE. “Disaffordances and Dysaffordances in Code.” In Selected Papers
-  of #AoIR2017: The 18th Annual Conference ...
-primary_topic: T01
+openalex_id: ''
+significance: 'Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering.
+  Full bibliographic details in citation: Wittkower, DE. “Disaffordances and Dysaffordances in Code.” In Selected
+  Papers of #AoIR2017: The 18th Annual Conference ...
+
+  '
+primary_topic: T14
+secondary_topics:
+- T01
+- T02

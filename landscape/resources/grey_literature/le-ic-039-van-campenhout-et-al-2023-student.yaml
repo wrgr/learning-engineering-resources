@@ -1,0 +1,18 @@
+resource_id: LE-IC-039
+content_type: GL
+source: icicle
+status: APPROVED
+title: Van Campenhout et al. (2023) — Student-Centered Educational Data Science Through Learning Engineering
+authors:
+- Van Campenhout et al.
+year: 2023
+publisher: Springer
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T04
+secondary_topics:
+- T17
+- T03
+significance: Research article integrating educational data science methods within a learning engineering
+  framework. Demonstrates how student-centered analysis and iterative design reinforce each other in practice.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

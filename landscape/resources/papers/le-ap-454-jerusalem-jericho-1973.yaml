@@ -1,19 +1,20 @@
 resource_id: LE-AP-454
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "'From Jerusalem to Jericho': A study of situational and dispositional variables in helping behavior."
+status: non_le
+title: '''From Jerusalem to Jericho'': A study of situational and dispositional variables in helping behavior.'
 authors: []
 year: 1973
 venue: Journal of Personality and Social Psychology
-doi: "10.1037/h0034449"
+doi: 10.1037/h0034449
 tier: highly_cited
 citation_count_approx: 1661
 cross_seed_score: 2
-openalex_id: "W2056224157"
-significance: >
-  Published in Journal of Personality and Social Psychology; addresses
-  psychology, situational ethics, helping behavior. Quality-filtered from
-  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+openalex_id: W2056224157
+significance: 'Published in Journal of Personality and Social Psychology; addresses psychology, situational ethics,
+  helping behavior. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
   Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

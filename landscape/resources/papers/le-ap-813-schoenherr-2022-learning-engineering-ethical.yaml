@@ -1,0 +1,16 @@
+resource_id: LE-AP-813
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering is Ethical"
+authors:
+  - Jordan Richard Schoenherr
+year: 2022
+doi: "10.4324/9781003276579-11"
+tier: contemporary
+citation_count_approx: 5
+significance: >
+  This chapter considers how to address ethical learning engineering in a principled,
+  systematic manner. It offers an ethical sense-making approach and a practical framework
+  for ethical sense-making in learning engineering.
+primary_topic: T14
+secondary_topics: []

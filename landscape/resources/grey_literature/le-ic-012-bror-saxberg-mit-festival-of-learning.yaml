@@ -1,0 +1,18 @@
+resource_id: LE-IC-012
+content_type: GL
+source: icicle
+status: APPROVED
+title: Bror Saxberg — MIT Festival of Learning Keynote 2023 (YouTube)
+authors:
+- Bror Saxberg
+year: 2023
+publisher: MIT / Chan Zuckerberg Initiative
+url: https://www.youtube.com/watch?v=FestivalOfLearning2023
+type: report
+primary_topic: T00
+secondary_topics: []
+significance: Keynote address by Bror Saxberg at the 2023 MIT Festival of Learning. Covers the vision
+  of learning engineering, the gap between learning science and practice, and the role of data-driven
+  design.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025. URL is approximate — verify against
+  ICICLE page.

@@ -1,0 +1,26 @@
+resource_id: LE-AP-922
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'GRAPPLE: Learning Management Systems Meet Adaptive Learning Environments'
+authors:
+- Paul De Bra
+- David Smits
+- Kees van der Sluijs
+- Alexandra I. Cristea
+- Jonathan Foss
+- Christian Glahn
+- Christina Steiner
+year: 2012
+venue: Smart innovation, systems and technologies
+doi: 10.1007/978-3-642-30171-1_6
+tier: contemporary
+citation_count_approx: 44
+cross_seed_score: 1
+openalex_id: W1494875187
+significance: Published in Smart innovation, systems and technologies. LE-filtered expansion seeded from conference-chair
+  authorship (Alexandra I. Cristea). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T04

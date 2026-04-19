@@ -1,0 +1,21 @@
+resource_id: LE-AP-979
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'ProTutor: Historic Open Learner Models for Pronunciation Tutoring'
+authors:
+- Carrie Demmans Epp
+- Gordon McCalla
+year: 2011
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-642-21869-9_63
+tier: contemporary
+citation_count_approx: 20
+cross_seed_score: 1
+openalex_id: W14457221
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Carrie Demmans Epp). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T06
+- T14

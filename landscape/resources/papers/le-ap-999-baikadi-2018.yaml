@@ -1,0 +1,22 @@
+resource_id: LE-AP-999
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Participating by activity or by week in MOOCs
+authors:
+- Alok Baikadi
+- Carrie Demmans Epp
+- Christian D. Schunn
+year: 2018
+venue: Information and Learning Sciences
+doi: 10.1108/ils-04-2018-0033
+tier: contemporary
+citation_count_approx: 10
+cross_seed_score: 1
+openalex_id: W2891732745
+significance: Published in Information and Learning Sciences. LE-filtered expansion seeded from conference-chair
+  authorship (Carrie Demmans Epp). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T06
+- T14

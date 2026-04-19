@@ -1,0 +1,24 @@
+resource_id: LE-AP-907
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Digital Photography and Journals in a Kindergarten-First-Grade Classroom: Toward Meaningful Technology Integration
+  in Early Childhood Education'
+authors:
+- Cynthia Carter Ching
+- X. Christine Wang
+- Mei-Li Shih
+- Yore Kedem
+year: 2006
+venue: Early Education and Development
+doi: 10.1207/s15566935eed1703_3
+tier: contemporary
+citation_count_approx: 52
+cross_seed_score: 1
+openalex_id: W2089242979
+significance: Published in Early Education and Development. LE-filtered expansion seeded from conference-chair authorship
+  (X. Christine Wang). OpenAlex-seeded; curation pending.
+primary_topic: T17
+secondary_topics:
+- T03
+- T12

@@ -1,0 +1,14 @@
+resource_id: LE-GL-058
+content_type: GL
+source: landscape_backfill
+status: APPROVED
+title: ADDIE Model — Branson et al. (1975) Interservice Procedures for Instructional Systems Development
+authors:
+- Unknown
+publisher: US Military
+url: ''
+type: report
+primary_topic: T12
+secondary_topics:
+- T03
+significance: Adjacent-field resource carried forward from landscape curation; enrichment pending.

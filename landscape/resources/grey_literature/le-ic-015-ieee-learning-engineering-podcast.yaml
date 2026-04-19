@@ -1,0 +1,16 @@
+resource_id: LE-IC-015
+content_type: GL
+source: icicle
+status: APPROVED
+title: IEEE Learning Engineering Podcast
+authors:
+- IEEE ICICLE
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T00
+secondary_topics:
+- T16
+significance: Official IEEE ICICLE podcast series featuring conversations with learning engineering researchers,
+  practitioners, and field leaders. Available on PodServe and Spotify.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

@@ -1,0 +1,18 @@
+resource_id: LE-IC-023
+content_type: GL
+source: icicle
+status: APPROVED
+title: High-Leverage Opportunities for Learning Engineering (Baker & Boser, 2021)
+authors:
+- IEEE ICICLE
+year: 2021
+publisher: The Learning Agency
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T17
+secondary_topics:
+- T00
+- T15
+significance: Report by Ryan Baker and Beth Boser identifying the highest-leverage opportunities for learning
+  engineering investment. Covers evidence gaps, scale barriers, and field infrastructure needs.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

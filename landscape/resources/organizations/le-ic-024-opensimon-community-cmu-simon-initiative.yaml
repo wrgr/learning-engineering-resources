@@ -1,0 +1,15 @@
+resource_id: LE-IC-024
+content_type: CO
+source: icicle
+status: APPROVED
+name: OpenSimon Community (CMU Simon Initiative)
+type: organization
+affiliation_or_venue: Carnegie Mellon University — Simon Initiative
+url: https://www.cmu.edu/simon/open-simon/
+primary_topic: T06
+secondary_topics:
+- T04
+- T05
+description: Open-access community and toolkit collection from CMU's Simon Initiative. Hosts LearnSphere
+  DataShop, OLI course materials, and research infrastructure for learning engineering at scale.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

@@ -1,0 +1,18 @@
+resource_id: LE-MX-032
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: LE Toolkit — Learning Engineering is a Process (open access chapter)
+authors:
+- Aaron Kessler
+- Scotty Craig
+- Jim Goodell
+- Dina Kurzweil
+- Scott Greenwald
+publisher: Taylor & Francis Open Access
+url: https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003276579-5/learning-engineering-process-aaron-kessler-scotty-craig-jim-goodell-dina-kurzweil-scott-greenwald
+type: book
+primary_topic: T03
+secondary_topics: []
+significance: ''
+year: 2022

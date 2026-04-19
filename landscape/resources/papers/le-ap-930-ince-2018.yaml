@@ -1,0 +1,22 @@
+resource_id: LE-AP-930
+content_type: AP
+source: openalex_expansion
+status: seed
+title: The role of libraries in teaching doctoral students to become information-literate researchers
+authors:
+- Sharon Ince
+- Christopher Hoadley
+- Paul A. Kirschner
+year: 2018
+venue: Information and Learning Sciences
+doi: 10.1108/ils-07-2018-0058
+tier: contemporary
+citation_count_approx: 39
+cross_seed_score: 1
+openalex_id: W2896771085
+significance: Published in Information and Learning Sciences. LE-filtered expansion seeded from conference-chair
+  authorship (Chris Hoadley). OpenAlex-seeded; curation pending.
+primary_topic: T17
+secondary_topics:
+- T03
+- T01

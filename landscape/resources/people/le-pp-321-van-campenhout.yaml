@@ -1,0 +1,32 @@
+resource_id: LE-PP-321
+content_type: PP
+source: curated
+status: APPROVED
+name: Rachel Van Campenhout
+affiliation: VitalSource (formerly Acrobatiq)
+era: contemporary
+role: ICICLE 2023 Conference Co-Chair; the doer effect and automatic question generation
+description: 'Senior Research Scientist at VitalSource, formerly at Acrobatiq. Conference Co-Chair of ICICLE 2023
+  (CMU). Industry LE researcher working on the doer effect (originally with CMU/OLI), automatic question generation,
+  and adaptive learning — and on ethics in educational technology.
+
+  '
+key_contributions:
+- Conference Co-Chair, ICICLE 2023 (Carnegie Mellon University)
+- Industry researcher extending the doer effect research program via VitalSource courseware
+- Research on automatic question generation for adaptive learning
+- Active voice on ethics in educational technology within ICICLE community
+primary_topic: T06
+secondary_topics:
+- T04
+- T14
+url: https://www.linkedin.com/in/rachel-van-campenhout-ed-d-810a5b69/
+notes: ICICLE 2023 Conf Co-Chair. Doer effect in industry. AQG.
+key_works:
+- 'Teaching and Learning with AI-Generated Courseware: Lessons from the Classroom (Online Learning, 2022)'
+- Engaging in Student-Centered Educational Data Science Through Learning Engineering (Big data management, 2023)
+- 'Automatically Generated Practice in the Classroom: Exploring Performance and Impact Across Courses (2024)'
+- Supporting Metacognitive Learning Strategies Through an Adaptive Application (Lecture notes in computer science,
+  2020)
+- Learning Engineering as an Ethical Framework (Lecture notes in computer science, 2021)
+openalex_id: https://openalex.org/A5059031099

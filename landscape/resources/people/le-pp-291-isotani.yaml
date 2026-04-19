@@ -1,0 +1,33 @@
+resource_id: LE-PP-291
+content_type: PP
+source: curated
+status: APPROVED
+name: Seiji Isotani
+affiliation: University of São Paulo (ICMC/USP); Harvard Graduate School of Education
+era: contemporary
+role: AIED 2025 General Chair; gamification and LE for global south
+description: 'Professor at USP and affiliate at Harvard GSE. General Co-Chair of AIED 2025. Research on gamification,
+  learning analytics, and AI-powered educational technology — with emphasis on large-scale learning in developing
+  countries, especially Brazil.
+
+  '
+key_contributions:
+- General Co-Chair, AIED 2025 (Palermo, Italy)
+- Leading AIED researcher from the Global South; co-founded the Brazilian LA research community
+- Research on gamification and engagement in large-scale adaptive learning at developing-country scale
+- Dual appointment at USP and Harvard GSE bridges LatAm and US LE research
+primary_topic: T07
+secondary_topics:
+- T04
+- T14
+url: https://sites.usp.br/caed/
+notes: AIED 2025 GC. Gamification. LE for global south.
+key_works:
+- 'Using learning analytics in the Amazonas: understanding students’ behaviour in introductory programming (British
+  Journal of Educational Technology, 2020)'
+- 'Educational Data Mining: A review of evaluation process in the e-learning (Telematics and Informatics, 2018)'
+- 'Towards Reducing Cognitive Load and Enhancing Usability through a Reduced Graphical User Interface for a Dynamic
+  Geometry System: An Experimental Study (2012)'
+- 'GaTO: An Ontological Model to Apply Gamification in Intelligent Tutoring Systems (Frontiers in Artificial Intelligence,
+  2019)'
+openalex_id: https://openalex.org/A5006855037

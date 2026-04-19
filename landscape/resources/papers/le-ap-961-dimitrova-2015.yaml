@@ -1,0 +1,21 @@
+resource_id: LE-AP-961
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'From Interactive Open Learner Modelling to Intelligent Mentoring: STyLE-OLM and Beyond'
+authors:
+- Vania Dimitrova
+- Paul Brna
+year: 2015
+venue: International Journal of Artificial Intelligence in Education
+doi: 10.1007/s40593-015-0087-3
+tier: contemporary
+citation_count_approx: 26
+cross_seed_score: 1
+openalex_id: W2227119543
+significance: Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion
+  seeded from conference-chair authorship (Vania Dimitrova). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T10

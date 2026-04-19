@@ -1,0 +1,18 @@
+resource_id: LE-AP-822
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering is Engineering"
+authors:
+  - Avron Barr
+  - Brandt Dargue
+  - Jim Goodell
+year: 2022
+doi: "10.4324/9781003276579-8"
+tier: contemporary
+citation_count_approx: 3
+significance: >
+  This chapter features stories from people trained as engineers and who applied its general
+  principles to learning engineering. Engineers are more concerned with outlier data, the
+  specific conditions in which a system tends to fail.
+primary_topic: T06
+secondary_topics: []

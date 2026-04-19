@@ -1,0 +1,15 @@
+resource_id: LE-MX-016
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: ICICLE Conference on Learning Engineering 2024
+authors:
+- Unknown
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/2024-icicle-conference-on-learning-engineering/
+type: conference
+primary_topic: T00
+secondary_topics: []
+significance: The field's flagship annual gathering. The 2024 ICICLE conference is the most recent edition,
+  with proceedings, recorded sessions, and the latest practitioner and research presentations.
+year: 2024

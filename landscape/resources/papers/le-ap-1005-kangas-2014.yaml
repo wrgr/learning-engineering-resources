@@ -1,0 +1,20 @@
+resource_id: LE-AP-1005
+content_type: AP
+source: openalex_expansion
+status: seed
+title: The Artifact Project Promoting Design Learning in the Elementary Classroom
+authors:
+- Kaiju Kangas
+year: 2014
+venue: Työväentutkimus Vuosikirja
+doi: ''
+tier: contemporary
+citation_count_approx: 8
+cross_seed_score: 1
+openalex_id: W1510186221
+significance: Published in Työväentutkimus Vuosikirja. LE-filtered expansion seeded from conference-chair authorship
+  (Kaiju Kangas). OpenAlex-seeded; curation pending.
+primary_topic: T17
+secondary_topics:
+- T03
+- T01

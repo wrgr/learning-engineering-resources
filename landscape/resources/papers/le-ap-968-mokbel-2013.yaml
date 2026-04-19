@@ -1,0 +1,24 @@
+resource_id: LE-AP-968
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Domain-Independent Proximity Measures in Intelligent Tutoring Systems
+authors:
+- Bassam Mokbel
+- Sebastian Groß
+- Benjamin Paaßen
+- Niels Pinkwart
+- Barbara Hammer
+year: 2013
+venue: PUB – Publications at Bielefeld University (Bielefeld University)
+doi: ''
+tier: contemporary
+citation_count_approx: 24
+cross_seed_score: 1
+openalex_id: W101664218
+significance: Published in PUB – Publications at Bielefeld University (Bielefeld University). LE-filtered expansion
+  seeded from conference-chair authorship (Benjamin Paaßen). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T06
+- T07

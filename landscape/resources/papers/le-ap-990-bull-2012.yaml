@@ -1,0 +1,27 @@
+resource_id: LE-AP-990
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Assessing English as a Second Language: From Classroom Data to a Competence-Based Open Learner Model'
+authors:
+- Susan Bull
+- Barbara Wasson
+- Michael Kickmeier-Rust
+- Matthew D. JOHNSON
+- Eli MOE
+- Cecilie HANSEN
+- Gerhilde MEISSL-EGGHART
+- Klaus HAMMERMUELLER
+year: 2012
+venue: International Conference on Computers in Education
+doi: 10.58459/icce.2012.892
+tier: contemporary
+citation_count_approx: 14
+cross_seed_score: 1
+openalex_id: W2974025711
+significance: Published in International Conference on Computers in Education. LE-filtered expansion seeded from
+  conference-chair authorship (Barbara Wasson). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T11

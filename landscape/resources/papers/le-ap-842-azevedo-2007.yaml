@@ -1,0 +1,24 @@
+resource_id: LE-AP-842
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Why is externally-facilitated regulated learning more effective than self-regulated learning with hypermedia?
+authors:
+- Roger Azevedo
+- Daniel C. Moos
+- Jeffrey A. Greene
+- Fielding I. Winters
+- Jennifer G. Cromley
+year: 2007
+venue: Educational Technology Research and Development
+doi: 10.1007/s11423-007-9067-0
+tier: contemporary
+citation_count_approx: 374
+cross_seed_score: 1
+openalex_id: W2093529413
+significance: Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair
+  authorship (Roger Azevedo). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T01
+- T17

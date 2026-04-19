@@ -1,19 +1,20 @@
 resource_id: LE-AP-666
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Probabilistic Logics and the Synthesis of Reliable Organisms From Unreliable Components"
+status: non_le
+title: Probabilistic Logics and the Synthesis of Reliable Organisms From Unreliable Components
 authors: []
 year: 1956
 venue: Princeton University Press eBooks
-doi: "10.1515/9781400882618-003"
+doi: 10.1515/9781400882618-003
 tier: highly_cited
 citation_count_approx: 1440
 cross_seed_score: 2
-openalex_id: "W3182208082"
-significance: >
-  Published in Princeton University Press eBooks; addresses probabilistic logic,
-  computer science, artificial intelligence. Quality-filtered from OpenAlex
-  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
-  corpus. Authors pending OpenAlex enrichment.
+openalex_id: W3182208082
+significance: 'Published in Princeton University Press eBooks; addresses probabilistic logic, computer science,
+  artificial intelligence. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

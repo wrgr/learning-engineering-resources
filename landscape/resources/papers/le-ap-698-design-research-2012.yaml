@@ -2,18 +2,21 @@ resource_id: LE-AP-698
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Design Research on Learning and Thinking in Educational Settings"
+title: Design Research on Learning and Thinking in Educational Settings
 authors: []
 year: 2012
 venue: Unknown Venue
-doi: "10.4324/9780203849576"
+doi: 10.4324/9780203849576
 tier: contemporary
 citation_count_approx: 69
 cross_seed_score: 2
-openalex_id: "W561727167"
-significance: >
-  Published in Unknown Venue; addresses mathematics education, psychology,
-  computer science. Quality-filtered from OpenAlex cross-seed expansion of the
-  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+openalex_id: W561727167
+significance: 'Published in Unknown Venue; addresses mathematics education, psychology, computer science. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
   OpenAlex enrichment.
-primary_topic: T01
+
+  '
+primary_topic: T03
+secondary_topics:
+- T01
+- T17

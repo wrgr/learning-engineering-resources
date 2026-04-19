@@ -1,0 +1,23 @@
+resource_id: LE-AP-947
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Meta-Affective Behaviour within an Intelligent Tutoring System for Mathematics
+authors:
+- Genaro Rebolledo‐Mendez
+- N. Sofía Huerta-Pacheco
+- Ryan S. Baker
+- Benedict du Boulay
+year: 2021
+venue: International Journal of Artificial Intelligence in Education
+doi: 10.1007/s40593-021-00247-1
+tier: contemporary
+citation_count_approx: 31
+cross_seed_score: 1
+openalex_id: W3159650527
+significance: Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion
+  seeded from conference-chair authorship (Genaro Rebolledo-Méndez). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T01

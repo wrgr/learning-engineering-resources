@@ -1,0 +1,32 @@
+resource_id: LE-PP-262
+content_type: PP
+source: curated
+status: APPROVED
+name: Jelena Jovanović
+affiliation: University of Belgrade, Serbia (also SLATE/UiB affiliate)
+era: contemporary
+role: LAK 2025/2026 Program Chair; self-regulated learning modeler
+description: 'Professor of Software Engineering at the University of Belgrade and research affiliate of SLATE. Program
+  Chair for both LAK 2025 (Dublin) and LAK 2026 (Bergen) — a rare two-consecutive-year PC role. Research builds
+  computational models of self-regulated learning in higher education.
+
+  '
+key_contributions:
+- Program Chair, LAK 2026 (Bergen) and LAK 2025 (Dublin) — two consecutive editions
+- Developed computational models of self-regulated learning using trace-data analytics
+- Bridges Serbian/European and global learning analytics research communities
+primary_topic: T04
+secondary_topics:
+- T17
+- T01
+url: https://jeljov.github.io/
+notes: LAK 2025 and 2026 PC Chair. Self-regulated learning models.
+key_works:
+- Using learning analytics to scale the provision of personalised feedback (British Journal of Educational Technology,
+  2017)
+- Learning analytics to unveil learning strategies in a flipped classroom (The Internet and Higher Education, 2017)
+- 'Effects of Internal and External Conditions on Strategies of Self-regulated Learning: A Learning Analytics Study
+  (2022)'
+- A qualitative evaluation of evolution of a learning analytics tool (Computers & Education, 2011)
+- Predictive power of regularity of pre-class activities in a flipped classroom (Computers & Education, 2019)
+openalex_id: https://openalex.org/A5025182522

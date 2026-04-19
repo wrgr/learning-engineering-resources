@@ -1,0 +1,23 @@
+resource_id: LE-AP-967
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Causal‐mechanical explanations in biology: Applying automated assessment for personalized learning in the
+  science classroom'
+authors:
+- Moriah Ariely
+- Tanya Nazaretsky
+- Giora Alexandron
+year: 2024
+venue: Journal of Research in Science Teaching
+doi: 10.1002/tea.21929
+tier: contemporary
+citation_count_approx: 24
+cross_seed_score: 1
+openalex_id: W4391226414
+significance: Published in Journal of Research in Science Teaching. LE-filtered expansion seeded from conference-chair
+  authorship (Giora Alexandron). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T14
+- T11

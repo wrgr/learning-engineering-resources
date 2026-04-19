@@ -2,18 +2,21 @@ resource_id: LE-AP-264
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Tracing the development of teacher knowledge in a design seminar: Integrating content, pedagogy and technology"
+title: 'Tracing the development of teacher knowledge in a design seminar: Integrating content, pedagogy and technology'
 authors: []
 year: 2005
 venue: Computers & Education
-doi: "10.1016/j.compedu.2005.11.012"
+doi: 10.1016/j.compedu.2005.11.012
 tier: highly_cited
 citation_count_approx: 962
 cross_seed_score: 3
-openalex_id: "W2150415683"
-significance: >
-  Published in Computers & Education; addresses function (biology), pedagogy,
-  subject (documents). Quality-filtered from OpenAlex cross-seed expansion of
-  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
-  OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2150415683
+significance: 'Published in Computers & Education; addresses function (biology), pedagogy, subject (documents).
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T12
+secondary_topics:
+- T01
+- T10

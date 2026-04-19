@@ -1,0 +1,21 @@
+resource_id: LE-AP-824
+content_type: AP
+source: scholar_gap_analysis
+title: "Facilitating the Learning Engineering Process for Educational Conversational Modules Using Transformer-Based Language Models"
+authors:
+  - Behzad Mirzababaei
+  - Viktoria Pammer‐Schindler
+year: 2024
+venue: "IEEE Transactions on Learning Technologies"
+doi: "10.1109/tlt.2024.3367738"
+tier: contemporary
+citation_count_approx: 2
+significance: >
+  In this work, we investigate a systematic workflow that supports the learning engineering
+  process of 1) formulating the starting question for a conversational module based on
+  existing learning materials, 2) specifying the input that transformer-based language
+  models need to function as classifiers, and 3) specifying the adaptive dialogue structure,
+  i.e., the turns the classifiers can choose between. Our primary purpose is to evaluate the
+  effectiv
+primary_topic: T03
+secondary_topics: []

@@ -1,0 +1,18 @@
+resource_id: LE-MX-012
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: Discover the World of Learning Engineering in Post-Secondary Contexts
+authors:
+- Unknown
+publisher: IEEE ICICLE — Invitation to LE Webinar Series
+url: https://youtu.be/GlHn8SoyXwM
+type: webinar
+primary_topic: T11
+secondary_topics:
+- T06
+significance: The Invitation to Learning Engineering held on March 26th, 2025, explored the application
+  of learning engineering across post-secondary contexts. This session highlighted use cases from ICICLE
+  Higher Ed Market Interest Group members, Marilu Lam-Herrera from CPA Western School of Business and
+  Lauren Totino and Aaron Kessler from MIT.
+year: 2025

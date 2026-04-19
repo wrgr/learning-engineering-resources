@@ -1,0 +1,21 @@
+resource_id: LE-AP-868
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Editorial: Augmenting Learning Analytics with Multimodal Sensory Data'
+authors:
+- Xavier Ochôa
+- Marcelo Worsley
+year: 2016
+venue: Journal of Learning Analytics
+doi: 10.18608/jla.2016.32.10
+tier: contemporary
+citation_count_approx: 119
+cross_seed_score: 1
+openalex_id: W2530938597
+significance: Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship
+  (Xavier Ochoa). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T11
+- T07

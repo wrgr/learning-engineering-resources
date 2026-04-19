@@ -1,0 +1,30 @@
+resource_id: LE-PP-300
+content_type: PP
+source: curated
+status: APPROVED
+name: Ning Wang
+affiliation: University of Southern California, Institute for Creative Technologies
+era: contemporary
+role: AIED 2023 Program Chair; pedagogical agents and virtual humans
+description: 'Research Associate Professor at USC''s ICT. Program Co-Chair for AIED 2023. Research on virtual humans,
+  pedagogical agents, and socially intelligent learning technologies — applying ICT''s virtual-human research to
+  education.
+
+  '
+key_contributions:
+- Program Co-Chair, AIED 2023 (Tokyo, Japan)
+- Applies USC ICT's virtual-human technologies to pedagogical agents and learning
+- Research on socially intelligent tutors that model rapport and trust
+primary_topic: T07
+secondary_topics:
+- T06
+- T02
+url: https://ict.usc.edu/about-us/leadership/research-leadership/ning-wang/
+notes: AIED 2023 PC. Virtual humans. Pedagogical agents.
+key_works:
+- The Immune Landscape of Cancer (Immunity, 2018)
+- Machine Learning Identifies Stemness Features Associated with Oncogenic Dedifferentiation (Cell, 2018)
+- Genomic and Functional Approaches to Understanding Cancer Aneuploidy (Cancer Cell, 2018)
+- Knowledge sharing, innovation and firm performance (Expert Systems with Applications, 2012)
+- Comprehensive Analysis of Alternative Splicing Across Tumors from 8,705 Patients (Cancer Cell, 2018)
+openalex_id: https://openalex.org/A5101669235

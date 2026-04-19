@@ -1,0 +1,18 @@
+resource_id: LE-AP-814
+content_type: AP
+source: scholar_gap_analysis
+title: "The Role of Participatory Codesign in a Learning Engineering Framework to Support Classroom Implementation of an Adaptive Instructional System"
+authors:
+  - Kelly J. Sheehan
+  - Meagan Rothschild
+  - Sarah Buchan
+year: 2021
+venue: "Lecture notes in computer science"
+doi: "10.1007/978-3-030-77857-6_19"
+tier: contemporary
+citation_count_approx: 5
+significance: >
+  LE-framed work per Scholar gap analysis (Sheehan et al. 'Role of Participatory Codesign in
+  a Learning Engineering Framework' — LE-framed AIS work.).
+primary_topic: T06
+secondary_topics: []

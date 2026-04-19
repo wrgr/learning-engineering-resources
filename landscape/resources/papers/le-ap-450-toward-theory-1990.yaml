@@ -1,19 +1,20 @@
 resource_id: LE-AP-450
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Toward a theory of the universal content and structure of values: Extensions and cross-cultural replications."
+status: non_le
+title: 'Toward a theory of the universal content and structure of values: Extensions and cross-cultural replications.'
 authors: []
 year: 1990
 venue: Journal of Personality and Social Psychology
-doi: "10.1037/0022-3514.58.5.878"
+doi: 10.1037/0022-3514.58.5.878
 tier: highly_cited
 citation_count_approx: 2202
 cross_seed_score: 2
-openalex_id: "W2054310099"
-significance: >
-  Published in Journal of Personality and Social Psychology; addresses
-  psychology, social psychology, content (measure theory). Quality-filtered from
-  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
-  Toolkit corpus. Authors pending OpenAlex enrichment.
+openalex_id: W2054310099
+significance: 'Published in Journal of Personality and Social Psychology; addresses psychology, social psychology,
+  content (measure theory). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

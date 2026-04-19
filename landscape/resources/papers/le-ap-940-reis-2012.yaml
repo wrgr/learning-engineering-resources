@@ -1,0 +1,31 @@
+resource_id: LE-AP-940
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Towards Reducing Cognitive Load and Enhancing Usability through a Reduced Graphical User Interface for a
+  Dynamic Geometry System: An Experimental Study'
+authors:
+- Helena Macedo Reis
+- Simone S. Borges
+- Vinícius H. S. Durelli
+- Luis Fernando de Souza Moro
+- Anarosa A. F. Brandão
+- Ellen Francine Barbosa
+- Leônidas de Oliveira Brandão
+- Seiji Isotani
+- Patrícia A. Jaques
+- Ig Ibert Bittencourt
+year: 2012
+venue: Unknown Venue
+doi: 10.1109/ism.2012.91
+tier: contemporary
+citation_count_approx: 34
+cross_seed_score: 2
+openalex_id: W1968389633
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Seiji Isotani,
+  Ig Ibert Bittencourt). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T14
+- T06

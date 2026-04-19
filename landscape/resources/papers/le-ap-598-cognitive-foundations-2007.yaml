@@ -1,18 +1,19 @@
 resource_id: LE-AP-598
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Cognitive foundations of interpretation"
+status: non_le
+title: Cognitive foundations of interpretation
 authors: []
 year: 2007
 venue: Data Archiving and Networked Services (DANS)
 tier: contemporary
 citation_count_approx: 583
 cross_seed_score: 2
-openalex_id: "W2166916420"
-significance: >
-  Published in Data Archiving and Networked Services (DANS); addresses
-  interpretation (philosophy), linguistics, cognition. Quality-filtered from
-  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
-  Toolkit corpus. Authors pending OpenAlex enrichment.
+openalex_id: W2166916420
+significance: 'Published in Data Archiving and Networked Services (DANS); addresses interpretation (philosophy),
+  linguistics, cognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

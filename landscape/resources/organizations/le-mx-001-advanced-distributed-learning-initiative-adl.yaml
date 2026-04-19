@@ -1,0 +1,13 @@
+resource_id: LE-MX-001
+content_type: CO
+source: mdx_backfill
+status: APPROVED
+name: Advanced Distributed Learning Initiative (ADL)
+type: org
+affiliation_or_venue: U.S. Department of Defense
+url: https://adlnet.gov/
+primary_topic: T10
+secondary_topics:
+- T16
+description: DoD-funded learning-technology R&D center. Birthplace of SCORM and xAPI. Substantial overlap
+  with the ICICLE Government/Military MIG; they co-sponsor iFEST each year.

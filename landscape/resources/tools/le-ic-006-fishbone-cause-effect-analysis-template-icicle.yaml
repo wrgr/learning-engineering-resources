@@ -1,0 +1,14 @@
+resource_id: LE-IC-006
+content_type: TP
+source: icicle
+status: APPROVED
+name: Fishbone / Cause-Effect Analysis Template (ICICLE)
+type: tool
+affiliation_or_venue: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+primary_topic: T03
+secondary_topics:
+- T09
+description: Google Doc template for Ishikawa (fishbone) cause-and-effect diagrams in learning contexts.
+  Used during LE problem framing and needs analysis to map contributing factors to learning gaps.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

@@ -2,18 +2,20 @@ resource_id: LE-AP-560
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "e‐Learning and the Science of Instruction"
+title: e‐Learning and the Science of Instruction
 authors: []
 year: 2003
 venue: Applied Cognitive Psychology
-doi: "10.1002/acp.969"
+doi: 10.1002/acp.969
 tier: contemporary
 citation_count_approx: 316
 cross_seed_score: 2
-openalex_id: "W2139678233"
-significance: >
-  Published in Applied Cognitive Psychology; addresses citation, library
-  science, state (computer science). Quality-filtered from OpenAlex cross-seed
-  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+openalex_id: W2139678233
+significance: 'Published in Applied Cognitive Psychology; addresses citation, library science, state (computer science).
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
   Authors pending OpenAlex enrichment.
-primary_topic: T01
+
+  '
+primary_topic: T12
+secondary_topics:
+- T01

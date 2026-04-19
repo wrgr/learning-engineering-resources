@@ -1,0 +1,19 @@
+resource_id: LE-AP-823
+content_type: AP
+source: scholar_gap_analysis
+title: "What Does an Emerging Intelligence Augmentation Economy Mean for HF/E? Can Learning Engineering Help?"
+authors:
+  - Jim Goodell
+  - Scotty D. Craig
+year: 2022
+venue: "Proceedings of the Human Factors and Ergonomics Society Annual Meeting"
+doi: "10.1177/1071181322661283"
+tier: contemporary
+citation_count_approx: 3
+significance: >
+  The emergence of an intelligence augmentation economy will fundamentally change the nature
+  of work and what people need to learn and do to be its contributors and beneficiaries.
+  This paper explores what this means for the science and practice of human
+  factors/ergonomics design and engineering as well as how we teach it.
+primary_topic: T03
+secondary_topics: []

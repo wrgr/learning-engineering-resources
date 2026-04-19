@@ -1,0 +1,33 @@
+resource_id: LE-PP-268
+content_type: PP
+source: curated
+status: APPROVED
+name: Caitlin Mills
+affiliation: University of Minnesota
+era: contemporary
+role: LAK 2025 and EDM 2025 Program Chair; attention, affect, and multimodal sensing
+description: 'Associate Professor in Educational Psychology at the University of Minnesota. Program Chair for LAK
+  2025 and EDM 2025 — a dual-venue role in the same year. Research on attention, mind-wandering, affective computing,
+  and multimodal sensing during learning.
+
+  '
+key_contributions:
+- Program Chair, LAK 2025 (Dublin) AND EDM 2025 (Palermo) — same year, both flagship venues
+- Pioneering work on detecting mind-wandering during reading and online learning
+- Applies affect-detection methods to adaptive learning system design
+primary_topic: T04
+secondary_topics:
+- T01
+- T07
+url: https://edpsych.umn.edu/caitlin-mills
+notes: LAK 2025 PC. EDM 2025 PC. Mind-wandering detection.
+key_works:
+- How Do We Model Learning at Scale? A Systematic Review of Research on MOOCs (Review of Educational Research, 2017)
+- 'Disengagement during lectures: Media multitasking and mind wandering in university classrooms (Computers & Education,
+  2018)'
+- Automated gaze-based mind wandering detection during computerized learning in classrooms (User Modeling and User-Adapted
+  Interaction, 2019)
+- 'The Eyes Have It: Gaze-based Detection of Mind Wandering during Learning with an Intelligent Tutoring System
+  (2016)'
+- Mind Wandering During Learning with an Intelligent Tutoring System (Lecture notes in computer science, 2015)
+openalex_id: https://openalex.org/A5028763816

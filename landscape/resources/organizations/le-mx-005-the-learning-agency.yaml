@@ -1,0 +1,14 @@
+resource_id: LE-MX-005
+content_type: CO
+source: mdx_backfill
+status: APPROVED
+name: The Learning Agency
+type: org
+affiliation_or_venue: Learning Agency / Learning Agency Lab
+url: https://www.the-learning-agency.com/
+primary_topic: T15
+secondary_topics:
+- T16
+description: Non-profit research and policy shop led by Ulrich Boser, the co-author of 'High-Leverage
+  Opportunities for LE.' Runs several open-data competitions and the Learning Engineering Google Group
+  that ICICLE references.

@@ -1,0 +1,23 @@
+resource_id: LE-AP-1008
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Visualising alignment to support students’ judgment of confidence in open learner models
+authors:
+- Lamiya Al-Shanfari
+- Carrie Demmans Epp
+- Chris Baber
+- Mahvish Nazir
+year: 2020
+venue: User Modeling and User-Adapted Interaction
+doi: 10.1007/s11257-019-09253-4
+tier: contemporary
+citation_count_approx: 6
+cross_seed_score: 1
+openalex_id: W3000784194
+significance: Published in User Modeling and User-Adapted Interaction. LE-filtered expansion seeded from conference-chair
+  authorship (Carrie Demmans Epp). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T06
+- T14

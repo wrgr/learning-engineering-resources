@@ -1,0 +1,19 @@
+resource_id: LE-MX-021
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: Silver Lining for Learning — Applying Human-Centered Engineering Methods to Learning
+authors:
+- Janet Kolodner
+- Jim Goodell
+- Sae Schatz
+publisher: Silver Lining for Learning
+url: https://silverliningforlearning.org/episode-149-applying-human-centered-engineering-methods-to-learning/
+type: podcast
+primary_topic: T03
+secondary_topics:
+- T02
+significance: Kolodner, Goodell, and Schatz on where human-centered design methods actually fit inside
+  the LE process — which ones matter, which get applied lazily, and where the practitioner discipline
+  still has gaps.
+year: 2023

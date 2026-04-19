@@ -1,0 +1,15 @@
+resource_id: LE-IC-026
+content_type: CO
+source: icicle
+status: APPROVED
+name: Playful Journey Lab / MITili (MIT)
+type: organization
+affiliation_or_venue: Massachusetts Institute of Technology
+url: https://sagroups.ieee.org/icicle/resources/
+primary_topic: T08
+secondary_topics:
+- T07
+- T06
+description: MIT lab focused on game-based and playful learning engineering. MITili (MIT Integrated Learning
+  Initiative) applies data-driven, iterative design to immersive and game-based educational experiences.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

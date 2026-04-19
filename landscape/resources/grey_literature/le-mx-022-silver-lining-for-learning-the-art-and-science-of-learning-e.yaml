@@ -1,0 +1,19 @@
+resource_id: LE-MX-022
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: Silver Lining for Learning — The Art and Science of Learning Engineering
+authors:
+- Danielle McNamara
+- Scotty Craig
+- Rod Roscoe
+publisher: Silver Lining for Learning
+url: https://silverliningforlearning.org/episode-162-the-art-science-of-learning-engineering/
+type: podcast
+primary_topic: T00
+secondary_topics:
+- T01
+significance: Roscoe, Craig, and McNamara on what makes LE distinct from adjacent fields — and where art/intuition
+  still lives inside what's meant to be an engineering discipline. A more philosophical companion to the
+  ICICLE 2024 materials.
+year: 2023

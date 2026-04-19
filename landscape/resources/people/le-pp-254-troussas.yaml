@@ -1,0 +1,35 @@
+resource_id: LE-PP-254
+content_type: PP
+source: curated
+status: APPROVED
+name: Christos Troussas
+affiliation: University of West Attica, Athens, Greece
+era: contemporary
+role: ITS 2023/2020 Program Co-Chair; personalized and NLP-enhanced ITS researcher
+description: 'Associate Professor at the University of West Attica. Program Co-Chair for ITS 2023 and ITS 2020.
+  Research focuses on personalized and adaptive intelligent tutoring, human-centered AI, and NLP-enhanced feedback
+  — with particular emphasis on language learning and mobile-first tutoring environments.
+
+  '
+key_contributions:
+- Program Co-Chair, ITS 2023 (Corfu) and ITS 2020 (Athens)
+- Developed multi-criteria personalization frameworks for intelligent tutoring in language-learning contexts
+- Advanced NLP-enhanced automated feedback mechanisms for adaptive learner support
+primary_topic: T06
+secondary_topics:
+- T07
+- T12
+url: https://users.uniwa.gr/ctrouss/
+notes: ITS 2023/2020 PC Chair. Personalized ITS. NLP-enhanced feedback.
+key_works:
+- A Novel Teaching Strategy Through Adaptive Learning Activities for Computer Programming (IEEE Transactions on
+  Education, 2020)
+- Using a Multi Module Model for Learning Analytics to Predict Learners’ Cognitive States and Provide Tailored Learning
+  Pathways and Assessment (Intelligent systems reference library, 2019)
+- Improving Learner-Computer Interaction through Intelligent Learning Material Delivery Using Instructional Design
+  Modeling (Entropy, 2021)
+- Personalized Feedback Enhanced by Natural Language Processing in Intelligent Tutoring Systems (Lecture notes in
+  computer science, 2023)
+- Computerized Adaptive Assessment Using Accumulative Learning Activities Based on Revised Bloom’s Taxonomy (Smart
+  innovation, systems and technologies, 2018)
+openalex_id: https://openalex.org/A5068272767

@@ -2,18 +2,20 @@ resource_id: LE-AP-476
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Teachers and Machines: The Classroom Use of Technology since 1920"
+title: 'Teachers and Machines: The Classroom Use of Technology since 1920'
 authors: []
 year: 1986
 venue: History of Education Quarterly
-doi: "10.2307/369036"
+doi: 10.2307/369036
 tier: highly_cited
 citation_count_approx: 1708
 cross_seed_score: 2
-openalex_id: "W2075243909"
-significance: >
-  Published in History of Education Quarterly; addresses mathematics education,
-  sociology, pedagogy. Quality-filtered from OpenAlex cross-seed expansion of
-  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
-  OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2075243909
+significance: 'Published in History of Education Quarterly; addresses mathematics education, sociology, pedagogy.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T00
+secondary_topics:
+- T01

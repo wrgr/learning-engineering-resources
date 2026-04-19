@@ -1,17 +1,19 @@
 resource_id: LE-AP-361
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "The happiness hypothesis: Finding modern truth in ancient wisdom."
+status: non_le
+title: 'The happiness hypothesis: Finding modern truth in ancient wisdom.'
 authors: []
 year: 2006
 venue: Unknown Venue
 tier: contemporary
 citation_count_approx: 771
 cross_seed_score: 2
-openalex_id: "W1952230268"
-significance: >
-  Published in Unknown Venue; addresses happiness, aesthetics, epistemology.
-  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
-  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+openalex_id: W1952230268
+significance: 'Published in Unknown Venue; addresses happiness, aesthetics, epistemology. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

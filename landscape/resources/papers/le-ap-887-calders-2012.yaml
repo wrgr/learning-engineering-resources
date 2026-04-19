@@ -1,0 +1,21 @@
+resource_id: LE-AP-887
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Introduction to the special section on educational data mining
+authors:
+- Toon Calders
+- Mykola Pechenizkiy
+year: 2012
+venue: ACM SIGKDD Explorations Newsletter
+doi: 10.1145/2207243.2207245
+tier: contemporary
+citation_count_approx: 72
+cross_seed_score: 1
+openalex_id: W2155587956
+significance: Published in ACM SIGKDD Explorations Newsletter. LE-filtered expansion seeded from conference-chair
+  authorship (Mykola Pechenizkiy). OpenAlex-seeded; curation pending.
+primary_topic: T14
+secondary_topics:
+- T04
+- T17

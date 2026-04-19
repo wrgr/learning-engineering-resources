@@ -1,0 +1,21 @@
+resource_id: LE-AP-908
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Supporting the shift to digital with student-centered learning analytics
+authors:
+- Xavier Ochôa
+- Alyssa Friend Wise
+year: 2020
+venue: Educational Technology Research and Development
+doi: 10.1007/s11423-020-09882-2
+tier: contemporary
+citation_count_approx: 51
+cross_seed_score: 1
+openalex_id: W3110495380
+significance: Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair
+  authorship (Xavier Ochoa). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T11
+- T07

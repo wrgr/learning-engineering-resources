@@ -1,0 +1,23 @@
+resource_id: LE-AP-931
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Improving Learner-Computer Interaction through Intelligent Learning Material Delivery Using Instructional
+  Design Modeling
+authors:
+- Christos Troussas
+- Akrivi Krouska
+- Cleo Sgouropoulou
+year: 2021
+venue: Entropy
+doi: 10.3390/e23060668
+tier: contemporary
+citation_count_approx: 38
+cross_seed_score: 1
+openalex_id: W3164461305
+significance: Published in Entropy. LE-filtered expansion seeded from conference-chair authorship (Christos Troussas).
+  OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T12

@@ -1,0 +1,13 @@
+resource_id: LE-CO-021
+content_type: CO
+source: mdx_backfill
+status: APPROVED
+name: ISLS Annual Meeting
+type: event
+affiliation_or_venue: International Society of the Learning Sciences
+url: https://www.isls.org/
+primary_topic: T17
+secondary_topics:
+- T01
+description: Annual conference of the International Society of the Learning Sciences, encompassing ICLS
+  and CSCL communities.

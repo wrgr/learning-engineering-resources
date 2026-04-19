@@ -2,18 +2,20 @@ resource_id: LE-AP-562
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Those Who Understand: Knowledge Growth in Teaching"
+title: 'Those Who Understand: Knowledge Growth in Teaching'
 authors: []
 year: 1986
 venue: Educational Researcher
-doi: "10.3102/0013189x015002004"
+doi: 10.3102/0013189x015002004
 tier: foundational
 citation_count_approx: 17928
 cross_seed_score: 2
-openalex_id: "W2140369176"
-significance: >
-  Published in Educational Researcher; addresses mathematics education,
-  psychology, teaching method. Quality-filtered from OpenAlex cross-seed
-  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+openalex_id: W2140369176
+significance: 'Published in Educational Researcher; addresses mathematics education, psychology, teaching method.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
   Authors pending OpenAlex enrichment.
-primary_topic: T01
+
+  '
+primary_topic: T12
+secondary_topics:
+- T01

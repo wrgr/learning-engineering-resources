@@ -1,0 +1,33 @@
+resource_id: LE-PP-278
+content_type: PP
+source: curated
+status: APPROVED
+name: Giora Alexandron
+affiliation: Weizmann Institute of Science, Israel
+era: contemporary
+role: EDM 2025 Program Chair; MOOCs and LA for science learning
+description: 'Senior Scientist in Science Teaching at Weizmann. Program Chair for EDM 2025. Research on AI in education,
+  learning analytics, and MOOCs — particularly integrity and assessment at scale in science education.
+
+  '
+key_contributions:
+- Program Chair, EDM 2025 (Palermo, Italy)
+- Established research program on academic integrity and cheating detection in MOOCs
+- Applies LA methods to physics and science education at Israel's national level
+primary_topic: T04
+secondary_topics:
+- T14
+- T11
+url: https://www.weizmann.ac.il/ScienceTeaching/Alexandron/home
+notes: EDM 2025 PC. MOOC integrity. Science education LA.
+key_works:
+- 'Empowering Teachers with AI: Co-Designing a Learning Analytics Tool for Personalized Instruction in the Science
+  Classroom (2022)'
+- Are MOOC Learning Analytics Results Trustworthy? With Fake Learners, They Might Not Be! (International Journal
+  of Artificial Intelligence in Education, 2019)
+- 'Causal‐mechanical explanations in biology: Applying automated assessment for personalized learning in the science
+  classroom (Journal of Research in Science Teaching, 2024)'
+- Detecting cheaters in MOOCs using item response theory and learning analytics (2016)
+- 'Defining and measuring completion and assessment biases with respect to English language and development status:
+  not all MOOCs are equal (International Journal of Educational Technology in Higher Education, 2021)'
+openalex_id: https://openalex.org/A5059416730

@@ -1,0 +1,22 @@
+resource_id: LE-AP-857
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Self-regulated learning and learning analytics in online learning environments
+authors:
+- Olga Viberg
+- Mohammad Khalil
+- Martine Baars
+year: 2020
+venue: Unknown Venue
+doi: 10.1145/3375462.3375483
+tier: contemporary
+citation_count_approx: 175
+cross_seed_score: 1
+openalex_id: W3011905792
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Olga Viberg).
+  OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T14
+- T17

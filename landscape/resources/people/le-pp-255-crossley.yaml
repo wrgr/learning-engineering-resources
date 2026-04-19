@@ -1,0 +1,30 @@
+resource_id: LE-PP-255
+content_type: PP
+source: curated
+status: APPROVED
+name: Scott A. Crossley
+affiliation: Vanderbilt University (Peabody College; formerly Georgia State University)
+era: contemporary
+role: ITS 2022 Program Co-Chair; NLP for writing analytics and readability
+description: 'Professor of Special Education at Vanderbilt Peabody, previously at Georgia State. Program Co-Chair
+  and LNCS volume editor for ITS 2022 (Bucharest). Developed widely used NLP toolkits for text analysis — TAALES,
+  TAACO, SEANCE — that power writing analytics, readability assessment, and second-language acquisition research.
+  Frequent co-author with the Coh-Metrix team.
+
+  '
+key_contributions:
+- Program Co-Chair and Proceedings Co-Editor, ITS 2022 (Bucharest, Romania)
+- Developed TAALES, TAACO, and SEANCE — open-source NLP toolkits for writing analytics and readability analysis
+- Core contributor to the Writing Pal ITS and Coh-Metrix text-analytics research program
+- Bridges computational linguistics and learning engineering in assessment of L2 writing
+primary_topic: T04
+secondary_topics:
+- T06
+- T01
+url: https://lab.vanderbilt.edu/live/person/scott-crossley/
+notes: ITS 2022 PC Chair. TAALES/TAACO/SEANCE. Writing analytics.
+key_works:
+- Combining click-stream data with NLP tools to better understand MOOC completion (2016)
+- 'The Writing Pal Intelligent Tutoring System: Usability Testing and Development (Computers & composition/Computers
+  and composition, 2014)'
+openalex_id: https://openalex.org/A5028338673

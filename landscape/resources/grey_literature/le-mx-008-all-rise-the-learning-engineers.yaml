@@ -1,0 +1,17 @@
+resource_id: LE-MX-008
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: All Rise the Learning Engineers
+authors:
+- Aaron Barr
+- Robby Robson
+publisher: The EdTech Podcast
+url: https://theedtechpodcast.com/120-all-rise-the-learning-engineer/
+type: podcast
+primary_topic: T00
+secondary_topics: []
+significance: 'An early (2018) public conversation about the LE role. Useful as a time-capsule: what the
+  field thought it was before ICICLE consolidated. Barr and Robson are both early movers; the episode
+  holds up.'
+year: 2018

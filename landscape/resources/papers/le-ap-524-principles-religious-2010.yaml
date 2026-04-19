@@ -1,19 +1,20 @@
 resource_id: LE-AP-524
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Principles of Religious Prosociality: A Review and Reformulation"
+status: non_le
+title: 'Principles of Religious Prosociality: A Review and Reformulation'
 authors: []
 year: 2010
 venue: Social and Personality Psychology Compass
-doi: "10.1111/j.1751-9004.2010.00286.x"
+doi: 10.1111/j.1751-9004.2010.00286.x
 tier: contemporary
 citation_count_approx: 188
 cross_seed_score: 2
-openalex_id: "W2122198952"
-significance: >
-  Published in Social and Personality Psychology Compass; addresses psychology,
-  social psychology, psychoanalysis. Quality-filtered from OpenAlex cross-seed
-  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
-  Authors pending OpenAlex enrichment.
+openalex_id: W2122198952
+significance: 'Published in Social and Personality Psychology Compass; addresses psychology, social psychology,
+  psychoanalysis. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

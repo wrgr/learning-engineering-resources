@@ -2,18 +2,20 @@ resource_id: LE-AP-281
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "The Taxonomy of Educational Objectives"
+title: The Taxonomy of Educational Objectives
 authors: []
 year: 2012
 venue: Unknown Venue
-doi: "10.1007/978-1-4419-1428-6_6027"
+doi: 10.1007/978-1-4419-1428-6_6027
 tier: highly_cited
 citation_count_approx: 4131
 cross_seed_score: 3
-openalex_id: "W3146115948"
-significance: >
-  Published in Unknown Venue; addresses taxonomy (biology), computer science,
-  biology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &
-  Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
-  enrichment.
-primary_topic: T01
+openalex_id: W3146115948
+significance: 'Published in Unknown Venue; addresses taxonomy (biology), computer science, biology. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+  OpenAlex enrichment.
+
+  '
+primary_topic: T12
+secondary_topics:
+- T01

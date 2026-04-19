@@ -1,0 +1,23 @@
+resource_id: LE-AP-891
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Students'' privacy concerns in learning analytics: Model development'
+authors:
+- Chantal Mutimukwe
+- Olga Viberg
+- Lena‐Maria Öberg
+- Teresa Cerratto Pargman
+year: 2022
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.13234
+tier: contemporary
+citation_count_approx: 65
+cross_seed_score: 1
+openalex_id: W4280591445
+significance: Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Olga Viberg). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T14
+- T17

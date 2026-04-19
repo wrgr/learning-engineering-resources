@@ -2,18 +2,21 @@ resource_id: LE-AP-256
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Research through design as a method for interaction design research in HCI"
+title: Research through design as a method for interaction design research in HCI
 authors: []
 year: 2007
 venue: Unknown Venue
-doi: "10.1145/1240624.1240704"
+doi: 10.1145/1240624.1240704
 tier: highly_cited
 citation_count_approx: 2123
 cross_seed_score: 3
-openalex_id: "W2133443878"
-significance: >
-  Published in Unknown Venue; addresses computer science, set (abstract data
-  type), product design. Quality-filtered from OpenAlex cross-seed expansion of
-  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
-  OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2133443878
+significance: 'Published in Unknown Venue; addresses computer science, set (abstract data type), product design.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T03
+secondary_topics:
+- T01
+- T02

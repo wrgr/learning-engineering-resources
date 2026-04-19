@@ -1,0 +1,22 @@
+resource_id: LE-AP-954
+content_type: AP
+source: openalex_expansion
+status: seed
+title: '"Open Learner Models: Future Research Directions" Special Issue of the IJAIED (Part 2)'
+authors:
+- Vania Dimitrova
+- Gord McCalla
+- Susan Bull
+year: 2007
+venue: International Journal of Artificial Intelligence in Education
+doi: 10.3233/irg-2007-17(3)01
+tier: contemporary
+citation_count_approx: 29
+cross_seed_score: 1
+openalex_id: W1732001512
+significance: Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion
+  seeded from conference-chair authorship (Vania Dimitrova). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T06
+- T10

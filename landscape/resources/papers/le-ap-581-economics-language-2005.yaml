@@ -1,19 +1,20 @@
 resource_id: LE-AP-581
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Economics Language and Assumptions: How Theories can Become Self-Fulfilling"
+status: non_le
+title: 'Economics Language and Assumptions: How Theories can Become Self-Fulfilling'
 authors: []
 year: 2005
 venue: Academy of Management Review
-doi: "10.5465/amr.2005.15281412"
+doi: 10.5465/amr.2005.15281412
 tier: highly_cited
 citation_count_approx: 1201
 cross_seed_score: 2
-openalex_id: "W2153504809"
-significance: >
-  Published in Academy of Management Review; addresses positive economics,
-  sociology, epistemology. Quality-filtered from OpenAlex cross-seed expansion
-  of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
-  OpenAlex enrichment.
+openalex_id: W2153504809
+significance: 'Published in Academy of Management Review; addresses positive economics, sociology, epistemology.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

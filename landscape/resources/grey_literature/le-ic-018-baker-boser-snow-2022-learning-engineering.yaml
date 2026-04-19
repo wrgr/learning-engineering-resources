@@ -1,0 +1,19 @@
+resource_id: LE-IC-018
+content_type: GL
+source: icicle
+status: APPROVED
+title: 'Baker, Boser & Snow (2022) — Learning Engineering: A View on Where the Field Is At'
+authors:
+- Baker
+- Boser
+- Snow
+year: 2022
+publisher: APA Open / The Learning Agency
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T00
+secondary_topics:
+- T17
+significance: Open-access article surveying the state of the learning engineering field as of 2022. Reviews
+  definitions, practice norms, evidence standards, and key open problems.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025. APA Open access.

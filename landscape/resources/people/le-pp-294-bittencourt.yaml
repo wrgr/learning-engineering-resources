@@ -1,0 +1,35 @@
+resource_id: LE-PP-294
+content_type: PP
+source: curated
+status: APPROVED
+name: Ig Ibert Bittencourt
+affiliation: Federal University of Alagoas (UFAL), Brazil; Harvard Graduate School of Education
+era: contemporary
+role: AIED 2024 General Chair; AI for education social-good and affective ITS
+description: 'Professor at UFAL and affiliate at Harvard GSE. General Co-Chair of AIED 2024 (Recife, Brazil). Research
+  on AI in education for social good, affective computing, and gamified intelligent tutoring systems — applied to
+  public education in Brazil.
+
+  '
+key_contributions:
+- General Co-Chair, AIED 2024 (Recife, Brazil) — first AIED hosted in Brazil
+- Research on AI-for-social-good in education at Brazilian public-school scale
+- Affective computing and gamified ITS research; MatBase adaptive math system
+- Dual UFAL/Harvard appointment; bridges Brazilian and US LE communities
+primary_topic: T07
+secondary_topics:
+- T14
+- T06
+url: https://sites.google.com/view/igibert
+notes: AIED 2024 GC. Brazilian AIED. AI-for-social-good. Affective ITS.
+key_works:
+- Visualizing Learning Analytics and Educational Data Mining Outputs (Lecture notes in computer science, 2018)
+- 'Authoring Tools for Designing Intelligent Tutoring Systems: a Systematic Review of the Literature (International
+  Journal of Artificial Intelligence in Education, 2017)'
+- 'Towards Reducing Cognitive Load and Enhancing Usability through a Reduced Graphical User Interface for a Dynamic
+  Geometry System: An Experimental Study (2012)'
+- 'GaTO: An Ontological Model to Apply Gamification in Intelligent Tutoring Systems (Frontiers in Artificial Intelligence,
+  2019)'
+- Authoring Gamified Intelligent Tutoring Systems (Anais ... Workshops do Congresso Brasileiro de Informática na
+  Educação, 2017)
+openalex_id: https://openalex.org/A5061181768

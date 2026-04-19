@@ -10,20 +10,16 @@ tools. Regenerate after any change to landscape/resources/.
 
 Run from the repo root:
     python3 scripts/build_typed_json.py
+
+Requires PyYAML (see scripts/requirements.txt).
 """
 
 from __future__ import annotations
 
 import json
-import re
-import textwrap
 from pathlib import Path
 
-try:
-    import yaml as _yaml
-    HAS_YAML = True
-except ImportError:
-    HAS_YAML = False
+import yaml
 
 REPO_ROOT = Path(__file__).parent.parent
 RESOURCES_DIR = REPO_ROOT / "landscape" / "resources"
@@ -44,73 +40,9 @@ SUBDIR_TO_FILE: dict[str, str] = {
 }
 
 
-def parse_yaml_simple(text: str) -> dict:
-    """Parse a flat YAML record without a full YAML library."""
-    result: dict = {}
-    lines = text.splitlines()
-    i = 0
-
-    def read_block_scalar() -> str:
-        nonlocal i
-        parts: list[str] = []
-        while i < len(lines):
-            line = lines[i]
-            if not line.startswith(" ") and line.strip():
-                break
-            if line.strip():
-                parts.append(line.strip())
-            i += 1
-        return " ".join(parts)
-
-    def read_list() -> list[str]:
-        nonlocal i
-        items: list[str] = []
-        while i < len(lines):
-            line = lines[i]
-            if not line.strip():
-                i += 1
-                continue
-            m = re.match(r"^\s+-\s+(.*)", line)
-            if m:
-                items.append(m.group(1).strip().strip("\"'"))
-                i += 1
-            else:
-                break
-        return items
-
-    while i < len(lines):
-        line = lines[i]
-        if not line.strip() or line.lstrip().startswith("#"):
-            i += 1
-            continue
-        m = re.match(r"^([\w][\w_]*):\s*(.*)", line)
-        if not m:
-            i += 1
-            continue
-        key = m.group(1)
-        raw = m.group(2).strip()
-        i += 1
-        if raw in ("|", ">"):
-            result[key] = read_block_scalar()
-        elif raw == "":
-            if i < len(lines) and re.match(r"^\s+-", lines[i]):
-                result[key] = read_list()
-            else:
-                result[key] = None
-        else:
-            result[key] = raw.strip("\"'")
-    return result
-
-
 def load_yaml(path: Path) -> dict:
-    """Load YAML file to dict."""
-    text = path.read_text(encoding="utf-8")
-    if HAS_YAML:
-        try:
-            return _yaml.safe_load(text) or {}
-        except Exception:
-            pass
-    return parse_yaml_simple(text)
+    """Load a YAML record file to a dict."""
+    return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
 
 
 def normalise_record(record: dict) -> dict:

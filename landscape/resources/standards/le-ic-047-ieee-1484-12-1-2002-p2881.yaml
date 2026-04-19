@@ -1,0 +1,16 @@
+resource_id: LE-IC-047
+content_type: SG
+source: icicle
+status: APPROVED
+name: 'IEEE 1484.12.1-2002 & P2881: Learning Object Metadata'
+type: standard
+affiliation_or_venue: LOM / P2881
+url: https://standards.ieee.org/ieee/1484.12.1/1280/
+primary_topic: T11
+secondary_topics:
+- T05
+- T16
+description: Essential standards for cataloging, discovery, and semantic structuring of digital learning
+  resources across repositories. Enables automated discoverability and cross-platform content reuse.
+notes: 'Landscape merge. Original ID: LE-LS-SG-005. Sponsoring body: IEEE LTSC. P2881 is the modernized
+  successor incorporating linked data and accessibility requirements.'

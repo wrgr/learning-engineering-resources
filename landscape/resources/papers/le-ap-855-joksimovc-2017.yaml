@@ -1,0 +1,28 @@
+resource_id: LE-AP-855
+content_type: AP
+source: openalex_expansion
+status: seed
+title: How Do We Model Learning at Scale? A Systematic Review of Research on MOOCs
+authors:
+- Srécko Joksimovíc
+- Oleksandra Poquet
+- Vitomir Kovanović
+- Nia Dowell
+- Caitlin Mills
+- Dragan Gašević
+- Shane Dawson
+- Arthur C. Graesser
+- Christopher Brooks
+year: 2017
+venue: Review of Educational Research
+doi: 10.3102/0034654317740335
+tier: contemporary
+citation_count_approx: 179
+cross_seed_score: 1
+openalex_id: W2769669737
+significance: Published in Review of Educational Research. LE-filtered expansion seeded from conference-chair authorship
+  (Caitlin Mills). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T01
+- T07

@@ -1,0 +1,22 @@
+resource_id: LE-AP-950
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Challenges of Online Learning in Nigeria
+authors:
+- Kabir Abdulmajeed
+- David Joyner
+- Christine A. McManus
+year: 2020
+venue: Unknown Venue
+doi: 10.1145/3386527.3405953
+tier: contemporary
+citation_count_approx: 30
+cross_seed_score: 1
+openalex_id: W3046885561
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (David A.
+  Joyner). OpenAlex-seeded; curation pending.
+primary_topic: T11
+secondary_topics:
+- T07
+- T04

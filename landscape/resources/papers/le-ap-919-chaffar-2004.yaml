@@ -1,0 +1,21 @@
+resource_id: LE-AP-919
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Inducing Optimal Emotional State for Learning in Intelligent Tutoring Systems
+authors:
+- Soumaya Chaffar
+- Claude Frasson
+year: 2004
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-540-30139-4_5
+tier: contemporary
+citation_count_approx: 44
+cross_seed_score: 1
+openalex_id: W1523189742
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Claude Frasson). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T01

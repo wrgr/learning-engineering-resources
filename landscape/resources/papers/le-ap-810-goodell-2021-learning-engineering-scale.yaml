@@ -1,0 +1,21 @@
+resource_id: LE-AP-810
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering @ Scale"
+authors:
+  - Jim Goodell
+  - Aaron Kessler
+  - Mary Ellen Wiltrout
+year: 2021
+doi: "10.1145/3430895.3460875"
+tier: contemporary
+citation_count_approx: 6
+significance: >
+  Scaled learning requires a novel set of practices on the part of professionals developing
+  and delivering systems of scaled learning. According to IEEE's Industry Connections
+  Industry Consortium for Learning Engineering (ICICLE), "Learning engineering is a process
+  and practice that applies the learning sciences, using human-centered engineering design
+  methodologies, and data-informed decision-making to support learners and their
+  development[1]."
+primary_topic: T03
+secondary_topics: []

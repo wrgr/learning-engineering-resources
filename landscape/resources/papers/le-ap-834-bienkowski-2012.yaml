@@ -1,0 +1,22 @@
+resource_id: LE-AP-834
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Enhancing Teaching and Learning Through Educational Data Mining and Learning Analytics: An Issue Brief'
+authors:
+- Marie Bienkowski
+- Mingyu Feng
+- Barbara Means
+year: 2012
+venue: Unknown Venue
+doi: ''
+tier: highly_cited
+citation_count_approx: 589
+cross_seed_score: 1
+openalex_id: W2188960590
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Mingyu
+  Feng). OpenAlex-seeded; curation pending.
+primary_topic: T15
+secondary_topics:
+- T04
+- T06

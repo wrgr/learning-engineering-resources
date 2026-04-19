@@ -1,0 +1,32 @@
+resource_id: LE-PP-293
+content_type: PP
+source: curated
+status: APPROVED
+name: Yu Lu
+affiliation: Beijing Normal University, China
+era: contemporary
+role: AIED 2025 Program Chair; learner modeling and ITS in China
+description: 'Professor at Beijing Normal University''s Advanced Innovation Center for Future Education. Program
+  Chair for AIED 2025. Research on learner modeling, knowledge tracing, and AI-driven intelligent tutoring systems
+  — key link between the large Chinese AIED community and the international venue.
+
+  '
+key_contributions:
+- Program Chair, AIED 2025 (Palermo, Italy)
+- Represents the largest national AIED research community (China) in international program leadership
+- Research on knowledge tracing and AI-tutor deployment at Chinese classroom scale
+- Affiliated with BNU's Advanced Innovation Center for Future Education
+primary_topic: T06
+secondary_topics:
+- T07
+- T04
+url: https://aic-fe.bnu.edu.cn/
+notes: AIED 2025 PC. Chinese AIED community link. Knowledge tracing.
+key_works:
+- A Discriminative Feature Learning Approach for Deep Face Recognition (Lecture notes in computer science, 2016)
+- 'Temporal Segment Networks: Towards Good Practices for Deep Action Recognition (Lecture notes in computer science,
+  2016)'
+- 'ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks (Lecture notes in computer science, 2019)'
+- 'NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results (2017)'
+- Action recognition with trajectory-pooled deep-convolutional descriptors (2015)
+openalex_id: https://openalex.org/A5100748135

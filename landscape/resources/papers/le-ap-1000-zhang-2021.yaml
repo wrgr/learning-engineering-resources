@@ -1,0 +1,27 @@
+resource_id: LE-AP-1000
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Can Strategic Behaviour Facilitate Confusion Resolution? The Interplay Between Confusion and Metacognitive
+  Strategies in Betty’s Brain
+authors:
+- Yingbin Zhang
+- Luc Paquette
+- Ryan S. Baker
+- Jaclyn Ocumpaugh
+- Nigel Bosch
+- Gautam Biswas
+- Anabil Munshi
+year: 2021
+venue: Journal of Learning Analytics
+doi: 10.18608/jla.2021.7161
+tier: contemporary
+citation_count_approx: 9
+cross_seed_score: 1
+openalex_id: W3202224892
+significance: Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship
+  (Luc Paquette). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T06
+- T17

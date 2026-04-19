@@ -1,0 +1,25 @@
+resource_id: LE-PP-211
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Dina Kurzweil
+affiliation: Uniformed Services University of the Health Sciences
+era: contemporary
+role: Medical education LE practitioner; chapter author on tools for teaming.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Medical education LE practitioner;
+  chapter author on tools for teaming.
+key_works:
+- Can Blended Classroom and Distributed Learning Approaches be Used to Teach Medical Students How to Initiate Behavior
+  Change Counseling During a Clinical Clerkship? (Journal of Clinical Psychology in Medical Settings, 2011)
+- Learning Engineering is a Process (2022)
+- 'The Faculty - Instructional Designer Dyad (EdMedia: World Conference on Educational Media and Technology, 2008)'
+- A CASE STUDY OF INSTRUCTIONAL SUPPORT AND EDUCATIONAL TECHNOLOGY SERVICES AT THE UNIFORMED SERVICES UNIVERSITY
+  OF THE HEALTH SCIENCES (USUHS) (Digital Repository at the University of Maryland (University of Maryland College
+  Park), 2014)
+- Chapter 1 Learning Engineering is a Process (2023)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5008511437
+openalex_id: https://openalex.org/A5008511437
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5008511437; verify on review.

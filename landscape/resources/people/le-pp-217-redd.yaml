@@ -1,0 +1,18 @@
+resource_id: LE-PP-217
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Brandt Redd
+affiliation: Bill & Melinda Gates Foundation
+era: contemporary
+role: Learning technology architect; standards and interoperability specialist.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning technology architect;
+  standards and interoperability specialist.
+key_works:
+- Learning Engineering is Engineering (2022)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5068610281
+openalex_id: https://openalex.org/A5068610281
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5068610281; verify on review.

@@ -1,0 +1,16 @@
+resource_id: LE-AP-801
+content_type: AP
+source: scholar_gap_analysis
+title: "AIED: From Cognitive Simulations to Learning Engineering, with Humans in the Middle"
+authors:
+  - Danielle S. McNamara
+year: 2023
+venue: "International Journal of Artificial Intelligence in Education"
+doi: "10.1007/s40593-023-00349-y"
+tier: contemporary
+citation_count_approx: 15
+significance: >
+  LE-framed work per Scholar gap analysis (McNamara 'AIED: From Cognitive Simulations to
+  Learning Engineering' — canonical LE paper.).
+primary_topic: T06
+secondary_topics: []

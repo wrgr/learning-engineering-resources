@@ -1,0 +1,21 @@
+resource_id: LE-AP-951
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Authoring Gamified Intelligent Tutoring Systems
+authors:
+- Diego Dermeval
+- Ig Ibert Bittencourt
+year: 2017
+venue: Anais ... Workshops do Congresso Brasileiro de Informática na Educação
+doi: 10.5753/cbie.wcbie.2017.14
+tier: contemporary
+citation_count_approx: 30
+cross_seed_score: 1
+openalex_id: W2767915152
+significance: Published in Anais ... Workshops do Congresso Brasileiro de Informática na Educação. LE-filtered expansion
+  seeded from conference-chair authorship (Ig Ibert Bittencourt). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T14
+- T06

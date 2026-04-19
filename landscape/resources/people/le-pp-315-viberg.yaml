@@ -1,0 +1,34 @@
+resource_id: LE-PP-315
+content_type: PP
+source: curated
+status: APPROVED
+name: Olga Viberg
+affiliation: KTH Royal Institute of Technology, Sweden
+era: contemporary
+role: L@S 2023 Program Co-Chair; Editor-in-Chief, Journal of Learning Analytics
+description: 'Associate Professor of Media Technology (Technology-Enhanced Learning) at KTH. Program Co-Chair for
+  L@S 2023. Editor-in-Chief of the Journal of Learning Analytics. Research on learning analytics, AI in higher education,
+  and responsible/trustworthy use of student data.
+
+  '
+key_contributions:
+- Program Co-Chair, L@S 2023 (Copenhagen, Denmark)
+- Editor-in-Chief, Journal of Learning Analytics — central editorial role in the LA field
+- Research on responsible/trustworthy use of student data in higher education
+- Senior KTH researcher connecting Swedish HE to the LA community
+primary_topic: T04
+secondary_topics:
+- T14
+- T17
+url: https://www.kth.se/profile/oviberg
+notes: L@S 2023 PC. JLA Editor-in-Chief. Responsible LA.
+key_works:
+- Self-regulated learning and learning analytics in online learning environments (2020)
+- 'Mobile-assisted language learning through learning analytics for self-regulated learning (MALLAS): A conceptual
+  framework (Australasian Journal of Educational Technology, 2020)'
+- 'Students'' privacy concerns in learning analytics: Model development (British Journal of Educational Technology,
+  2022)'
+- The current landscape of learning analytics in higher education (Computers in Human Behavior, 2018)
+- Efforts in Europe for Data-Driven Improvement of Education – A Review of Learning Analytics Research in Seven
+  Countries (International Journal of Learning Analytics and Artificial Intelligence for Education (iJAI), 2019)
+openalex_id: https://openalex.org/A5036322331

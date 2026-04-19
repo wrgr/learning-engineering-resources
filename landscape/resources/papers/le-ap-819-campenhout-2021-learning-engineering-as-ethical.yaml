@@ -1,0 +1,16 @@
+resource_id: LE-AP-819
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering as an Ethical Framework"
+authors:
+  - Rachel Van Campenhout
+year: 2021
+venue: "Lecture notes in computer science"
+doi: "10.1007/978-3-030-77857-6_7"
+tier: contemporary
+citation_count_approx: 4
+significance: >
+  LE-framed work per Scholar gap analysis (Van Campenhout 'Learning Engineering as an
+  Ethical Framework' — LE-framed.).
+primary_topic: T14
+secondary_topics: []

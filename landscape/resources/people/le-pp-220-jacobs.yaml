@@ -1,0 +1,22 @@
+resource_id: LE-PP-220
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Daniel Jacobs
+affiliation: Infinitely Beta
+era: contemporary
+role: Learning analytics practitioner; Infinitely Beta.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning analytics practitioner;
+  Infinitely Beta.
+key_works:
+- Detecting Wheel-Spinning and Productive Persistence in Educational Games (Educational Data Mining, 2019)
+- 'The diagnostic utility of savings scores: Differentiating Alzheimer''s and Huntington''s diseases with the logical
+  memory and visual reproduction tests (Journal of clinical and experimental neuropsychology, 1993)'
+- Who stands to benefit? Wellbeing, belonging and challenges to equity in engagement in extra-curricular activities
+  at university (Active Learning in Higher Education, 2020)
+primary_topic: T00
+secondary_topics: []
+url: ''
+openalex_id: https://openalex.org/A5068096335
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related
+  top works — likely wrong person; populate manually. Cleaned dup/non-LE entries during audit.

@@ -1,0 +1,21 @@
+resource_id: LE-AP-905
+content_type: AP
+source: openalex_expansion
+status: seed
+title: An open IMS-based user modelling approach for developing adaptive learning management systems
+authors:
+- Jesús G. Boticario
+- Olga C. Santos
+year: 2007
+venue: Journal of Interactive Media in Education
+doi: ''
+tier: contemporary
+citation_count_approx: 54
+cross_seed_score: 1
+openalex_id: W1509358081
+significance: Published in Journal of Interactive Media in Education. LE-filtered expansion seeded from conference-chair
+  authorship (Olga C. Santos). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T04

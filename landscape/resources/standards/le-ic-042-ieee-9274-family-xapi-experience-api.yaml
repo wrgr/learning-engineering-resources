@@ -1,0 +1,17 @@
+resource_id: LE-IC-042
+content_type: SG
+source: icicle
+status: APPROVED
+name: IEEE 9274 Family (xAPI / Experience API)
+type: standard
+affiliation_or_venue: IEEE LTSC / ADL
+url: https://xapi.com/overview/
+primary_topic: T11
+secondary_topics:
+- T04
+- T16
+description: Data instrumentation standard governing how learning experiences are tracked, stored in Learning
+  Record Stores (LRS), and analyzed across distributed platforms. Includes JSON-LD application profiles,
+  cybersecurity protocols, and vocabulary registries.
+notes: The data infrastructure standard underpinning modern LE telemetry pipelines. Supersedes SCORM for
+  granular activity tracking.

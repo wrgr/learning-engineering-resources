@@ -1,0 +1,23 @@
+resource_id: LE-AP-878
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Learning analytics in virtual laboratories: a systematic literature review of empirical research'
+authors:
+- Ramy Elmoazen
+- Mohammed Saqr
+- Mohammad Khalil
+- Barbara Wasson
+year: 2023
+venue: Smart Learning Environments
+doi: 10.1186/s40561-023-00244-y
+tier: contemporary
+citation_count_approx: 91
+cross_seed_score: 1
+openalex_id: W4323662854
+significance: Published in Smart Learning Environments. LE-filtered expansion seeded from conference-chair authorship
+  (Barbara Wasson). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T11

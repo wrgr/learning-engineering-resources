@@ -1,0 +1,24 @@
+resource_id: LE-AP-858
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Supervised machine learning in multimodal learning analytics for estimating success in project‐based learning
+authors:
+- Daniel Spikol
+- Emanuele Ruffaldi
+- Giacomo Dabisias
+- Mutlu Cukurova
+year: 2018
+venue: Journal of Computer Assisted Learning
+doi: 10.1111/jcal.12263
+tier: contemporary
+citation_count_approx: 172
+cross_seed_score: 2
+openalex_id: W2803274219
+significance: Published in Journal of Computer Assisted Learning. LE-filtered expansion seeded from conference-chair
+  authorship (Mutlu Cukurova, Daniel Spikol). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T14
+- T08

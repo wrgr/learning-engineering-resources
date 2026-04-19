@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "LE-AP-760",
+    "file": "le-ap-760-symphony-case-1999.yaml",
+    "title": "\u201cSymphony: A Case Study in Extending Learner-Centered Design Through Process Space Analysis",
+    "venue": "Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+    "year": 1999,
+    "cites": 0,
+    "current_topic": "T02",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T02 topics in learning engineering. Full bibliographic details in citation: Quintana, Chris, Jim Eng, Andrew Carra, Hsin-Kai Wu, an"
+  },
+  {
+    "id": "LE-AP-761",
+    "file": "le-ap-761-using-cognitive-2013.yaml",
+    "title": "\u201cUsing Cognitive Load Theory to Improve Logical Reasoning for the LSAT",
+    "venue": "Proceedings of 2013 Annual Meeting of the American Educational Research Associat",
+    "year": 2013,
+    "cites": 0,
+    "current_topic": "T04",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T04 topics in learning engineering. Full bibliographic details in citation: Rudman, Larry, John Sweller, and David Niemi. \u201cUsing Co"
+  },
+  {
+    "id": "LE-AP-763",
+    "file": "le-ap-763-keith-2014.yaml",
+    "title": "Keith, ed",
+    "venue": "Unknown Venue",
+    "year": 2014,
+    "cites": 0,
+    "current_topic": "T14",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T14 topics in learning engineering. Full bibliographic details in citation: Sawyer, R. Keith, ed. 2014. The Cambridge Handbook of t"
+  },
+  {
+    "id": "LE-AP-764",
+    "file": "le-ap-764-executing-change-2018.yaml",
+    "title": "\u201cExecuting the Change to Learning Engineering at Scale",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 0,
+    "current_topic": "T00",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Saxberg, Bror. \u201cExecuting the Change to Learning Engine"
+  },
+  {
+    "id": "LE-AP-765",
+    "file": "le-ap-765-designing-ethical-2021.yaml",
+    "title": "\u201cDesigning Ethical Agency for Adaptive Instructional Systems: The FATE of Learning and Assessment",
+    "venue": "Unknown Venue",
+    "year": 2021,
+    "cites": 0,
+    "current_topic": "T02",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T02 topics in learning engineering. Full bibliographic details in citation: Schoenherr, Jordan Richard. \u201cDesigning Ethical Agency f"
+  },
+  {
+    "id": "LE-AP-766",
+    "file": "le-ap-766-socialcognitive-barriers-2015.yaml",
+    "title": "\u201cSocial-Cognitive Barriers to Ethical Authorship",
+    "venue": "Unknown Venue",
+    "year": 2015,
+    "cites": 0,
+    "current_topic": "T14",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Schoenherr, Jordan Richard. \u201cSocial-Cognitive Barriers "
+  },
+  {
+    "id": "LE-AP-768",
+    "file": "le-ap-768-reflective-design-2005.yaml",
+    "title": "Reflective Design",
+    "venue": "Proceedings of the 4th Decennial Conference on Critical Computing: Between Sense",
+    "year": 2005,
+    "cites": 0,
+    "current_topic": "T03",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Sengers, Phoebe, Kirsten Boehner, Shay David, and Josep"
+  },
+  {
+    "id": "LE-AP-769",
+    "file": "le-ap-769-2016-2016.yaml",
+    "title": "2016",
+    "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational Ling",
+    "year": 2016,
+    "cites": 0,
+    "current_topic": "T14",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T14 topics in learning engineering. Full bibliographic details in citation: Settles, Burr, and Brendan Meeder. 2016. \u201cA Trainable S"
+  },
+  {
+    "id": "LE-AP-770",
+    "file": "le-ap-770-rodriguez-2015.yaml",
+    "title": "Rodriguez",
+    "venue": "Unknown Venue",
+    "year": 2015,
+    "cites": 0,
+    "current_topic": "T15",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Shakman, Karen and Sheila M. Rodriguez. Logic Models fo"
+  },
+  {
+    "id": "LE-AP-772",
+    "file": "le-ap-772-case-fmea-2008.yaml",
+    "title": "\u201cA Case of FMEA Implementation in the Educational Sector and Integration with CRM and QFD Concepts",
+    "venue": "Unknown Venue",
+    "year": 2008,
+    "cites": 0,
+    "current_topic": "T02",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Sinthavalai, Runchana and Napisporn Memongkol. \u201cA Case "
+  },
+  {
+    "id": "LE-AP-774",
+    "file": "le-ap-774-enhancing-human-2019.yaml",
+    "title": "\u201cEnhancing Human Learning via Spaced Repetition Optimization",
+    "venue": "Proceedings of the National Academy of Sciences 116",
+    "year": 2019,
+    "cites": 0,
+    "current_topic": "T07",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Tabibian, Behzad, Utkarsh Upadhyay, Abir De, Ali Zareza"
+  },
+  {
+    "id": "LE-AP-776",
+    "file": "le-ap-776-accelerating-early-2021.yaml",
+    "title": "\u201cAccelerating Early Math Learning with Research-Based Personalized Learning Games: A Cluster Randomized Controlled Trial",
+    "venue": "Unknown Venue",
+    "year": 2021,
+    "cites": 0,
+    "current_topic": "T17",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T17 topics in learning engineering. Full bibliographic details in citation: Thai, Khanh-Phuong, Hee Jin Bang, and Linlin Li. \u201cAccel"
+  },
+  {
+    "id": "LE-AP-777",
+    "file": "le-ap-777-design-processes-2010.yaml",
+    "title": "The design processes these firms were using were quite different from standard product design, focusing primarily on designing experiences for consumers in addition to products themselves",
+    "venue": "Unknown Venue",
+    "year": 2010,
+    "cites": 0,
+    "current_topic": "T03",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: The phrase \u201cdesign thinking\u201d grew out of a merger betwe"
+  },
+  {
+    "id": "LE-AP-778",
+    "file": "le-ap-778-pervan-stephen-2018.yaml",
+    "title": "Pervan, Stephen J",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 0,
+    "current_topic": "T03",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Trischler, Jakob, Simon J. Pervan, Stephen J. Kelly, an"
+  },
+  {
+    "id": "LE-AP-779",
+    "file": "le-ap-779-failure-modes-2012.yaml",
+    "title": "\u201cFailure Modes and Effects Analysis (FMEA)",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 0,
+    "current_topic": "T02",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Venuk, Cecelia Marie. \u201cFailure Modes and Effects Analys"
+  },
+  {
+    "id": "LE-AP-781",
+    "file": "le-ap-781-disaffordances-dysaffordances-2017.yaml",
+    "title": "\u201cDisaffordances and Dysaffordances in Code",
+    "venue": "Unknown Venue",
+    "year": 2017,
+    "cites": 0,
+    "current_topic": "T14",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Wittkower, DE. \u201cDisaffordances and Dysaffordances in Co"
+  },
+  {
+    "id": "LE-AP-782",
+    "file": "le-ap-782-principles-antidiscriminatory-2016.yaml",
+    "title": "\u201cPrinciples of Anti-Discriminatory Design",
+    "venue": "Proceedings of the 2016 IEEE International Symposium on Ethics in Engineering",
+    "year": 2016,
+    "cites": 0,
+    "current_topic": "T14",
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Wittkower, Dylan E. \u201cPrinciples of Anti-Discriminatory "
+  },
+  {
+    "id": "LE-AP-784",
+    "file": "le-ap-784-lis-rise-2018.yaml",
+    "title": "The Rise of Learning Engineering",
+    "venue": "eLearn Magazine (ACM)",
+    "year": 2018,
+    "cites": 180,
+    "current_topic": "T00",
+    "concepts_hint": "Co-authored field overview arguing that learning engineering was emerging as a distinct discipline bridging learning science and technology practice. Positioned LE as requiring systematic evidence use"
+  },
+  {
+    "id": "LE-AP-785",
+    "file": "le-ap-785-lis-2023-le-perspectives.yaml",
+    "title": "Learning Engineering Perspectives for Supporting Educational Systems",
+    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+    "year": 2023,
+    "cites": 12,
+    "current_topic": "T00",
+    "concepts_hint": "Multi-author HFES proceedings paper articulating how learning engineering principles can be applied to transform educational systems. Connects LE to human factors and ergonomics perspectives on system"
+  },
+  {
+    "id": "LE-AP-786",
+    "file": "le-ap-786-kessler-2023-le-glance.yaml",
+    "title": "Learning Engineering at a Glance",
+    "venue": "Journal of Military Learning (Army University Press)",
+    "year": 2023,
+    "cites": 15,
+    "current_topic": "T10",
+    "concepts_hint": "Accessible practitioner overview of learning engineering written for military and defense training contexts. Introduces LE process, evidence standards, and team roles in language accessible to non-aca"
+  },
+  {
+    "id": "LE-AP-787",
+    "file": "le-ap-787-kessler-2024-decision-tracking.yaml",
+    "title": "Why Did We Do That? A Systematic Approach to Tracking Decisions in the Design and Iteration of Learning Experiences",
+    "venue": "Journal of Applied Instructional Design",
+    "year": 2024,
+    "cites": 8,
+    "current_topic": "T03",
+    "concepts_hint": "Proposes a structured decision-tracking methodology for learning engineering projects, documenting the rationale behind design choices throughout iterative development. Addresses the reproducibility g"
+  },
+  {
+    "id": "LE-AP-788",
+    "file": "le-ap-788-kessler-2025-decision-tracking.yaml",
+    "title": "Exploring Learning Engineering Design Decision Tracking: Emergent Themes from Practitioners' Work",
+    "venue": "TechTrends",
+    "year": 2025,
+    "cites": 3,
+    "current_topic": "T03",
+    "concepts_hint": "Empirical follow-up to the 2024 decision-tracking framework, reporting qualitative themes from practitioners applying decision-tracking in real LE projects. Identifies common challenges, useful patter"
+  },
+  {
+    "id": "LE-AP-789",
+    "file": "le-ap-789-ogundimu-2020-intl-students.yaml",
+    "title": "Senior International Officers: Essential Roles and Responsibilities",
+    "venue": "Journal of International Students",
+    "year": 2020,
+    "cites": 5,
+    "current_topic": "T14",
+    "concepts_hint": "Examines the institutional support roles needed to serve international students in higher education settings, with implications for equity and inclusion in learning design. Relevant to LE globalisatio"
+  },
+  {
+    "id": "LE-AP-790",
+    "file": "le-ap-790-marasco-2017-flipped.yaml",
+    "title": "Flipping the Foundation: A Multi-Year Flipped Classroom Study for a Large-Scale Introductory Programming Course",
+    "venue": "ASEE Annual Conference and Exposition Proceedings",
+    "year": 2017,
+    "cites": 45,
+    "current_topic": "T14",
+    "concepts_hint": "Multi-year learning engineering case study of a flipped classroom implementation in a large-enrollment introductory programming course. Demonstrates iterative, evidence-based design improvement over m"
+  },
+  {
+    "id": "LE-AP-791",
+    "file": "le-ap-791-marasco-2019-autoethnography.yaml",
+    "title": "Collaborative Autoethnographic Study of a Large-Scale Flipped Classroom Implementation with Multiple Instructors",
+    "venue": "ASEE Annual Conference and Exposition Proceedings",
+    "year": 2019,
+    "cites": 22,
+    "current_topic": "T14",
+    "concepts_hint": "Qualitative study examining instructor experiences coordinating a large-scale flipped classroom across multiple instructors. Uses collaborative autoethnography to surface coordination challenges, equi"
+  },
+  {
+    "id": "LE-AP-792",
+    "file": "le-ap-792-nyland-2017-rise.yaml",
+    "title": "The RISE Framework: Using Learning Analytics to Automatically Identify Open Educational Resources for Continuous Improvement",
+    "venue": "International Review of Research in Open and Distributed Learning",
+    "year": 2017,
+    "cites": 55,
+    "current_topic": "T09",
+    "concepts_hint": "Proposes the RISE (Resource Inspection, Selection, and Enhancement) framework for using learning analytics to automatically flag open educational resources needing improvement. Demonstrates how data s"
+  },
+  {
+    "id": "LE-AP-793",
+    "file": "le-ap-793-nyland-2019-class-size.yaml",
+    "title": "Does Class Size Matter? An Exploration into Faculty Perceptions of Teaching High-Enrollment Online Courses",
+    "venue": "American Journal of Distance Education",
+    "year": 2019,
+    "cites": 42,
+    "current_topic": "T14",
+    "concepts_hint": "Qualitative study of faculty perceptions of teaching large online courses, identifying key challenges around personalization, feedback, and learning quality at scale. Informs LE system design for high"
+  },
+  {
+    "id": "LE-AP-794",
+    "file": "le-ap-794-nyland-2021-analytics.yaml",
+    "title": "Piloting Learning Analytics in a Multidisciplinary Online Program",
+    "venue": "Online Learning",
+    "year": 2021,
+    "cites": 28,
+    "current_topic": "T09",
+    "concepts_hint": "Reports a pilot deployment of learning analytics dashboards across a multidisciplinary online program, examining adoption challenges, faculty readiness, and impact on instructional decisions. Illustra"
+  },
+  {
+    "id": "LE-AP-795",
+    "file": "le-ap-795-moreau-pernet-2024-tutor-discourse.yaml",
+    "title": "Classifying Tutor Discursive Moves at Scale in Mathematics Classrooms with Large Language Models",
+    "venue": "Proceedings of the 11th ACM Conference on Learning @ Scale",
+    "year": 2024,
+    "cites": 9,
+    "current_topic": "T07",
+    "concepts_hint": "Demonstrates use of LLMs to classify tutor discourse moves at scale in mathematics classrooms, enabling automated analysis of instructional quality across thousands of tutoring sessions. Shows how AI "
+  },
+  {
+    "id": "LE-AP-796",
+    "file": "le-ap-796-moreau-pernet-2024-flexeval.yaml",
+    "title": "FlexEval: A Customizable Tool for Chatbot Performance Evaluation and Dialogue Analysis",
+    "venue": "Proceedings of the 17th International Conference on Educational Data Mining",
+    "year": 2024,
+    "cites": 6,
+    "current_topic": "T06",
+    "concepts_hint": "Presents FlexEval, an open-source tool for systematic evaluation of dialogue- based AI tutoring systems. Enables reproducible assessment of chatbot conversational quality and learning effectiveness, f"
+  },
+  {
+    "id": "LE-AP-797",
+    "file": "le-ap-797-moreau-pernet-2025-llm-assessment.yaml",
+    "title": "Learning to Love LLMs for Answer Interpretation: Chain-of-Thought Prompting and the AMMORE Dataset",
+    "venue": "Journal of Learning Analytics",
+    "year": 2025,
+    "cites": 4,
+    "current_topic": "T09",
+    "concepts_hint": "Investigates chain-of-thought prompting strategies for using LLMs to interpret and score open-ended student responses, releasing the AMMORE dataset for benchmarking. Advances automated formative asses"
+  },
+  {
+    "id": "LE-AP-798",
+    "file": "le-ap-798-liang-2024-ai-assessment.yaml",
+    "title": "Validity Issues and Ethics Concerns of AI-Assisted Assessment",
+    "venue": "Introduction to AI and Ethics in Higher Education (book chapter)",
+    "year": 2024,
+    "cites": 3,
+    "current_topic": "T05",
+    "concepts_hint": "Examines validity and ethical issues arising from AI-assisted assessment systems, covering fairness, bias, transparency, and accountability. Relevant to LE practitioners deploying automated scoring an"
+  },
+  {
+    "id": "LE-AP-799",
+    "file": "le-ap-799-goodell-2022-learning-engineering-toolkit.yaml",
+    "title": "Learning Engineering Toolkit",
+    "venue": "",
+    "year": 2022,
+    "cites": 32,
+    "current_topic": "T16",
+    "concepts_hint": "LE-framed work per Scholar gap analysis (Goodell & Kolodner 'Learning Engineering Toolkit' \u2014 canonical LE volume.).\n"
+  },
+  {
+    "id": "LE-AP-800",
+    "file": "le-ap-800-clark-2018-engineering-motivation-using-belief-expectancy-control.yaml",
+    "title": "Engineering Motivation Using the Belief-Expectancy-Control Framework",
+    "venue": "Interdisciplinary Education and Psychology",
+    "year": 2018,
+    "cites": 17,
+    "current_topic": "T12",
+    "concepts_hint": "This article describes a practical approach to diagnosing and solving some of the motivation problems encountered in educational settings using the evidence-based Belief-Expectancy-Control (BEC) Frame"
+  },
+  {
+    "id": "LE-AP-801",
+    "file": "le-ap-801-mcnamara-2023-aied-from-cognitive-simulations.yaml",
+    "title": "AIED: From Cognitive Simulations to Learning Engineering, with Humans in the Middle",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2023,
+    "cites": 15,
+    "current_topic": "T06",
+    "concepts_hint": "LE-framed work per Scholar gap analysis (McNamara 'AIED: From Cognitive Simulations to Learning Engineering' \u2014 canonical LE paper.).\n"
+  },
+  {
+    "id": "LE-AP-802",
+    "file": "le-ap-802-richards-2018-learning-engineering.yaml",
+    "title": "Learning Engineering",
+    "venue": "",
+    "year": 2018,
+    "cites": 14,
+    "current_topic": "T03",
+    "concepts_hint": "213This concluding chapter draws on the examples and evidence from the preceding chapters to propose a model for iterative development platforms and approaches. The Digital Teaching Platform (DTP) mod"
+  },
+  {
+    "id": "LE-AP-803",
+    "file": "le-ap-803-lee-2022-learning-sciences-learning-engineering.yaml",
+    "title": "Learning sciences and learning engineering: A natural or artificial distinction?",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2022,
+    "cites": 13,
+    "current_topic": "T00",
+    "concepts_hint": "\u201cLearning engineering\u201d has gained popularity as a term connected to the work of learning sciences. However, the nature of that connection is not entirely clear.\n"
+  },
+  {
+    "id": "LE-AP-804",
+    "file": "le-ap-804-baker-2022-learning-engineering-view-where.yaml",
+    "title": "Learning engineering: A view on where the field is at, where it\u2019s going, and the research needed.",
+    "venue": "Technology Mind and Behavior",
+    "year": 2022,
+    "cites": 13,
+    "current_topic": "T00",
+    "concepts_hint": "Although the idea of learning engineering dates back to the 1960s, there has been an explosion of interest in the area in the last decade. This interest has been driven by an expansion in the computat"
+  },
+  {
+    "id": "LE-AP-805",
+    "file": "le-ap-805-goodell-2020-learning-engineering-model-learner-centered.yaml",
+    "title": "A Learning Engineering Model for Learner-Centered Adaptive Systems",
+    "venue": "Lecture notes in computer science",
+    "year": 2020,
+    "cites": 13,
+    "current_topic": "T06",
+    "concepts_hint": "LE-framed work per Scholar gap analysis (Goodell & Thai 'A Learning Engineering Model for Learner-Centered Adaptive Systems' \u2014 LE-framed.).\n"
+  },
+  {
+    "id": "LE-AP-806",
+    "file": "le-ap-806-kessler-2022-learning-engineering-process.yaml",
+    "title": "Learning Engineering is a Process",
+    "venue": "",
+    "year": 2022,
+    "cites": 12,
+    "current_topic": "T03",
+    "concepts_hint": "Learning engineering always begins with a challenge or problem associated with learners and learning. The inputs required to identify the challenge can come from many different sources.\n"
+  },
+  {
+    "id": "LE-AP-807",
+    "file": "le-ap-807-uncapher-2018-from-science-learning-development.yaml",
+    "title": "From the science of learning (and development) to learning engineering",
+    "venue": "Applied Developmental Science",
+    "year": 2018,
+    "cites": 9,
+    "current_topic": "T00",
+    "concepts_hint": "In this issue, Cantor and colleagues synthesize a broad representation of the literature on the science of learning, and how learning changes over the course of development. Their perspective highligh"
+  },
+  {
+    "id": "LE-AP-808",
+    "file": "le-ap-808-betts-2021-personalized-mastery-learning-ecosystems.yaml",
+    "title": "Personalized Mastery Learning Ecosystems: Using Bloom\u2019s Four Objects of Change to Drive Learning in Adaptive Instructional Systems",
+    "venue": "Lecture notes in computer science",
+    "year": 2021,
+    "cites": 8,
+    "current_topic": "T03",
+    "concepts_hint": "Abstract Adaptive instructional systems (AISs) hold tremendous promise for addressing learner variability at scale. Many AISs are grounded in Benjamin Bloom\u2019s (1971) Mastery Learning approach, which d"
+  },
+  {
+    "id": "LE-AP-809",
+    "file": "le-ap-809-kolodner-2023-learning-engineering-what-it.yaml",
+    "title": "Learning engineering: What it is, why I\u2019m involved, and why I think more of you should be",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2023,
+    "cites": 7,
+    "current_topic": "T00",
+    "concepts_hint": "In the article I am responding to (Lee, 2023, this issue and volume), Victor Lee makes the claim that because learning sciences is already an applied science, we do not need another field called Learn"
+  },
+  {
+    "id": "LE-AP-810",
+    "file": "le-ap-810-goodell-2021-learning-engineering-scale.yaml",
+    "title": "Learning Engineering @ Scale",
+    "venue": "",
+    "year": 2021,
+    "cites": 6,
+    "current_topic": "T03",
+    "concepts_hint": "Scaled learning requires a novel set of practices on the part of professionals developing and delivering systems of scaled learning. According to IEEE's Industry Connections Industry Consortium for Le"
+  },
+  {
+    "id": "LE-AP-811",
+    "file": "le-ap-811-saxberg-2017-learning-engineering.yaml",
+    "title": "Learning Engineering",
+    "venue": "",
+    "year": 2017,
+    "cites": 6,
+    "current_topic": "T00",
+    "concepts_hint": "There's a lot of excitement about how technology can transform education, and how the data created by all this technology can create a new era of amazingly motivating personalized instruction. However"
+  },
+  {
+    "id": "LE-AP-812",
+    "file": "le-ap-812-campenhout-2023-engaging-student-centered-educational-data.yaml",
+    "title": "Engaging in Student-Centered Educational Data Science Through Learning Engineering",
+    "venue": "Big data management",
+    "year": 2023,
+    "cites": 5,
+    "current_topic": "T03",
+    "concepts_hint": "LE-framed work per Scholar gap analysis (Van Campenhout/Jerome/Johnson 'Engaging in Student-Centered Educational Data Science Through Learning Engineering'.).\n"
+  },
+  {
+    "id": "LE-AP-813",
+    "file": "le-ap-813-schoenherr-2022-learning-engineering-ethical.yaml",
+    "title": "Learning Engineering is Ethical",
+    "venue": "",
+    "year": 2022,
+    "cites": 5,
+    "current_topic": "T14",
+    "concepts_hint": "This chapter considers how to address ethical learning engineering in a principled, systematic manner. It offers an ethical sense-making approach and a practical framework for ethical sense-making in "
+  },
+  {
+    "id": "LE-AP-814",
+    "file": "le-ap-814-sheehan-2021-role-participatory-codesign-learning.yaml",
+    "title": "The Role of Participatory Codesign in a Learning Engineering Framework to Support Classroom Implementation of an Adaptive Instructional System",
+    "venue": "Lecture notes in computer science",
+    "year": 2021,
+    "cites": 5,
+    "current_topic": "T06",
+    "concepts_hint": "LE-framed work per Scholar gap analysis (Sheehan et al. 'Role of Participatory Codesign in a Learning Engineering Framework' \u2014 LE-framed AIS work.).\n"
+  },
+  {
+    "id": "LE-AP-815",
+    "file": "le-ap-815-tseng-2023-activeai-introducing-ai-literacy.yaml",
+    "title": "ActiveAI: Introducing AI Literacy for Middle School Learners with Goal-based Scenario Learning",
+    "venue": "arXiv (Cornell University)",
+    "year": 2023,
+    "cites": 4,
+    "current_topic": "T03",
+    "concepts_hint": "The ActiveAI project addresses key challenges in AI education for grades 7-9 students by providing an engaging AI literacy learning experience based on the AI4K12 knowledge framework. Utilizing learni"
+  },
+  {
+    "id": "LE-AP-816",
+    "file": "le-ap-816-kay-2023-scrutable-aied.yaml",
+    "title": "Scrutable AIED",
+    "venue": "Edward Elgar Publishing eBooks",
+    "year": 2023,
+    "cites": 4,
+    "current_topic": "T06",
+    "concepts_hint": "This chapter describes scrutability in AIED. \u201cScrutable\u201d systems are designed so that learners can answer key questions about the way those systems work.\n"
+  },
+  {
+    "id": "LE-AP-817",
+    "file": "le-ap-817-czerwinski-2022-learning-engineering-uses-data.yaml",
+    "title": "Learning Engineering Uses Data (Part 1): Instrumentation",
+    "venue": "",
+    "year": 2022,
+    "cites": 4,
+    "current_topic": "T03",
+    "concepts_hint": "Data-informed decision-making is an essential and integral part of learning engineering. Without it, the people may be doing learning design, but they are not doing learning engineering.\n"
+  },
+  {
+    "id": "LE-AP-818",
+    "file": "le-ap-818-barrett-2022-learning-engineering-uses-data.yaml",
+    "title": "Learning Engineering Uses Data (Part 2): Analytics",
+    "venue": "",
+    "year": 2022,
+    "cites": 4,
+    "current_topic": "T06",
+    "concepts_hint": "Learning engineering research deals with highly contextualized cases within specific courses or products for specific learner populations. Today, Edmentum serves millions of teachers and students and "
+  },
+  {
+    "id": "LE-AP-819",
+    "file": "le-ap-819-campenhout-2021-learning-engineering-as-ethical.yaml",
+    "title": "Learning Engineering as an Ethical Framework",
+    "venue": "Lecture notes in computer science",
+    "year": 2021,
+    "cites": 4,
+    "current_topic": "T14",
+    "concepts_hint": "LE-framed work per Scholar gap analysis (Van Campenhout 'Learning Engineering as an Ethical Framework' \u2014 LE-framed.).\n"
+  },
+  {
+    "id": "LE-AP-820",
+    "file": "le-ap-820-matsuda-2019-pastel-evidence-based-learning-engineering.yaml",
+    "title": "PASTEL: Evidence-based Learning Engineering Method to Create Intelligent Online Textbook at Scale",
+    "venue": "iTextbooks@AIED",
+    "year": 2019,
+    "cites": 4,
+    "current_topic": "T16",
+    "concepts_hint": "LE-framed work per Scholar gap analysis (Matsuda & Shimmei PASTEL 'Evidence-based Learning Engineering Method' \u2014 LE-framed.).\n"
+  },
+  {
+    "id": "LE-AP-821",
+    "file": "le-ap-821-campenhout-2023-designing-student-progress-panel.yaml",
+    "title": "Designing a Student Progress Panel for Formative Practice: A Learning Engineering Process",
+    "venue": "Proceedings.",
+    "year": 2023,
+    "cites": 3,
+    "current_topic": "T03",
+    "concepts_hint": "Providing students with research-based learning tools is a necessary part of developing learning environments, and additionally, the design of those learning features is critical for their success.It "
+  },
+  {
+    "id": "LE-AP-822",
+    "file": "le-ap-822-barr-2022-learning-engineering-engineering.yaml",
+    "title": "Learning Engineering is Engineering",
+    "venue": "",
+    "year": 2022,
+    "cites": 3,
+    "current_topic": "T06",
+    "concepts_hint": "This chapter features stories from people trained as engineers and who applied its general principles to learning engineering. Engineers are more concerned with outlier data, the specific conditions i"
+  },
+  {
+    "id": "LE-AP-823",
+    "file": "le-ap-823-goodell-2022-what-does-emerging-intelligence.yaml",
+    "title": "What Does an Emerging Intelligence Augmentation Economy Mean for HF/E? Can Learning Engineering Help?",
+    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+    "year": 2022,
+    "cites": 3,
+    "current_topic": "T03",
+    "concepts_hint": "The emergence of an intelligence augmentation economy will fundamentally change the nature of work and what people need to learn and do to be its contributors and beneficiaries. This paper explores wh"
+  },
+  {
+    "id": "LE-AP-824",
+    "file": "le-ap-824-mirzababaei-2024-facilitating-learning-engineering-process.yaml",
+    "title": "Facilitating the Learning Engineering Process for Educational Conversational Modules Using Transformer-Based Language Models",
+    "venue": "IEEE Transactions on Learning Technologies",
+    "year": 2024,
+    "cites": 2,
+    "current_topic": "T03",
+    "concepts_hint": "In this work, we investigate a systematic workflow that supports the learning engineering process of 1) formulating the starting question for a conversational module based on existing learning materia"
+  },
+  {
+    "id": "LE-AP-825",
+    "file": "le-ap-825-altay-2023-learning-engineering-past-present.yaml",
+    "title": "Learning engineering: Past, present and future",
+    "venue": "Journal of Educational Technology and Online Learning",
+    "year": 2023,
+    "cites": 2,
+    "current_topic": "T03",
+    "concepts_hint": "Learning engineering is a term and combines the process and practice that applies the sciences of learning using human-centered engineering design methodologies and data-driven decision making to supp"
+  },
+  {
+    "id": "LE-AP-826",
+    "file": "le-ap-826-thai-2023-edtech-littles-using-learning.yaml",
+    "title": "EdTech for \u201cLittles\u201d: Using a Learning Engineering Approach to Create a Digital Math Readiness Program for 2- and 3-Year-Old Children",
+    "venue": "",
+    "year": 2023,
+    "cites": 2,
+    "current_topic": "T03",
+    "concepts_hint": "LE-framed work per Scholar gap analysis (Thai/Buchan/Kates EdTech for Littles 'Using a Learning Engineering Approach'.).\n"
+  },
+  {
+    "id": "LE-AP-827",
+    "file": "le-ap-827-thai-2022-learning-engineering-human-centered.yaml",
+    "title": "Learning Engineering is Human-Centered",
+    "venue": "",
+    "year": 2022,
+    "cites": 2,
+    "current_topic": "T03",
+    "concepts_hint": "Establishing deep connections with targeted learners can be difficult. The learning engineering process starts with understanding the challenge or problem to be solved and the context in which learnin"
+  },
+  {
+    "id": "LE-AP-828",
+    "file": "le-ap-828-goodell-2022-learning-engineering-applies-learning.yaml",
+    "title": "Learning Engineering Applies the Learning Sciences",
+    "venue": "",
+    "year": 2022,
+    "cites": 2,
+    "current_topic": "T03",
+    "concepts_hint": "The medical breakthrough took both scientific discovery and innovations in engineering to produce the drug at scale. This chapter examines some key concepts from the learning sciences.\n"
+  },
+  {
+    "id": "LE-AP-830",
+    "file": "le-ap-830-kim-2014.yaml",
+    "title": "The experience of three flipped classrooms in an urban university: an exploration of design principles",
+    "venue": "The Internet and Higher Education",
+    "year": 2014,
+    "cites": 912,
+    "current_topic": "T07",
+    "concepts_hint": "Published in The Internet and Higher Education. LE-filtered expansion seeded from conference-chair authorship (Min Kyu Kim). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-831",
+    "file": "le-ap-831-graesser-2005.yaml",
+    "title": "AutoTutor: An Intelligent Tutoring System With Mixed-Initiative Dialogue",
+    "venue": "IEEE Transactions on Education",
+    "year": 2005,
+    "cites": 688,
+    "current_topic": "T07",
+    "concepts_hint": "Published in IEEE Transactions on Education. LE-filtered expansion seeded from conference-chair authorship (Andrew M. Olney). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-832",
+    "file": "le-ap-832-viberg-2018.yaml",
+    "title": "The current landscape of learning analytics in higher education",
+    "venue": "Computers in Human Behavior",
+    "year": 2018,
+    "cites": 666,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers in Human Behavior. LE-filtered expansion seeded from conference-chair authorship (Olga Viberg). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-833",
+    "file": "le-ap-833-azevedo-2005.yaml",
+    "title": "Using Hypermedia as a Metacognitive Tool for Enhancing Student Learning? The Role of Self-Regulated Learning",
+    "venue": "Educational Psychologist",
+    "year": 2005,
+    "cites": 628,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Educational Psychologist. LE-filtered expansion seeded from conference-chair authorship (Roger Azevedo). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-834",
+    "file": "le-ap-834-bienkowski-2012.yaml",
+    "title": "Enhancing Teaching and Learning Through Educational Data Mining and Learning Analytics: An Issue Brief",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 589,
+    "current_topic": "T15",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Mingyu Feng). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-835",
+    "file": "le-ap-835-azevedo-2005.yaml",
+    "title": "Scaffolding Self-regulated Learning and Metacognition \u2013 Implications for the Design of Computer-based Scaffolds",
+    "venue": "Instructional Science",
+    "year": 2005,
+    "cites": 546,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Instructional Science. LE-filtered expansion seeded from conference-chair authorship (Roger Azevedo). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-836",
+    "file": "le-ap-836-tempelaar-2014.yaml",
+    "title": "In search for the most informative data for feedback generation: Learning analytics in a data-rich context",
+    "venue": "Computers in Human Behavior",
+    "year": 2014,
+    "cites": 425,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers in Human Behavior. LE-filtered expansion seeded from conference-chair authorship (Bart Rienties). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-837",
+    "file": "le-ap-837-martnezmons-2003.yaml",
+    "title": "Combining qualitative evaluation and social network analysis for the study of classroom social interactions",
+    "venue": "Computers & Education",
+    "year": 2003,
+    "cites": 416,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers & Education. LE-filtered expansion seeded from conference-chair authorship (Alejandra Mart\u00ednez-Mon\u00e9s). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-838",
+    "file": "le-ap-838-nazaretsky-2022.yaml",
+    "title": "Teachers' trust in <scp>AI</scp> \u2010powered educational technology and a professional development program to improve it",
+    "venue": "British Journal of Educational Technology",
+    "year": 2022,
+    "cites": 414,
+    "current_topic": "T07",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Mutlu Cukurova). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-839",
+    "file": "le-ap-839-pardo-2017.yaml",
+    "title": "Using learning analytics to scale the provision of personalised feedback",
+    "venue": "British Journal of Educational Technology",
+    "year": 2017,
+    "cites": 394,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Jelena Jovanovi\u0107). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-840",
+    "file": "le-ap-840-freitas-2009.yaml",
+    "title": "Learning as immersive experiences: Using the four\u2010dimensional framework for designing and evaluating immersive learning experiences in a virtual world",
+    "venue": "British Journal of Educational Technology",
+    "year": 2009,
+    "cites": 393,
+    "current_topic": "T07",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Genaro Rebolledo-M\u00e9ndez). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-841",
+    "file": "le-ap-841-luckin-2019.yaml",
+    "title": "Designing educational technologies in the age of AI: A learning sciences\u2010driven approach",
+    "venue": "British Journal of Educational Technology",
+    "year": 2019,
+    "cites": 379,
+    "current_topic": "T07",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Mutlu Cukurova). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-842",
+    "file": "le-ap-842-azevedo-2007.yaml",
+    "title": "Why is externally-facilitated regulated learning more effective than self-regulated learning with hypermedia?",
+    "venue": "Educational Technology Research and Development",
+    "year": 2007,
+    "cites": 374,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair authorship (Roger Azevedo). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-843",
+    "file": "le-ap-843-kukulskahulme-2017.yaml",
+    "title": "Mobile collaborative language learning: State of the art",
+    "venue": "British Journal of Educational Technology",
+    "year": 2017,
+    "cites": 367,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Olga Viberg). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-844",
+    "file": "le-ap-844-jovanovi-2017.yaml",
+    "title": "Learning analytics to unveil learning strategies in a flipped classroom",
+    "venue": "The Internet and Higher Education",
+    "year": 2017,
+    "cites": 359,
+    "current_topic": "T04",
+    "concepts_hint": "Published in The Internet and Higher Education. LE-filtered expansion seeded from conference-chair authorship (Jelena Jovanovi\u0107). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-845",
+    "file": "le-ap-845-dewan-2019.yaml",
+    "title": "Engagement detection in online learning: a review",
+    "venue": "Smart Learning Environments",
+    "year": 2019,
+    "cites": 333,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Smart Learning Environments. LE-filtered expansion seeded from conference-chair authorship (Fuhua (Oscar) Lin). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-846",
+    "file": "le-ap-846-guo-2014.yaml",
+    "title": "Demographic differences in how students navigate through MOOCs",
+    "venue": "Unknown Venue",
+    "year": 2014,
+    "cites": 319,
+    "current_topic": "T11",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Philip J. Guo). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-847",
+    "file": "le-ap-847-azevedo-2009.yaml",
+    "title": "Theoretical, conceptual, methodological, and instructional issues in research on metacognition and self-regulated learning: A discussion",
+    "venue": "Metacognition and Learning",
+    "year": 2009,
+    "cites": 310,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Metacognition and Learning. LE-filtered expansion seeded from conference-chair authorship (Roger Azevedo). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-848",
+    "file": "le-ap-848-wang-2020.yaml",
+    "title": "When adaptive learning is effective learning: comparison of an adaptive learning system to teacher-led instruction",
+    "venue": "Interactive Learning Environments",
+    "year": 2020,
+    "cites": 237,
+    "current_topic": "T15",
+    "concepts_hint": "Published in Interactive Learning Environments. LE-filtered expansion seeded from conference-chair authorship (Mingyu Feng). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-849",
+    "file": "le-ap-849-duffy-2015.yaml",
+    "title": "Motivation matters: Interactions between achievement goals and agent scaffolding for self-regulated learning within an intelligent tutoring system",
+    "venue": "Computers in Human Behavior",
+    "year": 2015,
+    "cites": 211,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers in Human Behavior. LE-filtered expansion seeded from conference-chair authorship (Roger Azevedo). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-850",
+    "file": "le-ap-850-gaevi-2017.yaml",
+    "title": "Detecting Learning Strategies with Analytics: Links with Self-reported Measures and Academic Performance",
+    "venue": "Journal of Learning Analytics",
+    "year": 2017,
+    "cites": 208,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship (Jelena Jovanovi\u0107). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-851",
+    "file": "le-ap-851-ali-2011.yaml",
+    "title": "A qualitative evaluation of evolution of a learning analytics tool",
+    "venue": "Computers & Education",
+    "year": 2011,
+    "cites": 203,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers & Education. LE-filtered expansion seeded from conference-chair authorship (Jelena Jovanovi\u0107). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-852",
+    "file": "le-ap-852-divjak-2022.yaml",
+    "title": "Flipped classrooms in higher education during the COVID-19 pandemic: findings and future research recommendations",
+    "venue": "International Journal of Educational Technology in Higher Education",
+    "year": 2022,
+    "cites": 203,
+    "current_topic": "T04",
+    "concepts_hint": "Published in International Journal of Educational Technology in Higher Education. LE-filtered expansion seeded from conference-chair authorship (Bart Rienties). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-853",
+    "file": "le-ap-853-mor-2015.yaml",
+    "title": "Editorial: Learning design, teacher inquiry into student learning and learning analytics: A call for action",
+    "venue": "British Journal of Educational Technology",
+    "year": 2015,
+    "cites": 190,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Barbara Wasson). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-854",
+    "file": "le-ap-854-rodrigues-2018.yaml",
+    "title": "Educational Data Mining: A review of evaluation process in the e-learning",
+    "venue": "Telematics and Informatics",
+    "year": 2018,
+    "cites": 187,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Telematics and Informatics. LE-filtered expansion seeded from conference-chair authorship (Seiji Isotani). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-855",
+    "file": "le-ap-855-joksimovc-2017.yaml",
+    "title": "How Do We Model Learning at Scale? A Systematic Review of Research on MOOCs",
+    "venue": "Review of Educational Research",
+    "year": 2017,
+    "cites": 179,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Review of Educational Research. LE-filtered expansion seeded from conference-chair authorship (Caitlin Mills). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-856",
+    "file": "le-ap-856-herodotou-2019.yaml",
+    "title": "A large-scale implementation of predictive learning analytics in higher education: the teachers\u2019 role and perspective",
+    "venue": "Educational Technology Research and Development",
+    "year": 2019,
+    "cites": 176,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair authorship (Bart Rienties). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-857",
+    "file": "le-ap-857-viberg-2020.yaml",
+    "title": "Self-regulated learning and learning analytics in online learning environments",
+    "venue": "Unknown Venue",
+    "year": 2020,
+    "cites": 175,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Olga Viberg). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-858",
+    "file": "le-ap-858-spikol-2018.yaml",
+    "title": "Supervised machine learning in multimodal learning analytics for estimating success in project\u2010based learning",
+    "venue": "Journal of Computer Assisted Learning",
+    "year": 2018,
+    "cites": 172,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Journal of Computer Assisted Learning. LE-filtered expansion seeded from conference-chair authorship (Mutlu Cukurova, Daniel Spikol). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-859",
+    "file": "le-ap-859-frasson-1990.yaml",
+    "title": "Intelligent Tutoring Systems: At the Crossroads of Artificial Intelligence and Education",
+    "venue": "Greenwood Publishing Group Inc. eBooks",
+    "year": 1990,
+    "cites": 170,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Greenwood Publishing Group Inc. eBooks. LE-filtered expansion seeded from conference-chair authorship (Claude Frasson). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-860",
+    "file": "le-ap-860-dimitrova-2003.yaml",
+    "title": "STyLE-OLM: Interactive Open Learner Modelling",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2003,
+    "cites": 169,
+    "current_topic": "T07",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Vania Dimitrova). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-861",
+    "file": "le-ap-861-crossley-2016.yaml",
+    "title": "Combining click-stream data with NLP tools to better understand MOOC completion",
+    "venue": "Unknown Venue",
+    "year": 2016,
+    "cites": 155,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Scott A. Crossley). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-862",
+    "file": "le-ap-862-cukurova-2020.yaml",
+    "title": "The promise and challenges of multimodal learning analytics",
+    "venue": "British Journal of Educational Technology",
+    "year": 2020,
+    "cites": 146,
+    "current_topic": "T07",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Mutlu Cukurova). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-863",
+    "file": "le-ap-863-vela-2018.yaml",
+    "title": "LADA: A learning analytics dashboard for academic advising",
+    "venue": "Computers in Human Behavior",
+    "year": 2018,
+    "cites": 139,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers in Human Behavior. LE-filtered expansion seeded from conference-chair authorship (Xavier Ochoa). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-864",
+    "file": "le-ap-864-mislevy-2012.yaml",
+    "title": "Design and Discovery in Educational Assessment: Evidence-Centered Design, Psychometrics, and Educational Data Mining",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "year": 2012,
+    "cites": 136,
+    "current_topic": "T15",
+    "concepts_hint": "Published in Zenodo (CERN European Organization for Nuclear Research). LE-filtered expansion seeded from conference-chair authorship (Kristen DiCerbo). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-865",
+    "file": "le-ap-865-rodrgueztriana-2014.yaml",
+    "title": "Scripting and monitoring meet each other: Aligning learning analytics and learning design to support teachers in orchestrating <scp>CSCL</scp> situations",
+    "venue": "British Journal of Educational Technology",
+    "year": 2014,
+    "cites": 134,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Alejandra Mart\u00ednez-Mon\u00e9s). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-866",
+    "file": "le-ap-866-rodrigues-2022.yaml",
+    "title": "Gamification suffers from the novelty effect but benefits from the familiarization effect: Findings from a longitudinal study",
+    "venue": "International Journal of Educational Technology in Higher Education",
+    "year": 2022,
+    "cites": 134,
+    "current_topic": "T07",
+    "concepts_hint": "Published in International Journal of Educational Technology in Higher Education. LE-filtered expansion seeded from conference-chair authorship (Seiji Isotani, Alexandra I. Cristea). OpenAlex-seeded; "
+  },
+  {
+    "id": "LE-AP-867",
+    "file": "le-ap-867-ke-2009.yaml",
+    "title": "Evaluating online learning communities",
+    "venue": "Educational Technology Research and Development",
+    "year": 2009,
+    "cites": 120,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair authorship (Chris Hoadley). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-868",
+    "file": "le-ap-868-ocha-2016.yaml",
+    "title": "Editorial: Augmenting Learning Analytics with Multimodal Sensory Data",
+    "venue": "Journal of Learning Analytics",
+    "year": 2016,
+    "cites": 119,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship (Xavier Ochoa). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-869",
+    "file": "le-ap-869-jrvel-2020.yaml",
+    "title": "Bridging learning sciences, machine learning and affective computing for understanding cognition and affect in collaborative learning",
+    "venue": "British Journal of Educational Technology",
+    "year": 2020,
+    "cites": 117,
+    "current_topic": "T14",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Mykola Pechenizkiy). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-870",
+    "file": "le-ap-870-wammes-2018.yaml",
+    "title": "Disengagement during lectures: Media multitasking and mind wandering in university classrooms",
+    "venue": "Computers & Education",
+    "year": 2018,
+    "cites": 113,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers & Education. LE-filtered expansion seeded from conference-chair authorship (Caitlin Mills). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-871",
+    "file": "le-ap-871-dermeval-2017.yaml",
+    "title": "Authoring Tools for Designing Intelligent Tutoring Systems: a Systematic Review of the Literature",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2017,
+    "cites": 110,
+    "current_topic": "T07",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Ig Ibert Bittencourt). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-872",
+    "file": "le-ap-872-hutt-2019.yaml",
+    "title": "Automated gaze-based mind wandering detection during computerized learning in classrooms",
+    "venue": "User Modeling and User-Adapted Interaction",
+    "year": 2019,
+    "cites": 104,
+    "current_topic": "T04",
+    "concepts_hint": "Published in User Modeling and User-Adapted Interaction. LE-filtered expansion seeded from conference-chair authorship (Caitlin Mills). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-873",
+    "file": "le-ap-873-pereira-2020.yaml",
+    "title": "Using learning analytics in the Amazonas: understanding students\u2019 behaviour in introductory programming",
+    "venue": "British Journal of Educational Technology",
+    "year": 2020,
+    "cites": 103,
+    "current_topic": "T07",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Seiji Isotani, Alexandra I. Cristea). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-874",
+    "file": "le-ap-874-dicerbo-2014.yaml",
+    "title": "Game-Based Assessment of Persistence.",
+    "venue": "Educational Technology & Society",
+    "year": 2014,
+    "cites": 102,
+    "current_topic": "T15",
+    "concepts_hint": "Published in Educational Technology & Society. LE-filtered expansion seeded from conference-chair authorship (Kristen DiCerbo). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-875",
+    "file": "le-ap-875-herodotou-2019.yaml",
+    "title": "Empowering online teachers through predictive learning analytics",
+    "venue": "British Journal of Educational Technology",
+    "year": 2019,
+    "cites": 100,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Bart Rienties). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-876",
+    "file": "le-ap-876-jong-2010.yaml",
+    "title": "Learning by creating and exchanging objects: The SCY experience",
+    "venue": "British Journal of Educational Technology",
+    "year": 2010,
+    "cites": 97,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Barbara Wasson). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-877",
+    "file": "le-ap-877-rienties-2020.yaml",
+    "title": "Defining the Boundaries Between Artificial Intelligence in Education, Computer-Supported Collaborative Learning, Educational Data Mining, and Learning Analytics: A Need for Coherence",
+    "venue": "Frontiers in Education",
+    "year": 2020,
+    "cites": 94,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Frontiers in Education. LE-filtered expansion seeded from conference-chair authorship (Bart Rienties). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-878",
+    "file": "le-ap-878-elmoazen-2023.yaml",
+    "title": "Learning analytics in virtual laboratories: a systematic literature review of empirical research",
+    "venue": "Smart Learning Environments",
+    "year": 2023,
+    "cites": 91,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Smart Learning Environments. LE-filtered expansion seeded from conference-chair authorship (Barbara Wasson). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-879",
+    "file": "le-ap-879-ou-2019.yaml",
+    "title": "Designing and Developing Videos for Online Learning: A Seven-Principle Model",
+    "venue": "Online Learning",
+    "year": 2019,
+    "cites": 90,
+    "current_topic": "T11",
+    "concepts_hint": "Published in Online Learning. LE-filtered expansion seeded from conference-chair authorship (David A. Joyner). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-880",
+    "file": "le-ap-880-troussas-2020.yaml",
+    "title": "A Novel Teaching Strategy Through Adaptive Learning Activities for Computer Programming",
+    "venue": "IEEE Transactions on Education",
+    "year": 2020,
+    "cites": 84,
+    "current_topic": "T06",
+    "concepts_hint": "Published in IEEE Transactions on Education. LE-filtered expansion seeded from conference-chair authorship (Christos Troussas). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-881",
+    "file": "le-ap-881-giannakos-2023.yaml",
+    "title": "The role of learning theory in multimodal learning analytics",
+    "venue": "British Journal of Educational Technology",
+    "year": 2023,
+    "cites": 84,
+    "current_topic": "T07",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Mutlu Cukurova). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-882",
+    "file": "le-ap-882-matsuda-2014.yaml",
+    "title": "Teaching the Teacher: Tutoring SimStudent Leads to More Effective Cognitive Tutor Authoring",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2014,
+    "cites": 81,
+    "current_topic": "T06",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Noboru Matsuda). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-883",
+    "file": "le-ap-883-ortegaarranz-2019.yaml",
+    "title": "To reward and beyond: Analyzing the effect of reward-based strategies in a MOOC",
+    "venue": "Computers & Education",
+    "year": 2019,
+    "cites": 77,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers & Education. LE-filtered expansion seeded from conference-chair authorship (Alejandra Mart\u00ednez-Mon\u00e9s). OpenAlex-seeded; curation pending."
+  }
+]

@@ -1,0 +1,20 @@
+resource_id: LE-PP-215
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Avron Barr
+affiliation: Aldo Ventures
+era: contemporary
+role: Learning technology standards leader; former IEEE LTSC chair; AI pioneer.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning technology standards
+  leader; former IEEE LTSC chair; AI pioneer.
+key_works:
+- Learning Engineering is Engineering (2022)
+- 'The Importance of Software Standards in the Globalization of Educational Technology: The IEEE Actionable Data
+  Book Project (AIED Workshops, 2013)'
+primary_topic: T00
+secondary_topics: []
+url: ''
+openalex_id: https://openalex.org/A5059518528
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related
+  top works — likely wrong person; populate manually.

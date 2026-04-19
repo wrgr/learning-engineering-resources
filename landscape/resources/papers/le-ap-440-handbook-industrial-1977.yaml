@@ -2,18 +2,20 @@ resource_id: LE-AP-440
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Handbook of Industrial and Organizational Psychology."
+title: Handbook of Industrial and Organizational Psychology.
 authors: []
 year: 1977
 venue: Administrative Science Quarterly
-doi: "10.2307/2391755"
+doi: 10.2307/2391755
 tier: foundational
 citation_count_approx: 12140
 cross_seed_score: 2
-openalex_id: "W2045181804"
-significance: >
-  Published in Administrative Science Quarterly; addresses industrial and
-  organizational psychology, organizational behavior, organization development.
-  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
-  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2045181804
+significance: 'Published in Administrative Science Quarterly; addresses industrial and organizational psychology,
+  organizational behavior, organization development. Quality-filtered from OpenAlex cross-seed expansion of the
+  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T10
+secondary_topics:
+- T01

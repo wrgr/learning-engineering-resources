@@ -1,0 +1,27 @@
+resource_id: LE-PP-284
+content_type: PP
+source: curated
+status: APPROVED
+name: Mykola Pechenizkiy
+affiliation: Eindhoven University of Technology, Netherlands
+era: contemporary
+role: EDM 2023 General Chair; responsible data science and predictive analytics in education
+description: 'Full Professor at TU Eindhoven. General Chair for EDM 2023. Research on responsible data science,
+  fair machine learning, and predictive analytics in education.
+
+  '
+key_contributions:
+- General Chair, EDM 2023 (Bengaluru, India)
+- Leading voice on responsible/fair ML applied to predictive analytics in education
+- Long-running research program on EDM methodology, bias, and fairness
+primary_topic: T14
+secondary_topics:
+- T04
+- T17
+url: https://www.tue.nl/en/research/researchers/mykola-pechenizkiy/
+notes: EDM 2023 GC. Fair ML. Responsible DM in education.
+key_works:
+- Bridging learning sciences, machine learning and affective computing for understanding cognition and affect in
+  collaborative learning (British Journal of Educational Technology, 2020)
+- Introduction to the special section on educational data mining (ACM SIGKDD Explorations Newsletter, 2012)
+openalex_id: https://openalex.org/A5022601535

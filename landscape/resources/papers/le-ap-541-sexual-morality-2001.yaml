@@ -1,19 +1,20 @@
 resource_id: LE-AP-541
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Sexual Morality: The Cultures and Emotions of Conservatives and Liberals<sup>1</sup>"
+status: non_le
+title: 'Sexual Morality: The Cultures and Emotions of Conservatives and Liberals<sup>1</sup>'
 authors: []
 year: 2001
 venue: Journal of Applied Social Psychology
-doi: "10.1111/j.1559-1816.2001.tb02489.x"
+doi: 10.1111/j.1559-1816.2001.tb02489.x
 tier: contemporary
 citation_count_approx: 413
 cross_seed_score: 2
-openalex_id: "W2132553791"
-significance: >
-  Published in Journal of Applied Social Psychology; addresses psychology,
-  morality, social psychology. Quality-filtered from OpenAlex cross-seed
-  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+openalex_id: W2132553791
+significance: 'Published in Journal of Applied Social Psychology; addresses psychology, morality, social psychology.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
   Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

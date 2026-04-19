@@ -1,0 +1,23 @@
+resource_id: LE-AP-984
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Detecting cheaters in MOOCs using item response theory and learning analytics
+authors:
+- Giora Alexandron
+- Sunbok Lee
+- Zhongzhou Chen
+- David E. Pritchard
+year: 2016
+venue: Unknown Venue
+doi: ''
+tier: contemporary
+citation_count_approx: 15
+cross_seed_score: 1
+openalex_id: W2571589094
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Giora Alexandron).
+  OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T14
+- T11

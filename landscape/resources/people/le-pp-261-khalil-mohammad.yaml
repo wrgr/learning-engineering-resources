@@ -1,0 +1,22 @@
+resource_id: LE-PP-261
+content_type: PP
+source: curated
+status: APPROVED
+name: Mohammad Khalil
+affiliation: "SLATE, University of Bergen, Norway"
+era: contemporary
+role: "LAK 2026 Program Chair; MOOCs, LA ethics, and generative AI in education"
+description: >
+  Associate Professor at SLATE, University of Bergen. Lead Program Chair for LAK 2026.
+  Research focuses on learning analytics, MOOCs, ethics and privacy in LA, and applications
+  of generative AI in education.
+key_contributions:
+  - "Lead Program Chair, LAK 2026 (Bergen, Norway)"
+  - Research on ethical and privacy dimensions of learning analytics at scale
+  - Studies uptake and implications of generative AI tools in higher-ed learning contexts
+primary_topic: T04
+secondary_topics:
+  - T14
+  - T07
+url: "https://mohdkhalil.wordpress.com/"
+notes: LAK 2026 PC Chair. LA ethics. GenAI in education.

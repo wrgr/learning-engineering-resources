@@ -2,17 +2,21 @@ resource_id: LE-AP-777
 content_type: AP
 source: book_endnotes
 status: seed
-title: "The design processes these firms were using were quite different from standard product design, focusing primarily on designing experiences for consumers in addition to products themselves"
+title: The design processes these firms were using were quite different from standard product design, focusing primarily
+  on designing experiences for consumers in addition to products themselves
 authors: []
 year: 2010
 venue: Unknown Venue
-doi: "10.1596/1020-797x_12_1_29"
+doi: 10.1596/1020-797x_12_1_29
 tier: contemporary
 citation_count_approx: 0
-openalex_id: ""
-significance: >
-  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
-  topics in learning engineering. Full bibliographic details in citation: The
-  phrase “design thinking” grew out of a merger between two design firms, David
-  Kelly Design and ID Two (see in Brown ...
-primary_topic: T01
+openalex_id: ''
+significance: 'Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering.
+  Full bibliographic details in citation: The phrase “design thinking” grew out of a merger between two design firms,
+  David Kelly Design and ID Two (see in Brown ...
+
+  '
+primary_topic: T03
+secondary_topics:
+- T01
+- T02

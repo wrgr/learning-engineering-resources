@@ -1,0 +1,16 @@
+resource_id: LE-IC-022
+content_type: GL
+source: icicle
+status: APPROVED
+title: 7 Things You Should Know About Learning Engineering (EDUCAUSE, 2018)
+authors:
+- IEEE ICICLE
+year: 2018
+publisher: EDUCAUSE
+url: https://library.educause.edu/resources/2018/9/7-things-you-should-know-about-learning-engineering
+type: report
+primary_topic: T00
+secondary_topics: []
+significance: Accessible EDUCAUSE brief introducing learning engineering to higher-education technologists
+  and administrators. Covers definition, typical activities, prospects, and challenges.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

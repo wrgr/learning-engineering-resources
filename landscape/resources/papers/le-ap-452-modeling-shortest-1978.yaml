@@ -1,18 +1,19 @@
 resource_id: LE-AP-452
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Modeling by shortest data description"
+status: non_le
+title: Modeling by shortest data description
 authors: []
 year: 1978
 venue: Automatica
-doi: "10.1016/0005-1098(78)90005-5"
+doi: 10.1016/0005-1098(78)90005-5
 tier: foundational
 citation_count_approx: 5977
 cross_seed_score: 2
-openalex_id: "W2054658115"
-significance: >
-  Published in Automatica; addresses computer science, mathematics. Quality-
-  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
-  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+openalex_id: W2054658115
+significance: 'Published in Automatica; addresses computer science, mathematics. Quality- filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

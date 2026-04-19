@@ -1,0 +1,33 @@
+resource_id: LE-PP-252
+content_type: PP
+source: curated
+status: APPROVED
+name: Claude Frasson
+affiliation: Université de Montréal, Canada
+era: contemporary
+role: ITS series founder; ITS 2023 Program Co-Chair; emotion-aware and brain-sensitive ITS pioneer
+description: 'Professor of Computer Science at Université de Montréal and long-time chair of the ITS steering committee.
+  Co-chaired ITS 2023 (Corfu). Pioneered emotion-aware and EEG-based brain-sensitive intelligent tutoring systems,
+  extending ITS beyond cognitive modeling into affective and neurophysiological signals.
+
+  '
+key_contributions:
+- Program Co-Chair, ITS 2023 (Corfu, Greece); long-time Steering Committee Chair of the ITS conference series
+- Hosted the founding 1988 ITS conference in Montréal, establishing the flagship ITS/LE venue
+- Pioneered emotion-aware and EEG-based brain-sensitive intelligent tutoring systems
+- Advanced models of affect, engagement, and cognitive load in adaptive learning systems
+primary_topic: T06
+secondary_topics:
+- T07
+- T01
+url: https://iro.umontreal.ca/~frasson/
+notes: ITS series founder/chair. Emotion-aware ITS. Brain-sensitive tutoring.
+key_works:
+- 'Intelligent Tutoring Systems: At the Crossroads of Artificial Intelligence and Education (Greenwood Publishing
+  Group Inc. eBooks, 1990)'
+- An actor-based architecture for intelligent tutoring systems (Lecture notes in computer science, 1996)
+- Inducing Optimal Emotional State for Learning in Intelligent Tutoring Systems (Lecture notes in computer science,
+  2004)
+- Managing Learner’s Affective States in Intelligent Tutoring Systems (Studies in computational intelligence, 2010)
+- Cooperative learning strategies for intelligent tutoring systems (Applied Artificial Intelligence, 2000)
+openalex_id: https://openalex.org/A5060693139

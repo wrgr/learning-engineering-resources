@@ -2,17 +2,20 @@ resource_id: LE-AP-645
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "The Aims of Education (1929)"
+title: The Aims of Education (1929)
 authors: []
 year: 2017
 venue: Unknown Venue
-doi: "10.2307/j.ctv310vnb6.5"
+doi: 10.2307/j.ctv310vnb6.5
 tier: highly_cited
 citation_count_approx: 952
 cross_seed_score: 2
-openalex_id: "W2798806259"
-significance: >
-  Published in Unknown Venue; addresses mathematics education, psychology.
-  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
-  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2798806259
+significance: 'Published in Unknown Venue; addresses mathematics education, psychology. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T00
+secondary_topics:
+- T01
+- T12

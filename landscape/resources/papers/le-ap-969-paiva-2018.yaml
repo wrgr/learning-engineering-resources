@@ -1,0 +1,24 @@
+resource_id: LE-AP-969
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Visualizing Learning Analytics and Educational Data Mining Outputs
+authors:
+- Ranilson Paiva
+- Ig Ibert Bittencourt
+- Wansel Lemos
+- André Vinicius
+- Diego Dermeval
+year: 2018
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-319-93846-2_46
+tier: contemporary
+citation_count_approx: 24
+cross_seed_score: 1
+openalex_id: W2809381733
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Ig Ibert Bittencourt). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T14
+- T06

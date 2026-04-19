@@ -1,0 +1,22 @@
+resource_id: LE-AP-972
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Adaptive structure metrics for automated feedback provision in intelligent tutoring systems
+authors:
+- Benjamin Paaßen
+- Bassam Mokbel
+- Barbara Hammer
+year: 2016
+venue: Neurocomputing
+doi: 10.1016/j.neucom.2015.12.108
+tier: contemporary
+citation_count_approx: 23
+cross_seed_score: 1
+openalex_id: W2234183288
+significance: Published in Neurocomputing. LE-filtered expansion seeded from conference-chair authorship (Benjamin
+  Paaßen). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T06
+- T07

@@ -1,0 +1,25 @@
+resource_id: LE-AP-883
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'To reward and beyond: Analyzing the effect of reward-based strategies in a MOOC'
+authors:
+- Alejandro Ortega‐Arranz
+- Miguel L. Bote‐Lorenzo
+- Juan I. Asensio‐Pérez
+- Alejandra Martínez‐Monés
+- Eduardo Gómez‐Sánchez
+- Yannis Dimitriadis
+year: 2019
+venue: Computers & Education
+doi: 10.1016/j.compedu.2019.103639
+tier: contemporary
+citation_count_approx: 77
+cross_seed_score: 1
+openalex_id: W2965216420
+significance: Published in Computers & Education. LE-filtered expansion seeded from conference-chair authorship
+  (Alejandra Martínez-Monés). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T03
+- T17

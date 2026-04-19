@@ -1,0 +1,21 @@
+resource_id: LE-AP-800
+content_type: AP
+source: scholar_gap_analysis
+title: "Engineering Motivation Using the Belief-Expectancy-Control Framework"
+authors:
+  - Richard E. Clark
+  - Bror Saxberg
+year: 2018
+venue: "Interdisciplinary Education and Psychology"
+doi: "10.31532/interdiscipeducpsychol.2.1.004"
+tier: contemporary
+citation_count_approx: 17
+significance: >
+  This article describes a practical approach to diagnosing and solving some of the
+  motivation problems encountered in educational settings using the evidence-based
+  Belief-Expectancy-Control (BEC) Framework. We think of this framework as a “learning
+  engineering” approach, because it integrates and applies a wide array of research results
+  and clinical experience by teachers and instructional designers to guide the solution of a
+  practical problem at
+primary_topic: T12
+secondary_topics: []

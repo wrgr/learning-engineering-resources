@@ -1,0 +1,14 @@
+resource_id: LE-MX-035
+content_type: TP
+source: mdx_backfill
+status: APPROVED
+name: Caliper Analytics
+type: platform
+affiliation_or_venue: 1EdTech (formerly IMS Global)
+url: https://www.1edtech.org/standards/caliper
+primary_topic: T04
+secondary_topics:
+- T11
+- T16
+description: Caliper is xAPI's closest sibling — a learning-analytics interop standard from 1EdTech. If
+  you're picking an LMS analytics stack, you'll encounter both.

@@ -1,0 +1,24 @@
+resource_id: LE-PP-282
+content_type: PP
+source: curated
+status: APPROVED
+name: Rakesh Agrawal
+affiliation: "Data Insights Laboratories, USA"
+era: contemporary
+role: EDM 2023 General Chair; data mining pioneer applied to education
+description: >
+  Founder of Data Insights Laboratories. General Chair of EDM 2023 (Bengaluru). One of the
+  original architects of modern data mining (association rules, privacy-preserving data
+  mining, Vaidya-Clifton) who turned toward educational data mining and curriculum analytics
+  in the 2010s. ACM and IEEE Fellow.
+key_contributions:
+  - "General Chair, EDM 2023 (Bengaluru, India)"
+  - "Foundational data-mining researcher (association rules, privacy-preserving data mining)"
+  - Applied industrial-scale DM methods to curriculum analytics and educational data
+  - "Senior international figure lending weight to EDM's methodological rigor"
+primary_topic: T04
+secondary_topics:
+  - T17
+  - T14
+url: "https://www.data-insights.org/"
+notes: EDM 2023 GC. Data mining pioneer. Association rules.

@@ -1,0 +1,36 @@
+resource_id: LE-PP-264
+content_type: PP
+source: curated
+status: APPROVED
+name: Roger Azevedo
+affiliation: University of Central Florida
+era: contemporary
+role: LAK 2026 Program Chair; metacognition and multimodal learning analytics pioneer
+description: 'Professor at the University of Central Florida. Program Chair for LAK 2026. Long-standing leader in
+  research on self-regulated learning, metacognition, and multimodal/multichannel data for adaptive learning systems
+  — with influential work using eye-tracking, physiological sensing, and log data to model learner state.
+
+  '
+key_contributions:
+- Program Chair, LAK 2026 (Bergen, Norway)
+- Established multi-channel, multimodal data analysis as a core method for studying self-regulated learning
+- Developed MetaTutor and related systems that detect and scaffold metacognitive processes
+- Trained generations of learning analytics and educational-psychology PhDs now leading the field
+primary_topic: T04
+secondary_topics:
+- T01
+- T17
+url: https://ccie.ucf.edu/person/roger-azevedo/
+notes: LAK 2026 PC. Metacognition. Multimodal LA pioneer.
+key_works:
+- Scaffolding Self-regulated Learning and Metacognition – Implications for the Design of Computer-based Scaffolds
+  (Instructional Science, 2005)
+- 'Motivation matters: Interactions between achievement goals and agent scaffolding for self-regulated learning
+  within an intelligent tutoring system (Computers in Human Behavior, 2015)'
+- Using Hypermedia as a Metacognitive Tool for Enhancing Student Learning? The Role of Self-Regulated Learning (Educational
+  Psychologist, 2005)
+- Why is externally-facilitated regulated learning more effective than self-regulated learning with hypermedia?
+  (Educational Technology Research and Development, 2007)
+- 'Theoretical, conceptual, methodological, and instructional issues in research on metacognition and self-regulated
+  learning: A discussion (Metacognition and Learning, 2009)'
+openalex_id: https://openalex.org/A5019212451

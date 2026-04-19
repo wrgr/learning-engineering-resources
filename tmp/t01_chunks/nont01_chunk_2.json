@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "LE-AP-115",
+    "file": "le-ap-115-goel-2019.yaml",
+    "title": "AI-Powered Learning: Making Education Accessible, Affordable, and Achievable",
+    "venue": "White paper, Georgia Institute of Technology",
+    "year": 2019,
+    "cites": 180,
+    "current_topic": "T07",
+    "concepts_hint": "Synthesized lessons from deploying multiple AI learning systems at Georgia Tech \u2014 Jill Watson, CS1301 AI tutor, CS7637 analytics \u2014 into a framework for scalable, accessible AI-powered education. Direc"
+  },
+  {
+    "id": "LE-AP-116",
+    "file": "le-ap-116-dmello-2007.yaml",
+    "title": "Automatic detection of learner's affect from conversational cues",
+    "venue": "User Modeling and User-Adapted Interaction",
+    "year": 2008,
+    "cites": 610,
+    "current_topic": "T04",
+    "concepts_hint": "Demonstrated automated detection of learner affect (frustration, confusion, boredom, flow) from conversational interaction patterns using machine learning classifiers. Established the methodological f"
+  },
+  {
+    "id": "LE-AP-117",
+    "file": "le-ap-117-dmello-2010.yaml",
+    "title": "Multimodal Semi-Automated Affect Detection from Conversational Cues, Gross Body Language, and Facial Features",
+    "venue": "User Modeling and User-Adapted Interaction",
+    "year": 2010,
+    "cites": 420,
+    "current_topic": "T04",
+    "concepts_hint": "Extended affect detection to multimodal signals \u2014 conversation, posture, and facial expressions \u2014 achieving higher accuracy than single-modality classifiers. Informs LE system design for multimodal le"
+  },
+  {
+    "id": "LE-AP-118",
+    "file": "le-ap-118-dmello-2017.yaml",
+    "title": "A Selective Meta-Analysis on the Relative Incidence of Discrete Affective States During Learning With Technology",
+    "venue": "Journal of Educational Psychology",
+    "year": 2013,
+    "cites": 350,
+    "current_topic": "T04",
+    "concepts_hint": "Meta-analyzed incidence rates of affect during technology-mediated learning across 22 studies, finding that confusion and frustration are surprisingly common while boredom is less prevalent than assum"
+  },
+  {
+    "id": "LE-AP-119",
+    "file": "le-ap-119-reich-2015.yaml",
+    "title": "Rebooting MOOC Research",
+    "venue": "Science",
+    "year": 2015,
+    "cites": 520,
+    "current_topic": "T10",
+    "concepts_hint": "Argued that MOOC research had focused on learner completion rates while ignoring the diverse populations and purposes that drive enrollment, calling for richer outcome measures and more rigorous desig"
+  },
+  {
+    "id": "LE-AP-120",
+    "file": "le-ap-120-reich-2019.yaml",
+    "title": "The MOOC Pivot",
+    "venue": "Science",
+    "year": 2019,
+    "cites": 480,
+    "current_topic": "T10",
+    "concepts_hint": "Reported on the trajectory of MOOCs a decade after their peak hype, documenting the shift from open mass education toward credentialed corporate training. Provides LE practitioners with an evidence-ba"
+  },
+  {
+    "id": "LE-AP-121",
+    "file": "le-ap-121-chase-1973.yaml",
+    "title": "Perception in chess",
+    "venue": "Cognitive Psychology",
+    "year": 1973,
+    "cites": 2400,
+    "current_topic": "T04",
+    "concepts_hint": "Demonstrated through memory experiments that chess masters' superiority is due to recognition of thousands of meaningful chunk patterns rather than deeper look-ahead \u2014 establishing \"chunking\" as a fun"
+  },
+  {
+    "id": "LE-AP-122",
+    "file": "le-ap-122-simon-1969.yaml",
+    "title": "The Sciences of the Artificial",
+    "venue": "MIT Press",
+    "year": 1996,
+    "cites": 12000,
+    "current_topic": "T02",
+    "concepts_hint": "Established the science of design as a discipline distinct from natural science \u2014 design as the transformation of existing conditions into preferred ones. Simon's framework for design as a problem-sol"
+  },
+  {
+    "id": "LE-AP-123",
+    "file": "le-ap-123-newell-1972.yaml",
+    "title": "Human Problem Solving",
+    "venue": "Prentice-Hall",
+    "year": 1972,
+    "cites": 8000,
+    "current_topic": "T04",
+    "concepts_hint": "Presented the information-processing theory of human problem solving \u2014 problem spaces, search heuristics, and means-ends analysis \u2014 establishing the cognitive architecture that underpins both human pe"
+  },
+  {
+    "id": "LE-AP-124",
+    "file": "le-ap-124-sweller-1988.yaml",
+    "title": "Cognitive Load During Problem Solving: Effects on Learning",
+    "venue": "Cognitive Science",
+    "year": 1988,
+    "cites": 3800,
+    "current_topic": "T04",
+    "concepts_hint": "Introduced Cognitive Load Theory, demonstrating that problem-solving search imposes extraneous cognitive load that interferes with schema acquisition. Proposed worked examples as a means of reducing e"
+  },
+  {
+    "id": "LE-AP-125",
+    "file": "le-ap-125-sweller-2019.yaml",
+    "title": "Cognitive Architecture and Instructional Design: 20 Years Later",
+    "venue": "Educational Psychology Review",
+    "year": 2019,
+    "cites": 740,
+    "current_topic": "T04",
+    "concepts_hint": "Updated Cognitive Load Theory with advances in evolutionary psychology and long-term memory theory, refining predictions about instructional design for complex tasks. Directly relevant to LE system de"
+  },
+  {
+    "id": "LE-AP-126",
+    "file": "le-ap-126-brown-1978.yaml",
+    "title": "Diagnostic Models for Procedural Bugs in Basic Mathematical Skills",
+    "venue": "Cognitive Science",
+    "year": 1978,
+    "cites": 1800,
+    "current_topic": "T06",
+    "concepts_hint": "Introduced the \"buggy algorithm\" concept \u2014 systematic procedural errors resulting from corrupted or missing knowledge \u2014 and demonstrated automated diagnosis of student subtraction bugs. Foundational t"
+  },
+  {
+    "id": "LE-AP-128",
+    "file": "le-ap-128-scardamalia-1994.yaml",
+    "title": "Computer Support for Knowledge-Building Communities",
+    "venue": "Journal of the Learning Sciences",
+    "year": 1994,
+    "cites": 2100,
+    "current_topic": "T07",
+    "concepts_hint": "Described CSILE (Computer-Supported Intentional Learning Environments), the predecessor to Knowledge Forum, as a technology platform for collaborative knowledge building. Established the theoretical a"
+  },
+  {
+    "id": "LE-AP-130",
+    "file": "le-ap-130-baker-2007.yaml",
+    "title": "Off-Task Behavior in the Cognitive Tutor Classroom: When Students 'Game the System'",
+    "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2004)",
+    "year": 2004,
+    "cites": 560,
+    "current_topic": "T09",
+    "concepts_hint": "Defined and operationalized \"gaming the system\" \u2014 students exploiting ITS feedback loops to advance without learning \u2014 and developed detection methods using interaction logs. Foundational for LE analy"
+  },
+  {
+    "id": "LE-AP-131",
+    "file": "le-ap-131-baker-2008.yaml",
+    "title": "More Accurate Student Modeling through Contextual Estimation of Slip and Guess Probabilities in Bayesian Knowledge Tracing",
+    "venue": "Proceedings of the 9th International Conference on Intelligent Tutoring Systems (ITS 2008)",
+    "year": 2008,
+    "cites": 580,
+    "current_topic": "T09",
+    "concepts_hint": "Improved Bayesian Knowledge Tracing accuracy by estimating slip and guess probabilities per knowledge component and context rather than using global constants. Directly improved adaptive mastery asses"
+  },
+  {
+    "id": "LE-AP-132",
+    "file": "le-ap-132-baker-2014.yaml",
+    "title": "Educational Data Mining and Learning Analytics",
+    "venue": "Learning Analytics: From Research to Practice",
+    "year": 2014,
+    "cites": 780,
+    "current_topic": "T09",
+    "concepts_hint": "Distinguished educational data mining (hypothesis-driven, automated pattern discovery) from learning analytics (stakeholder-focused, interpretive) and surveyed methods used in each. The standard refer"
+  },
+  {
+    "id": "LE-AP-133",
+    "file": "le-ap-133-dede-2009.yaml",
+    "title": "Immersive Interfaces for Engagement and Learning",
+    "venue": "Science",
+    "year": 2009,
+    "cites": 1100,
+    "current_topic": "T08",
+    "concepts_hint": "Argued in Science that immersive multi-user virtual environments (River City, Whyville) could engage students with low academic motivation and produce measurable science learning gains. Provided early"
+  },
+  {
+    "id": "LE-AP-134",
+    "file": "le-ap-134-dede-2017.yaml",
+    "title": "Introduction: Virtual, Augmented, and Mixed Realities in Education",
+    "venue": "Virtual, Augmented, and Mixed Realities in Education",
+    "year": 2017,
+    "cites": 420,
+    "current_topic": "T08",
+    "concepts_hint": "Synthesized the state of the field for VR/AR/MR in education, distinguishing immersion levels and learning affordances, and identifying design principles for effective deployment. Provides LE practiti"
+  },
+  {
+    "id": "LE-AP-135",
+    "file": "le-ap-135-heffernan-2014.yaml",
+    "title": "The ASSISTments Ecosystem: Building a Platform That Brings Scientists and Teachers Together for Minimally Invasive Research on Human Learning and Teaching",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2014,
+    "cites": 620,
+    "current_topic": "T06",
+    "concepts_hint": "Described the ASSISTments platform as an ecosystem enabling \"minimally invasive\" embedded RCTs in authentic homework assignments, dramatically reducing barriers to classroom-based learning science res"
+  },
+  {
+    "id": "LE-AP-136",
+    "file": "le-ap-136-mendicino-2009.yaml",
+    "title": "A Comparison of Traditional Homework to Computer-Supported Homework",
+    "venue": "Journal of Research on Technology in Education",
+    "year": 2009,
+    "cites": 310,
+    "current_topic": "T10",
+    "concepts_hint": "RCT comparing traditional paper homework to ASSISTments computer-supported homework, finding significantly greater learning gains with automated feedback. One of the cleaner causal evaluations of ITS "
+  },
+  {
+    "id": "LE-AP-137",
+    "file": "le-ap-137-feng-2009.yaml",
+    "title": "Addressing the Assessment Challenge with an Online System That Tutors as It Assesses",
+    "venue": "User Modeling and User-Adapted Interaction",
+    "year": 2009,
+    "cites": 280,
+    "current_topic": "T06",
+    "concepts_hint": "Demonstrated that ASSISTments' simultaneous tutoring-and-assessing approach yields better estimates of student knowledge than tests alone, because help-seeking behavior during tutoring reveals latent "
+  },
+  {
+    "id": "LE-AP-139",
+    "file": "le-ap-139-willcox-2012.yaml",
+    "title": "Online Education: A Catalyst for Higher Education Reforms",
+    "venue": "MIT Faculty Report",
+    "year": 2016,
+    "cites": 280,
+    "current_topic": "T10",
+    "concepts_hint": "MIT faculty report analyzing how online education (MITx, edX, OCW) can catalyze broader institutional reform in pedagogy, credentialing, and global access. Provides LE practitioners with an institutio"
+  },
+  {
+    "id": "LE-AP-140",
+    "file": "le-ap-140-behrens-2012.yaml",
+    "title": "Evidence Centered Design for Learning and Assessment in the Digital World",
+    "venue": "Technology-Based Assessments for 21st Century Skills",
+    "year": 2012,
+    "cites": 280,
+    "current_topic": "T10",
+    "concepts_hint": "Applied Evidence-Centered Design (ECD) to digital assessment contexts, providing a rigorous framework for designing assessments as measurement instruments grounded in explicit evidence models. Directl"
+  },
+  {
+    "id": "LE-AP-141",
+    "file": "le-ap-141-behrens-2014.yaml",
+    "title": "Impacts of the Digital Ocean on Education",
+    "venue": "Pearson Education",
+    "year": 2014,
+    "cites": 180,
+    "current_topic": "T09",
+    "concepts_hint": "Analyzed how the proliferation of digital learning interactions creates unprecedented data for continuous, embedded assessment \u2014 the \"digital ocean\" of learning signals. Provides LE practitioners with"
+  },
+  {
+    "id": "LE-AP-142",
+    "file": "le-ap-142-liu-2017.yaml",
+    "title": "Visualizing Patterns of Student Engagement and Performance in MOOCs",
+    "venue": "Proceedings of the 7th International Learning Analytics and Knowledge Conference",
+    "year": 2017,
+    "cites": 150,
+    "current_topic": "T09",
+    "concepts_hint": "Applied learning analytics to characterize how different student engagement patterns in MIT MOOCs relate to performance outcomes, using clickstream and video-interaction data at scale. Demonstrates th"
+  },
+  {
+    "id": "LE-AP-143",
+    "file": "le-ap-143-liu-2019.yaml",
+    "title": "Engineering Education at Scale: Designing Adaptive STEM Curricula with Embedded Assessment",
+    "venue": "IEEE Frontiers in Education Conference Proceedings",
+    "year": 2019,
+    "cites": 95,
+    "current_topic": "T09",
+    "concepts_hint": "Described the MIT LEAP framework for designing adaptive STEM curricula that embed formative assessment within online problem sets, enabling continuous knowledge-component modeling across large student"
+  },
+  {
+    "id": "LE-AP-144",
+    "file": "le-ap-144-bier-2014.yaml",
+    "title": "An Approach to Knowledge Component / Skill Modeling in Online Courses",
+    "venue": "Proceedings of the 7th International Conference on Educational Data Mining",
+    "year": 2014,
+    "cites": 120,
+    "current_topic": "T09",
+    "concepts_hint": "Described OLI's methodology for building knowledge component models in online courses and validating them against student performance data. Demonstrates the LE data infrastructure approach for continu"
+  },
+  {
+    "id": "LE-AP-145",
+    "file": "le-ap-145-thille-2014.yaml",
+    "title": "The Future of Data-Enriched Assessment",
+    "venue": "Research & Practice in Assessment",
+    "year": 2014,
+    "cites": 160,
+    "current_topic": "T10",
+    "concepts_hint": "Argued for a shift from periodic high-stakes testing to continuous data-enriched assessment using learning management system and ITS interaction data, drawing on OLI experience. Directly relevant to L"
+  },
+  {
+    "id": "LE-AP-146",
+    "file": "le-ap-146-hoffman-1998.yaml",
+    "title": "Use of the Critical Decision Method to Elicit Expert Knowledge: A Case Study in the Methodology of Cognitive Task Analysis",
+    "venue": "Human Factors",
+    "year": 1998,
+    "cites": 580,
+    "current_topic": "T02",
+    "concepts_hint": "Demonstrated the Critical Decision Method (CDM) for eliciting tacit expert knowledge through retrospective interviews about critical incidents. Directly applicable to LE needs analysis and knowledge e"
+  },
+  {
+    "id": "LE-AP-147",
+    "file": "le-ap-147-hoffman-2014.yaml",
+    "title": "Accelerated Expertise: Training for High Proficiency in a Complex World",
+    "venue": "Psychology Press",
+    "year": 2014,
+    "cites": 310,
+    "current_topic": "T11",
+    "concepts_hint": "Synthesized research on accelerating the development of expert performance in complex professional domains, identifying key training design principles \u2014 deliberate practice, cognitive simulation, adap"
+  },
+  {
+    "id": "LE-AP-148",
+    "file": "le-ap-148-klein-1998.yaml",
+    "title": "Sources of Power: How People Make Decisions",
+    "venue": "MIT Press",
+    "year": 1998,
+    "cites": 4200,
+    "current_topic": "T04",
+    "concepts_hint": "Presented the Recognition-Primed Decision (RPD) model based on naturalistic observations of expert decision-making under uncertainty \u2014 experts recognize situation patterns and mentally simulate option"
+  },
+  {
+    "id": "LE-AP-149",
+    "file": "le-ap-149-klein-2008.yaml",
+    "title": "Naturalistic Decision Making",
+    "venue": "Human Factors",
+    "year": 2008,
+    "cites": 870,
+    "current_topic": "T04",
+    "concepts_hint": "Reviewed two decades of naturalistic decision making (NDM) research, demonstrating that expert decision-making in realistic conditions differs fundamentally from laboratory models. Directly informs LE"
+  },
+  {
+    "id": "LE-AP-150",
+    "file": "le-ap-150-effective-metacognitive-2002.yaml",
+    "title": "An effective metacognitive strategy: learning by doing and explaining with a computer-based Cognitive Tutor",
+    "venue": "Cognitive Science",
+    "year": 2002,
+    "cites": 728,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Cognitive Science; addresses tutor, metacognition, cognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pe"
+  },
+  {
+    "id": "LE-AP-152",
+    "file": "le-ap-152-design-research-2004.yaml",
+    "title": "Design Research: Theoretical and Methodological Issues",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2004,
+    "cites": 1897,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses research design, management science, computer science. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning "
+  },
+  {
+    "id": "LE-AP-153",
+    "file": "le-ap-153-exploring-assistance-2007.yaml",
+    "title": "Exploring the Assistance Dilemma in Experiments with Cognitive Tutors",
+    "venue": "Educational Psychology Review",
+    "year": 2007,
+    "cites": 579,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Educational Psychology Review; addresses interactivity, dilemma, educational psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering"
+  },
+  {
+    "id": "LE-AP-154",
+    "file": "le-ap-154-educational-design-2013.yaml",
+    "title": "Educational Design Research",
+    "venue": "Unknown Venue",
+    "year": 2013,
+    "cites": 1158,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Unknown Venue; addresses field (mathematics), engineering ethics, educational research. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering "
+  },
+  {
+    "id": "LE-AP-155",
+    "file": "le-ap-155-detecting-student-2004.yaml",
+    "title": "Detecting Student Misuse of Intelligent Tutoring Systems",
+    "venue": "Lecture notes in computer science",
+    "year": 2004,
+    "cites": 341,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science; addresses computer science, multimedia, human\u2013computer interaction. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learn"
+  },
+  {
+    "id": "LE-AP-156",
+    "file": "le-ap-156-data-mining-2015.yaml",
+    "title": "Data mining and education",
+    "venue": "Wiley Interdisciplinary Reviews Cognitive Science",
+    "year": 2015,
+    "cites": 136,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Wiley Interdisciplinary Reviews Cognitive Science; addresses computer science, dialog box, metacognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Lea"
+  },
+  {
+    "id": "LE-AP-158",
+    "file": "le-ap-158-designbased-research-2004.yaml",
+    "title": "Design-Based Research: Putting a Stake in the Ground",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2004,
+    "cites": 2533,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses educational research, management science, sociology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Eng"
+  },
+  {
+    "id": "LE-AP-160",
+    "file": "le-ap-160-foundations-online-2022.yaml",
+    "title": "Foundations of online learning: Challenges and opportunities",
+    "venue": "Educational Psychologist",
+    "year": 2022,
+    "cites": 223,
+    "current_topic": "T14",
+    "concepts_hint": "Published in Educational Psychologist; addresses experiential learning, learning sciences, educational technology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learnin"
+  },
+  {
+    "id": "LE-AP-162",
+    "file": "le-ap-162-educational-data-2014.yaml",
+    "title": "Educational Data Mining and Learning Analytics",
+    "venue": "Cambridge University Press eBooks",
+    "year": 2014,
+    "cites": 441,
+    "current_topic": "T09",
+    "concepts_hint": "Published in Cambridge University Press eBooks; addresses learning analytics, analytics, data science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineerin"
+  },
+  {
+    "id": "LE-AP-163",
+    "file": "le-ap-163-building-intelligent-2009.yaml",
+    "title": "Building intelligent interactive tutors student-centered strategies for revolutionizing e-learning",
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "year": 2009,
+    "cites": 720,
+    "current_topic": "T06",
+    "concepts_hint": "Published in HAL (Le Centre pour la Communication Scientifique Directe); addresses computer science, human\u2013computer interaction, mathematics education. Quality-filtered from OpenAlex cross-seed expans"
+  },
+  {
+    "id": "LE-AP-164",
+    "file": "le-ap-164-handbook-educational-2010.yaml",
+    "title": "Handbook of Educational Data Mining",
+    "venue": "Unknown Venue",
+    "year": 2010,
+    "cites": 567,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue; addresses data science, computer science, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Aut"
+  },
+  {
+    "id": "LE-AP-165",
+    "file": "le-ap-165-scientific-research-2002.yaml",
+    "title": "Scientific Research in Education",
+    "venue": "National Academies Press eBooks",
+    "year": 2002,
+    "cites": 1736,
+    "current_topic": "T17",
+    "concepts_hint": "Published in National Academies Press eBooks; addresses psychology, mathematics education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit co"
+  },
+  {
+    "id": "LE-AP-166",
+    "file": "le-ap-166-toward-design-1992.yaml",
+    "title": "Toward a Design Science of Education",
+    "venue": "Unknown Venue",
+    "year": 1992,
+    "cites": 1079,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Unknown Venue; addresses construct (python library), engineering ethics, curriculum. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-168",
+    "file": "le-ap-168-people-learn-1999.yaml",
+    "title": "How people learn: Brain, mind, experience, and school.",
+    "venue": "Unknown Venue",
+    "year": 1999,
+    "cites": 12902,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Unknown Venue; addresses science learning, learning sciences, mathematics education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-169",
+    "file": "le-ap-169-evolution-design-2005.yaml",
+    "title": "The Evolution of Design Studies as Methodology",
+    "venue": "Cambridge University Press eBooks",
+    "year": 2005,
+    "cites": 166,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Cambridge University Press eBooks; addresses mechanism (biology), class (philosophy), computer science. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Lear"
+  },
+  {
+    "id": "LE-AP-170",
+    "file": "le-ap-170-cognitive-tutor-2007.yaml",
+    "title": "Cognitive Tutor: Applied research in mathematics education",
+    "venue": "Psychonomic Bulletin & Review",
+    "year": 2007,
+    "cites": 473,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Psychonomic Bulletin & Review; addresses curriculum, tutor, cognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. A"
+  },
+  {
+    "id": "LE-AP-172",
+    "file": "le-ap-172-pasteurs-quadrant-1998.yaml",
+    "title": "Pasteur's Quadrant: Basic science and technological innovation",
+    "venue": "Journal of Policy Analysis and Management",
+    "year": 1998,
+    "cites": 1852,
+    "current_topic": "T00",
+    "concepts_hint": "Published in Journal of Policy Analysis and Management; addresses library science, citation, quadrant (abdomen). Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning"
+  },
+  {
+    "id": "LE-AP-173",
+    "file": "le-ap-173-moral-psychology-2011.yaml",
+    "title": "Moral psychology is relationship regulation: Moral motives for unity, hierarchy, equality, and proportionality.",
+    "venue": "Psychological Review",
+    "year": 2011,
+    "cites": 883,
+    "current_topic": "T09",
+    "concepts_hint": "Published in Psychological Review; addresses social psychology, social cognitive theory of morality, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning "
+  },
+  {
+    "id": "LE-AP-175",
+    "file": "le-ap-175-ontological-innovation-2004.yaml",
+    "title": "Ontological Innovation and the Role of Theory in Design Experiments",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2004,
+    "cites": 496,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses clarity, explanatory power, epistemology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering To"
+  },
+  {
+    "id": "LE-AP-176",
+    "file": "le-ap-176-use-worked-1985.yaml",
+    "title": "The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra",
+    "venue": "Cognition and Instruction",
+    "year": 1985,
+    "cites": 1179,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Cognition and Instruction; addresses schema (genetic algorithms), abstraction, algebra over a field. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning"
+  },
+  {
+    "id": "LE-AP-177",
+    "file": "le-ap-177-why-some-1994.yaml",
+    "title": "Why Some Material Is Difficult to Learn",
+    "venue": "Cognition and Instruction",
+    "year": 1994,
+    "cites": 1408,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Cognition and Instruction; addresses interactivity, cognitive load, schema (genetic algorithms). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Eng"
+  },
+  {
+    "id": "LE-AP-180",
+    "file": "le-ap-180-locus-feedback-2001.yaml",
+    "title": "Locus of feedback control in computer-based tutoring",
+    "venue": "Unknown Venue",
+    "year": 2001,
+    "cites": 277,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue; addresses tutor, computer science, flagging. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pend"
+  },
+  {
+    "id": "LE-AP-181",
+    "file": "le-ap-181-about-educational-1999.yaml",
+    "title": "What to do about educational research's credibility gaps?",
+    "venue": "Issues in Education",
+    "year": 1999,
+    "cites": 124,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Issues in Education; addresses credibility, educational research, multidisciplinary approach. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engine"
+  },
+  {
+    "id": "LE-AP-182",
+    "file": "le-ap-182-technological-pedagogical-2006.yaml",
+    "title": "Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge",
+    "venue": "Teachers College Record The Voice of Scholarship in Education",
+    "year": 2006,
+    "cites": 9420,
+    "current_topic": "T10",
+    "concepts_hint": "Published in Teachers College Record The Voice of Scholarship in Education; addresses situated, pedagogy, technology integration. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & K"
+  },
+  {
+    "id": "LE-AP-183",
+    "file": "le-ap-183-conducting-educational-2018.yaml",
+    "title": "Conducting Educational Design Research",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 1250,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Unknown Venue; addresses computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enri"
+  },
+  {
+    "id": "LE-AP-184",
+    "file": "le-ap-184-design-experiments-2003.yaml",
+    "title": "Design Experiments in Educational Research",
+    "venue": "Educational Researcher",
+    "year": 2003,
+    "cites": 3440,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Educational Researcher; addresses variety (cybernetics), computer science, measure (data warehouse). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning"
+  },
+  {
+    "id": "LE-AP-186",
+    "file": "le-ap-186-cognitive-load-1994.yaml",
+    "title": "Cognitive load theory, learning difficulty, and instructional design",
+    "venue": "Learning and Instruction",
+    "year": 1994,
+    "cites": 3567,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Learning and Instruction; addresses interactivity, cognitive load, schema (genetic algorithms). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engi"
+  },
+  {
+    "id": "LE-AP-187",
+    "file": "le-ap-187-rules-mind-1993.yaml",
+    "title": "Rules of the Mind",
+    "venue": "Medical Entomology and Zoology",
+    "year": 1993,
+    "cites": 1901,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Medical Entomology and Zoology; addresses lisp, tutor, representation (politics). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolki"
+  },
+  {
+    "id": "LE-AP-189",
+    "file": "le-ap-189-seven-affordances-2016.yaml",
+    "title": "Seven Affordances of Computer-Supported Collaborative Learning: How to Support Collaborative Learning? How Can Technologies Help?",
+    "venue": "Educational Psychologist",
+    "year": 2016,
+    "cites": 441,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Educational Psychologist; addresses collaborative learning, affordance, computer-supported collaborative learning. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kol"
+  },
+  {
+    "id": "LE-AP-191",
+    "file": "le-ap-191-practicing-connections-2020.yaml",
+    "title": "Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains",
+    "venue": "Educational Psychology Review",
+    "year": 2020,
+    "cites": 65,
+    "current_topic": "T12",
+    "concepts_hint": "Published in Educational Psychology Review; addresses social connectedness, educational psychology, context (archaeology). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner"
+  },
+  {
+    "id": "LE-AP-192",
+    "file": "le-ap-192-data-repository-2010.yaml",
+    "title": "A Data Repository for the EDM Community: The PSLC DataShop",
+    "venue": "Unknown Venue",
+    "year": 2010,
+    "cites": 329,
+    "current_topic": "T11",
+    "concepts_hint": "Published in Unknown Venue; addresses business. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.\n"
+  },
+  {
+    "id": "LE-AP-193",
+    "file": "le-ap-193-designbased-research-2022.yaml",
+    "title": "Design-based research: What it is and why it matters to studying online learning",
+    "venue": "Educational Psychologist",
+    "year": 2022,
+    "cites": 144,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Educational Psychologist; addresses objectivity (philosophy), usable, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolki"
+  },
+  {
+    "id": "LE-AP-196",
+    "file": "le-ap-196-review-research-1973.yaml",
+    "title": "Review of research in education",
+    "venue": "F.E. Peacock eBooks",
+    "year": 1973,
+    "cites": 7753,
+    "current_topic": "T06",
+    "concepts_hint": "Published in F.E. Peacock eBooks; addresses transformative learning, sociology, sociocultural evolution. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineer"
+  },
+  {
+    "id": "LE-AP-198",
+    "file": "le-ap-198-quasiexperimentation-design-1979.yaml",
+    "title": "Quasi-Experimentation: Design & Analysis Issues for Field Settings",
+    "venue": "Medical Entomology and Zoology",
+    "year": 1979,
+    "cites": 11377,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Medical Entomology and Zoology; addresses field (mathematics), computer science, management science. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learnin"
+  },
+  {
+    "id": "LE-AP-200",
+    "file": "le-ap-200-handbook-design-2018.yaml",
+    "title": "Handbook Of Design Research Methods In Education: Innovations In Science, Technology, Engineering, And Mathematics Learning And Teaching",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 447,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Unknown Venue; addresses design education, design technology, research design. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit c"
+  },
+  {
+    "id": "LE-AP-201",
+    "file": "le-ap-201-state-educational-2009.yaml",
+    "title": "The State of Educational Data Mining in 2009: A Review and Future Visions",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "year": 2009,
+    "cites": 1301,
+    "current_topic": "T09",
+    "concepts_hint": "Published in Zenodo (CERN European Organization for Nuclear Research); addresses categorization, data science, educational data mining. Quality- filtered from OpenAlex cross-seed expansion of the Good"
+  },
+  {
+    "id": "LE-AP-203",
+    "file": "le-ap-203-qualitative-data-1994.yaml",
+    "title": "Qualitative Data Analysis: An Expanded Sourcebook",
+    "venue": "Journal of Environmental Psychology",
+    "year": 1994,
+    "cites": 45613,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Journal of Environmental Psychology; addresses qualitative analysis, qualitative research, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learni"
+  },
+  {
+    "id": "LE-AP-207",
+    "file": "le-ap-207-behavior-tutoring-2006.yaml",
+    "title": "The Behavior of Tutoring Systems",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2006,
+    "cites": 697,
+    "current_topic": "T06",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education; addresses inner loop, computer science, task (project management). Quality- filtered from OpenAlex cross-seed expansion of t"
+  },
+  {
+    "id": "LE-AP-209",
+    "file": "le-ap-209-autotutor-affective-2012.yaml",
+    "title": "AutoTutor and affective autotutor",
+    "venue": "ACM Transactions on Interactive Intelligent Systems",
+    "year": 2012,
+    "cites": 346,
+    "current_topic": "T06",
+    "concepts_hint": "Published in ACM Transactions on Interactive Intelligent Systems; addresses dialog box, interactivity, intelligent tutoring system. Quality-filtered from OpenAlex cross-seed expansion of the Goodell &"
+  },
+  {
+    "id": "LE-AP-210",
+    "file": "le-ap-210-design-research-2002.yaml",
+    "title": "Design Research: What We Learn When We Engage in Design",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2002,
+    "cites": 965,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses research design, computer science, management science. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning "
+  },
+  {
+    "id": "LE-AP-211",
+    "file": "le-ap-211-pragmatic-reasoning-1985.yaml",
+    "title": "Pragmatic reasoning schemas",
+    "venue": "Cognitive Psychology",
+    "year": 1985,
+    "cites": 1467,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Cognitive Psychology; addresses permission, schema (genetic algorithms), inference. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Tool"
+  },
+  {
+    "id": "LE-AP-212",
+    "file": "le-ap-212-schema-induction-1983.yaml",
+    "title": "Schema induction and analogical transfer",
+    "venue": "Cognitive Psychology",
+    "year": 1983,
+    "cites": 2926,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Cognitive Psychology; addresses schema (genetic algorithms), diagrammatic reasoning, analogical reasoning. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Le"
+  },
+  {
+    "id": "LE-AP-213",
+    "file": "le-ap-213-scaffolding-complex-2004.yaml",
+    "title": "Scaffolding Complex Learning: The Mechanisms of Structuring and Problematizing Student Work",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2004,
+    "cites": 995,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses structuring, work (physics), scaffold. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolk"
+  },
+  {
+    "id": "LE-AP-214",
+    "file": "le-ap-214-rulelearning-events-1999.yaml",
+    "title": "Rule-Learning Events in the Acquisition of a Complex Skill: An Evaluation of Cascade",
+    "venue": "Journal of the Learning Sciences",
+    "year": 1999,
+    "cites": 150,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses cascade, computer science, task (project management). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning En"
+  },
+  {
+    "id": "LE-AP-215",
+    "file": "le-ap-215-expertise-reversal-2003.yaml",
+    "title": "The Expertise Reversal Effect",
+    "venue": "Educational Psychologist",
+    "year": 2003,
+    "cites": 1815,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Educational Psychologist; addresses schema (genetic algorithms), psychology, phenomenon. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering"
+  },
+  {
+    "id": "LE-AP-216",
+    "file": "le-ap-216-creating-framework-2004.yaml",
+    "title": "Creating a Framework for Research on Systemic Technology Innovations",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2004,
+    "cites": 277,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses context (archaeology), usable, knowledge management. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Eng"
+  },
+  {
+    "id": "LE-AP-218",
+    "file": "le-ap-218-dilemmas-general-1973.yaml",
+    "title": "Dilemmas in a general theory of planning",
+    "venue": "Policy Sciences",
+    "year": 1973,
+    "cites": 15086,
+    "current_topic": "T02",
+    "concepts_hint": "Published in Policy Sciences; addresses nothing, equity (law), social issues. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors"
+  },
+  {
+    "id": "LE-AP-219",
+    "file": "le-ap-219-cognitive-modeling-1990.yaml",
+    "title": "Cognitive modeling and intelligent tutoring",
+    "venue": "Artificial Intelligence",
+    "year": 1990,
+    "cites": 524,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Artificial Intelligence; addresses computer science, cognition, intelligent tutoring system. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Enginee"
+  },
+  {
+    "id": "LE-AP-220",
+    "file": "le-ap-220-instructional-complexity-2013.yaml",
+    "title": "Instructional Complexity and the Science to Constrain It",
+    "venue": "Science",
+    "year": 2013,
+    "cites": 186,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Science; addresses computer science, data science. Quality- filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending Open"
+  },
+  {
+    "id": "LE-AP-221",
+    "file": "le-ap-221-transfer-scientific-2004.yaml",
+    "title": "The Transfer of Scientific Principles Using Concrete and Idealized Simulations",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2004,
+    "cites": 445,
+    "current_topic": "T08",
+    "concepts_hint": "Published in Journal of the Learning Sciences; addresses idealization, concreteness, construals. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Tool"
+  },
+  {
+    "id": "LE-AP-222",
+    "file": "le-ap-222-educational-data-2006.yaml",
+    "title": "Educational data mining: A survey from 1995 to 2005",
+    "venue": "Expert Systems with Applications",
+    "year": 2006,
+    "cites": 1472,
+    "current_topic": "T09",
+    "concepts_hint": "Published in Expert Systems with Applications; addresses computer science, educational data mining, association rule learning. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolo"
+  },
+  {
+    "id": "LE-AP-224",
+    "file": "le-ap-224-causal-explanation-2004.yaml",
+    "title": "Causal Explanation, Qualitative Research, and Scientific Inquiry in Education",
+    "venue": "Educational Researcher",
+    "year": 2004,
+    "cites": 764,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Educational Researcher; addresses misrepresentation, criticism, causality (physics). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-226",
+    "file": "le-ap-226-workedexample-effect-2008.yaml",
+    "title": "The worked-example effect: Not an artefact of lousy control conditions",
+    "venue": "Computers in Human Behavior",
+    "year": 2008,
+    "cites": 205,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Computers in Human Behavior; addresses cognition, psychology, control (management). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Tool"
+  },
+  {
+    "id": "LE-AP-227",
+    "file": "le-ap-227-modeling-understanding-2007.yaml",
+    "title": "Modeling and understanding students' off-task behavior in intelligent tutoring systems",
+    "venue": "Unknown Venue",
+    "year": 2007,
+    "cites": 231,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue; addresses task (project management), computer science, intelligent tutoring system. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning "
+  },
+  {
+    "id": "LE-AP-229",
+    "file": "le-ap-229-theoretical-breadth-2004.yaml",
+    "title": "On the Theoretical Breadth of Design-Based Research in Education",
+    "venue": "Educational Psychologist",
+    "year": 2004,
+    "cites": 321,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Educational Psychologist; addresses clarity, epistemology, variety (cybernetics). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolki"
+  },
+  {
+    "id": "LE-AP-230",
+    "file": "le-ap-230-illustrating-principled-1998.yaml",
+    "title": "Illustrating Principled Design: The Early Evolution of a Cognitive Tutor for Algebra Symbolization",
+    "venue": "Interactive Learning Environments",
+    "year": 1998,
+    "cites": 109,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Interactive Learning Environments; addresses tutor, cognition, computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit"
+  },
+  {
+    "id": "LE-AP-231",
+    "file": "le-ap-231-measuring-knowledge-2004.yaml",
+    "title": "Measuring Knowledge to Optimize Cognitive Load Factors During Instruction.",
+    "venue": "Journal of Educational Psychology",
+    "year": 2004,
+    "cites": 216,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Educational Psychology; addresses psychology, cognition, cognitive load. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Tool"
+  },
+  {
+    "id": "LE-AP-232",
+    "file": "le-ap-232-learning-analytics-2012.yaml",
+    "title": "Learning analytics and educational data mining",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 942,
+    "current_topic": "T09",
+    "concepts_hint": "Published in Unknown Venue; addresses learning analytics, educational data mining, analytics. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit"
+  },
+  {
+    "id": "LE-AP-233",
+    "file": "le-ap-233-training-strategies-1992.yaml",
+    "title": "Training strategies for attaining transfer of problem-solving skill in statistics: A cognitive-load approach.",
+    "venue": "Journal of Educational Psychology",
+    "year": 1992,
+    "cites": 1950,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Educational Psychology; addresses psychology, transfer of training, cognitive load. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engin"
+  },
+  {
+    "id": "LE-AP-235",
+    "file": "le-ap-235-pasteurs-quadrant-2005.yaml",
+    "title": "Pasteur's Quadrant: Basic Science and Technological Innovation",
+    "venue": "Academe",
+    "year": 2005,
+    "cites": 2108,
+    "current_topic": "T00",
+    "concepts_hint": "Published in Academe; addresses quadrant (abdomen), economics, medicine. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pend"
+  },
+  {
+    "id": "LE-AP-247",
+    "file": "le-ap-247-intelligent-tutoring-2018.yaml",
+    "title": "Intelligent Tutoring Goes To School in the Big City",
+    "venue": "Research Showcase @ Carnegie Mellon University (Carnegie Mellon University)",
+    "year": 2018,
+    "cites": 1115,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Research Showcase @ Carnegie Mellon University (Carnegie Mellon University); addresses curriculum, tutor, mathematics education. Quality- filtered from OpenAlex cross-seed expansion of th"
+  },
+  {
+    "id": "LE-AP-249",
+    "file": "le-ap-249-variability-worked-1994.yaml",
+    "title": "Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach.",
+    "venue": "Journal of Educational Psychology",
+    "year": 1994,
+    "cites": 1113,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Educational Psychology; addresses psychology, transfer of training, cognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineerin"
+  },
+  {
+    "id": "LE-AP-250",
+    "file": "le-ap-250-explanationdriven-inquiry-2004.yaml",
+    "title": "Explanation\u2010driven inquiry: Integrating conceptual and epistemic scaffolds for scientific inquiry",
+    "venue": "Science Education",
+    "year": 2004,
+    "cites": 701,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Science Education; addresses curriculum, science education, conceptual change. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit c"
+  },
+  {
+    "id": "LE-AP-252",
+    "file": "le-ap-252-humanmachine-student-2011.yaml",
+    "title": "Human-Machine Student Model Discovery and Improvement Using DataShop",
+    "venue": "Lecture notes in computer science",
+    "year": 2011,
+    "cites": 55,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science; addresses computer science, tutor, decomposition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-255",
+    "file": "le-ap-255-cognitive-load-2005.yaml",
+    "title": "Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions",
+    "venue": "Educational Psychology Review",
+    "year": 2005,
+    "cites": 2073,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Educational Psychology Review; addresses cognitive load, educational psychology, cognition. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineer"
+  },
+  {
+    "id": "LE-AP-256",
+    "file": "le-ap-256-research-through-2007.yaml",
+    "title": "Research through design as a method for interaction design research in HCI",
+    "venue": "Unknown Venue",
+    "year": 2007,
+    "cites": 2123,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Unknown Venue; addresses computer science, set (abstract data type), product design. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Too"
+  },
+  {
+    "id": "LE-AP-257",
+    "file": "le-ap-257-power-testing-2006.yaml",
+    "title": "The Power of Testing Memory: Basic Research and Implications for Educational Practice",
+    "venue": "Perspectives on Psychological Science",
+    "year": 2006,
+    "cites": 2017,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Perspectives on Psychological Science; addresses formative assessment, cognitive psychology, cognitive test. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner "
+  },
+  {
+    "id": "LE-AP-261",
+    "file": "le-ap-261-redirecting-learners-2002.yaml",
+    "title": "Redirecting learners' attention during training: effects on cognitive load, transfer test performance and training efficiency",
+    "venue": "Learning and Instruction",
+    "year": 2002,
+    "cites": 296,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Learning and Instruction; addresses training (meteorology), test (biology), psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering "
+  },
+  {
+    "id": "LE-AP-264",
+    "file": "le-ap-264-tracing-development-2005.yaml",
+    "title": "Tracing the development of teacher knowledge in a design seminar: Integrating content, pedagogy and technology",
+    "venue": "Computers & Education",
+    "year": 2005,
+    "cites": 962,
+    "current_topic": "T12",
+    "concepts_hint": "Published in Computers & Education; addresses function (biology), pedagogy, subject (documents). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Tool"
+  },
+  {
+    "id": "LE-AP-266",
+    "file": "le-ap-266-science-education-2003.yaml",
+    "title": "On the Science of Education Design Studies",
+    "venue": "Educational Researcher",
+    "year": 2003,
+    "cites": 439,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Educational Researcher; addresses narrative, nothing, research design. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. A"
+  },
+  {
+    "id": "LE-AP-269",
+    "file": "le-ap-269-theme-issue-2003.yaml",
+    "title": "Theme Issue: The Role of Design in Educational Research",
+    "venue": "Educational Researcher",
+    "year": 2003,
+    "cites": 263,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Educational Researcher; addresses theme (computing), engineering ethics, work (physics). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering"
+  },
+  {
+    "id": "LE-AP-270",
+    "file": "le-ap-270-wicked-problems-1992.yaml",
+    "title": "Wicked Problems in Design Thinking",
+    "venue": "Design Issues",
+    "year": 1992,
+    "cites": 3401,
+    "current_topic": "T02",
+    "concepts_hint": "Published in Design Issues; addresses computer science, management science, engineering ethics. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolk"
+  },
+  {
+    "id": "LE-AP-272",
+    "file": "le-ap-272-about-educational-2000.yaml",
+    "title": "What To Do About Educational Research\u2019s Credibility Gaps?",
+    "venue": "Journal of Cognitive Education and Psychology",
+    "year": 2000,
+    "cites": 66,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Journal of Cognitive Education and Psychology; addresses credibility, educational research, multidisciplinary approach. Quality- filtered from OpenAlex cross-seed expansion of the Goodell"
+  },
+  {
+    "id": "LE-AP-274",
+    "file": "le-ap-274-reflective-practitioner-1985.yaml",
+    "title": "The Reflective Practitioner: How Professionals Think in Action",
+    "venue": "Journal of Policy Analysis and Management",
+    "year": 1985,
+    "cites": 21408,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Journal of Policy Analysis and Management; addresses action (physics), psychology, public relations. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learnin"
+  },
+  {
+    "id": "LE-AP-275",
+    "file": "le-ap-275-logic-design-2017.yaml",
+    "title": "The logic of design research",
+    "venue": "Learning Research and Practice",
+    "year": 2017,
+    "cites": 111,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Learning Research and Practice; addresses rigour, craft, computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpu"
+  },
+  {
+    "id": "LE-AP-278",
+    "file": "le-ap-278-designbased-research-2005.yaml",
+    "title": "Design-Based Research",
+    "venue": "Cambridge University Press eBooks",
+    "year": 2005,
+    "cites": 128,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Cambridge University Press eBooks; addresses design-based research, cobb, computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineer"
+  },
+  {
+    "id": "LE-AP-279",
+    "file": "le-ap-279-modeling-first-2020.yaml",
+    "title": "Modeling First: Applying Learning Science to the Teaching of Introductory Statistics",
+    "venue": "Journal of Statistics and Data Science Education",
+    "year": 2020,
+    "cites": 23,
+    "current_topic": "T12",
+    "concepts_hint": "Published in Journal of Statistics and Data Science Education; addresses computer science, randomness, variation (astronomy). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolod"
+  },
+  {
+    "id": "LE-AP-280",
+    "file": "le-ap-280-handbook-research-2013.yaml",
+    "title": "Handbook of Research on Educational Communications and Technology",
+    "venue": "Unknown Venue",
+    "year": 2013,
+    "cites": 2750,
+    "current_topic": "T12",
+    "concepts_hint": "Published in Unknown Venue; addresses psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment"
+  },
+  {
+    "id": "LE-AP-281",
+    "file": "le-ap-281-taxonomy-educational-2012.yaml",
+    "title": "The Taxonomy of Educational Objectives",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 4131,
+    "current_topic": "T12",
+    "concepts_hint": "Published in Unknown Venue; addresses taxonomy (biology), computer science, biology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. "
+  },
+  {
+    "id": "LE-AP-282",
+    "file": "le-ap-282-jasper-series-1992.yaml",
+    "title": "The Jasper Series as an Example of Anchored Instruction: Theory, Program Description, and Assessment Data",
+    "venue": "Educational Psychologist",
+    "year": 1992,
+    "cites": 240,
+    "current_topic": "T12",
+    "concepts_hint": "Published in Educational Psychologist; addresses series (stratigraphy), psychology, mathematics education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engine"
+  },
+  {
+    "id": "LE-AP-283",
+    "file": "le-ap-283-effects-schema-1987.yaml",
+    "title": "Effects of schema acquisition and rule automation on mathematical problem-solving transfer.",
+    "venue": "Journal of Educational Psychology",
+    "year": 1987,
+    "cites": 484,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Educational Psychology; addresses schema (genetic algorithms), psychology, transfer of training. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner L"
+  },
+  {
+    "id": "LE-AP-286",
+    "file": "le-ap-286-designbased-research-2003.yaml",
+    "title": "Design-Based Research: An Emerging Paradigm for Educational Inquiry",
+    "venue": "Educational Researcher",
+    "year": 2003,
+    "cites": 2517,
+    "current_topic": "T03",
+    "concepts_hint": "Published in Educational Researcher; addresses usable, artifact (error), educational research. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolki"
+  },
+  {
+    "id": "LE-AP-287",
+    "file": "le-ap-287-researchpractice-dialogue-2022.yaml",
+    "title": "The Research\u2013Practice Dialogue in Second Language Learning and Teaching: Past, Present, and Future",
+    "venue": "Modern Language Journal",
+    "year": 2022,
+    "cites": 168,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Modern Language Journal; addresses mindset, reciprocal, relevance (law). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus."
+  },
+  {
+    "id": "LE-AP-289",
+    "file": "le-ap-289-cognitively-diagnostic-2012.yaml",
+    "title": "Cognitively Diagnostic Assessment",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 489,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue; addresses psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment"
+  }
+]

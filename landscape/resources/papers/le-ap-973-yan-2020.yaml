@@ -1,0 +1,22 @@
+resource_id: LE-AP-973
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Including Learning Analytics in the Loop of Self-Paced Online Course Learning Design
+authors:
+- Hongxin Yan
+- Fuhua Lin
+- Kinshuk Kinshuk
+year: 2020
+venue: International Journal of Artificial Intelligence in Education
+doi: 10.1007/s40593-020-00225-z
+tier: contemporary
+citation_count_approx: 22
+cross_seed_score: 1
+openalex_id: W3112128060
+significance: Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion
+  seeded from conference-chair authorship (Fuhua (Oscar) Lin). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T11

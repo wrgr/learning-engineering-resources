@@ -1,0 +1,18 @@
+resource_id: LE-IC-019
+content_type: GL
+source: icicle
+status: APPROVED
+title: Craig et al. (2023) — Learning Engineering Perspectives for Educational Systems
+authors:
+- Craig et al.
+year: 2023
+publisher: Sage Journals
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T00
+secondary_topics:
+- T16
+- T03
+significance: Multi-author article framing how learning engineering perspectives can transform educational
+  systems at scale. Addresses policy, infrastructure, and community dimensions.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

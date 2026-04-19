@@ -1,0 +1,18 @@
+resource_id: LE-AP-828
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering Applies the Learning Sciences"
+authors:
+  - Jim Goodell
+  - Janet L. Kolodner
+  - Aaron Kessler
+year: 2022
+doi: "10.4324/9781003276579-6"
+tier: contemporary
+citation_count_approx: 2
+significance: >
+  The medical breakthrough took both scientific discovery and innovations in engineering to
+  produce the drug at scale. This chapter examines some key concepts from the learning
+  sciences.
+primary_topic: T03
+secondary_topics: []

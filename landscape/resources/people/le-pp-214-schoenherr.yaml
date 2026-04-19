@@ -1,0 +1,24 @@
+resource_id: LE-PP-214
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Jordan Richard Schoenherr
+affiliation: Concordia University
+era: contemporary
+role: Cognitive scientist; ethics of AI in learning.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Cognitive scientist; ethics
+  of AI in learning.
+key_works:
+- The Rapid Assessment of Competency in Echocardiography Scale (Journal of Ultrasound in Medicine, 2016)
+- 'The Assessment of Competency in Thoracic Sonography (ACTS) scale: validation of a tool for point-of-care ultrasound
+  (Critical Ultrasound Journal, 2017)'
+- 'Outcomes from extensive training in critical care echocardiography: Identifying the optimal number of practice
+  studies required to achieve competency (Journal of Critical Care, 2017)'
+- Learning Engineering is Ethical (2022)
+- Learning Engineering is Human-Centered (2022)
+primary_topic: T00
+secondary_topics: []
+url: ''
+openalex_id: https://openalex.org/A5003672017
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related
+  top works — likely wrong person; populate manually.

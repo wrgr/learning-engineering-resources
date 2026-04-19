@@ -1,0 +1,19 @@
+resource_id: LE-PP-221
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Michelle Barrett
+affiliation: ACT
+era: contemporary
+role: Principal Learning Scientist, Edmentum; adaptive learning product strategy.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Principal Learning Scientist,
+  Edmentum; adaptive learning product strategy.
+key_works:
+- 'Core to the Learning Day: The Adaptive Instructional System as an Integrated Component of Brick-and-Mortar, Blended,
+  and Online Learning (Lecture notes in computer science, 2021)'
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5042630733
+openalex_id: https://openalex.org/A5042630733
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5042630733; verify on review.

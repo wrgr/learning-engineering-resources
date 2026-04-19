@@ -4,27 +4,35 @@ source: curated
 status: APPROVED
 name: Neil Heffernan
 affiliation: Worcester Polytechnic Institute
-years: "active 2000s–present"
+years: active 2000s–present
 era: contemporary
 role: Creator of ASSISTments; large-scale LE experimentation pioneer
-description: >
-  Director of Learning Sciences and Technologies at WPI and creator of ASSISTments,
-  a free ITS serving 500,000+ students and 20,000+ teachers. Built E-TRIALS within
-  ASSISTments — a platform for running randomized controlled experiments at scale in
-  real classrooms. Pioneered 'crowdsourcing' of instructional design through teacher-authored
-  hint sequences.
+description: 'Director of Learning Sciences and Technologies at WPI and creator of ASSISTments, a free ITS serving
+  500,000+ students and 20,000+ teachers. Built E-TRIALS within ASSISTments — a platform for running randomized
+  controlled experiments at scale in real classrooms. Pioneered ''crowdsourcing'' of instructional design through
+  teacher-authored hint sequences.
+
+  '
 key_contributions:
-  - Created ASSISTments, a free ITS serving 500,000+ students and 20,000+ teachers
-  - Built E-TRIALS within ASSISTments — a platform for running randomized controlled experiments at scale in real classrooms
-  - Pioneered the 'crowdsourcing' of instructional design through teacher-authored hint sequences in ASSISTments
-  - Demonstrated that formative assessment integrated with intelligent hints improves learning outcomes significantly
-  - Research spans educational data mining, learning analytics, and optimization of student learning pathways
+- Created ASSISTments, a free ITS serving 500,000+ students and 20,000+ teachers
+- Built E-TRIALS within ASSISTments — a platform for running randomized controlled experiments at scale in real
+  classrooms
+- Pioneered the 'crowdsourcing' of instructional design through teacher-authored hint sequences in ASSISTments
+- Demonstrated that formative assessment integrated with intelligent hints improves learning outcomes significantly
+- Research spans educational data mining, learning analytics, and optimization of student learning pathways
+- Program Co-Chair, ACM Learning @ Scale 2025 (Palermo, Italy)
 key_works:
-  - "ASSISTments: Helping Mentor Students While Providing Teachers Feedback (ITS, 2004)"
-  - "The Doer Effect: Replicating Findings that Doing Causes Learning (EDM, 2018)"
+- 'ASSISTments: Helping Mentor Students While Providing Teachers Feedback (ITS, 2004)'
+- 'The Doer Effect: Replicating Findings that Doing Causes Learning (EDM, 2018)'
+- 'Population validity for educational data mining models: A case study in affect detection (British Journal of
+  Educational Technology, 2014)'
+- Predicting College Enrollment from Student Interaction with an Intelligent Tutoring System in Middle School (Educational
+  Data Mining, 2013)
+- Does Time Matter? Modeling the Effect of Time with Bayesian Knowledge Tracing (Educational Data Mining, 2011)
 primary_topic: T06
 secondary_topics:
-  - T04
-  - T17
+- T04
+- T17
 url: https://www.wpi.edu/people/faculty/nth
 notes: ASSISTments platform. Large-scale RCT experimentation in classrooms.
+openalex_id: https://openalex.org/A5078998782

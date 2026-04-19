@@ -1,0 +1,17 @@
+resource_id: LE-IC-038
+content_type: GL
+source: icicle
+status: APPROVED
+title: IDEO Design Thinking Process (ideou.com)
+authors:
+- IDEO Design Thinking Process
+publisher: IDEO / IDEO U
+url: https://www.ideou.com/blogs/inspiration/design-thinking-process
+type: report
+primary_topic: T03
+secondary_topics:
+- T02
+significance: IDEO's publicly available overview of the human-centered design thinking process. Referenced
+  in LE as a precursor and complement to the iterative LE process, particularly for empathy and problem
+  framing stages.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

@@ -1,0 +1,24 @@
+resource_id: LE-AP-865
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Scripting and monitoring meet each other: Aligning learning analytics and learning design to support teachers
+  in orchestrating <scp>CSCL</scp> situations'
+authors:
+- Marí­a Jesús Rodríguez-Triana
+- Alejandra Martínez‐Monés
+- Juan I. Asensio‐Pérez
+- Yannis Dimitriadis
+year: 2014
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.12198
+tier: contemporary
+citation_count_approx: 134
+cross_seed_score: 1
+openalex_id: W2098142390
+significance: Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Alejandra Martínez-Monés). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T03
+- T17

@@ -2,16 +2,19 @@ resource_id: LE-AP-721
 content_type: AP
 source: book_endnotes
 status: seed
-title: "“Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice"
+title: '“Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice'
 authors: []
 year: 2018
 venue: Proceedings of the Design Research Society
 tier: contemporary
 citation_count_approx: 0
-openalex_id: ""
-significance: >
-  Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01
-  topics in learning engineering. Full bibliographic details in citation:
-  Costanza-Chock, Sasha. “Design Justice: Towards an Intersectional Feminist
+openalex_id: ''
+significance: 'Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering.
+  Full bibliographic details in citation: Costanza-Chock, Sasha. “Design Justice: Towards an Intersectional Feminist
   Framework for Design Theory and Practice.” In...
-primary_topic: T01
+
+  '
+primary_topic: T14
+secondary_topics:
+- T01
+- T03

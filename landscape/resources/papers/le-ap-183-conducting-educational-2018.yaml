@@ -2,17 +2,20 @@ resource_id: LE-AP-183
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Conducting Educational Design Research"
+title: Conducting Educational Design Research
 authors: []
 year: 2018
 venue: Unknown Venue
-doi: "10.4324/9781315105642"
+doi: 10.4324/9781315105642
 tier: highly_cited
 citation_count_approx: 1250
 cross_seed_score: 4
-openalex_id: "W2129660020"
-significance: >
-  Published in Unknown Venue; addresses computer science. Quality-filtered from
-  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering
-  Toolkit corpus. Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2129660020
+significance: 'Published in Unknown Venue; addresses computer science. Quality-filtered from OpenAlex cross-seed
+  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T03
+secondary_topics:
+- T01
+- T17

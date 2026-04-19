@@ -1,0 +1,20 @@
+resource_id: LE-AP-833
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Using Hypermedia as a Metacognitive Tool for Enhancing Student Learning? The Role of Self-Regulated Learning
+authors:
+- Roger Azevedo
+year: 2005
+venue: Educational Psychologist
+doi: 10.1207/s15326985ep4004_2
+tier: highly_cited
+citation_count_approx: 628
+cross_seed_score: 1
+openalex_id: W2093980251
+significance: Published in Educational Psychologist. LE-filtered expansion seeded from conference-chair authorship
+  (Roger Azevedo). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T01
+- T17

@@ -1,19 +1,20 @@
 resource_id: LE-AP-532
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Political Ideology: Its Structure, Functions, and Elective Affinities"
+status: non_le
+title: 'Political Ideology: Its Structure, Functions, and Elective Affinities'
 authors: []
 year: 2008
 venue: Annual Review of Psychology
-doi: "10.1146/annurev.psych.60.110707.163600"
+doi: 10.1146/annurev.psych.60.110707.163600
 tier: highly_cited
 citation_count_approx: 2087
 cross_seed_score: 2
-openalex_id: "W2128106636"
-significance: >
-  Published in Annual Review of Psychology; addresses ideology, situational
-  ethics, politics. Quality-filtered from OpenAlex cross-seed expansion of the
-  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+openalex_id: W2128106636
+significance: 'Published in Annual Review of Psychology; addresses ideology, situational ethics, politics. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
   OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

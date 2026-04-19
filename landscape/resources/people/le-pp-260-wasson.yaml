@@ -1,0 +1,36 @@
+resource_id: LE-PP-260
+content_type: PP
+source: curated
+status: APPROVED
+name: Barbara Wasson
+affiliation: University of Bergen, Norway; Director, SLATE
+era: contemporary
+role: LAK 2026 General Chair; LAK 2024 Program Chair; learning analytics field-builder
+description: 'Professor at the University of Bergen and Director of SLATE (Centre for the Science of Learning &
+  Technology). General Chair of LAK 2026 (Bergen) and Program Chair of LAK 2024 (Kyoto). Long-time leader of European
+  technology-enhanced learning research; focuses on learning analytics, AI-supported learning environments, and
+  CSCL.
+
+  '
+key_contributions:
+- General Chair, LAK 2026 (Bergen, Norway); Program Chair, LAK 2024 (Kyoto, Japan)
+- Director of SLATE — one of Europe's leading learning analytics centers
+- Pioneered Norwegian/Nordic contributions to CSCL and AI-supported learning environments
+- Connects European TEL research infrastructure to SoLAR's global LA community
+primary_topic: T04
+secondary_topics:
+- T17
+- T11
+url: https://www4.uib.no/en/find-employees/Barbara.Wasson
+notes: LAK 2026 GC, LAK 2024 PC. SLATE director. European TEL leader.
+key_works:
+- 'Mobile-assisted language learning through learning analytics for self-regulated learning (MALLAS): A conceptual
+  framework (Australasian Journal of Educational Technology, 2020)'
+- 'Assessing English as a Second Language: From Classroom Data to a Competence-Based Open Learner Model (International
+  Conference on Computers in Education, 2012)'
+- 'Editorial: Learning design, teacher inquiry into student learning and learning analytics: A call for action (British
+  Journal of Educational Technology, 2015)'
+- 'Learning analytics in virtual laboratories: a systematic literature review of empirical research (Smart Learning
+  Environments, 2023)'
+- Using learning analytics to understand student perceptions of peer feedback (Computers in Human Behavior, 2020)
+openalex_id: https://openalex.org/A5058484684

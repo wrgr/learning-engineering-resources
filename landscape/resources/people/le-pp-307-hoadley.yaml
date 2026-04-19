@@ -1,0 +1,32 @@
+resource_id: LE-PP-307
+content_type: PP
+source: curated
+status: APPROVED
+name: Chris Hoadley
+affiliation: University at Buffalo (SUNY), Graduate School of Education
+era: contemporary
+role: ISLS 2024 Conference Chair; CSCL and design-based research
+description: 'Professor at University at Buffalo''s Graduate School of Education. Conference Chair of ISLS 2024
+  (Buffalo). Long-time researcher on design-based research methodology and collaborative learning technologies;
+  past President of ISLS.
+
+  '
+key_contributions:
+- Conference Chair, ISLS 2024 (Buffalo, NY)
+- Past President of ISLS; senior community-building figure in learning sciences
+- Long-running research program on CSCL tool design and design-based research methodology
+primary_topic: T17
+secondary_topics:
+- T03
+- T01
+url: https://ed.buffalo.edu/about/directory/faculty/profile.html?uid=tophe
+notes: ISLS 2024 Conf Chair. ISLS past president. DBR.
+key_works:
+- Evaluating online learning communities (Educational Technology Research and Development, 2009)
+- 'Instructional systems design and the learning sciences: A citation analysis (Educational Technology Research
+  and Development, 2005)'
+- 'Learning and design: Why the learning sciences and instructional systems need each other (Educational technology:
+  The magazine for managers of change in education, 2004)'
+- 'Design-based research: What it is and why it matters to studying online learning (Educational Psychologist, 2022)'
+- A Short History of the Learning Sciences (2018)
+openalex_id: https://openalex.org/A5012123334

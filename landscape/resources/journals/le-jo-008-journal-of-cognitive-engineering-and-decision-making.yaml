@@ -1,0 +1,12 @@
+resource_id: LE-JO-008
+content_type: JO
+source: landscape_backfill
+status: APPROVED
+name: Journal of Cognitive Engineering and Decision Making
+type: journal
+affiliation_or_venue: Sage
+url: ''
+primary_topic: T09
+secondary_topics:
+- T02
+description: Adjacent-field journal carried forward from landscape curation; enrichment pending.

@@ -1,0 +1,18 @@
+resource_id: LE-AP-816
+content_type: AP
+source: scholar_gap_analysis
+title: "Scrutable AIED"
+authors:
+  - Judy Kay
+  - Bob Kummerfeld
+  - Cristina Conati
+year: 2023
+venue: "Edward Elgar Publishing eBooks"
+doi: "10.4337/9781800375413.00015"
+tier: contemporary
+citation_count_approx: 4
+significance: >
+  This chapter describes scrutability in AIED. “Scrutable” systems are designed so that
+  learners can answer key questions about the way those systems work.
+primary_topic: T06
+secondary_topics: []

@@ -1,0 +1,23 @@
+resource_id: LE-PP-310
+content_type: PP
+source: curated
+status: APPROVED
+name: Jennifer Meyer
+affiliation: "University of Vienna, Centre for Teacher Education"
+era: contemporary
+role: "L@S 2025 Program Co-Chair; AI feedback and individual differences in learning"
+description: >
+  Assistant Professor of Educational Diagnostics and Counselling at the University of
+  Vienna. Program Co-Chair for L@S 2025. Jacobs Foundation Research Fellow. Research on
+  effective use of AI-driven formative feedback in classrooms and individual differences in
+  learning with AI.
+key_contributions:
+  - "Program Co-Chair, L@S 2025 (Palermo, Italy)"
+  - Jacobs Foundation Research Fellow studying AI feedback at scale
+  - Research on individual differences in how learners benefit from AI-driven feedback
+primary_topic: T07
+secondary_topics:
+  - T04
+  - T01
+url: "https://ucrisportal.univie.ac.at/en/persons/jennifer-meyer/"
+notes: "L@S 2025 PC. AI feedback. Jacobs Foundation Fellow."

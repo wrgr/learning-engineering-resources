@@ -1,0 +1,20 @@
+resource_id: LE-AP-825
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning engineering: Past, present and future"
+authors:
+  - Kürşat Çağıltay
+  - Nazire Burçin Hamutoğlu
+  - Mehmet Kesım
+year: 2023
+venue: "Journal of Educational Technology and Online Learning"
+doi: "10.31681/jetol.1376727"
+tier: contemporary
+citation_count_approx: 2
+significance: >
+  Learning engineering is a term and combines the process and practice that applies the
+  sciences of learning using human-centered engineering design methodologies and data-driven
+  decision making to support learners and their development. This term is about problem
+  solving and aims to support learners and their development.
+primary_topic: T03
+secondary_topics: []

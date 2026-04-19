@@ -1,0 +1,14 @@
+resource_id: LE-PP-201
+content_type: PP
+source: mdx_backfill
+status: APPROVED
+name: James Diamond
+affiliation: Johns Hopkins University — School of Education
+role: Faculty, JHU MEd Learning Engineering concentration
+primary_topic: T16
+secondary_topics:
+- T02
+- T10
+url: ''
+description: Faculty in the Learning Engineering concentration within the JHU MEd in Learning Design and
+  Technology. Contributes to the LENS program.

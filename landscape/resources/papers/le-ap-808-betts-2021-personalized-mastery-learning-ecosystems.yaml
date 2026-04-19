@@ -1,0 +1,20 @@
+resource_id: LE-AP-808
+content_type: AP
+source: scholar_gap_analysis
+title: "Personalized Mastery Learning Ecosystems: Using Bloom’s Four Objects of Change to Drive Learning in Adaptive Instructional Systems"
+authors:
+  - Anastasia Betts
+  - Khanh-Phuong Thai
+  - Sunil Gunderia
+year: 2021
+venue: "Lecture notes in computer science"
+doi: "10.1007/978-3-030-77857-6_3"
+tier: contemporary
+citation_count_approx: 8
+significance: >
+  Abstract Adaptive instructional systems (AISs) hold tremendous promise for addressing
+  learner variability at scale. Many AISs are grounded in Benjamin Bloom’s (1971) Mastery
+  Learning approach, which delivers differentiated instruction, appropriate scaffolding, and
+  feedback to ensure each child masters each concept or skill before moving on.
+primary_topic: T03
+secondary_topics: []

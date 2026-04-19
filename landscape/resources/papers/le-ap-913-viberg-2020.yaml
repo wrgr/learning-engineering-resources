@@ -1,0 +1,24 @@
+resource_id: LE-AP-913
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Mobile-assisted language learning through learning analytics for self-regulated learning (MALLAS): A conceptual
+  framework'
+authors:
+- Olga Viberg
+- Barbara Wasson
+- Agnes Kukulska‐Hulme
+year: 2020
+venue: Australasian Journal of Educational Technology
+doi: 10.14742/ajet.6494
+tier: contemporary
+citation_count_approx: 49
+cross_seed_score: 2
+openalex_id: W3114633142
+significance: Published in Australasian Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Barbara Wasson, Olga Viberg). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T11
+- T14

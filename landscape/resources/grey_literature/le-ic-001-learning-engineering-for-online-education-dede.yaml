@@ -1,0 +1,17 @@
+resource_id: LE-IC-001
+content_type: GL
+source: icicle
+status: APPROVED
+title: Learning Engineering for Online Education (Dede, Richards, Saxberg eds.)
+authors:
+- IEEE ICICLE
+publisher: Routledge / IEEE ICICLE
+url: https://www.routledge.com/Learning-Engineering-for-Online-Education/Dede-Richards/p/book/9780367899691
+type: report
+primary_topic: T00
+secondary_topics:
+- T06
+- T11
+significance: Edited volume by Dede, Richards, and Saxberg — the primary book-length treatment of learning
+  engineering applied to online education. Covers LE process, adaptive systems, evidence, and scale.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

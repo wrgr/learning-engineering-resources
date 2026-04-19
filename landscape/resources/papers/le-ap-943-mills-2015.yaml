@@ -1,0 +1,23 @@
+resource_id: LE-AP-943
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Mind Wandering During Learning with an Intelligent Tutoring System
+authors:
+- Caitlin Mills
+- Sidney K. D’Mello
+- Nigel Bosch
+- Andrew M. Olney
+year: 2015
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-319-19773-9_27
+tier: contemporary
+citation_count_approx: 32
+cross_seed_score: 1
+openalex_id: W2283850006
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Caitlin Mills). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T01
+- T07

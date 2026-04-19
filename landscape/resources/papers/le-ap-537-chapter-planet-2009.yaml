@@ -1,18 +1,19 @@
 resource_id: LE-AP-537
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "CHAPTER 15 Planet of the Durkheimians, Where Community, Authority, and Sacredness Are Foundations of Morality"
+status: non_le
+title: CHAPTER 15 Planet of the Durkheimians, Where Community, Authority, and Sacredness Are Foundations of Morality
 authors: []
 year: 2009
 venue: Unknown Venue
-doi: "10.1093/acprof:oso/9780195320916.003.015"
+doi: 10.1093/acprof:oso/9780195320916.003.015
 tier: contemporary
 citation_count_approx: 201
 cross_seed_score: 2
-openalex_id: "W2131294266"
-significance: >
-  Published in Unknown Venue; addresses morality, harm, epistemology. Quality-
-  filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
-  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+openalex_id: W2131294266
+significance: 'Published in Unknown Venue; addresses morality, harm, epistemology. Quality- filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

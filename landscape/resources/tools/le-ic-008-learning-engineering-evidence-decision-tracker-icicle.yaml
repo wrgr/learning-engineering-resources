@@ -1,0 +1,15 @@
+resource_id: LE-IC-008
+content_type: TP
+source: icicle
+status: APPROVED
+name: Learning Engineering Evidence Decision Tracker (ICICLE)
+type: tool
+affiliation_or_venue: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+primary_topic: T15
+secondary_topics:
+- T03
+- T04
+description: Google Drive folder with templates for tracking design decisions alongside the evidence that
+  motivated them throughout the LE process. Supports reproducible, evidence-based practice.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

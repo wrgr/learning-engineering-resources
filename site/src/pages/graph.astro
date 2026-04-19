@@ -25,9 +25,8 @@ import knowledgeSeeds from "../data/knowledge_graph_seeds.json";
 // @ts-ignore
 import seedPapersData from "../data/papers_seed.json";
 // @ts-ignore
-import icicleRegistry from "../data/icicle_resources_registry.json";
-// @ts-ignore
-// Built from landscape/resources/**/*.yaml via scripts/build_registry.py
+// Built from landscape/resources/**/*.yaml via scripts/build_registry.py.
+// Covers all resource types, including ICICLE-provenance rows (LE-IC-*).
 import ppRegistry from "../data/programs_people_registry.json";
 import { topicUrl } from "../data/topicSlugs";
 
@@ -46,9 +45,6 @@ for (const p of (seedPapersData as any).papers ?? []) {
 }
 
 const resourceTitles = new Map<string, { name: string; url: string; type: string }>();
-for (const r of icicleRegistry as any[]) {
-  resourceTitles.set(r.resource_id, { name: r.name, url: r.url ?? "", type: r.content_type });
-}
 for (const r of ppRegistry as any[]) {
   resourceTitles.set(r.resource_id, { name: r.name, url: r.url ?? "", type: r.content_type });
 }

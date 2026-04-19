@@ -1,0 +1,22 @@
+resource_id: LE-AP-901
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Instructional systems design and the learning sciences: A citation analysis'
+authors:
+- Joslyn S. Kirby
+- Christopher Hoadley
+- Alison A. Carr‐Chellman
+year: 2005
+venue: Educational Technology Research and Development
+doi: 10.1007/bf02504856
+tier: contemporary
+citation_count_approx: 56
+cross_seed_score: 1
+openalex_id: W2057612801
+significance: Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair
+  authorship (Chris Hoadley). OpenAlex-seeded; curation pending.
+primary_topic: T17
+secondary_topics:
+- T03
+- T01

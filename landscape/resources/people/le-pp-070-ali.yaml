@@ -3,24 +3,28 @@ content_type: PP
 source: curated
 status: APPROVED
 name: Zarka Ali
-affiliation: "IEEE ICICLE — pK-12 MIG"
-years: "active 2010s–present"
+affiliation: IEEE ICICLE — pK-12 MIG
+years: active 2010s–present
 era: contemporary
 role: K-12 LE practitioner; ICICLE pK-12 MIG co-chair
-description: >
-  Co-chair of the pK-12 MIG within IEEE ICICLE, advancing learning engineering methods
-  in preK–12 settings where implementation differs significantly from higher education
-  and corporate contexts.
+description: 'Co-chair of the pK-12 MIG within IEEE ICICLE, advancing learning engineering methods in preK–12 settings
+  where implementation differs significantly from higher education and corporate contexts.
+
+  '
 key_contributions:
-  - Co-chairs the pK-12 MIG (ICICLE), adapting LE principles for PreK–12 instructional design and teacher professional development
-  - Advances LE frameworks for K-12 contexts including curriculum alignment, formative assessment, and adaptive learning
-  - Contributes K-12-specific perspectives to ICICLE's Body of Knowledge
-  - Bridges pK-12 educational practice with evidence-based LE methods and tools
+- Co-chairs the pK-12 MIG (ICICLE), adapting LE principles for PreK–12 instructional design and teacher professional
+  development
+- Advances LE frameworks for K-12 contexts including curriculum alignment, formative assessment, and adaptive learning
+- Contributes K-12-specific perspectives to ICICLE's Body of Knowledge
+- Bridges pK-12 educational practice with evidence-based LE methods and tools
 key_works:
-  - "IEEE ICICLE pK-12 MIG practitioner resources and frameworks"
+- IEEE ICICLE pK-12 MIG practitioner resources and frameworks
+- 'Using the Learning Engineering Evidence and Decision (LEED) Tracker in a pK-12 Context: A Metacognitive Journey
+  (2025)'
 primary_topic: T10
 secondary_topics:
-  - T03
-  - T16
+- T03
+- T16
 url: https://icicle.ieee.org
 notes: ICICLE community lead. pK-12 MIG.
+openalex_id: https://openalex.org/A5101890042

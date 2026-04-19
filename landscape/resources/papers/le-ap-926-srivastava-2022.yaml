@@ -1,0 +1,33 @@
+resource_id: LE-AP-926
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Effects of Internal and External Conditions on Strategies of Self-regulated Learning: A Learning Analytics
+  Study'
+authors:
+- Namrata Srivastava
+- Yizhou Fan
+- Mladen Raković
+- Shaveen Singh
+- Jelena Jovanović
+- Joep van der Graaf
+- Lyn Lim
+- Surya Surendrannair
+- Jonathan Kilgour
+- Inge Molenaar
+- Maria Bannert
+- Johanna D. Moore
+- Dragan Gašević
+year: 2022
+venue: Unknown Venue
+doi: 10.1145/3506860.3506972
+tier: contemporary
+citation_count_approx: 40
+cross_seed_score: 1
+openalex_id: W4214935550
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Jelena
+  Jovanović). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T01

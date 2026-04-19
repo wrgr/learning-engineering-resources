@@ -1,0 +1,34 @@
+resource_id: LE-PP-263
+content_type: PP
+source: curated
+status: APPROVED
+name: Mutlu Cukurova
+affiliation: UCL Knowledge Lab / UCL Centre for AI, University College London
+era: contemporary
+role: LAK 2024 General Chair; LAK 2026 Program Chair; human-AI complementarity in learning
+description: 'Professor of Learning and Artificial Intelligence at UCL. General Chair of LAK 2024 (Kyoto) and Program
+  Chair of LAK 2026 (Bergen). Research focuses on human-AI complementarity in learning, multimodal learning analytics,
+  and the design of AI systems that augment rather than replace teachers.
+
+  '
+key_contributions:
+- General Chair, LAK 2024 (Kyoto); Program Chair, LAK 2026 (Bergen)
+- Articulated 'human-AI complementarity' framing for educational AI design
+- Pioneering work on multimodal learning analytics capturing behavioral, physiological, and discursive data
+- UCL-based bridge between European AI policy research and the LA community
+primary_topic: T07
+secondary_topics:
+- T04
+- T14
+url: https://profiles.ucl.ac.uk/52201-mutlu-cukurova
+notes: LAK 2024 GC, LAK 2026 PC. Human-AI complementarity. Multimodal LA.
+key_works:
+- 'Designing educational technologies in the age of AI: A learning sciences‐driven approach (British Journal of
+  Educational Technology, 2019)'
+- The promise and challenges of multimodal learning analytics (British Journal of Educational Technology, 2020)
+- The role of learning theory in multimodal learning analytics (British Journal of Educational Technology, 2023)
+- Teachers' trust in <scp>AI</scp> ‐powered educational technology and a professional development program to improve
+  it (British Journal of Educational Technology, 2022)
+- Supervised machine learning in multimodal learning analytics for estimating success in project‐based learning
+  (Journal of Computer Assisted Learning, 2018)
+openalex_id: https://openalex.org/A5010726815

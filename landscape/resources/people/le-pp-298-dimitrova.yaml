@@ -1,0 +1,36 @@
+resource_id: LE-PP-298
+content_type: PP
+source: curated
+status: APPROVED
+name: Vania Dimitrova
+affiliation: University of Leeds, UK (School of Computing)
+era: contemporary
+role: AIED 2023 General Chair; user modeling, semantic tech for adaptive learning, workplace learning
+description: 'Professor in the School of Computing at Leeds. General Co-Chair of AIED 2023 (Tokyo). Research on
+  user/learner modeling, semantic technologies for adaptive learning, and workplace learning — one of AIED''s senior
+  figures in workplace/professional-learning research.
+
+  '
+key_contributions:
+- General Co-Chair, AIED 2023 (Tokyo, Japan)
+- Long-time contributor to AIED; applies semantic technologies to adaptive workplace learning
+- Research on reflective learning tools and professional development at scale
+- Bridges AIED with workplace-learning practice via EU projects
+primary_topic: T07
+secondary_topics:
+- T06
+- T10
+url: https://eps.leeds.ac.uk/computing/staff/227/professor-vania-dimitrova
+notes: AIED 2023 GC. Workplace learning. Semantic adaptive systems.
+key_works:
+- 'STyLE-OLM: Interactive Open Learner Modelling (International Journal of Artificial Intelligence in Education,
+  2003)'
+- Applying Interactive Open Learner Models to Learning Technical Terminology (Lecture notes in computer science,
+  2001)
+- '"Open Learner Models: Future Research Directions" Special Issue of the IJAIED (Part 2) (International Journal
+  of Artificial Intelligence in Education, 2007)'
+- 'From Interactive Open Learner Modelling to Intelligent Mentoring: STyLE-OLM and Beyond (International Journal
+  of Artificial Intelligence in Education, 2015)'
+- The Design and Implementation of a Graphical Communication Medium for Interactive Open Learner Modelling (Lecture
+  notes in computer science, 2002)
+openalex_id: https://openalex.org/A5084785996

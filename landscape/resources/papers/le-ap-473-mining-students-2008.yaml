@@ -2,18 +2,21 @@ resource_id: LE-AP-473
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Mining students’ behavior in web-based learning programs"
+title: Mining students’ behavior in web-based learning programs
 authors: []
 year: 2008
 venue: Expert Systems with Applications
-doi: "10.1016/j.eswa.2008.02.054"
+doi: 10.1016/j.eswa.2008.02.054
 tier: contemporary
 citation_count_approx: 44
 cross_seed_score: 2
-openalex_id: "W2074545285"
-significance: >
-  Published in Expert Systems with Applications; addresses computer science,
-  cognitive style, field (mathematics). Quality-filtered from OpenAlex cross-
-  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
-  Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2074545285
+significance: 'Published in Expert Systems with Applications; addresses computer science, cognitive style, field
+  (mathematics). Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T04
+secondary_topics:
+- T01
+- T11

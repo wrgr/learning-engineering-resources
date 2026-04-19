@@ -1,0 +1,22 @@
+resource_id: LE-AP-898
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Research trends in multimodal learning analytics: A systematic mapping study'
+authors:
+- Hamza Ouhaichi
+- Daniel Spikol
+- Bahtijar Vogel
+year: 2023
+venue: Computers and Education Artificial Intelligence
+doi: 10.1016/j.caeai.2023.100136
+tier: contemporary
+citation_count_approx: 60
+cross_seed_score: 1
+openalex_id: W4328053313
+significance: Published in Computers and Education Artificial Intelligence. LE-filtered expansion seeded from conference-chair
+  authorship (Daniel Spikol). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T08
+- T11

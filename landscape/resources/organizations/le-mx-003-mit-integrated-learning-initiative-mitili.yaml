@@ -1,0 +1,13 @@
+resource_id: LE-MX-003
+content_type: CO
+source: mdx_backfill
+status: APPROVED
+name: MIT Integrated Learning Initiative (MITili)
+type: org
+affiliation_or_venue: MIT
+url: https://mitili.mit.edu/
+primary_topic: T01
+secondary_topics:
+- T11
+description: MIT-wide initiative bridging learning science research and practice. Funds cross-disciplinary
+  work on how people learn and publishes actionable guidance — a key academic node in the LE ecosystem.

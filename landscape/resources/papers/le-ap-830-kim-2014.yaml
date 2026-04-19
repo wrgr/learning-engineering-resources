@@ -1,0 +1,23 @@
+resource_id: LE-AP-830
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'The experience of three flipped classrooms in an urban university: an exploration of design principles'
+authors:
+- Min Kyu Kim
+- So Mi Kim
+- Otto Khera
+- Joan Getman
+year: 2014
+venue: The Internet and Higher Education
+doi: 10.1016/j.iheduc.2014.04.003
+tier: highly_cited
+citation_count_approx: 912
+cross_seed_score: 1
+openalex_id: W2082234556
+significance: Published in The Internet and Higher Education. LE-filtered expansion seeded from conference-chair
+  authorship (Min Kyu Kim). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T06

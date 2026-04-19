@@ -1,0 +1,902 @@
+[
+  {
+    "id": "LE-AP-652",
+    "file": "le-ap-652-expert-brain-2013.yaml",
+    "title": "The Expert Brain",
+    "venue": "Unknown Venue",
+    "year": 2013,
+    "cites": 2,
+    "concepts_hint": "Published in Unknown Venue; addresses computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enri"
+  },
+  {
+    "id": "LE-AP-653",
+    "file": "le-ap-653-toward-productive-2006.yaml",
+    "title": "Toward productive design studies",
+    "venue": "Unknown Venue",
+    "year": 2006,
+    "cites": 53,
+    "concepts_hint": "Published in Unknown Venue; addresses disappointment, argument (complex analysis), engineering ethics. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineerin"
+  },
+  {
+    "id": "LE-AP-654",
+    "file": "le-ap-654-using-radicals-1999.yaml",
+    "title": "Using radicals in teaching Chinese characters to second language learners",
+    "venue": "UNSWorks (UNSW Sydney)",
+    "year": 1999,
+    "cites": 86,
+    "concepts_hint": "Published in UNSWorks (UNSW Sydney); addresses psychology, linguistics, radical. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Auth"
+  },
+  {
+    "id": "LE-AP-656",
+    "file": "le-ap-656-role-mixed-2020.yaml",
+    "title": "The role of mixed methods in conducting design-based research",
+    "venue": "Educational Psychologist",
+    "year": 2020,
+    "cites": 37,
+    "concepts_hint": "Published in Educational Psychologist; addresses reflexivity, sociocultural evolution, trace (psycholinguistics). Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learnin"
+  },
+  {
+    "id": "LE-AP-657",
+    "file": "le-ap-657-moral-stereotypes-2012.yaml",
+    "title": "The Moral Stereotypes of Liberals and Conservatives: Exaggeration of Differences across the Political Spectrum",
+    "venue": "PLoS ONE",
+    "year": 2012,
+    "cites": 322,
+    "concepts_hint": "Published in PLoS ONE; addresses ingroups and outgroups, outgroup, exaggeration. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Auth"
+  },
+  {
+    "id": "LE-AP-658",
+    "file": "le-ap-658-designing-adaptive-2012.yaml",
+    "title": "Designing Adaptive Collaboration Structures for Advancing the Community\u2019s Knowledge",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 7,
+    "concepts_hint": "Published in Unknown Venue; addresses computer science, knowledge management. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors"
+  },
+  {
+    "id": "LE-AP-659",
+    "file": "le-ap-659-common-core-2011.yaml",
+    "title": "Common Core State Standards",
+    "venue": "Unknown Venue",
+    "year": 2011,
+    "cites": 866,
+    "concepts_hint": "Published in Unknown Venue; addresses core (optical fiber), state (computer science), computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineeri"
+  },
+  {
+    "id": "LE-AP-660",
+    "file": "le-ap-660-different-voice-1982.yaml",
+    "title": "In A Different Voice: Psychological Theory And Women's Development",
+    "venue": "Unknown Venue",
+    "year": 1982,
+    "cites": 10924,
+    "concepts_hint": "Published in Unknown Venue; addresses psychology, social psychology, cognitive psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit co"
+  },
+  {
+    "id": "LE-AP-661",
+    "file": "le-ap-661-communicating-classroom-1982.yaml",
+    "title": "Communicating in the Classroom",
+    "venue": "Unknown Venue",
+    "year": 1982,
+    "cites": 409,
+    "concepts_hint": "Published in Unknown Venue; addresses psychology, communication. Quality- filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending Ope"
+  },
+  {
+    "id": "LE-AP-662",
+    "file": "le-ap-662-proceedings-29th-2007.yaml",
+    "title": "Proceedings of the 29th Annual Conference of the Cognitive Science Society",
+    "venue": "Cognitive Science",
+    "year": 2007,
+    "cites": 1773,
+    "concepts_hint": "Published in Cognitive Science; addresses cognition, cognitive science, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. A"
+  },
+  {
+    "id": "LE-AP-663",
+    "file": "le-ap-663-handbook-educational-2013.yaml",
+    "title": "Handbook of Educational Psychology",
+    "venue": "Unknown Venue",
+    "year": 2013,
+    "cites": 3218,
+    "concepts_hint": "Published in Unknown Venue; addresses psychology, applied psychology, psychoanalysis. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus."
+  },
+  {
+    "id": "LE-AP-664",
+    "file": "le-ap-664-different-voice-1983.yaml",
+    "title": "In a Different Voice: Psychological Theory and Women's Development.",
+    "venue": "Contemporary Sociology A Journal of Reviews",
+    "year": 1983,
+    "cites": 11189,
+    "concepts_hint": "Published in Contemporary Sociology A Journal of Reviews; addresses psychology, social psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering To"
+  },
+  {
+    "id": "LE-AP-665",
+    "file": "le-ap-665-learning-teaching-1988.yaml",
+    "title": "Learning and Teaching Styles in Engineering Education.",
+    "venue": "Unknown Venue",
+    "year": 1988,
+    "cites": 3489,
+    "concepts_hint": "Published in Unknown Venue; addresses engineering education, mathematics education, computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering"
+  },
+  {
+    "id": "LE-AP-666",
+    "file": "le-ap-666-probabilistic-logics-1956.yaml",
+    "title": "Probabilistic Logics and the Synthesis of Reliable Organisms From Unreliable Components",
+    "venue": "Princeton University Press eBooks",
+    "year": 1956,
+    "cites": 1440,
+    "concepts_hint": "Published in Princeton University Press eBooks; addresses probabilistic logic, computer science, artificial intelligence. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner "
+  },
+  {
+    "id": "LE-AP-667",
+    "file": "le-ap-667-proceedings-32nd-2010.yaml",
+    "title": "Proceedings of the 32nd Annual Conference of the Cognitive Science Society",
+    "venue": "Unknown Venue",
+    "year": 2010,
+    "cites": 300,
+    "concepts_hint": "Published in Unknown Venue; addresses political science, engineering ethics, engineering. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit cor"
+  },
+  {
+    "id": "LE-AP-668",
+    "file": "le-ap-668-explaining-selfexplaining-2007.yaml",
+    "title": "Explaining Self-Explaining: A Contrast between Content and Generation",
+    "venue": "Unknown Venue",
+    "year": 2007,
+    "cites": 63,
+    "concepts_hint": "Published in Unknown Venue; addresses contrast (vision), psychology, variety (cybernetics). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit c"
+  },
+  {
+    "id": "LE-AP-669",
+    "file": "le-ap-669-proceedings-30th-2008.yaml",
+    "title": "Proceedings of the 30th Annual Conference of the Cognitive Science Society.",
+    "venue": "Unknown Venue",
+    "year": 2008,
+    "cites": 174,
+    "concepts_hint": "Published in Unknown Venue; addresses cognition, engineering ethics, political science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpu"
+  },
+  {
+    "id": "LE-AP-670",
+    "file": "le-ap-670-handbook-design-2013.yaml",
+    "title": "Handbook of Design in Educational Technology",
+    "venue": "Unknown Venue",
+    "year": 2013,
+    "cites": 150,
+    "concepts_hint": "Published in Unknown Venue; addresses computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enri"
+  },
+  {
+    "id": "LE-AP-671",
+    "file": "le-ap-671-design-research-2002.yaml",
+    "title": "Design Research for Sustained Innovation",
+    "venue": "Cognitive Studies | \u00c9tudes cognitives",
+    "year": 2002,
+    "cites": 210,
+    "concepts_hint": "Published in Cognitive Studies | \u00c9tudes cognitives; addresses knowledge management, engineering ethics, business. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning"
+  },
+  {
+    "id": "LE-AP-672",
+    "file": "le-ap-672-who-research-2021.yaml",
+    "title": "\u2018Who Is My Research for?\u2019: Researcher Perceptions of the Research\u2013Practice Relationship",
+    "venue": "Applied Linguistics",
+    "year": 2021,
+    "cites": 52,
+    "concepts_hint": "Published in Applied Linguistics; addresses perception, psychology, applied linguistics. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corp"
+  },
+  {
+    "id": "LE-AP-673",
+    "file": "le-ap-673-good-natured-1996.yaml",
+    "title": "Good Natured",
+    "venue": "Harvard University Press eBooks",
+    "year": 1996,
+    "cites": 934,
+    "concepts_hint": "Published in Harvard University Press eBooks; addresses computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pen"
+  },
+  {
+    "id": "LE-AP-674",
+    "file": "le-ap-674-argumentbased-approach-2022.yaml",
+    "title": "Argument-Based Approach to Validity",
+    "venue": "The SAGE Encyclopedia of Research Design",
+    "year": 2022,
+    "cites": 557,
+    "concepts_hint": "Published in The SAGE Encyclopedia of Research Design; addresses argument (complex analysis), epistemology, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Le"
+  },
+  {
+    "id": "LE-AP-676",
+    "file": "le-ap-676-development-expertise-1983.yaml",
+    "title": "Development of expertise in mathematical problem solving.",
+    "venue": "Journal of Experimental Psychology General",
+    "year": 1983,
+    "cites": 184,
+    "concepts_hint": "Published in Journal of Experimental Psychology General; addresses psychology, cognitive science, cognitive psychology. Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner L"
+  },
+  {
+    "id": "LE-AP-677",
+    "file": "le-ap-677-generalizing-solution-1996.yaml",
+    "title": "Generalizing solution procedures learned from examples.",
+    "venue": "Journal of Experimental Psychology Learning Memory and Cognition",
+    "year": 1996,
+    "cites": 41,
+    "concepts_hint": "Published in Journal of Experimental Psychology Learning Memory and Cognition; addresses psychology, cognitive psychology, cognitive science. Quality- filtered from OpenAlex cross-seed expansion of th"
+  },
+  {
+    "id": "LE-AP-678",
+    "file": "le-ap-678-conservatism-1997.yaml",
+    "title": "Conservatism",
+    "venue": "Princeton University Press eBooks",
+    "year": 1997,
+    "cites": 150,
+    "concepts_hint": "Published in Princeton University Press eBooks; addresses conservatism, psychology, political science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineerin"
+  },
+  {
+    "id": "LE-AP-679",
+    "file": "le-ap-679-toward-epistemology-1993.yaml",
+    "title": "Toward an Epistemology of Physics",
+    "venue": "Cognition and Instruction",
+    "year": 1993,
+    "cites": 1296,
+    "concepts_hint": "Published in Cognition and Instruction; addresses epistemology, mathematics education, science education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Enginee"
+  },
+  {
+    "id": "LE-AP-680",
+    "file": "le-ap-680-selfexplanations-students-1989.yaml",
+    "title": "Self\u2010Explanations: How Students Study and Use Examples in Learning to Solve Problems",
+    "venue": "Cognitive Science",
+    "year": 1989,
+    "cites": 1663,
+    "concepts_hint": "Published in Cognitive Science; addresses computer science, action (physics), think aloud protocol. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering T"
+  },
+  {
+    "id": "LE-AP-681",
+    "file": "le-ap-681-educational-design-2006.yaml",
+    "title": "Educational Design Research",
+    "venue": "Unknown Venue",
+    "year": 2006,
+    "cites": 1173,
+    "concepts_hint": "Published in Unknown Venue; addresses computer science, mathematics education, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit co"
+  },
+  {
+    "id": "LE-AP-683",
+    "file": "le-ap-683-explanationbased-generalization-1986.yaml",
+    "title": "Explanation-based generalization: A unifying view",
+    "venue": "Machine Learning",
+    "year": 1986,
+    "cites": 718,
+    "concepts_hint": "Published in Machine Learning; addresses generalization, computer science, perspective (graphical). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering T"
+  },
+  {
+    "id": "LE-AP-684",
+    "file": "le-ap-684-morality-2008.yaml",
+    "title": "Morality",
+    "venue": "Perspectives on Psychological Science",
+    "year": 2008,
+    "cites": 505,
+    "concepts_hint": "Published in Perspectives on Psychological Science; addresses morality, moral psychology, moral reasoning. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engine"
+  },
+  {
+    "id": "LE-AP-685",
+    "file": "le-ap-685-organization-behavior-1950.yaml",
+    "title": "The organization of behavior.",
+    "venue": "Journal of Consulting Psychology",
+    "year": 1950,
+    "cites": 6956,
+    "concepts_hint": "Published in Journal of Consulting Psychology; addresses psychology, cognitive psychology, social psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Eng"
+  },
+  {
+    "id": "LE-AP-687",
+    "file": "le-ap-687-defense-moral-1990.yaml",
+    "title": "In Defense of Moral Realism: Reply to Gabennesch",
+    "venue": "Child Development",
+    "year": 1990,
+    "cites": 104,
+    "concepts_hint": "Published in Child Development; addresses psychology, realism, moral realism. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors"
+  },
+  {
+    "id": "LE-AP-688",
+    "file": "le-ap-688-affect-culture-1993.yaml",
+    "title": "Affect, culture, and morality, or is it wrong to eat your dog?",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": 1993,
+    "cites": 1252,
+    "concepts_hint": "Published in Journal of Personality and Social Psychology; addresses affect (linguistics), psychology, morality. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning "
+  },
+  {
+    "id": "LE-AP-689",
+    "file": "le-ap-689-computational-explorations-2000.yaml",
+    "title": "Computational Explorations in Cognitive Neuroscience",
+    "venue": "The MIT Press eBooks",
+    "year": 2000,
+    "cites": 568,
+    "concepts_hint": "Published in The MIT Press eBooks; addresses cognitive science, cognitive neuroscience, neuroscience. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering"
+  },
+  {
+    "id": "LE-AP-690",
+    "file": "le-ap-690-making-insights-2022.yaml",
+    "title": "Making insights from educational psychology and educational technology research more useful for practice",
+    "venue": "Educational Psychologist",
+    "year": 2022,
+    "cites": 14,
+    "concepts_hint": "Published in Educational Psychologist; addresses generalizability theory, psychology, educational psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Eng"
+  },
+  {
+    "id": "LE-AP-691",
+    "file": "le-ap-691-moral-foundations-2013.yaml",
+    "title": "Moral Foundations Theory",
+    "venue": "Advances in experimental social psychology",
+    "year": 2013,
+    "cites": 1605,
+    "concepts_hint": "Published in Advances in experimental social psychology; addresses conceptualization, morality, social cognitive theory of morality. Quality- filtered from OpenAlex cross-seed expansion of the Goodell"
+  },
+  {
+    "id": "LE-AP-692",
+    "file": "le-ap-692-moderatormediator-variable-1986.yaml",
+    "title": "The moderator\u2013mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations.",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": 1986,
+    "cites": 69997,
+    "concepts_hint": "Published in Journal of Personality and Social Psychology; addresses moderation, psychology, social psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning E"
+  },
+  {
+    "id": "LE-AP-693",
+    "file": "le-ap-693-video-games-2003.yaml",
+    "title": "What video games have to teach us about learning and literacy",
+    "venue": "Computers in entertainment",
+    "year": 2003,
+    "cites": 5432,
+    "concepts_hint": "Published in Computers in entertainment; addresses dilemma, face (sociological concept), process (computing). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Eng"
+  },
+  {
+    "id": "LE-AP-694",
+    "file": "le-ap-694-harvard-business-1994.yaml",
+    "title": "Harvard business review",
+    "venue": "Journal of the American Dietetic Association",
+    "year": 1994,
+    "cites": 46510,
+    "concepts_hint": "Published in Journal of the American Dietetic Association; addresses medicine. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Author"
+  },
+  {
+    "id": "LE-AP-695",
+    "file": "le-ap-695-educational-psychologist-2005.yaml",
+    "title": "Educational psychologist",
+    "venue": "PsycEXTRA Dataset",
+    "year": 2005,
+    "cites": 363,
+    "concepts_hint": "Published in PsycEXTRA Dataset; addresses psychology, mathematics education, medical education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolk"
+  },
+  {
+    "id": "LE-AP-696",
+    "file": "le-ap-696-loss-words-1997.yaml",
+    "title": "At a Loss From Words: Verbal Overshadowing of Perceptual Memories",
+    "venue": "The Psychology of learning and motivation/The psychology of learning and motivation",
+    "year": 1997,
+    "cites": 158,
+    "concepts_hint": "Published in The Psychology of learning and motivation/The psychology of learning and motivation; addresses psychology, perception, balance (ability). Quality-filtered from OpenAlex cross-seed expansi"
+  },
+  {
+    "id": "LE-AP-697",
+    "file": "le-ap-697-cognitive-task-2019.yaml",
+    "title": "A Cognitive Task Analysis of Using Pictures To Support Pre-Algebraic Reasoning",
+    "venue": "Unknown Venue",
+    "year": 2019,
+    "cites": 35,
+    "concepts_hint": "Published in Unknown Venue; addresses task (project management), cognition, computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit"
+  },
+  {
+    "id": "LE-AP-698",
+    "file": "le-ap-698-design-research-2012.yaml",
+    "title": "Design Research on Learning and Thinking in Educational Settings",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 69,
+    "concepts_hint": "Published in Unknown Venue; addresses mathematics education, psychology, computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit co"
+  },
+  {
+    "id": "LE-AP-699",
+    "file": "le-ap-699-handbook-metacognition-2009.yaml",
+    "title": "Handbook of Metacognition in Education",
+    "venue": "Unknown Venue",
+    "year": 2009,
+    "cites": 1471,
+    "concepts_hint": "Published in Unknown Venue; addresses metacognition, psychology, mathematics education. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpu"
+  },
+  {
+    "id": "LE-AP-700",
+    "file": "le-ap-700-learning-motivation-2017.yaml",
+    "title": "Learning and Motivation in the Classroom",
+    "venue": "Unknown Venue",
+    "year": 2017,
+    "cites": 522,
+    "concepts_hint": "Published in Unknown Venue; addresses psychology, mathematics education, pedagogy. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Au"
+  },
+  {
+    "id": "LE-AP-701",
+    "file": "le-ap-701-culture-wars-1992.yaml",
+    "title": "Culture wars: the struggle to define America",
+    "venue": "Choice Reviews Online",
+    "year": 1992,
+    "cites": 1573,
+    "concepts_hint": "Published in Choice Reviews Online; addresses history, political science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pen"
+  },
+  {
+    "id": "LE-AP-702",
+    "file": "le-ap-702-theory-instruction-1982.yaml",
+    "title": "Theory of Instruction: Principles and Applications",
+    "venue": "Medical Entomology and Zoology",
+    "year": 1982,
+    "cites": 703,
+    "concepts_hint": "Published in Medical Entomology and Zoology; addresses computer science, mathematics education, psychology. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engin"
+  },
+  {
+    "id": "LE-AP-704",
+    "file": "le-ap-704-determination-factors-2006.yaml",
+    "title": "Determination of factors influencing the achievement of the first-year university students using data mining methods",
+    "venue": "Digital Access to Libraries (Universit\u00e9 catholique de Louvain (UCL), l'Universit\u00e9 de Namur (UNamur) ",
+    "year": 2006,
+    "cites": 113,
+    "concepts_hint": "Published in Digital Access to Libraries (Universit\u00e9 catholique de Louvain (UCL), l'Universit\u00e9 de Namur (UNamur) and the Universit\u00e9 Saint-Louis (USL-B)); addresses mathematics education, academic achi"
+  },
+  {
+    "id": "LE-AP-705",
+    "file": "le-ap-705-key-misconceptions-2008.yaml",
+    "title": "Key Misconceptions in Algebraic Problem Solving",
+    "venue": "eScholarship (California Digital Library)",
+    "year": 2008,
+    "cites": 55,
+    "concepts_hint": "Published in eScholarship (California Digital Library); addresses mistake, term (time), computer science. Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Enginee"
+  },
+  {
+    "id": "LE-AP-709",
+    "file": "le-ap-709-math-readiness-2020.yaml",
+    "title": "\u201cMath Readiness: Early Identification of Preschool Children Least Ready to Benefit from Formal Math Instruction in School",
+    "venue": "Proceedings of the International Academic Forum International Conference on Educ",
+    "year": 2020,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Betts, Anastasia, Khanh-Phuong Thai, Daniel Jacobs, and"
+  },
+  {
+    "id": "LE-AP-710",
+    "file": "le-ap-710-user-personality-2002.yaml",
+    "title": "\u201cThe User as a Personality",
+    "venue": "Unknown Venue",
+    "year": 2002,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Blomkvist, Stefan. \u201cThe User as a Personality.\u201d In Usin"
+  },
+  {
+    "id": "LE-AP-713",
+    "file": "le-ap-713-engineering-learning-2016.yaml",
+    "title": "\u201cEngineering Learning at Kaplan University",
+    "venue": "Unknown Venue",
+    "year": 2016,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Brown, Jessie and Martin Kurzweil. \u201cEngineering Learnin"
+  },
+  {
+    "id": "LE-AP-714",
+    "file": "le-ap-714-design-thinking-2008.yaml",
+    "title": "\u201cDesign Thinking",
+    "venue": "Unknown Venue",
+    "year": 2008,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Brown, Tim. \u201cDesign Thinking.\u201d Harvard Business Review "
+  },
+  {
+    "id": "LE-AP-716",
+    "file": "le-ap-716-kach-stephan-2017.yaml",
+    "title": "Kach, and Stephan M",
+    "venue": "Unknown Venue",
+    "year": 2017,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Busse, Christian, Andrew P. Kach, and Stephan M. Wagner"
+  },
+  {
+    "id": "LE-AP-718",
+    "file": "le-ap-718-proposal-policy-2011.yaml",
+    "title": "\u201cA Proposal for a Policy on the Ethical Care and Use of Cadavers and Their Tissues",
+    "venue": "Unknown Venue",
+    "year": 2011,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Champney, Thomas H. \u201cA Proposal for a Policy on the Eth"
+  },
+  {
+    "id": "LE-AP-720",
+    "file": "le-ap-720-farnsworth-lasana-2010.yaml",
+    "title": "Farnsworth, Lasana T",
+    "venue": "Unknown Venue",
+    "year": 2010,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Cikara, Mina, Rachel A. Farnsworth, Lasana T. Harris, a"
+  },
+  {
+    "id": "LE-AP-721",
+    "file": "le-ap-721-design-justice-2018.yaml",
+    "title": "\u201cDesign Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice",
+    "venue": "Proceedings of the Design Research Society",
+    "year": 2018,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Costanza-Chock, Sasha. \u201cDesign Justice: Towards an Inte"
+  },
+  {
+    "id": "LE-AP-722",
+    "file": "le-ap-722-see-httpsdesignjustice-2020.yaml",
+    "title": "See: https://designjustice",
+    "venue": "Unknown Venue",
+    "year": 2020,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: DESIGN JUSTICE RESOURCES \u2022 The Design Justice Network o"
+  },
+  {
+    "id": "LE-AP-723",
+    "file": "le-ap-723-interactiondesign-2018.yaml",
+    "title": "interaction-design",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: DESIGN THINKING RESOURCES \u2022 As described in the User-Ce"
+  },
+  {
+    "id": "LE-AP-725",
+    "file": "le-ap-725-fraser-arthur-1976.yaml",
+    "title": "Fraser, Arthur L",
+    "venue": "Unknown Venue",
+    "year": 1976,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Diener, Edward, Scott C. Fraser, Arthur L. Beaman, and "
+  },
+  {
+    "id": "LE-AP-726",
+    "file": "le-ap-726-taking-science-2007.yaml",
+    "title": "Taking Science to School: Learning and Teaching Science in Grades K-8",
+    "venue": "Unknown Venue",
+    "year": 2007,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Duschl, Richard A. Taking Science to School: Learning a"
+  },
+  {
+    "id": "LE-AP-729",
+    "file": "le-ap-729-kahn-alan-2013.yaml",
+    "title": "Kahn, Alan Borning, and Alina Huldtgren",
+    "venue": "Unknown Venue",
+    "year": 2013,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Friedman, Batya, Peter H. Kahn, Alan Borning, and Alina"
+  },
+  {
+    "id": "LE-AP-731",
+    "file": "le-ap-731-learning-sciences-2019.yaml",
+    "title": "\u201cLearning Sciences: Concepts for Learning Engineering",
+    "venue": "Proceedings of the 2019 Conference on Learning Engineering",
+    "year": 2019,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Goodell, Jim and Janet Kolodner. \u201cLearning Sciences: Co"
+  },
+  {
+    "id": "LE-AP-732",
+    "file": "le-ap-732-what-discovered-2019.yaml",
+    "title": "\u201cWhat We Discovered at the Roots of Learning Engineering",
+    "venue": "Proceedings of the 2019 Conference on Learning Engineering",
+    "year": 2019,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Goodell, Jim, Mark Lee, and Jodi Lis. \u201cWhat We Discover"
+  },
+  {
+    "id": "LE-AP-733",
+    "file": "le-ap-733-when-morality-2007.yaml",
+    "title": "\u201cWhen Morality Opposes Justice: Conservatives Have Moral Intuitions that Liberals May Not Recognize",
+    "venue": "Unknown Venue",
+    "year": 2007,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Haidt, Jonathan and Jesse Graham. \u201cWhen Morality Oppose"
+  },
+  {
+    "id": "LE-AP-735",
+    "file": "le-ap-735-after-action-2012.yaml",
+    "title": "\u201cAfter Action Review (AAR) Process: Nano Tools for Leaders",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Henshaw, Todd. \u201cAfter Action Review (AAR) Process: Nano"
+  },
+  {
+    "id": "LE-AP-737",
+    "file": "le-ap-737-anne-2007.yaml",
+    "title": "and Anne S",
+    "venue": "Unknown Venue",
+    "year": 2007,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: HUMAN- SYSTEMS INTEGRATION RESOURCES \u2022 Pew, Richard W. "
+  },
+  {
+    "id": "LE-AP-738",
+    "file": "le-ap-738-history-mental-2004.yaml",
+    "title": "\u201cThe History of Mental Models",
+    "venue": "Unknown Venue",
+    "year": 2004,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Johnson-Laird, PN. \u201cThe History of Mental Models.\u201d In P"
+  },
+  {
+    "id": "LE-AP-739",
+    "file": "le-ap-739-business-ethics-2005.yaml",
+    "title": "For Business Ethics, 1st ed",
+    "venue": "Unknown Venue",
+    "year": 2005,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Jones, Campbell, Ren\u00e9 Ten Bos, and Martin Parker. For B"
+  },
+  {
+    "id": "LE-AP-740",
+    "file": "le-ap-740-friendly-orange-2018.yaml",
+    "title": "\u201cThe Friendly Orange Glow: The Untold Story of the PLATO System and the Dawn of Cyberculture",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Jones, Steve. \u201cThe Friendly Orange Glow: The Untold Sto"
+  },
+  {
+    "id": "LE-AP-742",
+    "file": "le-ap-742-dennis-1993.yaml",
+    "title": ", and Dennis K",
+    "venue": "Unknown Venue",
+    "year": 1993,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Katzenbach, John R., and Dennis K. Smith. \u201cThe Discipli"
+  },
+  {
+    "id": "LE-AP-743",
+    "file": "le-ap-743-exploring-how-2019.yaml",
+    "title": "\u201cExploring How Teachers Support Students\u2019 Mathematical Learning in Computer-Directed Learning Environments",
+    "venue": "Unknown Venue",
+    "year": 2019,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Kessler, Aaron, Melissa Boston, and Mary Kay Stein. \u201cEx"
+  },
+  {
+    "id": "LE-AP-746",
+    "file": "le-ap-746-chad-2012.yaml",
+    "title": "Chad",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Lane, H. Chad. \u201cCognitive Models of Learning.\u201d In Encyc"
+  },
+  {
+    "id": "LE-AP-748",
+    "file": "le-ap-748-samuels-lee-2004.yaml",
+    "title": "Samuels, and Lee Ross",
+    "venue": "Unknown Venue",
+    "year": 2004,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Liberman, Varda, Steven M. Samuels, and Lee Ross. \u201cThe "
+  },
+  {
+    "id": "LE-AP-749",
+    "file": "le-ap-749-lessons-adult-2003.yaml",
+    "title": "\u201cLessons from Adult Education: Identifying and Exploring Emerging Ethical Issues in Technologically Enhanced Performance",
+    "venue": "Unknown Venue",
+    "year": 2003,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Mabry, Christie Knittel and Tony O\u2019Driscoll. \u201cLessons f"
+  },
+  {
+    "id": "LE-AP-750",
+    "file": "le-ap-750-judith-2016.yaml",
+    "title": "and Judith E",
+    "venue": "Unknown Venue",
+    "year": 2016,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Magargee, Suzanne D. and Judith E. Beauford. \u201cDo Explic"
+  },
+  {
+    "id": "LE-AP-751",
+    "file": "le-ap-751-dishonesty-honest-2008.yaml",
+    "title": "\u201cThe Dishonesty of Honest People: A Theory of SelfConcept Maintenance",
+    "venue": "Unknown Venue",
+    "year": 2008,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Mazar, Nina, On Amir, and Dan Ariely. \u201cThe Dishonesty o"
+  },
+  {
+    "id": "LE-AP-752",
+    "file": "le-ap-752-situation-respect-1970.yaml",
+    "title": "\u201cThe Situation with Respect to the Spacing of Repetitions and Memory",
+    "venue": "Unknown Venue",
+    "year": 1970,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Melton, Arthur W. \u201cThe Situation with Respect to the Sp"
+  },
+  {
+    "id": "LE-AP-753",
+    "file": "le-ap-753-behavioral-perspective-1991.yaml",
+    "title": "\u201cA Behavioral Perspective on College Teaching",
+    "venue": "Unknown Venue",
+    "year": 1991,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Michael, Jack. \u201cA Behavioral Perspective on College Tea"
+  },
+  {
+    "id": "LE-AP-755",
+    "file": "le-ap-755-benjamin-2014.yaml",
+    "title": ", Benjamin N",
+    "venue": "Unknown Venue",
+    "year": 2014,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Morford, Zachary H., Benjamin N. Witts, Kenneth J. Kill"
+  },
+  {
+    "id": "LE-AP-756",
+    "file": "le-ap-756-eric-van-2020.yaml",
+    "title": "and Eric van Dijk",
+    "venue": "Unknown Venue",
+    "year": 2020,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Mulder, Laetitia B. and Eric van Dijk. \u201cMoral Rationali"
+  },
+  {
+    "id": "LE-AP-758",
+    "file": "le-ap-758-teaching-user-1989.yaml",
+    "title": "\u201cTeaching User Interface Design Based on Usability Engineering",
+    "venue": "Unknown Venue",
+    "year": 1989,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Nielsen, Jakob and Rolf Molich. \u201cTeaching User Interfac"
+  },
+  {
+    "id": "LE-AP-759",
+    "file": "le-ap-759-testing-stereotype-2001.yaml",
+    "title": "\u201cTesting Stereotype Threat: Does Anxiety Explain Race and Sex Differences in Achievement?\u201d Contemporary Educational Psychology 26, no",
+    "venue": "Unknown Venue",
+    "year": 2001,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Osborne, Jason W. \u201cTesting Stereotype Threat: Does Anxi"
+  },
+  {
+    "id": "LE-AP-764",
+    "file": "le-ap-764-executing-change-2018.yaml",
+    "title": "\u201cExecuting the Change to Learning Engineering at Scale",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Saxberg, Bror. \u201cExecuting the Change to Learning Engine"
+  },
+  {
+    "id": "LE-AP-766",
+    "file": "le-ap-766-socialcognitive-barriers-2015.yaml",
+    "title": "\u201cSocial-Cognitive Barriers to Ethical Authorship",
+    "venue": "Unknown Venue",
+    "year": 2015,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Schoenherr, Jordan Richard. \u201cSocial-Cognitive Barriers "
+  },
+  {
+    "id": "LE-AP-767",
+    "file": "le-ap-767-moral-economies-2019.yaml",
+    "title": "\u201cMoral Economies and Codes of Conduct: The Social Organization of Canadian Experimental Psychology",
+    "venue": "Unknown Venue",
+    "year": 2019,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Schoenherr, Jordan. \u201cMoral Economies and Codes of Condu"
+  },
+  {
+    "id": "LE-AP-768",
+    "file": "le-ap-768-reflective-design-2005.yaml",
+    "title": "Reflective Design",
+    "venue": "Proceedings of the 4th Decennial Conference on Critical Computing: Between Sense",
+    "year": 2005,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Sengers, Phoebe, Kirsten Boehner, Shay David, and Josep"
+  },
+  {
+    "id": "LE-AP-770",
+    "file": "le-ap-770-rodriguez-2015.yaml",
+    "title": "Rodriguez",
+    "venue": "Unknown Venue",
+    "year": 2015,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Shakman, Karen and Sheila M. Rodriguez. Logic Models fo"
+  },
+  {
+    "id": "LE-AP-771",
+    "file": "le-ap-771-ara-norenzayan-2007.yaml",
+    "title": "and Ara Norenzayan",
+    "venue": "Unknown Venue",
+    "year": 2007,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Shariff, Azim F. and Ara Norenzayan. \u201cGod is Watching Y"
+  },
+  {
+    "id": "LE-AP-772",
+    "file": "le-ap-772-case-fmea-2008.yaml",
+    "title": "\u201cA Case of FMEA Implementation in the Educational Sector and Integration with CRM and QFD Concepts",
+    "venue": "Unknown Venue",
+    "year": 2008,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Sinthavalai, Runchana and Napisporn Memongkol. \u201cA Case "
+  },
+  {
+    "id": "LE-AP-773",
+    "file": "le-ap-773-cake-broccoli-2019.yaml",
+    "title": "\u201cCake or Broccoli? Recency Biases Children\u2019s Verbal Responses",
+    "venue": "Unknown Venue",
+    "year": 2019,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Sumner, Emily, Erika DeAngelis, Mara Hyatt, Noah Goodma"
+  },
+  {
+    "id": "LE-AP-774",
+    "file": "le-ap-774-enhancing-human-2019.yaml",
+    "title": "\u201cEnhancing Human Learning via Spaced Repetition Optimization",
+    "venue": "Proceedings of the National Academy of Sciences 116",
+    "year": 2019,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Tabibian, Behzad, Utkarsh Upadhyay, Abir De, Ali Zareza"
+  },
+  {
+    "id": "LE-AP-775",
+    "file": "le-ap-775-new-new-1986.yaml",
+    "title": "\u201cThe New New Product Development Game",
+    "venue": "Unknown Venue",
+    "year": 1986,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Takeuchi, Hirotaka and Ikujiro Nonaka. \u201cThe New New Pro"
+  },
+  {
+    "id": "LE-AP-777",
+    "file": "le-ap-777-design-processes-2010.yaml",
+    "title": "The design processes these firms were using were quite different from standard product design, focusing primarily on designing experiences for consumers in addition to products themselves",
+    "venue": "Unknown Venue",
+    "year": 2010,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: The phrase \u201cdesign thinking\u201d grew out of a merger betwe"
+  },
+  {
+    "id": "LE-AP-778",
+    "file": "le-ap-778-pervan-stephen-2018.yaml",
+    "title": "Pervan, Stephen J",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Trischler, Jakob, Simon J. Pervan, Stephen J. Kelly, an"
+  },
+  {
+    "id": "LE-AP-779",
+    "file": "le-ap-779-failure-modes-2012.yaml",
+    "title": "\u201cFailure Modes and Effects Analysis (FMEA)",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Venuk, Cecelia Marie. \u201cFailure Modes and Effects Analys"
+  },
+  {
+    "id": "LE-AP-780",
+    "file": "le-ap-780-money-priming-2015.yaml",
+    "title": "\u201cMoney Priming Can Change People\u2019s Thoughts, Feelings, Motivations, and Behaviors: An Update on 10 Years of Experiments",
+    "venue": "Unknown Venue",
+    "year": 2015,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Vohs, Kathleen D. \u201cMoney Priming Can Change People\u2019s Th"
+  },
+  {
+    "id": "LE-AP-781",
+    "file": "le-ap-781-disaffordances-dysaffordances-2017.yaml",
+    "title": "\u201cDisaffordances and Dysaffordances in Code",
+    "venue": "Unknown Venue",
+    "year": 2017,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Wittkower, DE. \u201cDisaffordances and Dysaffordances in Co"
+  },
+  {
+    "id": "LE-AP-782",
+    "file": "le-ap-782-principles-antidiscriminatory-2016.yaml",
+    "title": "\u201cPrinciples of Anti-Discriminatory Design",
+    "venue": "Proceedings of the 2016 IEEE International Symposium on Ethics in Engineering",
+    "year": 2016,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Wittkower, Dylan E. \u201cPrinciples of Anti-Discriminatory "
+  },
+  {
+    "id": "LE-AP-783",
+    "file": "le-ap-783-robert-2005.yaml",
+    "title": ", and Robert L",
+    "venue": "Unknown Venue",
+    "year": 2005,
+    "cites": 0,
+    "concepts_hint": "Cited in Goodell & Kolodner, Learning Engineering Toolkit. Addresses T01 topics in learning engineering. Full bibliographic details in citation: Zucker, Kenneth J., and Robert L. Spitzer. \u201cWas the Gen"
+  }
+]

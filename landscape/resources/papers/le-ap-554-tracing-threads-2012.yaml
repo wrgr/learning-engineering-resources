@@ -1,19 +1,20 @@
 resource_id: LE-AP-554
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Tracing the threads: How five moral concerns (especially Purity) help explain culture war attitudes"
+status: non_le
+title: 'Tracing the threads: How five moral concerns (especially Purity) help explain culture war attitudes'
 authors: []
 year: 2012
 venue: Journal of Research in Personality
-doi: "10.1016/j.jrp.2012.01.006"
+doi: 10.1016/j.jrp.2012.01.006
 tier: contemporary
 citation_count_approx: 680
 cross_seed_score: 2
-openalex_id: "W2138131209"
-significance: >
-  Published in Journal of Research in Personality; addresses ideology, social
-  psychology, psychology. Quality-filtered from OpenAlex cross-seed expansion of
-  the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
-  OpenAlex enrichment.
+openalex_id: W2138131209
+significance: 'Published in Journal of Research in Personality; addresses ideology, social psychology, psychology.
+  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
+  Authors pending OpenAlex enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

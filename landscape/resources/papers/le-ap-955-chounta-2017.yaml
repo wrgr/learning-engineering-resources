@@ -1,0 +1,23 @@
+resource_id: LE-AP-955
+content_type: AP
+source: openalex_expansion
+status: seed
+title: '“From Making to Learning”: introducing Dev Camps as an educational paradigm for Re-inventing Problem-based
+  Learning'
+authors:
+- Irene‐Angelica Chounta
+- Sven Manske
+- H. Ulrich Hoppe
+year: 2017
+venue: International Journal of Educational Technology in Higher Education
+doi: 10.1186/s41239-017-0061-2
+tier: contemporary
+citation_count_approx: 28
+cross_seed_score: 1
+openalex_id: W2620596436
+significance: Published in International Journal of Educational Technology in Higher Education. LE-filtered expansion
+  seeded from conference-chair authorship (Irene-Angelica Chounta). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T03

@@ -1,0 +1,25 @@
+resource_id: LE-PP-210
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Janet Kolodner
+affiliation: Boston College
+era: contemporary
+role: Co-editor, Learning Engineering Toolkit; case-based reasoning pioneer; Regents' Professor Emerita, Georgia
+  Tech.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Co-editor, Learning Engineering
+  Toolkit; case-based reasoning pioneer; Regents' Professor Emerita, Georgia Tech.
+key_works:
+- 'Problem-Based Learning Meets Case-Based Reasoning in the Middle-School Science Classroom: Putting Learning by
+  Design(tm) Into Practice (Journal of the Learning Sciences, 2003)'
+- Problem-based learning meets case-based reasoning (International Conference of Learning Sciences, 1996)
+- 'Systematizing Scaffolding for Problem-Based Learning: A View from Case-Based Reasoning (Interdisciplinary Journal
+  of Problem-based Learning, 2016)'
+- Scaffolding the Development of an Inquiry-Based (Science) Classroom (Psychology Press eBooks, 2013)
+- Case-Based Reasoning (Cambridge University Press eBooks, 2005)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5032994110
+openalex_id: https://openalex.org/A5032994110
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5032994110; verify on review.

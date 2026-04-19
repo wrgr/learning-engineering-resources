@@ -1,0 +1,25 @@
+resource_id: LE-AP-875
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Empowering online teachers through predictive learning analytics
+authors:
+- Christothea Herodotou
+- Martin Hlosta
+- Avinash Boroowa
+- Bart Rienties
+- Zdeněk Zdráhal
+- Chrysoula Mangafa
+year: 2019
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.12853
+tier: contemporary
+citation_count_approx: 100
+cross_seed_score: 1
+openalex_id: W2956489706
+significance: Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Bart Rienties). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T11
+- T17

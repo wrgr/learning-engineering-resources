@@ -1,0 +1,23 @@
+resource_id: LE-AP-832
+content_type: AP
+source: openalex_expansion
+status: seed
+title: The current landscape of learning analytics in higher education
+authors:
+- Olga Viberg
+- Mathias Hatakka
+- Olof Bälter
+- Anna Mavroudi
+year: 2018
+venue: Computers in Human Behavior
+doi: 10.1016/j.chb.2018.07.027
+tier: highly_cited
+citation_count_approx: 666
+cross_seed_score: 1
+openalex_id: W2885000341
+significance: Published in Computers in Human Behavior. LE-filtered expansion seeded from conference-chair authorship
+  (Olga Viberg). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T14
+- T17

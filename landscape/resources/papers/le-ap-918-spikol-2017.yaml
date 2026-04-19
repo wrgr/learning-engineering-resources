@@ -1,0 +1,23 @@
+resource_id: LE-AP-918
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Estimation of Success in Collaborative Learning Based on Multimodal Learning Analytics Features
+authors:
+- Daniel Spikol
+- Emanuele Ruffaldi
+- Lorenzo Landolfi
+- Mutlu Cukurova
+year: 2017
+venue: Unknown Venue
+doi: 10.1109/icalt.2017.122
+tier: contemporary
+citation_count_approx: 47
+cross_seed_score: 1
+openalex_id: W2745122982
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Daniel
+  Spikol). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T08
+- T11

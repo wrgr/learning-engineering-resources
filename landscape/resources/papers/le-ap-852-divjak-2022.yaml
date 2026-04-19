@@ -1,0 +1,24 @@
+resource_id: LE-AP-852
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Flipped classrooms in higher education during the COVID-19 pandemic: findings and future research recommendations'
+authors:
+- Blaženka Divjak
+- Bart Rienties
+- Francisco Iniesto
+- Petra Vondra
+- Mirza Žižak
+year: 2022
+venue: International Journal of Educational Technology in Higher Education
+doi: 10.1186/s41239-021-00316-4
+tier: contemporary
+citation_count_approx: 203
+cross_seed_score: 1
+openalex_id: W4214754653
+significance: Published in International Journal of Educational Technology in Higher Education. LE-filtered expansion
+  seeded from conference-chair authorship (Bart Rienties). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T11
+- T17

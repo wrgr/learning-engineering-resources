@@ -1,0 +1,26 @@
+resource_id: LE-PP-229
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Richard Tong
+affiliation: Squirrel AI Learning
+era: contemporary
+role: Chief Architect, Squirrel AI Learning; adaptive learning at scale.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Chief Architect, Squirrel AI
+  Learning; adaptive learning at scale.
+key_works:
+- The Oxygen Uptake Response Running to Exhaustion at Peak Treadmill Speed (Medicine & Science in Sports & Exercise,
+  2003)
+- The Effects of Acute Creatine Supplementation on Multiple Sprint Cycling and Running Performance in Rugby Players
+  (The Journal of Strength and Conditioning Research, 2005)
+- Relationship between VO(2max) and repeated sprint ability using non-motorised treadmill ergometry (PubMed, 2007)
+- The Effect of Warm-Up on High-Intensity, Intermittent Running Using Nonmotorized Treadmill Ergometry (The Journal
+  of Strength and Conditioning Research, 2008)
+- A 1-day maximal lactate steady-state assessment protocol for trained runners (Medicine & Science in Sports & Exercise,
+  1999)
+primary_topic: T00
+secondary_topics: []
+url: ''
+openalex_id: https://openalex.org/A5108537779
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related
+  top works — likely wrong person; populate manually. Cleaned dup/non-LE entries during audit.

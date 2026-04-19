@@ -2,18 +2,21 @@ resource_id: LE-AP-499
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Building a recommender agent for e-learning systems"
+title: Building a recommender agent for e-learning systems
 authors: []
 year: 2003
 venue: Unknown Venue
-doi: "10.1109/cie.2002.1185862"
+doi: 10.1109/cie.2002.1185862
 tier: contemporary
 citation_count_approx: 388
 cross_seed_score: 2
-openalex_id: "W2101780042"
-significance: >
-  Published in Unknown Venue; addresses recommender system, computer science,
-  world wide web. Quality-filtered from OpenAlex cross-seed expansion of the
-  Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
+openalex_id: W2101780042
+significance: 'Published in Unknown Venue; addresses recommender system, computer science, world wide web. Quality-filtered
+  from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending
   OpenAlex enrichment.
-primary_topic: T01
+
+  '
+primary_topic: T11
+secondary_topics:
+- T01
+- T07

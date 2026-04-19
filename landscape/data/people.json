@@ -114,7 +114,9 @@
     ],
     "key_works": [
       "Learning Engineering Toolkit (co-editor, Taylor & Francis, 2023)",
-      "Generalizable Learning Engineering Adoption Maturity Model (with Blake-Plock et al., 2024/2025)"
+      "Generalizable Learning Engineering Adoption Maturity Model (with Blake-Plock et al., 2024/2025)",
+      "Learning Engineering Applies the Learning Sciences (2022)",
+      "Chapter 2 Learning Engineering Applies the Learning Sciences (2023)"
     ],
     "primary_topic": "T16",
     "secondary_topics": [
@@ -122,7 +124,8 @@
       "T11"
     ],
     "url": "https://qip.com",
-    "notes": "Core ICICLE community figure. Anchor for T16 (standards/professional)."
+    "notes": "Core ICICLE community figure. Anchor for T16 (standards/professional). Cleaned dup/non-LE entries during audit.",
+    "openalex_id": "https://openalex.org/A5015893890"
   },
   {
     "resource_id": "LE-PP-014",
@@ -266,7 +269,10 @@
     ],
     "key_works": [
       "ICICLE Body of Knowledge — Design for Learning chapter contributions",
-      "IEEE ICICLE Design for Learning SIG practitioner resources"
+      "IEEE ICICLE Design for Learning SIG practitioner resources",
+      "Hands Back, Hands Forward for Indigenous Storywork as Methodology (2019)",
+      "Visioning as an Integral Element to Understanding Indigenous Learners’ Transition to University (Canadian Journal of Higher Education, 2017)",
+      "Bending the box : learning from Indigenous students transitioning from high school to university (cIRcle (University of British Columbia), 2014)"
     ],
     "primary_topic": "T03",
     "secondary_topics": [
@@ -274,7 +280,8 @@
       "T16"
     ],
     "url": "https://icicle.ieee.org",
-    "notes": "ICICLE community lead. Design for Learning SIG. Corporate L&D practitioner."
+    "notes": "ICICLE community lead. Design for Learning SIG. Corporate L&D practitioner.",
+    "openalex_id": "https://openalex.org/A5110490075"
   },
   {
     "resource_id": "LE-PP-060",
@@ -396,17 +403,21 @@
     "affiliation": "Carnegie Mellon University; IEEE ICICLE — Tools SIG",
     "years": "active 2010s–present",
     "era": "contemporary",
-    "role": "LE tools researcher; ICICLE Tools SIG co-chair",
-    "description": "Co-chair of the Tools SIG within IEEE ICICLE, curating and evaluating learning engineering tools and technology stacks. CMU affiliation connects research-grade LE tools (OpenSimon, DataShop/LearnSphere) with ICICLE's practitioner community.\n",
+    "role": "LE tools researcher; ICICLE Tools SIG co-chair; ICICLE 2023 Conference Chair",
+    "description": "Co-chair of the Tools SIG within IEEE ICICLE, curating and evaluating learning engineering tools and technology stacks. CMU affiliation connects research-grade LE tools (OpenSimon, DataShop/LearnSphere) with ICICLE's practitioner community. Chaired the 2023 ICICLE Annual Meeting held at CMU.\n",
     "key_contributions": [
       "Co-chairs the Tools SIG (ICICLE), maintaining curated guidance on tools supporting the LE workflow",
+      "Chaired the 2023 IEEE ICICLE Annual Meeting at Carnegie Mellon University",
       "Bridges CMU's research-grade LE tooling (OpenSimon, LearnSphere) with broader practitioner communities",
       "Contributes frameworks for tool evaluation, selection, and integration in learning engineering projects",
       "Connects software engineering and educational technology perspectives within ICICLE's tools guidance"
     ],
     "key_works": [
       "ICICLE Body of Knowledge — Tools chapter contributions",
-      "IEEE ICICLE Tools SIG practitioner guidance"
+      "IEEE ICICLE Tools SIG practitioner guidance",
+      "Learning Engineering Uses Data (Part 2): Analytics (2022)",
+      "Learning Engineering Uses Data (Part 1): Instrumentation (2022)",
+      "Learning Engineering Perspectives for Supporting Educational Systems (Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2023)"
     ],
     "primary_topic": "T11",
     "secondary_topics": [
@@ -414,7 +425,8 @@
       "T16"
     ],
     "url": "https://icicle.ieee.org",
-    "notes": "ICICLE community lead. Tools SIG. CMU connection."
+    "notes": "ICICLE community lead. Tools SIG. ICICLE 2023 Conference Chair. CMU connection.",
+    "openalex_id": "https://openalex.org/A5076655580"
   },
   {
     "resource_id": "LE-PP-065",
@@ -581,7 +593,8 @@
       "Bridges pK-12 educational practice with evidence-based LE methods and tools"
     ],
     "key_works": [
-      "IEEE ICICLE pK-12 MIG practitioner resources and frameworks"
+      "IEEE ICICLE pK-12 MIG practitioner resources and frameworks",
+      "Using the Learning Engineering Evidence and Decision (LEED) Tracker in a pK-12 Context: A Metacognitive Journey (2025)"
     ],
     "primary_topic": "T10",
     "secondary_topics": [
@@ -589,7 +602,8 @@
       "T16"
     ],
     "url": "https://icicle.ieee.org",
-    "notes": "ICICLE community lead. pK-12 MIG."
+    "notes": "ICICLE community lead. pK-12 MIG.",
+    "openalex_id": "https://openalex.org/A5101890042"
   },
   {
     "resource_id": "LE-PP-071",
@@ -609,7 +623,11 @@
       "Bridges higher education research with K-12 instructional technology implementation"
     ],
     "key_works": [
-      "IEEE ICICLE pK-12 MIG practitioner resources"
+      "IEEE ICICLE pK-12 MIG practitioner resources",
+      "Pharmaceutical and personal care products (PPCPs) in urban receiving waters (Environmental Pollution, 2006)",
+      "Incidence of heavy metals in street surface sediments: Solubility and grain size studies (Water Air & Soil Pollution, 1982)",
+      "Sustainable surface water management and green infrastructure in UK urban catchment planning (Journal of Environmental Planning and Management, 2012)",
+      "Urban Drainage – Impacts on Receiving Water Quality (Water Science & Technology, 1993)"
     ],
     "primary_topic": "T10",
     "secondary_topics": [
@@ -617,7 +635,8 @@
       "T16"
     ],
     "url": "https://icicle.ieee.org",
-    "notes": "ICICLE community lead. pK-12 MIG. Dartmouth affiliation."
+    "notes": "ICICLE community lead. pK-12 MIG. Dartmouth affiliation.",
+    "openalex_id": "https://openalex.org/A5110892745"
   },
   {
     "resource_id": "LE-PP-072",
@@ -693,7 +712,10 @@
     ],
     "key_works": [
       "Liu et al. — Toward a data-driven approach to course sequencing in engineering education (ASEE, 2020)",
-      "MIT LEAP Group technical reports on concept prerequisites and curriculum analytics"
+      "MIT LEAP Group technical reports on concept prerequisites and curriculum analytics",
+      "Structure in the COBE differential microwave radiometer first-year maps (The Astrophysical Journal, 1992)",
+      "Four-Year [ITAL]COBE[/ITAL] DMR Cosmic Microwave Background Observations: Maps and Basic Results (The Astrophysical Journal, 1996)",
+      "The Physics of the B Factories (The European Physical Journal C, 2014)"
     ],
     "primary_topic": "T02",
     "secondary_topics": [
@@ -701,7 +723,8 @@
       "T11"
     ],
     "url": "https://leap.mit.edu/",
-    "notes": "MIT LEAP Group PI. Engineering education LE practitioner."
+    "notes": "MIT LEAP Group PI. Engineering education LE practitioner.",
+    "openalex_id": "https://openalex.org/A5050242178"
   },
   {
     "resource_id": "LE-PP-082",
@@ -896,16 +919,19 @@
     "years": "1943–1999",
     "era": "expansion",
     "role": "Pioneer of design-based research and collaborative learning environments",
-    "description": "Educational psychologist and pioneer of design-based research (DBR) and collaborative learning. Her 'Design Experiments' (JLS, 1992) is the most-cited paper in the learning sciences. Co-created 'Fostering Communities of Learners', an influential model for scaffolded inquiry-based learning environments. Demonstrated how engineered classroom environments can simultaneously serve as research sites.",
+    "description": "Educational psychologist and pioneer of design-based research (DBR) and collaborative learning. Her 'Design Experiments' (JLS, 1992) is the most-cited paper in the learning sciences. Co-created 'Fostering Communities of Learners', an influential model for scaffolded inquiry-based learning environments. Demonstrated how engineered classroom environments can simultaneously serve as research sites.\n",
     "key_contributions": [
       "Established design-based research (DBR) as the canonical methodology for testing learning interventions in authentic contexts",
-      "Design Experiments' (JLS, 1992) is the most-cited paper in the field of learning sciences (2,800+ citations)",
+      "'Design Experiments' (JLS, 1992) is the most-cited paper in the field of learning sciences (2,800+ citations)",
       "Co-created 'Fostering Communities of Learners' — an influential model for scaffolded, inquiry-based learning environments",
       "Demonstrated how engineered classroom environments could simultaneously serve as research sites"
     ],
     "key_works": [
       "Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings (JLS, 1992)",
-      "Guided Discovery in a Community of Learners (1994)"
+      "Guided Discovery in a Community of Learners (1994)",
+      "Rating the Importance of Structural Units of Prose Passages: A Problem of Metacognitive Development (Child Development, 1977)",
+      "Metacognitive Development and Reading (2017)",
+      "Metacognition reconsidered: Implications for intervention research (Journal of Abnormal Child Psychology, 1985)"
     ],
     "primary_topic": "T17",
     "secondary_topics": [
@@ -913,7 +939,8 @@
       "T01"
     ],
     "url": "https://en.wikipedia.org/wiki/Ann_Brown_(psychologist)",
-    "notes": "DBR originator. Fostering Communities of Learners. Core T17."
+    "notes": "DBR originator. Fostering Communities of Learners. Core T17. Cleaned dup/non-LE entries during audit. (venue-cleaned)",
+    "openalex_id": "https://openalex.org/A5103485690"
   },
   {
     "resource_id": "LE-PP-095",
@@ -934,7 +961,8 @@
     ],
     "key_works": [
       "Computer Support for Knowledge-Building Communities (with Bereiter, JLS, 1994)",
-      "Knowledge Building: Theory, Pedagogy, and Technology (2006)"
+      "Knowledge Building: Theory, Pedagogy, and Technology (2006)",
+      "The CSILE Project: Trying to Bring the Classroom into World 3 (The MIT Press eBooks, 1994)"
     ],
     "primary_topic": "T06",
     "secondary_topics": [
@@ -942,7 +970,8 @@
       "T17"
     ],
     "url": "https://ikit.org/marlene-scardamalia/",
-    "notes": "Knowledge Forum / CSILE. CSCL pioneer."
+    "notes": "Knowledge Forum / CSILE. CSCL pioneer.",
+    "openalex_id": "https://openalex.org/A5029252276"
   },
   {
     "resource_id": "LE-PP-096",
@@ -954,10 +983,10 @@
     "years": "active 1980s–present",
     "era": "contemporary",
     "role": "Pioneer of immersive learning environments; hybrid education researcher",
-    "description": "Pioneer of immersive learning environments and hybrid education. 'Immersive interfaces for engagement and learning' (Science, 2009) has thousands of citations. Co-edited Learning Engineering for Online Education (Routledge, 2019) — the field's first major book. Post-pandemic work framed hybrid learning not as emergency measure but as optimal future state. Directed multiple NSF and DoE grants applying LE principles to K-12 and higher education.",
+    "description": "Pioneer of immersive learning environments and hybrid education. 'Immersive interfaces for engagement and learning' (Science, 2009) has thousands of citations. Co-edited Learning Engineering for Online Education (Routledge, 2019) — the field's first major book. Post-pandemic work framed hybrid learning not as emergency measure but as optimal future state. Directed multiple NSF and DoE grants applying LE principles to K-12 and higher education.\n",
     "key_contributions": [
       "Established engineering parameters for immersive virtual environments (VR/AR) in STEM education",
-      "Immersive interfaces for engagement and learning' (Science, 2009) has thousands of citations",
+      "'Immersive interfaces for engagement and learning' (Science, 2009) has thousands of citations",
       "Co-edited Learning Engineering for Online Education (Routledge, 2019) — the field's first major book",
       "Post-pandemic work framed hybrid learning not as emergency measure but as optimal future state",
       "Directed multiple NSF and DoE grants applying LE principles to K-12 and higher education"
@@ -991,11 +1020,15 @@
       "Built E-TRIALS within ASSISTments — a platform for running randomized controlled experiments at scale in real classrooms",
       "Pioneered the 'crowdsourcing' of instructional design through teacher-authored hint sequences in ASSISTments",
       "Demonstrated that formative assessment integrated with intelligent hints improves learning outcomes significantly",
-      "Research spans educational data mining, learning analytics, and optimization of student learning pathways"
+      "Research spans educational data mining, learning analytics, and optimization of student learning pathways",
+      "Program Co-Chair, ACM Learning @ Scale 2025 (Palermo, Italy)"
     ],
     "key_works": [
       "ASSISTments: Helping Mentor Students While Providing Teachers Feedback (ITS, 2004)",
-      "The Doer Effect: Replicating Findings that Doing Causes Learning (EDM, 2018)"
+      "The Doer Effect: Replicating Findings that Doing Causes Learning (EDM, 2018)",
+      "Population validity for educational data mining models: A case study in affect detection (British Journal of Educational Technology, 2014)",
+      "Predicting College Enrollment from Student Interaction with an Intelligent Tutoring System in Middle School (Educational Data Mining, 2013)",
+      "Does Time Matter? Modeling the Effect of Time with Bayesian Knowledge Tracing (Educational Data Mining, 2011)"
     ],
     "primary_topic": "T06",
     "secondary_topics": [
@@ -1003,7 +1036,8 @@
       "T17"
     ],
     "url": "https://www.wpi.edu/people/faculty/nth",
-    "notes": "ASSISTments platform. Large-scale RCT experimentation in classrooms."
+    "notes": "ASSISTments platform. Large-scale RCT experimentation in classrooms.",
+    "openalex_id": "https://openalex.org/A5078998782"
   },
   {
     "resource_id": "LE-PP-098",
@@ -1052,7 +1086,10 @@
     ],
     "key_works": [
       "Intelligent tutoring systems (with Koedinger & Anderson, HCI Handbook, 1997)",
-      "Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge (User Modeling and User-Adapted Interaction, 1994)"
+      "Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge (User Modeling and User-Adapted Interaction, 1994)",
+      "Cognitive tutors : technology bringing learning science to the classroom (HAL (Le Centre pour la Communication Scientifique Directe), 2006)",
+      "Cognitive Tutors: Lessons Learned (Journal of the Learning Sciences, 1995)",
+      "Off-task behavior in the cognitive tutor classroom (2004)"
     ],
     "primary_topic": "T06",
     "secondary_topics": [
@@ -1060,7 +1097,8 @@
       "T01"
     ],
     "url": "https://www.hcii.cmu.edu/people/albert-corbett",
-    "notes": "BKT originator. Core ITS student modelling figure."
+    "notes": "BKT originator. Core ITS student modelling figure.",
+    "openalex_id": "https://openalex.org/A5105884325"
   },
   {
     "resource_id": "LE-PP-140",
@@ -1545,7 +1583,7 @@
     "source": "curated",
     "status": "APPROVED",
     "name": "Erin Walker",
-    "affiliation": "Arizona State University (formerly Carnegie Mellon University, HCII)",
+    "affiliation": "University of Pittsburgh (formerly Arizona State University; Carnegie Mellon University, HCII)",
     "years": "1980–present",
     "era": "contemporary",
     "role": "ITS and peer-tutoring researcher; collaborative learning scaffolding",
@@ -1555,7 +1593,8 @@
       "Showed that intelligent support for peer tutoring outperforms unscaffolded peer tutoring and approaches one-on-one ITS",
       "Investigated how students learn from overhearing dialogues in virtual tutoring sessions",
       "Applied conversational scaffolding to CSCL contexts using dialogue-based ITS agents",
-      "Bridges CMU HCII cognitive tutor lineage with ASU's human systems and collaborative learning traditions"
+      "Bridges CMU HCII cognitive tutor lineage with ASU's human systems and collaborative learning traditions",
+      "Program Co-Chair, AIED 2025 (Palermo, Italy)"
     ],
     "key_works": [
       "Adaptive intelligent support to improve peer tutoring in CS (AIED, 2011)",
@@ -1587,7 +1626,8 @@
       "Co-developed Coh-Metrix — the most widely used computational tool for analyzing textual cohesion, readability, and discourse structure",
       "Co-led Writing Pal — the first ITS for writing strategy instruction with automated essay scoring feedback",
       "Developed a comprehensive model of reading comprehension integrating memory, inference, and strategy components",
-      "Most-cited ASU learning engineering researcher; moved to USC ~2018"
+      "Most-cited ASU learning engineering researcher; moved to USC ~2018",
+      "Conference Co-Chair, IEEE ICICLE 2024 (Tempe, AZ) — bridged research-ITS and practitioner LE communities"
     ],
     "key_works": [
       "iSTART: Interactive strategy training for active reading and thinking (JEP Applied, 2004)",
@@ -1680,8 +1720,8 @@
     "affiliation": "Open University of the Netherlands",
     "years": "1950–present",
     "era": "contemporary",
-    "role": "CLT applied to collaboration; co-author of 'Why Minimal Guidance Fails",
-    "description": "Co-authored 'Why Minimal Guidance During Instruction Does Not Work' (2006) — the most-cited critique of discovery and problem-based learning (6,800+ citations). Extended Cognitive Load Theory to collaborative learning. Co-authored How Learning Happens with Carl Hendrick and the 4C/ID model with van Merriënboer.",
+    "role": "CLT applied to collaboration; co-author of 'Why Minimal Guidance Fails'",
+    "description": "Co-authored 'Why Minimal Guidance During Instruction Does Not Work' (2006) — the most-cited critique of discovery and problem-based learning (6,800+ citations). Extended Cognitive Load Theory to collaborative learning. Co-authored How Learning Happens with Carl Hendrick and the 4C/ID model with van Merriënboer.\n",
     "key_contributions": [
       "Co-authored 'Why Minimal Guidance During Instruction Does Not Work' — the most-cited critique of discovery and problem-based learning (6,800+ citations)",
       "Extended Cognitive Load Theory to collaborative learning, showing that collaboration can increase or decrease load depending on design",
@@ -1701,7 +1741,7 @@
       "T15"
     ],
     "url": "https://www.paulkirschner.nl/",
-    "notes": "Why Minimal Guidance Fails'. CLT for collaboration. How Learning Happens."
+    "notes": "'Why Minimal Guidance Fails'. CLT for collaboration. How Learning Happens."
   },
   {
     "resource_id": "LE-PP-160",
@@ -1719,7 +1759,8 @@
       "Established the principle that 'learning analytics should not promote one-size-fits-all' — foundational for equity-aware LE system design",
       "Applied process mining techniques to collaborative learning data, revealing learning strategy patterns invisible to aggregate statistics",
       "Demonstrated that analytics without theory produce misleading conclusions about learning",
-      "Critical voice ensuring LE analytics systems remain grounded in learning science, not just data science"
+      "Critical voice ensuring LE analytics systems remain grounded in learning science, not just data science",
+      "Program Co-Chair, LAK 2024 (Kyoto, Japan)"
     ],
     "key_works": [
       "Let's not forget: learning analytics are about learning (TechTrends, 2015)",
@@ -1734,5 +1775,2184 @@
     ],
     "url": "https://www.monash.edu/education/staff/dragan-gasevic",
     "notes": "LAK and SoLAR co-founder. Analytics must serve learning theory."
+  },
+  {
+    "resource_id": "LE-PP-200",
+    "content_type": "PP",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "William Gray-Roncal",
+    "affiliation": "Johns Hopkins University — School of Education / APL",
+    "role": "Faculty, JHU MEd Learning Engineering concentration",
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T02",
+      "T13"
+    ],
+    "url": "",
+    "description": "Faculty in the Learning Engineering concentration within the JHU MEd in Learning Design and Technology. Contributes to the LENS program's focus on human capability development as a system-level engineering challenge."
+  },
+  {
+    "resource_id": "LE-PP-201",
+    "content_type": "PP",
+    "source": "mdx_backfill",
+    "status": "APPROVED",
+    "name": "James Diamond",
+    "affiliation": "Johns Hopkins University — School of Education",
+    "role": "Faculty, JHU MEd Learning Engineering concentration",
+    "primary_topic": "T16",
+    "secondary_topics": [
+      "T02",
+      "T10"
+    ],
+    "url": "",
+    "description": "Faculty in the Learning Engineering concentration within the JHU MEd in Learning Design and Technology. Contributes to the LENS program."
+  },
+  {
+    "resource_id": "LE-PP-210",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Janet Kolodner",
+    "affiliation": "Boston College",
+    "era": "contemporary",
+    "role": "Co-editor, Learning Engineering Toolkit; case-based reasoning pioneer; Regents' Professor Emerita, Georgia Tech.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Co-editor, Learning Engineering Toolkit; case-based reasoning pioneer; Regents' Professor Emerita, Georgia Tech.",
+    "key_works": [
+      "Problem-Based Learning Meets Case-Based Reasoning in the Middle-School Science Classroom: Putting Learning by Design(tm) Into Practice (Journal of the Learning Sciences, 2003)",
+      "Problem-based learning meets case-based reasoning (International Conference of Learning Sciences, 1996)",
+      "Systematizing Scaffolding for Problem-Based Learning: A View from Case-Based Reasoning (Interdisciplinary Journal of Problem-based Learning, 2016)",
+      "Scaffolding the Development of an Inquiry-Based (Science) Classroom (Psychology Press eBooks, 2013)",
+      "Case-Based Reasoning (Cambridge University Press eBooks, 2005)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5032994110",
+    "openalex_id": "https://openalex.org/A5032994110",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5032994110; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-211",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Dina Kurzweil",
+    "affiliation": "Uniformed Services University of the Health Sciences",
+    "era": "contemporary",
+    "role": "Medical education LE practitioner; chapter author on tools for teaming.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Medical education LE practitioner; chapter author on tools for teaming.",
+    "key_works": [
+      "Can Blended Classroom and Distributed Learning Approaches be Used to Teach Medical Students How to Initiate Behavior Change Counseling During a Clinical Clerkship? (Journal of Clinical Psychology in Medical Settings, 2011)",
+      "Learning Engineering is a Process (2022)",
+      "The Faculty - Instructional Designer Dyad (EdMedia: World Conference on Educational Media and Technology, 2008)",
+      "A CASE STUDY OF INSTRUCTIONAL SUPPORT AND EDUCATIONAL TECHNOLOGY SERVICES AT THE UNIFORMED SERVICES UNIVERSITY OF THE HEALTH SCIENCES (USUHS) (Digital Repository at the University of Maryland (University of Maryland College Park), 2014)",
+      "Chapter 1 Learning Engineering is a Process (2023)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5008511437",
+    "openalex_id": "https://openalex.org/A5008511437",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5008511437; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-212",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Scott W. Greenwald",
+    "affiliation": "MIT",
+    "era": "contemporary",
+    "role": "Immersive learning and VR researcher; MIT Media Lab.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Immersive learning and VR researcher; MIT Media Lab.",
+    "key_works": [
+      "Learning Engineering is a Process (2022)",
+      "Chapter 1 Learning Engineering is a Process (2023)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5108663280",
+    "openalex_id": "https://openalex.org/A5108663280",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5108663280; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-213",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Khanh-Phuong Thai",
+    "affiliation": "Age of Learning",
+    "era": "contemporary",
+    "role": "Learning engineer and cognitive scientist; VP Learning Science, Age of Learning.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning engineer and cognitive scientist; VP Learning Science, Age of Learning.",
+    "key_works": [
+      "Habits and beliefs that guide self-regulated learning: Do they vary with mindset? (Journal of Applied Research in Memory and Cognition, 2014)",
+      "Performance Comparison of an AI-Based Adaptive Learning System in China (2018)",
+      "Accelerating Early Math Learning with Research-Based Personalized Learning Games: A Cluster Randomized Controlled Trial (Journal of Research on Educational Effectiveness, 2021)",
+      "A Learning Engineering Model for Learner-Centered Adaptive Systems (Lecture notes in computer science, 2020)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5089774530",
+    "openalex_id": "https://openalex.org/A5089774530",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5089774530; verify on review. Cleaned dup/non-LE entries during audit."
+  },
+  {
+    "resource_id": "LE-PP-214",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Jordan Richard Schoenherr",
+    "affiliation": "Concordia University",
+    "era": "contemporary",
+    "role": "Cognitive scientist; ethics of AI in learning.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Cognitive scientist; ethics of AI in learning.",
+    "key_works": [
+      "The Rapid Assessment of Competency in Echocardiography Scale (Journal of Ultrasound in Medicine, 2016)",
+      "The Assessment of Competency in Thoracic Sonography (ACTS) scale: validation of a tool for point-of-care ultrasound (Critical Ultrasound Journal, 2017)",
+      "Outcomes from extensive training in critical care echocardiography: Identifying the optimal number of practice studies required to achieve competency (Journal of Critical Care, 2017)",
+      "Learning Engineering is Ethical (2022)",
+      "Learning Engineering is Human-Centered (2022)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "",
+    "openalex_id": "https://openalex.org/A5003672017",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related top works — likely wrong person; populate manually."
+  },
+  {
+    "resource_id": "LE-PP-215",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Avron Barr",
+    "affiliation": "Aldo Ventures",
+    "era": "contemporary",
+    "role": "Learning technology standards leader; former IEEE LTSC chair; AI pioneer.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning technology standards leader; former IEEE LTSC chair; AI pioneer.",
+    "key_works": [
+      "Learning Engineering is Engineering (2022)",
+      "The Importance of Software Standards in the Globalization of Educational Technology: The IEEE Actionable Data Book Project (AIED Workshops, 2013)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "",
+    "openalex_id": "https://openalex.org/A5059518528",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related top works — likely wrong person; populate manually."
+  },
+  {
+    "resource_id": "LE-PP-216",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Brandt Dargue",
+    "affiliation": "Boeing",
+    "era": "contemporary",
+    "role": "Learning engineer for complex training systems; Boeing.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning engineer for complex training systems; Boeing.",
+    "key_works": [
+      "Learning Engineering is Engineering (2022)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5010286941",
+    "openalex_id": "https://openalex.org/A5010286941",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5010286941; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-217",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Brandt Redd",
+    "affiliation": "Bill & Melinda Gates Foundation",
+    "era": "contemporary",
+    "role": "Learning technology architect; standards and interoperability specialist.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning technology architect; standards and interoperability specialist.",
+    "key_works": [
+      "Learning Engineering is Engineering (2022)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5068610281",
+    "openalex_id": "https://openalex.org/A5068610281",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5068610281; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-218",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Steve Ritter",
+    "affiliation": "Carnegie Museum of Natural History",
+    "era": "contemporary",
+    "role": "Chief Scientist, Carnegie Learning; intelligent tutoring systems researcher.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Chief Scientist, Carnegie Learning; intelligent tutoring systems researcher.",
+    "key_works": [
+      "Reducing the Knowledge Tracing Space (Educational Data Mining, 2009)",
+      "Optimal and Worst-Case Performance of Mastery Learning Assessment with Bayesian Knowledge Tracing (Educational Data Mining, 2013)",
+      "MATHia X: The Next Generation Cognitive Tutor (Educational Data Mining, 2016)",
+      "Cognitive Tutor: Applied research in mathematics education (Psychonomic Bulletin & Review, 2007)",
+      "An experimental study of the effects of Cognitive Tutor® Algebra I on student knowledge and attitude (2002)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5015399425",
+    "openalex_id": "https://openalex.org/A5015399425",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5015399425; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-219",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Robert Sottilare",
+    "affiliation": "Planar Energy (United States)",
+    "era": "contemporary",
+    "role": "Chief Scientist, SoarTech; GIFT framework architect for adaptive instruction.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Chief Scientist, SoarTech; GIFT framework architect for adaptive instruction.",
+    "key_works": [
+      "Enhancing Self-Regulated Learning through Metacognitively-Aware Intelligent Tutoring Systems (Boulder, CO: International Society of the Learning Sciences eBooks, 2014)",
+      "Fundamentals of Adaptive Intelligent Tutoring Systems for Self-Regulated Learning (2015)",
+      "Intelligent Tutoring Systems (2018)",
+      "Passively Classifying Student Mood and Performance within Intelligent Tutors (2012)",
+      "Multilevel Learner Modeling in Training Environments for Complex Decision Making (IEEE Transactions on Learning Technologies, 2019)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5058234819",
+    "openalex_id": "https://openalex.org/A5058234819",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5058234819; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-220",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Daniel Jacobs",
+    "affiliation": "Infinitely Beta",
+    "era": "contemporary",
+    "role": "Learning analytics practitioner; Infinitely Beta.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning analytics practitioner; Infinitely Beta.",
+    "key_works": [
+      "Detecting Wheel-Spinning and Productive Persistence in Educational Games (Educational Data Mining, 2019)",
+      "The diagnostic utility of savings scores: Differentiating Alzheimer's and Huntington's diseases with the logical memory and visual reproduction tests (Journal of clinical and experimental neuropsychology, 1993)",
+      "Who stands to benefit? Wellbeing, belonging and challenges to equity in engagement in extra-curricular activities at university (Active Learning in Higher Education, 2020)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "",
+    "openalex_id": "https://openalex.org/A5068096335",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related top works — likely wrong person; populate manually. Cleaned dup/non-LE entries during audit."
+  },
+  {
+    "resource_id": "LE-PP-221",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Michelle Barrett",
+    "affiliation": "ACT",
+    "era": "contemporary",
+    "role": "Principal Learning Scientist, Edmentum; adaptive learning product strategy.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Principal Learning Scientist, Edmentum; adaptive learning product strategy.",
+    "key_works": [
+      "Core to the Learning Day: The Adaptive Instructional System as an Integrated Component of Brick-and-Mortar, Blended, and Online Learning (Lecture notes in computer science, 2021)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5042630733",
+    "openalex_id": "https://openalex.org/A5042630733",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5042630733; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-222",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Sae Schatz",
+    "affiliation": "ADL",
+    "era": "contemporary",
+    "role": "Former Director, Advanced Distributed Learning (ADL) Initiative; adaptive and personalized learning.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Former Director, Advanced Distributed Learning (ADL) Initiative; adaptive and personalized learning.",
+    "key_works": [
+      "Tractable POMDP representations for intelligent tutoring systems (ACM Transactions on Intelligent Systems and Technology, 2013)",
+      "Scalable POMDPs for Diagnosis and Planning in Intelligent Tutoring Systems (Journal of International Crisis and Risk Communication Research, 2010)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5005728644",
+    "openalex_id": "https://openalex.org/A5005728644",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5005728644; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-223",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Erin Barry",
+    "affiliation": "Unifor",
+    "era": "contemporary",
+    "role": "Medical education researcher at USUHS; chapter author on tools for teaming.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Medical education researcher at USUHS; chapter author on tools for teaming.",
+    "key_works": [
+      "State-of-the-art literature review methodology: A&amp;nbsp;six-step approach for knowledge synthesis (Perspectives on Medical Education, 2022)",
+      "Neurobehavioral, cellular, and molecular consequences of single and multiple mild blast exposure (Electrophoresis, 2012)",
+      "A conceptual framework for leader and leadership education and development (International Journal of Leadership in Education, 2018)",
+      "Understanding State-of-the-Art Literature Reviews (Journal of Graduate Medical Education, 2022)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5086962022",
+    "openalex_id": "https://openalex.org/A5086962022",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5086962022; verify on review. Cleaned dup/non-LE entries during audit."
+  },
+  {
+    "resource_id": "LE-PP-224",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Laura Casey",
+    "affiliation": "",
+    "era": "contemporary",
+    "role": "Learner motivation and engagement practitioner; chapter author on motivation tools.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learner motivation and engagement practitioner; chapter author on motivation tools.",
+    "key_works": [
+      "Increasing engagement in students with autism in inclusion classrooms (Children and Youth Services Review, 2020)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "",
+    "openalex_id": "https://openalex.org/A5004441171",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related top works — likely wrong person; populate manually."
+  },
+  {
+    "resource_id": "LE-PP-225",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Diana Delgado",
+    "affiliation": "Ideaya Biosciences (United States)",
+    "era": "contemporary",
+    "role": "Motivation and engagement specialist; chapter author on learner motivation tools.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Motivation and engagement specialist; chapter author on learner motivation tools.",
+    "key_works": [
+      "Increasing engagement in students with autism in inclusion classrooms (Children and Youth Services Review, 2020)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5072801219",
+    "openalex_id": "https://openalex.org/A5072801219",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5072801219; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-226",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Prasad Ram",
+    "affiliation": "Gooru",
+    "era": "contemporary",
+    "role": "Founder/CEO, Gooru; personalized learning platform and Navigator framework.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Founder/CEO, Gooru; personalized learning platform and Navigator framework.",
+    "key_works": [],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "",
+    "openalex_id": "",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex disambiguation was inconclusive — populate key_works manually."
+  },
+  {
+    "resource_id": "LE-PP-227",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Jessie Chuang",
+    "affiliation": "Classroom Aid",
+    "era": "contemporary",
+    "role": "Learning standards implementer; Classroom Aid; xAPI and data instrumentation.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning standards implementer; Classroom Aid; xAPI and data instrumentation.",
+    "key_works": [
+      "A Methodology to Predict Creep Life for Advanced Ceramics Using Continuum Damage Mechanics (1994)",
+      "Prediction of Multiaxial Creep From Uniaxial Creep Tests (Special publication - Royal Society of Chemistry/Special publication, 1972)",
+      "Intelligence Augmentation for Educators, Training Professionals, and Learners (Lecture notes in computer science, 2021)",
+      "AN APPROACH TO ESTIMATING LONG-TERM MULTIAXIAL CREEP BEHAVIOR FROM SHORT- TERM UNIAXIAL CREEP RESULTS. Research Report Number 1864-3 (OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information), 1970)",
+      "Implementation Tools (2022)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "",
+    "openalex_id": "https://openalex.org/A5010492136",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex disambiguation was inconclusive — populate key_works manually."
+  },
+  {
+    "resource_id": "LE-PP-228",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Andrew J. Hampton",
+    "affiliation": "University of Memphis",
+    "era": "contemporary",
+    "role": "Learning sciences researcher; tools for standards.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learning sciences researcher; tools for standards.",
+    "key_works": [
+      "The Need for Personalized Learning and the Potential of Intelligent Tutoring Systems (2020)",
+      "ElectronixTutor: an intelligent tutoring system with multiple learning resources for electronics (International Journal of STEM Education, 2018)",
+      "Multiple Agent Designs in Conversational Intelligent Tutoring Systems (Technology Knowledge and Learning, 2019)",
+      "Mitigating Knowledge Decay from Instruction with Voluntary Use of an Adaptive Learning System (Lecture notes in computer science, 2018)",
+      "Diagnostic Assessment of Adults' Reading Deficiencies in an Intelligent Tutoring System (2018)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5086531796",
+    "openalex_id": "https://openalex.org/A5086531796",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5086531796; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-229",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Richard Tong",
+    "affiliation": "Squirrel AI Learning",
+    "era": "contemporary",
+    "role": "Chief Architect, Squirrel AI Learning; adaptive learning at scale.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Chief Architect, Squirrel AI Learning; adaptive learning at scale.",
+    "key_works": [
+      "The Oxygen Uptake Response Running to Exhaustion at Peak Treadmill Speed (Medicine & Science in Sports & Exercise, 2003)",
+      "The Effects of Acute Creatine Supplementation on Multiple Sprint Cycling and Running Performance in Rugby Players (The Journal of Strength and Conditioning Research, 2005)",
+      "Relationship between VO(2max) and repeated sprint ability using non-motorised treadmill ergometry (PubMed, 2007)",
+      "The Effect of Warm-Up on High-Intensity, Intermittent Running Using Nonmotorized Treadmill Ergometry (The Journal of Strength and Conditioning Research, 2008)",
+      "A 1-day maximal lactate steady-state assessment protocol for trained runners (Medicine & Science in Sports & Exercise, 1999)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "",
+    "openalex_id": "https://openalex.org/A5108537779",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related top works — likely wrong person; populate manually. Cleaned dup/non-LE entries during audit."
+  },
+  {
+    "resource_id": "LE-PP-230",
+    "content_type": "PP",
+    "source": "goodell_book_backfill",
+    "status": "APPROVED",
+    "name": "Tanvi Domadia",
+    "affiliation": "Carnegie Mellon University",
+    "era": "contemporary",
+    "role": "Data analytics practitioner; chapter author on data analysis tools.",
+    "description": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Data analytics practitioner; chapter author on data analysis tools.",
+    "key_works": [
+      "Assessing the Quality of Student-Generated Short Answer Questions Using GPT-3 (Lecture notes in computer science, 2022)",
+      "Who Writes Tomorrow’s Learning Activities? Exploring Community College Student Participation in Learnersourcing (Proceedings., 2023)"
+    ],
+    "primary_topic": "T00",
+    "secondary_topics": [],
+    "url": "https://openalex.org/A5028215646",
+    "openalex_id": "https://openalex.org/A5028215646",
+    "notes": "Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated from OpenAlex author https://openalex.org/A5028215646; verify on review."
+  },
+  {
+    "resource_id": "LE-PP-250",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Angelo Sifaleras",
+    "affiliation": "University of Macedonia, Thessaloniki, Greece",
+    "era": "contemporary",
+    "role": "ITS 2024 Program Co-Chair; optimization-for-education researcher",
+    "description": "Professor of Applied Informatics at the University of Macedonia. Program Co-Chair and LNCS volume editor for ITS 2024 (Thessaloniki), the 20th International Conference on Intelligent Tutoring Systems. Research bridges mathematical programming and network optimization with AI-driven adaptive learning systems.\n",
+    "key_contributions": [
+      "Program Co-Chair and Proceedings Co-Editor, ITS 2024 (Thessaloniki, Greece)",
+      "Applies combinatorial optimization and metaheuristics to scheduling, recommendation, and adaptive-path problems in learning systems",
+      "Connects the Greek AI-in-education research community to the international ITS series"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T04"
+    ],
+    "url": "https://sites.uom.gr/sifalera/",
+    "notes": "ITS 2024 PC Chair. Optimization methods for adaptive learning.",
+    "key_works": [
+      "A hybrid Particle Swarm Optimization – Variable Neighborhood Search algorithm for Constrained Shortest Path problems (European Journal of Operational Research, 2017)",
+      "A reinforcement learning-Variable neighborhood search method for the capacitated Vehicle Routing Problem (Expert Systems with Applications, 2022)",
+      "Adaptive variable neighborhood search solution methods for the fleet size and mix pollution location-inventory-routing problem (Expert Systems with Applications, 2020)",
+      "A classification of community detection methods in social networks: a survey (International Journal of General Systems, 2021)",
+      "Variable neighborhood search for the economic lot sizing problem with product returns and recovery (International Journal of Production Economics, 2014)"
+    ],
+    "openalex_id": "https://openalex.org/A5016698691"
+  },
+  {
+    "resource_id": "LE-PP-251",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Fuhua (Oscar) Lin",
+    "affiliation": "Athabasca University, Canada",
+    "era": "contemporary",
+    "role": "ITS 2024 Program Co-Chair; adaptive learning and multi-agent systems researcher",
+    "description": "Professor in the School of Computing and Information Systems at Athabasca University. Program Co-Chair and LNCS volume editor for ITS 2024. Research focuses on AI in education, adaptive personalized learning, intelligent tutoring systems, and multi-agent learning environments — connecting open/distance-learning infrastructure with ITS methods.\n",
+    "key_contributions": [
+      "Program Co-Chair and Proceedings Co-Editor, ITS 2024 (Thessaloniki, Greece)",
+      "Developed multi-agent architectures for adaptive, self-directed learning in open and distance education contexts",
+      "Key figure connecting Canadian distance-learning research (Athabasca) with the international ITS community"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T11"
+    ],
+    "url": "https://pure.athabascau.ca/en/persons/oscar-lin",
+    "notes": "ITS 2024 PC Chair. Multi-agent adaptive learning.",
+    "key_works": [
+      "A Review on Visualization of Educational Data in Online Learning (Lecture notes in computer science, 2021)",
+      "Engagement detection in online learning: a review (Smart Learning Environments, 2019)",
+      "A Deep Learning Approach to Detecting Engagement of Online Learners (2018)",
+      "Intelligent and Adaptive Learning Systems: Technology Enhanced Support for Learners and Teachers (2011)",
+      "Including Learning Analytics in the Loop of Self-Paced Online Course Learning Design (International Journal of Artificial Intelligence in Education, 2020)"
+    ],
+    "openalex_id": "https://openalex.org/A5030707600"
+  },
+  {
+    "resource_id": "LE-PP-252",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Claude Frasson",
+    "affiliation": "Université de Montréal, Canada",
+    "era": "contemporary",
+    "role": "ITS series founder; ITS 2023 Program Co-Chair; emotion-aware and brain-sensitive ITS pioneer",
+    "description": "Professor of Computer Science at Université de Montréal and long-time chair of the ITS steering committee. Co-chaired ITS 2023 (Corfu). Pioneered emotion-aware and EEG-based brain-sensitive intelligent tutoring systems, extending ITS beyond cognitive modeling into affective and neurophysiological signals.\n",
+    "key_contributions": [
+      "Program Co-Chair, ITS 2023 (Corfu, Greece); long-time Steering Committee Chair of the ITS conference series",
+      "Hosted the founding 1988 ITS conference in Montréal, establishing the flagship ITS/LE venue",
+      "Pioneered emotion-aware and EEG-based brain-sensitive intelligent tutoring systems",
+      "Advanced models of affect, engagement, and cognitive load in adaptive learning systems"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T01"
+    ],
+    "url": "https://iro.umontreal.ca/~frasson/",
+    "notes": "ITS series founder/chair. Emotion-aware ITS. Brain-sensitive tutoring.",
+    "key_works": [
+      "Intelligent Tutoring Systems: At the Crossroads of Artificial Intelligence and Education (Greenwood Publishing Group Inc. eBooks, 1990)",
+      "An actor-based architecture for intelligent tutoring systems (Lecture notes in computer science, 1996)",
+      "Inducing Optimal Emotional State for Learning in Intelligent Tutoring Systems (Lecture notes in computer science, 2004)",
+      "Managing Learner’s Affective States in Intelligent Tutoring Systems (Studies in computational intelligence, 2010)",
+      "Cooperative learning strategies for intelligent tutoring systems (Applied Artificial Intelligence, 2000)"
+    ],
+    "openalex_id": "https://openalex.org/A5060693139"
+  },
+  {
+    "resource_id": "LE-PP-253",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Phivos Mylonas",
+    "affiliation": "Ionian University / University of West Attica, Greece",
+    "era": "contemporary",
+    "role": "ITS 2023 Program Co-Chair; affective computing and personalization researcher",
+    "description": "Associate Professor in Informatics, currently at University of West Attica (formerly Ionian University, Corfu). Program Co-Chair for ITS 2023. Research spans knowledge-assisted multimedia analysis, affective computing, and user personalization — applied to adaptive educational systems.\n",
+    "key_contributions": [
+      "Program Co-Chair, ITS 2023 (Corfu, Greece)",
+      "Applies multimedia analysis and affective computing techniques to personalized learning environments",
+      "Connects Greek ITS research community with the international AIED/ITS venues"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T04"
+    ],
+    "url": "https://di.ionio.gr/en/faculty-staff/phivos-mylonas/",
+    "notes": "ITS 2023 PC Chair. Affective computing for ITS.",
+    "key_works": [
+      "A Rule-Based System Integrating Case-Based Reasoning for Adaptive User Interfaces in Personalized Educational Software (2025)"
+    ],
+    "openalex_id": "https://openalex.org/A5123451752"
+  },
+  {
+    "resource_id": "LE-PP-254",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Christos Troussas",
+    "affiliation": "University of West Attica, Athens, Greece",
+    "era": "contemporary",
+    "role": "ITS 2023/2020 Program Co-Chair; personalized and NLP-enhanced ITS researcher",
+    "description": "Associate Professor at the University of West Attica. Program Co-Chair for ITS 2023 and ITS 2020. Research focuses on personalized and adaptive intelligent tutoring, human-centered AI, and NLP-enhanced feedback — with particular emphasis on language learning and mobile-first tutoring environments.\n",
+    "key_contributions": [
+      "Program Co-Chair, ITS 2023 (Corfu) and ITS 2020 (Athens)",
+      "Developed multi-criteria personalization frameworks for intelligent tutoring in language-learning contexts",
+      "Advanced NLP-enhanced automated feedback mechanisms for adaptive learner support"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T12"
+    ],
+    "url": "https://users.uniwa.gr/ctrouss/",
+    "notes": "ITS 2023/2020 PC Chair. Personalized ITS. NLP-enhanced feedback.",
+    "key_works": [
+      "A Novel Teaching Strategy Through Adaptive Learning Activities for Computer Programming (IEEE Transactions on Education, 2020)",
+      "Using a Multi Module Model for Learning Analytics to Predict Learners’ Cognitive States and Provide Tailored Learning Pathways and Assessment (Intelligent systems reference library, 2019)",
+      "Improving Learner-Computer Interaction through Intelligent Learning Material Delivery Using Instructional Design Modeling (Entropy, 2021)",
+      "Personalized Feedback Enhanced by Natural Language Processing in Intelligent Tutoring Systems (Lecture notes in computer science, 2023)",
+      "Computerized Adaptive Assessment Using Accumulative Learning Activities Based on Revised Bloom’s Taxonomy (Smart innovation, systems and technologies, 2018)"
+    ],
+    "openalex_id": "https://openalex.org/A5068272767"
+  },
+  {
+    "resource_id": "LE-PP-255",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Scott A. Crossley",
+    "affiliation": "Vanderbilt University (Peabody College; formerly Georgia State University)",
+    "era": "contemporary",
+    "role": "ITS 2022 Program Co-Chair; NLP for writing analytics and readability",
+    "description": "Professor of Special Education at Vanderbilt Peabody, previously at Georgia State. Program Co-Chair and LNCS volume editor for ITS 2022 (Bucharest). Developed widely used NLP toolkits for text analysis — TAALES, TAACO, SEANCE — that power writing analytics, readability assessment, and second-language acquisition research. Frequent co-author with the Coh-Metrix team.\n",
+    "key_contributions": [
+      "Program Co-Chair and Proceedings Co-Editor, ITS 2022 (Bucharest, Romania)",
+      "Developed TAALES, TAACO, and SEANCE — open-source NLP toolkits for writing analytics and readability analysis",
+      "Core contributor to the Writing Pal ITS and Coh-Metrix text-analytics research program",
+      "Bridges computational linguistics and learning engineering in assessment of L2 writing"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T06",
+      "T01"
+    ],
+    "url": "https://lab.vanderbilt.edu/live/person/scott-crossley/",
+    "notes": "ITS 2022 PC Chair. TAALES/TAACO/SEANCE. Writing analytics.",
+    "key_works": [
+      "Combining click-stream data with NLP tools to better understand MOOC completion (2016)",
+      "The Writing Pal Intelligent Tutoring System: Usability Testing and Development (Computers & composition/Computers and composition, 2014)"
+    ],
+    "openalex_id": "https://openalex.org/A5028338673"
+  },
+  {
+    "resource_id": "LE-PP-256",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Elvira Popescu",
+    "affiliation": "University of Craiova, Romania",
+    "era": "contemporary",
+    "role": "ITS 2022 Program Co-Chair; adaptive educational systems and CSCL researcher",
+    "description": "Professor in the Department of Computers and Information Technology at the University of Craiova. Program Co-Chair and LNCS volume editor for ITS 2022. Research focuses on adaptive educational systems, learner modeling, CSCL, and learning analytics in web-based environments.\n",
+    "key_contributions": [
+      "Program Co-Chair and Proceedings Co-Editor, ITS 2022 (Bucharest, Romania)",
+      "Developed adaptive web-based learning environments with learner-style modeling",
+      "Bridges ITS and CSCL research traditions through analytics on collaborative web-based learning"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T04",
+      "T03"
+    ],
+    "url": "https://dcti.ucv.ro/personal/elvira.popescu/",
+    "notes": "ITS 2022 PC Chair. Adaptive learning and CSCL analytics.",
+    "key_works": [
+      "Rules for Learner Modeling and Adaptation Provisioning in an Educational Hypermedia System (2007)",
+      "Agent-Based Adaptive Learning Provisioning in a Virtual Organization (Advances in soft computing, 2007)"
+    ],
+    "openalex_id": "https://openalex.org/A5041655293"
+  },
+  {
+    "resource_id": "LE-PP-260",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Barbara Wasson",
+    "affiliation": "University of Bergen, Norway; Director, SLATE",
+    "era": "contemporary",
+    "role": "LAK 2026 General Chair; LAK 2024 Program Chair; learning analytics field-builder",
+    "description": "Professor at the University of Bergen and Director of SLATE (Centre for the Science of Learning & Technology). General Chair of LAK 2026 (Bergen) and Program Chair of LAK 2024 (Kyoto). Long-time leader of European technology-enhanced learning research; focuses on learning analytics, AI-supported learning environments, and CSCL.\n",
+    "key_contributions": [
+      "General Chair, LAK 2026 (Bergen, Norway); Program Chair, LAK 2024 (Kyoto, Japan)",
+      "Director of SLATE — one of Europe's leading learning analytics centers",
+      "Pioneered Norwegian/Nordic contributions to CSCL and AI-supported learning environments",
+      "Connects European TEL research infrastructure to SoLAR's global LA community"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T17",
+      "T11"
+    ],
+    "url": "https://www4.uib.no/en/find-employees/Barbara.Wasson",
+    "notes": "LAK 2026 GC, LAK 2024 PC. SLATE director. European TEL leader.",
+    "key_works": [
+      "Mobile-assisted language learning through learning analytics for self-regulated learning (MALLAS): A conceptual framework (Australasian Journal of Educational Technology, 2020)",
+      "Assessing English as a Second Language: From Classroom Data to a Competence-Based Open Learner Model (International Conference on Computers in Education, 2012)",
+      "Editorial: Learning design, teacher inquiry into student learning and learning analytics: A call for action (British Journal of Educational Technology, 2015)",
+      "Learning analytics in virtual laboratories: a systematic literature review of empirical research (Smart Learning Environments, 2023)",
+      "Using learning analytics to understand student perceptions of peer feedback (Computers in Human Behavior, 2020)"
+    ],
+    "openalex_id": "https://openalex.org/A5058484684"
+  },
+  {
+    "resource_id": "LE-PP-261",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Mohammad Khalil",
+    "affiliation": "SLATE, University of Bergen, Norway",
+    "era": "contemporary",
+    "role": "LAK 2026 Program Chair; MOOCs, LA ethics, and generative AI in education",
+    "description": "Associate Professor at SLATE, University of Bergen. Lead Program Chair for LAK 2026. Research focuses on learning analytics, MOOCs, ethics and privacy in LA, and applications of generative AI in education.\n",
+    "key_contributions": [
+      "Lead Program Chair, LAK 2026 (Bergen, Norway)",
+      "Research on ethical and privacy dimensions of learning analytics at scale",
+      "Studies uptake and implications of generative AI tools in higher-ed learning contexts"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T14",
+      "T07"
+    ],
+    "url": "https://mohdkhalil.wordpress.com/",
+    "notes": "LAK 2026 PC Chair. LA ethics. GenAI in education."
+  },
+  {
+    "resource_id": "LE-PP-262",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Jelena Jovanović",
+    "affiliation": "University of Belgrade, Serbia (also SLATE/UiB affiliate)",
+    "era": "contemporary",
+    "role": "LAK 2025/2026 Program Chair; self-regulated learning modeler",
+    "description": "Professor of Software Engineering at the University of Belgrade and research affiliate of SLATE. Program Chair for both LAK 2025 (Dublin) and LAK 2026 (Bergen) — a rare two-consecutive-year PC role. Research builds computational models of self-regulated learning in higher education.\n",
+    "key_contributions": [
+      "Program Chair, LAK 2026 (Bergen) and LAK 2025 (Dublin) — two consecutive editions",
+      "Developed computational models of self-regulated learning using trace-data analytics",
+      "Bridges Serbian/European and global learning analytics research communities"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T17",
+      "T01"
+    ],
+    "url": "https://jeljov.github.io/",
+    "notes": "LAK 2025 and 2026 PC Chair. Self-regulated learning models.",
+    "key_works": [
+      "Using learning analytics to scale the provision of personalised feedback (British Journal of Educational Technology, 2017)",
+      "Learning analytics to unveil learning strategies in a flipped classroom (The Internet and Higher Education, 2017)",
+      "Effects of Internal and External Conditions on Strategies of Self-regulated Learning: A Learning Analytics Study (2022)",
+      "A qualitative evaluation of evolution of a learning analytics tool (Computers & Education, 2011)",
+      "Predictive power of regularity of pre-class activities in a flipped classroom (Computers & Education, 2019)"
+    ],
+    "openalex_id": "https://openalex.org/A5025182522"
+  },
+  {
+    "resource_id": "LE-PP-263",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Mutlu Cukurova",
+    "affiliation": "UCL Knowledge Lab / UCL Centre for AI, University College London",
+    "era": "contemporary",
+    "role": "LAK 2024 General Chair; LAK 2026 Program Chair; human-AI complementarity in learning",
+    "description": "Professor of Learning and Artificial Intelligence at UCL. General Chair of LAK 2024 (Kyoto) and Program Chair of LAK 2026 (Bergen). Research focuses on human-AI complementarity in learning, multimodal learning analytics, and the design of AI systems that augment rather than replace teachers.\n",
+    "key_contributions": [
+      "General Chair, LAK 2024 (Kyoto); Program Chair, LAK 2026 (Bergen)",
+      "Articulated 'human-AI complementarity' framing for educational AI design",
+      "Pioneering work on multimodal learning analytics capturing behavioral, physiological, and discursive data",
+      "UCL-based bridge between European AI policy research and the LA community"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T04",
+      "T14"
+    ],
+    "url": "https://profiles.ucl.ac.uk/52201-mutlu-cukurova",
+    "notes": "LAK 2024 GC, LAK 2026 PC. Human-AI complementarity. Multimodal LA.",
+    "key_works": [
+      "Designing educational technologies in the age of AI: A learning sciences‐driven approach (British Journal of Educational Technology, 2019)",
+      "The promise and challenges of multimodal learning analytics (British Journal of Educational Technology, 2020)",
+      "The role of learning theory in multimodal learning analytics (British Journal of Educational Technology, 2023)",
+      "Teachers' trust in <scp>AI</scp> ‐powered educational technology and a professional development program to improve it (British Journal of Educational Technology, 2022)",
+      "Supervised machine learning in multimodal learning analytics for estimating success in project‐based learning (Journal of Computer Assisted Learning, 2018)"
+    ],
+    "openalex_id": "https://openalex.org/A5010726815"
+  },
+  {
+    "resource_id": "LE-PP-264",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Roger Azevedo",
+    "affiliation": "University of Central Florida",
+    "era": "contemporary",
+    "role": "LAK 2026 Program Chair; metacognition and multimodal learning analytics pioneer",
+    "description": "Professor at the University of Central Florida. Program Chair for LAK 2026. Long-standing leader in research on self-regulated learning, metacognition, and multimodal/multichannel data for adaptive learning systems — with influential work using eye-tracking, physiological sensing, and log data to model learner state.\n",
+    "key_contributions": [
+      "Program Chair, LAK 2026 (Bergen, Norway)",
+      "Established multi-channel, multimodal data analysis as a core method for studying self-regulated learning",
+      "Developed MetaTutor and related systems that detect and scaffold metacognitive processes",
+      "Trained generations of learning analytics and educational-psychology PhDs now leading the field"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T01",
+      "T17"
+    ],
+    "url": "https://ccie.ucf.edu/person/roger-azevedo/",
+    "notes": "LAK 2026 PC. Metacognition. Multimodal LA pioneer.",
+    "key_works": [
+      "Scaffolding Self-regulated Learning and Metacognition – Implications for the Design of Computer-based Scaffolds (Instructional Science, 2005)",
+      "Motivation matters: Interactions between achievement goals and agent scaffolding for self-regulated learning within an intelligent tutoring system (Computers in Human Behavior, 2015)",
+      "Using Hypermedia as a Metacognitive Tool for Enhancing Student Learning? The Role of Self-Regulated Learning (Educational Psychologist, 2005)",
+      "Why is externally-facilitated regulated learning more effective than self-regulated learning with hypermedia? (Educational Technology Research and Development, 2007)",
+      "Theoretical, conceptual, methodological, and instructional issues in research on metacognition and self-regulated learning: A discussion (Metacognition and Learning, 2009)"
+    ],
+    "openalex_id": "https://openalex.org/A5019212451"
+  },
+  {
+    "resource_id": "LE-PP-265",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Geraldine Gray",
+    "affiliation": "Technological University Dublin, Ireland",
+    "era": "contemporary",
+    "role": "LAK 2025 Organizing Committee Lead; predictive analytics for student success",
+    "description": "Head of School of Informatics & Cybersecurity at TU Dublin. Local Organizing Committee Lead for LAK 2025 (Dublin). Applied researcher in data analytics and predictive modeling of student success in higher education.\n",
+    "key_contributions": [
+      "Organizing Committee Lead / host chair, LAK 2025 (Dublin, Ireland)",
+      "Research on early-warning and predictive models for higher-ed student retention",
+      "Bridges Irish higher-education institutional research with the global LA community"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T17",
+      "T15"
+    ],
+    "url": "https://researchprofiles.tudublin.ie/en/persons/geraldine-gray-2",
+    "notes": "LAK 2025 Organizing Lead. Predictive analytics for retention.",
+    "key_works": [
+      "Stakeholders’ insights on learning analytics: Perspectives of students and staff (Computers & Education, 2022)",
+      "A Practitioner's Guide to Measurement in Learning Analytics: Decisions, Opportunities, and Challenges (Solar eBooks, 2022)",
+      "What Does Methodology Mean for Learning Analytics? (Journal of Learning Analytics, 2018)",
+      "A Stakeholder Informed Professional Development Framework to Support Engagement with Learning Analytics (2021)",
+      "A LAK of Direction: Misalignment Between the Goals of Learning Analytics and its Research Scholarship (2022)"
+    ],
+    "openalex_id": "https://openalex.org/A5071615974"
+  },
+  {
+    "resource_id": "LE-PP-266",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Bart Rienties",
+    "affiliation": "Institute of Educational Technology, The Open University, UK",
+    "era": "contemporary",
+    "role": "LAK 2025 Organizing Committee; large-scale LA and learning design",
+    "description": "Professor of Learning Analytics at the Open University's Institute of Educational Technology. LAK 2025 Organizing Committee. Research on large-scale learning analytics, social network analysis, and the intersection of analytics with learning design at the Open University's massive distance-learning scale.\n",
+    "key_contributions": [
+      "Organizing Committee, LAK 2025 (Dublin)",
+      "Operates one of the largest learning analytics implementations in the world via the UK Open University",
+      "Leading researcher on the relationship between learning design and learning analytics",
+      "Applies social network analysis to collaborative and online learning"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T11",
+      "T17"
+    ],
+    "url": "https://iet.open.ac.uk/people/bart.rienties",
+    "notes": "LAK 2025 Organizing. OU-scale LA. Learning design + analytics.",
+    "key_works": [
+      "Flipped classrooms in higher education during the COVID-19 pandemic: findings and future research recommendations (International Journal of Educational Technology in Higher Education, 2022)",
+      "A large-scale implementation of predictive learning analytics in higher education: the teachers’ role and perspective (Educational Technology Research and Development, 2019)",
+      "Empowering online teachers through predictive learning analytics (British Journal of Educational Technology, 2019)",
+      "Defining the Boundaries Between Artificial Intelligence in Education, Computer-Supported Collaborative Learning, Educational Data Mining, and Learning Analytics: A Need for Coherence (Frontiers in Education, 2020)",
+      "In search for the most informative data for feedback generation: Learning analytics in a data-rich context (Computers in Human Behavior, 2014)"
+    ],
+    "openalex_id": "https://openalex.org/A5008962923"
+  },
+  {
+    "resource_id": "LE-PP-267",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Alejandra Martínez-Monés",
+    "affiliation": "Universidad de Valladolid, Spain (GSIC-EMIC)",
+    "era": "contemporary",
+    "role": "LAK 2025 and L@S 2023 Program Chair; CSCL and teacher orchestration analytics",
+    "description": "Associate Professor in HCI at the University of Valladolid. Program Chair of LAK 2025 (Dublin) and Program Co-Chair of L@S 2023 (Copenhagen). Research on CSCL, learning analytics aligned with learning design, and teacher orchestration of collaborative learning environments.\n",
+    "key_contributions": [
+      "Program Chair, LAK 2025 (Dublin); Program Co-Chair, L@S 2023 (Copenhagen)",
+      "Connects CSCL research traditions with learning analytics practice",
+      "Develops tools and analytics for teacher orchestration of collaborative classrooms",
+      "Co-leads GSIC-EMIC, a leading Spanish TEL research group"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T03",
+      "T17"
+    ],
+    "url": "https://portaldelaciencia.uva.es/investigadores/178281/detalle",
+    "notes": "LAK 2025 PC. L@S 2023 PC. CSCL orchestration analytics.",
+    "key_works": [
+      "Scripting and monitoring meet each other: Aligning learning analytics and learning design to support teachers in orchestrating <scp>CSCL</scp> situations (British Journal of Educational Technology, 2014)",
+      "Learning Analytics with Google Classroom (2017)",
+      "Combining qualitative evaluation and social network analysis for the study of classroom social interactions (Computers & Education, 2003)",
+      "To reward and beyond: Analyzing the effect of reward-based strategies in a MOOC (Computers & Education, 2019)",
+      "Recurrent routines: Analyzing and supporting orchestration in technology-enhanced primary classrooms (Computers & Education, 2011)"
+    ],
+    "openalex_id": "https://openalex.org/A5004243165"
+  },
+  {
+    "resource_id": "LE-PP-268",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Caitlin Mills",
+    "affiliation": "University of Minnesota",
+    "era": "contemporary",
+    "role": "LAK 2025 and EDM 2025 Program Chair; attention, affect, and multimodal sensing",
+    "description": "Associate Professor in Educational Psychology at the University of Minnesota. Program Chair for LAK 2025 and EDM 2025 — a dual-venue role in the same year. Research on attention, mind-wandering, affective computing, and multimodal sensing during learning.\n",
+    "key_contributions": [
+      "Program Chair, LAK 2025 (Dublin) AND EDM 2025 (Palermo) — same year, both flagship venues",
+      "Pioneering work on detecting mind-wandering during reading and online learning",
+      "Applies affect-detection methods to adaptive learning system design"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T01",
+      "T07"
+    ],
+    "url": "https://edpsych.umn.edu/caitlin-mills",
+    "notes": "LAK 2025 PC. EDM 2025 PC. Mind-wandering detection.",
+    "key_works": [
+      "How Do We Model Learning at Scale? A Systematic Review of Research on MOOCs (Review of Educational Research, 2017)",
+      "Disengagement during lectures: Media multitasking and mind wandering in university classrooms (Computers & Education, 2018)",
+      "Automated gaze-based mind wandering detection during computerized learning in classrooms (User Modeling and User-Adapted Interaction, 2019)",
+      "The Eyes Have It: Gaze-based Detection of Mind Wandering during Learning with an Intelligent Tutoring System (2016)",
+      "Mind Wandering During Learning with an Intelligent Tutoring System (Lecture notes in computer science, 2015)"
+    ],
+    "openalex_id": "https://openalex.org/A5028763816"
+  },
+  {
+    "resource_id": "LE-PP-269",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Xavier Ochoa",
+    "affiliation": "NYU Steinhardt, New York University",
+    "era": "contemporary",
+    "role": "LAK 2025 Program Chair; multimodal learning analytics and scalable LA infrastructure",
+    "description": "Associate Professor of Learning Analytics at NYU Steinhardt. Program Chair for LAK 2025. Research on multimodal learning analytics and scalable LA infrastructure — integrating video, audio, gesture, and physiological data into analytics pipelines.\n",
+    "key_contributions": [
+      "Program Chair, LAK 2025 (Dublin)",
+      "Co-editor of The Multimodal Learning Analytics Handbook",
+      "Develops scalable open-source infrastructure for multimodal LA data capture and processing",
+      "Bridges Latin American LA community with the SoLAR mainstream"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T11",
+      "T07"
+    ],
+    "url": "https://steinhardt.nyu.edu/people/xavier-ochoa",
+    "notes": "LAK 2025 PC. Multimodal LA. Scalable infrastructure.",
+    "key_works": [
+      "Supporting the shift to digital with student-centered learning analytics (Educational Technology Research and Development, 2020)",
+      "Mapping Learning Analytics initiatives in Latin America (British Journal of Educational Technology, 2020)",
+      "Multimodal Learning Analytics in a Laboratory Classroom (Intelligent systems reference library, 2019)",
+      "LADA: A learning analytics dashboard for academic advising (Computers in Human Behavior, 2018)",
+      "Editorial: Augmenting Learning Analytics with Multimodal Sensory Data (Journal of Learning Analytics, 2016)"
+    ],
+    "openalex_id": "https://openalex.org/A5014320446"
+  },
+  {
+    "resource_id": "LE-PP-270",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Kristen DiCerbo",
+    "affiliation": "Khan Academy",
+    "era": "contemporary",
+    "role": "LAK 2024 General Chair; evidence-centered design and AI-tutor learning data",
+    "description": "Chief Learning Officer at Khan Academy. General Chair of LAK 2024 (Kyoto). Applied researcher in evidence-centered design, digital assessment, and — most recently — learning data from Khanmigo, Khan Academy's AI tutor. Brings industry/practitioner voice to flagship LE academic venues.\n",
+    "key_contributions": [
+      "General Chair, LAK 2024 (Kyoto, Japan)",
+      "Chief Learning Officer at Khan Academy; leads learning data strategy for Khanmigo AI tutor",
+      "Pioneered practitioner applications of evidence-centered design in digital assessment",
+      "Co-authored key LE papers with John Behrens on learning ecosystems and assessment data"
+    ],
+    "primary_topic": "T15",
+    "secondary_topics": [
+      "T04",
+      "T07"
+    ],
+    "url": "https://www.kristendicerbo.com/",
+    "notes": "LAK 2024 GC. Khan Academy CLO. Khanmigo learning data.",
+    "key_works": [
+      "Design and Discovery in Educational Assessment: Evidence-Centered Design, Psychometrics, and Educational Data Mining (Zenodo (CERN European Organization for Nuclear Research), 2012)"
+    ],
+    "openalex_id": "https://openalex.org/A5067432630"
+  },
+  {
+    "resource_id": "LE-PP-271",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Brendan Flanagan",
+    "affiliation": "Kyoto University, Japan",
+    "era": "contemporary",
+    "role": "LAK 2024 Program Chair; reading analytics and LA infrastructure",
+    "description": "Associate Professor at the Academic Center for Computing and Media Studies, Kyoto University. Program Chair for LAK 2024 (Kyoto). Research on e-book log analytics, reading analytics, and LA infrastructure — notably through the BookRoll e-book platform used across Japan.\n",
+    "key_contributions": [
+      "Program Chair, LAK 2024 (Kyoto, Japan)",
+      "Developed reading analytics using BookRoll e-book log data at scale in Japanese K-12 and higher education",
+      "Builds bridges between Japanese LA research and the international SoLAR community"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T11",
+      "T17"
+    ],
+    "url": "https://www.let.media.kyoto-u.ac.jp/en/member/brendan-flanagan/",
+    "notes": "LAK 2024 PC. Reading analytics. BookRoll platform.",
+    "key_works": [
+      "Assessment of Clinical Performance during Simulated Crises Using Both Technical and Behavioral Ratings (Anesthesiology, 1998)",
+      "The teaching of a structured tool improves the clarity and content of interprofessional clinical communication (BMJ Quality & Safety, 2009)",
+      "Making patient safety the focus: Crisis Resource Management in the undergraduate curriculum (Medical Education, 2004)",
+      "Prevention of Hypotension After Spinal Anesthesia for Cesarean Section (Anesthesia & Analgesia, 1995)",
+      "Review of mannequin‐based high‐fidelity simulation in emergency medicine (Emergency Medicine Australasia, 2007)"
+    ],
+    "openalex_id": "https://openalex.org/A5083911055"
+  },
+  {
+    "resource_id": "LE-PP-275",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Davide Taibi",
+    "affiliation": "Institute for Educational Technology (ITD), CNR, Palermo, Italy",
+    "era": "contemporary",
+    "role": "EDM 2025 AND L@S 2025 General Chair; semantic LA and EU education data/AI projects",
+    "description": "Senior Researcher at CNR-ITD, Palermo. General Chair of BOTH EDM 2025 and L@S 2025 (Palermo) — a rare dual-flagship role in a single year. Research on learning analytics, semantic web/linked data, and applications of AI/AR/VR in e-learning; coordinates EU projects on data and AI literacy.\n",
+    "key_contributions": [
+      "General Chair, EDM 2025 AND L@S 2025 (both Palermo, Italy, 2025)",
+      "Hosted two flagship LE conferences in the same year, unusual for the field",
+      "Coordinates EU Horizon projects on data and AI literacy in education",
+      "Bridges semantic-web methods with learning analytics via linked-data approaches"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T07",
+      "T11"
+    ],
+    "url": "https://www.itd.cnr.it/istituto/personale/taibi-davide.html",
+    "notes": "EDM 2025 + L@S 2025 GC (dual). Semantic LA. EU AI literacy projects.",
+    "key_works": [
+      "Facilitating Scientometrics in Learning Analytics and Educational Data Mining – the LAK Dataset (Semantic Web, 2016)",
+      "Learning to Prompt in the Classroom to Understand AI Limits: A Pilot Study (Lecture notes in computer science, 2023)",
+      "Fostering Analytics on Learning Analytics Research: the LAK Dataset (2013)",
+      "A semantic approach to mobile learning analytics (2013)",
+      "Using linked data in Learning Analytics (DSpace (Open University in the Netherlands), 2014)"
+    ],
+    "openalex_id": "https://openalex.org/A5015403871"
+  },
+  {
+    "resource_id": "LE-PP-276",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Giosuè Lo Bosco",
+    "affiliation": "University of Palermo, Italy",
+    "era": "contemporary",
+    "role": "EDM 2025 General Chair; ML applications to educational data",
+    "description": "Researcher at the University of Palermo. Co-General Chair of EDM 2025 (Palermo). Applies machine learning and data mining to domain problems including educational data.\n",
+    "key_contributions": [
+      "General Chair, EDM 2025 (Palermo, Italy)",
+      "Applies ML/data-mining methods to educational and biomedical domains",
+      "Co-hosted EDM 2025 alongside ITD-CNR's L@S 2025, a dual-venue Palermo week"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T07",
+      "T17"
+    ],
+    "url": "https://www.unipa.it/persone/docenti/l/giosue.lobosco",
+    "notes": "EDM 2025 GC. ML for educational data.",
+    "key_works": [
+      "Single-cell trajectories reconstruction, exploration and mapping of omics data with STREAM (Nature Communications, 2019)",
+      "Deep learning models for bacteria taxonomic classification of metagenomic data (BMC Bioinformatics, 2018)",
+      "Human molecular chaperones share with SARS-CoV-2 antigenic epitopes potentially capable of eliciting autoimmunity against endothelial cells: possible role of molecular mimicry in COVID-19 (Cell Stress and Chaperones, 2020)",
+      "Deep Learning Architectures for DNA Sequence Classification (Lecture notes in computer science, 2017)",
+      "Spread of Tomato Brown Rugose Fruit Virus in Sicily and Evaluation of the Spatiotemporal Dispersion in Experimental Conditions (Agronomy, 2020)"
+    ],
+    "openalex_id": "https://openalex.org/A5089392019"
+  },
+  {
+    "resource_id": "LE-PP-277",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Luc Paquette",
+    "affiliation": "University of Illinois at Urbana-Champaign",
+    "era": "contemporary",
+    "role": "EDM 2025 Program Chair; student behavior detection in online learning",
+    "description": "Associate Professor in the College of Education at UIUC. Program Chair for EDM 2025. Research on detecting and modeling student behaviors (gaming the system, disengagement, off-task behavior) in online learning systems — a central EDM thread since the early 2010s.\n",
+    "key_contributions": [
+      "Program Chair, EDM 2025 (Palermo, Italy)",
+      "Developed data-driven and knowledge-engineered detectors of gaming-the-system and off-task behavior",
+      "Contributes to the EDM community's focus on behavioral rather than purely cognitive modeling"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T06",
+      "T17"
+    ],
+    "url": "https://education.illinois.edu/profile/luc-paquette",
+    "notes": "EDM 2025 PC. Behavior detection. Gaming-the-system detectors.",
+    "key_works": [
+      "A Longitudinal Study on Learner Career Advancement in MOOCs (Journal of Learning Analytics, 2014)",
+      "How Immersive Virtual Environments Foster Self-Regulated Learning (Advances in educational technologies and instructional design book series, 2018)",
+      "Behavioral predictors of MOOC post-course development (Learning Analytics and Knowledge, 2017)",
+      "Can Strategic Behaviour Facilitate Confusion Resolution? The Interplay Between Confusion and Metacognitive Strategies in Betty’s Brain (Journal of Learning Analytics, 2021)",
+      "Identifying Transfer of Inquiry Skills across Physical Science Simulations using Educational Data Mining (International Conference of Learning Sciences, 2014)"
+    ],
+    "openalex_id": "https://openalex.org/A5068205184"
+  },
+  {
+    "resource_id": "LE-PP-278",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Giora Alexandron",
+    "affiliation": "Weizmann Institute of Science, Israel",
+    "era": "contemporary",
+    "role": "EDM 2025 Program Chair; MOOCs and LA for science learning",
+    "description": "Senior Scientist in Science Teaching at Weizmann. Program Chair for EDM 2025. Research on AI in education, learning analytics, and MOOCs — particularly integrity and assessment at scale in science education.\n",
+    "key_contributions": [
+      "Program Chair, EDM 2025 (Palermo, Italy)",
+      "Established research program on academic integrity and cheating detection in MOOCs",
+      "Applies LA methods to physics and science education at Israel's national level"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T14",
+      "T11"
+    ],
+    "url": "https://www.weizmann.ac.il/ScienceTeaching/Alexandron/home",
+    "notes": "EDM 2025 PC. MOOC integrity. Science education LA.",
+    "key_works": [
+      "Empowering Teachers with AI: Co-Designing a Learning Analytics Tool for Personalized Instruction in the Science Classroom (2022)",
+      "Are MOOC Learning Analytics Results Trustworthy? With Fake Learners, They Might Not Be! (International Journal of Artificial Intelligence in Education, 2019)",
+      "Causal‐mechanical explanations in biology: Applying automated assessment for personalized learning in the science classroom (Journal of Research in Science Teaching, 2024)",
+      "Detecting cheaters in MOOCs using item response theory and learning analytics (2016)",
+      "Defining and measuring completion and assessment biases with respect to English language and development status: not all MOOCs are equal (International Journal of Educational Technology in Higher Education, 2021)"
+    ],
+    "openalex_id": "https://openalex.org/A5059416730"
+  },
+  {
+    "resource_id": "LE-PP-279",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "David A. Joyner",
+    "affiliation": "Georgia Institute of Technology",
+    "era": "contemporary",
+    "role": "EDM 2024 AND L@S 2024 General Chair; online CS education at scale",
+    "description": "Executive Director of Online Education & OMSCS at Georgia Tech's College of Computing. General Chair of BOTH EDM 2024 and L@S 2024 (Atlanta) — a dual-flagship role. Runs OMSCS, one of the largest graduate online programs in the world; research on at-scale online CS education, AI for student support, and equitable access in graduate online programs.\n",
+    "key_contributions": [
+      "General Chair, EDM 2024 AND L@S 2024 (both Atlanta, 2024)",
+      "Executive Director of OMSCS — ~15,000-student online CS master's program at Georgia Tech",
+      "Pioneered large-scale, equitable graduate online CS education as an evidence base for L@S research",
+      "Bridges EDM's algorithmic focus with L@S's platform-scale experimentation"
+    ],
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T07",
+      "T04"
+    ],
+    "url": "https://www.cc.gatech.edu/people/david-joyner",
+    "notes": "EDM 2024 + L@S 2024 GC (dual). OMSCS director. Online CS at scale.",
+    "key_works": [
+      "Designing and Developing Videos for Online Learning: A Seven-Principle Model (Online Learning, 2019)",
+      "Challenges of Online Learning in Nigeria (2020)",
+      "Jill Watson SA: Design and Evaluation of a Virtual Agent to Build Communities Among Online Learners (2020)",
+      "Intelligent Evaluation and Feedback in Support of a Credit-Bearing MOOC (Lecture notes in computer science, 2018)",
+      "Improving Inquiry-Driven Modeling in Science Education through Interaction with Intelligent Tutoring Agents (2015)"
+    ],
+    "openalex_id": "https://openalex.org/A5103136135"
+  },
+  {
+    "resource_id": "LE-PP-280",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Benjamin Paaßen",
+    "affiliation": "Bielefeld University, Germany",
+    "era": "contemporary",
+    "role": "EDM 2024 Program Chair; ML for knowledge tracing and structured educational data",
+    "description": "Assistant Professor at Bielefeld University. Program Chair for EDM 2024 (Atlanta). Research on machine learning for education, structured-data representation, and knowledge tracing.\n",
+    "key_contributions": [
+      "Program Chair, EDM 2024 (Atlanta, USA)",
+      "Develops ML methods for structured educational data (sequences, trees, graphs)",
+      "Research on deep knowledge tracing and interpretable student modeling"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T06",
+      "T07"
+    ],
+    "url": "https://bpaassen.gitlab.io/",
+    "notes": "EDM 2024 PC. ML for structured educational data. Knowledge tracing.",
+    "key_works": [
+      "Domain-Independent Proximity Measures in Intelligent Tutoring Systems (PUB – Publications at Bielefeld University (Bielefeld University), 2013)",
+      "Adaptive structure metrics for automated feedback provision in intelligent tutoring systems (Neurocomputing, 2016)",
+      "Execution Traces as a Powerful Data Representation for Intelligent Tutoring Systems for Programming (PUB – Publications at Bielefeld University (Bielefeld University), 2016)",
+      "A Toolbox for Adaptive Sequence Dissimilarity Measures for Intelligent Tutoring Systems (PUB – Publications at Bielefeld University (Bielefeld University), 2015)"
+    ],
+    "openalex_id": "https://openalex.org/A5057832550"
+  },
+  {
+    "resource_id": "LE-PP-281",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Carrie Demmans Epp",
+    "affiliation": "University of Alberta, Canada",
+    "era": "contemporary",
+    "role": "EDM 2024 Program Chair; LA for language learners and second-language acquisition",
+    "description": "Associate Professor at the University of Alberta, where she directs the EdTeKLA (Educational Technology for Knowledge and Language Acquisition) Lab. Program Chair for EDM 2024. Research on learning analytics and adaptive technologies for language learners and second-language acquisition — an under-represented LE population.\n",
+    "key_contributions": [
+      "Program Chair, EDM 2024 (Atlanta, USA)",
+      "Directs EdTeKLA Lab at Alberta; focuses LA/LE on underserved language learner populations",
+      "Applies mobile and adaptive technologies to support L2 learners' communicative practice"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T06",
+      "T14"
+    ],
+    "url": "https://apps.ualberta.ca/directory/person/demmanse",
+    "notes": "EDM 2024 PC. L2 learners. EdTeKLA lab.",
+    "key_works": [
+      "Evaluating the Effect of Uncertainty Visualisation in Open Learner Models on Students’ Metacognitive Skills (Lecture notes in computer science, 2017)",
+      "ProTutor: Historic Open Learner Models for Pronunciation Tutoring (Lecture notes in computer science, 2011)",
+      "Participating by activity or by week in MOOCs (Information and Learning Sciences, 2018)",
+      "Visualising alignment to support students’ judgment of confidence in open learner models (User Modeling and User-Adapted Interaction, 2020)",
+      "Uncertainty in Open Learner Models: Visualising Inconsistencies in the Underlying Data (2016)"
+    ],
+    "openalex_id": "https://openalex.org/A5016302791"
+  },
+  {
+    "resource_id": "LE-PP-282",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Rakesh Agrawal",
+    "affiliation": "Data Insights Laboratories, USA",
+    "era": "contemporary",
+    "role": "EDM 2023 General Chair; data mining pioneer applied to education",
+    "description": "Founder of Data Insights Laboratories. General Chair of EDM 2023 (Bengaluru). One of the original architects of modern data mining (association rules, privacy-preserving data mining, Vaidya-Clifton) who turned toward educational data mining and curriculum analytics in the 2010s. ACM and IEEE Fellow.\n",
+    "key_contributions": [
+      "General Chair, EDM 2023 (Bengaluru, India)",
+      "Foundational data-mining researcher (association rules, privacy-preserving data mining)",
+      "Applied industrial-scale DM methods to curriculum analytics and educational data",
+      "Senior international figure lending weight to EDM's methodological rigor"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T17",
+      "T14"
+    ],
+    "url": "https://www.data-insights.org/",
+    "notes": "EDM 2023 GC. Data mining pioneer. Association rules."
+  },
+  {
+    "resource_id": "LE-PP-283",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Y. Narahari",
+    "affiliation": "Indian Institute of Science (IISc), Bangalore",
+    "era": "contemporary",
+    "role": "EDM 2023 General Chair (host); game theory and mechanism design for learning platforms",
+    "description": "Professor at IISc Bangalore; local host lead for EDM 2023. Research on game theory and mechanism design applied to learning platforms, crowdsourcing, and multi-agent AI — bringing an economic/strategic lens to EDM.\n",
+    "key_contributions": [
+      "General Chair (host), EDM 2023 (Bengaluru, India) — anchored the first EDM in India",
+      "Applies game theory and mechanism design to incentives in online learning and crowdsourcing",
+      "Connected the Indian AI/CS research community to the global EDM venue"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T07",
+      "T11"
+    ],
+    "url": "https://www.dese.iisc.ac.in/faculty/y-narahari/",
+    "notes": "EDM 2023 GC (host). Game theory for learning platforms."
+  },
+  {
+    "resource_id": "LE-PP-284",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Mykola Pechenizkiy",
+    "affiliation": "Eindhoven University of Technology, Netherlands",
+    "era": "contemporary",
+    "role": "EDM 2023 General Chair; responsible data science and predictive analytics in education",
+    "description": "Full Professor at TU Eindhoven. General Chair for EDM 2023. Research on responsible data science, fair machine learning, and predictive analytics in education.\n",
+    "key_contributions": [
+      "General Chair, EDM 2023 (Bengaluru, India)",
+      "Leading voice on responsible/fair ML applied to predictive analytics in education",
+      "Long-running research program on EDM methodology, bias, and fairness"
+    ],
+    "primary_topic": "T14",
+    "secondary_topics": [
+      "T04",
+      "T17"
+    ],
+    "url": "https://www.tue.nl/en/research/researchers/mykola-pechenizkiy/",
+    "notes": "EDM 2023 GC. Fair ML. Responsible DM in education.",
+    "key_works": [
+      "Bridging learning sciences, machine learning and affective computing for understanding cognition and affect in collaborative learning (British Journal of Educational Technology, 2020)",
+      "Introduction to the special section on educational data mining (ACM SIGKDD Explorations Newsletter, 2012)"
+    ],
+    "openalex_id": "https://openalex.org/A5022601535"
+  },
+  {
+    "resource_id": "LE-PP-285",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Mingyu Feng",
+    "affiliation": "WestEd, USA",
+    "era": "contemporary",
+    "role": "EDM 2023 Program Chair; LA and ITS evaluation in K-12 mathematics",
+    "description": "Senior Research Scientist at WestEd. Program Chair for EDM 2023. Research on learning analytics, intelligent tutoring system evaluation, and K-12 mathematics education — notably large-scale RCTs of ASSISTments and similar systems.\n",
+    "key_contributions": [
+      "Program Chair, EDM 2023 (Bengaluru, India)",
+      "Led large-scale evaluations of ASSISTments and K-12 math ITS deployments",
+      "Bridges academic EDM research with district-scale impact evaluation at WestEd"
+    ],
+    "primary_topic": "T15",
+    "secondary_topics": [
+      "T04",
+      "T06"
+    ],
+    "url": "https://www.wested.org/personnel/mingyu-feng/",
+    "notes": "EDM 2023 PC. ASSISTments evaluations. K-12 math RCTs.",
+    "key_works": [
+      "Enhancing Teaching and Learning Through Educational Data Mining and Learning Analytics: An Issue Brief (2012)",
+      "When adaptive learning is effective learning: comparison of an adaptive learning system to teacher-led instruction (Interactive Learning Environments, 2020)",
+      "Predicting State Test Scores Better with Intelligent Tutoring Systems: Developing Metrics to Measure Assistance Required (Lecture notes in computer science, 2006)",
+      "Proceedings of the 16th International Conference on Educational Data Mining (Zenodo (CERN European Organization for Nuclear Research), 2023)",
+      "Can an Intelligent Tutoring System Predict Math Proficiency as Well as a Standardized Test (2008)"
+    ],
+    "openalex_id": "https://openalex.org/A5102978065"
+  },
+  {
+    "resource_id": "LE-PP-286",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Tanja Käser",
+    "affiliation": "EPFL, Switzerland",
+    "era": "contemporary",
+    "role": "EDM 2023 Program Chair; student modeling and knowledge tracing",
+    "description": "Assistant Professor at EPFL where she leads the ML4ED (Machine Learning for Education) lab. Program Chair for EDM 2023. Research on student modeling, knowledge tracing, and personalized learning — with methodological work on deep knowledge tracing and interpretability.\n",
+    "key_contributions": [
+      "Program Chair, EDM 2023 (Bengaluru, India)",
+      "Directs ML4ED at EPFL — a leading European ML-for-education lab",
+      "Advanced deep knowledge tracing methods with interpretability constraints",
+      "Key figure connecting European ML and EDM communities"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T04",
+      "T07"
+    ],
+    "url": "https://people.epfl.ch/tanja.kaeser",
+    "notes": "EDM 2023 PC. ML4ED lab. Deep knowledge tracing.",
+    "key_works": [
+      "Metacognition meets <scp>AI</scp> : Empowering reflective writing with large language models (British Journal of Educational Technology, 2025)",
+      "Beyond Knowledge Tracing: Modeling Skill Topologies with Bayesian Networks (Lecture notes in computer science, 2014)",
+      "The critical role of trust in adopting AI-powered educational technology for learning: An instrument for measuring student perceptions (Computers and Education Artificial Intelligence, 2025)",
+      "Proceedings of the 16th International Conference on Educational Data Mining (Zenodo (CERN European Organization for Nuclear Research), 2023)",
+      "Meta Transfer Learning for Early Success Prediction in MOOCs (2022)"
+    ],
+    "openalex_id": "https://openalex.org/A5007940211"
+  },
+  {
+    "resource_id": "LE-PP-287",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Partha P. Talukdar",
+    "affiliation": "Google DeepMind / IISc Bangalore",
+    "era": "contemporary",
+    "role": "EDM 2023 Program Chair; NLP, knowledge graphs, and AI for education",
+    "description": "Senior Research Scientist at Google DeepMind and faculty at IISc Bangalore. Program Chair for EDM 2023. Research on NLP, knowledge graphs, and AI for education — including language models for low-resource Indian languages.\n",
+    "key_contributions": [
+      "Program Chair, EDM 2023 (Bengaluru, India)",
+      "NLP and knowledge-graph researcher bridging industrial AI (DeepMind) and academic EDM",
+      "Works on language models for low-resource Indian languages with education applications"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T04",
+      "T05"
+    ],
+    "url": "https://parthatalukdar.github.io/",
+    "notes": "EDM 2023 PC. Google DeepMind. NLP/KG for education.",
+    "key_works": [
+      "Proceedings of the 16th International Conference on Educational Data Mining (Zenodo (CERN European Organization for Nuclear Research), 2023)"
+    ],
+    "openalex_id": "https://openalex.org/A5033696194"
+  },
+  {
+    "resource_id": "LE-PP-290",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Olga C. Santos",
+    "affiliation": "UNED (Universidad Nacional de Educación a Distancia), Spain",
+    "era": "contemporary",
+    "role": "AIED 2023/2024/2025 General Chair; user modeling and adaptive learning",
+    "description": "Associate Professor at UNED. General Chair or Co-Chair for AIED three years running (2023, 2024, 2025) — the most continuous GC role in the recent AIED era. Research on user modeling, intelligent tutoring systems, and AI-driven personalized/adaptive learning.\n",
+    "key_contributions": [
+      "General Chair or Co-Chair, AIED 2023, 2024, AND 2025 — three consecutive editions",
+      "Long-term leader of the IAIED community; continuity across changing local hosts",
+      "Research on user modeling for personalized AI-based learning systems",
+      "Anchors Spanish UNED's contribution to European AIED research"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T04"
+    ],
+    "url": "https://portalcientifico.uned.es/investigadores/181587/detalle",
+    "notes": "AIED 2023-2025 GC (3 consecutive years). User modeling for adaptive learning.",
+    "key_works": [
+      "User‐centred design and educational data mining support during the recommendations elicitation process in social online learning environments (Expert Systems, 2013)",
+      "Physical learning analytics (2018)",
+      "An open IMS-based user modelling approach for developing adaptive learning management systems (Journal of Interactive Media in Education, 2007)",
+      "Integration of Educational Specifications and Standards to Support Adaptive Learning Scenarios in ADAPTAPlan (International journal of computer science and applications, 2008)",
+      "Developing adaptive learning management systems - An open IMS-based user modelling approach (Journal of Interactive Media in Education, 2007)"
+    ],
+    "openalex_id": "https://openalex.org/A5024739711"
+  },
+  {
+    "resource_id": "LE-PP-291",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Seiji Isotani",
+    "affiliation": "University of São Paulo (ICMC/USP); Harvard Graduate School of Education",
+    "era": "contemporary",
+    "role": "AIED 2025 General Chair; gamification and LE for global south",
+    "description": "Professor at USP and affiliate at Harvard GSE. General Co-Chair of AIED 2025. Research on gamification, learning analytics, and AI-powered educational technology — with emphasis on large-scale learning in developing countries, especially Brazil.\n",
+    "key_contributions": [
+      "General Co-Chair, AIED 2025 (Palermo, Italy)",
+      "Leading AIED researcher from the Global South; co-founded the Brazilian LA research community",
+      "Research on gamification and engagement in large-scale adaptive learning at developing-country scale",
+      "Dual appointment at USP and Harvard GSE bridges LatAm and US LE research"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T04",
+      "T14"
+    ],
+    "url": "https://sites.usp.br/caed/",
+    "notes": "AIED 2025 GC. Gamification. LE for global south.",
+    "key_works": [
+      "Using learning analytics in the Amazonas: understanding students’ behaviour in introductory programming (British Journal of Educational Technology, 2020)",
+      "Educational Data Mining: A review of evaluation process in the e-learning (Telematics and Informatics, 2018)",
+      "Towards Reducing Cognitive Load and Enhancing Usability through a Reduced Graphical User Interface for a Dynamic Geometry System: An Experimental Study (2012)",
+      "GaTO: An Ontological Model to Apply Gamification in Intelligent Tutoring Systems (Frontiers in Artificial Intelligence, 2019)"
+    ],
+    "openalex_id": "https://openalex.org/A5006855037"
+  },
+  {
+    "resource_id": "LE-PP-292",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Alexandra I. Cristea",
+    "affiliation": "Durham University, UK",
+    "era": "contemporary",
+    "role": "AIED 2025 Program Chair; adaptive hypermedia and NLP for MOOCs",
+    "description": "Professor in the Department of Computer Science at Durham. Program Chair for AIED 2025. Research on adaptive hypermedia, personalization in MOOCs and e-learning, and NLP for educational applications.\n",
+    "key_contributions": [
+      "Program Chair, AIED 2025 (Palermo, Italy)",
+      "Long-standing researcher in adaptive hypermedia — one of AIED's formative sub-fields",
+      "Research on personalization and dropout prediction in MOOCs using NLP",
+      "Director of the Artificial Intelligence in Human Systems (AIHumans) centre at Durham"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T04"
+    ],
+    "url": "https://www.durham.ac.uk/staff/alexandra-i-cristea/",
+    "notes": "AIED 2025 PC. Adaptive hypermedia. MOOC personalization.",
+    "key_works": [
+      "Using learning analytics in the Amazonas: understanding students’ behaviour in introductory programming (British Journal of Educational Technology, 2020)",
+      "GRAPPLE: Learning Management Systems Meet Adaptive Learning Environments (Smart innovation, systems and technologies, 2012)",
+      "Earliest Predictor of Dropout in MOOCs: A Longitudinal Study of FutureLearn courses (Durham Research Online (Durham University), 2018)",
+      "Sim-GAIL: A generative adversarial imitation learning approach of student modelling for intelligent tutoring systems (Neural Computing and Applications, 2023)",
+      "Are They Learning or Playing? Moderator Conditions of Gamification’s Success in Programming Classrooms (ACM Transactions on Computing Education, 2022)"
+    ],
+    "openalex_id": "https://openalex.org/A5034125179"
+  },
+  {
+    "resource_id": "LE-PP-293",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Yu Lu",
+    "affiliation": "Beijing Normal University, China",
+    "era": "contemporary",
+    "role": "AIED 2025 Program Chair; learner modeling and ITS in China",
+    "description": "Professor at Beijing Normal University's Advanced Innovation Center for Future Education. Program Chair for AIED 2025. Research on learner modeling, knowledge tracing, and AI-driven intelligent tutoring systems — key link between the large Chinese AIED community and the international venue.\n",
+    "key_contributions": [
+      "Program Chair, AIED 2025 (Palermo, Italy)",
+      "Represents the largest national AIED research community (China) in international program leadership",
+      "Research on knowledge tracing and AI-tutor deployment at Chinese classroom scale",
+      "Affiliated with BNU's Advanced Innovation Center for Future Education"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T04"
+    ],
+    "url": "https://aic-fe.bnu.edu.cn/",
+    "notes": "AIED 2025 PC. Chinese AIED community link. Knowledge tracing.",
+    "key_works": [
+      "A Discriminative Feature Learning Approach for Deep Face Recognition (Lecture notes in computer science, 2016)",
+      "Temporal Segment Networks: Towards Good Practices for Deep Action Recognition (Lecture notes in computer science, 2016)",
+      "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks (Lecture notes in computer science, 2019)",
+      "NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results (2017)",
+      "Action recognition with trajectory-pooled deep-convolutional descriptors (2015)"
+    ],
+    "openalex_id": "https://openalex.org/A5100748135"
+  },
+  {
+    "resource_id": "LE-PP-294",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Ig Ibert Bittencourt",
+    "affiliation": "Federal University of Alagoas (UFAL), Brazil; Harvard Graduate School of Education",
+    "era": "contemporary",
+    "role": "AIED 2024 General Chair; AI for education social-good and affective ITS",
+    "description": "Professor at UFAL and affiliate at Harvard GSE. General Co-Chair of AIED 2024 (Recife, Brazil). Research on AI in education for social good, affective computing, and gamified intelligent tutoring systems — applied to public education in Brazil.\n",
+    "key_contributions": [
+      "General Co-Chair, AIED 2024 (Recife, Brazil) — first AIED hosted in Brazil",
+      "Research on AI-for-social-good in education at Brazilian public-school scale",
+      "Affective computing and gamified ITS research; MatBase adaptive math system",
+      "Dual UFAL/Harvard appointment; bridges Brazilian and US LE communities"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T14",
+      "T06"
+    ],
+    "url": "https://sites.google.com/view/igibert",
+    "notes": "AIED 2024 GC. Brazilian AIED. AI-for-social-good. Affective ITS.",
+    "key_works": [
+      "Visualizing Learning Analytics and Educational Data Mining Outputs (Lecture notes in computer science, 2018)",
+      "Authoring Tools for Designing Intelligent Tutoring Systems: a Systematic Review of the Literature (International Journal of Artificial Intelligence in Education, 2017)",
+      "Towards Reducing Cognitive Load and Enhancing Usability through a Reduced Graphical User Interface for a Dynamic Geometry System: An Experimental Study (2012)",
+      "GaTO: An Ontological Model to Apply Gamification in Intelligent Tutoring Systems (Frontiers in Artificial Intelligence, 2019)",
+      "Authoring Gamified Intelligent Tutoring Systems (Anais ... Workshops do Congresso Brasileiro de Informática na Educação, 2017)"
+    ],
+    "openalex_id": "https://openalex.org/A5061181768"
+  },
+  {
+    "resource_id": "LE-PP-295",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Andrew M. Olney",
+    "affiliation": "University of Memphis, Institute for Intelligent Systems",
+    "era": "contemporary",
+    "role": "AIED 2024 Program Chair; dialogue-based ITS and AutoTutor lineage",
+    "description": "Professor at the University of Memphis' Institute for Intelligent Systems. Program Chair for AIED 2024. Core contributor to the AutoTutor family of dialogue-based intelligent tutoring systems; research on natural language understanding in tutorial dialogue.\n",
+    "key_contributions": [
+      "Program Chair, AIED 2024 (Recife, Brazil)",
+      "Core contributor to AutoTutor — one of the most influential dialogue-based ITS programs",
+      "Research on natural-language understanding in tutorial dialogue and generative ITS content",
+      "Connects Memphis/Graesser lineage to the next AIED generation"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T05"
+    ],
+    "url": "https://olney.ai/",
+    "notes": "AIED 2024 PC. AutoTutor lineage. Dialogue ITS.",
+    "key_works": [
+      "SKOPE-IT (Shareable Knowledge Objects as Portable Intelligent Tutors): overlaying natural language tutoring on an adaptive learning system for mathematics (International Journal of STEM Education, 2018)",
+      "Automatic Classification of Question & Answer Discourse Segments from Teacher's Speech in Classrooms (Educational Data Mining, 2015)",
+      "Modeling Classroom Discourse: Do Models That Predict Dialogic Instruction Properties Generalize across Populations? (Educational Data Mining, 2015)",
+      "Semi-Automatic Detection of Teacher Questions from Human-Transcripts of Audio in Live Classrooms (Educational Data Mining, 2016)",
+      "AutoTutor: An Intelligent Tutoring System With Mixed-Initiative Dialogue (IEEE Transactions on Education, 2005)"
+    ],
+    "openalex_id": "https://openalex.org/A5006905045"
+  },
+  {
+    "resource_id": "LE-PP-296",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Irene-Angelica Chounta",
+    "affiliation": "University of Duisburg-Essen, Germany",
+    "era": "contemporary",
+    "role": "AIED 2024 Program Chair; LA for CSCL and human-centered AIED",
+    "description": "Professor of Computational Learning Sciences at the University of Duisburg-Essen. Program Chair for AIED 2024. Research at the intersection of learning analytics, computer-supported collaborative learning, and human-centered AIED.\n",
+    "key_contributions": [
+      "Program Chair, AIED 2024 (Recife, Brazil)",
+      "Bridges CSCL and AIED research traditions — a notably hybrid profile",
+      "Advocates human-centered AIED framings in a field often focused on automation",
+      "Leads the Computational Learning Sciences group at Duisburg-Essen"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T04",
+      "T03"
+    ],
+    "url": "https://www.uni-due.de/computer-science-education/chounta.php",
+    "notes": "AIED 2024 PC. CSCL + AIED. Human-centered AIED.",
+    "key_works": [
+      "“From Making to Learning”: introducing Dev Camps as an educational paradigm for Re-inventing Problem-based Learning (International Journal of Educational Technology in Higher Education, 2017)",
+      "Exploring Indicators for Collaboration Quality and Its Dimensions in Classroom Settings Using Multimodal Learning Analytics (Lecture notes in computer science, 2023)",
+      "Investigating social and semantic user roles in MOOC discussion forums (2016)",
+      "Towards the real-time evaluation of collaborative activities: Integration of an automatic rater of collaboration quality in the classroom from the teacher’s perspective (Education and Information Technologies, 2014)",
+      "The Impact of Student Model Updates on Contingent Scaffolding in a Natural-Language Tutoring System (Lecture notes in computer science, 2019)"
+    ],
+    "openalex_id": "https://openalex.org/A5062632351"
+  },
+  {
+    "resource_id": "LE-PP-297",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Zitao (Jerry) Liu",
+    "affiliation": "Jinan University, Guangzhou, China",
+    "era": "contemporary",
+    "role": "AIED 2024 Program Chair; knowledge tracing and at-scale AI tutoring",
+    "description": "Professor at Jinan University and Director of the Guangdong Institute of Smart Education. Program Chair for AIED 2024. Research on knowledge tracing, educational data mining, and large-scale deployment of AI tutoring — representing industry-scale Chinese AIED practice.\n",
+    "key_contributions": [
+      "Program Chair, AIED 2024 (Recife, Brazil)",
+      "Director of the Guangdong Institute of Smart Education — a large applied AIED center",
+      "Research on scalable knowledge tracing and AI-tutor deployment in Chinese education",
+      "Formerly led AIED research at TAL Education's industry research group"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T11"
+    ],
+    "url": "https://zitaoliu.github.io/",
+    "notes": "AIED 2024 PC. Knowledge tracing at scale. China industry AIED.",
+    "key_works": [
+      "Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations (Proceedings of the AAAI Conference on Artificial Intelligence, 2023)",
+      "Enhancing Deep Knowledge Tracing with Auxiliary Tasks (2023)",
+      "Deep Knowledge Tracing with Side Information (Lecture notes in computer science, 2019)",
+      "AI for Education (AI4EDU): Advancing Personalized Education with LLM and Adaptive Learning (2024)",
+      "Multimodal Learning for Classroom Activity Detection (2020)"
+    ],
+    "openalex_id": "https://openalex.org/A5014957271"
+  },
+  {
+    "resource_id": "LE-PP-298",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Vania Dimitrova",
+    "affiliation": "University of Leeds, UK (School of Computing)",
+    "era": "contemporary",
+    "role": "AIED 2023 General Chair; user modeling, semantic tech for adaptive learning, workplace learning",
+    "description": "Professor in the School of Computing at Leeds. General Co-Chair of AIED 2023 (Tokyo). Research on user/learner modeling, semantic technologies for adaptive learning, and workplace learning — one of AIED's senior figures in workplace/professional-learning research.\n",
+    "key_contributions": [
+      "General Co-Chair, AIED 2023 (Tokyo, Japan)",
+      "Long-time contributor to AIED; applies semantic technologies to adaptive workplace learning",
+      "Research on reflective learning tools and professional development at scale",
+      "Bridges AIED with workplace-learning practice via EU projects"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T10"
+    ],
+    "url": "https://eps.leeds.ac.uk/computing/staff/227/professor-vania-dimitrova",
+    "notes": "AIED 2023 GC. Workplace learning. Semantic adaptive systems.",
+    "key_works": [
+      "STyLE-OLM: Interactive Open Learner Modelling (International Journal of Artificial Intelligence in Education, 2003)",
+      "Applying Interactive Open Learner Models to Learning Technical Terminology (Lecture notes in computer science, 2001)",
+      "\"Open Learner Models: Future Research Directions\" Special Issue of the IJAIED (Part 2) (International Journal of Artificial Intelligence in Education, 2007)",
+      "From Interactive Open Learner Modelling to Intelligent Mentoring: STyLE-OLM and Beyond (International Journal of Artificial Intelligence in Education, 2015)",
+      "The Design and Implementation of a Graphical Communication Medium for Interactive Open Learner Modelling (Lecture notes in computer science, 2002)"
+    ],
+    "openalex_id": "https://openalex.org/A5084785996"
+  },
+  {
+    "resource_id": "LE-PP-299",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Noboru Matsuda",
+    "affiliation": "North Carolina State University",
+    "era": "contemporary",
+    "role": "AIED 2023 General Chair; learning-by-teaching (SimStudent) and cognitive modeling",
+    "description": "Professor at NC State. General Co-Chair of AIED 2023. Research on intelligent tutoring systems, learning-by-teaching (via SimStudent), and cognitive modeling — extending the Anderson/Koedinger cognitive-tutor lineage into student-teaching agents.\n",
+    "key_contributions": [
+      "General Co-Chair, AIED 2023 (Tokyo, Japan)",
+      "Developer of SimStudent — an AI student-agent framework for learning-by-teaching",
+      "Extends cognitive-tutor tradition into pedagogical agent and teachable-agent designs",
+      "Connects CMU/Koedinger lineage to AIED program leadership"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T01"
+    ],
+    "url": "https://www.csc.ncsu.edu/people/nmatsud",
+    "notes": "AIED 2023 GC. SimStudent. Teachable agents.",
+    "key_works": [
+      "The Effect of Metacognitive Scaffolding for Learning by Teaching a Teachable Agent (International Journal of Artificial Intelligence in Education, 2020)",
+      "Learning by Teaching SimStudent – An Initial Classroom Baseline Study Comparing with Cognitive Tutor (Lecture notes in computer science, 2011)",
+      "Metacognitive Scaffolding Amplifies the Effect of Learning by Teaching a Teachable Agent (Lecture notes in computer science, 2018)",
+      "Teaching the Teacher: Tutoring SimStudent Leads to More Effective Cognitive Tutor Authoring (International Journal of Artificial Intelligence in Education, 2014)",
+      "Advanced Geometry Tutor: An intelligent tutor that teaches proof-writing with construction (2005)"
+    ],
+    "openalex_id": "https://openalex.org/A5053576557"
+  },
+  {
+    "resource_id": "LE-PP-300",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Ning Wang",
+    "affiliation": "University of Southern California, Institute for Creative Technologies",
+    "era": "contemporary",
+    "role": "AIED 2023 Program Chair; pedagogical agents and virtual humans",
+    "description": "Research Associate Professor at USC's ICT. Program Co-Chair for AIED 2023. Research on virtual humans, pedagogical agents, and socially intelligent learning technologies — applying ICT's virtual-human research to education.\n",
+    "key_contributions": [
+      "Program Co-Chair, AIED 2023 (Tokyo, Japan)",
+      "Applies USC ICT's virtual-human technologies to pedagogical agents and learning",
+      "Research on socially intelligent tutors that model rapport and trust"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T02"
+    ],
+    "url": "https://ict.usc.edu/about-us/leadership/research-leadership/ning-wang/",
+    "notes": "AIED 2023 PC. Virtual humans. Pedagogical agents.",
+    "key_works": [
+      "The Immune Landscape of Cancer (Immunity, 2018)",
+      "Machine Learning Identifies Stemness Features Associated with Oncogenic Dedifferentiation (Cell, 2018)",
+      "Genomic and Functional Approaches to Understanding Cancer Aneuploidy (Cancer Cell, 2018)",
+      "Knowledge sharing, innovation and firm performance (Expert Systems with Applications, 2012)",
+      "Comprehensive Analysis of Alternative Splicing Across Tumors from 8,705 Patients (Cancer Cell, 2018)"
+    ],
+    "openalex_id": "https://openalex.org/A5101669235"
+  },
+  {
+    "resource_id": "LE-PP-301",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Genaro Rebolledo-Méndez",
+    "affiliation": "Universidad Veracruzana, Mexico",
+    "era": "contemporary",
+    "role": "AIED 2023 Program Chair; affective tutoring and game-based learning",
+    "description": "Professor at Universidad Veracruzana. Program Co-Chair for AIED 2023. Research on affective/emotion-aware tutoring, learner modeling, and game-based learning — a key link between the Latin American AIED community and the international venue.\n",
+    "key_contributions": [
+      "Program Co-Chair, AIED 2023 (Tokyo, Japan)",
+      "Senior researcher from Latin America in AIED program leadership",
+      "Research on emotion-aware tutors and engagement in game-based learning",
+      "Bridges Mexican/Latin American AIED community with international program"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T06",
+      "T01"
+    ],
+    "url": "https://www.uv.mx/personal/gebolledo/",
+    "notes": "AIED 2023 PC. Affective tutoring. Latin American AIED.",
+    "key_works": [
+      "Towards Systems That Care: A Conceptual Framework based on Motivation, Metacognition and Affect (International Journal of Artificial Intelligence in Education, 2010)",
+      "Collaboration in cognitive tutor use in latin America (2012)",
+      "Meta-Affective Behaviour within an Intelligent Tutoring System for Mathematics (International Journal of Artificial Intelligence in Education, 2021)",
+      "The Effects of Motivational Modeling on Affect in an Intelligent Tutoring System (UCL Discovery (University College London), 2008)",
+      "Designing Adaptive Motivational Scaffolding for a Tutoring System (2011)"
+    ],
+    "openalex_id": "https://openalex.org/A5074022713"
+  },
+  {
+    "resource_id": "LE-PP-305",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Pirita Seitamaa-Hakkarainen",
+    "affiliation": "University of Helsinki, Finland",
+    "era": "contemporary",
+    "role": "ISLS 2025 Conference Co-Chair; maker/craft learning and collaborative design",
+    "description": "Professor at the University of Helsinki. Conference Co-Chair of ISLS 2025 (Helsinki). Research on craft, design, and maker learning, and on collaborative designing as a learning activity — positioned in the constructionist tradition within the learning sciences.\n",
+    "key_contributions": [
+      "Conference Co-Chair, ISLS 2025 (Helsinki, Finland)",
+      "Leading researcher on craft/maker/design pedagogy in the learning sciences",
+      "Advances collaborative design as a core learning activity within ISLS scholarship"
+    ],
+    "primary_topic": "T17",
+    "secondary_topics": [
+      "T03",
+      "T01"
+    ],
+    "url": "https://www.helsinki.fi/en/about-us/people/people-finder/pirita-seitamaa-hakkarainen-9034437",
+    "notes": "ISLS 2025 Conf Chair. Maker/craft learning. Collaborative design.",
+    "key_works": [
+      "Figuring the world of designing: Expert participation in elementary classroom (International Journal of Technology and Design Education, 2011)"
+    ],
+    "openalex_id": "https://openalex.org/A5034335447"
+  },
+  {
+    "resource_id": "LE-PP-306",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Kaiju Kangas",
+    "affiliation": "University of Helsinki, Finland",
+    "era": "contemporary",
+    "role": "ISLS 2025 Conference Co-Chair; co-invention pedagogy and design education",
+    "description": "University Lecturer at the University of Helsinki. Conference Co-Chair of ISLS 2025. Research on co-invention pedagogy, craft/design education, and embodied learning in schools.\n",
+    "key_contributions": [
+      "Conference Co-Chair, ISLS 2025 (Helsinki, Finland)",
+      "Develops co-invention pedagogy combining design/making with classroom learning",
+      "Research on embodied/materialized learning in K-12 design education"
+    ],
+    "primary_topic": "T17",
+    "secondary_topics": [
+      "T03",
+      "T01"
+    ],
+    "url": "https://researchportal.helsinki.fi/en/persons/kaiju-kangas",
+    "notes": "ISLS 2025 Conf Chair. Co-invention pedagogy.",
+    "key_works": [
+      "Figuring the world of designing: Expert participation in elementary classroom (International Journal of Technology and Design Education, 2011)",
+      "The Artifact Project Promoting Design Learning in the Elementary Classroom (Työväentutkimus Vuosikirja, 2014)"
+    ],
+    "openalex_id": "https://openalex.org/A5073801200"
+  },
+  {
+    "resource_id": "LE-PP-307",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Chris Hoadley",
+    "affiliation": "University at Buffalo (SUNY), Graduate School of Education",
+    "era": "contemporary",
+    "role": "ISLS 2024 Conference Chair; CSCL and design-based research",
+    "description": "Professor at University at Buffalo's Graduate School of Education. Conference Chair of ISLS 2024 (Buffalo). Long-time researcher on design-based research methodology and collaborative learning technologies; past President of ISLS.\n",
+    "key_contributions": [
+      "Conference Chair, ISLS 2024 (Buffalo, NY)",
+      "Past President of ISLS; senior community-building figure in learning sciences",
+      "Long-running research program on CSCL tool design and design-based research methodology"
+    ],
+    "primary_topic": "T17",
+    "secondary_topics": [
+      "T03",
+      "T01"
+    ],
+    "url": "https://ed.buffalo.edu/about/directory/faculty/profile.html?uid=tophe",
+    "notes": "ISLS 2024 Conf Chair. ISLS past president. DBR.",
+    "key_works": [
+      "Evaluating online learning communities (Educational Technology Research and Development, 2009)",
+      "Instructional systems design and the learning sciences: A citation analysis (Educational Technology Research and Development, 2005)",
+      "Learning and design: Why the learning sciences and instructional systems need each other (Educational technology: The magazine for managers of change in education, 2004)",
+      "Design-based research: What it is and why it matters to studying online learning (Educational Psychologist, 2022)",
+      "A Short History of the Learning Sciences (2018)"
+    ],
+    "openalex_id": "https://openalex.org/A5012123334"
+  },
+  {
+    "resource_id": "LE-PP-308",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "X. Christine Wang",
+    "affiliation": "University at Buffalo (SUNY), Graduate School of Education",
+    "era": "contemporary",
+    "role": "ISLS 2024 Conference Co-Chair; early-childhood learning with technology",
+    "description": "Professor at University at Buffalo's Graduate School of Education. Conference Co-Chair of ISLS 2024. Research on early childhood learning with technology and cross-cultural classroom interaction.\n",
+    "key_contributions": [
+      "Conference Co-Chair, ISLS 2024 (Buffalo, NY)",
+      "Research on early-childhood learning with technology — underrepresented in LE",
+      "Cross-cultural classroom interaction studies in US and Chinese contexts"
+    ],
+    "primary_topic": "T17",
+    "secondary_topics": [
+      "T03",
+      "T12"
+    ],
+    "url": "https://ed.buffalo.edu/about/directory/faculty/profile.html?uid=xwang6",
+    "notes": "ISLS 2024 Conf Co-Chair. Early-childhood TEL.",
+    "key_works": [
+      "Digital Photography and Journals in a Kindergarten-First-Grade Classroom: Toward Meaningful Technology Integration in Early Childhood Education (Early Education and Development, 2006)",
+      "Exploring a Community of Practice Model for Professional Development to Address Challenges to Classroom Practices in Early Childhood (Journal of Early Childhood Teacher Education, 2013)",
+      "Scaffolding Young Children's Reflections With Student-Created PowerPoint Presentations (Journal of Research in Childhood Education, 2004)",
+      "Playful Computational Thinking Learning in and Beyond Early Childhood Classrooms: Insights from Collaborative Action Research of Two Teacher-Researchers (Education Sciences, 2025)"
+    ],
+    "openalex_id": "https://openalex.org/A5033623381"
+  },
+  {
+    "resource_id": "LE-PP-310",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Jennifer Meyer",
+    "affiliation": "University of Vienna, Centre for Teacher Education",
+    "era": "contemporary",
+    "role": "L@S 2025 Program Co-Chair; AI feedback and individual differences in learning",
+    "description": "Assistant Professor of Educational Diagnostics and Counselling at the University of Vienna. Program Co-Chair for L@S 2025. Jacobs Foundation Research Fellow. Research on effective use of AI-driven formative feedback in classrooms and individual differences in learning with AI.\n",
+    "key_contributions": [
+      "Program Co-Chair, L@S 2025 (Palermo, Italy)",
+      "Jacobs Foundation Research Fellow studying AI feedback at scale",
+      "Research on individual differences in how learners benefit from AI-driven feedback"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T04",
+      "T01"
+    ],
+    "url": "https://ucrisportal.univie.ac.at/en/persons/jennifer-meyer/",
+    "notes": "L@S 2025 PC. AI feedback. Jacobs Foundation Fellow."
+  },
+  {
+    "resource_id": "LE-PP-311",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Min Kyu Kim",
+    "affiliation": "Georgia State University, College of Education & Human Development",
+    "era": "contemporary",
+    "role": "L@S 2024 Program Co-Chair; AI-augmented adaptive learning and engagement modeling",
+    "description": "Associate Professor in Learning Sciences at Georgia State. Program Co-Chair for L@S 2024. Runs the AI² Research Lab; research on AI-augmented adaptive learning environments and modeling cognitive/behavioral/emotional engagement.\n",
+    "key_contributions": [
+      "Program Co-Chair, L@S 2024 (Atlanta, USA)",
+      "Directs the AI² Research Lab at Georgia State",
+      "Research on cognitive/behavioral/emotional engagement modeling in adaptive systems"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T04",
+      "T06"
+    ],
+    "url": "https://education.gsu.edu/profile/min-kyu-kim/",
+    "notes": "L@S 2024 PC. AI² Research Lab. Engagement modeling.",
+    "key_works": [
+      "Dynamics of the Cogwheel Instructional Design Model: Integrating a Central Training Center with Subordinate Training Branches (Educational Technology archive, 2010)",
+      "The experience of three flipped classrooms in an urban university: an exploration of design principles (The Internet and Higher Education, 2014)",
+      "Building teacher competency for digital content evaluation (Teaching and Teacher Education, 2017)",
+      "Who are online learning leaders? Piloting a leader identification method (LIM) (Computers in Human Behavior, 2019)",
+      "Individual Learning Vs. Interactive Learning: A Cognitive Diagnostic Analysis of MOOC Students’ Learning Behaviors (American Journal of Distance Education, 2020)"
+    ],
+    "openalex_id": "https://openalex.org/A5100773730"
+  },
+  {
+    "resource_id": "LE-PP-312",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Xu Wang",
+    "affiliation": "University of Michigan, CSE / School of Information",
+    "era": "contemporary",
+    "role": "L@S 2024 Program Co-Chair; ITS for scalable expertise sharing",
+    "description": "Assistant Professor at Michigan CSE (with a courtesy appointment at the School of Information). Program Co-Chair for L@S 2024. Directs the Lifelong Learning Lab; research on intelligent tutoring systems for scalable expertise sharing, at the intersection of HCI, learning sciences, and AI.\n",
+    "key_contributions": [
+      "Program Co-Chair, L@S 2024 (Atlanta, USA)",
+      "Directs the Lifelong Learning Lab at Michigan — HCI + learning sciences + AI",
+      "Research on scalable expertise-sharing ITS for professional/lifelong learning"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T07",
+      "T10"
+    ],
+    "url": "https://web.eecs.umich.edu/~xwanghci/",
+    "notes": "L@S 2024 PC. Expertise-sharing ITS. Lifelong Learning Lab."
+  },
+  {
+    "resource_id": "LE-PP-313",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Meng Xia",
+    "affiliation": "Texas A&M University, CSE",
+    "era": "contemporary",
+    "role": "L@S 2024 Program Co-Chair; human-AI interaction and visualization for personalized learning",
+    "description": "Assistant Professor at TAMU CSE. Program Co-Chair for L@S 2024. Directs the Dream Lab; research on human-AI interaction and data visualization for personalized online learning systems.\n",
+    "key_contributions": [
+      "Program Co-Chair, L@S 2024 (Atlanta, USA)",
+      "Directs the Dream Lab at Texas A&M",
+      "Research on visualization and human-AI interaction in personalized online learning"
+    ],
+    "primary_topic": "T07",
+    "secondary_topics": [
+      "T04",
+      "T11"
+    ],
+    "url": "https://www.xiameng.org/",
+    "notes": "L@S 2024 PC. Dream Lab. Visualization for personalized learning."
+  },
+  {
+    "resource_id": "LE-PP-314",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Daniel Spikol",
+    "affiliation": "University of Copenhagen, Center for Digital Education",
+    "era": "contemporary",
+    "role": "L@S 2023 General Chair; multimodal learning analytics for hands-on STEM",
+    "description": "Associate Professor of Computational Thinking at the University of Copenhagen. General Chair of L@S 2023 (Copenhagen). Research on multimodal learning analytics for collaborative, hands-on STEM/STEAM project-based learning; co-editor of The Multimodal Learning Analytics Handbook.\n",
+    "key_contributions": [
+      "General Chair, L@S 2023 (Copenhagen, Denmark)",
+      "Co-editor of The Multimodal Learning Analytics Handbook",
+      "Research on MMLA for collaborative, hands-on STEM/STEAM project-based learning",
+      "Bridges Scandinavian CS education research and the international L@S community"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T08",
+      "T11"
+    ],
+    "url": "https://researchprofiles.ku.dk/en/persons/daniel-spikol",
+    "notes": "L@S 2023 GC. Multimodal LA handbook. Hands-on STEM analytics.",
+    "key_works": [
+      "Round or rectangular tables for collaborative problem solving? A multimodal learning analytics study (British Journal of Educational Technology, 2020)",
+      "Supervised machine learning in multimodal learning analytics for estimating success in project‐based learning (Journal of Computer Assisted Learning, 2018)",
+      "Research trends in multimodal learning analytics: A systematic mapping study (Computers and Education Artificial Intelligence, 2023)",
+      "Estimation of Success in Collaborative Learning Based on Multimodal Learning Analytics Features (2017)",
+      "Modelling collaborative problem-solving competence with transparent learning analytics (2020)"
+    ],
+    "openalex_id": "https://openalex.org/A5013468201"
+  },
+  {
+    "resource_id": "LE-PP-315",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Olga Viberg",
+    "affiliation": "KTH Royal Institute of Technology, Sweden",
+    "era": "contemporary",
+    "role": "L@S 2023 Program Co-Chair; Editor-in-Chief, Journal of Learning Analytics",
+    "description": "Associate Professor of Media Technology (Technology-Enhanced Learning) at KTH. Program Co-Chair for L@S 2023. Editor-in-Chief of the Journal of Learning Analytics. Research on learning analytics, AI in higher education, and responsible/trustworthy use of student data.\n",
+    "key_contributions": [
+      "Program Co-Chair, L@S 2023 (Copenhagen, Denmark)",
+      "Editor-in-Chief, Journal of Learning Analytics — central editorial role in the LA field",
+      "Research on responsible/trustworthy use of student data in higher education",
+      "Senior KTH researcher connecting Swedish HE to the LA community"
+    ],
+    "primary_topic": "T04",
+    "secondary_topics": [
+      "T14",
+      "T17"
+    ],
+    "url": "https://www.kth.se/profile/oviberg",
+    "notes": "L@S 2023 PC. JLA Editor-in-Chief. Responsible LA.",
+    "key_works": [
+      "Self-regulated learning and learning analytics in online learning environments (2020)",
+      "Mobile-assisted language learning through learning analytics for self-regulated learning (MALLAS): A conceptual framework (Australasian Journal of Educational Technology, 2020)",
+      "Students' privacy concerns in learning analytics: Model development (British Journal of Educational Technology, 2022)",
+      "The current landscape of learning analytics in higher education (Computers in Human Behavior, 2018)",
+      "Efforts in Europe for Data-Driven Improvement of Education – A Review of Learning Analytics Research in Seven Countries (International Journal of Learning Analytics and Artificial Intelligence for Education (iJAI), 2019)"
+    ],
+    "openalex_id": "https://openalex.org/A5036322331"
+  },
+  {
+    "resource_id": "LE-PP-316",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Philip J. Guo",
+    "affiliation": "UC San Diego, Cognitive Science and CSE",
+    "era": "contemporary",
+    "role": "L@S 2023 Program Co-Chair; HCI for learning programming at scale",
+    "description": "Professor of Cognitive Science (and CSE) at UC San Diego. Program Co-Chair for L@S 2023. Creator of Python Tutor — one of the most widely used educational tools for visualizing program execution. Research on HCI and scalable tools for learning programming/data science; online learning at scale.\n",
+    "key_contributions": [
+      "Program Co-Chair, L@S 2023 (Copenhagen, Denmark)",
+      "Creator of Python Tutor — ubiquitous educational tool for program-execution visualization",
+      "Research on HCI-grounded scalable tools for learning programming and data science",
+      "Frequent L@S and CHI author on online/scale learning interventions"
+    ],
+    "primary_topic": "T11",
+    "secondary_topics": [
+      "T07",
+      "T04"
+    ],
+    "url": "https://pg.ucsd.edu/",
+    "notes": "L@S 2023 PC. Python Tutor creator. HCI for programming education.",
+    "key_works": [
+      "Demographic differences in how students navigate through MOOCs (2014)",
+      "Toward a domain-specific visual discussion forum for learning computer programming: An empirical study of a popular MOOC forum (2015)"
+    ],
+    "openalex_id": "https://openalex.org/A5060695800"
+  },
+  {
+    "resource_id": "LE-PP-320",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Megan Torrance",
+    "affiliation": "TorranceLearning (CEO & Founder)",
+    "era": "contemporary",
+    "role": "ICICLE 2024 Conference Co-Chair; LLAMA agile learning design and xAPI",
+    "description": "CEO and Founder of TorranceLearning, a corporate learning design consultancy. Conference Co-Chair of ICICLE 2024 (Tempe, AZ). Practitioner leader in workplace/corporate learning engineering; creator of the LLAMA agile learning design methodology and a prolific implementer of xAPI in enterprise contexts.\n",
+    "key_contributions": [
+      "Conference Co-Chair, ICICLE 2024 (Tempe, AZ)",
+      "Creator of LLAMA — an agile learning design methodology widely adopted in corporate L&D",
+      "Prominent practitioner voice on xAPI implementation in enterprise learning contexts",
+      "Brings corporate/workplace LE perspective to the ICICLE community"
+    ],
+    "primary_topic": "T12",
+    "secondary_topics": [
+      "T10",
+      "T16"
+    ],
+    "url": "https://www.torrancelearning.com/our-team/",
+    "notes": "ICICLE 2024 Conf Co-Chair. LLAMA methodology. Corporate LE."
+  },
+  {
+    "resource_id": "LE-PP-321",
+    "content_type": "PP",
+    "source": "curated",
+    "status": "APPROVED",
+    "name": "Rachel Van Campenhout",
+    "affiliation": "VitalSource (formerly Acrobatiq)",
+    "era": "contemporary",
+    "role": "ICICLE 2023 Conference Co-Chair; the doer effect and automatic question generation",
+    "description": "Senior Research Scientist at VitalSource, formerly at Acrobatiq. Conference Co-Chair of ICICLE 2023 (CMU). Industry LE researcher working on the doer effect (originally with CMU/OLI), automatic question generation, and adaptive learning — and on ethics in educational technology.\n",
+    "key_contributions": [
+      "Conference Co-Chair, ICICLE 2023 (Carnegie Mellon University)",
+      "Industry researcher extending the doer effect research program via VitalSource courseware",
+      "Research on automatic question generation for adaptive learning",
+      "Active voice on ethics in educational technology within ICICLE community"
+    ],
+    "primary_topic": "T06",
+    "secondary_topics": [
+      "T04",
+      "T14"
+    ],
+    "url": "https://www.linkedin.com/in/rachel-van-campenhout-ed-d-810a5b69/",
+    "notes": "ICICLE 2023 Conf Co-Chair. Doer effect in industry. AQG.",
+    "key_works": [
+      "Teaching and Learning with AI-Generated Courseware: Lessons from the Classroom (Online Learning, 2022)",
+      "Engaging in Student-Centered Educational Data Science Through Learning Engineering (Big data management, 2023)",
+      "Automatically Generated Practice in the Classroom: Exploring Performance and Impact Across Courses (2024)",
+      "Supporting Metacognitive Learning Strategies Through an Adaptive Application (Lecture notes in computer science, 2020)",
+      "Learning Engineering as an Ethical Framework (Lecture notes in computer science, 2021)"
+    ],
+    "openalex_id": "https://openalex.org/A5059031099"
   }
 ]

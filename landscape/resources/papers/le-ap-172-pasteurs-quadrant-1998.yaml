@@ -2,18 +2,21 @@ resource_id: LE-AP-172
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Pasteur's Quadrant: Basic science and technological innovation"
+title: 'Pasteur''s Quadrant: Basic science and technological innovation'
 authors: []
 year: 1998
 venue: Journal of Policy Analysis and Management
-doi: "10.1002/(sici)1520-6688(199823)17:4<734::aid-pam10>3.0.co;2-g"
+doi: 10.1002/(sici)1520-6688(199823)17:4<734::aid-pam10>3.0.co;2-g
 tier: highly_cited
 citation_count_approx: 1852
 cross_seed_score: 4
-openalex_id: "W2016331831"
-significance: >
-  Published in Journal of Policy Analysis and Management; addresses library
-  science, citation, quadrant (abdomen). Quality-filtered from OpenAlex cross-
-  seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
-  Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2016331831
+significance: 'Published in Journal of Policy Analysis and Management; addresses library science, citation, quadrant
+  (abdomen). Quality-filtered from OpenAlex cross- seed expansion of the Goodell & Kolodner Learning Engineering
+  Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T00
+secondary_topics:
+- T01
+- T17

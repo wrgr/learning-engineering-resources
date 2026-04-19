@@ -1,0 +1,19 @@
+resource_id: LE-IC-036
+content_type: GL
+source: icicle
+status: APPROVED
+title: Teaming Up to Improve Medical & Healthcare Education (Kurzweil & Marcellas, 2020)
+authors:
+- Teaming Up to Improve Medical
+- Healthcare Education
+year: 2020
+publisher: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T13
+secondary_topics:
+- T00
+- T03
+significance: Case study and practitioner article applying learning engineering team approaches to medical
+  and healthcare professional education. Demonstrates LE in a high-stakes, complex domain.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

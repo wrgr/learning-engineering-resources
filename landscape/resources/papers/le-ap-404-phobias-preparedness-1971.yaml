@@ -1,18 +1,20 @@
 resource_id: LE-AP-404
 content_type: AP
 source: openalex_expansion
-status: seed
-title: "Phobias and preparedness"
+status: non_le
+title: Phobias and preparedness
 authors: []
 year: 1971
 venue: Behavior Therapy
-doi: "10.1016/s0005-7894(71)80064-3"
+doi: 10.1016/s0005-7894(71)80064-3
 tier: highly_cited
 citation_count_approx: 1610
 cross_seed_score: 2
-openalex_id: "W2009444840"
-significance: >
-  Published in Behavior Therapy; addresses phobias, psychology, preparedness.
-  Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner
-  Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+openalex_id: W2009444840
+significance: 'Published in Behavior Therapy; addresses phobias, psychology, preparedness. Quality-filtered from
+  OpenAlex cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex
+  enrichment.
+
+  '
 primary_topic: T01
+classification_note: LLM flagged as non-LE cross-seed contamination

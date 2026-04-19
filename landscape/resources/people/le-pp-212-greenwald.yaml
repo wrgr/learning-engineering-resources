@@ -1,0 +1,19 @@
+resource_id: LE-PP-212
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Scott W. Greenwald
+affiliation: MIT
+era: contemporary
+role: Immersive learning and VR researcher; MIT Media Lab.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Immersive learning and VR researcher;
+  MIT Media Lab.
+key_works:
+- Learning Engineering is a Process (2022)
+- Chapter 1 Learning Engineering is a Process (2023)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5108663280
+openalex_id: https://openalex.org/A5108663280
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5108663280; verify on review.

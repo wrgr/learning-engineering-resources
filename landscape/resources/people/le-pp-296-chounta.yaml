@@ -1,0 +1,35 @@
+resource_id: LE-PP-296
+content_type: PP
+source: curated
+status: APPROVED
+name: Irene-Angelica Chounta
+affiliation: University of Duisburg-Essen, Germany
+era: contemporary
+role: AIED 2024 Program Chair; LA for CSCL and human-centered AIED
+description: 'Professor of Computational Learning Sciences at the University of Duisburg-Essen. Program Chair for
+  AIED 2024. Research at the intersection of learning analytics, computer-supported collaborative learning, and
+  human-centered AIED.
+
+  '
+key_contributions:
+- Program Chair, AIED 2024 (Recife, Brazil)
+- Bridges CSCL and AIED research traditions — a notably hybrid profile
+- Advocates human-centered AIED framings in a field often focused on automation
+- Leads the Computational Learning Sciences group at Duisburg-Essen
+primary_topic: T07
+secondary_topics:
+- T04
+- T03
+url: https://www.uni-due.de/computer-science-education/chounta.php
+notes: AIED 2024 PC. CSCL + AIED. Human-centered AIED.
+key_works:
+- '“From Making to Learning”: introducing Dev Camps as an educational paradigm for Re-inventing Problem-based Learning
+  (International Journal of Educational Technology in Higher Education, 2017)'
+- Exploring Indicators for Collaboration Quality and Its Dimensions in Classroom Settings Using Multimodal Learning
+  Analytics (Lecture notes in computer science, 2023)
+- Investigating social and semantic user roles in MOOC discussion forums (2016)
+- 'Towards the real-time evaluation of collaborative activities: Integration of an automatic rater of collaboration
+  quality in the classroom from the teacher’s perspective (Education and Information Technologies, 2014)'
+- The Impact of Student Model Updates on Contingent Scaffolding in a Natural-Language Tutoring System (Lecture notes
+  in computer science, 2019)
+openalex_id: https://openalex.org/A5062632351

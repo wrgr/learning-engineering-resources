@@ -1,0 +1,26 @@
+resource_id: LE-AP-1011
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Automatically Generated Practice in the Classroom: Exploring Performance and Impact Across Courses'
+authors:
+- Rachel Van Campenhout
+- Benny G. Johnson
+- Michelle W. Clark
+- Melissa Deininger
+- Shannon B. Harper
+- Kelly G. Odenweller
+- Erin Wilgenbusch
+year: 2024
+venue: Unknown Venue
+doi: 10.23919/softcom62040.2024.10721828
+tier: contemporary
+citation_count_approx: 4
+cross_seed_score: 1
+openalex_id: W4403678271
+significance: Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Rachel
+  Van Campenhout). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T04
+- T14

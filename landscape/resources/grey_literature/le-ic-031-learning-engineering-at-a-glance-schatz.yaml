@@ -1,0 +1,18 @@
+resource_id: LE-IC-031
+content_type: GL
+source: icicle
+status: APPROVED
+title: Learning Engineering at a Glance (Schatz, Goodell & Kessler, Army Press, 2023)
+authors:
+- Learning Engineering at a Glance
+year: 2023
+publisher: US Army Press
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T00
+secondary_topics:
+- T13
+- T10
+significance: Concise overview of learning engineering for military and defense training contexts, published
+  by US Army Press. Bridges LE field concepts with high-consequence domain workforce applications.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

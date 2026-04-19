@@ -1,0 +1,17 @@
+resource_id: LE-PP-226
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Prasad Ram
+affiliation: Gooru
+era: contemporary
+role: Founder/CEO, Gooru; personalized learning platform and Navigator framework.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Founder/CEO, Gooru; personalized
+  learning platform and Navigator framework.
+key_works: []
+primary_topic: T00
+secondary_topics: []
+url: ''
+openalex_id: ''
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex disambiguation was inconclusive
+  — populate key_works manually.

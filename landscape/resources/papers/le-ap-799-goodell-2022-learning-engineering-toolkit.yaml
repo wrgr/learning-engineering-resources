@@ -1,0 +1,16 @@
+resource_id: LE-AP-799
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering Toolkit"
+authors:
+  - Jim Goodell
+  - Janet L. Kolodner
+year: 2022
+doi: "10.4324/9781003276579"
+tier: highly_cited
+citation_count_approx: 32
+significance: >
+  LE-framed work per Scholar gap analysis (Goodell & Kolodner 'Learning Engineering Toolkit'
+  — canonical LE volume.).
+primary_topic: T16
+secondary_topics: []

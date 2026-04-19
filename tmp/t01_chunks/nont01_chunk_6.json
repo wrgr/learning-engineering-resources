@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "LE-AP-884",
+    "file": "le-ap-884-feng-2006.yaml",
+    "title": "Predicting State Test Scores Better with Intelligent Tutoring Systems: Developing Metrics to Measure Assistance Required",
+    "venue": "Lecture notes in computer science",
+    "year": 2006,
+    "cites": 77,
+    "current_topic": "T15",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Mingyu Feng). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-885",
+    "file": "le-ap-885-boulay-2010.yaml",
+    "title": "Towards Systems That Care: A Conceptual Framework based on Motivation, Metacognition and Affect",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2010,
+    "cites": 75,
+    "current_topic": "T07",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Genaro Rebolledo-M\u00e9ndez). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-886",
+    "file": "le-ap-886-xie-2017.yaml",
+    "title": "Teacher professional development through digital content evaluation",
+    "venue": "Educational Technology Research and Development",
+    "year": 2017,
+    "cites": 75,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair authorship (Min Kyu Kim). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-887",
+    "file": "le-ap-887-calders-2012.yaml",
+    "title": "Introduction to the special section on educational data mining",
+    "venue": "ACM SIGKDD Explorations Newsletter",
+    "year": 2012,
+    "cites": 72,
+    "current_topic": "T14",
+    "concepts_hint": "Published in ACM SIGKDD Explorations Newsletter. LE-filtered expansion seeded from conference-chair authorship (Mykola Pechenizkiy). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-888",
+    "file": "le-ap-888-chen-2023.yaml",
+    "title": "Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "year": 2023,
+    "cites": 71,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Proceedings of the AAAI Conference on Artificial Intelligence. LE-filtered expansion seeded from conference-chair authorship (Zitao (Jerry) Liu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-889",
+    "file": "le-ap-889-hutt-2016.yaml",
+    "title": "The Eyes Have It: Gaze-based Detection of Mind Wandering during Learning with an Intelligent Tutoring System.",
+    "venue": "Unknown Venue",
+    "year": 2016,
+    "cites": 67,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Caitlin Mills). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-890",
+    "file": "le-ap-890-nye-2018.yaml",
+    "title": "SKOPE-IT (Shareable Knowledge Objects as Portable Intelligent Tutors): overlaying natural language tutoring on an adaptive learning system for mathematics",
+    "venue": "International Journal of STEM Education",
+    "year": 2018,
+    "cites": 67,
+    "current_topic": "T07",
+    "concepts_hint": "Published in International Journal of STEM Education. LE-filtered expansion seeded from conference-chair authorship (Andrew M. Olney). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-891",
+    "file": "le-ap-891-mutimukwe-2022.yaml",
+    "title": "Students' privacy concerns in learning analytics: Model development",
+    "venue": "British Journal of Educational Technology",
+    "year": 2022,
+    "cites": 65,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Olga Viberg). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-892",
+    "file": "le-ap-892-liu-2023.yaml",
+    "title": "Enhancing Deep Knowledge Tracing with Auxiliary Tasks",
+    "venue": "Unknown Venue",
+    "year": 2023,
+    "cites": 64,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Zitao (Jerry) Liu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-893",
+    "file": "le-ap-893-kser-2014.yaml",
+    "title": "Beyond Knowledge Tracing: Modeling Skill Topologies with Bayesian Networks",
+    "venue": "Lecture notes in computer science",
+    "year": 2014,
+    "cites": 63,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Tanja K\u00e4ser). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-894",
+    "file": "le-ap-894-popescu-2016.yaml",
+    "title": "Innovations in Smart Learning",
+    "venue": "Lecture notes in educational technology",
+    "year": 2016,
+    "cites": 62,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in educational technology. LE-filtered expansion seeded from conference-chair authorship (Elvira Popescu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-895",
+    "file": "le-ap-895-dimitrova-2001.yaml",
+    "title": "Applying Interactive Open Learner Models to Learning Technical Terminology",
+    "venue": "Lecture notes in computer science",
+    "year": 2001,
+    "cites": 62,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Vania Dimitrova). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-896",
+    "file": "le-ap-896-kim-2017.yaml",
+    "title": "Building teacher competency for digital content evaluation",
+    "venue": "Teaching and Teacher Education",
+    "year": 2017,
+    "cites": 62,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Teaching and Teacher Education. LE-filtered expansion seeded from conference-chair authorship (Min Kyu Kim). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-897",
+    "file": "le-ap-897-matsuda-2020.yaml",
+    "title": "The Effect of Metacognitive Scaffolding for Learning by Teaching a Teachable Agent",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2020,
+    "cites": 61,
+    "current_topic": "T06",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Noboru Matsuda). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-898",
+    "file": "le-ap-898-ouhaichi-2023.yaml",
+    "title": "Research trends in multimodal learning analytics: A systematic mapping study",
+    "venue": "Computers and Education Artificial Intelligence",
+    "year": 2023,
+    "cites": 60,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers and Education Artificial Intelligence. LE-filtered expansion seeded from conference-chair authorship (Daniel Spikol). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-899",
+    "file": "le-ap-899-dewan-2018.yaml",
+    "title": "A Deep Learning Approach to Detecting Engagement of Online Learners",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 59,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Fuhua (Oscar) Lin). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-900",
+    "file": "le-ap-900-nazaretsky-2022.yaml",
+    "title": "Empowering Teachers with AI: Co-Designing a Learning Analytics Tool for Personalized Instruction in the Science Classroom",
+    "venue": "Unknown Venue",
+    "year": 2022,
+    "cites": 57,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Giora Alexandron). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-901",
+    "file": "le-ap-901-kirby-2005.yaml",
+    "title": "Instructional systems design and the learning sciences: A citation analysis",
+    "venue": "Educational Technology Research and Development",
+    "year": 2005,
+    "cites": 56,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair authorship (Chris Hoadley). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-902",
+    "file": "le-ap-902-chen-2015.yaml",
+    "title": "State-of-the-Art and Future Directions of Smart Learning",
+    "venue": "Lecture notes in educational technology",
+    "year": 2015,
+    "cites": 55,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in educational technology. LE-filtered expansion seeded from conference-chair authorship (Elvira Popescu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-903",
+    "file": "le-ap-903-santos-2013.yaml",
+    "title": "User\u2010centred design and educational data mining support during the recommendations elicitation process in social online learning environments",
+    "venue": "Expert Systems",
+    "year": 2013,
+    "cites": 54,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Expert Systems. LE-filtered expansion seeded from conference-chair authorship (Olga C. Santos). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-904",
+    "file": "le-ap-904-martnezmaldonado-2018.yaml",
+    "title": "Physical learning analytics",
+    "venue": "Unknown Venue",
+    "year": 2018,
+    "cites": 54,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Olga C. Santos). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-905",
+    "file": "le-ap-905-boticario-2007.yaml",
+    "title": "An open IMS-based user modelling approach for developing adaptive learning management systems",
+    "venue": "Journal of Interactive Media in Education",
+    "year": 2007,
+    "cites": 54,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Journal of Interactive Media in Education. LE-filtered expansion seeded from conference-chair authorship (Olga C. Santos). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-906",
+    "file": "le-ap-906-frasson-1996.yaml",
+    "title": "An actor-based architecture for intelligent tutoring systems",
+    "venue": "Lecture notes in computer science",
+    "year": 1996,
+    "cites": 53,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Claude Frasson). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-907",
+    "file": "le-ap-907-ching-2006.yaml",
+    "title": "Digital Photography and Journals in a Kindergarten-First-Grade Classroom: Toward Meaningful Technology Integration in Early Childhood Education",
+    "venue": "Early Education and Development",
+    "year": 2006,
+    "cites": 52,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Early Education and Development. LE-filtered expansion seeded from conference-chair authorship (X. Christine Wang). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-908",
+    "file": "le-ap-908-ocha-2020.yaml",
+    "title": "Supporting the shift to digital with student-centered learning analytics",
+    "venue": "Educational Technology Research and Development",
+    "year": 2020,
+    "cites": 51,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair authorship (Xavier Ochoa). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-909",
+    "file": "le-ap-909-wang-2019.yaml",
+    "title": "Deep Knowledge Tracing with Side Information",
+    "venue": "Lecture notes in computer science",
+    "year": 2019,
+    "cites": 51,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Zitao (Jerry) Liu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-910",
+    "file": "le-ap-910-zhu-2015.yaml",
+    "title": "Toward a domain-specific visual discussion forum for learning computer programming: An empirical study of a popular MOOC forum",
+    "venue": "Unknown Venue",
+    "year": 2015,
+    "cites": 51,
+    "current_topic": "T11",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Philip J. Guo). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-911",
+    "file": "le-ap-911-alexandron-2019.yaml",
+    "title": "Are MOOC Learning Analytics Results Trustworthy? With Fake Learners, They Might Not Be!",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2019,
+    "cites": 50,
+    "current_topic": "T04",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Giora Alexandron). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-912",
+    "file": "le-ap-912-nazaretsky-2025.yaml",
+    "title": "The critical role of trust in adopting AI-powered educational technology for learning: An instrument for measuring student perceptions",
+    "venue": "Computers and Education Artificial Intelligence",
+    "year": 2025,
+    "cites": 50,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Computers and Education Artificial Intelligence. LE-filtered expansion seeded from conference-chair authorship (Tanja K\u00e4ser). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-913",
+    "file": "le-ap-913-viberg-2020.yaml",
+    "title": "Mobile-assisted language learning through learning analytics for self-regulated learning (MALLAS): A conceptual framework",
+    "venue": "Australasian Journal of Educational Technology",
+    "year": 2020,
+    "cites": 49,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Australasian Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Barbara Wasson, Olga Viberg). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-914",
+    "file": "le-ap-914-prieto-2011.yaml",
+    "title": "Recurrent routines: Analyzing and supporting orchestration in technology-enhanced primary classrooms",
+    "venue": "Computers & Education",
+    "year": 2011,
+    "cites": 49,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers & Education. LE-filtered expansion seeded from conference-chair authorship (Alejandra Mart\u00ednez-Mon\u00e9s). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-915",
+    "file": "le-ap-915-baldiris-2008.yaml",
+    "title": "Integration of Educational Specifications and Standards to Support Adaptive Learning Scenarios in ADAPTAPlan",
+    "venue": "International journal of computer science and applications",
+    "year": 2008,
+    "cites": 49,
+    "current_topic": "T06",
+    "concepts_hint": "Published in International journal of computer science and applications. LE-filtered expansion seeded from conference-chair authorship (Olga C. Santos). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-916",
+    "file": "le-ap-916-wen-2024.yaml",
+    "title": "AI for Education (AI4EDU): Advancing Personalized Education with LLM and Adaptive Learning",
+    "venue": "Unknown Venue",
+    "year": 2024,
+    "cites": 48,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Zitao (Jerry) Liu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-917",
+    "file": "le-ap-917-theophilou-2023.yaml",
+    "title": "Learning to Prompt in the Classroom to Understand AI Limits: A Pilot Study",
+    "venue": "Lecture notes in computer science",
+    "year": 2023,
+    "cites": 47,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Davide Taibi). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-918",
+    "file": "le-ap-918-spikol-2017.yaml",
+    "title": "Estimation of Success in Collaborative Learning Based on Multimodal Learning Analytics Features",
+    "venue": "Unknown Venue",
+    "year": 2017,
+    "cites": 47,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Daniel Spikol). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-919",
+    "file": "le-ap-919-chaffar-2004.yaml",
+    "title": "Inducing Optimal Emotional State for Learning in Intelligent Tutoring Systems",
+    "venue": "Lecture notes in computer science",
+    "year": 2004,
+    "cites": 44,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Claude Frasson). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-920",
+    "file": "le-ap-920-troussas-2019.yaml",
+    "title": "Using a Multi Module Model for Learning Analytics to Predict Learners\u2019 Cognitive States and Provide Tailored Learning Pathways and Assessment",
+    "venue": "Intelligent systems reference library",
+    "year": 2019,
+    "cites": 44,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Intelligent systems reference library. LE-filtered expansion seeded from conference-chair authorship (Christos Troussas). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-921",
+    "file": "le-ap-921-feng-2023.yaml",
+    "title": "Proceedings of the 16th International Conference on Educational Data Mining",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "year": 2023,
+    "cites": 44,
+    "current_topic": "T15",
+    "concepts_hint": "Published in Zenodo (CERN European Organization for Nuclear Research). LE-filtered expansion seeded from conference-chair authorship (Mingyu Feng, Tanja K\u00e4ser, Partha P. Talukdar). OpenAlex-seeded; cu"
+  },
+  {
+    "id": "LE-AP-922",
+    "file": "le-ap-922-bra-2012.yaml",
+    "title": "GRAPPLE: Learning Management Systems Meet Adaptive Learning Environments",
+    "venue": "Smart innovation, systems and technologies",
+    "year": 2012,
+    "cites": 44,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Smart innovation, systems and technologies. LE-filtered expansion seeded from conference-chair authorship (Alexandra I. Cristea). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-923",
+    "file": "le-ap-923-matsuda-2011.yaml",
+    "title": "Learning by Teaching SimStudent \u2013 An Initial Classroom Baseline Study Comparing with Cognitive Tutor",
+    "venue": "Lecture notes in computer science",
+    "year": 2011,
+    "cites": 44,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Noboru Matsuda). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-924",
+    "file": "le-ap-924-matsuda-2005.yaml",
+    "title": "Advanced Geometry Tutor: An intelligent tutor that teaches proof-writing with construction",
+    "venue": "Unknown Venue",
+    "year": 2005,
+    "cites": 44,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Noboru Matsuda). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-925",
+    "file": "le-ap-925-cukurova-2020.yaml",
+    "title": "Modelling collaborative problem-solving competence with transparent learning analytics",
+    "venue": "Unknown Venue",
+    "year": 2020,
+    "cites": 44,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Daniel Spikol). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-926",
+    "file": "le-ap-926-srivastava-2022.yaml",
+    "title": "Effects of Internal and External Conditions on Strategies of Self-regulated Learning: A Learning Analytics Study",
+    "venue": "Unknown Venue",
+    "year": 2022,
+    "cites": 40,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Jelena Jovanovi\u0107). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-927",
+    "file": "le-ap-927-li-2020.yaml",
+    "title": "Multimodal Learning for Classroom Activity Detection",
+    "venue": "Unknown Venue",
+    "year": 2020,
+    "cites": 40,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Zitao (Jerry) Liu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-928",
+    "file": "le-ap-928-ogan-2012.yaml",
+    "title": "Collaboration in cognitive tutor use in latin America",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 40,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Genaro Rebolledo-M\u00e9ndez). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-929",
+    "file": "le-ap-929-cechinel-2020.yaml",
+    "title": "Mapping Learning Analytics initiatives in Latin America",
+    "venue": "British Journal of Educational Technology",
+    "year": 2020,
+    "cites": 39,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Xavier Ochoa). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-930",
+    "file": "le-ap-930-ince-2018.yaml",
+    "title": "The role of libraries in teaching doctoral students to become information-literate researchers",
+    "venue": "Information and Learning Sciences",
+    "year": 2018,
+    "cites": 39,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Information and Learning Sciences. LE-filtered expansion seeded from conference-chair authorship (Chris Hoadley). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-931",
+    "file": "le-ap-931-troussas-2021.yaml",
+    "title": "Improving Learner-Computer Interaction through Intelligent Learning Material Delivery Using Instructional Design Modeling",
+    "venue": "Entropy",
+    "year": 2021,
+    "cites": 38,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Entropy. LE-filtered expansion seeded from conference-chair authorship (Christos Troussas). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-932",
+    "file": "le-ap-932-mehto-2020.yaml",
+    "title": "Epistemic roles of materiality within a collaborative invention project at a secondary school",
+    "venue": "British Journal of Educational Technology",
+    "year": 2020,
+    "cites": 38,
+    "current_topic": "T17",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Pirita Seitamaa-Hakkarainen, Kaiju Kangas). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-933",
+    "file": "le-ap-933-troussas-2023.yaml",
+    "title": "Personalized Feedback Enhanced by Natural Language Processing in Intelligent Tutoring Systems",
+    "venue": "Lecture notes in computer science",
+    "year": 2023,
+    "cites": 35,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Christos Troussas). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-934",
+    "file": "le-ap-934-gray-2016.yaml",
+    "title": "Learning Factor Models of Students at Risk of Failing in the Early Stage of Tertiary Education",
+    "venue": "Journal of Learning Analytics",
+    "year": 2016,
+    "cites": 35,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship (Geraldine Gray). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-935",
+    "file": "le-ap-935-motz-2023.yaml",
+    "title": "LAK of Direction",
+    "venue": "Journal of Learning Analytics",
+    "year": 2023,
+    "cites": 35,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship (Geraldine Gray). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-936",
+    "file": "le-ap-936-wang-2014.yaml",
+    "title": "A Longitudinal Study on Learner Career Advancement in MOOCs",
+    "venue": "Journal of Learning Analytics",
+    "year": 2014,
+    "cites": 35,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship (Luc Paquette). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-937",
+    "file": "le-ap-937-hecking-2016.yaml",
+    "title": "Investigating social and semantic user roles in MOOC discussion forums",
+    "venue": "Unknown Venue",
+    "year": 2016,
+    "cites": 35,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Irene-Angelica Chounta). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-938",
+    "file": "le-ap-938-frasson-2010.yaml",
+    "title": "Managing Learner\u2019s Affective States in Intelligent Tutoring Systems",
+    "venue": "Studies in computational intelligence",
+    "year": 2010,
+    "cites": 34,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Studies in computational intelligence. LE-filtered expansion seeded from conference-chair authorship (Claude Frasson). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-939",
+    "file": "le-ap-939-taibi-2015.yaml",
+    "title": "Exploring <scp>TED</scp> talks as linked data for education",
+    "venue": "British Journal of Educational Technology",
+    "year": 2015,
+    "cites": 34,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Davide Taibi). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-940",
+    "file": "le-ap-940-reis-2012.yaml",
+    "title": "Towards Reducing Cognitive Load and Enhancing Usability through a Reduced Graphical User Interface for a Dynamic Geometry System: An Experimental Study",
+    "venue": "Unknown Venue",
+    "year": 2012,
+    "cites": 34,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Seiji Isotani, Ig Ibert Bittencourt). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-941",
+    "file": "le-ap-941-swamy-2022.yaml",
+    "title": "Meta Transfer Learning for Early Success Prediction in MOOCs",
+    "venue": "Unknown Venue",
+    "year": 2022,
+    "cites": 33,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Tanja K\u00e4ser). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-942",
+    "file": "le-ap-942-goguadze-2011.yaml",
+    "title": "Evaluating a Bayesian Student Model of Decimal Misconceptions.",
+    "venue": "Educational Data Mining",
+    "year": 2011,
+    "cites": 33,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Educational Data Mining. LE-filtered expansion seeded from conference-chair authorship (Seiji Isotani). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-943",
+    "file": "le-ap-943-mills-2015.yaml",
+    "title": "Mind Wandering During Learning with an Intelligent Tutoring System",
+    "venue": "Lecture notes in computer science",
+    "year": 2015,
+    "cites": 32,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Caitlin Mills). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-944",
+    "file": "le-ap-944-dermeval-2019.yaml",
+    "title": "GaTO: An Ontological Model to Apply Gamification in Intelligent Tutoring Systems",
+    "venue": "Frontiers in Artificial Intelligence",
+    "year": 2019,
+    "cites": 32,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Frontiers in Artificial Intelligence. LE-filtered expansion seeded from conference-chair authorship (Ig Ibert Bittencourt). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-945",
+    "file": "le-ap-945-ameur-2000.yaml",
+    "title": "Cooperative learning strategies for intelligent tutoring systems",
+    "venue": "Applied Artificial Intelligence",
+    "year": 2000,
+    "cites": 31,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Applied Artificial Intelligence. LE-filtered expansion seeded from conference-chair authorship (Claude Frasson). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-946",
+    "file": "le-ap-946-taibi-2013.yaml",
+    "title": "Fostering Analytics on Learning Analytics Research: the LAK Dataset.",
+    "venue": "Unknown Venue",
+    "year": 2013,
+    "cites": 31,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Davide Taibi). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-947",
+    "file": "le-ap-947-rebolledomendez-2021.yaml",
+    "title": "Meta-Affective Behaviour within an Intelligent Tutoring System for Mathematics",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2021,
+    "cites": 31,
+    "current_topic": "T07",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Genaro Rebolledo-M\u00e9ndez). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-948",
+    "file": "le-ap-948-krouska-2018.yaml",
+    "title": "Computerized Adaptive Assessment Using Accumulative Learning Activities Based on Revised Bloom\u2019s Taxonomy",
+    "venue": "Smart innovation, systems and technologies",
+    "year": 2018,
+    "cites": 30,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Smart innovation, systems and technologies. LE-filtered expansion seeded from conference-chair authorship (Christos Troussas). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-949",
+    "file": "le-ap-949-gray-2014.yaml",
+    "title": "A Review of Psychometric Data Analysis and Applications in Modelling of Academic Achievement in Tertiary Education",
+    "venue": "Journal of Learning Analytics",
+    "year": 2014,
+    "cites": 30,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship (Geraldine Gray). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-950",
+    "file": "le-ap-950-abdulmajeed-2020.yaml",
+    "title": "Challenges of Online Learning in Nigeria",
+    "venue": "Unknown Venue",
+    "year": 2020,
+    "cites": 30,
+    "current_topic": "T11",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (David A. Joyner). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-951",
+    "file": "le-ap-951-dermeval-2017.yaml",
+    "title": "Authoring Gamified Intelligent Tutoring Systems",
+    "venue": "Anais ... Workshops do Congresso Brasileiro de Inform\u00e1tica na Educa\u00e7\u00e3o",
+    "year": 2017,
+    "cites": 30,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Anais ... Workshops do Congresso Brasileiro de Inform\u00e1tica na Educa\u00e7\u00e3o. LE-filtered expansion seeded from conference-chair authorship (Ig Ibert Bittencourt). OpenAlex-seeded; curation pen"
+  },
+  {
+    "id": "LE-AP-952",
+    "file": "le-ap-952-feng-2008.yaml",
+    "title": "Can an Intelligent Tutoring System Predict Math Proficiency as Well as a Standardized Test",
+    "venue": "Unknown Venue",
+    "year": 2008,
+    "cites": 29,
+    "current_topic": "T15",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Mingyu Feng). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-953",
+    "file": "le-ap-953-chounta-2014.yaml",
+    "title": "Towards the real-time evaluation of collaborative activities: Integration of an automatic rater of collaboration quality in the classroom from the teacher\u2019s perspective",
+    "venue": "Education and Information Technologies",
+    "year": 2014,
+    "cites": 29,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Education and Information Technologies. LE-filtered expansion seeded from conference-chair authorship (Irene-Angelica Chounta). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-954",
+    "file": "le-ap-954-dimitrova-2007.yaml",
+    "title": "\"Open Learner Models: Future Research Directions\" Special Issue of the IJAIED (Part 2)",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2007,
+    "cites": 29,
+    "current_topic": "T07",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Vania Dimitrova). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-955",
+    "file": "le-ap-955-chounta-2017.yaml",
+    "title": "\u201cFrom Making to Learning\u201d: introducing Dev Camps as an educational paradigm for Re-inventing Problem-based Learning",
+    "venue": "International Journal of Educational Technology in Higher Education",
+    "year": 2017,
+    "cites": 28,
+    "current_topic": "T07",
+    "concepts_hint": "Published in International Journal of Educational Technology in Higher Education. LE-filtered expansion seeded from conference-chair authorship (Irene-Angelica Chounta). OpenAlex-seeded; curation pend"
+  },
+  {
+    "id": "LE-AP-956",
+    "file": "le-ap-956-silva-2022.yaml",
+    "title": "Toward an Institutional Analytics Agenda for Addressing Student Dropout in Higher Education",
+    "venue": "Journal of Learning Analytics",
+    "year": 2022,
+    "cites": 28,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship (Irene-Angelica Chounta). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-957",
+    "file": "le-ap-957-schroeder-2022.yaml",
+    "title": "Teaching and Learning with AI-Generated Courseware: Lessons from the Classroom",
+    "venue": "Online Learning",
+    "year": 2022,
+    "cites": 28,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Online Learning. LE-filtered expansion seeded from conference-chair authorship (Rachel Van Campenhout). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-958",
+    "file": "le-ap-958-cristea-2018.yaml",
+    "title": "Earliest Predictor of Dropout in MOOCs: A Longitudinal Study of FutureLearn courses",
+    "venue": "Durham Research Online (Durham University)",
+    "year": 2018,
+    "cites": 27,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Durham Research Online (Durham University). LE-filtered expansion seeded from conference-chair authorship (Alexandra I. Cristea). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-959",
+    "file": "le-ap-959-kim-2012.yaml",
+    "title": "Theoretically grounded guidelines for assessing learning progress: cognitive changes in ill-structured complex problem-solving contexts",
+    "venue": "Educational Technology Research and Development",
+    "year": 2012,
+    "cites": 27,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Educational Technology Research and Development. LE-filtered expansion seeded from conference-chair authorship (Min Kyu Kim). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-960",
+    "file": "le-ap-960-li-2023.yaml",
+    "title": "Sim-GAIL: A generative adversarial imitation learning approach of student modelling for intelligent tutoring systems",
+    "venue": "Neural Computing and Applications",
+    "year": 2023,
+    "cites": 26,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Neural Computing and Applications. LE-filtered expansion seeded from conference-chair authorship (Alexandra I. Cristea). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-961",
+    "file": "le-ap-961-dimitrova-2015.yaml",
+    "title": "From Interactive Open Learner Modelling to Intelligent Mentoring: STyLE-OLM and Beyond",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2015,
+    "cites": 26,
+    "current_topic": "T07",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Vania Dimitrova). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-962",
+    "file": "le-ap-962-kangas-2011.yaml",
+    "title": "Figuring the world of designing: Expert participation in elementary classroom",
+    "venue": "International Journal of Technology and Design Education",
+    "year": 2011,
+    "cites": 26,
+    "current_topic": "T17",
+    "concepts_hint": "Published in International Journal of Technology and Design Education. LE-filtered expansion seeded from conference-chair authorship (Pirita Seitamaa-Hakkarainen, Kaiju Kangas). OpenAlex-seeded; curat"
+  },
+  {
+    "id": "LE-AP-963",
+    "file": "le-ap-963-chan-2019.yaml",
+    "title": "Multimodal Learning Analytics in a Laboratory Classroom",
+    "venue": "Intelligent systems reference library",
+    "year": 2019,
+    "cites": 25,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Intelligent systems reference library. LE-filtered expansion seeded from conference-chair authorship (Xavier Ochoa). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-964",
+    "file": "le-ap-964-rodrigo-2008.yaml",
+    "title": "The Effects of Motivational Modeling on Affect in an Intelligent Tutoring System",
+    "venue": "UCL Discovery (University College London)",
+    "year": 2008,
+    "cites": 25,
+    "current_topic": "T07",
+    "concepts_hint": "Published in UCL Discovery (University College London). LE-filtered expansion seeded from conference-chair authorship (Genaro Rebolledo-M\u00e9ndez). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-965",
+    "file": "le-ap-965-graf-2011.yaml",
+    "title": "Intelligent and Adaptive Learning Systems: Technology Enhanced Support for Learners and Teachers",
+    "venue": "Unknown Venue",
+    "year": 2011,
+    "cites": 24,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Fuhua (Oscar) Lin). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-966",
+    "file": "le-ap-966-fulantelli-2013.yaml",
+    "title": "A semantic approach to mobile learning analytics",
+    "venue": "Unknown Venue",
+    "year": 2013,
+    "cites": 24,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Davide Taibi). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-967",
+    "file": "le-ap-967-ariely-2024.yaml",
+    "title": "Causal\u2010mechanical explanations in biology: Applying automated assessment for personalized learning in the science classroom",
+    "venue": "Journal of Research in Science Teaching",
+    "year": 2024,
+    "cites": 24,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Research in Science Teaching. LE-filtered expansion seeded from conference-chair authorship (Giora Alexandron). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-968",
+    "file": "le-ap-968-mokbel-2013.yaml",
+    "title": "Domain-Independent Proximity Measures in Intelligent Tutoring Systems",
+    "venue": "PUB \u2013 Publications at Bielefeld University (Bielefeld University)",
+    "year": 2013,
+    "cites": 24,
+    "current_topic": "T04",
+    "concepts_hint": "Published in PUB \u2013 Publications at Bielefeld University (Bielefeld University). LE-filtered expansion seeded from conference-chair authorship (Benjamin Paa\u00dfen). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-969",
+    "file": "le-ap-969-paiva-2018.yaml",
+    "title": "Visualizing Learning Analytics and Educational Data Mining Outputs",
+    "venue": "Lecture notes in computer science",
+    "year": 2018,
+    "cites": 24,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Ig Ibert Bittencourt). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-970",
+    "file": "le-ap-970-dimitrova-2002.yaml",
+    "title": "The Design and Implementation of a Graphical Communication Medium for Interactive Open Learner Modelling",
+    "venue": "Lecture notes in computer science",
+    "year": 2002,
+    "cites": 24,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Vania Dimitrova). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-971",
+    "file": "le-ap-971-wang-2020.yaml",
+    "title": "Jill Watson SA: Design and Evaluation of a Virtual Agent to Build Communities Among Online Learners",
+    "venue": "Unknown Venue",
+    "year": 2020,
+    "cites": 23,
+    "current_topic": "T11",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (David A. Joyner). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-972",
+    "file": "le-ap-972-paaen-2016.yaml",
+    "title": "Adaptive structure metrics for automated feedback provision in intelligent tutoring systems",
+    "venue": "Neurocomputing",
+    "year": 2016,
+    "cites": 23,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Neurocomputing. LE-filtered expansion seeded from conference-chair authorship (Benjamin Paa\u00dfen). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-973",
+    "file": "le-ap-973-yan-2020.yaml",
+    "title": "Including Learning Analytics in the Loop of Self-Paced Online Course Learning Design",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2020,
+    "cites": 22,
+    "current_topic": "T06",
+    "concepts_hint": "Published in International Journal of Artificial Intelligence in Education. LE-filtered expansion seeded from conference-chair authorship (Fuhua (Oscar) Lin). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-974",
+    "file": "le-ap-974-boticario-2007.yaml",
+    "title": "Developing adaptive learning management systems - An open IMS-based user modelling approach",
+    "venue": "Journal of Interactive Media in Education",
+    "year": 2007,
+    "cites": 22,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Journal of Interactive Media in Education. LE-filtered expansion seeded from conference-chair authorship (Olga C. Santos). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-975",
+    "file": "le-ap-975-hoadley-2004.yaml",
+    "title": "Learning and design: Why the learning sciences and instructional systems need each other",
+    "venue": "Educational technology: The magazine for managers of change in education",
+    "year": 2004,
+    "cites": 22,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Educational technology: The magazine for managers of change in education. LE-filtered expansion seeded from conference-chair authorship (Chris Hoadley). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-976",
+    "file": "le-ap-976-christ-2013.yaml",
+    "title": "Exploring a Community of Practice Model for Professional Development to Address Challenges to Classroom Practices in Early Childhood",
+    "venue": "Journal of Early Childhood Teacher Education",
+    "year": 2013,
+    "cites": 22,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Journal of Early Childhood Teacher Education. LE-filtered expansion seeded from conference-chair authorship (X. Christine Wang). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-977",
+    "file": "le-ap-977-gray-2022.yaml",
+    "title": "Stakeholders\u2019 insights on learning analytics: Perspectives of students and staff",
+    "venue": "Computers & Education",
+    "year": 2022,
+    "cites": 20,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Computers & Education. LE-filtered expansion seeded from conference-chair authorship (Geraldine Gray). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-978",
+    "file": "le-ap-978-martnezmons-2017.yaml",
+    "title": "Learning Analytics with Google Classroom",
+    "venue": "Unknown Venue",
+    "year": 2017,
+    "cites": 20,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Alejandra Mart\u00ednez-Mon\u00e9s). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-979",
+    "file": "le-ap-979-epp-2011.yaml",
+    "title": "ProTutor: Historic Open Learner Models for Pronunciation Tutoring",
+    "venue": "Lecture notes in computer science",
+    "year": 2011,
+    "cites": 20,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Carrie Demmans Epp). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-980",
+    "file": "le-ap-980-blanchard-2015.yaml",
+    "title": "Automatic Classification of Question & Answer Discourse Segments from Teacher's Speech in Classrooms.",
+    "venue": "Educational Data Mining",
+    "year": 2015,
+    "cites": 19,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Educational Data Mining. LE-filtered expansion seeded from conference-chair authorship (Andrew M. Olney). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-981",
+    "file": "le-ap-981-tex-2019.yaml",
+    "title": "Foundations and Trends in Smart Learning",
+    "venue": "Lecture notes in educational technology",
+    "year": 2019,
+    "cites": 18,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in educational technology. LE-filtered expansion seeded from conference-chair authorship (Elvira Popescu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-982",
+    "file": "le-ap-982-vujovi-2020.yaml",
+    "title": "Round or rectangular tables for collaborative problem solving? A multimodal learning analytics study",
+    "venue": "British Journal of Educational Technology",
+    "year": 2020,
+    "cites": 17,
+    "current_topic": "T04",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Daniel Spikol). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-983",
+    "file": "le-ap-983-popescu-2007.yaml",
+    "title": "Rules for Learner Modeling and Adaptation Provisioning in an Educational Hypermedia System",
+    "venue": "Unknown Venue",
+    "year": 2007,
+    "cites": 16,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Elvira Popescu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-984",
+    "file": "le-ap-984-alexandron-2016.yaml",
+    "title": "Detecting cheaters in MOOCs using item response theory and learning analytics",
+    "venue": "Unknown Venue",
+    "year": 2016,
+    "cites": 15,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Giora Alexandron). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-985",
+    "file": "le-ap-985-joyner-2018.yaml",
+    "title": "Intelligent Evaluation and Feedback in Support of a Credit-Bearing MOOC",
+    "venue": "Lecture notes in computer science",
+    "year": 2018,
+    "cites": 15,
+    "current_topic": "T11",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (David A. Joyner). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-986",
+    "file": "le-ap-986-joyner-2015.yaml",
+    "title": "Improving Inquiry-Driven Modeling in Science Education through Interaction with Intelligent Tutoring Agents",
+    "venue": "Unknown Venue",
+    "year": 2015,
+    "cites": 15,
+    "current_topic": "T11",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (David A. Joyner). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-987",
+    "file": "le-ap-987-samei-2015.yaml",
+    "title": "Modeling Classroom Discourse: Do Models That Predict Dialogic Instruction Properties Generalize across Populations?.",
+    "venue": "Educational Data Mining",
+    "year": 2015,
+    "cites": 15,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Educational Data Mining. LE-filtered expansion seeded from conference-chair authorship (Andrew M. Olney). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-988",
+    "file": "le-ap-988-kangas-2022.yaml",
+    "title": "Creative Learning with Technologies in Young Students\u2019 STEAM Education",
+    "venue": "Lecture notes in educational technology",
+    "year": 2022,
+    "cites": 15,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Lecture notes in educational technology. LE-filtered expansion seeded from conference-chair authorship (Kaiju Kangas). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-989",
+    "file": "le-ap-989-badea-2019.yaml",
+    "title": "Integrating Enhanced Peer Assessment Features in Moodle Learning Management System",
+    "venue": "Lecture notes in educational technology",
+    "year": 2019,
+    "cites": 14,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in educational technology. LE-filtered expansion seeded from conference-chair authorship (Elvira Popescu). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-990",
+    "file": "le-ap-990-bull-2012.yaml",
+    "title": "Assessing English as a Second Language: From Classroom Data to a Competence-Based Open Learner Model",
+    "venue": "International Conference on Computers in Education",
+    "year": 2012,
+    "cites": 14,
+    "current_topic": "T04",
+    "concepts_hint": "Published in International Conference on Computers in Education. LE-filtered expansion seeded from conference-chair authorship (Barbara Wasson). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-991",
+    "file": "le-ap-991-gray-2022.yaml",
+    "title": "A Practitioner's Guide to Measurement in Learning Analytics: Decisions, Opportunities, and Challenges",
+    "venue": "Solar eBooks",
+    "year": 2022,
+    "cites": 14,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Solar eBooks. LE-filtered expansion seeded from conference-chair authorship (Geraldine Gray). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-992",
+    "file": "le-ap-992-alshanfari-2017.yaml",
+    "title": "Evaluating the Effect of Uncertainty Visualisation in Open Learner Models on Students\u2019 Metacognitive Skills",
+    "venue": "Lecture notes in computer science",
+    "year": 2017,
+    "cites": 14,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Carrie Demmans Epp). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-993",
+    "file": "le-ap-993-dietze-2016.yaml",
+    "title": "Facilitating Scientometrics in Learning Analytics and Educational Data Mining \u2013 the\u00a0LAK Dataset",
+    "venue": "Semantic Web",
+    "year": 2016,
+    "cites": 13,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Semantic Web. LE-filtered expansion seeded from conference-chair authorship (Davide Taibi). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-994",
+    "file": "le-ap-994-neshaei-2025.yaml",
+    "title": "Metacognition meets <scp>AI</scp> : Empowering reflective writing with large language models",
+    "venue": "British Journal of Educational Technology",
+    "year": 2025,
+    "cites": 13,
+    "current_topic": "T06",
+    "concepts_hint": "Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair authorship (Tanja K\u00e4ser). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-995",
+    "file": "le-ap-995-jiang-2018.yaml",
+    "title": "How Immersive Virtual Environments Foster Self-Regulated Learning",
+    "venue": "Advances in educational technologies and instructional design book series",
+    "year": 2018,
+    "cites": 12,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Advances in educational technologies and instructional design book series. LE-filtered expansion seeded from conference-chair authorship (Luc Paquette). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-996",
+    "file": "le-ap-996-blanchard-2016.yaml",
+    "title": "Semi-Automatic Detection of Teacher Questions from Human-Transcripts of Audio in Live Classrooms.",
+    "venue": "Educational Data Mining",
+    "year": 2016,
+    "cites": 12,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Educational Data Mining. LE-filtered expansion seeded from conference-chair authorship (Andrew M. Olney). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-997",
+    "file": "le-ap-997-wang-2004.yaml",
+    "title": "Scaffolding Young Children's Reflections With Student-Created PowerPoint Presentations",
+    "venue": "Journal of Research in Childhood Education",
+    "year": 2004,
+    "cites": 11,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Journal of Research in Childhood Education. LE-filtered expansion seeded from conference-chair authorship (X. Christine Wang). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-998",
+    "file": "le-ap-998-wang-2017.yaml",
+    "title": "Behavioral predictors of MOOC post-course development",
+    "venue": "Learning Analytics and Knowledge",
+    "year": 2017,
+    "cites": 10,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Learning Analytics and Knowledge. LE-filtered expansion seeded from conference-chair authorship (Luc Paquette). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-999",
+    "file": "le-ap-999-baikadi-2018.yaml",
+    "title": "Participating by activity or by week in MOOCs",
+    "venue": "Information and Learning Sciences",
+    "year": 2018,
+    "cites": 10,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Information and Learning Sciences. LE-filtered expansion seeded from conference-chair authorship (Carrie Demmans Epp). OpenAlex-seeded; curation pending."
+  }
+]

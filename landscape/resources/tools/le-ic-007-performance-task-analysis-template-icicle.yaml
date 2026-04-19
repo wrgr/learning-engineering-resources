@@ -1,0 +1,14 @@
+resource_id: LE-IC-007
+content_type: TP
+source: icicle
+status: APPROVED
+name: Performance Task Analysis Template (ICICLE)
+type: tool
+affiliation_or_venue: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+primary_topic: T03
+secondary_topics:
+- T09
+description: Google Doc template for structured task decomposition in learning engineering. Guides practitioners
+  through breaking complex performance into observable subtasks to inform instructional design.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

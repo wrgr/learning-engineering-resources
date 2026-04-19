@@ -2,19 +2,21 @@ resource_id: LE-AP-500
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Opinion Mining in e-Learning System"
+title: Opinion Mining in e-Learning System
 authors: []
 year: 2007
 venue: 2007 IFIP International Conference on Network and Parallel Computing Workshops (NPC 2007)
-doi: "10.1109/npc.2007.51"
+doi: 10.1109/npc.2007.51
 tier: contemporary
 citation_count_approx: 45
 cross_seed_score: 2
-openalex_id: "W2101988917"
-significance: >
-  Published in 2007 IFIP International Conference on Network and Parallel
-  Computing Workshops (NPC 2007); addresses sentiment analysis, computer
-  science, conditional random field. Quality-filtered from OpenAlex cross-seed
-  expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus.
-  Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W2101988917
+significance: 'Published in 2007 IFIP International Conference on Network and Parallel Computing Workshops (NPC
+  2007); addresses sentiment analysis, computer science, conditional random field. Quality-filtered from OpenAlex
+  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T07
+secondary_topics:
+- T01
+- T04

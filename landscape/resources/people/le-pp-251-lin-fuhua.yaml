@@ -1,0 +1,32 @@
+resource_id: LE-PP-251
+content_type: PP
+source: curated
+status: APPROVED
+name: Fuhua (Oscar) Lin
+affiliation: Athabasca University, Canada
+era: contemporary
+role: ITS 2024 Program Co-Chair; adaptive learning and multi-agent systems researcher
+description: 'Professor in the School of Computing and Information Systems at Athabasca University. Program Co-Chair
+  and LNCS volume editor for ITS 2024. Research focuses on AI in education, adaptive personalized learning, intelligent
+  tutoring systems, and multi-agent learning environments — connecting open/distance-learning infrastructure with
+  ITS methods.
+
+  '
+key_contributions:
+- Program Co-Chair and Proceedings Co-Editor, ITS 2024 (Thessaloniki, Greece)
+- Developed multi-agent architectures for adaptive, self-directed learning in open and distance education contexts
+- Key figure connecting Canadian distance-learning research (Athabasca) with the international ITS community
+primary_topic: T06
+secondary_topics:
+- T07
+- T11
+url: https://pure.athabascau.ca/en/persons/oscar-lin
+notes: ITS 2024 PC Chair. Multi-agent adaptive learning.
+key_works:
+- A Review on Visualization of Educational Data in Online Learning (Lecture notes in computer science, 2021)
+- 'Engagement detection in online learning: a review (Smart Learning Environments, 2019)'
+- A Deep Learning Approach to Detecting Engagement of Online Learners (2018)
+- 'Intelligent and Adaptive Learning Systems: Technology Enhanced Support for Learners and Teachers (2011)'
+- Including Learning Analytics in the Loop of Self-Paced Online Course Learning Design (International Journal of
+  Artificial Intelligence in Education, 2020)
+openalex_id: https://openalex.org/A5030707600

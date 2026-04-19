@@ -1,0 +1,24 @@
+resource_id: LE-PP-223
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Erin Barry
+affiliation: Unifor
+era: contemporary
+role: Medical education researcher at USUHS; chapter author on tools for teaming.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Medical education researcher
+  at USUHS; chapter author on tools for teaming.
+key_works:
+- 'State-of-the-art literature review methodology: A&amp;nbsp;six-step approach for knowledge synthesis (Perspectives
+  on Medical Education, 2022)'
+- Neurobehavioral, cellular, and molecular consequences of single and multiple mild blast exposure (Electrophoresis,
+  2012)
+- A conceptual framework for leader and leadership education and development (International Journal of Leadership
+  in Education, 2018)
+- Understanding State-of-the-Art Literature Reviews (Journal of Graduate Medical Education, 2022)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5086962022
+openalex_id: https://openalex.org/A5086962022
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5086962022; verify on review. Cleaned dup/non-LE entries during audit.

@@ -1,0 +1,23 @@
+resource_id: LE-AP-851
+content_type: AP
+source: openalex_expansion
+status: seed
+title: A qualitative evaluation of evolution of a learning analytics tool
+authors:
+- Liaqat Ali
+- Marek Hatala
+- Dragan Gašević
+- Jelena Jovanović
+year: 2011
+venue: Computers & Education
+doi: 10.1016/j.compedu.2011.08.030
+tier: contemporary
+citation_count_approx: 203
+cross_seed_score: 1
+openalex_id: W2079966199
+significance: Published in Computers & Education. LE-filtered expansion seeded from conference-chair authorship
+  (Jelena Jovanović). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T01

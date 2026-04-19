@@ -1,0 +1,35 @@
+resource_id: LE-PP-286
+content_type: PP
+source: curated
+status: APPROVED
+name: Tanja Käser
+affiliation: EPFL, Switzerland
+era: contemporary
+role: EDM 2023 Program Chair; student modeling and knowledge tracing
+description: 'Assistant Professor at EPFL where she leads the ML4ED (Machine Learning for Education) lab. Program
+  Chair for EDM 2023. Research on student modeling, knowledge tracing, and personalized learning — with methodological
+  work on deep knowledge tracing and interpretability.
+
+  '
+key_contributions:
+- Program Chair, EDM 2023 (Bengaluru, India)
+- Directs ML4ED at EPFL — a leading European ML-for-education lab
+- Advanced deep knowledge tracing methods with interpretability constraints
+- Key figure connecting European ML and EDM communities
+primary_topic: T06
+secondary_topics:
+- T04
+- T07
+url: https://people.epfl.ch/tanja.kaeser
+notes: EDM 2023 PC. ML4ED lab. Deep knowledge tracing.
+key_works:
+- 'Metacognition meets <scp>AI</scp> : Empowering reflective writing with large language models (British Journal
+  of Educational Technology, 2025)'
+- 'Beyond Knowledge Tracing: Modeling Skill Topologies with Bayesian Networks (Lecture notes in computer science,
+  2014)'
+- 'The critical role of trust in adopting AI-powered educational technology for learning: An instrument for measuring
+  student perceptions (Computers and Education Artificial Intelligence, 2025)'
+- Proceedings of the 16th International Conference on Educational Data Mining (Zenodo (CERN European Organization
+  for Nuclear Research), 2023)
+- Meta Transfer Learning for Early Success Prediction in MOOCs (2022)
+openalex_id: https://openalex.org/A5007940211

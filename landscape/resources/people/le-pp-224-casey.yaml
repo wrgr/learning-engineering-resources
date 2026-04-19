@@ -1,0 +1,18 @@
+resource_id: LE-PP-224
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Laura Casey
+affiliation: ''
+era: contemporary
+role: Learner motivation and engagement practitioner; chapter author on motivation tools.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Learner motivation and engagement
+  practitioner; chapter author on motivation tools.
+key_works:
+- Increasing engagement in students with autism in inclusion classrooms (Children and Youth Services Review, 2020)
+primary_topic: T00
+secondary_topics: []
+url: ''
+openalex_id: https://openalex.org/A5004441171
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. OpenAlex pick had no education-related
+  top works — likely wrong person; populate manually.

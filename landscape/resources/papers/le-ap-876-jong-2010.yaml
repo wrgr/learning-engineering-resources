@@ -1,0 +1,61 @@
+resource_id: LE-AP-876
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Learning by creating and exchanging objects: The SCY experience'
+authors:
+- Ton de Jong
+- Wouter van Joolingen
+- Adam Giemza
+- Isabelle Girault
+- Ulrich Hoppe
+- Jörg Kindermann
+- Anders Kluge
+- Ard W. Lazonder
+- Vibeke Vold
+- Armin Weinberger
+- Stefan Weinbrenner
+- Astrid Wichmann
+- Anjo Anjewierden
+- Marjolaine Bodin
+- Lars Bollen
+- Cédric d’Ham
+- Jan Arild Dolonen
+- Jan O. Engler
+- Caspar Geraedts
+- Henrik Großkreutz
+- Tasos Hovardas
+- Rachel Julien
+- Judith V. Lechner
+- Sten Ludvigsen
+- Yuri Matteman
+- Øyvind Meistadt
+- Bjørge Næss
+- Muriel Ney
+- Margus Pedaste
+- Anthony Perritano
+- Marieke Rinket
+- Henrik Von Schlanbusch
+- Tago Sarapuu
+- Florian Schulz
+- Jakob Sikken
+- Jim Slotta
+- Jeremy Toussaint
+- Alex Verkade
+- Claire Wajeman
+- Barbara Wasson
+- Zacharias C. Zacharia
+- Martine Van Der Zanden
+year: 2010
+venue: British Journal of Educational Technology
+doi: 10.1111/j.1467-8535.2010.01121.x
+tier: contemporary
+citation_count_approx: 97
+cross_seed_score: 1
+openalex_id: W1503803710
+significance: Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Barbara Wasson). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T17
+- T11

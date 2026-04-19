@@ -1,0 +1,13 @@
+resource_id: LE-MX-004
+content_type: CO
+source: mdx_backfill
+status: APPROVED
+name: Playful Journey Lab
+type: org
+affiliation_or_venue: MIT
+url: https://playful.mit.edu/
+primary_topic: T08
+secondary_topics:
+- T01
+description: MIT lab building playful assessment tools and game-based learning approaches. Runs the 'Schools
+  of Tomorrow' Learning Engineering Project Blueprint — an example of LE applied to K-12 assessment innovation.

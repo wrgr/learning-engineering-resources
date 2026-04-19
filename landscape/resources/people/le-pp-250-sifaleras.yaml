@@ -1,0 +1,36 @@
+resource_id: LE-PP-250
+content_type: PP
+source: curated
+status: APPROVED
+name: Angelo Sifaleras
+affiliation: University of Macedonia, Thessaloniki, Greece
+era: contemporary
+role: ITS 2024 Program Co-Chair; optimization-for-education researcher
+description: 'Professor of Applied Informatics at the University of Macedonia. Program Co-Chair and LNCS volume
+  editor for ITS 2024 (Thessaloniki), the 20th International Conference on Intelligent Tutoring Systems. Research
+  bridges mathematical programming and network optimization with AI-driven adaptive learning systems.
+
+  '
+key_contributions:
+- Program Co-Chair and Proceedings Co-Editor, ITS 2024 (Thessaloniki, Greece)
+- Applies combinatorial optimization and metaheuristics to scheduling, recommendation, and adaptive-path problems
+  in learning systems
+- Connects the Greek AI-in-education research community to the international ITS series
+primary_topic: T06
+secondary_topics:
+- T07
+- T04
+url: https://sites.uom.gr/sifalera/
+notes: ITS 2024 PC Chair. Optimization methods for adaptive learning.
+key_works:
+- A hybrid Particle Swarm Optimization – Variable Neighborhood Search algorithm for Constrained Shortest Path problems
+  (European Journal of Operational Research, 2017)
+- A reinforcement learning-Variable neighborhood search method for the capacitated Vehicle Routing Problem (Expert
+  Systems with Applications, 2022)
+- Adaptive variable neighborhood search solution methods for the fleet size and mix pollution location-inventory-routing
+  problem (Expert Systems with Applications, 2020)
+- 'A classification of community detection methods in social networks: a survey (International Journal of General
+  Systems, 2021)'
+- Variable neighborhood search for the economic lot sizing problem with product returns and recovery (International
+  Journal of Production Economics, 2014)
+openalex_id: https://openalex.org/A5016698691

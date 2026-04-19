@@ -2,18 +2,21 @@ resource_id: LE-AP-191
 content_type: AP
 source: openalex_expansion
 status: seed
-title: "Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains"
+title: 'Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex
+  Domains'
 authors: []
 year: 2020
 venue: Educational Psychology Review
-doi: "10.1007/s10648-020-09561-x"
+doi: 10.1007/s10648-020-09561-x
 tier: contemporary
 citation_count_approx: 65
 cross_seed_score: 4
-openalex_id: "W3049252626"
-significance: >
-  Published in Educational Psychology Review; addresses social connectedness,
-  educational psychology, context (archaeology). Quality-filtered from OpenAlex
-  cross-seed expansion of the Goodell & Kolodner Learning Engineering Toolkit
-  corpus. Authors pending OpenAlex enrichment.
-primary_topic: T01
+openalex_id: W3049252626
+significance: 'Published in Educational Psychology Review; addresses social connectedness, educational psychology,
+  context (archaeology). Quality-filtered from OpenAlex cross-seed expansion of the Goodell & Kolodner Learning
+  Engineering Toolkit corpus. Authors pending OpenAlex enrichment.
+
+  '
+primary_topic: T12
+secondary_topics:
+- T01

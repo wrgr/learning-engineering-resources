@@ -1,0 +1,22 @@
+resource_id: LE-AP-845
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Engagement detection in online learning: a review'
+authors:
+- M. Ali Akber Dewan
+- Mahbub Murshed
+- Fuhua Lin
+year: 2019
+venue: Smart Learning Environments
+doi: 10.1186/s40561-018-0080-z
+tier: contemporary
+citation_count_approx: 333
+cross_seed_score: 1
+openalex_id: W2919890647
+significance: Published in Smart Learning Environments. LE-filtered expansion seeded from conference-chair authorship
+  (Fuhua (Oscar) Lin). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T11

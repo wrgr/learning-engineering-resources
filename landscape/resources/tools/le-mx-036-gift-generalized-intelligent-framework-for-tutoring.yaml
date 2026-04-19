@@ -1,0 +1,12 @@
+resource_id: LE-MX-036
+content_type: TP
+source: mdx_backfill
+status: APPROVED
+name: GIFT — Generalized Intelligent Framework for Tutoring
+type: platform
+affiliation_or_venue: US Army Research Laboratory
+url: https://gifttutoring.org/
+primary_topic: T06
+secondary_topics:
+- T11
+description: ''

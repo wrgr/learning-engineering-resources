@@ -1,0 +1,35 @@
+resource_id: LE-PP-292
+content_type: PP
+source: curated
+status: APPROVED
+name: Alexandra I. Cristea
+affiliation: Durham University, UK
+era: contemporary
+role: AIED 2025 Program Chair; adaptive hypermedia and NLP for MOOCs
+description: 'Professor in the Department of Computer Science at Durham. Program Chair for AIED 2025. Research on
+  adaptive hypermedia, personalization in MOOCs and e-learning, and NLP for educational applications.
+
+  '
+key_contributions:
+- Program Chair, AIED 2025 (Palermo, Italy)
+- Long-standing researcher in adaptive hypermedia — one of AIED's formative sub-fields
+- Research on personalization and dropout prediction in MOOCs using NLP
+- Director of the Artificial Intelligence in Human Systems (AIHumans) centre at Durham
+primary_topic: T07
+secondary_topics:
+- T06
+- T04
+url: https://www.durham.ac.uk/staff/alexandra-i-cristea/
+notes: AIED 2025 PC. Adaptive hypermedia. MOOC personalization.
+key_works:
+- 'Using learning analytics in the Amazonas: understanding students’ behaviour in introductory programming (British
+  Journal of Educational Technology, 2020)'
+- 'GRAPPLE: Learning Management Systems Meet Adaptive Learning Environments (Smart innovation, systems and technologies,
+  2012)'
+- 'Earliest Predictor of Dropout in MOOCs: A Longitudinal Study of FutureLearn courses (Durham Research Online (Durham
+  University), 2018)'
+- 'Sim-GAIL: A generative adversarial imitation learning approach of student modelling for intelligent tutoring
+  systems (Neural Computing and Applications, 2023)'
+- Are They Learning or Playing? Moderator Conditions of Gamification’s Success in Programming Classrooms (ACM Transactions
+  on Computing Education, 2022)
+openalex_id: https://openalex.org/A5034125179

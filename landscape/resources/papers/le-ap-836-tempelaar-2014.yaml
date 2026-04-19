@@ -1,0 +1,22 @@
+resource_id: LE-AP-836
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'In search for the most informative data for feedback generation: Learning analytics in a data-rich context'
+authors:
+- Dirk Tempelaar
+- Bart Rienties
+- Bas Giesbers
+year: 2014
+venue: Computers in Human Behavior
+doi: 10.1016/j.chb.2014.05.038
+tier: contemporary
+citation_count_approx: 425
+cross_seed_score: 1
+openalex_id: W1994211543
+significance: Published in Computers in Human Behavior. LE-filtered expansion seeded from conference-chair authorship
+  (Bart Rienties). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T11
+- T17

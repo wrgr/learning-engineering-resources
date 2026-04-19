@@ -1,0 +1,35 @@
+resource_id: LE-PP-266
+content_type: PP
+source: curated
+status: APPROVED
+name: Bart Rienties
+affiliation: Institute of Educational Technology, The Open University, UK
+era: contemporary
+role: LAK 2025 Organizing Committee; large-scale LA and learning design
+description: 'Professor of Learning Analytics at the Open University''s Institute of Educational Technology. LAK
+  2025 Organizing Committee. Research on large-scale learning analytics, social network analysis, and the intersection
+  of analytics with learning design at the Open University''s massive distance-learning scale.
+
+  '
+key_contributions:
+- Organizing Committee, LAK 2025 (Dublin)
+- Operates one of the largest learning analytics implementations in the world via the UK Open University
+- Leading researcher on the relationship between learning design and learning analytics
+- Applies social network analysis to collaborative and online learning
+primary_topic: T04
+secondary_topics:
+- T11
+- T17
+url: https://iet.open.ac.uk/people/bart.rienties
+notes: LAK 2025 Organizing. OU-scale LA. Learning design + analytics.
+key_works:
+- 'Flipped classrooms in higher education during the COVID-19 pandemic: findings and future research recommendations
+  (International Journal of Educational Technology in Higher Education, 2022)'
+- 'A large-scale implementation of predictive learning analytics in higher education: the teachers’ role and perspective
+  (Educational Technology Research and Development, 2019)'
+- Empowering online teachers through predictive learning analytics (British Journal of Educational Technology, 2019)
+- 'Defining the Boundaries Between Artificial Intelligence in Education, Computer-Supported Collaborative Learning,
+  Educational Data Mining, and Learning Analytics: A Need for Coherence (Frontiers in Education, 2020)'
+- 'In search for the most informative data for feedback generation: Learning analytics in a data-rich context (Computers
+  in Human Behavior, 2014)'
+openalex_id: https://openalex.org/A5008962923

@@ -1,0 +1,13 @@
+resource_id: LE-SG-016
+content_type: SG
+source: landscape_backfill
+status: APPROVED
+name: 'MIL-HDBK-46855A: Human Engineering Program Process and Procedures'
+type: standard
+affiliation_or_venue: US DoD
+url: ''
+primary_topic: T02
+secondary_topics:
+- T13
+- T10
+description: Adjacent-field resource carried forward from landscape curation; enrichment pending.

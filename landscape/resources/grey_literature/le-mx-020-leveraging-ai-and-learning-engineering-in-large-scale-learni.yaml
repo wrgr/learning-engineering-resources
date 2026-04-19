@@ -1,0 +1,17 @@
+resource_id: LE-MX-020
+content_type: GL
+source: mdx_backfill
+status: APPROVED
+title: Leveraging AI and Learning Engineering in Large-Scale Learning Sciences — Danielle McNamara
+authors:
+- Danielle McNamara
+publisher: Empowering Learners for the Age of AI Conference
+url: https://www.youtube.com/watch?v=Yn3AIuKJ1RY
+type: keynote
+primary_topic: T07
+secondary_topics:
+- T04
+significance: McNamara's case for AI-enabled learning engineering at scale — grounded in her two decades
+  of NLP-and-learning-sciences work. Argues that the most promising AI applications in LE aren't content
+  generation but formative measurement and adaptive scaffolding. Technical but accessible.
+year: 2022

@@ -1,0 +1,35 @@
+resource_id: LE-PP-299
+content_type: PP
+source: curated
+status: APPROVED
+name: Noboru Matsuda
+affiliation: North Carolina State University
+era: contemporary
+role: AIED 2023 General Chair; learning-by-teaching (SimStudent) and cognitive modeling
+description: 'Professor at NC State. General Co-Chair of AIED 2023. Research on intelligent tutoring systems, learning-by-teaching
+  (via SimStudent), and cognitive modeling — extending the Anderson/Koedinger cognitive-tutor lineage into student-teaching
+  agents.
+
+  '
+key_contributions:
+- General Co-Chair, AIED 2023 (Tokyo, Japan)
+- Developer of SimStudent — an AI student-agent framework for learning-by-teaching
+- Extends cognitive-tutor tradition into pedagogical agent and teachable-agent designs
+- Connects CMU/Koedinger lineage to AIED program leadership
+primary_topic: T06
+secondary_topics:
+- T07
+- T01
+url: https://www.csc.ncsu.edu/people/nmatsud
+notes: AIED 2023 GC. SimStudent. Teachable agents.
+key_works:
+- The Effect of Metacognitive Scaffolding for Learning by Teaching a Teachable Agent (International Journal of Artificial
+  Intelligence in Education, 2020)
+- Learning by Teaching SimStudent – An Initial Classroom Baseline Study Comparing with Cognitive Tutor (Lecture
+  notes in computer science, 2011)
+- Metacognitive Scaffolding Amplifies the Effect of Learning by Teaching a Teachable Agent (Lecture notes in computer
+  science, 2018)
+- 'Teaching the Teacher: Tutoring SimStudent Leads to More Effective Cognitive Tutor Authoring (International Journal
+  of Artificial Intelligence in Education, 2014)'
+- 'Advanced Geometry Tutor: An intelligent tutor that teaches proof-writing with construction (2005)'
+openalex_id: https://openalex.org/A5053576557

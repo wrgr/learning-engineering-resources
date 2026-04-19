@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "LE-AP-001",
+    "file": "le-ap-001-koedinger-1990.yaml",
+    "title": "Abstract planning and perceptual chunks: Elements of expertise in geometry",
+    "venue": "Cognitive Science",
+    "year": 1990,
+    "cites": 650,
+    "current_topic": "T06",
+    "concepts_hint": "Foundational paper mapping human cognitive processes into computational production rules. Established the methodology for encoding domain expertise into ITS knowledge components \u2014 the direct basis for"
+  },
+  {
+    "id": "LE-AP-002",
+    "file": "le-ap-002-corbett-1997.yaml",
+    "title": "Intelligent tutoring systems",
+    "venue": "Handbook of Human-Computer Interaction",
+    "year": 1997,
+    "cites": 1200,
+    "current_topic": "T06",
+    "concepts_hint": "Documented the full architecture of Bayesian Knowledge Tracing and the Cognitive Tutor student model. The chapter that operationalized real-time student modeling and served as the blueprint for adapti"
+  },
+  {
+    "id": "LE-AP-003",
+    "file": "le-ap-003-brown-1992.yaml",
+    "title": "Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings",
+    "venue": "Journal of the Learning Sciences",
+    "year": 1992,
+    "cites": 2800,
+    "current_topic": "T17",
+    "concepts_hint": "The most-cited paper in JLS history. Established design-based research as the canonical methodology for testing engineered learning interventions in authentic classroom settings. Defined the epistemol"
+  },
+  {
+    "id": "LE-AP-004",
+    "file": "le-ap-004-scardamalia-1994.yaml",
+    "title": "Computer Support for Knowledge-Building Communities",
+    "venue": "Journal of the Learning Sciences",
+    "year": 1994,
+    "cites": 1800,
+    "current_topic": "T06",
+    "concepts_hint": "Engineered the socio-cognitive framework for collaborative digital learning platforms. Established that effective online learning environments must support collective knowledge construction. Foundatio"
+  },
+  {
+    "id": "LE-AP-005",
+    "file": "le-ap-005-baker-2009.yaml",
+    "title": "The State of Educational Data Mining in 2009: A Review and Future Visions",
+    "venue": "Journal of Educational Data Mining",
+    "year": 2009,
+    "cites": 1500,
+    "current_topic": "T04",
+    "concepts_hint": "Codified Educational Data Mining as a distinct discipline, distinguishing it from learning analytics and positioning it with its own methods, journals, and research questions. Established the taxonomy"
+  },
+  {
+    "id": "LE-AP-006",
+    "file": "le-ap-006-dede-2009.yaml",
+    "title": "Immersive interfaces for engagement and learning",
+    "venue": "Science",
+    "year": 2009,
+    "cites": 2000,
+    "current_topic": "T08",
+    "concepts_hint": "Established the engineering parameters for using immersive virtual environments in STEM education. Demonstrated that multi-user virtual environments and augmented reality can support complex cognition"
+  },
+  {
+    "id": "LE-AP-007",
+    "file": "le-ap-007-roll-2011.yaml",
+    "title": "Improving students' help-seeking skills using metacognitive feedback in an intelligent tutoring system",
+    "venue": "Learning and Instruction",
+    "year": 2011,
+    "cites": 600,
+    "current_topic": "T06",
+    "concepts_hint": "Demonstrated that LE methods can be applied beyond domain knowledge to model and improve learner metacognition and self-regulation. Proved that intelligent tutors can engineer help-seeking behavior, n"
+  },
+  {
+    "id": "LE-AP-009",
+    "file": "le-ap-009-craig-2018.yaml",
+    "title": "Design principles for virtual humans in educational technology environments",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2018,
+    "cites": 150,
+    "current_topic": "T02",
+    "concepts_hint": "Synthesized human-factors engineering principles for designing pedagogical agents. Showed that voice, appearance, and persona of virtual instructors systematically affect learner cognitive load and pe"
+  },
+  {
+    "id": "LE-AP-010",
+    "file": "le-ap-010-siegle-2024.yaml",
+    "title": "The voice quality of pedagogical agent impacts learning and agent perceptions",
+    "venue": "Journal of Computer Assisted Learning",
+    "year": 2024,
+    "cites": 20,
+    "current_topic": "T08",
+    "concepts_hint": "Empirically demonstrated that voice quality (prosody, naturalness, warmth) of a pedagogical agent significantly affects both learning outcomes and learner perception. Illustrates the meticulous human "
+  },
+  {
+    "id": "LE-AP-011",
+    "file": "le-ap-011-corbett-1994.yaml",
+    "title": "Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge",
+    "venue": "User Modeling and User-Adapted Interaction",
+    "year": 1994,
+    "cites": 2500,
+    "current_topic": "T06",
+    "concepts_hint": "The formal presentation of Bayesian Knowledge Tracing (BKT) \u2014 the probabilistic model for tracking per-student, per-skill mastery. BKT remains the most widely deployed student model in production ITS "
+  },
+  {
+    "id": "LE-AP-012",
+    "file": "le-ap-012-van-campenhout-2023.yaml",
+    "title": "The doer effect at scale: Investigating correlation and causation across seven courses",
+    "venue": "Proceedings of LAK23: 13th International Learning Analytics and Knowledge Conference",
+    "year": 2023,
+    "cites": 80,
+    "current_topic": "T04",
+    "concepts_hint": "Leveraged telemetry from large-scale online platforms to isolate the causal effect of active practice (doing) vs. passive reading on learning outcomes across seven courses. Provides large-sample empir"
+  },
+  {
+    "id": "LE-AP-013",
+    "file": "le-ap-013-blake-plock-2025.yaml",
+    "title": "Generalizable Learning Engineering Adoption Maturity Model",
+    "venue": "Journal of Learning Engineering (preprint/proceedings)",
+    "year": 2025,
+    "cites": 0,
+    "current_topic": "T16",
+    "concepts_hint": "Defines a multi-level organizational capability model for assessing and advancing an institution's LE practice. Provides a structured framework for moving from ad-hoc instructional design toward syste"
+  },
+  {
+    "id": "LE-AP-014",
+    "file": "le-ap-014-anderson-1995.yaml",
+    "title": "Cognitive Tutors: Lessons Learned",
+    "venue": "Journal of the Learning Sciences",
+    "year": 1995,
+    "cites": 1800,
+    "current_topic": "T06",
+    "concepts_hint": "The comprehensive review of a decade of Cognitive Tutor development and deployment. Documented both the theory (ACT-R production rules, BKT) and the empirical learning gains in real schools. One of th"
+  },
+  {
+    "id": "LE-AP-015",
+    "file": "le-ap-015-laird-1987.yaml",
+    "title": "SOAR: An Architecture for General Intelligence",
+    "venue": "Artificial Intelligence",
+    "year": 1987,
+    "cites": 5000,
+    "current_topic": "T06",
+    "concepts_hint": "Established SOAR as a unified cognitive architecture. The chunking mechanism in SOAR provides a computational model of procedural learning from practice \u2014 directly informing how ITS should structure p"
+  },
+  {
+    "id": "LE-AP-016",
+    "file": "le-ap-016-obrien-2004.yaml",
+    "title": "Human Systems Integration in the System Development Process: A New Look",
+    "venue": "National Academies Press",
+    "year": 2004,
+    "cites": 420,
+    "current_topic": "T02",
+    "concepts_hint": "Established the human systems integration (HSI) framework for engineering sociotechnical systems. Directly applicable to LE as a discipline that must engineer both the technological and human componen"
+  },
+  {
+    "id": "LE-AP-017",
+    "file": "le-ap-017-gagne-1979.yaml",
+    "title": "Principles of Instructional Design",
+    "venue": "Holt, Rinehart and Winston",
+    "year": 1979,
+    "cites": 8500,
+    "current_topic": "T02",
+    "concepts_hint": "The foundational text systematizing instructional design as an engineering discipline. Gagn\u00e9's nine events of instruction and taxonomy of learning outcomes remain standard scaffolding for LE system de"
+  },
+  {
+    "id": "LE-AP-018",
+    "file": "le-ap-018-obrien-1999.yaml",
+    "title": "Instructional Design for Distributed Learning",
+    "venue": "Advanced Distributed Learning Initiative / Defense Technical Information Center",
+    "year": 1999,
+    "cites": 180,
+    "current_topic": "T02",
+    "concepts_hint": "Applied systems engineering methodology to distributed and technology-mediated learning design in defense and government training contexts. Bridged instructional systems design (ISD) with software eng"
+  },
+  {
+    "id": "LE-AP-019",
+    "file": "le-ap-019-reigeluth-2009.yaml",
+    "title": "Instructional-Design Theories and Models, Volume III: Building a Common Knowledge Base",
+    "venue": "Routledge",
+    "year": 2009,
+    "cites": 1200,
+    "current_topic": "T02",
+    "concepts_hint": "Synthesized systems thinking approaches to instructional design, arguing that the field must move from prescriptive models to adaptive, learner-centered systems. Directly informed the shift in learnin"
+  },
+  {
+    "id": "LE-AP-020",
+    "file": "le-ap-020-branch-2009.yaml",
+    "title": "Instructional Design: The ADDIE Approach",
+    "venue": "Springer",
+    "year": 2009,
+    "cites": 2200,
+    "current_topic": "T02",
+    "concepts_hint": "The definitive modern treatment of the ADDIE (Analyze, Design, Develop, Implement, Evaluate) model. ADDIE remains the most widely used instructional design framework in professional practice. LE situa"
+  },
+  {
+    "id": "LE-AP-021",
+    "file": "le-ap-021-trist-1993.yaml",
+    "title": "The Social Engagement of Social Science: A Tavistock Anthology, Vol. II \u2014 The Socio-Technical Perspective",
+    "venue": "University of Pennsylvania Press",
+    "year": 1993,
+    "cites": 3400,
+    "current_topic": "T02",
+    "concepts_hint": "Foundational text of sociotechnical systems theory. Established that optimizing either the social or technical subsystem in isolation produces suboptimal outcomes \u2014 a principle directly governing LE s"
+  },
+  {
+    "id": "LE-AP-022",
+    "file": "le-ap-022-kulik-1991.yaml",
+    "title": "Effectiveness of computer-based instruction: An updated analysis",
+    "venue": "Computers in Human Behavior",
+    "year": 1991,
+    "cites": 3200,
+    "current_topic": "T10",
+    "concepts_hint": "Meta-analysis across hundreds of studies demonstrating consistent positive effects of computer-based instruction on learning outcomes. Established the evidentiary baseline that technology-enhanced ins"
+  },
+  {
+    "id": "LE-AP-023",
+    "file": "le-ap-023-kirkpatrick-1994.yaml",
+    "title": "Evaluating Training Programs: The Four Levels",
+    "venue": "Berrett-Koehler Publishers",
+    "year": 1994,
+    "cites": 12000,
+    "current_topic": "T10",
+    "concepts_hint": "Established the four-level evaluation model (reaction, learning, behavior, results) that became the dominant framework for assessing training effectiveness worldwide. LE evaluation frameworks are larg"
+  },
+  {
+    "id": "LE-AP-024",
+    "file": "le-ap-024-salas-2012.yaml",
+    "title": "The Science of Training and Development in Organizations: What Matters in Practice",
+    "venue": "Psychological Science in the Public Interest",
+    "year": 2012,
+    "cites": 3800,
+    "current_topic": "T10",
+    "concepts_hint": "Synthesized decades of organizational training research into actionable principles for training system design. Covers needs analysis, learning objectives, instructional methods, transfer climate, and "
+  },
+  {
+    "id": "LE-AP-025",
+    "file": "le-ap-025-issenberg-2005.yaml",
+    "title": "Features and uses of high-fidelity medical simulations that lead to effective learning: a BEME systematic review",
+    "venue": "Medical Teacher",
+    "year": 2005,
+    "cites": 3500,
+    "current_topic": "T10",
+    "concepts_hint": "The most rigorous systematic review of simulation-based learning in healthcare, identifying the features that make high-fidelity simulation effective (feedback, deliberate practice, curriculum integra"
+  },
+  {
+    "id": "LE-AP-026",
+    "file": "le-ap-026-baldwin-1988.yaml",
+    "title": "Transfer of training: A review and directions for future research",
+    "venue": "Personnel Psychology",
+    "year": 1988,
+    "cites": 7800,
+    "current_topic": "T10",
+    "concepts_hint": "The definitive review of training transfer research, establishing that transfer is determined by trainee characteristics, training design, and work environment \u2014 not training quality alone. Establishe"
+  },
+  {
+    "id": "LE-AP-027",
+    "file": "le-ap-027-salas-2002.yaml",
+    "title": "Is there a 'Big Five' in teamwork?",
+    "venue": "Small Group Research",
+    "year": 2005,
+    "cites": 2800,
+    "current_topic": "T10",
+    "concepts_hint": "Identified the five core components of effective teamwork \u2014 team leadership, mutual performance monitoring, backup behavior, adaptability, and team orientation \u2014 supported by shared mental models, mut"
+  },
+  {
+    "id": "LE-AP-034",
+    "file": "le-ap-034-wiggins-1998.yaml",
+    "title": "Understanding by Design",
+    "venue": "Association for Supervision and Curriculum Development",
+    "year": 1998,
+    "cites": 11000,
+    "current_topic": "T12",
+    "concepts_hint": "Introduced the \"backward design\" instructional design framework: identify desired learning outcomes first, then determine acceptable evidence of achievement, then plan instruction. UbD's emphasis on e"
+  },
+  {
+    "id": "LE-AP-035",
+    "file": "le-ap-035-merrill-2002.yaml",
+    "title": "First Principles of Instruction",
+    "venue": "Educational Technology Research and Development",
+    "year": 2002,
+    "cites": 4500,
+    "current_topic": "T12",
+    "concepts_hint": "Synthesized five instructional design theories into first principles: problem-centered instruction, activation of prior experience, demonstration of new knowledge, application with feedback, and integ"
+  },
+  {
+    "id": "LE-AP-036",
+    "file": "le-ap-036-mayer-2001.yaml",
+    "title": "Multimedia Learning",
+    "venue": "Cambridge University Press",
+    "year": 2001,
+    "cites": 14000,
+    "current_topic": "T12",
+    "concepts_hint": "Established the Cognitive Theory of Multimedia Learning (CTML), demonstrating through dozens of experiments that learning is improved when words and pictures are presented together (multimedia princip"
+  },
+  {
+    "id": "LE-AP-037",
+    "file": "le-ap-037-aleven-2006.yaml",
+    "title": "Toward Meta-cognitive Tutoring: A Model of Help Seeking with a Cognitive Tutor",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2006,
+    "cites": 780,
+    "current_topic": "T06",
+    "concepts_hint": "Developed a model of strategic help-seeking and avoidance behavior in intelligent tutoring systems, showing that students systematically misuse hints (gaming the system or help-avoidance). Introduced "
+  },
+  {
+    "id": "LE-AP-038",
+    "file": "le-ap-038-rose-2008.yaml",
+    "title": "Analyzing Collaborative Learning Processes Automatically: Exploiting the Advances of Computational Linguistics in Computer-Supported Collaborative Learning",
+    "venue": "International Journal of Computer-Supported Collaborative Learning",
+    "year": 2008,
+    "cites": 520,
+    "current_topic": "T07",
+    "concepts_hint": "Demonstrated how NLP and machine learning techniques can automatically classify collaborative learning processes from discourse transcripts, enabling real-time formative feedback in CSCL environments."
+  },
+  {
+    "id": "LE-AP-039",
+    "file": "le-ap-039-graesser-2005.yaml",
+    "title": "AutoTutor: An Intelligent Tutoring System with Mixed-initiative Dialogue",
+    "venue": "IEEE Transactions on Education",
+    "year": 2004,
+    "cites": 1100,
+    "current_topic": "T06",
+    "concepts_hint": "Described AutoTutor's architecture for mixed-initiative conversational tutoring, using latent semantic analysis to assess learner responses and generate Socratic dialogue. Demonstrated learning gains "
+  },
+  {
+    "id": "LE-AP-040",
+    "file": "le-ap-040-goel-2016.yaml",
+    "title": "Designing a Learning-by-Teaching Agent: An Architecture for Pedagogical Agents",
+    "venue": "Proceedings of the 2016 AAAI Workshop on Symbiotic Cognitive Systems",
+    "year": 2016,
+    "cites": 920,
+    "current_topic": "T07",
+    "concepts_hint": "Described the design and deployment of Jill Watson, the AI teaching assistant built on IBM Watson that answered student questions in a graduate online course. Among the first demonstrations that an AI"
+  },
+  {
+    "id": "LE-AP-041",
+    "file": "le-ap-041-dmello-2014.yaml",
+    "title": "Confusion Can Be Beneficial for Learning",
+    "venue": "Learning and Instruction",
+    "year": 2014,
+    "cites": 900,
+    "current_topic": "T04",
+    "concepts_hint": "Demonstrated that moderate cognitive confusion during learning, when resolved through effortful processing, leads to deeper understanding and better transfer compared to fluent but shallow learning. P"
+  },
+  {
+    "id": "LE-AP-042",
+    "file": "le-ap-042-sweller-1998.yaml",
+    "title": "Cognitive Architecture and Instructional Design",
+    "venue": "Educational Psychology Review",
+    "year": 1998,
+    "cites": 5500,
+    "current_topic": "T04",
+    "concepts_hint": "Presented a comprehensive formulation of Cognitive Load Theory (CLT) integrating intrinsic, extraneous, and germane cognitive load with human cognitive architecture. Derived specific instructional des"
+  },
+  {
+    "id": "LE-AP-043",
+    "file": "le-ap-043-pavlik-2009.yaml",
+    "title": "Performance Factors Analysis \u2014 A New Alternative to Knowledge Tracing",
+    "venue": "Proceedings of the 14th International Conference on Artificial Intelligence in Education",
+    "year": 2009,
+    "cites": 650,
+    "current_topic": "T04",
+    "concepts_hint": "Introduced Performance Factors Analysis (PFA), a knowledge tracing alternative that models the effect of prior successes and failures on skill acquisition separately, outperforming Bayesian Knowledge "
+  },
+  {
+    "id": "LE-AP-044",
+    "file": "le-ap-044-horton-2011.yaml",
+    "title": "e-Learning by Design",
+    "venue": "Pfeiffer / Wiley",
+    "year": 2011,
+    "cites": 2800,
+    "current_topic": "T15",
+    "concepts_hint": "Comprehensive practitioner guide synthesizing learning theories and instructional design principles into concrete patterns for digital learning design: absorb, do, and connect activity types; assessme"
+  },
+  {
+    "id": "LE-AP-045",
+    "file": "le-ap-045-slavin-2002.yaml",
+    "title": "Evidence-Based Education Policies: Transforming Educational Practice and Research",
+    "venue": "Educational Researcher",
+    "year": 2002,
+    "cites": 1400,
+    "current_topic": "T15",
+    "concepts_hint": "Argued for systematic adoption of rigorous evidence standards (randomized experiments, replications, effect size reporting) in education, modeled on evidence-based medicine. Slavin's framework directl"
+  },
+  {
+    "id": "LE-AP-046",
+    "file": "le-ap-046-mostow-1999.yaml",
+    "title": "Giving Help and Praise in Project LISTEN's Reading Tutor \u2014 Which Contributes More to Learning?",
+    "venue": "Journal of Educational Computing Research",
+    "year": 2001,
+    "cites": 480,
+    "current_topic": "T06",
+    "concepts_hint": "Analyzed the differential impact of tutor help and praise in Project LISTEN's automated reading tutor, using controlled experiments to disentangle intervention effects on oral reading fluency. Demonst"
+  },
+  {
+    "id": "LE-AP-047",
+    "file": "le-ap-047-reich-2020.yaml",
+    "title": "Failure to Disrupt: Why Technology Alone Can't Transform Education",
+    "venue": "MIT Press",
+    "year": 2020,
+    "cites": 620,
+    "current_topic": "T10",
+    "concepts_hint": "A rigorous empirical account of why ed-tech interventions \u2014 MOOCs, adaptive learning, gamification \u2014 repeatedly fail to close achievement gaps or scale equitably despite massive investment. Reich's an"
+  },
+  {
+    "id": "LE-AP-048",
+    "file": "le-ap-048-roscoe-2013.yaml",
+    "title": "Writing Pal: Feasibility of an Intelligent Writing Strategy Tutor and Automated Feedback in the High School Classroom",
+    "venue": "Journal of Educational Psychology",
+    "year": 2013,
+    "cites": 340,
+    "current_topic": "T06",
+    "concepts_hint": "Evaluated Writing Pal, an ITS for college-level writing that combines strategy instruction, game-based practice, and automated essay scoring. RCT results showed significant writing quality gains for s"
+  },
+  {
+    "id": "LE-AP-049",
+    "file": "le-ap-049-johnson-glenberg-2014.yaml",
+    "title": "Embodied Science and Mixed Reality: How Gesture and Motion Capture Affect Physics Education",
+    "venue": "Journal of Educational Psychology",
+    "year": 2014,
+    "cites": 380,
+    "current_topic": "T08",
+    "concepts_hint": "Demonstrated that embodied interaction (gesture and motion capture) in mixed-reality science simulations produces stronger learning gains than equivalent content in non-embodied digital formats. Provi"
+  },
+  {
+    "id": "LE-AP-050",
+    "file": "le-ap-050-atkinson-2000.yaml",
+    "title": "Learning from Examples: Instructional Principles from the Worked Examples Research",
+    "venue": "Review of Educational Research",
+    "year": 2000,
+    "cites": 2600,
+    "current_topic": "T12",
+    "concepts_hint": "Comprehensive review of worked example research synthesizing instructional principles for optimizing example-based learning: completion problems, self-explanation prompts, example variability, and fad"
+  },
+  {
+    "id": "LE-AP-051",
+    "file": "le-ap-051-graesser-1995.yaml",
+    "title": "Collaborative Dialogue Patterns in Naturalistic One-to-One Tutoring",
+    "venue": "Applied Cognitive Psychology",
+    "year": 1995,
+    "cites": 1700,
+    "current_topic": "T06",
+    "concepts_hint": "Analyzed transcripts of human one-to-one tutoring to identify the discourse moves, question types, and dialogue patterns that produce learning gains. Found that tutors ask deep-reasoning questions and"
+  },
+  {
+    "id": "LE-AP-052",
+    "file": "le-ap-052-sandoval-2004.yaml",
+    "title": "Conjecture Mapping: An Approach to Systematic Educational Design Research",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2004,
+    "cites": 1200,
+    "current_topic": "T17",
+    "concepts_hint": "Introduced conjecture mapping as a methodological framework for design-based research, requiring explicit articulation of theoretical conjectures, designed features, mediating processes, and outcomes."
+  },
+  {
+    "id": "LE-AP-053",
+    "file": "le-ap-053-stuart-2015.yaml",
+    "title": "Assessing the Generalizability of Randomized Trial Results to Target Populations",
+    "venue": "Prevention Science",
+    "year": 2015,
+    "cites": 280,
+    "current_topic": "T17",
+    "concepts_hint": "Addressed the generalizability (external validity) problem in randomized educational trials \u2014 when RCT results from a specific sample cannot be assumed to transfer to broader populations. Provided sta"
+  },
+  {
+    "id": "LE-AP-054",
+    "file": "le-ap-054-vanmerrienboer-2007.yaml",
+    "title": "Ten Steps to Complex Learning: A Systematic Approach to Four-Component Instructional Design",
+    "venue": "Lawrence Erlbaum Associates",
+    "year": 2007,
+    "cites": 3600,
+    "current_topic": "T03",
+    "concepts_hint": "Presented the Four-Component Instructional Design (4C/ID) model for designing complex skill training: learning tasks, supportive information, procedural information, and part-task practice. The model "
+  },
+  {
+    "id": "LE-AP-055",
+    "file": "le-ap-055-dawson-2015.yaml",
+    "title": "Design-Based Research: Current State and Prospects for the Future",
+    "venue": "Handbook of Research on Educational Communications and Technology",
+    "year": 2015,
+    "cites": 320,
+    "current_topic": "T03",
+    "concepts_hint": "Overview of design-based research methodology in educational technology, covering theoretical foundations, iterative design cycles, and dual outcomes (practical solutions + theoretical knowledge). Pro"
+  },
+  {
+    "id": "LE-AP-056",
+    "file": "le-ap-056-mclaren-2008.yaml",
+    "title": "Worked Examples and Tutored Problem Solving: Redundant or Synergistic Forms of Support?",
+    "venue": "Proceedings of the 30th Annual Conference of the Cognitive Science Society",
+    "year": 2008,
+    "cites": 180,
+    "current_topic": "T06",
+    "concepts_hint": "Compared the learning effects of worked examples alone, tutored problem solving alone, and their combination in chemistry. Found that interleaving worked examples with tutored practice outperformed ei"
+  },
+  {
+    "id": "LE-AP-057",
+    "file": "le-ap-057-mclaren-2014.yaml",
+    "title": "A Computer-Based Game that Promotes Mathematics Learning More than a Conventional Approach",
+    "venue": "International Journal of Game-Based Learning",
+    "year": 2017,
+    "cites": 310,
+    "current_topic": "T06",
+    "concepts_hint": "Reported a large-scale study showing that a decimal-operations game (Decimal Point) produced better learning and retention than a conventional tutoring system for middle-school mathematics. One of the"
+  },
+  {
+    "id": "LE-AP-058",
+    "file": "le-ap-058-mclaren-2016.yaml",
+    "title": "Feedback During Web-Based Homework: The Role of Hints",
+    "venue": "Proceedings of the 11th International Conference on Intelligent Tutoring Systems",
+    "year": 2012,
+    "cites": 95,
+    "current_topic": "T06",
+    "concepts_hint": "Investigated how different types of hints (immediate, on-demand, explanatory) affect learning during web-based homework in chemistry. Found that explanation-level hints produced greater learning than "
+  },
+  {
+    "id": "LE-AP-059",
+    "file": "le-ap-059-mclaren-2011.yaml",
+    "title": "Intelligent Tutoring Systems: Structure, Applications and Challenges",
+    "venue": "Proceedings of the International Joint Conference on Artificial Intelligence (Workshop)",
+    "year": 2011,
+    "cites": 140,
+    "current_topic": "T06",
+    "concepts_hint": "Survey of ITS architectures, instructional approaches, and evaluation challenges, providing a systems-level view of intelligent tutoring from a leading practitioner. Covers knowledge component modelin"
+  },
+  {
+    "id": "LE-AP-060",
+    "file": "le-ap-060-mclaren-2019.yaml",
+    "title": "Digital game versus textbook practice leads to better retention and transfer of mathematics in 3rd grade",
+    "venue": "Computers in Human Behavior",
+    "year": 2015,
+    "cites": 260,
+    "current_topic": "T06",
+    "concepts_hint": "Reported a controlled study showing digital game practice produced stronger long-term retention and transfer of fractions knowledge than textbook practice in young learners. Addresses key threats to v"
+  },
+  {
+    "id": "LE-AP-061",
+    "file": "le-ap-061-holstein-2018.yaml",
+    "title": "The Classroom as a Dashboard: Co-designing Wearable Cognitive Augmentation for K-12 Teachers",
+    "venue": "Proceedings of the 8th International Conference on Learning Analytics and Knowledge",
+    "year": 2018,
+    "cites": 210,
+    "current_topic": "T09",
+    "concepts_hint": "Co-designed a teacher-facing real-time analytics dashboard (wearable + visual) that surfaces individual student difficulty in classrooms using ITS. Field study showed teachers using the dashboard chan"
+  },
+  {
+    "id": "LE-AP-062",
+    "file": "le-ap-062-holstein-2019.yaml",
+    "title": "Co-designing a Real-Time Classroom Orchestration Tool to Support Teacher-AI Complementarity",
+    "venue": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+    "year": 2019,
+    "cites": 380,
+    "current_topic": "T09",
+    "concepts_hint": "Demonstrated a participatory design process for AI-supported classroom orchestration, emphasizing human-AI complementarity rather than substitution. Findings highlight how teacher agency must be prese"
+  },
+  {
+    "id": "LE-AP-063",
+    "file": "le-ap-063-holstein-2020.yaml",
+    "title": "Designing for Complementarity: Teacher and Student Needs for Orchestration Support in AI-Enhanced Classrooms",
+    "venue": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+    "year": 2020,
+    "cites": 175,
+    "current_topic": "T09",
+    "concepts_hint": "Extended co-design work on AI-augmented classrooms with a focus on student perspectives alongside teacher needs. Found that students have distinct orchestration needs that are often invisible to teach"
+  },
+  {
+    "id": "LE-AP-064",
+    "file": "le-ap-064-holstein-2022.yaml",
+    "title": "Equity and Artificial Intelligence in Education: Will 'AIEd' Amplify or Alleviate Inequities in Education?",
+    "venue": "Proceedings of the 2021 AAAI Workshop on AI for Education",
+    "year": 2021,
+    "cites": 145,
+    "current_topic": "T09",
+    "concepts_hint": "Critically examined the equity implications of AI in education, analyzing how AI systems can perpetuate or amplify existing disparities through biased training data, proxy measures, and inequitable de"
+  },
+  {
+    "id": "LE-AP-065",
+    "file": "le-ap-065-walker-2009.yaml",
+    "title": "Adaptive Intelligent Support to Improve Peer Tutoring in Computer Science",
+    "venue": "Transactions on Computer-Human Interaction",
+    "year": 2009,
+    "cites": 220,
+    "current_topic": "T06",
+    "concepts_hint": "Designed and evaluated an adaptive ITS overlay for peer tutoring in computer science that monitored peer interactions and intervened with adaptive support. Demonstrated that adaptive support during pe"
+  },
+  {
+    "id": "LE-AP-066",
+    "file": "le-ap-066-walker-2011.yaml",
+    "title": "Using Intelligent Tutoring Systems to Support Collaborative Learning",
+    "venue": "Proceedings of the International Conference on Computer Supported Collaborative Learning",
+    "year": 2011,
+    "cites": 140,
+    "current_topic": "T07",
+    "concepts_hint": "Synthesized research at the intersection of intelligent tutoring and collaborative learning, identifying when and how AI support enhances versus disrupts productive collaboration. Provides LE designer"
+  },
+  {
+    "id": "LE-AP-067",
+    "file": "le-ap-067-walker-2014.yaml",
+    "title": "Designing Learning Environments to Foster Productive and Collaborative Discourse",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2016,
+    "cites": 90,
+    "current_topic": "T07",
+    "concepts_hint": "Examined design principles for AI-supported collaborative discourse that fosters productive argumentation and knowledge co-construction. Identified key features of learning environment design \u2014 role a"
+  },
+  {
+    "id": "LE-AP-068",
+    "file": "le-ap-068-walker-2018.yaml",
+    "title": "Understanding Narrative-Centered Learning Environments",
+    "venue": "Adaptive Educational Hypermedia",
+    "year": 2017,
+    "cites": 75,
+    "current_topic": "T06",
+    "concepts_hint": "Reviewed the design space for narrative-centered learning environments (NCLEs), where story-driven contexts provide motivation and meaning for learning activities. Identified design variables \u2014 charac"
+  },
+  {
+    "id": "LE-AP-069",
+    "file": "le-ap-069-mcnamara-2004.yaml",
+    "title": "Scaffolding Deep Comprehension Strategies Through Point&Query, AutoSummarize, and iSTART",
+    "venue": "Behavior Research Methods, Instruments, & Computers",
+    "year": 2004,
+    "cites": 560,
+    "current_topic": "T06",
+    "concepts_hint": "Described iSTART (Interactive Strategy Training for Active Reading and Thinking), an automated web-based system that teaches reading comprehension strategies through modeling, practice, and feedback. "
+  },
+  {
+    "id": "LE-AP-072",
+    "file": "le-ap-072-mcnamara-2013.yaml",
+    "title": "Automated Evaluation of Text and Discourse with Coh-Metrix",
+    "venue": "MIT Press",
+    "year": 2014,
+    "cites": 740,
+    "current_topic": "T07",
+    "concepts_hint": "Described Coh-Metrix, a computational tool that analyzes text cohesion, readability, and discourse structure using over 100 linguistic indices. Enables automated matching of text complexity to learner"
+  },
+  {
+    "id": "LE-AP-073",
+    "file": "le-ap-073-mcnamara-2015.yaml",
+    "title": "Natural Language Processing in Service of Reading Comprehension",
+    "venue": "Journal of Learning Analytics",
+    "year": 2015,
+    "cites": 310,
+    "current_topic": "T07",
+    "concepts_hint": "Applied NLP techniques to assess and scaffold reading comprehension in intelligent tutoring systems, showing that automated text feature analysis can predict comprehension difficulty and guide adaptiv"
+  },
+  {
+    "id": "LE-AP-074",
+    "file": "le-ap-074-kolodner-1993.yaml",
+    "title": "Case-Based Reasoning",
+    "venue": "Morgan Kaufmann",
+    "year": 1993,
+    "cites": 4200,
+    "current_topic": "T06",
+    "concepts_hint": "The foundational text on case-based reasoning (CBR) as a problem-solving paradigm, in which new problems are solved by adapting solutions from similar past cases. Kolodner's CBR framework directly inf"
+  },
+  {
+    "id": "LE-AP-075",
+    "file": "le-ap-075-kolodner-2002.yaml",
+    "title": "Facilitating the Learning of Design Practices: Lessons Learned from an Inquiry into Science Education",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2003,
+    "cites": 750,
+    "current_topic": "T03",
+    "concepts_hint": "Reported outcomes and design principles from Learning by Design (LBD), a project-based science curriculum that uses design challenges to motivate inquiry and content learning. Demonstrated that design"
+  },
+  {
+    "id": "LE-AP-076",
+    "file": "le-ap-076-kolodner-2006.yaml",
+    "title": "Problem-Based Learning Meets Case-Based Reasoning in the Middle-School Science Classroom",
+    "venue": "Journal of the Learning Sciences",
+    "year": 2003,
+    "cites": 580,
+    "current_topic": "T06",
+    "concepts_hint": "Described how case libraries of design projects support science learning by providing analogical models students can adapt. Demonstrated CBR-enhanced project-based learning in middle school science wi"
+  },
+  {
+    "id": "LE-AP-077",
+    "file": "le-ap-077-kolodner-2009.yaml",
+    "title": "The Roles of Stories in Collaborative Learning",
+    "venue": "Proceedings of the 2007 Workshop on Narrative Learning Environments",
+    "year": 2007,
+    "cites": 120,
+    "current_topic": "T07",
+    "concepts_hint": "Examined how shared case stories function as collaborative learning artifacts \u2014 providing common referents for discussion, enabling analogical transfer, and scaffolding group sense-making. Directly re"
+  },
+  {
+    "id": "LE-AP-083",
+    "file": "le-ap-083-schwartz-2020.yaml",
+    "title": "The ABC of How We Learn: 26 Scientifically Proven Approaches, How They Work, and When to Use Them",
+    "venue": "Norton",
+    "year": 2016,
+    "cites": 350,
+    "current_topic": "T15",
+    "concepts_hint": "Accessible practitioner synthesis of 26 empirically supported learning approaches, each with implementation guidance and evidence summaries. Bridges the research-practice gap for LE instructional desi"
+  },
+  {
+    "id": "LE-AP-084",
+    "file": "le-ap-084-kirschner-2002.yaml",
+    "title": "Can We Support CSCL? Educational, Social and Technological Affordances for Learning",
+    "venue": "Three Worlds of CSCL: Can We Support CSCL?",
+    "year": 2002,
+    "cites": 920,
+    "current_topic": "T07",
+    "concepts_hint": "Examined educational, social, and technological affordances that enable or constrain computer-supported collaborative learning. Introduced the concept of \"shared epistemic agency\" in CSCL environments"
+  },
+  {
+    "id": "LE-AP-085",
+    "file": "le-ap-085-kirschner-2010.yaml",
+    "title": "The Myths of the Digital Native and the Multitasker",
+    "venue": "Teaching and Teacher Education",
+    "year": 2017,
+    "cites": 640,
+    "current_topic": "T04",
+    "concepts_hint": "Systematically debunked the \"digital native\" hypothesis and multitasking ability using cognitive science evidence. Demonstrated that neither claim has empirical support and that instructional designs "
+  },
+  {
+    "id": "LE-AP-086",
+    "file": "le-ap-086-kirschner-2017.yaml",
+    "title": "Stop Propagating the Learning Styles Myth",
+    "venue": "Computers & Education",
+    "year": 2013,
+    "cites": 880,
+    "current_topic": "T04",
+    "concepts_hint": "Reviewed evidence against learning styles theory (VARK and variants), showing that matching instruction to purported style does not improve learning outcomes and may harm them. Critically important fo"
+  },
+  {
+    "id": "LE-AP-087",
+    "file": "le-ap-087-gasevic-2009.yaml",
+    "title": "Ontology-Based Learning Object Adaptation",
+    "venue": "Springer",
+    "year": 2009,
+    "cites": 580,
+    "current_topic": "T09",
+    "concepts_hint": "Presented a framework for ontology-driven adaptation of learning objects and curriculum sequencing in adaptive educational systems. Established formal methods for semantic interoperability between lea"
+  },
+  {
+    "id": "LE-AP-088",
+    "file": "le-ap-088-gasevic-2015.yaml",
+    "title": "Let's Not Forget: Learning Analytics Are about Learning",
+    "venue": "TechTrends",
+    "year": 2015,
+    "cites": 1100,
+    "current_topic": "T09",
+    "concepts_hint": "Argued that the field of learning analytics had drifted toward technical pattern detection disconnected from learning theory, calling for learning theory to anchor analytics design and interpretation."
+  },
+  {
+    "id": "LE-AP-089",
+    "file": "le-ap-089-gasevic-2016.yaml",
+    "title": "Effects of Flipped Classroom Instruction on Learning and Cognitive Load in High School Science",
+    "venue": "Computers in Human Behavior",
+    "year": 2014,
+    "cites": 420,
+    "current_topic": "T09",
+    "concepts_hint": "Applied learning analytics to examine the relationship between MOOC learner behavior patterns (temporal regularity, resource access sequences) and learning outcomes, finding that regularity of study a"
+  },
+  {
+    "id": "LE-AP-090",
+    "file": "le-ap-090-gasevic-2017.yaml",
+    "title": "Learning analytics should not promote one size fits all: The effects of instructional conditions in predicting academic success",
+    "venue": "The Internet and Higher Education",
+    "year": 2016,
+    "cites": 620,
+    "current_topic": "T09",
+    "concepts_hint": "Demonstrated that predictive learning analytics models built in one instructional context fail to generalize to others, calling for context-sensitive analytics design. Directly informs LE practitioner"
+  },
+  {
+    "id": "LE-AP-091",
+    "file": "le-ap-091-gasevic-2019.yaml",
+    "title": "SENS: Network analytics to combine social and cognitive perspectives of collaborative learning",
+    "venue": "Computers in Human Behavior",
+    "year": 2019,
+    "cites": 210,
+    "current_topic": "T09",
+    "concepts_hint": "Introduced SENS (Social-Epistemic Network Analytics), combining social network analysis with epistemic frame analysis to characterize how learners co-construct knowledge in collaborative settings. Adv"
+  },
+  {
+    "id": "LE-AP-092",
+    "file": "le-ap-092-aleven-2002.yaml",
+    "title": "An effective metacognitive strategy: Learning by doing and explaining with a computer-based cognitive tutor",
+    "venue": "Cognitive Science",
+    "year": 2002,
+    "cites": 1100,
+    "current_topic": "T06",
+    "concepts_hint": "Showed that students using a cognitive tutor who were prompted to self-explain their steps significantly outperformed students who practiced without explanation prompts. Established self-explanation p"
+  },
+  {
+    "id": "LE-AP-093",
+    "file": "le-ap-093-aleven-2009.yaml",
+    "title": "A new paradigm for intelligent tutoring systems: Example-tracing tutors",
+    "venue": "International Journal of Artificial Intelligence in Education",
+    "year": 2009,
+    "cites": 580,
+    "current_topic": "T06",
+    "concepts_hint": "Introduced the example-tracing tutoring paradigm and the Cognitive Tutor Authoring Tools (CTAT), allowing non-programmers to build functional ITSs by demonstrating worked example solutions rather than"
+  },
+  {
+    "id": "LE-AP-094",
+    "file": "le-ap-094-aleven-2016.yaml",
+    "title": "Instruction Based on Adaptive Learning Technologies",
+    "venue": "Handbook of Research on Learning and Instruction",
+    "year": 2016,
+    "cites": 310,
+    "current_topic": "T06",
+    "concepts_hint": "Comprehensive handbook chapter synthesizing research on adaptive learning technologies, covering knowledge component models, student models, pedagogical decision-making, and evaluation methodology. Th"
+  },
+  {
+    "id": "LE-AP-095",
+    "file": "le-ap-095-rose-2014.yaml",
+    "title": "Technology Support for Discussion Based Learning: From Computer Supported Collaborative Learning to the Future of Massive Open Online Courses",
+    "venue": "International Journal of AI in Education",
+    "year": 2016,
+    "cites": 220,
+    "current_topic": "T07",
+    "concepts_hint": "Traced the evolution from CSCL tools to MOOC discussion platforms, identifying how AI can scale formative support for collaborative discourse. Provides LE practitioners with a design framework for AI-"
+  },
+  {
+    "id": "LE-AP-096",
+    "file": "le-ap-096-rose-2011.yaml",
+    "title": "Towards an agile approach to adapting dynamic collaboration support to student needs",
+    "venue": "International Journal of AI in Education",
+    "year": 2014,
+    "cites": 130,
+    "current_topic": "T07",
+    "concepts_hint": "Developed an agile methodology for dynamically adapting AI-facilitated collaboration support based on real-time analysis of student group interactions. Demonstrated that just-in-time adaptive interven"
+  },
+  {
+    "id": "LE-AP-097",
+    "file": "le-ap-097-rose-2019.yaml",
+    "title": "Explanatory learner models: Why machine learning (alone) is not the answer",
+    "venue": "British Journal of Educational Technology",
+    "year": 2019,
+    "cites": 115,
+    "current_topic": "T07",
+    "concepts_hint": "Argued that purely predictive ML models in education are insufficient without explanatory power \u2014 LE systems need interpretable models that help instructors understand why interventions work or fail. "
+  },
+  {
+    "id": "LE-AP-098",
+    "file": "le-ap-098-mostow-1994.yaml",
+    "title": "A Prototype Reading Coach that Listens",
+    "venue": "Proceedings of the Twelfth National Conference on Artificial Intelligence (AAAI-94)",
+    "year": 1994,
+    "cites": 310,
+    "current_topic": "T06",
+    "concepts_hint": "Described the original prototype of Project LISTEN's automated reading tutor that used speech recognition to listen to children read aloud and provide real-time corrective feedback. The first system t"
+  },
+  {
+    "id": "LE-AP-099",
+    "file": "le-ap-099-mostow-2006.yaml",
+    "title": "Some useful tactics to modify, map and mine data from intelligent tutors",
+    "venue": "Natural Language Engineering",
+    "year": 2006,
+    "cites": 190,
+    "current_topic": "T09",
+    "concepts_hint": "Described data mining methods applied to the fine-grained interaction logs of Project LISTEN, extracting patterns of reading assistance, student error types, and tutor response effectiveness. One of t"
+  },
+  {
+    "id": "LE-AP-100",
+    "file": "le-ap-100-roscoe-2007.yaml",
+    "title": "Understanding Tutor Learning: Knowledge-Building and Knowledge-Telling in Peer Tutors' Explanations and Questions",
+    "venue": "Review of Educational Research",
+    "year": 2007,
+    "cites": 650,
+    "current_topic": "T06",
+    "concepts_hint": "Distinguished between knowledge-building (generative, deep processing) and knowledge-telling (shallow retrieval) in peer tutors' behavior, finding that tutors learn more when they build knowledge duri"
+  },
+  {
+    "id": "LE-AP-1000",
+    "file": "le-ap-1000-zhang-2021.yaml",
+    "title": "Can Strategic Behaviour Facilitate Confusion Resolution? The Interplay Between Confusion and Metacognitive Strategies in Betty\u2019s Brain",
+    "venue": "Journal of Learning Analytics",
+    "year": 2021,
+    "cites": 9,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Journal of Learning Analytics. LE-filtered expansion seeded from conference-chair authorship (Luc Paquette). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1001",
+    "file": "le-ap-1001-gershon-2021.yaml",
+    "title": "Defining and measuring completion and assessment biases with respect to English language and development status: not all MOOCs are equal",
+    "venue": "International Journal of Educational Technology in Higher Education",
+    "year": 2021,
+    "cites": 9,
+    "current_topic": "T04",
+    "concepts_hint": "Published in International Journal of Educational Technology in Higher Education. LE-filtered expansion seeded from conference-chair authorship (Giora Alexandron). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1002",
+    "file": "le-ap-1002-paaen-2016.yaml",
+    "title": "Execution Traces as a Powerful Data Representation for Intelligent Tutoring Systems for Programming",
+    "venue": "PUB \u2013 Publications at Bielefeld University (Bielefeld University)",
+    "year": 2016,
+    "cites": 9,
+    "current_topic": "T04",
+    "concepts_hint": "Published in PUB \u2013 Publications at Bielefeld University (Bielefeld University). LE-filtered expansion seeded from conference-chair authorship (Benjamin Paa\u00dfen). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1003",
+    "file": "le-ap-1003-pedro-2014.yaml",
+    "title": "Identifying Transfer of Inquiry Skills across Physical Science Simulations using Educational Data Mining",
+    "venue": "International Conference of Learning Sciences",
+    "year": 2014,
+    "cites": 8,
+    "current_topic": "T04",
+    "concepts_hint": "Published in International Conference of Learning Sciences. LE-filtered expansion seeded from conference-chair authorship (Luc Paquette). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1004",
+    "file": "le-ap-1004-chejara-2023.yaml",
+    "title": "Exploring Indicators for\u00a0Collaboration Quality and\u00a0Its Dimensions in\u00a0Classroom Settings Using Multimodal Learning Analytics",
+    "venue": "Lecture notes in computer science",
+    "year": 2023,
+    "cites": 8,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Irene-Angelica Chounta). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1005",
+    "file": "le-ap-1005-kangas-2014.yaml",
+    "title": "The Artifact Project Promoting Design Learning in the Elementary Classroom",
+    "venue": "Ty\u00f6v\u00e4entutkimus Vuosikirja",
+    "year": 2014,
+    "cites": 8,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Ty\u00f6v\u00e4entutkimus Vuosikirja. LE-filtered expansion seeded from conference-chair authorship (Kaiju Kangas). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1006",
+    "file": "le-ap-1006-dewan-2021.yaml",
+    "title": "A Review on Visualization of Educational Data in Online Learning",
+    "venue": "Lecture notes in computer science",
+    "year": 2021,
+    "cites": 6,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Fuhua (Oscar) Lin). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1007",
+    "file": "le-ap-1007-paaen-2015.yaml",
+    "title": "A Toolbox for Adaptive Sequence Dissimilarity Measures for Intelligent Tutoring Systems",
+    "venue": "PUB \u2013 Publications at Bielefeld University (Bielefeld University)",
+    "year": 2015,
+    "cites": 6,
+    "current_topic": "T04",
+    "concepts_hint": "Published in PUB \u2013 Publications at Bielefeld University (Bielefeld University). LE-filtered expansion seeded from conference-chair authorship (Benjamin Paa\u00dfen). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1008",
+    "file": "le-ap-1008-alshanfari-2020.yaml",
+    "title": "Visualising alignment to support students\u2019 judgment of confidence in open learner models",
+    "venue": "User Modeling and User-Adapted Interaction",
+    "year": 2020,
+    "cites": 6,
+    "current_topic": "T04",
+    "concepts_hint": "Published in User Modeling and User-Adapted Interaction. LE-filtered expansion seeded from conference-chair authorship (Carrie Demmans Epp). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1009",
+    "file": "le-ap-1009-alshanfari-2016.yaml",
+    "title": "Uncertainty in Open Learner Models: Visualising Inconsistencies in the Underlying Data.",
+    "venue": "Unknown Venue",
+    "year": 2016,
+    "cites": 6,
+    "current_topic": "T04",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Carrie Demmans Epp). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-101",
+    "file": "le-ap-101-roscoe-2017.yaml",
+    "title": "The Writing Pal intelligent tutoring system: Usability testing and developer decisions",
+    "venue": "Computers and Composition",
+    "year": 2014,
+    "cites": 180,
+    "current_topic": "T06",
+    "concepts_hint": "Reported user testing and iterative design decisions for the Writing Pal ITS, documenting how learner usability feedback shaped system revisions. Provides LE practitioners with a model for user-center"
+  },
+  {
+    "id": "LE-AP-1010",
+    "file": "le-ap-1010-matsuda-2018.yaml",
+    "title": "Metacognitive Scaffolding Amplifies the Effect of Learning by Teaching a Teachable Agent",
+    "venue": "Lecture notes in computer science",
+    "year": 2018,
+    "cites": 5,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Noboru Matsuda). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1011",
+    "file": "le-ap-1011-campenhout-2024.yaml",
+    "title": "Automatically Generated Practice in the Classroom: Exploring Performance and Impact Across Courses",
+    "venue": "Unknown Venue",
+    "year": 2024,
+    "cites": 4,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Rachel Van Campenhout). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1012",
+    "file": "le-ap-1012-campenhout-2020.yaml",
+    "title": "Supporting Metacognitive Learning Strategies Through an Adaptive Application",
+    "venue": "Lecture notes in computer science",
+    "year": 2020,
+    "cites": 4,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair authorship (Rachel Van Campenhout). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1013",
+    "file": "le-ap-1013-xing-2025.yaml",
+    "title": "Playful Computational Thinking Learning in and Beyond Early Childhood Classrooms: Insights from Collaborative Action Research of Two Teacher-Researchers",
+    "venue": "Education Sciences",
+    "year": 2025,
+    "cites": 2,
+    "current_topic": "T17",
+    "concepts_hint": "Published in Education Sciences. LE-filtered expansion seeded from conference-chair authorship (X. Christine Wang). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1014",
+    "file": "le-ap-1014-kim-2010.yaml",
+    "title": "Dynamics of the Cogwheel Instructional Design Model: Integrating a Central Training Center with Subordinate Training Branches.",
+    "venue": "Educational Technology archive",
+    "year": 2010,
+    "cites": 1,
+    "current_topic": "T07",
+    "concepts_hint": "Published in Educational Technology archive. LE-filtered expansion seeded from conference-chair authorship (Min Kyu Kim). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-1015",
+    "file": "le-ap-1015-troussas-2025.yaml",
+    "title": "A Rule-Based System Integrating Case-Based Reasoning for Adaptive User Interfaces in Personalized Educational Software",
+    "venue": "Unknown Venue",
+    "year": 2025,
+    "cites": 0,
+    "current_topic": "T06",
+    "concepts_hint": "Published in Unknown Venue. LE-filtered expansion seeded from conference-chair authorship (Phivos Mylonas). OpenAlex-seeded; curation pending."
+  },
+  {
+    "id": "LE-AP-102",
+    "file": "le-ap-102-roscoe-2019.yaml",
+    "title": "Automated detection of essay revising patterns: Applications for intelligent writing feedback",
+    "venue": "Technology, Instruction, Cognition and Learning",
+    "year": 2017,
+    "cites": 145,
+    "current_topic": "T07",
+    "concepts_hint": "Developed automated methods for detecting and classifying revision strategies in student essays, enabling intelligent feedback systems to target specific revision behaviors. Demonstrates the LE use ca"
+  },
+  {
+    "id": "LE-AP-103",
+    "file": "le-ap-103-atkinson-2002.yaml",
+    "title": "Optimizing learning from examples using animated pedagogical agents",
+    "venue": "Journal of Educational Psychology",
+    "year": 2002,
+    "cites": 680,
+    "current_topic": "T06",
+    "concepts_hint": "Demonstrated that animated pedagogical agents providing worked-example explanations improved geometry problem-solving learning compared to text-only examples. Established conditions under which embodi"
+  },
+  {
+    "id": "LE-AP-104",
+    "file": "le-ap-104-atkinson-2003.yaml",
+    "title": "Transitioning from studying examples to solving problems: Effects of self-explanation prompts and fading worked-out steps",
+    "venue": "Journal of Educational Psychology",
+    "year": 2003,
+    "cites": 740,
+    "current_topic": "T12",
+    "concepts_hint": "Demonstrated that combining fading (gradually reducing worked-out steps) with self-explanation prompts produces optimal learning during the example-to-problem transition. Provided the empirical basis "
+  },
+  {
+    "id": "LE-AP-105",
+    "file": "le-ap-105-renkl-2003.yaml",
+    "title": "Structuring the Transition From Example Study to Problem Solving in Cognitive Skill Acquisition: A Cognitive Load Perspective",
+    "venue": "Educational Psychologist",
+    "year": 2003,
+    "cites": 860,
+    "current_topic": "T12",
+    "concepts_hint": "Synthesized research on fading strategies for worked examples, providing a cognitive load theory rationale for how gradual reduction of worked steps supports the transition to independent problem solv"
+  },
+  {
+    "id": "LE-AP-106",
+    "file": "le-ap-106-johnson-glenberg-2016.yaml",
+    "title": "Immersive VR and Education: Embodied Design Principles That Include Gesture and Hand Controls",
+    "venue": "Frontiers in Robotics and AI",
+    "year": 2018,
+    "cites": 310,
+    "current_topic": "T08",
+    "concepts_hint": "Developed embodied design principles for immersive VR learning environments, specifying how gesture interactions and hand controllers should be designed to align with the to-be-learned concepts. Provi"
+  },
+  {
+    "id": "LE-AP-107",
+    "file": "le-ap-107-johnson-glenberg-2018.yaml",
+    "title": "STEM lab and mixed reality: Two design heuristics for immersive experiences",
+    "venue": "British Journal of Educational Technology",
+    "year": 2020,
+    "cites": 145,
+    "current_topic": "T08",
+    "concepts_hint": "Proposed and validated two heuristics for designing mixed-reality STEM labs \u2014 embodied congruence (physical actions match concept structure) and agentive interaction (learners cause learning-relevant "
+  },
+  {
+    "id": "LE-AP-108",
+    "file": "le-ap-108-graesser-2001.yaml",
+    "title": "Intelligent Tutoring Systems with Conversational Dialogue",
+    "venue": "AI Magazine",
+    "year": 2001,
+    "cites": 780,
+    "current_topic": "T06",
+    "concepts_hint": "Surveyed conversational ITS systems (AutoTutor, Why2-Atlas, CIRCSIM-Tutor) and identified common dialogue strategies \u2014 expectation failure, Socratic questioning, anchored feedback \u2014 that produce learn"
+  },
+  {
+    "id": "LE-AP-109",
+    "file": "le-ap-109-dmello-2012.yaml",
+    "title": "Dynamics of Affective States During Complex Learning",
+    "venue": "Learning and Instruction",
+    "year": 2012,
+    "cites": 740,
+    "current_topic": "T04",
+    "concepts_hint": "Mapped the temporal flow of learner affect during complex learning tasks, showing that cycles of confusion, frustration, and re-engagement are characteristic of productive deep learning. Provides the "
+  },
+  {
+    "id": "LE-AP-110",
+    "file": "le-ap-110-pavlik-2005.yaml",
+    "title": "Practice and Forgetting Effects on Vocabulary Memory: An Activation-Based Model of the Spacing Effect",
+    "venue": "Cognitive Science",
+    "year": 2005,
+    "cites": 780,
+    "current_topic": "T04",
+    "concepts_hint": "Derived a quantitative activation-based model of how practice and forgetting interact to produce the spacing effect, fitting ACT-R memory parameters to vocabulary learning data. Provided the computati"
+  },
+  {
+    "id": "LE-AP-111",
+    "file": "le-ap-111-pavlik-2011.yaml",
+    "title": "Automaticity in Learning: ACT-R Parameters as Indices of Learning",
+    "venue": "Proceedings of the 33rd Annual Conference of the Cognitive Science Society",
+    "year": 2011,
+    "cites": 155,
+    "current_topic": "T04",
+    "concepts_hint": "Demonstrated that ACT-R memory parameters can serve as indices of learning automaticity, enabling ITS to adaptively sequence practice for both accuracy and fluency. Advances LE system design for maste"
+  },
+  {
+    "id": "LE-AP-112",
+    "file": "le-ap-112-maclellan-2016.yaml",
+    "title": "Apprentice Learner Architecture: Closing the Loop Between Learning Theory and Educational Data",
+    "venue": "Proceedings of the 9th International Conference on Educational Data Mining",
+    "year": 2016,
+    "cites": 115,
+    "current_topic": "T09",
+    "concepts_hint": "Introduced the Apprentice Learner Architecture, a framework for using cognitive learning models as generative student simulators to test and refine ITS instructional policies offline. Advances LE rese"
+  },
+  {
+    "id": "LE-AP-113",
+    "file": "le-ap-113-goel-2013.yaml",
+    "title": "Vitruvius: A Case-Based Advisor for Biomimetic Design",
+    "venue": "Proceedings of the ICCBR Workshop on Case-Based Reasoning in Design and Creative Processes",
+    "year": 2013,
+    "cites": 140,
+    "current_topic": "T06",
+    "concepts_hint": "Described Vitruvius, an AI design advisor that uses biological case analogies to support engineering design. Demonstrates case-based reasoning as an LE system paradigm for complex ill-structured domai"
+  },
+  {
+    "id": "LE-AP-114",
+    "file": "le-ap-114-goel-2015.yaml",
+    "title": "Jill Watson: A Virtual Teaching Assistant for Online Education",
+    "venue": "Georgia Institute of Technology, School of Interactive Computing (Technical Report)",
+    "year": 2016,
+    "cites": 920,
+    "current_topic": "T07",
+    "concepts_hint": "Full technical description of Jill Watson's architecture, training data, deployment methodology, and evaluation in a MOOC setting, demonstrating that an AI TA can handle ~40% of student questions with"
+  }
+]

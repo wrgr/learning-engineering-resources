@@ -1,0 +1,18 @@
+resource_id: LE-AP-806
+content_type: AP
+source: scholar_gap_analysis
+title: "Learning Engineering is a Process"
+authors:
+  - Aaron Kessler
+  - Scotty D. Craig
+  - Jim Goodell
+year: 2022
+doi: "10.4324/9781003276579-5"
+tier: contemporary
+citation_count_approx: 12
+significance: >
+  Learning engineering always begins with a challenge or problem associated with learners
+  and learning. The inputs required to identify the challenge can come from many different
+  sources.
+primary_topic: T03
+secondary_topics: []

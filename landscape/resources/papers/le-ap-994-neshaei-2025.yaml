@@ -1,0 +1,23 @@
+resource_id: LE-AP-994
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Metacognition meets <scp>AI</scp> : Empowering reflective writing with large language models'
+authors:
+- Seyed Parsa Neshaei
+- Paola Mejia‐Domenzain
+- Richard L. Davis
+- Tanja Käser
+year: 2025
+venue: British Journal of Educational Technology
+doi: 10.1111/bjet.13601
+tier: contemporary
+citation_count_approx: 13
+cross_seed_score: 1
+openalex_id: W4410305657
+significance: Published in British Journal of Educational Technology. LE-filtered expansion seeded from conference-chair
+  authorship (Tanja Käser). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T04
+- T07

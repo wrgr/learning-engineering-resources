@@ -1,0 +1,14 @@
+resource_id: LE-IC-005
+content_type: TP
+source: icicle
+status: APPROVED
+name: Five Whys Root-Cause Analysis Template (ICICLE)
+type: tool
+affiliation_or_venue: IEEE ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+primary_topic: T03
+secondary_topics:
+- T09
+description: Google Doc template for applying the Five Whys technique to identify root causes of learning
+  performance gaps. Designed for the LE needs-analysis phase.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

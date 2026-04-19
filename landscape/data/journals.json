@@ -117,5 +117,35 @@
     ],
     "description": "Discipline-based education research (DBER) covering problem-based learning, flipped classrooms, educational robotics, and STEM learning outcomes at scale. Published by Springer Open. Bridges disciplinary content expertise with empirical learning research, providing evidence for domain-specific instructional strategies in science, technology, engineering, and mathematics.\nCritical venue for LE researchers designing domain-specific systems in STEM contexts. IJSTE papers provide the empirical base for content-specific design decisions — what works in undergraduate physics is not always what works in K-12 coding education — and offer validated instruments and outcome measures that LE practitioners can adapt.\n",
     "notes": "Springer Open; covers discipline-based education research (DBER). Key for domain-specific LE design in STEM."
+  },
+  {
+    "resource_id": "LE-JO-008",
+    "content_type": "JO",
+    "source": "landscape_backfill",
+    "status": "APPROVED",
+    "name": "Journal of Cognitive Engineering and Decision Making",
+    "type": "journal",
+    "affiliation_or_venue": "Sage",
+    "url": "",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T02"
+    ],
+    "description": "Adjacent-field journal carried forward from landscape curation; enrichment pending."
+  },
+  {
+    "resource_id": "LE-JO-009",
+    "content_type": "JO",
+    "source": "landscape_backfill",
+    "status": "APPROVED",
+    "name": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+    "type": "journal",
+    "affiliation_or_venue": "Sage",
+    "url": "",
+    "primary_topic": "T09",
+    "secondary_topics": [
+      "T02"
+    ],
+    "description": "Adjacent-field journal carried forward from landscape curation; enrichment pending."
   }
 ]

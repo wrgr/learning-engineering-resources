@@ -1,0 +1,35 @@
+resource_id: LE-PP-295
+content_type: PP
+source: curated
+status: APPROVED
+name: Andrew M. Olney
+affiliation: University of Memphis, Institute for Intelligent Systems
+era: contemporary
+role: AIED 2024 Program Chair; dialogue-based ITS and AutoTutor lineage
+description: 'Professor at the University of Memphis'' Institute for Intelligent Systems. Program Chair for AIED
+  2024. Core contributor to the AutoTutor family of dialogue-based intelligent tutoring systems; research on natural
+  language understanding in tutorial dialogue.
+
+  '
+key_contributions:
+- Program Chair, AIED 2024 (Recife, Brazil)
+- Core contributor to AutoTutor — one of the most influential dialogue-based ITS programs
+- Research on natural-language understanding in tutorial dialogue and generative ITS content
+- Connects Memphis/Graesser lineage to the next AIED generation
+primary_topic: T07
+secondary_topics:
+- T06
+- T05
+url: https://olney.ai/
+notes: AIED 2024 PC. AutoTutor lineage. Dialogue ITS.
+key_works:
+- 'SKOPE-IT (Shareable Knowledge Objects as Portable Intelligent Tutors): overlaying natural language tutoring on
+  an adaptive learning system for mathematics (International Journal of STEM Education, 2018)'
+- Automatic Classification of Question & Answer Discourse Segments from Teacher's Speech in Classrooms (Educational
+  Data Mining, 2015)
+- 'Modeling Classroom Discourse: Do Models That Predict Dialogic Instruction Properties Generalize across Populations?
+  (Educational Data Mining, 2015)'
+- Semi-Automatic Detection of Teacher Questions from Human-Transcripts of Audio in Live Classrooms (Educational
+  Data Mining, 2016)
+- 'AutoTutor: An Intelligent Tutoring System With Mixed-Initiative Dialogue (IEEE Transactions on Education, 2005)'
+openalex_id: https://openalex.org/A5006905045

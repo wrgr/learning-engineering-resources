@@ -1,0 +1,22 @@
+resource_id: LE-AP-998
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Behavioral predictors of MOOC post-course development
+authors:
+- Yuan Wang
+- Ryan S. Baker
+- Luc Paquette
+year: 2017
+venue: Learning Analytics and Knowledge
+doi: ''
+tier: contemporary
+citation_count_approx: 10
+cross_seed_score: 1
+openalex_id: W2884691827
+significance: Published in Learning Analytics and Knowledge. LE-filtered expansion seeded from conference-chair
+  authorship (Luc Paquette). OpenAlex-seeded; curation pending.
+primary_topic: T04
+secondary_topics:
+- T06
+- T17

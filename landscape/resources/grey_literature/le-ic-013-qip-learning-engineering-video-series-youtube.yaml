@@ -1,0 +1,17 @@
+resource_id: LE-IC-013
+content_type: GL
+source: icicle
+status: APPROVED
+title: QIP Learning Engineering Video Series (YouTube playlist)
+authors:
+- QIP Learning Engineering Video Series
+publisher: Quality Information Partners / ICICLE
+url: https://sagroups.ieee.org/icicle/resources/
+type: report
+primary_topic: T00
+secondary_topics:
+- T03
+- T16
+significance: YouTube playlist produced by Quality Information Partners featuring practitioners and researchers
+  discussing learning engineering principles, case studies, and field development.
+notes: Harvested from sagroups.ieee.org/icicle/resources/ Dec 2025

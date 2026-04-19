@@ -1,0 +1,21 @@
+resource_id: LE-AP-1014
+content_type: AP
+source: openalex_expansion
+status: seed
+title: 'Dynamics of the Cogwheel Instructional Design Model: Integrating a Central Training Center with Subordinate
+  Training Branches.'
+authors:
+- Min Kyu Kim
+year: 2010
+venue: Educational Technology archive
+doi: ''
+tier: contemporary
+citation_count_approx: 1
+cross_seed_score: 1
+openalex_id: W2993724660
+significance: Published in Educational Technology archive. LE-filtered expansion seeded from conference-chair authorship
+  (Min Kyu Kim). OpenAlex-seeded; curation pending.
+primary_topic: T07
+secondary_topics:
+- T04
+- T06

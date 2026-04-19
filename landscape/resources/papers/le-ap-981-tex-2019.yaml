@@ -1,0 +1,28 @@
+resource_id: LE-AP-981
+content_type: AP
+source: openalex_expansion
+status: seed
+title: Foundations and Trends in Smart Learning
+authors:
+- International Conference on Smart Learning Environments 2019 Denton, Tex.
+- Maiga Chang
+- Elvira Popescu
+- Kinshuk 1970-
+- Nian‐Shing Chen
+- Mohamed Jemni
+- Ronghuai Huang
+- J. Michael Spector
+- Demetrios G. Sampson
+year: 2019
+venue: Lecture notes in educational technology
+doi: 10.1007/978-981-13-6908-7
+tier: contemporary
+citation_count_approx: 18
+cross_seed_score: 1
+openalex_id: W4237397667
+significance: Published in Lecture notes in educational technology. LE-filtered expansion seeded from conference-chair
+  authorship (Elvira Popescu). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T04
+- T03

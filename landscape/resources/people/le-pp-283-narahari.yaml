@@ -1,0 +1,22 @@
+resource_id: LE-PP-283
+content_type: PP
+source: curated
+status: APPROVED
+name: Y. Narahari
+affiliation: "Indian Institute of Science (IISc), Bangalore"
+era: contemporary
+role: EDM 2023 General Chair (host); game theory and mechanism design for learning platforms
+description: >
+  Professor at IISc Bangalore; local host lead for EDM 2023. Research on game theory and
+  mechanism design applied to learning platforms, crowdsourcing, and multi-agent AI —
+  bringing an economic/strategic lens to EDM.
+key_contributions:
+  - "General Chair (host), EDM 2023 (Bengaluru, India) — anchored the first EDM in India"
+  - Applies game theory and mechanism design to incentives in online learning and crowdsourcing
+  - Connected the Indian AI/CS research community to the global EDM venue
+primary_topic: T04
+secondary_topics:
+  - T07
+  - T11
+url: "https://www.dese.iisc.ac.in/faculty/y-narahari/"
+notes: EDM 2023 GC (host). Game theory for learning platforms.

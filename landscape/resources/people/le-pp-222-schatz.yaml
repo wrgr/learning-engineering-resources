@@ -1,0 +1,21 @@
+resource_id: LE-PP-222
+content_type: PP
+source: goodell_book_backfill
+status: APPROVED
+name: Sae Schatz
+affiliation: ADL
+era: contemporary
+role: Former Director, Advanced Distributed Learning (ADL) Initiative; adaptive and personalized learning.
+description: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Former Director, Advanced Distributed
+  Learning (ADL) Initiative; adaptive and personalized learning.
+key_works:
+- Tractable POMDP representations for intelligent tutoring systems (ACM Transactions on Intelligent Systems and
+  Technology, 2013)
+- Scalable POMDPs for Diagnosis and Planning in Intelligent Tutoring Systems (Journal of International Crisis and
+  Risk Communication Research, 2010)
+primary_topic: T00
+secondary_topics: []
+url: https://openalex.org/A5005728644
+openalex_id: https://openalex.org/A5005728644
+notes: Contributor to Goodell & Kolodner (2022) Learning Engineering Toolkit. Affiliation and top works auto-populated
+  from OpenAlex author https://openalex.org/A5005728644; verify on review.

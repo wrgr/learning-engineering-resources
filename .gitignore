@@ -1,4 +1,22 @@
+# Node / site
 /web/knowledge-graph-sigma-starter/node_modules
+node_modules/
+
+# Secrets
 .env
 .env.*
 !.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+venv/
+.venv/
+
+# macOS
+.DS_Store

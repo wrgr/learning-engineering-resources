@@ -1,0 +1,22 @@
+resource_id: LE-AP-1006
+content_type: AP
+source: openalex_expansion
+status: seed
+title: A Review on Visualization of Educational Data in Online Learning
+authors:
+- M. Ali Akber Dewan
+- Walter Moreno Pachon
+- Fuhua Lin
+year: 2021
+venue: Lecture notes in computer science
+doi: 10.1007/978-3-030-66906-5_2
+tier: contemporary
+citation_count_approx: 6
+cross_seed_score: 1
+openalex_id: W3123230313
+significance: Published in Lecture notes in computer science. LE-filtered expansion seeded from conference-chair
+  authorship (Fuhua (Oscar) Lin). OpenAlex-seeded; curation pending.
+primary_topic: T06
+secondary_topics:
+- T07
+- T11
